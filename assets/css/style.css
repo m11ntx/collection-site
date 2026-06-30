@@ -1,0 +1,25 @@
+body{
+    background:#111;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-direction:column;
+    height:100vh;
+    margin:0;
+}
+
+h1{
+    font-size:64px;
+    letter-spacing:12px;
+}
+
+h2{
+    color:#B79A52;
+    letter-spacing:6px;
+}
+
+p{
+    opacity:.8;
+}
