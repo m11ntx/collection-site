@@ -1,1 +1,31 @@
-[]
+[
+  { "id": 1,  "slug": "ac-milan",          "name": "AC Milan",          "collection": "serie-a",        "country": "Italy",   "founded": 1899, "image": "" },
+  { "id": 2,  "slug": "inter-milan",       "name": "Inter Milan",       "collection": "serie-a",        "country": "Italy",   "founded": 1908, "image": "" },
+  { "id": 3,  "slug": "juventus",          "name": "Juventus",          "collection": "serie-a",        "country": "Italy",   "founded": 1897, "image": "" },
+  { "id": 4,  "slug": "napoli",            "name": "Napoli",            "collection": "serie-a",        "country": "Italy",   "founded": 1926, "image": "" },
+
+  { "id": 5,  "slug": "manchester-united", "name": "Manchester United", "collection": "premier-league", "country": "England", "founded": 1878, "image": "" },
+  { "id": 6,  "slug": "arsenal",           "name": "Arsenal",           "collection": "premier-league", "country": "England", "founded": 1886, "image": "" },
+  { "id": 7,  "slug": "liverpool",         "name": "Liverpool",         "collection": "premier-league", "country": "England", "founded": 1892, "image": "" },
+  { "id": 8,  "slug": "chelsea",           "name": "Chelsea",           "collection": "premier-league", "country": "England", "founded": 1905, "image": "" },
+
+  { "id": 9,  "slug": "real-madrid",       "name": "Real Madrid",       "collection": "la-liga",        "country": "Spain",   "founded": 1902, "image": "" },
+  { "id": 10, "slug": "barcelona",         "name": "Barcelona",         "collection": "la-liga",        "country": "Spain",   "founded": 1899, "image": "" },
+  { "id": 11, "slug": "valencia",          "name": "Valencia",          "collection": "la-liga",        "country": "Spain",   "founded": 1919, "image": "" },
+  { "id": 12, "slug": "atletico-madrid",   "name": "Atlético Madrid",   "collection": "la-liga",        "country": "Spain",   "founded": 1903, "image": "" },
+
+  { "id": 13, "slug": "bayern-munich",     "name": "Bayern Munich",     "collection": "bundesliga",     "country": "Germany", "founded": 1900, "image": "" },
+  { "id": 14, "slug": "borussia-dortmund", "name": "Borussia Dortmund", "collection": "bundesliga",     "country": "Germany", "founded": 1909, "image": "" },
+  { "id": 15, "slug": "werder-bremen",     "name": "Werder Bremen",     "collection": "bundesliga",     "country": "Germany", "founded": 1899, "image": "" },
+  { "id": 16, "slug": "hamburger-sv",      "name": "Hamburger SV",      "collection": "bundesliga",     "country": "Germany", "founded": 1887, "image": "" },
+
+  { "id": 17, "slug": "marseille",         "name": "Marseille",         "collection": "ligue-1",        "country": "France",  "founded": 1899, "image": "" },
+  { "id": 18, "slug": "psg",               "name": "Paris Saint-Germain","collection": "ligue-1",       "country": "France",  "founded": 1970, "image": "" },
+  { "id": 19, "slug": "monaco",            "name": "Monaco",            "collection": "ligue-1",        "country": "France",  "founded": 1924, "image": "" },
+  { "id": 20, "slug": "lyon",              "name": "Lyon",              "collection": "ligue-1",        "country": "France",  "founded": 1950, "image": "" },
+
+  { "id": 21, "slug": "flamengo",          "name": "Flamengo",          "collection": "brasileirao",    "country": "Brazil",  "founded": 1895, "image": "" },
+  { "id": 22, "slug": "palmeiras",         "name": "Palmeiras",         "collection": "brasileirao",    "country": "Brazil",  "founded": 1914, "image": "" },
+  { "id": 23, "slug": "sao-paulo",         "name": "São Paulo",         "collection": "brasileirao",    "country": "Brazil",  "founded": 1930, "image": "" },
+  { "id": 24, "slug": "santos",            "name": "Santos",            "collection": "brasileirao",    "country": "Brazil",  "founded": 1912, "image": "" }
+]

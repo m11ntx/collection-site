@@ -12,10 +12,15 @@ const UI = (() => {
         const landing = document.getElementById("top");
         if (!nav) return;
 
-        // Reveal the bar only after the hero has been scrolled past,
+        // Subpages (no hero): keep the bar visible at all times.
+        if (!landing) {
+            nav.classList.add("is-stuck");
+            return;
+        }
+
+        // Home: reveal the bar only after the hero has been scrolled past,
         // so the approved landing stays untouched at the top.
-        const threshold = () =>
-            (landing ? landing.offsetHeight - 90 : window.innerHeight * 0.7);
+        const threshold = () => landing.offsetHeight - 90;
 
         let ticking = false;
         function update() {
@@ -121,7 +126,7 @@ const UI = (() => {
     function initReveal() {
         document.addEventListener("collections:rendered", (e) => {
             const grid = (e.detail && e.detail.grid) || document;
-            const cards = grid.querySelectorAll(".collection-card.reveal");
+            const cards = grid.querySelectorAll(".reveal");
 
             if (!("IntersectionObserver" in window)) {
                 cards.forEach((c) => c.classList.remove("reveal"));

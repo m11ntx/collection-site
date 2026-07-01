@@ -2,12 +2,17 @@
  * main.js
  * Application bootstrap for M11NTX.
  *
- * Wiring: API (data)  ->  Catalog (render)  ->  UI (behavior)
+ * Wiring: API (data) -> Catalog (render) -> UI (behavior)
  * UI is initialized first so its "collections:rendered" listener is ready
- * before Catalog renders and dispatches. Catalog pulls data through API.
+ * before Catalog renders. The right Catalog entry point is chosen by page.
  */
 
 document.addEventListener("DOMContentLoaded", () => {
-    if (window.UI) UI.init();          // scroll, hover, animations, menu, search
-    if (window.Catalog) Catalog.init(); // fetch via API + render the grid
+    if (window.UI) UI.init();
+
+    if (window.Catalog) {
+        if (document.getElementById("catalogGrid")) Catalog.init();            // index
+        if (document.getElementById("collectionDetail")) Catalog.initDetail();  // collection
+        if (document.getElementById("clubDetail")) Catalog.initClubPage();      // club
+    }
 });

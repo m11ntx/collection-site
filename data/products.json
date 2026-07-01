@@ -1,1 +1,21 @@
-[]
+[
+  { "id": 101, "clubId": 5, "slug": "man-united-home-1998-99", "name": "Home 1998/99", "brand": "Umbro", "type": "Home", "category": "Retro", "season": "1998/99", "image": "" },
+  { "id": 102, "clubId": 5, "slug": "man-united-away-1998-99", "name": "Away 1998/99", "brand": "Umbro", "type": "Away", "category": "Retro", "season": "1998/99", "image": "" },
+  { "id": 103, "clubId": 5, "slug": "man-united-home-1994-95", "name": "Home 1994/95", "brand": "Umbro", "type": "Home", "category": "Retro", "season": "1994/95", "image": "" },
+  { "id": 104, "clubId": 5, "slug": "man-united-third-1998-99", "name": "Third 1998/99", "brand": "Umbro", "type": "Third", "category": "Retro", "season": "1998/99", "image": "" },
+
+  { "id": 105, "clubId": 1, "slug": "ac-milan-home-1993-94", "name": "Home 1993/94", "brand": "Lotto", "type": "Home", "category": "Retro", "season": "1993/94", "image": "" },
+  { "id": 106, "clubId": 1, "slug": "ac-milan-home-1989-90", "name": "Home 1989/90", "brand": "Kappa", "type": "Home", "category": "Retro", "season": "1989/90", "image": "" },
+  { "id": 107, "clubId": 1, "slug": "ac-milan-away-1995-96", "name": "Away 1995/96", "brand": "Lotto", "type": "Away", "category": "Retro", "season": "1995/96", "image": "" },
+
+  { "id": 108, "clubId": 9, "slug": "real-madrid-home-2001-02", "name": "Home 2001/02", "brand": "Adidas", "type": "Home", "category": "Retro", "season": "2001/02", "image": "" },
+  { "id": 109, "clubId": 9, "slug": "real-madrid-home-1997-98", "name": "Home 1997/98", "brand": "Kelme", "type": "Home", "category": "Retro", "season": "1997/98", "image": "" },
+  { "id": 110, "clubId": 9, "slug": "real-madrid-away-2002-03", "name": "Away 2002/03", "brand": "Adidas", "type": "Away", "category": "Retro", "season": "2002/03", "image": "" },
+
+  { "id": 111, "clubId": 13, "slug": "bayern-home-1999-00", "name": "Home 1999/00", "brand": "Adidas", "type": "Home", "category": "Retro", "season": "1999/00", "image": "" },
+  { "id": 112, "clubId": 13, "slug": "bayern-home-1993-94", "name": "Home 1993/94", "brand": "Adidas", "type": "Home", "category": "Retro", "season": "1993/94", "image": "" },
+
+  { "id": 113, "clubId": 21, "slug": "flamengo-home-1995", "name": "Home 1995", "brand": "Umbro", "type": "Home", "category": "Retro", "season": "1995", "image": "" },
+  { "id": 114, "clubId": 21, "slug": "flamengo-home-1990", "name": "Home 1990", "brand": "Adidas", "type": "Home", "category": "Retro", "season": "1990", "image": "" },
+  { "id": 115, "clubId": 21, "slug": "flamengo-away-1994", "name": "Away 1994", "brand": "Umbro", "type": "Away", "category": "Retro", "season": "1994", "image": "" }
+]

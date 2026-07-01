@@ -37,7 +37,10 @@ HTML  →  JSON  →  API  →  Catalog  →  UI  →  Screen
 
 ```
 collection-site/
-├── index.html
+├── index.html                   # landing + collections grid
+├── pages/
+│   ├── collection.html          # dynamic collection detail (?slug=…)
+│   └── club.html                # dynamic club page + jerseys (?slug=…)
 ├── assets/
 │   ├── css/
 │   │   └── style.css            # design system + all sections
@@ -58,12 +61,11 @@ collection-site/
 │   │   └── (brand assets: logo, hero, escudo, symbol, favicons…)
 │   └── icons/                   # favicon pack + webmanifest
 ├── data/
-│   ├── collections.json         # 6 collections (populated)
-│   ├── leagues.json             # []  (ready)
-│   ├── clubs.json               # []  (ready)
-│   └── products.json            # []  (ready)
+│   ├── collections.json         # collections (populated)
+│   ├── clubs.json               # clubs, linked to collections (populated)
+│   ├── products.json            # jerseys, linked to clubs (populated)
+│   └── leagues.json             # []  (ready)
 ├── components/                  # reserved
-├── pages/                       # reserved
 ├── docs/
 │   └── DESIGN_SYSTEM.md
 └── scripts/
@@ -86,6 +88,57 @@ collection-site/
 | `description` | string  | short description                    |
 | `image`       | string  | image name/slug/path (empty = branded placeholder) |
 | `featured`    | boolean | highlight flag                       |
+
+### Club (`data/clubs.json`)
+
+| field        | type    | description                                   |
+|--------------|---------|-----------------------------------------------|
+| `id`         | number  | unique id                                     |
+| `slug`       | string  | url-safe identifier                           |
+| `name`       | string  | club name                                     |
+| `collection` | string  | parent collection slug (used to filter)       |
+| `country`    | string  | country                                       |
+| `founded`    | number  | year founded                                  |
+| `image`      | string  | image name/slug/path (empty = branded placeholder) |
+
+### Jersey / product (`data/products.json`)
+
+| field       | type    | description                                   |
+|-------------|---------|-----------------------------------------------|
+| `id`        | number  | unique id                                     |
+| `clubId`    | number  | parent club id (used to filter)               |
+| `slug`      | string  | url-safe identifier                           |
+| `name`      | string  | jersey name (e.g. `Home 1998/99`)             |
+| `brand`     | string  | manufacturer (e.g. `Umbro`)                   |
+| `type`      | string  | Home / Away / Third / …                       |
+| `category`  | string  | Retro / Authentic / …                         |
+| `season`    | string  | season (e.g. `1998/99`)                       |
+| `image`     | string  | image name/slug/path (empty = branded placeholder) |
+
+---
+
+## Pages & navigation
+
+```
+Landing (index)
+  → Collection detail  (pages/collection.html?slug=…)
+    → Club             (pages/club.html?slug=…)
+      → Jersey         (View Details — future)
+```
+
+- The Collections grid on `index.html` links each card to
+  `pages/collection.html?slug=<slug>`.
+- **Collection detail** reads `slug` from the URL, looks it up in
+  `collections.json`, renders the banner (image, name, country, period,
+  description), then renders clubs from `clubs.json` filtered by
+  `collection === slug`. Each club links to its club page.
+- **Club page** reads `slug`, looks up the club in `clubs.json`, resolves its
+  league name from `collections.json`, then renders the crest, name, league,
+  jersey count and the jersey grid from `products.json` filtered by
+  `clubId === club.id`.
+- Unknown slugs render a graceful "not found" state.
+- Subpages reuse the navbar and footer via `<base href="../">` so all paths
+  resolve from the site root.
 
 ---
 

@@ -1,5 +1,40 @@
 # CHANGELOG
 
+## Sprint 08 - Club Catalog
+
+### Added
+- pages/club.html: dynamic club page (reads ?slug= from URL)
+- Club hero (crest, name, league, jersey count) from clubs.json + collections.json
+- Jersey grid rendered from products.json, filtered by clubId
+- Jersey card: image, name, brand, type, category, season + View Details
+- data/products.json seeded (jerseys across several clubs); empty archive state
+- Navigation chain live: Collection -> Club -> Jerseys (Jersey detail future)
+
+### Changed
+- Club cards on the collection page link to the club page (stretched link)
+- catalog.js: added initClubPage() + jersey rendering (reusable helpers)
+
+### Preserved
+- Landing, Collections, navbar, footer, design, architecture unchanged
+
+## Sprint 07 - Collection Details
+
+### Added
+- pages/collection.html: dynamic collection detail page (reads ?slug= from URL)
+- Banner (image, name, country, period, description) rendered from collections.json
+- Club cards rendered from clubs.json, filtered by collection slug ("Jerseys soon")
+- data/clubs.json seeded (24 clubs across the 6 collections)
+- Breadcrumb + navigation chain: Collection -> Club -> (Jersey future)
+- Graceful "not found" state for unknown slugs
+
+### Changed
+- Collection cards link to the detail page (whole card clickable via stretched link)
+- catalog.js: added initDetail(), club rendering; reveal generalized to any .reveal
+- Navbar reused on subpages (always visible when there is no hero)
+
+### Preserved
+- Landing, navbar, footer, Collections grid, design system unchanged
+
 ## Sprint 06 - Asset Pipeline
 
 ### Added
