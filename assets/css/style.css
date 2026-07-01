@@ -907,6 +907,21 @@ body::after{
     display:block;
 }
 
+/* ---------- asset pipeline (Sprint 6): lazy images ---------- */
+.img-lazy{
+    opacity:0;
+    transition:opacity .45s ease;
+}
+.img-lazy.is-loaded{
+    opacity:1;
+}
+/* branded fallback shown when an image fails to load */
+.img-lazy.is-fallback{
+    object-fit:contain;
+    padding:22%;
+    opacity:.32;
+}
+
 /* empty state */
 .catalog__empty{
     grid-column:1 / -1;

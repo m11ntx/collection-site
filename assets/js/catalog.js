@@ -23,9 +23,12 @@ const Catalog = (() => {
     }
 
     function media(c) {
-        if (c.image) {
-            return `<img class="collection-card__photo" src="${esc(c.image)}"
-                         alt="${esc(c.name)}" loading="lazy" decoding="async">`;
+        if (c.image && window.ImageLoader) {
+            const src = ImageLoader.getImage("collections", c.image);
+            return ImageLoader.imageTag(src, {
+                alt: c.name,
+                className: "collection-card__photo"
+            });
         }
         // no image yet -> branded placeholder (matches the approved design)
         return `<img class="collection-card__mark" src="assets/images/symbol.png"
@@ -65,6 +68,8 @@ const Catalog = (() => {
         if (!grid) return;
         grid.innerHTML = list.map(collectionCard).join("");
         grid.setAttribute("aria-busy", "false");
+        // hydrate lazy images (fade-in on load, fallback on error)
+        if (window.ImageLoader) ImageLoader.hydrate(grid);
         // hand off to UI for reveal animations
         document.dispatchEvent(new CustomEvent("collections:rendered", { detail: { grid } }));
     }
