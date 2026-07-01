@@ -154,6 +154,46 @@ const UI = (() => {
         });
     }
 
+    /* ---------- premium jersey gallery (swap · fade · zoom) ---------- */
+    function initGallery() {
+        document.addEventListener("jersey:rendered", (e) => {
+            const root = (e.detail && e.detail.root) || document;
+            const main = root.querySelector(".gallery__main");
+            const img = root.querySelector("#galleryImg");
+            const thumbs = root.querySelectorAll(".gallery__thumb");
+
+            // thumbnail -> swap main image with a fade
+            thumbs.forEach((thumb) => {
+                thumb.addEventListener("click", () => {
+                    const src = thumb.getAttribute("data-src");
+                    if (!img || !src || src === img.getAttribute("src")) return;
+                    img.classList.add("is-fading");
+                    window.setTimeout(() => {
+                        img.setAttribute("src", src);
+                        img.classList.remove("is-fading");
+                    }, 180);
+                    thumbs.forEach((t) => t.classList.remove("is-active"));
+                    thumb.classList.add("is-active");
+                });
+            });
+
+            // cursor-follow zoom (pointer devices only)
+            if (main && img && window.matchMedia("(hover: hover)").matches) {
+                main.addEventListener("mousemove", (ev) => {
+                    const r = main.getBoundingClientRect();
+                    const x = ((ev.clientX - r.left) / r.width) * 100;
+                    const y = ((ev.clientY - r.top) / r.height) * 100;
+                    img.style.transformOrigin = `${x}% ${y}%`;
+                    img.style.transform = "scale(2.2)";
+                });
+                main.addEventListener("mouseleave", () => {
+                    img.style.transform = "";
+                    img.style.transformOrigin = "center";
+                });
+            }
+        });
+    }
+
     function init() {
         initNav();
         initMobileMenu();
@@ -161,6 +201,7 @@ const UI = (() => {
         initKeyboard();
         initPlaceholders();
         initReveal();
+        initGallery();
     }
 
     return { init };

@@ -1,5 +1,25 @@
 # CHANGELOG
 
+## Sprint 09 - Jersey Product Experience + Pipeline Ready
+
+### Added
+- pages/jersey.html: dynamic jersey detail page (reads ?slug= from URL)
+- Renders name, league, club, brand, season, category, type, version, gender
+- Premium gallery (main image + thumbnails, fade swap, cursor-follow zoom) — no libraries
+- Sizes from the official sizes[] structure `[{ size, stock }]` (renders only existing sizes)
+- Stock-aware: `available` computed from stock; OUT OF STOCK badge + disabled buy (RN-006/007)
+- Breadcrumb Collection > Club > Jersey; "Comprar na Feng" button (buyUrl)
+- Docs: docs/BUSINESS-RULES.md (RN-001…RN-012) applied; docs/catalog-pipeline.md (future architecture)
+- README: Architecture (current + future), Roadmap, next sprints
+
+### Changed
+- Jersey card "View Details" links to the jersey page (flow completed)
+- products.json: sizes as {size, stock}, plus version, gender, images[], buyUrl
+- catalog.js: initJerseyPage() + gallery/stock templates; ui.js: gallery interactions
+
+### Preserved
+- Landing, Collections, Collection detail, Club catalog, navbar, footer, design unchanged
+
 ## Sprint 08 - Club Catalog
 
 ### Added

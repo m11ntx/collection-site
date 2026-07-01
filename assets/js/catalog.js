@@ -224,7 +224,8 @@ const Catalog = (() => {
                     <p class="jersey-card__brand">${esc(p.brand)}</p>
                     <h3 class="jersey-card__name">${name}</h3>
                     <p class="jersey-card__meta">${meta}</p>
-                    <a class="btn btn--secondary jersey-card__cta" href="#" data-soon
+                    <a class="btn btn--secondary jersey-card__cta"
+                       href="pages/jersey.html?slug=${encodeURIComponent(p.slug)}"
                        aria-label="View details of ${name}">
                         View Details <span class="arrow" aria-hidden="true">&rarr;</span>
                     </a>
@@ -277,6 +278,136 @@ const Catalog = (() => {
                     <div class="grid" id="jerseysGrid" role="list" aria-busy="true"></div>
                 </div>
             </section>`;
+    }
+
+    /* ---------- jersey page (details + gallery) ---------- */
+
+    function galleryImages(p) {
+        const arr = Array.isArray(p.images) && p.images.length
+            ? p.images
+            : (p.image ? [p.image] : []);
+        return arr.map((name) =>
+            window.ImageLoader ? ImageLoader.getImage("jerseys", name) : name);
+    }
+
+    function jerseyGallery(p) {
+        const imgs = galleryImages(p);
+        if (!imgs.length) {
+            // no photos yet -> branded placeholder, no thumbnails
+            return `
+                <div class="gallery">
+                    <div class="gallery__main">
+                        <div class="gallery__stage gallery__stage--placeholder">
+                            ${brandedMark("gallery__mark", [220, 154])}
+                        </div>
+                    </div>
+                </div>`;
+        }
+        const thumbs = imgs.map((src, i) => `
+                <button type="button" class="gallery__thumb${i === 0 ? " is-active" : ""}"
+                        data-src="${esc(src)}" aria-label="View image ${i + 1}">
+                    <img class="img-lazy" src="${esc(src)}" alt="" loading="lazy" decoding="async">
+                </button>`).join("");
+        return `
+            <div class="gallery">
+                <div class="gallery__main" id="galleryMain">
+                    <img class="gallery__img" id="galleryImg" src="${esc(imgs[0])}"
+                         alt="${esc(p.name)}" decoding="async">
+                </div>
+                ${imgs.length > 1 ? `<div class="gallery__thumbs">${thumbs}</div>` : ""}
+            </div>`;
+    }
+
+    function specRow(label, valueHtml) {
+        return valueHtml
+            ? `<div class="spec"><dt>${esc(label)}</dt><dd>${valueHtml}</dd></div>`
+            : "";
+    }
+
+    function jerseyDetailTemplate(p, club, collection) {
+        const name = esc(p.name);
+        const clubLink = club
+            ? `<a class="link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${esc(club.name)}</a>`
+            : "";
+        const leagueLink = collection
+            ? `<a class="link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(collection.name)}</a>`
+            : "";
+        const crumbColl = collection
+            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(collection.name)}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const crumbClub = club
+            ? `<a class="breadcrumb__link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${esc(club.name)}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const lead = [clubLink, leagueLink].filter(Boolean).join(" · ");
+
+        // sizes — official structure is [{ size, stock }] (RN-006).
+        // Accept legacy string entries too.
+        const sizeList = (Array.isArray(p.sizes) ? p.sizes : []).map((s) =>
+            typeof s === "string"
+                ? { size: s, stock: 1 }
+                : { size: s.size, stock: Number(s.stock) || 0 });
+
+        // availability is computed from stock (RN-007), never trusted as input
+        const inStock = sizeList.some((s) => s.stock > 0);
+
+        const stockBadge = inStock
+            ? `<span class="badge jersey__stock">In Stock</span>`
+            : `<span class="badge badge--out jersey__stock">Out of Stock</span>`;
+
+        // render only the sizes that exist; stock-0 sizes are shown disabled
+        const sizesBlock = sizeList.length
+            ? `<div class="sizes">
+                   <p class="sizes__label">Sizes</p>
+                   <div class="sizes__list">
+                       ${sizeList.map((s) =>
+                           `<span class="size-chip${s.stock > 0 ? "" : " is-disabled"}">${esc(s.size)}</span>`
+                       ).join("")}
+                   </div>
+               </div>`
+            : "";
+
+        let buy;
+        if (!inStock) {
+            buy = `<button class="btn btn--primary jersey__buy" type="button" disabled>Out of Stock</button>`;
+        } else if (p.buyUrl) {
+            buy = `<a class="btn btn--primary jersey__buy" href="${esc(p.buyUrl)}"
+                      target="_blank" rel="noopener">Comprar na Feng
+                      <span class="arrow" aria-hidden="true">&rarr;</span></a>`;
+        } else {
+            buy = `<button class="btn btn--primary jersey__buy" type="button" disabled>Coming soon</button>`;
+        }
+
+        return `
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <a class="breadcrumb__link" href="index.html#collections">Collections</a>
+                <span class="breadcrumb__sep" aria-hidden="true">/</span>
+                ${crumbColl}${crumbClub}
+                <span class="breadcrumb__current" aria-current="page">${name}</span>
+            </nav>
+
+            <div class="jersey">
+                <div class="jersey__gallery">${jerseyGallery(p)}</div>
+                <div class="jersey__info">
+                    <div class="jersey__eyebrow-row">
+                        <p class="detail__eyebrow">Jersey</p>
+                        ${stockBadge}
+                    </div>
+                    <h1 class="detail__title">${name}</h1>
+                    ${lead ? `<p class="jersey__lead">${lead}</p>` : ""}
+                    <dl class="specs">
+                        ${specRow("Brand", esc(p.brand))}
+                        ${specRow("Type", esc(p.type))}
+                        ${specRow("Category", esc(p.category))}
+                        ${specRow("Season", esc(p.season))}
+                        ${specRow("Version", esc(p.version))}
+                        ${specRow("Gender", esc(p.gender))}
+                    </dl>
+                    ${sizesBlock}
+                    ${buy}
+                </div>
+            </div>`;
     }
 
     /* ---------- init ---------- */
@@ -351,8 +482,37 @@ const Catalog = (() => {
         renderJerseys(document.getElementById("jerseysGrid"), jerseys);
     }
 
+    async function initJerseyPage() {
+        const root = document.getElementById("jerseyDetail");
+        if (!root) return;
+
+        const slug = getParam("slug");
+        const [products, clubs, collections] = await Promise.all([
+            API.getProducts(), API.getClubs(), API.getCollections()
+        ]);
+
+        const jersey = Array.isArray(products) ? products.find((p) => p.slug === slug) : null;
+        if (!jersey) {
+            renderNotFound(root, "Jersey");
+            return;
+        }
+
+        const club = Array.isArray(clubs) ? clubs.find((c) => c.id === jersey.clubId) : null;
+        const collection = club && Array.isArray(collections)
+            ? collections.find((c) => c.slug === club.collection)
+            : null;
+
+        document.title = `M11NTX | ${jersey.name}`;
+        root.innerHTML = jerseyDetailTemplate(jersey, club, collection);
+        root.setAttribute("aria-busy", "false");
+        if (window.ImageLoader) ImageLoader.hydrate(root);
+
+        // hand off to UI to wire the gallery (swap / fade / zoom)
+        document.dispatchEvent(new CustomEvent("jersey:rendered", { detail: { root } }));
+    }
+
     return {
-        init, initDetail, initClubPage,
+        init, initDetail, initClubPage, initJerseyPage,
         renderSkeletons, renderCollections, renderClubs, renderJerseys
     };
 })();

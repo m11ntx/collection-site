@@ -14,5 +14,6 @@ document.addEventListener("DOMContentLoaded", () => {
         if (document.getElementById("catalogGrid")) Catalog.init();            // index
         if (document.getElementById("collectionDetail")) Catalog.initDetail();  // collection
         if (document.getElementById("clubDetail")) Catalog.initClubPage();      // club
+        if (document.getElementById("jerseyDetail")) Catalog.initJerseyPage();  // jersey
     }
 });

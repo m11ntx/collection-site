@@ -40,7 +40,8 @@ collection-site/
 ├── index.html                   # landing + collections grid
 ├── pages/
 │   ├── collection.html          # dynamic collection detail (?slug=…)
-│   └── club.html                # dynamic club page + jerseys (?slug=…)
+│   ├── club.html                # dynamic club page + jerseys (?slug=…)
+│   └── jersey.html              # dynamic jersey detail + gallery (?slug=…)
 ├── assets/
 │   ├── css/
 │   │   └── style.css            # design system + all sections
@@ -113,7 +114,9 @@ collection-site/
 | `type`      | string  | Home / Away / Third / …                       |
 | `category`  | string  | Retro / Authentic / …                         |
 | `season`    | string  | season (e.g. `1998/99`)                       |
-| `image`     | string  | image name/slug/path (empty = branded placeholder) |
+| `image`     | string  | card thumbnail (empty = branded placeholder)  |
+| `images`    | array   | gallery images (empty = branded placeholder)  |
+| `buyUrl`    | string  | external "Comprar na Feng" link               |
 
 ---
 
@@ -123,7 +126,7 @@ collection-site/
 Landing (index)
   → Collection detail  (pages/collection.html?slug=…)
     → Club             (pages/club.html?slug=…)
-      → Jersey         (View Details — future)
+      → Jersey         (pages/jersey.html?slug=…)
 ```
 
 - The Collections grid on `index.html` links each card to
@@ -136,6 +139,11 @@ Landing (index)
   league name from `collections.json`, then renders the crest, name, league,
   jersey count and the jersey grid from `products.json` filtered by
   `clubId === club.id`.
+- **Jersey page** reads `slug`, looks up the jersey in `products.json`, resolves
+  its club and league, and renders the details (name, club, league, brand, type,
+  category, season) with a **premium gallery** (main image + thumbnails, fade
+  swap and cursor-follow zoom — no libraries) and a **Comprar na Feng** button
+  (`buyUrl`).
 - Unknown slugs render a graceful "not found" state.
 - Subpages reuse the navbar and footer via `<base href="../">` so all paths
   resolve from the site root.
@@ -183,3 +191,46 @@ GitHub Pages serves it over HTTP automatically — no configuration needed.
 - The **hero / landing is frozen** — do not restyle it.
 - See [`docs/DESIGN_SYSTEM.md`](docs/DESIGN_SYSTEM.md) for palette, type and brand assets,
   and [`CHANGELOG.md`](CHANGELOG.md) for the sprint history.
+
+---
+
+## Architecture (current + future)
+
+**Today** — a fully static, JSON-driven storefront:
+
+```
+data/*.json  →  api.js  →  catalog.js  →  ui.js  →  screen
+```
+
+**Next** — a **Catalog Pipeline** that will generate `data/*.json` from external
+sources. It is documented but not implemented; the storefront is already ready
+to consume its output with no refactoring (JSON stays the single source of truth):
+
+```
+Sources → Adapters → Parser → Validator → Assets → Generator → Publisher → data/*.json
+```
+
+See [`docs/catalog-pipeline.md`](docs/catalog-pipeline.md) for the full design and
+[`docs/BUSINESS-RULES.md`](docs/BUSINESS-RULES.md) for the canonical rules
+(RN-001 … RN-012) that both the storefront and the pipeline follow.
+
+---
+
+## Roadmap
+
+| Sprint | Status | Scope |
+|--------|--------|-------|
+| 1–2 | ✅ | Landing / hero, branding, design system |
+| 3 | ✅ | Catalog infrastructure (nav, menu, search, components) |
+| 4–5 | ✅ | Collections section, data-driven catalog |
+| 6 | ✅ | Asset pipeline (`image-loader.js`, `getImage()`) |
+| 7 | ✅ | Collection details + clubs |
+| 8 | ✅ | Club catalog + jerseys |
+| 9 | ✅ | Jersey product experience (gallery, sizes, stock, buy) + pipeline docs |
+
+### Next sprints
+
+- **Catalog Pipeline** — implement Adapters → Parser → Validator → Assets → Generator → Publisher.
+- **Search** — wire the existing search overlay to the JSON data.
+- **Clubs / Leagues / About** — dedicated index pages (nav links are ready).
+- **Jersey detail** — real photography via the pipeline; size selection & cart hooks.

@@ -1237,6 +1237,158 @@ body::after{
     .club-hero__crest{ width:92px; height:92px; }
 }
 
+/* ==========================================================
+   SPRINT 9 — JERSEY DETAILS
+   Two-column detail + premium gallery (swap · fade · zoom).
+========================================================== */
+
+.jersey{
+    display:grid;
+    grid-template-columns:1.05fr .95fr;
+    gap:3rem;
+    align-items:start;
+    margin-top:1rem;
+}
+
+/* ---------- gallery ---------- */
+.gallery__main{
+    position:relative;
+    aspect-ratio:3 / 4;
+    border:1px solid rgba(255,255,255,.06);
+    border-radius:14px;
+    overflow:hidden;
+    background:linear-gradient(135deg,#161616 0%,#0a0a0a 60%);
+}
+.gallery__img{
+    position:absolute;
+    inset:0;
+    width:100%;
+    height:100%;
+    object-fit:cover;
+    cursor:zoom-in;
+    transition:opacity .18s ease, transform .25s ease;
+}
+.gallery__img.is-fading{ opacity:0; }
+.gallery__stage--placeholder{
+    position:absolute;
+    inset:0;
+    display:grid;
+    place-items:center;
+}
+.gallery__mark{ width:40%; max-width:220px; opacity:.08; }
+
+.gallery__thumbs{
+    display:flex;
+    flex-wrap:wrap;
+    gap:.8rem;
+    margin-top:.9rem;
+}
+.gallery__thumb{
+    width:72px;
+    height:88px;
+    padding:0;
+    border:1px solid rgba(255,255,255,.1);
+    border-radius:8px;
+    overflow:hidden;
+    background:#0d0d0d;
+    cursor:pointer;
+    transition:border-color var(--transition), transform var(--transition);
+}
+.gallery__thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+.gallery__thumb:hover{ transform:translateY(-2px); }
+.gallery__thumb.is-active{ border-color:var(--color-gold); }
+
+/* ---------- info ---------- */
+.jersey__info{ padding-top:.4rem; }
+.jersey__lead{ margin-top:.8rem; color:var(--color-gray); font-size:1rem; }
+.link{
+    color:var(--color-white);
+    text-decoration:none;
+    border-bottom:1px solid rgba(226,193,90,.4);
+    transition:color var(--transition), border-color var(--transition);
+}
+.link:hover{ color:var(--color-gold); border-color:var(--color-gold); }
+
+.specs{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:1px;
+    margin:2rem 0;
+    background:rgba(255,255,255,.06);
+    border:1px solid rgba(255,255,255,.06);
+    border-radius:12px;
+    overflow:hidden;
+}
+.spec{ background:var(--color-bg); padding:1rem 1.2rem; }
+.spec dt{
+    color:var(--color-gray);
+    font-size:.68rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    margin-bottom:.35rem;
+}
+.spec dd{ color:var(--color-white); font-size:.98rem; font-weight:600; }
+
+/* stock state */
+.jersey__eyebrow-row{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    gap:1rem;
+}
+.badge--out{
+    color:#e29a9a;
+    border-color:rgba(210,120,120,.4);
+    background:rgba(200,80,80,.1);
+}
+
+/* sizes */
+.sizes{ margin:1.6rem 0; }
+.sizes__label{
+    color:var(--color-gray);
+    font-size:.7rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    margin-bottom:.7rem;
+}
+.sizes__list{
+    display:flex;
+    flex-wrap:wrap;
+    gap:.5rem;
+}
+.size-chip{
+    min-width:46px;
+    padding:.55rem .8rem;
+    text-align:center;
+    border:1px solid var(--color-border);
+    border-radius:8px;
+    color:var(--color-white);
+    font-size:.85rem;
+    font-weight:600;
+}
+.size-chip.is-disabled{
+    color:#5a5a5a;
+    border-color:rgba(255,255,255,.08);
+    text-decoration:line-through;
+}
+
+.jersey__buy{
+    width:100%;
+    justify-content:center;
+    margin-top:.5rem;
+}
+.jersey__buy .arrow{ transition:transform var(--transition); }
+.jersey__buy:hover .arrow{ transform:translateX(4px); }
+.btn:disabled{ opacity:.5; cursor:not-allowed; }
+
+@media (max-width:900px){
+    .jersey{ grid-template-columns:1fr; gap:2rem; }
+    .gallery{ max-width:520px; }
+}
+@media (max-width:480px){
+    .specs{ grid-template-columns:1fr; }
+}
+
 /* reduced motion */
 @media (prefers-reduced-motion:reduce){
     *,*::before,*::after{
