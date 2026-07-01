@@ -107,10 +107,45 @@ const UI = (() => {
         });
     }
 
-    /* ---------- placeholder links (sections not built yet) ---------- */
+    /* ---------- placeholder links (sections not built yet) ----------
+       Delegated so it also covers cards rendered later from JSON. */
     function initPlaceholders() {
-        document.querySelectorAll("[data-soon]").forEach((el) => {
-            el.addEventListener("click", (e) => e.preventDefault());
+        document.addEventListener("click", (e) => {
+            const el = e.target.closest("[data-soon]");
+            if (el) e.preventDefault();
+        });
+    }
+
+    /* ---------- scroll-reveal animation for rendered cards ----------
+       Catalog dispatches "collections:rendered" after painting the grid. */
+    function initReveal() {
+        document.addEventListener("collections:rendered", (e) => {
+            const grid = (e.detail && e.detail.grid) || document;
+            const cards = grid.querySelectorAll(".collection-card.reveal");
+
+            if (!("IntersectionObserver" in window)) {
+                cards.forEach((c) => c.classList.remove("reveal"));
+                return;
+            }
+
+            const io = new IntersectionObserver((entries, obs) => {
+                entries.forEach((entry) => {
+                    if (!entry.isIntersecting) return;
+                    const card = entry.target;
+                    card.classList.add("is-visible");
+                    obs.unobserve(card);
+                    // clean up so hover transforms aren't delayed/overridden
+                    card.addEventListener("transitionend", function done() {
+                        card.classList.remove("reveal", "is-visible");
+                        card.style.transitionDelay = "";
+                    }, { once: true });
+                });
+            }, { threshold: 0.12, rootMargin: "0px 0px -8% 0px" });
+
+            cards.forEach((card, i) => {
+                card.style.transitionDelay = (i % 3) * 70 + "ms"; // subtle per-row stagger
+                io.observe(card);
+            });
         });
     }
 
@@ -120,6 +155,7 @@ const UI = (() => {
         initSearch();
         initKeyboard();
         initPlaceholders();
+        initReveal();
     }
 
     return { init };

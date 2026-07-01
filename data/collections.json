@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "slug": "serie-a",
+    "name": "Serie A",
+    "country": "Italy",
+    "period": "1988 – 1998",
+    "description": "Il Calcio at its peak — Maldini, Baggio and the most feared defenses in the world.",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "slug": "premier-league",
+    "name": "Premier League",
+    "country": "England",
+    "period": "1992 – 2004",
+    "description": "The birth of the modern English game, from Cantona to the Invincibles.",
+    "image": "",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "slug": "la-liga",
+    "name": "La Liga",
+    "country": "Spain",
+    "period": "1998 – 2012",
+    "description": "Galácticos and tiki-taka — Spain's golden generation redefines the game.",
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": 4,
+    "slug": "bundesliga",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "period": "1990 – 2001",
+    "description": "Raw power and unmistakable kits from Germany's fiercest decade.",
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": 5,
+    "slug": "ligue-1",
+    "name": "Ligue 1",
+    "country": "France",
+    "period": "1994 – 2006",
+    "description": "Flair and future legends — the stage where French football announced itself.",
+    "image": "",
+    "featured": false
+  },
+  {
+    "id": 6,
+    "slug": "brasileirao",
+    "name": "Brasileirão",
+    "country": "Brazil",
+    "period": "1980 – 1994",
+    "description": "Joga bonito — the artistry and soul of Brazilian club football.",
+    "image": "",
+    "featured": true
+  }
+]
