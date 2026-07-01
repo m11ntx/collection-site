@@ -1,0 +1,10 @@
+# Claude Code local state
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
