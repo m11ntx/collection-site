@@ -6,6 +6,9 @@ A fast, dependency-free landing page and living catalog for the M11NTX brand.
 Built with vanilla HTML5, CSS3 and ES6 — no frameworks, no build step — and
 deployed on GitHub Pages.
 
+> **Resuming / new session? Start here:** [`docs/PROJECT-STATUS.md`](docs/PROJECT-STATUS.md)
+> (current state, pages, how to run, next steps) and [`CHANGELOG.md`](CHANGELOG.md) (history).
+
 ---
 
 ## Highlights
