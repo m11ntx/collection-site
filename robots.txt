@@ -1,0 +1,10 @@
+# M11NTX — collection-site
+# NOTE: On a GitHub Pages *project* site (m11ntx.github.io/collection-site),
+# crawlers read robots.txt from the host root (m11ntx.github.io/robots.txt),
+# so this file is authoritative only under a custom root domain. Either way,
+# submit the sitemap URL below in Google Search Console.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://m11ntx.github.io/collection-site/sitemap.xml

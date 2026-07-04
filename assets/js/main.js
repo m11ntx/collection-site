@@ -8,6 +8,8 @@
  */
 
 document.addEventListener("DOMContentLoaded", () => {
+    if (window.SEO) SEO.initGlobal();       // Organization + WebSite JSON-LD (every page)
+    if (window.Analytics) Analytics.init(); // load providers (if enabled) + bind auto-events
     if (window.UI) UI.init();
 
     if (window.Catalog) {

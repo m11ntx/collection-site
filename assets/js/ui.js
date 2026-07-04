@@ -194,6 +194,42 @@ const UI = (() => {
         });
     }
 
+    /* ---------- prefetch on intent (perf) ----------
+       Warm the next navigation when the user hovers/focuses a Collection or
+       Club card link. Progressive enhancement — no visual change. */
+    function initPrefetch() {
+        const done = new Set();
+        function prefetch(href) {
+            if (!href || done.has(href)) return;
+            done.add(href);
+            const l = document.createElement("link");
+            l.rel = "prefetch";
+            l.href = href;
+            document.head.appendChild(l);
+        }
+        function onIntent(e) {
+            const a = e.target.closest &&
+                e.target.closest("a.collection-card__cta, a.club-card__cta, a.jersey-card__cta");
+            if (a) prefetch(a.getAttribute("href"));
+        }
+        document.addEventListener("mouseover", onIntent, { passive: true });
+        document.addEventListener("focusin", onIntent);
+    }
+
+    /* ---------- config-driven links ----------
+       Keep the Instagram/email single source (config/site.js). Elements with
+       data-config="instagram|email" get their href from CONFIG (with the static
+       href as a no-JS fallback). Used by the footer + contact page. */
+    function initConfigLinks() {
+        const cfg = window.CONFIG || {};
+        document.querySelectorAll('[data-config="instagram"]').forEach((a) => {
+            if (cfg.instagram) a.setAttribute("href", cfg.instagram);
+        });
+        document.querySelectorAll('[data-config="email"]').forEach((a) => {
+            if (cfg.email) a.setAttribute("href", "mailto:" + cfg.email);
+        });
+    }
+
     function init() {
         initNav();
         initMobileMenu();
@@ -202,6 +238,8 @@ const UI = (() => {
         initPlaceholders();
         initReveal();
         initGallery();
+        initPrefetch();
+        initConfigLinks();
     }
 
     return { init };

@@ -1,0 +1,191 @@
+/**
+ * seo.js
+ * Centralized SEO / metadata for M11NTX (CS-13).
+ *
+ * - Upserts Meta Title, Description, Canonical, Open Graph and Twitter Cards.
+ * - Injects JSON-LD: Organization, WebSite (global) and BreadcrumbList (per page).
+ * - Dynamic pages (collection / club / jersey) call SEO.set()/SEO.breadcrumb()
+ *   from catalog.js once the JSON for the ?slug= is resolved.
+ *
+ * Layout is never touched — this only writes to <head>. No dependencies.
+ * Exported to `window.SEO` (and module.exports for tooling/tests).
+ */
+(function (root, factory) {
+    "use strict";
+    const api = factory();
+    if (typeof module !== "undefined" && module.exports) module.exports = api;
+    if (root) root.SEO = api;
+})(typeof window !== "undefined" ? window : null, function () {
+    "use strict";
+
+    /* ============================================================
+       Site configuration.
+       url + instagram come from config/site.js (window.CONFIG) so IDs/URLs
+       live in one place; sensible fallbacks keep SEO working if config is
+       absent. Production is GitHub Pages (served under /collection-site/).
+    ============================================================ */
+    const C = (typeof window !== "undefined" && window.CONFIG) || {};
+    const SITE = {
+        url: C.url || "https://m11ntx.github.io/collection-site",   // no trailing slash
+        name: "M11NTX",
+        title: "M11NTX | The Collection — Premium Soccer Culture",
+        description: "M11NTX — Premium Soccer Culture. Some jerseys are just shirts. Others carry history.",
+        image: "/assets/icons/android-chrome-512x512.png", // resolved to absolute
+        locale: "en",
+        twitter: "@m11ntx",
+        instagram: C.instagram || "https://www.instagram.com/m11ntx/"
+    };
+
+    /* ============================================================
+       URL helpers
+    ============================================================ */
+    function abs(path) {
+        if (!path) return SITE.url + "/";
+        if (/^https?:\/\//i.test(path)) return path;
+        return SITE.url + (path.charAt(0) === "/" ? path : "/" + path);
+    }
+
+    /** The canonical URL actually being served (handles the ?slug= pages). */
+    function canonicalHere() {
+        if (typeof window === "undefined") return SITE.url + "/";
+        return window.location.origin + window.location.pathname + window.location.search;
+    }
+
+    /* ============================================================
+       <head> upsert helpers (create the tag if missing, else update)
+    ============================================================ */
+    function head() { return document.head || document.getElementsByTagName("head")[0]; }
+
+    function upsertMeta(attr, key, content) {
+        if (content == null) return;
+        let el = head().querySelector('meta[' + attr + '="' + key + '"]');
+        if (!el) {
+            el = document.createElement("meta");
+            el.setAttribute(attr, key);
+            head().appendChild(el);
+        }
+        el.setAttribute("content", content);
+    }
+
+    function upsertLink(rel, href) {
+        let el = head().querySelector('link[rel="' + rel + '"]');
+        if (!el) {
+            el = document.createElement("link");
+            el.setAttribute("rel", rel);
+            head().appendChild(el);
+        }
+        el.setAttribute("href", href);
+    }
+
+    function jsonLd(id, data) {
+        let el = document.getElementById(id);
+        if (!el) {
+            el = document.createElement("script");
+            el.type = "application/ld+json";
+            el.id = id;
+            head().appendChild(el);
+        }
+        el.textContent = JSON.stringify(data);
+    }
+
+    /* ============================================================
+       set() — title, description, canonical, Open Graph, Twitter
+    ============================================================ */
+    function set(opts) {
+        opts = opts || {};
+        const title = opts.title || SITE.title;
+        const desc = opts.description || SITE.description;
+        const url = opts.canonical ? abs(opts.canonical) : canonicalHere();
+        const image = abs(opts.image || SITE.image);
+        const type = opts.type || "website";
+
+        if (typeof document !== "undefined") document.title = title;
+
+        upsertMeta("name", "description", desc);
+        upsertMeta("name", "robots", opts.robots || "index, follow");
+        upsertLink("canonical", url);
+
+        // Open Graph
+        upsertMeta("property", "og:type", type);
+        upsertMeta("property", "og:site_name", SITE.name);
+        upsertMeta("property", "og:locale", SITE.locale);
+        upsertMeta("property", "og:title", opts.ogTitle || title);
+        upsertMeta("property", "og:description", desc);
+        upsertMeta("property", "og:url", url);
+        upsertMeta("property", "og:image", image);
+        upsertMeta("property", "og:image:alt", opts.imageAlt || SITE.name);
+
+        // Twitter Cards
+        upsertMeta("name", "twitter:card", "summary_large_image");
+        upsertMeta("name", "twitter:site", SITE.twitter);
+        upsertMeta("name", "twitter:title", opts.ogTitle || title);
+        upsertMeta("name", "twitter:description", desc);
+        upsertMeta("name", "twitter:image", image);
+
+        return { title: title, description: desc, url: url, image: image };
+    }
+
+    /* ============================================================
+       JSON-LD graphs
+    ============================================================ */
+    function organization() {
+        jsonLd("ld-organization", {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            name: SITE.name,
+            url: SITE.url + "/",
+            logo: abs(SITE.image),
+            description: SITE.description,
+            sameAs: [SITE.instagram]
+        });
+    }
+
+    function website() {
+        jsonLd("ld-website", {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            name: SITE.name,
+            url: SITE.url + "/",
+            inLanguage: SITE.locale
+        });
+    }
+
+    /** items: [{ name, url }] — url may be a path or absolute. */
+    function breadcrumb(items) {
+        if (!Array.isArray(items) || !items.length) return;
+        jsonLd("ld-breadcrumb", {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: items.map(function (it, i) {
+                return {
+                    "@type": "ListItem",
+                    position: i + 1,
+                    name: it.name,
+                    item: abs(it.url)
+                };
+            })
+        });
+    }
+
+    /** Global graphs present on every page. Safe to call once per load. */
+    function initGlobal() {
+        if (typeof document === "undefined") return;
+        organization();
+        website();
+    }
+
+    /* ============================================================
+       Public surface
+    ============================================================ */
+    return {
+        SITE: SITE,
+        abs: abs,
+        canonicalHere: canonicalHere,
+        set: set,
+        jsonLd: jsonLd,
+        organization: organization,
+        website: website,
+        breadcrumb: breadcrumb,
+        initGlobal: initGlobal
+    };
+});

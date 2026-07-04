@@ -7,7 +7,27 @@
 <title>M11NTX | Club</title>
 
 <meta name="description" content="M11NTX — Premium Soccer Culture. Explore a club and its jersey archive.">
+<meta name="robots" content="index, follow">
+<meta name="author" content="M11NTX">
 <meta name="theme-color" content="#050505">
+<link rel="canonical" href="https://m11ntx.github.io/collection-site/pages/club.html">
+
+<!-- Open Graph (refined per club by seo.js) -->
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="M11NTX">
+<meta property="og:locale" content="en">
+<meta property="og:title" content="M11NTX | Club">
+<meta property="og:description" content="Premium Soccer Culture — explore a club and its jersey archive.">
+<meta property="og:url" content="https://m11ntx.github.io/collection-site/pages/club.html">
+<meta property="og:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
+<meta property="og:image:alt" content="M11NTX">
+
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@m11ntx">
+<meta name="twitter:title" content="M11NTX | Club">
+<meta name="twitter:description" content="Premium Soccer Culture — explore a club and its jersey archive.">
+<meta name="twitter:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
 
 <!-- Favicon pack -->
 <link rel="icon" href="assets/icons/favicon.ico" sizes="any">
@@ -18,8 +38,11 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" as="style" href="assets/css/style.min.css">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.min.css">
+<link rel="stylesheet" href="assets/css/institutional.min.css">
 </head>
 <body>
 
@@ -30,16 +53,17 @@
     <div class="nav__inner">
 
         <a href="index.html" class="nav__logo" aria-label="M11NTX — Home">
-            <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21">
+            <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21" decoding="async">
             <span class="nav__name">M11NTX</span>
         </a>
 
         <nav class="nav__menu" aria-label="Primary">
             <ul class="nav__list">
                 <li><a href="index.html#collections" class="nav__link">Collection</a></li>
-                <li><a href="#" class="nav__link" data-soon>Clubs</a></li>
-                <li><a href="#" class="nav__link" data-soon>Leagues</a></li>
-                <li><a href="#" class="nav__link" data-soon>About</a></li>
+                <li><a href="pages/how-it-works.html" class="nav__link">How It Works</a></li>
+                <li><a href="pages/faq.html" class="nav__link">FAQ</a></li>
+                <li><a href="pages/about.html" class="nav__link">About</a></li>
+                <li><a href="pages/contact.html" class="nav__link">Contact</a></li>
             </ul>
             <button type="button" class="nav__search" id="searchOpen" aria-label="Open search">
                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
@@ -73,9 +97,10 @@
     </div>
     <nav class="mobile-menu__nav" aria-label="Mobile">
         <a href="index.html#collections" class="mobile-menu__link">Collection</a>
-        <a href="#" class="mobile-menu__link" data-soon>Clubs</a>
-        <a href="#" class="mobile-menu__link" data-soon>Leagues</a>
-        <a href="#" class="mobile-menu__link" data-soon>About</a>
+        <a href="pages/how-it-works.html" class="mobile-menu__link">How It Works</a>
+        <a href="pages/faq.html" class="mobile-menu__link">FAQ</a>
+        <a href="pages/about.html" class="mobile-menu__link">About</a>
+        <a href="pages/contact.html" class="mobile-menu__link">Contact</a>
         <button type="button" class="mobile-menu__link mobile-menu__search" id="searchOpenMobile">Search</button>
     </nav>
 </div>
@@ -108,17 +133,37 @@
     <!-- content injected by catalog.js (Catalog.initClubPage) -->
 </main>
 
-<footer class="site-footer">
-    <span class="footer-left">&copy; 2026 M11NTX</span>
-    <img src="assets/images/symbol.png" alt="M11" class="footer-mark">
-    <span class="footer-right">Wear The Manto</span>
+<footer class="site-footer site-footer--full">
+    <div class="footer__inner">
+        <nav class="footer__links" aria-label="Institutional">
+            <a href="pages/about.html">About</a>
+            <a href="pages/how-it-works.html">How It Works</a>
+            <a href="pages/faq.html">FAQ</a>
+            <a href="pages/contact.html">Contact</a>
+            <a href="pages/privacy.html">Privacy</a>
+            <a href="pages/terms.html">Terms</a>
+            <a href="pages/intermediation-policy.html">Intermediation Policy</a>
+        </nav>
+        <div class="footer__social">
+            <a href="https://www.instagram.com/m11ntx/" data-config="instagram" target="_blank" rel="noopener">Instagram</a>
+            <a href="mailto:hello.m11ntx@gmail.com" data-config="email">Email</a>
+        </div>
+    </div>
+    <div class="footer__base">
+        <span class="footer-left">&copy; 2026 M11NTX</span>
+        <img src="assets/images/symbol.png" alt="M11" class="footer-mark" width="855" height="596" loading="lazy" decoding="async">
+        <span class="footer-right">Wear The Manto</span>
+    </div>
 </footer>
 
-<script src="assets/js/api.js" defer></script>
-<script src="assets/js/image-loader.js" defer></script>
-<script src="assets/js/catalog.js" defer></script>
-<script src="assets/js/ui.js" defer></script>
-<script src="assets/js/main.js" defer></script>
+<script src="config/site.min.js" defer></script>
+<script src="assets/js/seo.min.js" defer></script>
+<script src="assets/js/analytics.min.js" defer></script>
+<script src="assets/js/api.min.js" defer></script>
+<script src="assets/js/image-loader.min.js" defer></script>
+<script src="assets/js/catalog.min.js" defer></script>
+<script src="assets/js/ui.min.js" defer></script>
+<script src="assets/js/main.min.js" defer></script>
 
 </body>
 </html>

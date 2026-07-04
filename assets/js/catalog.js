@@ -11,6 +11,12 @@
 const Catalog = (() => {
     const SKELETON_COUNT = 6;
 
+    // Official M11NTX Instagram — the single channel for the customer journey.
+    // Sourced from config/site.js (window.CONFIG). Never hardcode it elsewhere.
+    const INSTAGRAM_URL =
+        (typeof window !== "undefined" && window.CONFIG && window.CONFIG.instagram) ||
+        "https://www.instagram.com/m11ntx/";
+
     /* ---------- utils ---------- */
 
     function esc(str) {
@@ -26,6 +32,33 @@ const Catalog = (() => {
     function brandedMark(cls, size) {
         return `<img class="${cls}" src="assets/images/symbol.png" alt="" ` +
                `width="${size[0]}" height="${size[1]}" loading="lazy" decoding="async">`;
+    }
+
+    /* ---------- SEO helpers (CS-13) ---------- */
+
+    // Resolve an OG image path for a category asset, or null (SEO falls back
+    // to the brand default). Paths are relative; SEO.abs() makes them absolute.
+    function seoImage(category, name) {
+        if (!name) return null;
+        return window.ImageLoader
+            ? ImageLoader.getImage(category, name)
+            : `assets/images/${category}/${name}`;
+    }
+
+    function clubCrumbs(collection, club) {
+        const items = [{ name: "Home", url: "/" }, { name: "Collections", url: "/#collections" }];
+        if (collection) {
+            items.push({ name: collection.name, url: `/pages/collection.html?slug=${encodeURIComponent(collection.slug)}` });
+        }
+        items.push({ name: club.name, url: `/pages/club.html?slug=${encodeURIComponent(club.slug)}` });
+        return items;
+    }
+
+    function jerseyCrumbs(collection, club, jersey) {
+        const items = club ? clubCrumbs(collection, club)
+                           : [{ name: "Home", url: "/" }, { name: "Collections", url: "/#collections" }];
+        items.push({ name: jersey.name, url: `/pages/jersey.html?slug=${encodeURIComponent(jersey.slug)}` });
+        return items;
     }
 
     /* ---------- collection card (index grid) ---------- */
@@ -342,42 +375,28 @@ const Catalog = (() => {
             : "";
         const lead = [clubLink, leagueLink].filter(Boolean).join(" · ");
 
-        // sizes — official structure is [{ size, stock }] (RN-006).
-        // Accept legacy string entries too.
+        // Intermediation model (CS-11): M11NTX does not sell directly and does not
+        // expose live stock. Availability is confirmed during service, so the size
+        // grid is shown as a reference only — no "out of stock", no e-commerce cues.
         const sizeList = (Array.isArray(p.sizes) ? p.sizes : []).map((s) =>
-            typeof s === "string"
-                ? { size: s, stock: 1 }
-                : { size: s.size, stock: Number(s.stock) || 0 });
+            typeof s === "string" ? { size: s } : { size: s.size });
 
-        // availability is computed from stock (RN-007), never trusted as input
-        const inStock = sizeList.some((s) => s.stock > 0);
-
-        const stockBadge = inStock
-            ? `<span class="badge jersey__stock">In Stock</span>`
-            : `<span class="badge badge--out jersey__stock">Out of Stock</span>`;
-
-        // render only the sizes that exist; stock-0 sizes are shown disabled
         const sizesBlock = sizeList.length
             ? `<div class="sizes">
                    <p class="sizes__label">Sizes</p>
                    <div class="sizes__list">
-                       ${sizeList.map((s) =>
-                           `<span class="size-chip${s.stock > 0 ? "" : " is-disabled"}">${esc(s.size)}</span>`
-                       ).join("")}
+                       ${sizeList.map((s) => `<span class="size-chip">${esc(s.size)}</span>`).join("")}
                    </div>
                </div>`
             : "";
 
-        let buy;
-        if (!inStock) {
-            buy = `<button class="btn btn--primary jersey__buy" type="button" disabled>Out of Stock</button>`;
-        } else if (p.buyUrl) {
-            buy = `<a class="btn btn--primary jersey__buy" href="${esc(p.buyUrl)}"
-                      target="_blank" rel="noopener">Comprar na Feng
-                      <span class="arrow" aria-hidden="true">&rarr;</span></a>`;
-        } else {
-            buy = `<button class="btn btn--primary jersey__buy" type="button" disabled>Coming soon</button>`;
-        }
+        // Single CTA for every jersey — opens the official Instagram (the only
+        // service channel). Replaces any legacy buy button.
+        const consult = `<a class="btn btn--primary jersey__consult" href="${esc(INSTAGRAM_URL)}"
+                            target="_blank" rel="noopener"
+                            aria-label="Consultar disponibilidade de ${name} no Instagram da M11NTX">
+                            Consultar Disponibilidade
+                            <span class="arrow" aria-hidden="true">&rarr;</span></a>`;
 
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -390,10 +409,7 @@ const Catalog = (() => {
             <div class="jersey">
                 <div class="jersey__gallery">${jerseyGallery(p)}</div>
                 <div class="jersey__info">
-                    <div class="jersey__eyebrow-row">
-                        <p class="detail__eyebrow">Jersey</p>
-                        ${stockBadge}
-                    </div>
+                    <p class="detail__eyebrow">Jersey</p>
                     <h1 class="detail__title">${name}</h1>
                     ${lead ? `<p class="jersey__lead">${lead}</p>` : ""}
                     <dl class="specs">
@@ -405,9 +421,106 @@ const Catalog = (() => {
                         ${specRow("Gender", esc(p.gender))}
                     </dl>
                     ${sizesBlock}
-                    ${buy}
+                    ${consult}
+                    <p class="jersey__note">Importação sob consulta · Prazo estimado 25–40 dias corridos</p>
                 </div>
-            </div>`;
+            </div>
+
+            ${journeySections()}`;
+    }
+
+    /* ---------- customer journey (CS-11) ----------
+       M11NTX is an intermediary — no direct sales, nothing resembling a
+       traditional e-commerce. Static, premium, transparent. */
+
+    const JOURNEY_STEPS = [
+        { n: 1, label: "Explore the Jersey" },
+        { n: 2, label: "Contact M11NTX" },
+        { n: 3, label: "Availability Confirmation" },
+        { n: 4, label: "International Import" },
+        { n: 5, label: "Estimated delivery", sub: "25–40 dias corridos" }
+    ];
+
+    const FAQ_ITEMS = [
+        {
+            q: "Qual é o prazo de entrega?",
+            a: "O prazo estimado é de 25–40 dias corridos, contados após a confirmação " +
+               "da disponibilidade e do atendimento. Por se tratar de importação, pequenas " +
+               "variações podem ocorrer."
+        },
+        {
+            q: "Como funciona a disponibilidade?",
+            a: "A disponibilidade de cada camisa é confirmada individualmente antes do " +
+               "atendimento. Ao consultar, verificamos a peça, o tamanho e a versão desejada."
+        },
+        {
+            q: "Como funciona a compra?",
+            a: "A M11NTX atua como intermediadora na aquisição de camisas importadas. " +
+               "Você escolhe a peça, consulta a disponibilidade pelo nosso Instagram e " +
+               "conduzimos todo o processo de importação até a entrega."
+        },
+        {
+            q: "Como falo com a M11NTX?",
+            a: "Todo o atendimento é feito pelo nosso Instagram oficial. Toque em " +
+               "“Consultar Disponibilidade” para iniciar a conversa."
+        }
+    ];
+
+    function journeySteps() {
+        return JOURNEY_STEPS.map((s) => `
+            <li class="step">
+                <span class="step__num" aria-hidden="true">${s.n}</span>
+                <div class="step__body">
+                    <h3 class="step__label">${esc(s.label)}</h3>
+                    ${s.sub ? `<p class="step__sub">${esc(s.sub)}</p>` : ""}
+                </div>
+            </li>`).join("");
+    }
+
+    function faqItems() {
+        return FAQ_ITEMS.map((f) => `
+            <details class="faq__item">
+                <summary class="faq__q">${esc(f.q)}<span class="faq__icon" aria-hidden="true"></span></summary>
+                <div class="faq__a"><p>${esc(f.a)}</p></div>
+            </details>`).join("");
+    }
+
+    function journeySections() {
+        return `
+            <section class="section journey" aria-labelledby="journeyTitle">
+                <div class="section__inner">
+                    <header class="section__head">
+                        <p class="section__eyebrow">Journey</p>
+                        <h2 class="section__title" id="journeyTitle">How It Works</h2>
+                        <div class="section__divider"></div>
+                    </header>
+
+                    <ol class="steps">${journeySteps()}</ol>
+
+                    <aside class="import-info" aria-labelledby="importTitle">
+                        <p class="section__eyebrow" id="importTitle">Import Information</p>
+                        <p class="import-info__text">
+                            A M11NTX atua como intermediadora na aquisição de camisas importadas.
+                            A disponibilidade será confirmada antes do atendimento.
+                        </p>
+                        <div class="import-info__delivery">
+                            <span class="import-info__delivery-label">Prazo estimado</span>
+                            <span class="import-info__delivery-value">25–40 dias corridos</span>
+                        </div>
+                    </aside>
+                </div>
+            </section>
+
+            <section class="section faq" aria-labelledby="faqTitle">
+                <div class="section__inner">
+                    <header class="section__head">
+                        <p class="section__eyebrow">FAQ</p>
+                        <h2 class="section__title" id="faqTitle">Perguntas Frequentes</h2>
+                        <div class="section__divider"></div>
+                    </header>
+                    <div class="faq__list">${faqItems()}</div>
+                </div>
+            </section>`;
     }
 
     /* ---------- init ---------- */
@@ -415,6 +528,8 @@ const Catalog = (() => {
     async function init() {
         const grid = document.getElementById("catalogGrid");
         if (!grid) return;
+        if (window.SEO) SEO.set({ canonical: "/" }); // home: normalized canonical + OG/Twitter
+        if (window.Analytics) Analytics.track.homeView();
         renderSkeletons(grid);
         const collections = await API.getCollections();
         renderCollections(grid, Array.isArray(collections) ? collections : []);
@@ -432,10 +547,26 @@ const Catalog = (() => {
 
         if (!collection) {
             renderNotFound(root);
+            if (window.SEO) SEO.set({ title: "Not found | M11NTX", robots: "noindex, follow" });
             return;
         }
 
         document.title = `M11NTX | ${collection.name}`;
+        if (window.SEO) {
+            SEO.set({
+                title: `M11NTX | ${collection.name}`,
+                description: collection.description,
+                canonical: `/pages/collection.html?slug=${encodeURIComponent(slug)}`,
+                image: seoImage("collections", collection.image),
+                imageAlt: collection.name
+            });
+            SEO.breadcrumb([
+                { name: "Home", url: "/" },
+                { name: "Collections", url: "/#collections" },
+                { name: collection.name, url: `/pages/collection.html?slug=${encodeURIComponent(slug)}` }
+            ]);
+        }
+        if (window.Analytics) Analytics.track.collectionView(slug);
         root.innerHTML = detailTemplate(collection);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
@@ -461,6 +592,7 @@ const Catalog = (() => {
         const club = Array.isArray(clubs) ? clubs.find((c) => c.slug === slug) : null;
         if (!club) {
             renderNotFound(root, "Club");
+            if (window.SEO) SEO.set({ title: "Not found | M11NTX", robots: "noindex, follow" });
             return;
         }
 
@@ -475,6 +607,19 @@ const Catalog = (() => {
             : [];
 
         document.title = `M11NTX | ${club.name}`;
+        if (window.SEO) {
+            const count = jerseys.length;
+            SEO.set({
+                title: `M11NTX | ${club.name}`,
+                description: `${club.name} — ${leagueName} jersey archive. ${count} classic ` +
+                    `${count === 1 ? "shirt" : "shirts"}. Premium Soccer Culture.`,
+                canonical: `/pages/club.html?slug=${encodeURIComponent(slug)}`,
+                image: seoImage("clubs", club.image),
+                imageAlt: `${club.name} crest`
+            });
+            SEO.breadcrumb(clubCrumbs(collection, club));
+        }
+        if (window.Analytics) Analytics.track.clubView(slug);
         root.innerHTML = clubDetailTemplate(club, collection, leagueName, jerseys.length);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
@@ -494,6 +639,7 @@ const Catalog = (() => {
         const jersey = Array.isArray(products) ? products.find((p) => p.slug === slug) : null;
         if (!jersey) {
             renderNotFound(root, "Jersey");
+            if (window.SEO) SEO.set({ title: "Not found | M11NTX", robots: "noindex, follow" });
             return;
         }
 
@@ -503,6 +649,22 @@ const Catalog = (() => {
             : null;
 
         document.title = `M11NTX | ${jersey.name}`;
+        if (window.SEO) {
+            const clubName = club ? club.name : "";
+            const bits = [jersey.name, clubName, jersey.season, jersey.brand, jersey.type]
+                .filter(Boolean).join(" · ");
+            SEO.set({
+                title: `M11NTX | ${jersey.name}${clubName ? " — " + clubName : ""}`,
+                description: `${bits}. Importação sob consulta · 25–40 dias corridos. Premium Soccer Culture.`,
+                canonical: `/pages/jersey.html?slug=${encodeURIComponent(slug)}`,
+                image: seoImage("jerseys", (Array.isArray(jersey.images) && jersey.images[0]) || jersey.image),
+                imageAlt: jersey.name
+            });
+            SEO.breadcrumb(jerseyCrumbs(collection, club, jersey));
+        }
+        if (window.Analytics) {
+            Analytics.track.jerseyView(slug, { club: club ? club.slug : "", brand: jersey.brand });
+        }
         root.innerHTML = jerseyDetailTemplate(jersey, club, collection);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);

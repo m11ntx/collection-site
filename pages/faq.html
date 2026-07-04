@@ -1,32 +1,32 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
 <base href="../">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>M11NTX | Collection</title>
+<title>M11NTX | FAQ</title>
 
-<meta name="description" content="M11NTX — Premium Soccer Culture. Explore a collection and its clubs.">
+<meta name="description" content="Perguntas frequentes da M11NTX: prazo, disponibilidade, como funciona a compra, atendimento e pagamento.">
 <meta name="robots" content="index, follow">
 <meta name="author" content="M11NTX">
 <meta name="theme-color" content="#050505">
-<link rel="canonical" href="https://m11ntx.github.io/collection-site/pages/collection.html">
+<link rel="canonical" href="https://m11ntx.github.io/collection-site/pages/faq.html">
 
-<!-- Open Graph (refined per collection by seo.js) -->
+<!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="M11NTX">
 <meta property="og:locale" content="en">
-<meta property="og:title" content="M11NTX | Collections">
-<meta property="og:description" content="Premium Soccer Culture — explore a collection and its clubs.">
-<meta property="og:url" content="https://m11ntx.github.io/collection-site/pages/collection.html">
+<meta property="og:title" content="M11NTX | FAQ">
+<meta property="og:description" content="Perguntas frequentes da M11NTX: prazo, disponibilidade, como funciona a compra, atendimento e pagamento.">
+<meta property="og:url" content="https://m11ntx.github.io/collection-site/pages/faq.html">
 <meta property="og:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
 <meta property="og:image:alt" content="M11NTX">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@m11ntx">
-<meta name="twitter:title" content="M11NTX | Collections">
-<meta name="twitter:description" content="Premium Soccer Culture — explore a collection and its clubs.">
+<meta name="twitter:title" content="M11NTX | FAQ">
+<meta name="twitter:description" content="Perguntas frequentes da M11NTX: prazo, disponibilidade, como funciona a compra, atendimento e pagamento.">
 <meta name="twitter:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
 
 <!-- Favicon pack -->
@@ -43,20 +43,18 @@
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.min.css">
 <link rel="stylesheet" href="assets/css/institutional.min.css">
+<link rel="stylesheet" href="assets/css/journey.min.css">
 </head>
 <body>
 
-<a class="skip-link" href="#collectionDetail">Skip to content</a>
+<a class="skip-link" href="#main">Skip to content</a>
 
-<!-- GLOBAL NAVIGATION (reused; always visible on subpages) -->
 <header class="nav" id="siteNav">
     <div class="nav__inner">
-
         <a href="index.html" class="nav__logo" aria-label="M11NTX — Home">
             <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21" decoding="async">
             <span class="nav__name">M11NTX</span>
         </a>
-
         <nav class="nav__menu" aria-label="Primary">
             <ul class="nav__list">
                 <li><a href="index.html#collections" class="nav__link">Collection</a></li>
@@ -73,18 +71,14 @@
                 <span>Search</span>
             </button>
         </nav>
-
-        <button type="button" class="nav__toggle" id="menuToggle"
-                aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
+        <button type="button" class="nav__toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
         </button>
-
     </div>
 </header>
 
-<!-- MOBILE MENU -->
 <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
     <div class="mobile-menu__head">
         <span class="mobile-menu__brand">M11NTX</span>
@@ -105,9 +99,7 @@
     </nav>
 </div>
 
-<!-- SEARCH OVERLAY (layout only) -->
-<div class="search" id="searchOverlay" role="dialog" aria-modal="true"
-     aria-label="Search the collection" aria-hidden="true">
+<div class="search" id="searchOverlay" role="dialog" aria-modal="true" aria-label="Search the collection" aria-hidden="true">
     <button type="button" class="search__close" id="searchClose" aria-label="Close search">
         <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -121,16 +113,53 @@
                 <circle cx="11" cy="11" r="7"></circle>
                 <line x1="21" y1="21" x2="16.5" y2="16.5"></line>
             </svg>
-            <input id="searchInput" class="search__input" type="search"
-                   placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
+            <input id="searchInput" class="search__input" type="search" placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
         </div>
         <p class="search__hint">Search is coming soon.</p>
     </form>
 </div>
 
-<!-- COLLECTION DETAIL — rendered from collections.json + clubs.json -->
-<main class="detail" id="collectionDetail" aria-busy="true">
-    <!-- content injected by catalog.js (Catalog.initDetail) -->
+<main class="detail" id="main">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+        <a class="breadcrumb__link" href="index.html">Home</a>
+        <span class="breadcrumb__sep" aria-hidden="true">/</span>
+        <span class="breadcrumb__current" aria-current="page">FAQ</span>
+    </nav>
+
+    <p class="detail__eyebrow">FAQ</p>
+    <h1 class="detail__title">Perguntas Frequentes</h1>
+    <p class="detail__desc">Tudo o que você precisa saber antes de consultar uma camisa.</p>
+
+    <div class="faq__list">
+    <details class="faq__item">
+        <summary class="faq__q">Como funciona a compra?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>A M11NTX atua como intermediadora na aquisição de camisas importadas. Você escolhe a peça, consulta a disponibilidade pelo nosso Instagram e conduzimos todo o processo de importação até a entrega.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">Qual é o prazo de entrega?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>O prazo estimado é de 25–40 dias corridos, contados após a confirmação da disponibilidade e do atendimento. Por se tratar de importação, pequenas variações podem ocorrer.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">Como funciona a disponibilidade?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>A disponibilidade de cada camisa é confirmada individualmente antes do pedido. Ao consultar, verificamos a peça, o tamanho e a versão desejada.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">Como falo com a M11NTX?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>Todo o atendimento é feito pelo nosso Instagram oficial. Toque em “Consultar Disponibilidade” em qualquer camisa, ou fale conosco pela página de Atendimento.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">As camisas são importadas?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>Sim. Trabalhamos com camisas importadas, adquiridas sob consulta para cada cliente.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">Como é feito o pagamento?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>O pagamento é combinado durante o atendimento personalizado, fora da plataforma. Nada é cobrado automaticamente pelo site.</p></div>
+    </details>
+    <details class="faq__item">
+        <summary class="faq__q">Vocês têm loja física?<span class="faq__icon" aria-hidden="true"></span></summary>
+        <div class="faq__a"><p>Não. A M11NTX é uma plataforma digital; todo o atendimento acontece pelo Instagram oficial.</p></div>
+    </details>
+</div>
 </main>
 
 <footer class="site-footer site-footer--full">
@@ -159,9 +188,6 @@
 <script src="config/site.min.js" defer></script>
 <script src="assets/js/seo.min.js" defer></script>
 <script src="assets/js/analytics.min.js" defer></script>
-<script src="assets/js/api.min.js" defer></script>
-<script src="assets/js/image-loader.min.js" defer></script>
-<script src="assets/js/catalog.min.js" defer></script>
 <script src="assets/js/ui.min.js" defer></script>
 <script src="assets/js/main.min.js" defer></script>
 

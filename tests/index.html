@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M11NTX — Tests</title>
+    <style>
+        body { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+               background: #050505; color: #F4F4F4; padding: 2rem; line-height: 1.7; }
+        h1 { color: #E2C15A; font-size: 1.1rem; letter-spacing: .08em; text-transform: uppercase; }
+        h2 { color: #E2C15A; font-size: .9rem; letter-spacing: .06em; margin-top: 2rem; opacity: .85; }
+        ul { list-style: none; padding: 0; margin: .6rem 0; }
+        li { padding: .1rem 0; }
+        .pass::before { content: "PASS  "; color: #7bd88f; }
+        .fail::before { content: "FAIL  "; color: #ff6b6b; }
+        .err { color: #ff9b9b; padding-left: 3.4rem; display: block; }
+        .summary { margin: 1rem 0; padding: .6rem 1rem; border: 1px solid rgba(226,193,90,.28);
+                   border-radius: 6px; display: inline-block; }
+        .summary.ok { color: #7bd88f; }
+        .summary.bad { color: #ff6b6b; }
+    </style>
+</head>
+<body>
+    <h1>M11NTX — test run</h1>
+    <div id="out"></div>
+
+    <!-- modules under test + fixtures + tests (no build step, no deps) -->
+    <script src="../assets/js/filters.js"></script>
+    <script src="../assets/js/search.js"></script>
+    <script src="fixtures.js"></script>
+    <script src="filters.test.js"></script>
+    <script src="search.test.js"></script>
+    <script>
+        (function () {
+            const suites = [
+                { title: "Filters", r: window.FILTERS_TEST_REPORT },
+                { title: "Search",  r: window.SEARCH_TEST_REPORT }
+            ];
+            const out = document.getElementById("out");
+            let html = "";
+            suites.forEach(function (s) {
+                const r = s.r || { results: [], passed: 0, failed: 1 };
+                const rows = r.results.map(function (t) {
+                    return '<li class="' + (t.ok ? "pass" : "fail") + '">' + t.name +
+                        (t.ok ? "" : '<span class="err">' + t.err + '</span>') + '</li>';
+                }).join("");
+                const cls = r.failed ? "bad" : "ok";
+                html += '<h2>' + s.title + '</h2>' +
+                    '<p class="summary ' + cls + '">' + r.passed + '/' + r.results.length +
+                    ' passed' + (r.failed ? ', ' + r.failed + ' FAILED' : '') + '</p>' +
+                    '<ul>' + rows + '</ul>';
+            });
+            out.innerHTML = html;
+        })();
+    </script>
+</body>
+</html>
