@@ -402108,6 +402108,294 @@
     }
   },
   {
+    "id": "source-camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha",
+    "externalId": "352835581",
+    "source": "source",
+    "slug": "camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha",
+    "name": "Camisa Manchester United I 26/27 - Torcedor Adidas Masculina - Vermelha",
+    "collectionId": "europa",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "clubId": "manchester-united",
+    "manufacturerId": "adidas",
+    "category": "current",
+    "gender": "men",
+    "version": "fan",
+    "season": "26/27",
+    "price": 65.4,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1550454772",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454774",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454776",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454777",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454778",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454780",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454781",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454782",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454783",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.84,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454784",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 87.19,
+        "compareAtPrice": 174.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454785",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.29,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454786",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454787",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.29,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      },
+      {
+        "id": "1550454788",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/premier-league/manchester-united/26-27/fan/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha/front.webp",
+        "alt": "Camisa Manchester United I 26/27 - Torcedor Adidas Masculina - Vermelha",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/premier-league/manchester-united/26-27/fan/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha/back.webp",
+        "alt": "Camisa Manchester United I 26/27 - Torcedor Adidas Masculina - Vermelha",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha-138y8/",
+    "createdAt": "2026-07-07T03:14:55Z",
+    "updatedAt": "2026-07-07T03:14:55Z",
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 352835581,
+        "compare_at_price_number": 136.24,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_10968c87-3892-422f-9ccf-f99e51729e2a_5718418_6945793-bb38a0d74ad86d121a17825784219811-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "title does not explicitly name 'manchester-united' -- verify this belongs in its menu (title: 'Camisa Manchester United I 26/27 - Torcedor Adidas Masculina - Vermelha')",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-manchester-united-iii-26-27-torcedor-adidas-masculina-bege",
     "externalId": "351240870",
     "source": "source",
