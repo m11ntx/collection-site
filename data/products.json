@@ -480310,6 +480310,228 @@
     }
   },
   {
+    "id": "source-camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor",
+    "externalId": "343651074",
+    "source": "source",
+    "slug": "camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor",
+    "name": "Camisa Seleção Bélgica I 26/27 - Adidas - Masculina| Torcedor",
+    "collectionId": "selecoes",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "clubId": "belgica",
+    "manufacturerId": "adidas",
+    "category": null,
+    "gender": "men",
+    "version": "fan",
+    "season": "26/27",
+    "price": 65.4,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1523305484",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305493",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305495",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305499",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305502",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305505",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305509",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305511",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305515",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.84,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      },
+      {
+        "id": "1523305521",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 174.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/selecoes/belgica/26-27/fan/camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor/front.webp",
+        "alt": "Camisa Seleção Bélgica I 26/27 - Adidas - Masculina| Torcedor",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/belgica/26-27/fan/camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor/back.webp",
+        "alt": "Camisa Seleção Bélgica I 26/27 - Adidas - Masculina| Torcedor",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor-13yvd/",
+    "createdAt": "2026-07-07T04:23:12Z",
+    "updatedAt": "2026-07-07T04:23:12Z",
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 343651074,
+        "compare_at_price_number": 136.24,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-5f6eced01de86b818717618899618317-640-0-3dc9a3e40ff5bb3c4217619267152816-1024-1024-8ec7cb271f57092a5c17786239701799-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-copa-do-mundo",
     "externalId": "306528606",
     "source": "source",
