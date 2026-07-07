@@ -290,6 +290,46 @@
     "image": null
   },
   {
+    "id": "eintracht-frankfurt",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "fc-heidenheim",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "fc-heidenheim",
+    "name": "1. FC Heidenheim",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "rb-leipzig",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "rb-leipzig",
+    "name": "RB Leipzig",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "athletic-bilbao",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "athletic-bilbao",
+    "name": "Athletic Bilbao",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "atletico-madrid",
     "leagueId": "la-liga",
     "regionId": null,
@@ -320,6 +360,36 @@
     "image": null
   },
   {
+    "id": "lille",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "lille",
+    "name": "Lille OSC",
+    "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "lorient",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "lorient",
+    "name": "FC Lorient",
+    "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "lyon",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "lyon",
+    "name": "Olympique Lyonnais",
+    "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "paris-saint-germain",
     "leagueId": "ligue-1",
     "regionId": null,
@@ -340,11 +410,51 @@
     "image": null
   },
   {
+    "id": "aston-villa",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "aston-villa",
+    "name": "Aston Villa",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "chelsea",
     "leagueId": "premier-league",
     "regionId": null,
     "slug": "chelsea",
     "name": "Chelsea",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "crystal-palace",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "crystal-palace",
+    "name": "Crystal Palace",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "everton",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "everton",
+    "name": "Everton",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "leeds-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "leeds-united",
+    "name": "Leeds United",
     "country": "England",
     "badge": null,
     "image": null
@@ -380,6 +490,26 @@
     "image": null
   },
   {
+    "id": "newcastle-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "newcastle-united",
+    "name": "Newcastle United",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "nottingham-forest",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "nottingham-forest",
+    "name": "Nottingham Forest",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "tottenham",
     "leagueId": "premier-league",
     "regionId": null,
@@ -390,11 +520,31 @@
     "image": null
   },
   {
+    "id": "wolverhampton-wanderers",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "ac-milan",
     "leagueId": "serie-a",
     "regionId": null,
     "slug": "ac-milan",
     "name": "AC Milan",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "as-roma",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "as-roma",
+    "name": "AS Roma",
     "country": "Italy",
     "badge": null,
     "image": null
@@ -415,6 +565,26 @@
     "regionId": null,
     "slug": "juventus",
     "name": "Juventus",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "lazio",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "lazio",
+    "name": "Lazio",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "napoli",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "napoli",
+    "name": "Napoli",
     "country": "Italy",
     "badge": null,
     "image": null

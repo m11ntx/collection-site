@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas",
+  "createdAt": "2026-07-07T02:50:42Z",
+  "updatedAt": "2026-07-07T02:50:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/front.webp",
+      "hash": "561bca4257fca219fb7404bf8759f83da9b2422d51d37953366e35647e094b95",
+      "width": 480,
+      "height": 480,
+      "size": 8858,
+      "createdAt": "2026-07-07T02:50:41Z",
+      "updatedAt": "2026-07-07T02:50:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/back.webp",
+      "hash": "bc8c47752e65a8c68ecd69166a083f6044eaec0655388aa2162c4a4b48b8dc1b",
+      "width": 480,
+      "height": 480,
+      "size": 5798,
+      "createdAt": "2026-07-07T02:50:41Z",
+      "updatedAt": "2026-07-07T02:50:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-1.webp",
+      "hash": "df07ce45d9f12f81b2c5f8f3f8df8b7ccfe7c7e36a1bd5edec41b6ac06ba3378",
+      "width": 480,
+      "height": 480,
+      "size": 12228,
+      "createdAt": "2026-07-07T02:50:41Z",
+      "updatedAt": "2026-07-07T02:50:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-2.webp",
+      "hash": "d12da89b6031ec2c5f5e063a7440e8e745309c47d1a514e5c8800ba9bca1e585",
+      "width": 480,
+      "height": 480,
+      "size": 10682,
+      "createdAt": "2026-07-07T02:50:41Z",
+      "updatedAt": "2026-07-07T02:50:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-3.webp",
+      "hash": "c7ca6d5350bda6a6e368454eac3cab16660590791b82a2925602a3e740a7ce6b",
+      "width": 480,
+      "height": 480,
+      "size": 45164,
+      "createdAt": "2026-07-07T02:50:41Z",
+      "updatedAt": "2026-07-07T02:50:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-4.webp",
+      "hash": "185dbf12c64e47019889ae89f828d4045faedbbabe6cfb6249d5d8901f0b9129",
+      "width": 480,
+      "height": 480,
+      "size": 12558,
+      "createdAt": "2026-07-07T02:50:42Z",
+      "updatedAt": "2026-07-07T02:50:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-5.webp",
+      "hash": "8f0ad97317bc01bc79aa0c2cd5288729e2ac3b465dda1efb7fe0e8616f842a6e",
+      "width": 480,
+      "height": 480,
+      "size": 29802,
+      "createdAt": "2026-07-07T02:50:42Z",
+      "updatedAt": "2026-07-07T02:50:42Z"
+    }
+  ]
+}

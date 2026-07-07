@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo",
+  "createdAt": "2026-07-07T02:48:25Z",
+  "updatedAt": "2026-07-07T02:48:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo/front.webp",
+      "hash": "0e37dc05909f3b2f56c960b2ae9822402d12626c2f485b930456c7505ec62078",
+      "width": 480,
+      "height": 480,
+      "size": 7212,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo/back.webp",
+      "hash": "ab9a98f6e21e5eb7bab509aa5d961eeaf44c18bcb6c3de23df99b5a6fa8e76b8",
+      "width": 480,
+      "height": 480,
+      "size": 8182,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo/detail-1.webp",
+      "hash": "21dec36af518f288e23362198fdd7cd38fed68912a8998204a07c23793d739c3",
+      "width": 480,
+      "height": 480,
+      "size": 6130,
+      "createdAt": "2026-07-07T02:48:25Z",
+      "updatedAt": "2026-07-07T02:48:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo/detail-2.webp",
+      "hash": "1498cbb5313785e67156da99ef9c8252ded0c30fef35df1ea9aa51af81af9e71",
+      "width": 480,
+      "height": 480,
+      "size": 10370,
+      "createdAt": "2026-07-07T02:48:25Z",
+      "updatedAt": "2026-07-07T02:48:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-iii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-preto-e-amarelo/detail-3.webp",
+      "hash": "4d10015b7dbd1a76030ad988fca0d432b91c0ab43c5f44d61b64f182e59f3a98",
+      "width": 480,
+      "height": 480,
+      "size": 23570,
+      "createdAt": "2026-07-07T02:48:25Z",
+      "updatedAt": "2026-07-07T02:48:25Z"
+    }
+  ]
+}

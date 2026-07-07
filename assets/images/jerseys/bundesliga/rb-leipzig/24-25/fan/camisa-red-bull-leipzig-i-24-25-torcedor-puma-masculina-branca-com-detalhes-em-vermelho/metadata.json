@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-07T02:50:21Z",
+  "updatedAt": "2026-07-07T02:50:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/front.webp",
+      "hash": "8b8c4e804c5b8a4bc69bd7e8b50c5f698ee9cd75a24a87761fd6722bd4aff183",
+      "width": 480,
+      "height": 480,
+      "size": 15508,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/back.webp",
+      "hash": "1e991194871eacb9180d21c91699fd55d3d673418ba49026eab3c717b4753457",
+      "width": 480,
+      "height": 480,
+      "size": 10018,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "c4af21997ed97145afd6b66a4b70fa499941f91d9be42f7ed732007f4fd72f29",
+      "width": 480,
+      "height": 480,
+      "size": 5246,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "55519f91c0fbf8bfebcc4f72ae2f832808a5ac61e8fc0105c471638a94ff6009",
+      "width": 480,
+      "height": 480,
+      "size": 19098,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "0bc03db244082f2df647a136bdc12561a728f2c10c6b5b4ee5a5f4788794d8a3",
+      "width": 480,
+      "height": 480,
+      "size": 26782,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-i-24-25-torcedor-puma-masculina-branca-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "ad13ba288158ee4a9335a3b2d1f5b8a0238cd5f1d82e6cc9f0e63a90132b8cdd",
+      "width": 480,
+      "height": 539,
+      "size": 22100,
+      "createdAt": "2026-07-07T02:50:20Z",
+      "updatedAt": "2026-07-07T02:50:20Z"
+    }
+  ]
+}

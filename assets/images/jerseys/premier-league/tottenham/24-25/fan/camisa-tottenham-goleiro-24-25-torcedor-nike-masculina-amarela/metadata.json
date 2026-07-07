@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-tottenham-goleiro-24-25-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-07T02:50:28Z",
+  "updatedAt": "2026-07-07T02:50:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-goleiro-24-25-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "118de95609b9b9858aca879c84d60bee77f02549b701cac56cb7f59df9648eb4",
+      "width": 480,
+      "height": 480,
+      "size": 13698,
+      "createdAt": "2026-07-07T02:50:27Z",
+      "updatedAt": "2026-07-07T02:50:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-goleiro-24-25-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "61e9866f739332dc53ee1161dd115fdb064fb3ff0274d6911ef4f87a045d16be",
+      "width": 480,
+      "height": 480,
+      "size": 11342,
+      "createdAt": "2026-07-07T02:50:27Z",
+      "updatedAt": "2026-07-07T02:50:27Z"
+    }
+  ]
+}

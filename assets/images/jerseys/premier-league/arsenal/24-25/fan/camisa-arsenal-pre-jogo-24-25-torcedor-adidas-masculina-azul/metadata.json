@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-pre-jogo-24-25-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-07T02:47:46Z",
+  "updatedAt": "2026-07-07T02:47:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-pre-jogo-24-25-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "97dd08df6e5b86241e46de0ecdfeabdf74be62f59b169902b81fc49d8be29f8d",
+      "width": 480,
+      "height": 480,
+      "size": 9568,
+      "createdAt": "2026-07-07T02:47:46Z",
+      "updatedAt": "2026-07-07T02:47:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-pre-jogo-24-25-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "095bc38634fce5eaf3c7d352b02e7dd43e635b9e22ef8d97313ff10d0318e2a3",
+      "width": 480,
+      "height": 480,
+      "size": 5406,
+      "createdAt": "2026-07-07T02:47:46Z",
+      "updatedAt": "2026-07-07T02:47:46Z"
+    }
+  ]
+}

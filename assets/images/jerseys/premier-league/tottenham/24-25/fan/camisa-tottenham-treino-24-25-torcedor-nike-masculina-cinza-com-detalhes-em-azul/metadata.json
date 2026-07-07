@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-tottenham-treino-24-25-torcedor-nike-masculina-cinza-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T02:50:33Z",
+  "updatedAt": "2026-07-07T02:50:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-cinza-com-detalhes-em-azul/front.webp",
+      "hash": "04ace813908297d82cc36b19f11fb7c0f8e678445acbea51cb74c3f896f4048d",
+      "width": 480,
+      "height": 480,
+      "size": 5372,
+      "createdAt": "2026-07-07T02:50:32Z",
+      "updatedAt": "2026-07-07T02:50:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-cinza-com-detalhes-em-azul/back.webp",
+      "hash": "4ac6cdfb96459aee53d4645b0cf6e0bf4431969b933db0af44e0181464171e1e",
+      "width": 480,
+      "height": 480,
+      "size": 3234,
+      "createdAt": "2026-07-07T02:50:32Z",
+      "updatedAt": "2026-07-07T02:50:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-cinza-com-detalhes-em-azul/detail-1.webp",
+      "hash": "533763b8cc603e9bcbee5e6748bda24af16530e6237faf46a364288e267b3399",
+      "width": 480,
+      "height": 480,
+      "size": 3550,
+      "createdAt": "2026-07-07T02:50:32Z",
+      "updatedAt": "2026-07-07T02:50:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-cinza-com-detalhes-em-azul/detail-2.webp",
+      "hash": "4226cc78e84061962602bffe591ba91380f286458b5266ed04094208b21b6189",
+      "width": 480,
+      "height": 600,
+      "size": 105966,
+      "createdAt": "2026-07-07T02:50:32Z",
+      "updatedAt": "2026-07-07T02:50:32Z"
+    }
+  ]
+}

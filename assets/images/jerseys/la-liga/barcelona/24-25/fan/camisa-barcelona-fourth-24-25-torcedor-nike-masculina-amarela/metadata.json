@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-barcelona-fourth-24-25-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-07T02:48:00Z",
+  "updatedAt": "2026-07-07T02:48:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/fan/camisa-barcelona-fourth-24-25-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "0c09d8aa318ab9a82e8c6f9d43f5f1bb87618a7e7cb62ae3656880e51b6d62a1",
+      "width": 480,
+      "height": 480,
+      "size": 9910,
+      "createdAt": "2026-07-07T02:48:00Z",
+      "updatedAt": "2026-07-07T02:48:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/fan/camisa-barcelona-fourth-24-25-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "bf89fbc24d0b7773ef31854cca2b0cf008b3233a0e59caba6b94b344f4bcb63c",
+      "width": 480,
+      "height": 480,
+      "size": 6106,
+      "createdAt": "2026-07-07T02:48:00Z",
+      "updatedAt": "2026-07-07T02:48:00Z"
+    }
+  ]
+}

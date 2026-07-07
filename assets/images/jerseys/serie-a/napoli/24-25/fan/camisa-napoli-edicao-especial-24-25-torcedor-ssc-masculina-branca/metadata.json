@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca",
+  "createdAt": "2026-07-07T02:49:50Z",
+  "updatedAt": "2026-07-07T02:49:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/front.webp",
+      "hash": "570d363bb373755c92793597f32331f126ad4187c53bd2e5910ea0c9baa5574b",
+      "width": 480,
+      "height": 480,
+      "size": 4252,
+      "createdAt": "2026-07-07T02:49:48Z",
+      "updatedAt": "2026-07-07T02:49:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/back.webp",
+      "hash": "482812615d2bfe1f5a5470e16ba2c0163dfb4e20acfc1cce587928646d9d73bf",
+      "width": 480,
+      "height": 480,
+      "size": 3944,
+      "createdAt": "2026-07-07T02:49:48Z",
+      "updatedAt": "2026-07-07T02:49:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/detail-1.webp",
+      "hash": "9c9ba1bd5428723c7b0edaf7e544ff9ada2d7474895dc2c09b8d9354d0c73a9b",
+      "width": 480,
+      "height": 480,
+      "size": 6848,
+      "createdAt": "2026-07-07T02:49:48Z",
+      "updatedAt": "2026-07-07T02:49:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/detail-2.webp",
+      "hash": "97f45827c55fda72c446626037b06e97f96f0ba2a7f5bd71d1119a3aab8550f8",
+      "width": 480,
+      "height": 480,
+      "size": 21464,
+      "createdAt": "2026-07-07T02:49:49Z",
+      "updatedAt": "2026-07-07T02:49:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/detail-3.webp",
+      "hash": "83bebca57b09c818ccdd0d016c863a375f1798a0add8c343cce2f800c91e9516",
+      "width": 480,
+      "height": 480,
+      "size": 29088,
+      "createdAt": "2026-07-07T02:49:49Z",
+      "updatedAt": "2026-07-07T02:49:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/detail-4.webp",
+      "hash": "fdd60e7789528d2cee310dc94c4539ea65e3a12224083c6c63e5e623b5e115fb",
+      "width": 480,
+      "height": 480,
+      "size": 20298,
+      "createdAt": "2026-07-07T02:49:49Z",
+      "updatedAt": "2026-07-07T02:49:49Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ssc-masculina-branca/detail-5.webp",
+      "hash": "b9335cc67cb1007a5a130f702b7139dabe33b4ff145160ebbdbf41a347eae11e",
+      "width": 480,
+      "height": 480,
+      "size": 7088,
+      "createdAt": "2026-07-07T02:49:50Z",
+      "updatedAt": "2026-07-07T02:49:50Z"
+    }
+  ]
+}

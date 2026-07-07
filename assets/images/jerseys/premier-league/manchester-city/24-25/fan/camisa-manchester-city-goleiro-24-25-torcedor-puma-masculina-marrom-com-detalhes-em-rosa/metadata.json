@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-marrom-com-detalhes-em-rosa",
+  "createdAt": "2026-07-07T02:49:22Z",
+  "updatedAt": "2026-07-07T02:49:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-marrom-com-detalhes-em-rosa/front.webp",
+      "hash": "d6d6e8b56929bd9138b57b0ea5195276849579578c1bc1d735ab45d394d88a42",
+      "width": 480,
+      "height": 480,
+      "size": 15088,
+      "createdAt": "2026-07-07T02:49:22Z",
+      "updatedAt": "2026-07-07T02:49:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-marrom-com-detalhes-em-rosa/back.webp",
+      "hash": "eefb8c74210fbf3f5c8008df816ce0f149801a99cdf889557a3341145672ebb2",
+      "width": 480,
+      "height": 480,
+      "size": 5674,
+      "createdAt": "2026-07-07T02:49:22Z",
+      "updatedAt": "2026-07-07T02:49:22Z"
+    }
+  ]
+}

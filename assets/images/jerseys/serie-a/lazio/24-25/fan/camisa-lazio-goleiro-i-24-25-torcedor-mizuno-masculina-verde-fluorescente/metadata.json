@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente",
+  "createdAt": "2026-07-07T02:49:01Z",
+  "updatedAt": "2026-07-07T02:49:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/front.webp",
+      "hash": "9d839f8c518afbff8acd5a7e42cfda2870448e62e68a967dd3d49bd001835c54",
+      "width": 480,
+      "height": 480,
+      "size": 11076,
+      "createdAt": "2026-07-07T02:48:59Z",
+      "updatedAt": "2026-07-07T02:48:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/back.webp",
+      "hash": "554bbd3ff64f46b2a3c34b4cab0c8a67ef71160a46ebadd3b7573bfaf05333a6",
+      "width": 480,
+      "height": 480,
+      "size": 4504,
+      "createdAt": "2026-07-07T02:48:59Z",
+      "updatedAt": "2026-07-07T02:48:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/detail-1.webp",
+      "hash": "caaad2e8c12dec8f1014585b114061f7aab3bda1c5281ee4c6c361b484f79a68",
+      "width": 480,
+      "height": 480,
+      "size": 26242,
+      "createdAt": "2026-07-07T02:49:00Z",
+      "updatedAt": "2026-07-07T02:49:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/detail-2.webp",
+      "hash": "cb3319da3ff6193db594ca4839fb867883924dde8271998a9b8a34972e2c5ba7",
+      "width": 480,
+      "height": 480,
+      "size": 40072,
+      "createdAt": "2026-07-07T02:49:00Z",
+      "updatedAt": "2026-07-07T02:49:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/detail-3.webp",
+      "hash": "efa6fde7152fdd293b69680e8a24f879e43111b72c743d874e83ce9e99793ee7",
+      "width": 480,
+      "height": 480,
+      "size": 35472,
+      "createdAt": "2026-07-07T02:49:00Z",
+      "updatedAt": "2026-07-07T02:49:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/detail-4.webp",
+      "hash": "bbcd89959c2a0d61d352178642fb235a468523f37f8b8613fe45d444c7da762c",
+      "width": 480,
+      "height": 480,
+      "size": 23386,
+      "createdAt": "2026-07-07T02:49:01Z",
+      "updatedAt": "2026-07-07T02:49:01Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-goleiro-i-24-25-torcedor-mizuno-masculina-verde-fluorescente/detail-5.webp",
+      "hash": "d74475140b333aa1e676de3a1243700d0e044579ed9a4467669fe5b744ee78d3",
+      "width": 480,
+      "height": 480,
+      "size": 31452,
+      "createdAt": "2026-07-07T02:49:01Z",
+      "updatedAt": "2026-07-07T02:49:01Z"
+    }
+  ]
+}

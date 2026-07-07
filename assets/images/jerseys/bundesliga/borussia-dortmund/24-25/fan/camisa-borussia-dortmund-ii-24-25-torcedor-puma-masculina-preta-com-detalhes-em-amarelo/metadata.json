@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-07T02:48:24Z",
+  "updatedAt": "2026-07-07T02:48:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo/front.webp",
+      "hash": "5ee8fb324f209935924723722b1f3fd75c4c9457e54c0b138f5863d1d0005477",
+      "width": 480,
+      "height": 480,
+      "size": 8456,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo/back.webp",
+      "hash": "63497258d5c78d14ee2c2a78a84566459da79a6e692c82fec1d38b033d843862",
+      "width": 480,
+      "height": 480,
+      "size": 4822,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "9dc3242e345f419ed2ad9b40737b697cf1b15f25c04643104039bcafd8b8bc1c",
+      "width": 480,
+      "height": 270,
+      "size": 11234,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "7957139a33c72be7031c65e8d5f92ab332232fc535030a643e9db61bd3626524",
+      "width": 480,
+      "height": 270,
+      "size": 7714,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo/detail-3.webp",
+      "hash": "c51bea87657d1f70085567b802a8a7eaad6cbeba481ea5ff9e3eda2c2871e078",
+      "width": 480,
+      "height": 270,
+      "size": 9536,
+      "createdAt": "2026-07-07T02:48:24Z",
+      "updatedAt": "2026-07-07T02:48:24Z"
+    }
+  ]
+}

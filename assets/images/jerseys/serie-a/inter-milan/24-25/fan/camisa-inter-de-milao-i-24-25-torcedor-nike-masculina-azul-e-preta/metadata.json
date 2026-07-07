@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta",
+  "createdAt": "2026-07-07T02:48:53Z",
+  "updatedAt": "2026-07-07T02:48:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/front.webp",
+      "hash": "30f54ea68a49fd784b3959a489034d3843a835c2acc22858c8b4d5decb643772",
+      "width": 480,
+      "height": 480,
+      "size": 13610,
+      "createdAt": "2026-07-07T02:48:52Z",
+      "updatedAt": "2026-07-07T02:48:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/back.webp",
+      "hash": "465debb3a7dae55fcfea93f08973b654ba878c03a7cf337675e9d8d7be493d2b",
+      "width": 480,
+      "height": 480,
+      "size": 11810,
+      "createdAt": "2026-07-07T02:48:52Z",
+      "updatedAt": "2026-07-07T02:48:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/detail-1.webp",
+      "hash": "8ad6aff0bb735b8f2bc48cfa20e93a0f294b087dc6c12418f6a5a30c5ff302c9",
+      "width": 480,
+      "height": 480,
+      "size": 13664,
+      "createdAt": "2026-07-07T02:48:52Z",
+      "updatedAt": "2026-07-07T02:48:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/detail-2.webp",
+      "hash": "08c939d5c582ab60f8e262a4cb8aa26101fb6fb741e4883b26ea753e0b5c10f4",
+      "width": 480,
+      "height": 480,
+      "size": 10192,
+      "createdAt": "2026-07-07T02:48:53Z",
+      "updatedAt": "2026-07-07T02:48:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/detail-3.webp",
+      "hash": "476d6cf20a9505f9b4682a9cbd56cfa5ffe58dfe332de787459ee5b4d7c42c0c",
+      "width": 480,
+      "height": 480,
+      "size": 18264,
+      "createdAt": "2026-07-07T02:48:53Z",
+      "updatedAt": "2026-07-07T02:48:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/detail-4.webp",
+      "hash": "d76068000b81b944ef3de2d8f3f82ed8a4e0040b5da7551a667d292a6aca5e81",
+      "width": 480,
+      "height": 480,
+      "size": 52922,
+      "createdAt": "2026-07-07T02:48:53Z",
+      "updatedAt": "2026-07-07T02:48:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-i-24-25-torcedor-nike-masculina-azul-e-preta/detail-5.webp",
+      "hash": "e8605ac03e3e550e8a3f4fb71b4fa7ccc0255e29f465ab45e5f4434d60d91201",
+      "width": 480,
+      "height": 480,
+      "size": 33072,
+      "createdAt": "2026-07-07T02:48:53Z",
+      "updatedAt": "2026-07-07T02:48:53Z"
+    }
+  ]
+}

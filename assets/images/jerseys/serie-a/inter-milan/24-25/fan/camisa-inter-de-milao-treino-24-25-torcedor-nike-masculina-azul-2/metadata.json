@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-inter-de-milao-treino-24-25-torcedor-nike-masculina-azul-2",
+  "createdAt": "2026-07-07T02:48:57Z",
+  "updatedAt": "2026-07-07T02:48:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-treino-24-25-torcedor-nike-masculina-azul-2/front.webp",
+      "hash": "68c63f839efecf38f52de1878f2510acbf82519fdd2290f0ccb4ef63951d0588",
+      "width": 480,
+      "height": 480,
+      "size": 6022,
+      "createdAt": "2026-07-07T02:48:56Z",
+      "updatedAt": "2026-07-07T02:48:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-treino-24-25-torcedor-nike-masculina-azul-2/back.webp",
+      "hash": "654f1b35170155048ff677d42d436ebcc7916d1cf283306750396fdc65033a3d",
+      "width": 480,
+      "height": 480,
+      "size": 4234,
+      "createdAt": "2026-07-07T02:48:57Z",
+      "updatedAt": "2026-07-07T02:48:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/fan/camisa-inter-de-milao-treino-24-25-torcedor-nike-masculina-azul-2/detail-1.webp",
+      "hash": "46eebf7b4bb4176cc5bab4ba79002b87c279c2e929f326b6a3075ebaace6d931",
+      "width": 480,
+      "height": 480,
+      "size": 58840,
+      "createdAt": "2026-07-07T02:48:57Z",
+      "updatedAt": "2026-07-07T02:48:57Z"
+    }
+  ]
+}

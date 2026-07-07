@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio",
+  "createdAt": "2026-07-07T02:50:07Z",
+  "updatedAt": "2026-07-07T02:50:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio/front.webp",
+      "hash": "4c28b7971b7857da0df6e84641ba1c7c36c202abd111e99e7c077c7adbe9924a",
+      "width": 480,
+      "height": 480,
+      "size": 7086,
+      "createdAt": "2026-07-07T02:50:06Z",
+      "updatedAt": "2026-07-07T02:50:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio/back.webp",
+      "hash": "07bacc77c86f9e625b3b0f34913e04651ad466225ec7a0fd68f4b13af5d1007c",
+      "width": 480,
+      "height": 480,
+      "size": 4212,
+      "createdAt": "2026-07-07T02:50:06Z",
+      "updatedAt": "2026-07-07T02:50:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio/detail-1.webp",
+      "hash": "6ae89804595cf5b4069781d076faa33e7cd453cc51542e3dd23c05dabe13193c",
+      "width": 480,
+      "height": 480,
+      "size": 36980,
+      "createdAt": "2026-07-07T02:50:06Z",
+      "updatedAt": "2026-07-07T02:50:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio/detail-2.webp",
+      "hash": "c86abaf31c069e64c1ceede5d4fae57fba86cb9aad120b95c5e8d174d8048996",
+      "width": 480,
+      "height": 480,
+      "size": 58826,
+      "createdAt": "2026-07-07T02:50:06Z",
+      "updatedAt": "2026-07-07T02:50:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-iii-24-25-torcedor-ea7-masculina-cinza-e-com-patrocinio/detail-3.webp",
+      "hash": "199d0fa647ab4d75f189d7164737394b409101848c136c4b375475b2d3449818",
+      "width": 480,
+      "height": 480,
+      "size": 74212,
+      "createdAt": "2026-07-07T02:50:06Z",
+      "updatedAt": "2026-07-07T02:50:06Z"
+    }
+  ]
+}

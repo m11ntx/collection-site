@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-chelsea-away-26-27-torcedor-nike-masculina-preta",
+  "createdAt": "2026-07-07T02:48:29Z",
+  "updatedAt": "2026-07-07T02:48:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-away-26-27-torcedor-nike-masculina-preta/front.webp",
+      "hash": "58b344cefa7d934d7b5f2c0785b3bd1af0b8fedd7daf768dd06b765cfc6bab66",
+      "width": 480,
+      "height": 480,
+      "size": 7208,
+      "createdAt": "2026-07-07T02:48:28Z",
+      "updatedAt": "2026-07-07T02:48:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-away-26-27-torcedor-nike-masculina-preta/back.webp",
+      "hash": "cc891289935b5e687b1ddd1aff1af6c06d2b88b29495301ec1e139631d0f702b",
+      "width": 480,
+      "height": 480,
+      "size": 4730,
+      "createdAt": "2026-07-07T02:48:28Z",
+      "updatedAt": "2026-07-07T02:48:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-away-26-27-torcedor-nike-masculina-preta/detail-1.webp",
+      "hash": "3343c9563360fd754db2bf392fa8c117773489d0712887ec4ac9d88155c5d812",
+      "width": 480,
+      "height": 480,
+      "size": 14122,
+      "createdAt": "2026-07-07T02:48:28Z",
+      "updatedAt": "2026-07-07T02:48:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-away-26-27-torcedor-nike-masculina-preta/detail-2.webp",
+      "hash": "06bd3dea4f42389b4ddcbe69fc18751549c676b60ff688a2612f926a1526621b",
+      "width": 480,
+      "height": 480,
+      "size": 22390,
+      "createdAt": "2026-07-07T02:48:28Z",
+      "updatedAt": "2026-07-07T02:48:28Z"
+    }
+  ]
+}

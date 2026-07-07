@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente",
+  "createdAt": "2026-07-07T02:49:09Z",
+  "updatedAt": "2026-07-07T02:49:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente/front.webp",
+      "hash": "79eda96324d1bf2e7683c97f6bd206e1c5f965cb2c47a875072a626d8e246856",
+      "width": 480,
+      "height": 480,
+      "size": 14930,
+      "createdAt": "2026-07-07T02:49:08Z",
+      "updatedAt": "2026-07-07T02:49:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente/back.webp",
+      "hash": "210f145db81752258909b2a09f5a73525f8e9e5139480b5f6f39eaa5dfd31ae0",
+      "width": 480,
+      "height": 480,
+      "size": 12642,
+      "createdAt": "2026-07-07T02:49:08Z",
+      "updatedAt": "2026-07-07T02:49:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente/detail-1.webp",
+      "hash": "ca6d4943a7028e907296814d26e227772c3998d80a1578fa2b9b16f37625df70",
+      "width": 480,
+      "height": 480,
+      "size": 2566,
+      "createdAt": "2026-07-07T02:49:09Z",
+      "updatedAt": "2026-07-07T02:49:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente/detail-2.webp",
+      "hash": "760a343ec46becbbc77ebc07dee466350207eea32ccc3f7898f626825b21c33f",
+      "width": 480,
+      "height": 480,
+      "size": 11990,
+      "createdAt": "2026-07-07T02:49:09Z",
+      "updatedAt": "2026-07-07T02:49:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-pre-jogo-24-25-torcedor-mizuno-masculina-branca-com-detalhes-em-azul-e-preto-e-verde-fluorescente/detail-3.webp",
+      "hash": "c5b41369e39d680be42acb1cf614a2fc8709027c97ec0e10cd65109be1114f67",
+      "width": 480,
+      "height": 480,
+      "size": 22218,
+      "createdAt": "2026-07-07T02:49:09Z",
+      "updatedAt": "2026-07-07T02:49:09Z"
+    }
+  ]
+}

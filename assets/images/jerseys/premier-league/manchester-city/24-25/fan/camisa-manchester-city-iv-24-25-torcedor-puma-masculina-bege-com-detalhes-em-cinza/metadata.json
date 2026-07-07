@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza",
+  "createdAt": "2026-07-07T02:49:29Z",
+  "updatedAt": "2026-07-07T02:49:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza/front.webp",
+      "hash": "0e3752e18ca5add6f7da30b11165da08f38f6fbb9814cab5e2ea3557d9c69d62",
+      "width": 480,
+      "height": 480,
+      "size": 10626,
+      "createdAt": "2026-07-07T02:49:28Z",
+      "updatedAt": "2026-07-07T02:49:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza/back.webp",
+      "hash": "b9ef6e449881ed0f6c2c2fd7ff1f2b7b23cd43d849743882d945c2cad0a95475",
+      "width": 480,
+      "height": 480,
+      "size": 6076,
+      "createdAt": "2026-07-07T02:49:28Z",
+      "updatedAt": "2026-07-07T02:49:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "4cfb6c7db73553d04e12a8785c3d49d99a9dfeaa604957d49d1f1bd71ac8d1a1",
+      "width": 480,
+      "height": 480,
+      "size": 6288,
+      "createdAt": "2026-07-07T02:49:29Z",
+      "updatedAt": "2026-07-07T02:49:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "417752fffcf4f255e8ecd3f1017f1a6a121d8564e54b52e94a9b6714763abbec",
+      "width": 480,
+      "height": 480,
+      "size": 10792,
+      "createdAt": "2026-07-07T02:49:29Z",
+      "updatedAt": "2026-07-07T02:49:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "c672d52375bb725b33c0d56484102ff8983604531c2844447e5590afe32d0e3a",
+      "width": 480,
+      "height": 480,
+      "size": 16364,
+      "createdAt": "2026-07-07T02:49:29Z",
+      "updatedAt": "2026-07-07T02:49:29Z"
+    }
+  ]
+}

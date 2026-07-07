@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul",
+  "createdAt": "2026-07-07T02:50:41Z",
+  "updatedAt": "2026-07-07T02:50:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/front.webp",
+      "hash": "f0b52fee7a1f8f0e1b0de392d66f30bff645e27c0ab2fb06a7cdce045166301b",
+      "width": 480,
+      "height": 480,
+      "size": 20688,
+      "createdAt": "2026-07-07T02:50:39Z",
+      "updatedAt": "2026-07-07T02:50:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/back.webp",
+      "hash": "cc5faf90f6058689ac087422c3550fbb56c50c6c7be984a10e60135fc99b6123",
+      "width": 480,
+      "height": 480,
+      "size": 19232,
+      "createdAt": "2026-07-07T02:50:39Z",
+      "updatedAt": "2026-07-07T02:50:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/detail-1.webp",
+      "hash": "6cc38962c904d58bcb4df0dda4ede0f797bf69092dba3c21174fd42ac84249c8",
+      "width": 480,
+      "height": 480,
+      "size": 35358,
+      "createdAt": "2026-07-07T02:50:39Z",
+      "updatedAt": "2026-07-07T02:50:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/detail-2.webp",
+      "hash": "f18c11ea6ecff441931e1077d46d5e0984f70b9e3afeb225dfdf72501db99b3c",
+      "width": 480,
+      "height": 480,
+      "size": 72172,
+      "createdAt": "2026-07-07T02:50:39Z",
+      "updatedAt": "2026-07-07T02:50:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/detail-3.webp",
+      "hash": "92f2110578c2657ab0ff3f7a298bee30868974edafc3237cbdd2fdf6ad783b49",
+      "width": 480,
+      "height": 480,
+      "size": 42352,
+      "createdAt": "2026-07-07T02:50:40Z",
+      "updatedAt": "2026-07-07T02:50:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/detail-4.webp",
+      "hash": "a20dfebc3b3fdcf6dd34d98cb9d1989b2b39c1ff60461844b722c78280b358d3",
+      "width": 480,
+      "height": 480,
+      "size": 74708,
+      "createdAt": "2026-07-07T02:50:40Z",
+      "updatedAt": "2026-07-07T02:50:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-vermelho-e-azul/detail-5.webp",
+      "hash": "04bf8f780a56bd6e5eebc7aeb20d78c4ebc686d36c97dc798d70b222ec56c910",
+      "width": 480,
+      "height": 480,
+      "size": 47158,
+      "createdAt": "2026-07-07T02:50:40Z",
+      "updatedAt": "2026-07-07T02:50:40Z"
+    }
+  ]
+}

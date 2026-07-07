@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-roma-i-25-26-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-07T02:50:26Z",
+  "updatedAt": "2026-07-07T02:50:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/as-roma/25-26/fan/camisa-roma-i-25-26-torcedor-adidas-masculina-vermelha/front.webp",
+      "hash": "a8edd728e5f8232cf59ce612199e0317b8806f499c6f413b778e58b9977a63ce",
+      "width": 480,
+      "height": 480,
+      "size": 11078,
+      "createdAt": "2026-07-07T02:50:26Z",
+      "updatedAt": "2026-07-07T02:50:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/as-roma/25-26/fan/camisa-roma-i-25-26-torcedor-adidas-masculina-vermelha/back.webp",
+      "hash": "df38f1701786cc914098ff6f27c07c76c5df6fe4e1139baa20cea99d8ae08152",
+      "width": 480,
+      "height": 480,
+      "size": 6100,
+      "createdAt": "2026-07-07T02:50:26Z",
+      "updatedAt": "2026-07-07T02:50:26Z"
+    }
+  ]
+}

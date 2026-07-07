@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-goleiro-iii-24-25-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-07T02:47:53Z",
+  "updatedAt": "2026-07-07T02:47:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-goleiro-iii-24-25-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "d1b637f1e0b91e9b65b8d3494e9cc2aa6f471be99bd3c82c76fc34b7ac9ef1f7",
+      "width": 480,
+      "height": 480,
+      "size": 16378,
+      "createdAt": "2026-07-07T02:47:53Z",
+      "updatedAt": "2026-07-07T02:47:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-goleiro-iii-24-25-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "61579ed5df9dd447601d536b2d4c8923326630f147740bf45f05ec732258f18b",
+      "width": 480,
+      "height": 480,
+      "size": 14368,
+      "createdAt": "2026-07-07T02:47:53Z",
+      "updatedAt": "2026-07-07T02:47:53Z"
+    }
+  ]
+}

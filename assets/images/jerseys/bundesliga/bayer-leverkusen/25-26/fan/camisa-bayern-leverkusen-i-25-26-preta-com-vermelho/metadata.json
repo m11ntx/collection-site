@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-leverkusen-i-25-26-preta-com-vermelho",
+  "createdAt": "2026-07-07T02:48:17Z",
+  "updatedAt": "2026-07-07T02:48:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayer-leverkusen/25-26/fan/camisa-bayern-leverkusen-i-25-26-preta-com-vermelho/front.webp",
+      "hash": "853566d8b7d3f278dd81d47a7db0781319aaf16e349d38de5c378d5faf7bc7c9",
+      "width": 480,
+      "height": 480,
+      "size": 29572,
+      "createdAt": "2026-07-07T02:48:16Z",
+      "updatedAt": "2026-07-07T02:48:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayer-leverkusen/25-26/fan/camisa-bayern-leverkusen-i-25-26-preta-com-vermelho/back.webp",
+      "hash": "588558ce6bc726068e25350afdc43a2173e131588105d872ef86d690dec0502d",
+      "width": 480,
+      "height": 480,
+      "size": 30680,
+      "createdAt": "2026-07-07T02:48:16Z",
+      "updatedAt": "2026-07-07T02:48:16Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2",
+  "createdAt": "2026-07-07T02:48:37Z",
+  "updatedAt": "2026-07-07T02:48:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/fan/camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2/front.webp",
+      "hash": "d76c9871dceff0fc876b0a8249d5b149815df8241055beb694a78d8ca550331c",
+      "width": 480,
+      "height": 480,
+      "size": 17744,
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/fan/camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2/back.webp",
+      "hash": "42b79348811a3bd5f4a589f2a6952b1b2077a4f5ed843f13eae4de87ef658180",
+      "width": 480,
+      "height": 480,
+      "size": 14080,
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/fan/camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2/detail-1.webp",
+      "hash": "c761299d2bed6edc8d27eefdf26b73268038149413fca6ba04512be8006741ec",
+      "width": 480,
+      "height": 480,
+      "size": 61022,
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/fan/camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2/detail-2.webp",
+      "hash": "c08e00702cb004f35ccc8b2d78b913b0a8cca81b655d29df6428d06e0116a2f2",
+      "width": 480,
+      "height": 480,
+      "size": 74662,
+      "createdAt": "2026-07-07T02:48:37Z",
+      "updatedAt": "2026-07-07T02:48:37Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela",
+  "createdAt": "2026-07-07T02:49:05Z",
+  "updatedAt": "2026-07-07T02:49:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/front.webp",
+      "hash": "389a731c33390f8c016b22215c400280c3390c86c78ec7396cdbe7df7db69be9",
+      "width": 480,
+      "height": 480,
+      "size": 8134,
+      "createdAt": "2026-07-07T02:49:03Z",
+      "updatedAt": "2026-07-07T02:49:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/back.webp",
+      "hash": "2c371cfa5b9ef81a1b67816801880e9934681646461ccdf29515b2261d129982",
+      "width": 480,
+      "height": 480,
+      "size": 7228,
+      "createdAt": "2026-07-07T02:49:03Z",
+      "updatedAt": "2026-07-07T02:49:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/detail-1.webp",
+      "hash": "ccaa1cd50a2a852f1354deb128afe46dc0b9bb917f7a31e01e7d24ca68a67ae3",
+      "width": 480,
+      "height": 480,
+      "size": 5004,
+      "createdAt": "2026-07-07T02:49:04Z",
+      "updatedAt": "2026-07-07T02:49:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/detail-2.webp",
+      "hash": "9da2cbd032d0af2ac40c6b86487a6f0bc46949c115967d9136a5c4d79f304351",
+      "width": 480,
+      "height": 480,
+      "size": 29548,
+      "createdAt": "2026-07-07T02:49:04Z",
+      "updatedAt": "2026-07-07T02:49:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/detail-3.webp",
+      "hash": "d0e2c95e3415bec7fde2770ae74f1a9c5d2012aa2905a356e3e3db4c7b47b060",
+      "width": 480,
+      "height": 480,
+      "size": 31578,
+      "createdAt": "2026-07-07T02:49:04Z",
+      "updatedAt": "2026-07-07T02:49:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/detail-4.webp",
+      "hash": "443ed2d202bc9efbb1b134ed4ee62155c54bc89f86c07b4f9afa9a0d70543a00",
+      "width": 480,
+      "height": 480,
+      "size": 32180,
+      "createdAt": "2026-07-07T02:49:04Z",
+      "updatedAt": "2026-07-07T02:49:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-ii-24-25-torcedor-mizuno-masculina-amarela/detail-5.webp",
+      "hash": "dca1c75cd2adcc5099e398c371f844f6be0bf0477e6679645c8276cc9439ce4c",
+      "width": 480,
+      "height": 480,
+      "size": 29386,
+      "createdAt": "2026-07-07T02:49:04Z",
+      "updatedAt": "2026-07-07T02:49:04Z"
+    }
+  ]
+}

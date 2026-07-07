@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-aston-villa-1-versao-jogador-2024-2025",
+  "createdAt": "2026-07-07T02:47:48Z",
+  "updatedAt": "2026-07-07T02:47:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/aston-villa/2024-2025/fan/camisa-aston-villa-1-versao-jogador-2024-2025/front.webp",
+      "hash": "6f9fbd2084274facfb078b2617fe9086dedae5838a93084c74c6f17de976a843",
+      "width": 480,
+      "height": 480,
+      "size": 18642,
+      "createdAt": "2026-07-07T02:47:47Z",
+      "updatedAt": "2026-07-07T02:47:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/aston-villa/2024-2025/fan/camisa-aston-villa-1-versao-jogador-2024-2025/back.webp",
+      "hash": "47136d452e1d1c18528ca6b4a5769dad49d48ddabb7313fcdaa62f62f77e165a",
+      "width": 480,
+      "height": 480,
+      "size": 29122,
+      "createdAt": "2026-07-07T02:47:47Z",
+      "updatedAt": "2026-07-07T02:47:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/aston-villa/2024-2025/fan/camisa-aston-villa-1-versao-jogador-2024-2025/detail-1.webp",
+      "hash": "fb121a2beb38430e387a7fa5f7e6b8c75cd044105c534c8f71009a2ae1e9ad2c",
+      "width": 480,
+      "height": 480,
+      "size": 33142,
+      "createdAt": "2026-07-07T02:47:48Z",
+      "updatedAt": "2026-07-07T02:47:48Z"
+    }
+  ]
+}

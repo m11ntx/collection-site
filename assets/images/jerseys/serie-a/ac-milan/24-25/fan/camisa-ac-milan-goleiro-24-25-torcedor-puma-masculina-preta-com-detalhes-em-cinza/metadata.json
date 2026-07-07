@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza",
+  "createdAt": "2026-07-07T02:47:32Z",
+  "updatedAt": "2026-07-07T02:47:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/front.webp",
+      "hash": "80e8e2af1330431c1f0271945be8b915acd4b0e53ac1a95595fa0fd059fbf7fd",
+      "width": 480,
+      "height": 480,
+      "size": 21494,
+      "createdAt": "2026-07-07T02:47:31Z",
+      "updatedAt": "2026-07-07T02:47:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/back.webp",
+      "hash": "60acc93ee652d4784ec58cd74e97079a0b6bb04c3c41d2b6500cf3b460239f2f",
+      "width": 480,
+      "height": 480,
+      "size": 5838,
+      "createdAt": "2026-07-07T02:47:31Z",
+      "updatedAt": "2026-07-07T02:47:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "586ee5d597788595ff7eaefc5134cdffe4fc792d2027175b4929122835d91895",
+      "width": 480,
+      "height": 480,
+      "size": 19920,
+      "createdAt": "2026-07-07T02:47:31Z",
+      "updatedAt": "2026-07-07T02:47:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "5f374810f15702003419f9e6ffd76965b75548303510f8421aacd7d9d4c5b9a2",
+      "width": 480,
+      "height": 480,
+      "size": 6052,
+      "createdAt": "2026-07-07T02:47:32Z",
+      "updatedAt": "2026-07-07T02:47:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "f41ec3722478ec65a85a632a9e923e4ef5cd5e42f69c2457f8974212ae548609",
+      "width": 480,
+      "height": 480,
+      "size": 27236,
+      "createdAt": "2026-07-07T02:47:32Z",
+      "updatedAt": "2026-07-07T02:47:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-24-25-torcedor-puma-masculina-preta-com-detalhes-em-cinza/detail-4.webp",
+      "hash": "f075444386c2dbbdd5a2bc16fdd18a5407492e524415aa8d5b86e230c8ac5d4e",
+      "width": 480,
+      "height": 480,
+      "size": 21610,
+      "createdAt": "2026-07-07T02:47:32Z",
+      "updatedAt": "2026-07-07T02:47:32Z"
+    }
+  ]
+}

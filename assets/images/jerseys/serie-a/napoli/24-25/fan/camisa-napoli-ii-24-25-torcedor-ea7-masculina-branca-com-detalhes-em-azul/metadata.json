@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T02:49:56Z",
+  "updatedAt": "2026-07-07T02:49:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/front.webp",
+      "hash": "a5e9a557459dda19286a525c79771cc22caae7ed06b967ffc4dcf1803188a5c8",
+      "width": 480,
+      "height": 480,
+      "size": 7298,
+      "createdAt": "2026-07-07T02:49:55Z",
+      "updatedAt": "2026-07-07T02:49:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/back.webp",
+      "hash": "3c0880d8812bf420b238f0269a7946bcd330dfb9282bcbb35b1c682f0641204f",
+      "width": 480,
+      "height": 480,
+      "size": 3084,
+      "createdAt": "2026-07-07T02:49:55Z",
+      "updatedAt": "2026-07-07T02:49:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "64d2d821ce434ca2658dd4742dad59ea08eb3ed48882bd856eeae6bb74e2b2dc",
+      "width": 480,
+      "height": 480,
+      "size": 2978,
+      "createdAt": "2026-07-07T02:49:55Z",
+      "updatedAt": "2026-07-07T02:49:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "241f5c3286f9731aca48c9ff91adce93b3f929ccd7a6492e76cd1244d99f9ad5",
+      "width": 480,
+      "height": 480,
+      "size": 9488,
+      "createdAt": "2026-07-07T02:49:55Z",
+      "updatedAt": "2026-07-07T02:49:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/detail-3.webp",
+      "hash": "66f72056df6983976a202abbebc222c3312345996ef98f59b7772441f7035eb7",
+      "width": 480,
+      "height": 480,
+      "size": 36900,
+      "createdAt": "2026-07-07T02:49:56Z",
+      "updatedAt": "2026-07-07T02:49:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/detail-4.webp",
+      "hash": "30e2c292396952b9ab9e7e4dc3682a4f1481c3cbc0e37aa81c1557be964ca400",
+      "width": 480,
+      "height": 480,
+      "size": 20808,
+      "createdAt": "2026-07-07T02:49:56Z",
+      "updatedAt": "2026-07-07T02:49:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-ii-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-azul/detail-5.webp",
+      "hash": "4e679e448d8799010b0a6707e66bc59d94eb30a05644cefbd8276ef21e3241ee",
+      "width": 480,
+      "height": 480,
+      "size": 7576,
+      "createdAt": "2026-07-07T02:49:56Z",
+      "updatedAt": "2026-07-07T02:49:56Z"
+    }
+  ]
+}

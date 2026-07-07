@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-ii-26-27-torcedor-puma-masculina-branca",
+  "createdAt": "2026-07-07T02:47:37Z",
+  "updatedAt": "2026-07-07T02:47:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-ii-26-27-torcedor-puma-masculina-branca/front.webp",
+      "hash": "de851f17ec72d4e1f8878a26d6c6af481f49b68a437b1957457c496fe96f19d1",
+      "width": 480,
+      "height": 480,
+      "size": 13700,
+      "createdAt": "2026-07-07T02:47:36Z",
+      "updatedAt": "2026-07-07T02:47:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-ii-26-27-torcedor-puma-masculina-branca/back.webp",
+      "hash": "4ff5e112d0219448c563460db4394b5874b8999bbf2ce4ccfd85fe5eb12609a1",
+      "width": 480,
+      "height": 480,
+      "size": 4312,
+      "createdAt": "2026-07-07T02:47:36Z",
+      "updatedAt": "2026-07-07T02:47:36Z"
+    }
+  ]
+}

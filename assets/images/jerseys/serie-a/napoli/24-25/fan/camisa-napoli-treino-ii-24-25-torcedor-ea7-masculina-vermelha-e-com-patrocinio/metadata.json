@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio",
+  "createdAt": "2026-07-07T02:50:05Z",
+  "updatedAt": "2026-07-07T02:50:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/front.webp",
+      "hash": "99888174d0105668b1ed58487bb6b93bb5e69b626100b6a8c1f0c9f4643ee55e",
+      "width": 480,
+      "height": 480,
+      "size": 18654,
+      "createdAt": "2026-07-07T02:50:04Z",
+      "updatedAt": "2026-07-07T02:50:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/back.webp",
+      "hash": "b7e5b60b8de5520f83ab4bdbfba1eb505a02497cd559bb759e6bf5a92dfb95e0",
+      "width": 480,
+      "height": 480,
+      "size": 21134,
+      "createdAt": "2026-07-07T02:50:04Z",
+      "updatedAt": "2026-07-07T02:50:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/detail-1.webp",
+      "hash": "5e039fe18bb895318e6d16f2bc31c554f7e248cd14fdd3c204334b25e2c104a0",
+      "width": 480,
+      "height": 480,
+      "size": 34138,
+      "createdAt": "2026-07-07T02:50:04Z",
+      "updatedAt": "2026-07-07T02:50:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/detail-2.webp",
+      "hash": "82ae3a88deb81ddfb053d1131294353e0ed4bb6287d17e396841b2bd71d4873a",
+      "width": 480,
+      "height": 480,
+      "size": 51060,
+      "createdAt": "2026-07-07T02:50:04Z",
+      "updatedAt": "2026-07-07T02:50:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/detail-3.webp",
+      "hash": "7b718357cc080540277061d03a4f8cac74a07744bfe2a6ead2df67addb77bfda",
+      "width": 480,
+      "height": 480,
+      "size": 44606,
+      "createdAt": "2026-07-07T02:50:05Z",
+      "updatedAt": "2026-07-07T02:50:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-treino-ii-24-25-torcedor-ea7-masculina-vermelha-e-com-patrocinio/detail-4.webp",
+      "hash": "5d1a17227df8d9c58026cc3f84e968566411bc5187c779ca4ec579cfcf5e10f4",
+      "width": 480,
+      "height": 480,
+      "size": 51704,
+      "createdAt": "2026-07-07T02:50:05Z",
+      "updatedAt": "2026-07-07T02:50:05Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-wolverhampton-home-2024-25-torcedor-castore-masculina",
+  "createdAt": "2026-07-07T02:50:35Z",
+  "updatedAt": "2026-07-07T02:50:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/wolverhampton-wanderers/2024-25/fan/camisa-wolverhampton-home-2024-25-torcedor-castore-masculina/front.webp",
+      "hash": "4fdedda55ab144670cab51b225cf87ca729b0b1be4deb817c4e8f6b207b8ef3d",
+      "width": 480,
+      "height": 480,
+      "size": 13996,
+      "createdAt": "2026-07-07T02:50:35Z",
+      "updatedAt": "2026-07-07T02:50:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/wolverhampton-wanderers/2024-25/fan/camisa-wolverhampton-home-2024-25-torcedor-castore-masculina/back.webp",
+      "hash": "b6fb81debe075af356236803928fcfad8d6c2c613b7bf93e5e620ac120239e8d",
+      "width": 480,
+      "height": 480,
+      "size": 12228,
+      "createdAt": "2026-07-07T02:50:35Z",
+      "updatedAt": "2026-07-07T02:50:35Z"
+    }
+  ]
+}

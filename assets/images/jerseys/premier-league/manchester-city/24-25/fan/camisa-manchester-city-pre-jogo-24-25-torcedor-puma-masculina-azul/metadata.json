@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-azul",
+  "createdAt": "2026-07-07T02:49:30Z",
+  "updatedAt": "2026-07-07T02:49:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-azul/front.webp",
+      "hash": "8f9af772c0dc49e268f0cb8097fe3d31554e2c94ea065d764c2a0a6f9e20bd59",
+      "width": 480,
+      "height": 480,
+      "size": 9728,
+      "createdAt": "2026-07-07T02:49:30Z",
+      "updatedAt": "2026-07-07T02:49:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-azul/back.webp",
+      "hash": "c1b547aa87a6d08460578e6fc5f6b55df0f274b787d3fa405959d3b2047669a0",
+      "width": 480,
+      "height": 480,
+      "size": 7780,
+      "createdAt": "2026-07-07T02:49:30Z",
+      "updatedAt": "2026-07-07T02:49:30Z"
+    }
+  ]
+}

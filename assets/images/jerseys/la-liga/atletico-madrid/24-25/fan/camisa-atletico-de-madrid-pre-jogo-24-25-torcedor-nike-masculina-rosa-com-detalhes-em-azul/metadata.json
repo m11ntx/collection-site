@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-pre-jogo-24-25-torcedor-nike-masculina-rosa-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T02:47:57Z",
+  "updatedAt": "2026-07-07T02:47:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-pre-jogo-24-25-torcedor-nike-masculina-rosa-com-detalhes-em-azul/front.webp",
+      "hash": "0a8744074b0922c7a6f1633230448c1b62bf1717974342e6b120851a3ea7ceab",
+      "width": 480,
+      "height": 480,
+      "size": 9712,
+      "createdAt": "2026-07-07T02:47:56Z",
+      "updatedAt": "2026-07-07T02:47:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-pre-jogo-24-25-torcedor-nike-masculina-rosa-com-detalhes-em-azul/back.webp",
+      "hash": "d67dc505fe528d013495bcecb1c51e98885513a21e066106344946f67c57533f",
+      "width": 480,
+      "height": 480,
+      "size": 10218,
+      "createdAt": "2026-07-07T02:47:57Z",
+      "updatedAt": "2026-07-07T02:47:57Z"
+    }
+  ]
+}

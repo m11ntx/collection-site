@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-i-25-26-torcedor-nike-vermelha",
+  "createdAt": "2026-07-07T02:47:55Z",
+  "updatedAt": "2026-07-07T02:47:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/25-26/fan/camisa-atletico-de-madrid-i-25-26-torcedor-nike-vermelha/front.webp",
+      "hash": "1e0f315137306a1f30fe06fb708758abec3d962306cdbbfa3c2e2d77c3bb728c",
+      "width": 480,
+      "height": 480,
+      "size": 14226,
+      "createdAt": "2026-07-07T02:47:54Z",
+      "updatedAt": "2026-07-07T02:47:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/25-26/fan/camisa-atletico-de-madrid-i-25-26-torcedor-nike-vermelha/back.webp",
+      "hash": "8013262ec00642eb530d46f18cea037a21cc9f999b784c3c9b4abe1a6b197933",
+      "width": 480,
+      "height": 480,
+      "size": 9670,
+      "createdAt": "2026-07-07T02:47:54Z",
+      "updatedAt": "2026-07-07T02:47:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/25-26/fan/camisa-atletico-de-madrid-i-25-26-torcedor-nike-vermelha/detail-1.webp",
+      "hash": "321a60051ce0efe6f05eb3ce6766b2b81e5334f888648337329b096bbecdfb75",
+      "width": 480,
+      "height": 480,
+      "size": 39690,
+      "createdAt": "2026-07-07T02:47:54Z",
+      "updatedAt": "2026-07-07T02:47:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/25-26/fan/camisa-atletico-de-madrid-i-25-26-torcedor-nike-vermelha/detail-2.webp",
+      "hash": "b4df4ec465fc43f3e0ad7a2666fbfed0b5343ead0a3dac7be780aed78e63170b",
+      "width": 480,
+      "height": 480,
+      "size": 33272,
+      "createdAt": "2026-07-07T02:47:54Z",
+      "updatedAt": "2026-07-07T02:47:54Z"
+    }
+  ]
+}

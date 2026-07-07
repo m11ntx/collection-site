@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-milan-pre-jogo-24-25-torcedor-puma-masculina-vermelha-com-detalhes-em-preto",
+  "createdAt": "2026-07-07T02:49:45Z",
+  "updatedAt": "2026-07-07T02:49:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-milan-pre-jogo-24-25-torcedor-puma-masculina-vermelha-com-detalhes-em-preto/front.webp",
+      "hash": "ece6fdf20c4cb5c6db4dbebb25840d4836d6c3bad617ea5759f5cee66dd3adaf",
+      "width": 480,
+      "height": 480,
+      "size": 15204,
+      "createdAt": "2026-07-07T02:49:45Z",
+      "updatedAt": "2026-07-07T02:49:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-milan-pre-jogo-24-25-torcedor-puma-masculina-vermelha-com-detalhes-em-preto/back.webp",
+      "hash": "52407913e3970dc7ff0d1d55b7c8ad057a3b59b23b4080141b9a8e11b611b86a",
+      "width": 480,
+      "height": 480,
+      "size": 11514,
+      "createdAt": "2026-07-07T02:49:45Z",
+      "updatedAt": "2026-07-07T02:49:45Z"
+    }
+  ]
+}

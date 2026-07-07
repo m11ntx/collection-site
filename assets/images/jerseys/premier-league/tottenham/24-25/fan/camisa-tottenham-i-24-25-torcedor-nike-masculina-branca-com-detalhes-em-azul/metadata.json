@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-tottenham-i-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T02:50:29Z",
+  "updatedAt": "2026-07-07T02:50:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul/front.webp",
+      "hash": "d37a330987db934dc23f7bee11982518e832b2096bb67641d704e2e2248b1b7c",
+      "width": 480,
+      "height": 480,
+      "size": 7294,
+      "createdAt": "2026-07-07T02:50:28Z",
+      "updatedAt": "2026-07-07T02:50:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul/back.webp",
+      "hash": "7abd381dcf60b60e0db40ea05eea67be5515be98cd9789019217fd89a33655ad",
+      "width": 480,
+      "height": 480,
+      "size": 3884,
+      "createdAt": "2026-07-07T02:50:28Z",
+      "updatedAt": "2026-07-07T02:50:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "3aecdcb1fdeb59008365687f2c6de85a83d5e80d70a115793431730d00dc8875",
+      "width": 480,
+      "height": 600,
+      "size": 48860,
+      "createdAt": "2026-07-07T02:50:28Z",
+      "updatedAt": "2026-07-07T02:50:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "7318855615c88f28ef1802868f9e47be349b7ea3a9af2f8188ca6f36e910ef31",
+      "width": 480,
+      "height": 480,
+      "size": 9236,
+      "createdAt": "2026-07-07T02:50:29Z",
+      "updatedAt": "2026-07-07T02:50:29Z"
+    }
+  ]
+}

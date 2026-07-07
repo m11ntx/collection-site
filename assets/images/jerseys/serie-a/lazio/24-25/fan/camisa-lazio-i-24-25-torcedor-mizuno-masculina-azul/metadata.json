@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul",
+  "createdAt": "2026-07-07T02:49:03Z",
+  "updatedAt": "2026-07-07T02:49:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/front.webp",
+      "hash": "f2c12438636be8c3a73a8fbcf7bf24bdb7f7330929d1ab43e833b55d3d85d5e8",
+      "width": 480,
+      "height": 480,
+      "size": 10146,
+      "createdAt": "2026-07-07T02:49:01Z",
+      "updatedAt": "2026-07-07T02:49:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/back.webp",
+      "hash": "ce8677c700802f74eb30d53e2e0ba20e622a26b7ea882437b03ff251104c4017",
+      "width": 480,
+      "height": 480,
+      "size": 4652,
+      "createdAt": "2026-07-07T02:49:01Z",
+      "updatedAt": "2026-07-07T02:49:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/detail-1.webp",
+      "hash": "efe9790bc7b068124fea68a86a80bd440fe3b722eb2c049d9bd35a58d973b206",
+      "width": 480,
+      "height": 480,
+      "size": 52942,
+      "createdAt": "2026-07-07T02:49:02Z",
+      "updatedAt": "2026-07-07T02:49:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/detail-2.webp",
+      "hash": "57be77bb62b7b916ce0cfb2d7d60be004a20a21bbfb1dd8bda35c172f20ed28d",
+      "width": 480,
+      "height": 480,
+      "size": 44142,
+      "createdAt": "2026-07-07T02:49:02Z",
+      "updatedAt": "2026-07-07T02:49:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/detail-3.webp",
+      "hash": "2e846d3ad82efc64a3243c956b67a68c04452628464f12e6403bd42546da3d40",
+      "width": 480,
+      "height": 480,
+      "size": 47684,
+      "createdAt": "2026-07-07T02:49:02Z",
+      "updatedAt": "2026-07-07T02:49:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/detail-4.webp",
+      "hash": "f736378df50a4973f08cc039b8ac1869ada0d5d8d1d2429b0c02479800658446",
+      "width": 480,
+      "height": 480,
+      "size": 41560,
+      "createdAt": "2026-07-07T02:49:03Z",
+      "updatedAt": "2026-07-07T02:49:03Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul/detail-5.webp",
+      "hash": "fb120259f523315688ec9bfb3ccc0f9b405ed401d3bc24abef164931592a706a",
+      "width": 480,
+      "height": 480,
+      "size": 38780,
+      "createdAt": "2026-07-07T02:49:03Z",
+      "updatedAt": "2026-07-07T02:49:03Z"
+    }
+  ]
+}

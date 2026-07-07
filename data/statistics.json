@@ -1,32 +1,32 @@
 {
   "totals": {
-    "products": 2437,
+    "products": 2441,
     "collections": 3,
     "leagues": 6,
     "regions": 6,
-    "clubs": 42,
+    "clubs": 59,
     "manufacturers": 17
   },
   "products": {
-    "available": 2390,
+    "available": 2394,
     "unavailable": 47,
     "inventoryTracked": 0,
-    "withManufacturer": 1965
+    "withManufacturer": 1969
   },
   "byCollection": {
     "brasil": 487,
-    "europa": 1293,
+    "europa": 1297,
     "selecoes": 235,
     "unknown": 422
   },
   "byLeague": {
     "brasileirao": 408,
-    "bundesliga": 64,
-    "la-liga": 189,
-    "ligue-1": 15,
+    "bundesliga": 65,
+    "la-liga": 191,
+    "ligue-1": 19,
     "premier-league": 417,
-    "serie-a": 231,
-    "unknown": 1113
+    "serie-a": 232,
+    "unknown": 1109
   },
   "byRegion": {
     "minas-gerais": 57,
@@ -35,42 +35,58 @@
     "rio-de-janeiro": 146,
     "sao-paulo": 98,
     "sul": 56,
-    "unknown": 2024
+    "unknown": 2028
   },
   "byClub": {
-    "ac-milan": 68,
+    "ac-milan": 70,
     "america-mineiro": 1,
     "arsenal": 73,
+    "as-roma": 4,
+    "aston-villa": 4,
+    "athletic-bilbao": 1,
     "athletico-paranaense": 9,
     "atletico-madrid": 35,
     "atletico-mineiro": 25,
     "avai": 1,
     "bahia": 23,
-    "barcelona": 129,
+    "barcelona": 131,
     "bayer-leverkusen": 10,
     "bayern-munich": 15,
-    "borussia-dortmund": 33,
+    "borussia-dortmund": 34,
     "botafogo": 20,
     "bragantino": 9,
     "ceara": 1,
     "chapecoense": 2,
-    "chelsea": 46,
+    "chelsea": 47,
     "corinthians": 22,
     "cruzeiro": 31,
+    "crystal-palace": 1,
+    "eintracht-frankfurt": 1,
+    "everton": 10,
+    "fc-heidenheim": 1,
     "flamengo": 79,
     "fluminense": 22,
     "fortaleza": 3,
     "gremio": 20,
-    "inter-milan": 58,
+    "inter-milan": 59,
     "internacional": 21,
     "juventus": 12,
+    "lazio": 6,
+    "leeds-united": 1,
+    "lille": 1,
     "liverpool": 8,
+    "lorient": 1,
+    "lyon": 2,
     "manchester-city": 60,
-    "manchester-united": 126,
+    "manchester-united": 125,
+    "napoli": 12,
     "nautico": 3,
+    "newcastle-united": 8,
+    "nottingham-forest": 1,
     "palmeiras": 33,
     "paris-saint-germain": 15,
     "paysandu": 4,
+    "rb-leipzig": 4,
     "real-madrid": 22,
     "remo": 2,
     "santa-cruz": 6,
@@ -78,9 +94,10 @@
     "sao-paulo": 14,
     "sport": 7,
     "tottenham": 37,
-    "unknown": 1283,
+    "unknown": 1221,
     "vasco-da-gama": 25,
-    "vitoria": 4
+    "vitoria": 4,
+    "wolverhampton-wanderers": 2
   },
   "bySeason": {
     "01/02": 1,
@@ -232,7 +249,7 @@
     "21/20": 1,
     "22/23": 1,
     "24/15": 1,
-    "24/25": 1174,
+    "24/25": 1178,
     "24/35": 1,
     "25/26": 201,
     "26/27": 180,
@@ -258,18 +275,18 @@
   },
   "byCategory": {
     "current": 86,
-    "manga-longa": 4,
+    "manga-longa": 6,
     "retro": 583,
-    "unknown": 1764
+    "unknown": 1766
   },
   "byVersion": {
-    "fan": 1138,
+    "fan": 1142,
     "player": 209,
     "unknown": 1090
   },
   "byGender": {
     "kids": 127,
-    "men": 1887,
+    "men": 1891,
     "unknown": 354,
     "women": 69
   }

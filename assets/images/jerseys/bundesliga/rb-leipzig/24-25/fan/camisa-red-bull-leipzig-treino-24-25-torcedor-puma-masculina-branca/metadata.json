@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-red-bull-leipzig-treino-24-25-torcedor-puma-masculina-branca",
+  "createdAt": "2026-07-07T02:50:23Z",
+  "updatedAt": "2026-07-07T02:50:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-treino-24-25-torcedor-puma-masculina-branca/front.webp",
+      "hash": "43a3d631b1ca8cc1014440c87c635cf1f987f36558ece20a0ba217cd81d0ec89",
+      "width": 480,
+      "height": 480,
+      "size": 5474,
+      "createdAt": "2026-07-07T02:50:23Z",
+      "updatedAt": "2026-07-07T02:50:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/24-25/fan/camisa-red-bull-leipzig-treino-24-25-torcedor-puma-masculina-branca/back.webp",
+      "hash": "a662854cf4ab724ba406d460b9f45282db7ed29f44259bfa73a10a236fa63320",
+      "width": 480,
+      "height": 480,
+      "size": 4332,
+      "createdAt": "2026-07-07T02:50:23Z",
+      "updatedAt": "2026-07-07T02:50:23Z"
+    }
+  ]
+}

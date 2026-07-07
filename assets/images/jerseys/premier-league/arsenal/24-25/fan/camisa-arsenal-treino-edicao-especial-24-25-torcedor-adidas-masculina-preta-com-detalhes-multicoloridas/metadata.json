@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-arsenal-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas",
+  "createdAt": "2026-07-07T02:50:36Z",
+  "updatedAt": "2026-07-07T02:50:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/front.webp",
+      "hash": "06640ab3ecf0b2c1f5ac884748ccd83dbbe888752952c04b79431756e0e614c3",
+      "width": 480,
+      "height": 480,
+      "size": 8870,
+      "createdAt": "2026-07-07T02:50:36Z",
+      "updatedAt": "2026-07-07T02:50:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/back.webp",
+      "hash": "8d7cb449ee742f188fa1b4493f15d5e988b3c1297e4570d620898f99a1a055d0",
+      "width": 480,
+      "height": 480,
+      "size": 6146,
+      "createdAt": "2026-07-07T02:50:36Z",
+      "updatedAt": "2026-07-07T02:50:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-1.webp",
+      "hash": "d12da89b6031ec2c5f5e063a7440e8e745309c47d1a514e5c8800ba9bca1e585",
+      "width": 480,
+      "height": 480,
+      "size": 10682,
+      "createdAt": "2026-07-07T02:50:36Z",
+      "updatedAt": "2026-07-07T02:50:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas/detail-2.webp",
+      "hash": "8f0ad97317bc01bc79aa0c2cd5288729e2ac3b465dda1efb7fe0e8616f842a6e",
+      "width": 480,
+      "height": 480,
+      "size": 29802,
+      "createdAt": "2026-07-07T02:50:36Z",
+      "updatedAt": "2026-07-07T02:50:36Z"
+    }
+  ]
+}

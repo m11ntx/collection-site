@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege",
+  "createdAt": "2026-07-07T02:49:32Z",
+  "updatedAt": "2026-07-07T02:49:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege/front.webp",
+      "hash": "7ff5bf1507485aeb1204e769b706dfc535d7e64ad9f4ebf8e951bc233fb60080",
+      "width": 480,
+      "height": 480,
+      "size": 8596,
+      "createdAt": "2026-07-07T02:49:30Z",
+      "updatedAt": "2026-07-07T02:49:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege/back.webp",
+      "hash": "cbe5ffcba2db11abd551eb686e688aaad76e2af45c202e7c48b99c7e823fe9f7",
+      "width": 480,
+      "height": 480,
+      "size": 3620,
+      "createdAt": "2026-07-07T02:49:31Z",
+      "updatedAt": "2026-07-07T02:49:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege/detail-1.webp",
+      "hash": "6e6ba5c84bab791148e4d90b5a4e7c0c100a5db24770756d62292eabfe79f12b",
+      "width": 480,
+      "height": 480,
+      "size": 43332,
+      "createdAt": "2026-07-07T02:49:31Z",
+      "updatedAt": "2026-07-07T02:49:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege/detail-2.webp",
+      "hash": "c048b572152bc55ec5236f83bfad7fed2a424c810c5fb4f42b27961ace9fe593",
+      "width": 480,
+      "height": 480,
+      "size": 30356,
+      "createdAt": "2026-07-07T02:49:31Z",
+      "updatedAt": "2026-07-07T02:49:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-bege/detail-3.webp",
+      "hash": "e8f756977a4b0e90a0304cf4d3573a614dfdce61cdea564351bf76a8f5e30091",
+      "width": 480,
+      "height": 480,
+      "size": 25046,
+      "createdAt": "2026-07-07T02:49:31Z",
+      "updatedAt": "2026-07-07T02:49:31Z"
+    }
+  ]
+}

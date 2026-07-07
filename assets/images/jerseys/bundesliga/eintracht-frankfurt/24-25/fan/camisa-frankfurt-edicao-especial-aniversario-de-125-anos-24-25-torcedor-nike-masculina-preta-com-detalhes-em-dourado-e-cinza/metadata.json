@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza",
+  "createdAt": "2026-07-07T02:48:48Z",
+  "updatedAt": "2026-07-07T02:48:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/front.webp",
+      "hash": "dc8b93193824bb3b9be3503a5219000bdc9849f14de4f02653bbb9ceeb3de5b8",
+      "width": 480,
+      "height": 480,
+      "size": 13080,
+      "createdAt": "2026-07-07T02:48:47Z",
+      "updatedAt": "2026-07-07T02:48:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/back.webp",
+      "hash": "4869fb582adf128459cfdddc230e4ea7c622f50c077b36fd3701f544339a59c6",
+      "width": 480,
+      "height": 480,
+      "size": 19232,
+      "createdAt": "2026-07-07T02:48:47Z",
+      "updatedAt": "2026-07-07T02:48:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/detail-1.webp",
+      "hash": "3874795ec824318e5bd7144b73f88de43779ac1b1b949ed02c9901d7fc105a0c",
+      "width": 480,
+      "height": 480,
+      "size": 4378,
+      "createdAt": "2026-07-07T02:48:47Z",
+      "updatedAt": "2026-07-07T02:48:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/detail-2.webp",
+      "hash": "8b08f907c89be3e5e86aa305916ede0121701f933e2e1ce59607247088059b8a",
+      "width": 480,
+      "height": 480,
+      "size": 43432,
+      "createdAt": "2026-07-07T02:48:47Z",
+      "updatedAt": "2026-07-07T02:48:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/detail-3.webp",
+      "hash": "bfdf8634605a579b980f53d0e850c5b0b1d6981d8fb52758c1162f06a504d198",
+      "width": 480,
+      "height": 480,
+      "size": 60650,
+      "createdAt": "2026-07-07T02:48:48Z",
+      "updatedAt": "2026-07-07T02:48:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/detail-4.webp",
+      "hash": "3fedfa305fe3ed24ba3ac51a6deab359652b937bd3f1049dbbecbfc56ca4afb3",
+      "width": 480,
+      "height": 480,
+      "size": 19294,
+      "createdAt": "2026-07-07T02:48:48Z",
+      "updatedAt": "2026-07-07T02:48:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/eintracht-frankfurt/24-25/fan/camisa-frankfurt-edicao-especial-aniversario-de-125-anos-24-25-torcedor-nike-masculina-preta-com-detalhes-em-dourado-e-cinza/detail-5.webp",
+      "hash": "9ad95a597ea96e2f3f01bbb649b99767c856478799d0fce094444aa1d2b56656",
+      "width": 480,
+      "height": 480,
+      "size": 13346,
+      "createdAt": "2026-07-07T02:48:48Z",
+      "updatedAt": "2026-07-07T02:48:48Z"
+    }
+  ]
+}

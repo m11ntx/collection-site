@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-lazio-treino-24-25-torcedor-mizuno-masculina-azul",
+  "createdAt": "2026-07-07T02:49:11Z",
+  "updatedAt": "2026-07-07T02:49:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-treino-24-25-torcedor-mizuno-masculina-azul/front.webp",
+      "hash": "4779fa40a7c108f2dbd10fcf10b9f134f54b4e568ba3c8b159fcd44580a5253c",
+      "width": 480,
+      "height": 480,
+      "size": 8704,
+      "createdAt": "2026-07-07T02:49:10Z",
+      "updatedAt": "2026-07-07T02:49:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-treino-24-25-torcedor-mizuno-masculina-azul/back.webp",
+      "hash": "4a54a756c0857ec6c8a9bde1de79d557862f984c50796ae2707d8727716e5a3c",
+      "width": 480,
+      "height": 480,
+      "size": 7958,
+      "createdAt": "2026-07-07T02:49:10Z",
+      "updatedAt": "2026-07-07T02:49:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-treino-24-25-torcedor-mizuno-masculina-azul/detail-1.webp",
+      "hash": "9040b3d234a7c5357aa031b9da74932f9196d82089b27b40cc4953eb56efed25",
+      "width": 480,
+      "height": 480,
+      "size": 35020,
+      "createdAt": "2026-07-07T02:49:10Z",
+      "updatedAt": "2026-07-07T02:49:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-treino-24-25-torcedor-mizuno-masculina-azul/detail-2.webp",
+      "hash": "9cb3ee8521af4dd006b9305fd644cb02dd4ac7d90c6660b0f7cc977b28928a0b",
+      "width": 480,
+      "height": 480,
+      "size": 34462,
+      "createdAt": "2026-07-07T02:49:10Z",
+      "updatedAt": "2026-07-07T02:49:10Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa",
+  "createdAt": "2026-07-07T02:47:38Z",
+  "updatedAt": "2026-07-07T02:47:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa/front.webp",
+      "hash": "1b719e83928f5e0142de9fbd9fd9235eaa7dbc9dfcfff24b905b190207ae0401",
+      "width": 480,
+      "height": 480,
+      "size": 17206,
+      "createdAt": "2026-07-07T02:47:37Z",
+      "updatedAt": "2026-07-07T02:47:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa/back.webp",
+      "hash": "b099cf60c44a4c21e3c3a80e3b189182a6c218dd18dd930be36d1e589982b117",
+      "width": 480,
+      "height": 480,
+      "size": 15040,
+      "createdAt": "2026-07-07T02:47:38Z",
+      "updatedAt": "2026-07-07T02:47:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa/detail-1.webp",
+      "hash": "7d21ef476c78d7c1d597cdae91149d4b1b1230fb071b5d74274f1a1af753edad",
+      "width": 480,
+      "height": 480,
+      "size": 26964,
+      "createdAt": "2026-07-07T02:47:38Z",
+      "updatedAt": "2026-07-07T02:47:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa/detail-2.webp",
+      "hash": "91b4e696735b58bf9491280246542c7938492b408da10f0331f6fb85bcf8da54",
+      "width": 480,
+      "height": 480,
+      "size": 35586,
+      "createdAt": "2026-07-07T02:47:38Z",
+      "updatedAt": "2026-07-07T02:47:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-pre-jogo-24-25-torcedor-puma-masculina-rosa/detail-3.webp",
+      "hash": "0690b0b7d6f155bfa93a48c66c727e48a82757262cd5dde7fc179488c7e92d6f",
+      "width": 480,
+      "height": 480,
+      "size": 39982,
+      "createdAt": "2026-07-07T02:47:38Z",
+      "updatedAt": "2026-07-07T02:47:38Z"
+    }
+  ]
+}

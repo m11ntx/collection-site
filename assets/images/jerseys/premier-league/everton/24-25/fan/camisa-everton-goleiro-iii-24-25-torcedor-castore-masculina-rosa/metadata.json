@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-everton-goleiro-iii-24-25-torcedor-castore-masculina-rosa",
+  "createdAt": "2026-07-07T02:48:42Z",
+  "updatedAt": "2026-07-07T02:48:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-goleiro-iii-24-25-torcedor-castore-masculina-rosa/front.webp",
+      "hash": "ee7b5227ac89196c8dc75f44fb19ca5cb8a20f323539021675c57e73666a851d",
+      "width": 480,
+      "height": 480,
+      "size": 19990,
+      "createdAt": "2026-07-07T02:48:41Z",
+      "updatedAt": "2026-07-07T02:48:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-goleiro-iii-24-25-torcedor-castore-masculina-rosa/back.webp",
+      "hash": "1413c29f4d499850078a91ba5cf398324f388e94f0607071e7eaa239b8c2e940",
+      "width": 480,
+      "height": 480,
+      "size": 4734,
+      "createdAt": "2026-07-07T02:48:41Z",
+      "updatedAt": "2026-07-07T02:48:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-goleiro-iii-24-25-torcedor-castore-masculina-rosa/detail-1.webp",
+      "hash": "4c75cfa795ac9ba5832107e479ddd4d7a5b1b39484787970a38ea4e45489076c",
+      "width": 480,
+      "height": 480,
+      "size": 32636,
+      "createdAt": "2026-07-07T02:48:41Z",
+      "updatedAt": "2026-07-07T02:48:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-goleiro-iii-24-25-torcedor-castore-masculina-rosa/detail-2.webp",
+      "hash": "f00e59be018af84f8141bcdce8373d8cce1e33009e32812a635596fc0f53b028",
+      "width": 480,
+      "height": 480,
+      "size": 26740,
+      "createdAt": "2026-07-07T02:48:42Z",
+      "updatedAt": "2026-07-07T02:48:42Z"
+    }
+  ]
+}
