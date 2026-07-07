@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-uruguai-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:14:01Z",
+  "updatedAt": "2026-07-07T04:14:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/uruguai/26-27/fan/camisa-selecao-uruguai-home-26-27-torcedor-masculina/front.webp",
+      "hash": "f5d3c1f8db53619f0b5c9b9cc619021f7263d9f6ab23490f48944b00d37c9787",
+      "width": 480,
+      "height": 480,
+      "size": 7846,
+      "createdAt": "2026-07-07T04:14:00Z",
+      "updatedAt": "2026-07-07T04:14:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/uruguai/26-27/fan/camisa-selecao-uruguai-home-26-27-torcedor-masculina/back.webp",
+      "hash": "4d434c0685f0d5fc7b236e9348a2aed92853d12440889035c56ed8337021524a",
+      "width": 480,
+      "height": 480,
+      "size": 5830,
+      "createdAt": "2026-07-07T04:14:01Z",
+      "updatedAt": "2026-07-07T04:14:01Z"
+    }
+  ]
+}

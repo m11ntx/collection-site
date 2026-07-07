@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-uruguai-away-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:14:00Z",
+  "updatedAt": "2026-07-07T04:14:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/uruguai/26-27/fan/camisa-selecao-uruguai-away-26-27-torcedor-masculina/front.webp",
+      "hash": "b4a8b7fc2892ffda99d25f86713783304f76a59c96e17e62395337eab5535525",
+      "width": 480,
+      "height": 480,
+      "size": 14558,
+      "createdAt": "2026-07-07T04:14:00Z",
+      "updatedAt": "2026-07-07T04:14:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/uruguai/26-27/fan/camisa-selecao-uruguai-away-26-27-torcedor-masculina/back.webp",
+      "hash": "ad2903534a03139e7e0ec2f209cb5ecd29dffb65fcfc2f85310d33472b09657d",
+      "width": 480,
+      "height": 480,
+      "size": 12844,
+      "createdAt": "2026-07-07T04:14:00Z",
+      "updatedAt": "2026-07-07T04:14:00Z"
+    }
+  ]
+}

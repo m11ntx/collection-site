@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida",
+  "createdAt": "2026-07-07T04:08:18Z",
+  "updatedAt": "2026-07-07T04:08:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/front.webp",
+      "hash": "4f748b2397077ca4f85581189c573f67541c438d04628c19e17ca9be71f9283a",
+      "width": 480,
+      "height": 480,
+      "size": 22124,
+      "createdAt": "2026-07-07T04:08:17Z",
+      "updatedAt": "2026-07-07T04:08:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/back.webp",
+      "hash": "1894fd1a676d29b0511aec178734fb967b49dceb0502416b40778f115c414bbe",
+      "width": 480,
+      "height": 480,
+      "size": 22740,
+      "createdAt": "2026-07-07T04:08:17Z",
+      "updatedAt": "2026-07-07T04:08:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/detail-1.webp",
+      "hash": "2c8abc3e83c858f7b19043d36d7c2149424e24ec24e57d4f5263b65f0f75461e",
+      "width": 480,
+      "height": 480,
+      "size": 36246,
+      "createdAt": "2026-07-07T04:08:17Z",
+      "updatedAt": "2026-07-07T04:08:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/detail-2.webp",
+      "hash": "f7e1ee309adc17bc853496a934eda2e6b2baea4fe0cc4035f1f5b094bce20bc4",
+      "width": 480,
+      "height": 480,
+      "size": 19828,
+      "createdAt": "2026-07-07T04:08:17Z",
+      "updatedAt": "2026-07-07T04:08:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/detail-3.webp",
+      "hash": "846b4eead72e8d552b034cb182dbca75b9eaf0173bcad61105e2f638145fb65a",
+      "width": 480,
+      "height": 480,
+      "size": 49730,
+      "createdAt": "2026-07-07T04:08:17Z",
+      "updatedAt": "2026-07-07T04:08:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/detail-4.webp",
+      "hash": "b73bd93089fec02af15c8b030e7c16c3a28e3d9b590db1c5d48fedb469f54b0f",
+      "width": 480,
+      "height": 480,
+      "size": 46498,
+      "createdAt": "2026-07-07T04:08:18Z",
+      "updatedAt": "2026-07-07T04:08:18Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-multicolorida/detail-5.webp",
+      "hash": "c13659dc2de20179f0d9e8859a169692a5f7e294687bf7ebcfe8f768e321fe4e",
+      "width": 480,
+      "height": 480,
+      "size": 39798,
+      "createdAt": "2026-07-07T04:08:18Z",
+      "updatedAt": "2026-07-07T04:08:18Z"
+    }
+  ]
+}

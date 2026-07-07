@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-07T04:10:09Z",
+  "updatedAt": "2026-07-07T04:10:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "421b7a4023bf7f945af35c650db5b04257f6df7ffab17d2ee9376b17dd06c852",
+      "width": 480,
+      "height": 480,
+      "size": 10414,
+      "createdAt": "2026-07-07T04:10:08Z",
+      "updatedAt": "2026-07-07T04:10:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "219e1d1e6641e7ab5eed5e913713f14c70e0580c6b87dd8362d561da21f5a238",
+      "width": 480,
+      "height": 480,
+      "size": 7670,
+      "createdAt": "2026-07-07T04:10:08Z",
+      "updatedAt": "2026-07-07T04:10:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/detail-1.webp",
+      "hash": "e090ac5b97cc6b7cee79824ea67b275ceb30a6f572b3809c5a6a5e40f33fbee4",
+      "width": 480,
+      "height": 480,
+      "size": 9382,
+      "createdAt": "2026-07-07T04:10:09Z",
+      "updatedAt": "2026-07-07T04:10:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/detail-2.webp",
+      "hash": "bfbbc9ec29c5c4824a56a63e9ce4b3d93e8c4f7318291bffda1c4930f213d445",
+      "width": 480,
+      "height": 480,
+      "size": 8760,
+      "createdAt": "2026-07-07T04:10:09Z",
+      "updatedAt": "2026-07-07T04:10:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/detail-3.webp",
+      "hash": "e9315ee45b71ae57a76e01c6e288c951516d0ef41c8f12fe717fc2ce515bdb69",
+      "width": 480,
+      "height": 480,
+      "size": 16218,
+      "createdAt": "2026-07-07T04:10:09Z",
+      "updatedAt": "2026-07-07T04:10:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/detail-4.webp",
+      "hash": "a18aff6b6eb80a78d7e0037f65f0abee53242e2c6140465e9a0e8852e1d2bf21",
+      "width": 480,
+      "height": 480,
+      "size": 17924,
+      "createdAt": "2026-07-07T04:10:09Z",
+      "updatedAt": "2026-07-07T04:10:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-masculina-amarela/detail-5.webp",
+      "hash": "0731caba3ee03dad5ae69b1408a0af1bab7bb51c55e7bc8f4b6c6d30fab56962",
+      "width": 480,
+      "height": 480,
+      "size": 18642,
+      "createdAt": "2026-07-07T04:10:09Z",
+      "updatedAt": "2026-07-07T04:10:09Z"
+    }
+  ]
+}

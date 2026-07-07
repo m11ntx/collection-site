@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde",
+  "createdAt": "2026-07-07T04:08:36Z",
+  "updatedAt": "2026-07-07T04:08:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/front.webp",
+      "hash": "432080593751fab6bc3cbb03d6e8299bfe52031fa2f45cdd1d43bbd026532266",
+      "width": 480,
+      "height": 480,
+      "size": 16148,
+      "createdAt": "2026-07-07T04:08:35Z",
+      "updatedAt": "2026-07-07T04:08:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/back.webp",
+      "hash": "1f47890f7aa9b1992a767ea35e3b0e303ccbed720d8f13f248af05b03d8d05ae",
+      "width": 480,
+      "height": 480,
+      "size": 16168,
+      "createdAt": "2026-07-07T04:08:35Z",
+      "updatedAt": "2026-07-07T04:08:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-1.webp",
+      "hash": "9a801650cde82722040c83abdf7631612f603e39e8426650ea109fcd21c297dc",
+      "width": 480,
+      "height": 480,
+      "size": 22722,
+      "createdAt": "2026-07-07T04:08:35Z",
+      "updatedAt": "2026-07-07T04:08:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-2.webp",
+      "hash": "b18b2b8c58f5034b6191e5c983b5c53dfaec766573af9c43f4b36bce1d89176a",
+      "width": 480,
+      "height": 480,
+      "size": 17728,
+      "createdAt": "2026-07-07T04:08:36Z",
+      "updatedAt": "2026-07-07T04:08:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-3.webp",
+      "hash": "d86dcd2b9f6cb3e3c851acc03595b39fccacc96d30c933502ad72c8fb9abae9f",
+      "width": 480,
+      "height": 480,
+      "size": 39650,
+      "createdAt": "2026-07-07T04:08:36Z",
+      "updatedAt": "2026-07-07T04:08:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-4.webp",
+      "hash": "f3a16d00a67c07f980878130a36b16ee5e4e3b940f83b60649816feedc989653",
+      "width": 480,
+      "height": 480,
+      "size": 19730,
+      "createdAt": "2026-07-07T04:08:36Z",
+      "updatedAt": "2026-07-07T04:08:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/nigeria/24-25/fan/camisa-nigeria-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-5.webp",
+      "hash": "231fd516ab510c1678a950fc6ae25774c0351dd4af86dd98ad9d4acd56f52d22",
+      "width": 480,
+      "height": 480,
+      "size": 17424,
+      "createdAt": "2026-07-07T04:08:36Z",
+      "updatedAt": "2026-07-07T04:08:36Z"
+    }
+  ]
+}

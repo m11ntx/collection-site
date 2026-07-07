@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-suica-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:14:05Z",
+  "updatedAt": "2026-07-07T04:14:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/suica/26-27/fan/camisa-suica-26-27-torcedor-masculina/front.webp",
+      "hash": "5190c32c0feecec8ad5f53d850e0f3c61cd562fafd95ca5d38a06741a9575164",
+      "width": 480,
+      "height": 480,
+      "size": 9010,
+      "createdAt": "2026-07-07T04:14:05Z",
+      "updatedAt": "2026-07-07T04:14:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/suica/26-27/fan/camisa-suica-26-27-torcedor-masculina/back.webp",
+      "hash": "b32e4a81dd53e8695360751f063c49d1c47e66f2637366eee75121987e3a6cf9",
+      "width": 480,
+      "height": 480,
+      "size": 4854,
+      "createdAt": "2026-07-07T04:14:05Z",
+      "updatedAt": "2026-07-07T04:14:05Z"
+    }
+  ]
+}

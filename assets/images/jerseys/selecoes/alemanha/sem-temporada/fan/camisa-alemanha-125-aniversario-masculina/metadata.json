@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-alemanha-125-aniversario-masculina",
+  "createdAt": "2026-07-07T04:07:39Z",
+  "updatedAt": "2026-07-07T04:07:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/sem-temporada/fan/camisa-alemanha-125-aniversario-masculina/front.webp",
+      "hash": "ec092c4c4901b99c47295ad5b14a6aae953c0fe5a9e54de830a31408f3312b0a",
+      "width": 480,
+      "height": 480,
+      "size": 4942,
+      "createdAt": "2026-07-07T04:07:39Z",
+      "updatedAt": "2026-07-07T04:07:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/sem-temporada/fan/camisa-alemanha-125-aniversario-masculina/back.webp",
+      "hash": "dfc952cb550acfee4b174ac16bf82ae0ab75d036939f116655ee79270c00e6ea",
+      "width": 480,
+      "height": 480,
+      "size": 3258,
+      "createdAt": "2026-07-07T04:07:39Z",
+      "updatedAt": "2026-07-07T04:07:39Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-alemanha-treino-24-25-torcedor-adidas-masculina-preta-e-roxa",
+  "createdAt": "2026-07-07T04:09:52Z",
+  "updatedAt": "2026-07-07T04:09:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-alemanha-treino-24-25-torcedor-adidas-masculina-preta-e-roxa/front.webp",
+      "hash": "4a42120a1c272b8c63e0b4f0ebe8bfa911bbf23b51798d2c3e6221d3b7af78d6",
+      "width": 480,
+      "height": 480,
+      "size": 7442,
+      "createdAt": "2026-07-07T04:09:52Z",
+      "updatedAt": "2026-07-07T04:09:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-alemanha-treino-24-25-torcedor-adidas-masculina-preta-e-roxa/back.webp",
+      "hash": "3fa4b692693ac5598c3bf9826515a9609d0ded606ac7fc9829a46c015a2cb13e",
+      "width": 480,
+      "height": 480,
+      "size": 5602,
+      "createdAt": "2026-07-07T04:09:52Z",
+      "updatedAt": "2026-07-07T04:09:52Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho",
+  "createdAt": "2026-07-07T04:07:56Z",
+  "updatedAt": "2026-07-07T04:07:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/front.webp",
+      "hash": "9729aeab1e6de7b0f549b2d24387acbee5cbcc19d3082fdb82cdf4cd024d9902",
+      "width": 480,
+      "height": 480,
+      "size": 7682,
+      "createdAt": "2026-07-07T04:07:55Z",
+      "updatedAt": "2026-07-07T04:07:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/back.webp",
+      "hash": "e468eaba15d9aa8b404d20beacc23bfd4b5c2caf5f42461c4be9d7e046685959",
+      "width": 480,
+      "height": 480,
+      "size": 10710,
+      "createdAt": "2026-07-07T04:07:55Z",
+      "updatedAt": "2026-07-07T04:07:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/detail-1.webp",
+      "hash": "8a16dbaeccf0fbe99b9e7295e57830e70e3163545814cb10d505e6e683b1cb72",
+      "width": 480,
+      "height": 480,
+      "size": 6214,
+      "createdAt": "2026-07-07T04:07:55Z",
+      "updatedAt": "2026-07-07T04:07:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/detail-2.webp",
+      "hash": "ca1a3b26ff0102c13fed523b33f00561c75553650795053b83cd83c22cc45c29",
+      "width": 480,
+      "height": 480,
+      "size": 65426,
+      "createdAt": "2026-07-07T04:07:55Z",
+      "updatedAt": "2026-07-07T04:07:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/detail-3.webp",
+      "hash": "78228ef74999b884825d3ce2e808d2fb6c52659c1d3021c9a649a20af411484f",
+      "width": 480,
+      "height": 480,
+      "size": 61002,
+      "createdAt": "2026-07-07T04:07:56Z",
+      "updatedAt": "2026-07-07T04:07:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/detail-4.webp",
+      "hash": "559567a22b0e1043485416e4e747ce00b3285ca6af6afea5268ea9493a89ed6b",
+      "width": 480,
+      "height": 480,
+      "size": 21220,
+      "createdAt": "2026-07-07T04:07:56Z",
+      "updatedAt": "2026-07-07T04:07:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/24-25/fan/camisa-estados-unidos-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-branco-e-vermelho/detail-5.webp",
+      "hash": "8788470b0c3067d9e95c6fe3a6d36326e447d4e526330c5de63f0d69676d52a8",
+      "width": 480,
+      "height": 480,
+      "size": 15588,
+      "createdAt": "2026-07-07T04:07:56Z",
+      "updatedAt": "2026-07-07T04:07:56Z"
+    }
+  ]
+}

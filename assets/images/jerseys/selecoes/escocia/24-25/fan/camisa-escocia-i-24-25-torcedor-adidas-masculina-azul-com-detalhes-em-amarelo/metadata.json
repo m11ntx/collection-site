@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-07T04:07:55Z",
+  "updatedAt": "2026-07-07T04:07:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "7d354b04efb53a205baca6da469e0925c0a01a622fe2b6ef18adef9a4df7c4ea",
+      "width": 480,
+      "height": 480,
+      "size": 15442,
+      "createdAt": "2026-07-07T04:07:53Z",
+      "updatedAt": "2026-07-07T04:07:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "b5f4ab046567bd072dcb9420447077c9efd47b299418b4dce19a347732798c80",
+      "width": 480,
+      "height": 480,
+      "size": 24172,
+      "createdAt": "2026-07-07T04:07:53Z",
+      "updatedAt": "2026-07-07T04:07:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "e55ac02902a7e5efd1eaef7ce4db05e6c13823f77aa20bffaff028b8e881d8de",
+      "width": 480,
+      "height": 480,
+      "size": 13772,
+      "createdAt": "2026-07-07T04:07:53Z",
+      "updatedAt": "2026-07-07T04:07:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "4d909e3811d18023a95e77a3f29a5fe584ea848ad425d4f024c1beb00ebb067d",
+      "width": 480,
+      "height": 480,
+      "size": 75676,
+      "createdAt": "2026-07-07T04:07:53Z",
+      "updatedAt": "2026-07-07T04:07:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-3.webp",
+      "hash": "f1ca3c0cf9a2b40eebc9c32a8824d5f45798edcf6049ac6ad38a2c9f3acaef68",
+      "width": 480,
+      "height": 480,
+      "size": 73924,
+      "createdAt": "2026-07-07T04:07:54Z",
+      "updatedAt": "2026-07-07T04:07:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-4.webp",
+      "hash": "f87a56db622211e8f6f835fd50bccbb99aeeee9d0a07f4fb35deb768009cd9b4",
+      "width": 480,
+      "height": 480,
+      "size": 25682,
+      "createdAt": "2026-07-07T04:07:54Z",
+      "updatedAt": "2026-07-07T04:07:54Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/escocia/24-25/fan/camisa-escocia-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-5.webp",
+      "hash": "ae0813711cb3b1db71033052e9e55dc6ee21c6d1050a48e9647ba91c28112f1c",
+      "width": 480,
+      "height": 480,
+      "size": 27236,
+      "createdAt": "2026-07-07T04:07:54Z",
+      "updatedAt": "2026-07-07T04:07:54Z"
+    }
+  ]
+}

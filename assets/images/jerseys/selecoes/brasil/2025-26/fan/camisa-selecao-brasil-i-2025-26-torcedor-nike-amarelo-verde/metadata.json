@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-brasil-i-2025-26-torcedor-nike-amarelo-verde",
+  "createdAt": "2026-07-07T04:09:59Z",
+  "updatedAt": "2026-07-07T04:09:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2025-26/fan/camisa-selecao-brasil-i-2025-26-torcedor-nike-amarelo-verde/front.webp",
+      "hash": "fac9a3562169fe1867f7514e0ba9b8fba272f6cf2c561985c64401c3eca53b98",
+      "width": 480,
+      "height": 480,
+      "size": 7964,
+      "createdAt": "2026-07-07T04:09:59Z",
+      "updatedAt": "2026-07-07T04:09:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2025-26/fan/camisa-selecao-brasil-i-2025-26-torcedor-nike-amarelo-verde/back.webp",
+      "hash": "bf2334b55f6699634e2ad746c69907d182754d815d79e621db64985dfb72bf90",
+      "width": 480,
+      "height": 480,
+      "size": 14434,
+      "createdAt": "2026-07-07T04:09:59Z",
+      "updatedAt": "2026-07-07T04:09:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2025-26/fan/camisa-selecao-brasil-i-2025-26-torcedor-nike-amarelo-verde/detail-1.webp",
+      "hash": "d046af176ca5b1660bec0c6ce6ead15a098b774987364bd882e29af67378cc39",
+      "width": 480,
+      "height": 480,
+      "size": 8848,
+      "createdAt": "2026-07-07T04:09:59Z",
+      "updatedAt": "2026-07-07T04:09:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2025-26/fan/camisa-selecao-brasil-i-2025-26-torcedor-nike-amarelo-verde/detail-2.webp",
+      "hash": "14bfd59ffb31253c558728c99f9dc8b001096edeefc5774e066a36c852b8cb46",
+      "width": 480,
+      "height": 480,
+      "size": 4794,
+      "createdAt": "2026-07-07T04:09:59Z",
+      "updatedAt": "2026-07-07T04:09:59Z"
+    }
+  ]
+}

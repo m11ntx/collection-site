@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-da-inglaterra-i-26-27-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-07T04:10:45Z",
+  "updatedAt": "2026-07-07T04:10:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/player/camisa-selecao-da-inglaterra-i-26-27-jogador-nike-masculina-branca/front.webp",
+      "hash": "b5fbbc21e445a3743a9f20679feef92e3455885f1508c6e85d354986643ab393",
+      "width": 480,
+      "height": 480,
+      "size": 9756,
+      "createdAt": "2026-07-07T04:10:45Z",
+      "updatedAt": "2026-07-07T04:10:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/player/camisa-selecao-da-inglaterra-i-26-27-jogador-nike-masculina-branca/back.webp",
+      "hash": "a2552419b090f53855f38c8103092d9e785dbbdd6fe0e377b8d16eab1987be09",
+      "width": 480,
+      "height": 480,
+      "size": 7110,
+      "createdAt": "2026-07-07T04:10:45Z",
+      "updatedAt": "2026-07-07T04:10:45Z"
+    }
+  ]
+}

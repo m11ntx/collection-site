@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-brasil-copa-do-mundo-2026-ii-manga-longa-azul-torcedor",
+  "createdAt": "2026-07-07T04:07:46Z",
+  "updatedAt": "2026-07-07T04:07:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-do-mundo-2026-ii-manga-longa-azul-torcedor/front.webp",
+      "hash": "293e837fb4f5ceb6397ee17eed2a894d5bed804c7037fe69cb476aa5634ad66a",
+      "width": 480,
+      "height": 480,
+      "size": 18492,
+      "createdAt": "2026-07-07T04:07:45Z",
+      "updatedAt": "2026-07-07T04:07:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-do-mundo-2026-ii-manga-longa-azul-torcedor/back.webp",
+      "hash": "20a0f8ce1c1fd75e5bdfcce07d80481e5220179809598664e845cc8c618100c4",
+      "width": 480,
+      "height": 480,
+      "size": 28520,
+      "createdAt": "2026-07-07T04:07:45Z",
+      "updatedAt": "2026-07-07T04:07:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-do-mundo-2026-ii-manga-longa-azul-torcedor/detail-1.webp",
+      "hash": "36796c767419a2f78472407c312fca141573b6d81a219350832a5f87d4bbd63b",
+      "width": 480,
+      "height": 480,
+      "size": 14174,
+      "createdAt": "2026-07-07T04:07:45Z",
+      "updatedAt": "2026-07-07T04:07:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-do-mundo-2026-ii-manga-longa-azul-torcedor/detail-2.webp",
+      "hash": "17ec00f8053355c1607f0dd80d802095f4137741f78038583d3be832ae793826",
+      "width": 480,
+      "height": 480,
+      "size": 49436,
+      "createdAt": "2026-07-07T04:07:45Z",
+      "updatedAt": "2026-07-07T04:07:45Z"
+    }
+  ]
+}

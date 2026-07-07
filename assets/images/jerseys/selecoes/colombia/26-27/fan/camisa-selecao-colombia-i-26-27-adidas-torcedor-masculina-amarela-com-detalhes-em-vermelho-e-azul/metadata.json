@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina-amarela-com-detalhes-em-vermelho-e-azul",
+  "createdAt": "2026-07-07T04:10:17Z",
+  "updatedAt": "2026-07-07T04:10:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/colombia/26-27/fan/camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina-amarela-com-detalhes-em-vermelho-e-azul/front.webp",
+      "hash": "ff8daf65d88d80b5687a5e3da8c457a71e4b2e9aee94f1895cf2e8916165c602",
+      "width": 480,
+      "height": 480,
+      "size": 11082,
+      "createdAt": "2026-07-07T04:10:16Z",
+      "updatedAt": "2026-07-07T04:10:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/colombia/26-27/fan/camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina-amarela-com-detalhes-em-vermelho-e-azul/back.webp",
+      "hash": "ee47723784d6f4f4c36338c102109e6a14893cc4db8c1431ffa0446e4155e04b",
+      "width": 480,
+      "height": 480,
+      "size": 10344,
+      "createdAt": "2026-07-07T04:10:16Z",
+      "updatedAt": "2026-07-07T04:10:16Z"
+    }
+  ]
+}

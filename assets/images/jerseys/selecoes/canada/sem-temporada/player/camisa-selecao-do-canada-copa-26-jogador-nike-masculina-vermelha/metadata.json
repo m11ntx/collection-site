@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-do-canada-copa-26-jogador-nike-masculina-vermelha",
+  "createdAt": "2026-07-07T04:11:03Z",
+  "updatedAt": "2026-07-07T04:11:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/canada/sem-temporada/player/camisa-selecao-do-canada-copa-26-jogador-nike-masculina-vermelha/front.webp",
+      "hash": "6fa0dd61923ce751b95bb3242b1d7e3dd3bdfb97cb17500bdb9c6518a14ed215",
+      "width": 480,
+      "height": 447,
+      "size": 6514,
+      "createdAt": "2026-07-07T04:11:03Z",
+      "updatedAt": "2026-07-07T04:11:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/canada/sem-temporada/player/camisa-selecao-do-canada-copa-26-jogador-nike-masculina-vermelha/back.webp",
+      "hash": "d5d4ca432fda7b835895cf677afbbb4f2a89e3cdba61e5a77dd97ab1a8dd486a",
+      "width": 480,
+      "height": 457,
+      "size": 6274,
+      "createdAt": "2026-07-07T04:11:03Z",
+      "updatedAt": "2026-07-07T04:11:03Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-da-inglaterra-pre-jogo-i-24-25-torcedor-nike-masculina-vermelha",
+  "createdAt": "2026-07-07T04:10:48Z",
+  "updatedAt": "2026-07-07T04:10:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-pre-jogo-i-24-25-torcedor-nike-masculina-vermelha/front.webp",
+      "hash": "29578f7b55e1365404e89a6c9c27cc59072be325361422436b819db8d16cdf2f",
+      "width": 480,
+      "height": 480,
+      "size": 11376,
+      "createdAt": "2026-07-07T04:10:47Z",
+      "updatedAt": "2026-07-07T04:10:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-pre-jogo-i-24-25-torcedor-nike-masculina-vermelha/back.webp",
+      "hash": "640120d5b35f77fa4fc87f10a076c73b6e26935fac5919325195c2af0aceee73",
+      "width": 480,
+      "height": 480,
+      "size": 9550,
+      "createdAt": "2026-07-07T04:10:47Z",
+      "updatedAt": "2026-07-07T04:10:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-pre-jogo-i-24-25-torcedor-nike-masculina-vermelha/detail-1.webp",
+      "hash": "3ebec552ebef4fe23d21c9a4fcf786b1665d3223ac49e08acdae5d0c16c0c2fb",
+      "width": 480,
+      "height": 600,
+      "size": 35732,
+      "createdAt": "2026-07-07T04:10:47Z",
+      "updatedAt": "2026-07-07T04:10:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-pre-jogo-i-24-25-torcedor-nike-masculina-vermelha/detail-2.webp",
+      "hash": "e4a5f70841a3a1d02bbe6fc9431c5da8adf8bbdaf0497d8f4c3ba66dc2a706b0",
+      "width": 480,
+      "height": 600,
+      "size": 40686,
+      "createdAt": "2026-07-07T04:10:47Z",
+      "updatedAt": "2026-07-07T04:10:47Z"
+    }
+  ]
+}

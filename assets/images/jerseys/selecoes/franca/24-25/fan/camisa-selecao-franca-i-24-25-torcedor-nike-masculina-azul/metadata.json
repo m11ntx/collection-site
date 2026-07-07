@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-franca-i-24-25-torcedor-nike-masculina-azul",
+  "createdAt": "2026-07-07T04:12:12Z",
+  "updatedAt": "2026-07-07T04:12:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-franca-i-24-25-torcedor-nike-masculina-azul/front.webp",
+      "hash": "0c6ddd5c7f0ad7c936aaf4af28479b784e7cd391b123a51b5951e15d6c15a30d",
+      "width": 480,
+      "height": 480,
+      "size": 9424,
+      "createdAt": "2026-07-07T04:12:11Z",
+      "updatedAt": "2026-07-07T04:12:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-franca-i-24-25-torcedor-nike-masculina-azul/back.webp",
+      "hash": "7b2f329951f4927f0a9782e01ba37dd88acbf2d48dfd85fa589f3a57c1aa2e3c",
+      "width": 480,
+      "height": 480,
+      "size": 8524,
+      "createdAt": "2026-07-07T04:12:11Z",
+      "updatedAt": "2026-07-07T04:12:11Z"
+    }
+  ]
+}

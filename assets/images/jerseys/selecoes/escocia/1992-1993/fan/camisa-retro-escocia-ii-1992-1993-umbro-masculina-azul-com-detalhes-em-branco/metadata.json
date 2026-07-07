@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-07T04:14:11Z",
+  "updatedAt": "2026-07-07T04:14:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/front.webp",
+      "hash": "d9167063f3e661ab639be9b7b85236609be909ce01c1dd0fbe8599e82608ca0a",
+      "width": 480,
+      "height": 480,
+      "size": 12194,
+      "createdAt": "2026-07-07T04:14:10Z",
+      "updatedAt": "2026-07-07T04:14:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/back.webp",
+      "hash": "20632823a9b2d5ba8e75443345c0e10325d9ce69cd6176e5254f88b3826e8c98",
+      "width": 480,
+      "height": 480,
+      "size": 11946,
+      "createdAt": "2026-07-07T04:14:10Z",
+      "updatedAt": "2026-07-07T04:14:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/detail-1.webp",
+      "hash": "9ed64da6b970d5903d830197de32807b73fb13e09c321a9b7cb57dedcf7d5937",
+      "width": 480,
+      "height": 480,
+      "size": 18304,
+      "createdAt": "2026-07-07T04:14:10Z",
+      "updatedAt": "2026-07-07T04:14:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/detail-2.webp",
+      "hash": "499e8162bd5a2c13efea61e629115eb5342a4881ed0aa4953a6490ea5fe0aded",
+      "width": 480,
+      "height": 480,
+      "size": 31118,
+      "createdAt": "2026-07-07T04:14:11Z",
+      "updatedAt": "2026-07-07T04:14:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/detail-3.webp",
+      "hash": "82da9cfc4fc792c712881c356a64c65e39f85ae18f3746ae00d95507d2ed2bf9",
+      "width": 480,
+      "height": 480,
+      "size": 46640,
+      "createdAt": "2026-07-07T04:14:11Z",
+      "updatedAt": "2026-07-07T04:14:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/detail-4.webp",
+      "hash": "4d29f193786c17f0a7906d2048839a4115acc46e85b30782e53bf157aac402e7",
+      "width": 480,
+      "height": 480,
+      "size": 14506,
+      "createdAt": "2026-07-07T04:14:11Z",
+      "updatedAt": "2026-07-07T04:14:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/escocia/1992-1993/fan/camisa-retro-escocia-ii-1992-1993-umbro-masculina-azul-com-detalhes-em-branco/detail-5.webp",
+      "hash": "44a884d9fa3751ab6f888b95d3e2732bbcc061f32d48c62b0c40ec114010ba56",
+      "width": 480,
+      "height": 480,
+      "size": 13062,
+      "createdAt": "2026-07-07T04:14:11Z",
+      "updatedAt": "2026-07-07T04:14:11Z"
+    }
+  ]
+}

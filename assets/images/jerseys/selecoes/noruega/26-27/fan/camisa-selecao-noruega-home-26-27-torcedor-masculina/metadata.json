@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-noruega-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:13:59Z",
+  "updatedAt": "2026-07-07T04:13:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/noruega/26-27/fan/camisa-selecao-noruega-home-26-27-torcedor-masculina/front.webp",
+      "hash": "71d424537e084afb26dcbe89756b4eac6c96e9a428ff8d867234a867a1dad420",
+      "width": 480,
+      "height": 480,
+      "size": 13192,
+      "createdAt": "2026-07-07T04:13:59Z",
+      "updatedAt": "2026-07-07T04:13:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/noruega/26-27/fan/camisa-selecao-noruega-home-26-27-torcedor-masculina/back.webp",
+      "hash": "8b8fc5d06088ed0fc3dc6d98e28c74e5c0feae7f60a14bbe91c74092b5c7523a",
+      "width": 480,
+      "height": 480,
+      "size": 8100,
+      "createdAt": "2026-07-07T04:13:59Z",
+      "updatedAt": "2026-07-07T04:13:59Z"
+    }
+  ]
+}

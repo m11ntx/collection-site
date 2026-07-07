@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca",
+  "createdAt": "2026-07-07T04:08:48Z",
+  "updatedAt": "2026-07-07T04:08:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca/front.webp",
+      "hash": "80e9e3d0c3fac1800ad088ca8f62e2bc44342d139ff44fb4f3d0e9fc0c72418f",
+      "width": 480,
+      "height": 480,
+      "size": 6858,
+      "createdAt": "2026-07-07T04:08:47Z",
+      "updatedAt": "2026-07-07T04:08:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca/back.webp",
+      "hash": "d08f24ccc6e8425009a60dcfaa31c7c15935e84b1e651c607811eb89c071bc51",
+      "width": 480,
+      "height": 480,
+      "size": 4734,
+      "createdAt": "2026-07-07T04:08:47Z",
+      "updatedAt": "2026-07-07T04:08:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca/detail-1.webp",
+      "hash": "9838efd30f26594c56d428caad95133810068843c92d9c2e7c3b7dac45d74298",
+      "width": 480,
+      "height": 305,
+      "size": 7974,
+      "createdAt": "2026-07-07T04:08:47Z",
+      "updatedAt": "2026-07-07T04:08:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca/detail-2.webp",
+      "hash": "d991c572e203379a2cf75d2779c663810dd34dda56edd84775be6678b458ce07",
+      "width": 480,
+      "height": 480,
+      "size": 32252,
+      "createdAt": "2026-07-07T04:08:47Z",
+      "updatedAt": "2026-07-07T04:08:47Z"
+    }
+  ]
+}

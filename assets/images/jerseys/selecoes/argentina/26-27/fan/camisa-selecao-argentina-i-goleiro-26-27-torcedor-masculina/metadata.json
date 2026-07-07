@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-argentina-i-goleiro-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:09:52Z",
+  "updatedAt": "2026-07-07T04:09:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/fan/camisa-selecao-argentina-i-goleiro-26-27-torcedor-masculina/front.webp",
+      "hash": "68a0e6db4ec6f656533e33914d8228a63233fc8ccf42095854742e1a4bf29d7b",
+      "width": 480,
+      "height": 480,
+      "size": 12180,
+      "createdAt": "2026-07-07T04:09:52Z",
+      "updatedAt": "2026-07-07T04:09:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/fan/camisa-selecao-argentina-i-goleiro-26-27-torcedor-masculina/back.webp",
+      "hash": "c8d917ef57822d217c8839bccf0cf3b4babc7c4c0be2f1bd9fc6e1938dcbba1c",
+      "width": 480,
+      "height": 480,
+      "size": 9676,
+      "createdAt": "2026-07-07T04:09:52Z",
+      "updatedAt": "2026-07-07T04:09:52Z"
+    }
+  ]
+}

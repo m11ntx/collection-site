@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-inglaterra-i-26-27-torcedor-nike-masculina-branca",
+  "createdAt": "2026-07-07T04:13:29Z",
+  "updatedAt": "2026-07-07T04:13:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-i-26-27-torcedor-nike-masculina-branca/front.webp",
+      "hash": "3ab00ccc77558c8b6629457c2cbc09dc0946eccc78747bfac150df0995069561",
+      "width": 480,
+      "height": 480,
+      "size": 16372,
+      "createdAt": "2026-07-07T04:12:53Z",
+      "updatedAt": "2026-07-07T04:12:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-i-26-27-torcedor-nike-masculina-branca/back.webp",
+      "hash": "84a3e3919098c78ccc8b91d65f10b5f58ad7a67634b51ce233204395f941a5cf",
+      "width": 480,
+      "height": 480,
+      "size": 14280,
+      "createdAt": "2026-07-07T04:13:05Z",
+      "updatedAt": "2026-07-07T04:13:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-i-26-27-torcedor-nike-masculina-branca/detail-1.webp",
+      "hash": "d27c1091ceb472a10e6e86081488aa33d8d3c9287e76fb4c1cd9855b5da0ffaf",
+      "width": 480,
+      "height": 480,
+      "size": 22746,
+      "createdAt": "2026-07-07T04:13:17Z",
+      "updatedAt": "2026-07-07T04:13:17Z"
+    }
+  ]
+}

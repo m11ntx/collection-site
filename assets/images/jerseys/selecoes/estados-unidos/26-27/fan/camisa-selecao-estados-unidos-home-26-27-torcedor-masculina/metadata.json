@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-estados-unidos-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:12:11Z",
+  "updatedAt": "2026-07-07T04:12:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/26-27/fan/camisa-selecao-estados-unidos-home-26-27-torcedor-masculina/front.webp",
+      "hash": "6425c21c99af914da3a418d1a43b6a5d2f4242a50c4f6ab7219638358a8b8eb9",
+      "width": 480,
+      "height": 480,
+      "size": 20872,
+      "createdAt": "2026-07-07T04:12:11Z",
+      "updatedAt": "2026-07-07T04:12:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/estados-unidos/26-27/fan/camisa-selecao-estados-unidos-home-26-27-torcedor-masculina/back.webp",
+      "hash": "7029569ef821b649431f80392aabc1d5398bcce3b57d75531682602ffa7bba9d",
+      "width": 480,
+      "height": 480,
+      "size": 10846,
+      "createdAt": "2026-07-07T04:12:11Z",
+      "updatedAt": "2026-07-07T04:12:11Z"
+    }
+  ]
+}

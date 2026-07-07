@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco",
+  "createdAt": "2026-07-07T04:14:20Z",
+  "updatedAt": "2026-07-07T04:14:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco/front.webp",
+      "hash": "80bb4cc35e095fb9f31db043424ffdb5e5b532d6484ceeaed7ce82bc8289c79d",
+      "width": 480,
+      "height": 480,
+      "size": 14258,
+      "createdAt": "2026-07-07T04:14:19Z",
+      "updatedAt": "2026-07-07T04:14:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco/back.webp",
+      "hash": "9726b95dd238ee959d029e47bafdd57b726d51ba1f523a47ed364e9c2bb04dda",
+      "width": 480,
+      "height": 480,
+      "size": 4774,
+      "createdAt": "2026-07-07T04:14:19Z",
+      "updatedAt": "2026-07-07T04:14:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco/detail-1.webp",
+      "hash": "b43c55084438133805679dcda7f8bd04541e74d169f12b7f2fc6052599d28bf0",
+      "width": 480,
+      "height": 480,
+      "size": 22272,
+      "createdAt": "2026-07-07T04:14:19Z",
+      "updatedAt": "2026-07-07T04:14:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco/detail-2.webp",
+      "hash": "81a163e2eefca0881d3aad679e71eb9845d374b376470ca49d1510f92f3b3d2e",
+      "width": 480,
+      "height": 480,
+      "size": 52952,
+      "createdAt": "2026-07-07T04:14:20Z",
+      "updatedAt": "2026-07-07T04:14:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul-e-branco/detail-3.webp",
+      "hash": "6d6494e7104e4be1e9dde86d89ecd49a4a57f94aeca52a12028a3582aaf043a6",
+      "width": 480,
+      "height": 480,
+      "size": 12552,
+      "createdAt": "2026-07-07T04:14:20Z",
+      "updatedAt": "2026-07-07T04:14:20Z"
+    }
+  ]
+}

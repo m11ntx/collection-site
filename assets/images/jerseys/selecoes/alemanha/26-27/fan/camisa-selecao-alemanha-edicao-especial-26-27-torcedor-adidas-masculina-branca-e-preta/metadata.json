@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-alemanha-edicao-especial-26-27-torcedor-adidas-masculina-branca-e-preta",
+  "createdAt": "2026-07-07T04:08:48Z",
+  "updatedAt": "2026-07-07T04:08:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/26-27/fan/camisa-selecao-alemanha-edicao-especial-26-27-torcedor-adidas-masculina-branca-e-preta/front.webp",
+      "hash": "14171810f8d1c50da71190fe0441887b5cfc83d69b404cf96ba976196f423b96",
+      "width": 480,
+      "height": 480,
+      "size": 10066,
+      "createdAt": "2026-07-07T04:08:48Z",
+      "updatedAt": "2026-07-07T04:08:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/26-27/fan/camisa-selecao-alemanha-edicao-especial-26-27-torcedor-adidas-masculina-branca-e-preta/back.webp",
+      "hash": "bda1c2432deff07a9654827bca1a2429ff08fbd97357a8ab0c8192b604a8b5ce",
+      "width": 480,
+      "height": 480,
+      "size": 7594,
+      "createdAt": "2026-07-07T04:08:48Z",
+      "updatedAt": "2026-07-07T04:08:48Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-equador-i-24-25-copa-america-torcedor-marathon-masculina-amarela-com-detalhes-em-preto",
+  "createdAt": "2026-07-07T04:07:53Z",
+  "updatedAt": "2026-07-07T04:07:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/equador/24-25/fan/camisa-equador-i-24-25-copa-america-torcedor-marathon-masculina-amarela-com-detalhes-em-preto/front.webp",
+      "hash": "df5a54b02932ef9c11be113d4bbabf8fe1fa198ddb7f843085c2a5ffe4f40fd7",
+      "width": 480,
+      "height": 480,
+      "size": 9912,
+      "createdAt": "2026-07-07T04:07:52Z",
+      "updatedAt": "2026-07-07T04:07:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/equador/24-25/fan/camisa-equador-i-24-25-copa-america-torcedor-marathon-masculina-amarela-com-detalhes-em-preto/back.webp",
+      "hash": "60fd023244e5fd71939a1d2c47ee28bdecdfd8b9f9b523a2d0d39aee0ed9a6de",
+      "width": 480,
+      "height": 480,
+      "size": 5522,
+      "createdAt": "2026-07-07T04:07:52Z",
+      "updatedAt": "2026-07-07T04:07:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/equador/24-25/fan/camisa-equador-i-24-25-copa-america-torcedor-marathon-masculina-amarela-com-detalhes-em-preto/detail-1.webp",
+      "hash": "d01a2164bd2c8571c7247dff24ae1df608cdbb5970464c5e77ef4601bba51f0e",
+      "width": 480,
+      "height": 480,
+      "size": 21618,
+      "createdAt": "2026-07-07T04:07:53Z",
+      "updatedAt": "2026-07-07T04:07:53Z"
+    }
+  ]
+}

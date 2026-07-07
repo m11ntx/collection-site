@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde",
+  "createdAt": "2026-07-07T04:13:58Z",
+  "updatedAt": "2026-07-07T04:13:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/front.webp",
+      "hash": "c2fba8873541c6c570b61f11b91f88b53c9e8626b3a54d5ff0c1712b0bf833b1",
+      "width": 480,
+      "height": 480,
+      "size": 14012,
+      "createdAt": "2026-07-07T04:13:56Z",
+      "updatedAt": "2026-07-07T04:13:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/back.webp",
+      "hash": "8eca01fcf93828f0eea005ddefe61fafed3facb0ce5c1336707234c3053c89f6",
+      "width": 480,
+      "height": 480,
+      "size": 11818,
+      "createdAt": "2026-07-07T04:13:56Z",
+      "updatedAt": "2026-07-07T04:13:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/detail-1.webp",
+      "hash": "1e0b21ecbba536937efad9b40fe0fc9295f46f24483ed2cad1569cb287241786",
+      "width": 480,
+      "height": 480,
+      "size": 21490,
+      "createdAt": "2026-07-07T04:13:56Z",
+      "updatedAt": "2026-07-07T04:13:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/detail-2.webp",
+      "hash": "cfbb879f623000720d1670e2440f37c3bd5887794a2f7d5a1e4c1ff45ad4e86c",
+      "width": 480,
+      "height": 480,
+      "size": 71692,
+      "createdAt": "2026-07-07T04:13:57Z",
+      "updatedAt": "2026-07-07T04:13:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/detail-3.webp",
+      "hash": "a3b6240d6b3b3cd336a70c8ca991bbd46823b0459f86273d833bc5c98a4bee67",
+      "width": 480,
+      "height": 480,
+      "size": 62654,
+      "createdAt": "2026-07-07T04:13:57Z",
+      "updatedAt": "2026-07-07T04:13:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/detail-4.webp",
+      "hash": "2785be2f6718c036097dbd36fcac714ea698e72e4be869a41e5033425265f981",
+      "width": 480,
+      "height": 480,
+      "size": 17920,
+      "createdAt": "2026-07-07T04:13:57Z",
+      "updatedAt": "2026-07-07T04:13:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-vermelho-e-verde/detail-5.webp",
+      "hash": "29592c7cc41ff1b7801316394095057778702edf08b78f28fcdbc1d25cf88063",
+      "width": 480,
+      "height": 480,
+      "size": 20484,
+      "createdAt": "2026-07-07T04:13:58Z",
+      "updatedAt": "2026-07-07T04:13:58Z"
+    }
+  ]
+}

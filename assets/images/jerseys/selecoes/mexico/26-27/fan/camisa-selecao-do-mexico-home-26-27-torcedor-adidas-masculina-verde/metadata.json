@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde",
+  "createdAt": "2026-07-07T04:11:08Z",
+  "updatedAt": "2026-07-07T04:11:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde/front.webp",
+      "hash": "daa363b145a3304029189efcbb8119f1b2b9adf3a702b1b1465407f331bd24d4",
+      "width": 480,
+      "height": 480,
+      "size": 21588,
+      "createdAt": "2026-07-07T04:11:06Z",
+      "updatedAt": "2026-07-07T04:11:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde/back.webp",
+      "hash": "35a87d450d38afc77517ef13a17c1f398ca95867014ec972f177e323d453941a",
+      "width": 480,
+      "height": 480,
+      "size": 19828,
+      "createdAt": "2026-07-07T04:11:07Z",
+      "updatedAt": "2026-07-07T04:11:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde/detail-1.webp",
+      "hash": "a0592977ecab9230e0c8ad21a6b37ea77191ac0cfe8a149dcbabc014de8c3bc0",
+      "width": 480,
+      "height": 480,
+      "size": 74044,
+      "createdAt": "2026-07-07T04:11:07Z",
+      "updatedAt": "2026-07-07T04:11:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde/detail-2.webp",
+      "hash": "959d690c849d7a5492606e03901db792d0ed258a5d5beb818599bf6cbd4a40a5",
+      "width": 480,
+      "height": 480,
+      "size": 79196,
+      "createdAt": "2026-07-07T04:11:07Z",
+      "updatedAt": "2026-07-07T04:11:07Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja",
+  "createdAt": "2026-07-07T04:10:44Z",
+  "updatedAt": "2026-07-07T04:10:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/front.webp",
+      "hash": "4b3ac96cad8b1642ac794cd30077a3a3cf8f8a330a85817b49926c29ad9c0bf5",
+      "width": 480,
+      "height": 480,
+      "size": 8892,
+      "createdAt": "2026-07-07T04:10:43Z",
+      "updatedAt": "2026-07-07T04:10:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/back.webp",
+      "hash": "0904cbf73c1488dd2b325778d24386fffa5c40dd5a595d0f6eb6d21ced38e1cd",
+      "width": 480,
+      "height": 480,
+      "size": 13778,
+      "createdAt": "2026-07-07T04:10:43Z",
+      "updatedAt": "2026-07-07T04:10:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/detail-1.webp",
+      "hash": "06e3c73b3fc2dc3c05292c0349fdf2c557d7baee6fb633b46bd002f7757c0a5c",
+      "width": 480,
+      "height": 480,
+      "size": 8246,
+      "createdAt": "2026-07-07T04:10:43Z",
+      "updatedAt": "2026-07-07T04:10:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/detail-2.webp",
+      "hash": "4c02d39ab0d6e7e03a1b33e287c25ab7aebd05a431959d1e7676d29106196bcf",
+      "width": 480,
+      "height": 480,
+      "size": 44502,
+      "createdAt": "2026-07-07T04:10:43Z",
+      "updatedAt": "2026-07-07T04:10:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/detail-3.webp",
+      "hash": "5283f996b463582511f29d4c167c1c2bbc9b87220465f9d092cbedd86dfd3260",
+      "width": 480,
+      "height": 480,
+      "size": 45698,
+      "createdAt": "2026-07-07T04:10:44Z",
+      "updatedAt": "2026-07-07T04:10:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/detail-4.webp",
+      "hash": "521295792598c2851abb600f54dc0b3082abbe29e53b6cde21f75eaf9c50bffe",
+      "width": 480,
+      "height": 480,
+      "size": 12200,
+      "createdAt": "2026-07-07T04:10:44Z",
+      "updatedAt": "2026-07-07T04:10:44Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-goleiro-24-25-torcedor-nike-masculina-laranja/detail-5.webp",
+      "hash": "13f506d54f3bda7398a204e210084c1b59adf9bac18e35f455867f79b322589d",
+      "width": 480,
+      "height": 480,
+      "size": 38396,
+      "createdAt": "2026-07-07T04:10:44Z",
+      "updatedAt": "2026-07-07T04:10:44Z"
+    }
+  ]
+}

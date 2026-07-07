@@ -8,6 +8,14 @@
     "image": null
   },
   {
+    "id": "selecoes",
+    "collectionId": "brasil",
+    "slug": "selecoes",
+    "name": "Seleções",
+    "country": null,
+    "image": null
+  },
+  {
     "id": "bundesliga",
     "collectionId": "europa",
     "slug": "bundesliga",

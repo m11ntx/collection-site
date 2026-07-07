@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-argentina-treino-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T04:09:54Z",
+  "updatedAt": "2026-07-07T04:09:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-argentina-treino-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul/front.webp",
+      "hash": "01a227f73266db119970f492edeb86f2f5c0577c8723ec577d182838b4398be6",
+      "width": 480,
+      "height": 480,
+      "size": 6278,
+      "createdAt": "2026-07-07T04:09:54Z",
+      "updatedAt": "2026-07-07T04:09:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-argentina-treino-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-azul/back.webp",
+      "hash": "ad27c53c4c450d3858a00c2976bb749183c6d439209b184c62cbcc013c79a2bd",
+      "width": 480,
+      "height": 480,
+      "size": 4110,
+      "createdAt": "2026-07-07T04:09:54Z",
+      "updatedAt": "2026-07-07T04:09:54Z"
+    }
+  ]
+}

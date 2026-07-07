@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-07T04:07:51Z",
+  "updatedAt": "2026-07-07T04:07:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/front.webp",
+      "hash": "8784e1e0a8640ac76f931864c9e3f411ef61d54ed4d2f9b0edde1991cb31d49c",
+      "width": 480,
+      "height": 480,
+      "size": 7916,
+      "createdAt": "2026-07-07T04:07:49Z",
+      "updatedAt": "2026-07-07T04:07:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/back.webp",
+      "hash": "3b533e6cf52dc3c729fc3c684489d64ec61b649fb4956a9ad8669526cf1a4564",
+      "width": 480,
+      "height": 480,
+      "size": 13064,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "480bef946a62b9da78f460578b9675a5d8622355cbb23b283e90e218b0b7b2cf",
+      "width": 480,
+      "height": 480,
+      "size": 5886,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "3a13a2da71805e00e6e8c6c401a5673b9c082bf82c53084be17a5e60f1218642",
+      "width": 480,
+      "height": 480,
+      "size": 26364,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "da4d15fe444fb455aeeb2e7285022db0d4948c36b9b79484f26a45b5ec8991f0",
+      "width": 480,
+      "height": 480,
+      "size": 20780,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "ae7710653842c7daa175920ee4a6a53c15c4653c8fc51608e73a510ddf645236",
+      "width": 480,
+      "height": 480,
+      "size": 12386,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "38249b8613e9a6009e56ac60cdb9a2480e4cbca76355689d5f6aab6c573ca4a5",
+      "width": 480,
+      "height": 480,
+      "size": 12398,
+      "createdAt": "2026-07-07T04:07:50Z",
+      "updatedAt": "2026-07-07T04:07:50Z"
+    }
+  ]
+}

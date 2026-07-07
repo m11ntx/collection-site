@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-holanda-ii-26-27-torcedor-nike-masculina-branca-e-laranja",
+  "createdAt": "2026-07-07T04:12:51Z",
+  "updatedAt": "2026-07-07T04:12:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/26-27/fan/camisa-selecao-holanda-ii-26-27-torcedor-nike-masculina-branca-e-laranja/front.webp",
+      "hash": "eb594056d20c4d81a18b4be3ef06213e5dbab731f9aa967dd087666394989d35",
+      "width": 480,
+      "height": 480,
+      "size": 9410,
+      "createdAt": "2026-07-07T04:12:51Z",
+      "updatedAt": "2026-07-07T04:12:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/26-27/fan/camisa-selecao-holanda-ii-26-27-torcedor-nike-masculina-branca-e-laranja/back.webp",
+      "hash": "badd779749237054f1f2324e44eaa9c398379ffe0ec07d5e92c0700f9efd478a",
+      "width": 480,
+      "height": 480,
+      "size": 6450,
+      "createdAt": "2026-07-07T04:12:51Z",
+      "updatedAt": "2026-07-07T04:12:51Z"
+    }
+  ]
+}

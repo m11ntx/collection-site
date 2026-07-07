@@ -600,6 +600,326 @@
     "image": null
   },
   {
+    "id": "alemanha",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "alemanha",
+    "name": "Alemanha",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "argentina",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "argentina",
+    "name": "Argentina",
+    "country": "Argentina",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "belgica",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "belgica",
+    "name": "Bélgica",
+    "country": "Belgium",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "brasil",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "brasil",
+    "name": "Brasil",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "canada",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "canada",
+    "name": "Canadá",
+    "country": "Canada",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "chile",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "chile",
+    "name": "Chile",
+    "country": "Chile",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "colombia",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "colombia",
+    "name": "Colômbia",
+    "country": "Colombia",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "coreia-do-sul",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "coreia-do-sul",
+    "name": "Coreia do Sul",
+    "country": "South Korea",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "costa-rica",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "croacia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "croacia",
+    "name": "Croácia",
+    "country": "Croatia",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "equador",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "equador",
+    "name": "Equador",
+    "country": "Ecuador",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "escocia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "escocia",
+    "name": "Escócia",
+    "country": "Scotland",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "espanha",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "espanha",
+    "name": "Espanha",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "estados-unidos",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "estados-unidos",
+    "name": "Estados Unidos",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "franca",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "franca",
+    "name": "França",
+    "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "holanda",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "holanda",
+    "name": "Holanda",
+    "country": "Netherlands",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "hungria",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "hungria",
+    "name": "Hungria",
+    "country": "Hungary",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "inglaterra",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "inglaterra",
+    "name": "Inglaterra",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "italia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "italia",
+    "name": "Itália",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "jamaica",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "jamaica",
+    "name": "Jamaica",
+    "country": "Jamaica",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "japao",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "japao",
+    "name": "Japão",
+    "country": "Japan",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "mexico",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "mexico",
+    "name": "México",
+    "country": "Mexico",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "nigeria",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "nigeria",
+    "name": "Nigéria",
+    "country": "Nigeria",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "noruega",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "noruega",
+    "name": "Noruega",
+    "country": "Norway",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "pais-de-gales",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "pais-de-gales",
+    "name": "País de Gales",
+    "country": "Wales",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "peru",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "peru",
+    "name": "Peru",
+    "country": "Peru",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "polonia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "polonia",
+    "name": "Polônia",
+    "country": "Poland",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "portugal",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "portugal",
+    "name": "Portugal",
+    "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "suecia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "suecia",
+    "name": "Suécia",
+    "country": "Sweden",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "suica",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "suica",
+    "name": "Suíça",
+    "country": "Switzerland",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "tunisia",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "tunisia",
+    "name": "Tunísia",
+    "country": "Tunisia",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "uruguai",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "uruguai",
+    "name": "Uruguai",
+    "country": "Uruguay",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "ac-milan",
     "leagueId": "serie-a",
     "regionId": null,

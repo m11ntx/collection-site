@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-espanha-ii-26-27-torcedor-adidas-masculina-branca",
+  "createdAt": "2026-07-07T04:12:10Z",
+  "updatedAt": "2026-07-07T04:12:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-ii-26-27-torcedor-adidas-masculina-branca/front.webp",
+      "hash": "ba68fedf4997c828c53906e2b230d8fd7e18377b25b66cad31dff6c5a2b112eb",
+      "width": 480,
+      "height": 480,
+      "size": 14124,
+      "createdAt": "2026-07-07T04:11:46Z",
+      "updatedAt": "2026-07-07T04:11:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-ii-26-27-torcedor-adidas-masculina-branca/back.webp",
+      "hash": "b431176d23c3f14ca1acb2fdd82e54d6d537618cc5eba5ee65cec6b4edceb6a8",
+      "width": 480,
+      "height": 480,
+      "size": 11626,
+      "createdAt": "2026-07-07T04:11:58Z",
+      "updatedAt": "2026-07-07T04:11:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-ii-26-27-torcedor-adidas-masculina-branca/detail-1.webp",
+      "hash": "5352175e5ab14831dc4c8088bcdb0ac87bdf93252d7ac5a71e59e4c66a5e7576",
+      "width": 480,
+      "height": 480,
+      "size": 30886,
+      "createdAt": "2026-07-07T04:12:10Z",
+      "updatedAt": "2026-07-07T04:12:10Z"
+    }
+  ]
+}

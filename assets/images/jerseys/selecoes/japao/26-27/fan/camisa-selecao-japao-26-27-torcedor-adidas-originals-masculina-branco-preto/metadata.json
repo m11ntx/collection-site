@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-japao-26-27-torcedor-adidas-originals-masculina-branco-preto",
+  "createdAt": "2026-07-07T04:13:55Z",
+  "updatedAt": "2026-07-07T04:13:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/26-27/fan/camisa-selecao-japao-26-27-torcedor-adidas-originals-masculina-branco-preto/front.webp",
+      "hash": "e5aa4b8ff7c1f82100ebc7fc925f26cab94d2741c42bdd25040a710a6f7bf2e8",
+      "width": 480,
+      "height": 482,
+      "size": 11362,
+      "createdAt": "2026-07-07T04:13:55Z",
+      "updatedAt": "2026-07-07T04:13:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/26-27/fan/camisa-selecao-japao-26-27-torcedor-adidas-originals-masculina-branco-preto/back.webp",
+      "hash": "6f97c7c4bde1fb1f8ade0ce7d8947cb0f649edeb2d52bea9d70af4db4cbe412a",
+      "width": 480,
+      "height": 480,
+      "size": 9724,
+      "createdAt": "2026-07-07T04:13:55Z",
+      "updatedAt": "2026-07-07T04:13:55Z"
+    }
+  ]
+}

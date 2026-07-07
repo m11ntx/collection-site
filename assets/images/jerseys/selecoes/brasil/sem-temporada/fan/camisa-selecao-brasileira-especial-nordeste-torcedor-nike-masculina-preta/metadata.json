@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta",
+  "createdAt": "2026-07-07T04:10:07Z",
+  "updatedAt": "2026-07-07T04:10:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/front.webp",
+      "hash": "2fac40f0aec211678f8dca464af57d928f659fca8c5169fee46731dd2fc021c7",
+      "width": 480,
+      "height": 480,
+      "size": 9702,
+      "createdAt": "2026-07-07T04:10:05Z",
+      "updatedAt": "2026-07-07T04:10:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/back.webp",
+      "hash": "8b857eb48fa051d957fc94d36ff6e03d374a969b9c1855916e910ecae9f78691",
+      "width": 480,
+      "height": 480,
+      "size": 5416,
+      "createdAt": "2026-07-07T04:10:05Z",
+      "updatedAt": "2026-07-07T04:10:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/detail-1.webp",
+      "hash": "a280e5845282fc370e96de9fefdf5b1afa4eb7d9c9f4992f4cda7dd68b029cac",
+      "width": 480,
+      "height": 480,
+      "size": 17648,
+      "createdAt": "2026-07-07T04:10:05Z",
+      "updatedAt": "2026-07-07T04:10:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/detail-2.webp",
+      "hash": "8eb904692179a29413618443ba78e3376ac6b70d9b663edd34f1a42bbc3ff8d3",
+      "width": 480,
+      "height": 480,
+      "size": 16062,
+      "createdAt": "2026-07-07T04:10:05Z",
+      "updatedAt": "2026-07-07T04:10:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/detail-3.webp",
+      "hash": "9bdb64a599837d2d14bea7445673187cecc31c49c4a1d25e4ae01fafb4d46acd",
+      "width": 480,
+      "height": 480,
+      "size": 44862,
+      "createdAt": "2026-07-07T04:10:06Z",
+      "updatedAt": "2026-07-07T04:10:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/detail-4.webp",
+      "hash": "d8c72f6ffb99193fd6562e8fbe2e2e32ad14ad27184d0b2fb7933b5c8d30f184",
+      "width": 480,
+      "height": 480,
+      "size": 34104,
+      "createdAt": "2026-07-07T04:10:06Z",
+      "updatedAt": "2026-07-07T04:10:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-masculina-preta/detail-5.webp",
+      "hash": "e2ebf6beaad2d512d9eaf5b9f4b22b8de746af1ff9d688c0f81e26cdfd5825b0",
+      "width": 480,
+      "height": 480,
+      "size": 40292,
+      "createdAt": "2026-07-07T04:10:06Z",
+      "updatedAt": "2026-07-07T04:10:06Z"
+    }
+  ]
+}

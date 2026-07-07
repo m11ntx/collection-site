@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-chile-away-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:10:14Z",
+  "updatedAt": "2026-07-07T04:10:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/chile/26-27/fan/camisa-selecao-chile-away-26-27-torcedor-masculina/front.webp",
+      "hash": "f1ce32ca4297b42588621053e447ddc123aa0d2bbd762c2710da952d6ca9b7ea",
+      "width": 480,
+      "height": 480,
+      "size": 20870,
+      "createdAt": "2026-07-07T04:10:14Z",
+      "updatedAt": "2026-07-07T04:10:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/chile/26-27/fan/camisa-selecao-chile-away-26-27-torcedor-masculina/back.webp",
+      "hash": "51542c120d088284fdaf1bebd8712ba8a5c1a48e77a06fb0ef15008ce1d0983b",
+      "width": 480,
+      "height": 480,
+      "size": 17444,
+      "createdAt": "2026-07-07T04:10:14Z",
+      "updatedAt": "2026-07-07T04:10:14Z"
+    }
+  ]
+}

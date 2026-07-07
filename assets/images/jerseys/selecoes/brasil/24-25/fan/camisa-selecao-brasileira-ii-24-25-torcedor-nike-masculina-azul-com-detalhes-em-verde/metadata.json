@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde",
+  "createdAt": "2026-07-07T04:10:14Z",
+  "updatedAt": "2026-07-07T04:10:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/fan/camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde/front.webp",
+      "hash": "18933658c126ae30e7f618069b5e49d121988d2ab6c31e941365cdefe2d3892a",
+      "width": 480,
+      "height": 480,
+      "size": 24426,
+      "createdAt": "2026-07-07T04:10:13Z",
+      "updatedAt": "2026-07-07T04:10:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/fan/camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde/back.webp",
+      "hash": "35f7909a2c6f6044e88d0ecf24ab69514177eabd4ccf51f28ddced7f74cc58c2",
+      "width": 480,
+      "height": 480,
+      "size": 23004,
+      "createdAt": "2026-07-07T04:10:13Z",
+      "updatedAt": "2026-07-07T04:10:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/fan/camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde/detail-1.webp",
+      "hash": "687cb32dc3c1c9d994c7087e5af479a747ee64bd855f1c07e506b257d8a78cfe",
+      "width": 480,
+      "height": 600,
+      "size": 77062,
+      "createdAt": "2026-07-07T04:10:13Z",
+      "updatedAt": "2026-07-07T04:10:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/fan/camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde/detail-2.webp",
+      "hash": "652949819880a894a648f6d7181929bca1ff71947a2403078ebfa036a85f98c7",
+      "width": 480,
+      "height": 480,
+      "size": 61806,
+      "createdAt": "2026-07-07T04:10:13Z",
+      "updatedAt": "2026-07-07T04:10:13Z"
+    }
+  ]
+}

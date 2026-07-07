@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-italia-treino-26-27-torcedor-masculina-verde",
+  "createdAt": "2026-07-07T04:08:03Z",
+  "updatedAt": "2026-07-07T04:08:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/26-27/fan/camisa-italia-treino-26-27-torcedor-masculina-verde/front.webp",
+      "hash": "54ab1ca5bf31fede6df0e0589b392823fd65c6bc5ffbedbc31aad86144eee677",
+      "width": 480,
+      "height": 480,
+      "size": 13684,
+      "createdAt": "2026-07-07T04:08:03Z",
+      "updatedAt": "2026-07-07T04:08:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/26-27/fan/camisa-italia-treino-26-27-torcedor-masculina-verde/back.webp",
+      "hash": "f1255aa9f3a326aa3cd98789f079cac82acb00be31ccec9ccfb0ee3085b7e09b",
+      "width": 480,
+      "height": 480,
+      "size": 6978,
+      "createdAt": "2026-07-07T04:08:03Z",
+      "updatedAt": "2026-07-07T04:08:03Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-suica-away-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:14:06Z",
+  "updatedAt": "2026-07-07T04:14:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/suica/26-27/fan/camisa-suica-away-26-27-torcedor-masculina/front.webp",
+      "hash": "5d3f65ce010d45f48353cf7929add92747fee89cb6bb383f752c61cab09947c5",
+      "width": 480,
+      "height": 480,
+      "size": 32636,
+      "createdAt": "2026-07-07T04:14:06Z",
+      "updatedAt": "2026-07-07T04:14:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/suica/26-27/fan/camisa-suica-away-26-27-torcedor-masculina/back.webp",
+      "hash": "12a987f72f4350764c9fb811d3be22504250297ab4635df4531530bbcc86f69f",
+      "width": 480,
+      "height": 480,
+      "size": 14602,
+      "createdAt": "2026-07-07T04:14:06Z",
+      "updatedAt": "2026-07-07T04:14:06Z"
+    }
+  ]
+}

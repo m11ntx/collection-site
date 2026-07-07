@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-suecia-i-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-07T04:14:03Z",
+  "updatedAt": "2026-07-07T04:14:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/suecia/26-27/fan/camisa-suecia-i-home-26-27-torcedor-masculina/front.webp",
+      "hash": "9bc7a4417db6921770f43470e92982598fa6c69432a52f409b661e07ae9767cb",
+      "width": 480,
+      "height": 480,
+      "size": 13298,
+      "createdAt": "2026-07-07T04:14:03Z",
+      "updatedAt": "2026-07-07T04:14:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/suecia/26-27/fan/camisa-suecia-i-home-26-27-torcedor-masculina/back.webp",
+      "hash": "c4aaa027802d48318480f0c3812e15aac7f651a88b380d707524574e8d12cfe8",
+      "width": 480,
+      "height": 480,
+      "size": 8714,
+      "createdAt": "2026-07-07T04:14:03Z",
+      "updatedAt": "2026-07-07T04:14:03Z"
+    }
+  ]
+}

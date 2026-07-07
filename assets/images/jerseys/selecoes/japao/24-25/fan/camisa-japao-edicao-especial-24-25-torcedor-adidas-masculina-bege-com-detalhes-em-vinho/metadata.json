@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho",
+  "createdAt": "2026-07-07T04:08:06Z",
+  "updatedAt": "2026-07-07T04:08:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/front.webp",
+      "hash": "5563a90cbe797067953d2a245868553001ce4bbee80d32342e9d5194a411dc8c",
+      "width": 480,
+      "height": 480,
+      "size": 11184,
+      "createdAt": "2026-07-07T04:08:05Z",
+      "updatedAt": "2026-07-07T04:08:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/back.webp",
+      "hash": "fd7bf15cbf2907a7892e10c044bdae3fe2080df790b4542dc436b3a82980c8a3",
+      "width": 480,
+      "height": 480,
+      "size": 16344,
+      "createdAt": "2026-07-07T04:08:05Z",
+      "updatedAt": "2026-07-07T04:08:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/detail-1.webp",
+      "hash": "4781e422d49e9017030855b446b83d1e7e03815b1c3de4cc12823eabc04eb8a3",
+      "width": 480,
+      "height": 480,
+      "size": 9894,
+      "createdAt": "2026-07-07T04:08:05Z",
+      "updatedAt": "2026-07-07T04:08:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/detail-2.webp",
+      "hash": "ca9cd43a80983a7c13f21860b725e43790de2cf49a389ce5935aa17f6419af08",
+      "width": 480,
+      "height": 480,
+      "size": 47298,
+      "createdAt": "2026-07-07T04:08:05Z",
+      "updatedAt": "2026-07-07T04:08:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/detail-3.webp",
+      "hash": "bdd390cbfdf29bd263d84d7c16d606c1cb64fb14c884fb9ac7c8090fc6a4a91e",
+      "width": 480,
+      "height": 480,
+      "size": 53820,
+      "createdAt": "2026-07-07T04:08:06Z",
+      "updatedAt": "2026-07-07T04:08:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/detail-4.webp",
+      "hash": "f03c9ae0665335a39f11f2fc798cdde6e16427e5872266d3738a95e58ef00c26",
+      "width": 480,
+      "height": 480,
+      "size": 11898,
+      "createdAt": "2026-07-07T04:08:06Z",
+      "updatedAt": "2026-07-07T04:08:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-vinho/detail-5.webp",
+      "hash": "37787066b949beb468a9d26122d2a5bcc38a1e219b6636cfa0b450e388766220",
+      "width": 480,
+      "height": 480,
+      "size": 16138,
+      "createdAt": "2026-07-07T04:08:06Z",
+      "updatedAt": "2026-07-07T04:08:06Z"
+    }
+  ]
+}

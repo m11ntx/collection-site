@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-da-argentina-pre-jogo-24-25-copa-america-2024-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-07T04:10:25Z",
+  "updatedAt": "2026-07-07T04:10:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-pre-jogo-24-25-copa-america-2024-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "7e9137a03f9161ba6315225b14a897341f2e53ee616bd38e3c06308f9db7e031",
+      "width": 480,
+      "height": 480,
+      "size": 12172,
+      "createdAt": "2026-07-07T04:10:25Z",
+      "updatedAt": "2026-07-07T04:10:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-pre-jogo-24-25-copa-america-2024-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "6d2168c5e740b4bf5dadd4c24a6937f0d943a488977112f49e2e27bcdeb6c44c",
+      "width": 480,
+      "height": 480,
+      "size": 4212,
+      "createdAt": "2026-07-07T04:10:25Z",
+      "updatedAt": "2026-07-07T04:10:25Z"
+    }
+  ]
+}

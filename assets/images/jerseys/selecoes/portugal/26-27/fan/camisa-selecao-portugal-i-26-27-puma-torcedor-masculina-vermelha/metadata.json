@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-portugal-i-26-27-puma-torcedor-masculina-vermelha",
+  "createdAt": "2026-07-07T04:14:00Z",
+  "updatedAt": "2026-07-07T04:14:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/camisa-selecao-portugal-i-26-27-puma-torcedor-masculina-vermelha/front.webp",
+      "hash": "1b36eb503b7d90290d086c92eebb750fc9df720681e598eeec6bb14c6fc33a38",
+      "width": 480,
+      "height": 480,
+      "size": 15712,
+      "createdAt": "2026-07-07T04:14:00Z",
+      "updatedAt": "2026-07-07T04:14:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/camisa-selecao-portugal-i-26-27-puma-torcedor-masculina-vermelha/back.webp",
+      "hash": "a77a5d5567aca7c305e6af838fb867e94c2dac50c55ef4a5ded3aa56862d061e",
+      "width": 480,
+      "height": 480,
+      "size": 13352,
+      "createdAt": "2026-07-07T04:14:00Z",
+      "updatedAt": "2026-07-07T04:14:00Z"
+    }
+  ]
+}

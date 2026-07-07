@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina",
+  "createdAt": "2026-07-07T04:10:17Z",
+  "updatedAt": "2026-07-07T04:10:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/colombia/26-27/fan/camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina/front.webp",
+      "hash": "d2a1a065d19bfb617d6b282792d8b9ff2afdfb03499a499008117f76078739c9",
+      "width": 480,
+      "height": 480,
+      "size": 9944,
+      "createdAt": "2026-07-07T04:10:17Z",
+      "updatedAt": "2026-07-07T04:10:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/colombia/26-27/fan/camisa-selecao-colombia-i-26-27-adidas-torcedor-masculina/back.webp",
+      "hash": "fb33273955622e617a93ba0c12ce8b2da92271161933058776aeb46f4045e115",
+      "width": 480,
+      "height": 480,
+      "size": 8684,
+      "createdAt": "2026-07-07T04:10:17Z",
+      "updatedAt": "2026-07-07T04:10:17Z"
+    }
+  ]
+}

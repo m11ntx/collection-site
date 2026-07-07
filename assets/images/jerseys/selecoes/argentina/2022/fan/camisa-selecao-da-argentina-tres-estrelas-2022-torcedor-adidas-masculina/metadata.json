@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina",
+  "createdAt": "2026-07-07T04:10:27Z",
+  "updatedAt": "2026-07-07T04:10:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/front.webp",
+      "hash": "f52b79b016ae310475c4a967f40b8983b4e51ee7b74b4dbd4f1ea8220e3cfaea",
+      "width": 480,
+      "height": 480,
+      "size": 7224,
+      "createdAt": "2026-07-07T04:10:25Z",
+      "updatedAt": "2026-07-07T04:10:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/back.webp",
+      "hash": "631f8addcae2f067ceb05d91443efd0dbdc5b1f109e1e6d1be8b69c69e2ade82",
+      "width": 480,
+      "height": 480,
+      "size": 37762,
+      "createdAt": "2026-07-07T04:10:25Z",
+      "updatedAt": "2026-07-07T04:10:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/detail-1.webp",
+      "hash": "a1ea7038391c8bd2f24e1780e5e813ed9427481cbc3db9842329a081570f7544",
+      "width": 480,
+      "height": 464,
+      "size": 33330,
+      "createdAt": "2026-07-07T04:10:25Z",
+      "updatedAt": "2026-07-07T04:10:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/detail-2.webp",
+      "hash": "596d77bfab5a657a068d06ea4f8ef23a454b837e7f4cfb136187c2e9bd0628c4",
+      "width": 480,
+      "height": 480,
+      "size": 29828,
+      "createdAt": "2026-07-07T04:10:26Z",
+      "updatedAt": "2026-07-07T04:10:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/detail-3.webp",
+      "hash": "378ce023a9cad364de49dac93451440d174334e202605d58f11b6f3995037123",
+      "width": 480,
+      "height": 480,
+      "size": 39060,
+      "createdAt": "2026-07-07T04:10:26Z",
+      "updatedAt": "2026-07-07T04:10:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/detail-4.webp",
+      "hash": "c56dc57e44b3ad73d3fb80b5748fdbf39dfd32777511eba8923cf5b5fba2760d",
+      "width": 480,
+      "height": 480,
+      "size": 50278,
+      "createdAt": "2026-07-07T04:10:26Z",
+      "updatedAt": "2026-07-07T04:10:26Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/2022/fan/camisa-selecao-da-argentina-tres-estrelas-2022-torcedor-adidas-masculina/detail-5.webp",
+      "hash": "aa178e463aa4615df361bacc98cbe881dd7f4c4e51413dabcabfb774cfa1fe1f",
+      "width": 480,
+      "height": 480,
+      "size": 35138,
+      "createdAt": "2026-07-07T04:10:27Z",
+      "updatedAt": "2026-07-07T04:10:27Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-07T04:10:34Z",
+  "updatedAt": "2026-07-07T04:10:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha/front.webp",
+      "hash": "373ab425c981896a57b65895fe9794d0e16b82f553aaf6862685f5b3dc401cb3",
+      "width": 480,
+      "height": 480,
+      "size": 11026,
+      "createdAt": "2026-07-07T04:10:33Z",
+      "updatedAt": "2026-07-07T04:10:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha/back.webp",
+      "hash": "a00dfea7a93a5e67d794f612ad285656ae8a84d22cd84b743857565b9c35ed85",
+      "width": 480,
+      "height": 480,
+      "size": 7626,
+      "createdAt": "2026-07-07T04:10:33Z",
+      "updatedAt": "2026-07-07T04:10:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha/detail-1.webp",
+      "hash": "d2d74c7a24723ee07cffaf175cac6c224919ad085fed449bf261aef68b8bdc0e",
+      "width": 480,
+      "height": 480,
+      "size": 53532,
+      "createdAt": "2026-07-07T04:10:34Z",
+      "updatedAt": "2026-07-07T04:10:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha/detail-2.webp",
+      "hash": "35eaff25f397b43282d24bf13598b05446afd4038873b35976d6339954adeee4",
+      "width": 480,
+      "height": 480,
+      "size": 62676,
+      "createdAt": "2026-07-07T04:10:34Z",
+      "updatedAt": "2026-07-07T04:10:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-torcedor-adidas-masculina-vermelha/detail-3.webp",
+      "hash": "929a2b9ac2ae18a644bbd0f1a232bf4b00514c33b30372be0800222a4a456674",
+      "width": 480,
+      "height": 480,
+      "size": 32218,
+      "createdAt": "2026-07-07T04:10:34Z",
+      "updatedAt": "2026-07-07T04:10:34Z"
+    }
+  ]
+}

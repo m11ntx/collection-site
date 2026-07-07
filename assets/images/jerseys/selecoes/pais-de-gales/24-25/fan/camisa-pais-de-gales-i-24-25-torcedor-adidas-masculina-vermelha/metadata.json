@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-07T04:08:40Z",
+  "updatedAt": "2026-07-07T04:08:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/front.webp",
+      "hash": "266766f738a53379a2b23c5dce4a4ab63edeadf82adbbd40f51bf6d016706043",
+      "width": 480,
+      "height": 480,
+      "size": 7074,
+      "createdAt": "2026-07-07T04:08:38Z",
+      "updatedAt": "2026-07-07T04:08:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/back.webp",
+      "hash": "dccb18fc5d112904926fa3eb331777000ab34d1bc0490e34a855e6189b116207",
+      "width": 480,
+      "height": 480,
+      "size": 10884,
+      "createdAt": "2026-07-07T04:08:38Z",
+      "updatedAt": "2026-07-07T04:08:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/detail-1.webp",
+      "hash": "a3f8cda2cc282b48c6cea82a145cdf1dd4f2ae0ee22911080b68b88b932309f7",
+      "width": 480,
+      "height": 480,
+      "size": 5896,
+      "createdAt": "2026-07-07T04:08:39Z",
+      "updatedAt": "2026-07-07T04:08:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/detail-2.webp",
+      "hash": "322634efe204a827e5ffbac321ff00f4af44efeeed2b0d9161fea814351bd5bd",
+      "width": 480,
+      "height": 480,
+      "size": 57346,
+      "createdAt": "2026-07-07T04:08:39Z",
+      "updatedAt": "2026-07-07T04:08:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/detail-3.webp",
+      "hash": "2cef4ee6a078354ef381f0a59df5d7edcdf8cdcee8bb6eff61bc4de23d689f73",
+      "width": 480,
+      "height": 480,
+      "size": 50698,
+      "createdAt": "2026-07-07T04:08:39Z",
+      "updatedAt": "2026-07-07T04:08:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/detail-4.webp",
+      "hash": "6c3dfcdd6af80d7e01e0c992e3e7bb0b89ec29caf2613b6116b414c4a912566d",
+      "width": 480,
+      "height": 480,
+      "size": 13210,
+      "createdAt": "2026-07-07T04:08:39Z",
+      "updatedAt": "2026-07-07T04:08:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/pais-de-gales/24-25/fan/camisa-pais-de-gales-i-24-25-torcedor-adidas-masculina-vermelha/detail-5.webp",
+      "hash": "0e0726573d81bfc41e5eb700fe617537fed9f1779528f452eda7e22e6d4b7e4a",
+      "width": 480,
+      "height": 480,
+      "size": 10664,
+      "createdAt": "2026-07-07T04:08:40Z",
+      "updatedAt": "2026-07-07T04:08:40Z"
+    }
+  ]
+}

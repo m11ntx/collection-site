@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-naruto-pain-2024-adidas-torcedor-masculina-branca",
+  "createdAt": "2026-07-07T04:08:26Z",
+  "updatedAt": "2026-07-07T04:08:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/2024/fan/camisa-japao-edicao-especial-naruto-pain-2024-adidas-torcedor-masculina-branca/front.webp",
+      "hash": "1570313a5b83149f10c66d2c12473bcfec65d58e70692f173e116ac78ad95c81",
+      "width": 480,
+      "height": 480,
+      "size": 17100,
+      "createdAt": "2026-07-07T04:08:26Z",
+      "updatedAt": "2026-07-07T04:08:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/2024/fan/camisa-japao-edicao-especial-naruto-pain-2024-adidas-torcedor-masculina-branca/back.webp",
+      "hash": "ef563451fee8ef4ff68d713f985de4ece8674c0487e5b96a9331b8ebcfd380df",
+      "width": 480,
+      "height": 480,
+      "size": 8376,
+      "createdAt": "2026-07-07T04:08:26Z",
+      "updatedAt": "2026-07-07T04:08:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/2024/fan/camisa-japao-edicao-especial-naruto-pain-2024-adidas-torcedor-masculina-branca/detail-1.webp",
+      "hash": "f1bd357e15adbbc2478c693265eb9b22a0a798a42d2f613f68cfa4f75aa8248d",
+      "width": 480,
+      "height": 480,
+      "size": 29440,
+      "createdAt": "2026-07-07T04:08:26Z",
+      "updatedAt": "2026-07-07T04:08:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/2024/fan/camisa-japao-edicao-especial-naruto-pain-2024-adidas-torcedor-masculina-branca/detail-2.webp",
+      "hash": "af13b621c1ec6c97a15ab5558e95283e67d926e3c1ad93a2371efa296e532332",
+      "width": 480,
+      "height": 480,
+      "size": 25138,
+      "createdAt": "2026-07-07T04:08:26Z",
+      "updatedAt": "2026-07-07T04:08:26Z"
+    }
+  ]
+}

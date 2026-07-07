@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-da-inglaterra-ii-24-25-torcedor-nike-masculina-roxa",
+  "createdAt": "2026-07-07T04:10:46Z",
+  "updatedAt": "2026-07-07T04:10:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-ii-24-25-torcedor-nike-masculina-roxa/front.webp",
+      "hash": "cc16de22bca686b37d87824ac0847d2b913b59a4392bc5c52e86755f6c388390",
+      "width": 480,
+      "height": 480,
+      "size": 6798,
+      "createdAt": "2026-07-07T04:10:46Z",
+      "updatedAt": "2026-07-07T04:10:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/fan/camisa-selecao-da-inglaterra-ii-24-25-torcedor-nike-masculina-roxa/back.webp",
+      "hash": "40f3de7051265c8899eb82f6aa207e2576badfd87d2c4f93c78d30d004afc237",
+      "width": 480,
+      "height": 480,
+      "size": 5430,
+      "createdAt": "2026-07-07T04:10:46Z",
+      "updatedAt": "2026-07-07T04:10:46Z"
+    }
+  ]
+}

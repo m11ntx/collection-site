@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde",
+  "createdAt": "2026-07-07T04:10:08Z",
+  "updatedAt": "2026-07-07T04:10:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/front.webp",
+      "hash": "417c1132d8d128594677a745371e4425e782576f6d2221e108a560944f071cbd",
+      "width": 480,
+      "height": 480,
+      "size": 7486,
+      "createdAt": "2026-07-07T04:10:07Z",
+      "updatedAt": "2026-07-07T04:10:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/back.webp",
+      "hash": "6324e5551450028dd336c2c0621e302b5b5c0ffafebbae72a4121106c380f89e",
+      "width": 480,
+      "height": 480,
+      "size": 5854,
+      "createdAt": "2026-07-07T04:10:07Z",
+      "updatedAt": "2026-07-07T04:10:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/detail-1.webp",
+      "hash": "ad75291e7f796339a437312ed2206683a9118d160b411363d2b7981b9e130ceb",
+      "width": 480,
+      "height": 480,
+      "size": 13564,
+      "createdAt": "2026-07-07T04:10:07Z",
+      "updatedAt": "2026-07-07T04:10:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/detail-2.webp",
+      "hash": "0494f784534d5ed18e530d468547f968b7f084d84838e01eff0eb34996d09a1d",
+      "width": 480,
+      "height": 480,
+      "size": 10340,
+      "createdAt": "2026-07-07T04:10:07Z",
+      "updatedAt": "2026-07-07T04:10:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/detail-3.webp",
+      "hash": "f2abaf4a99143f52a03fe9cb54bc330b020ebc378add47d9132a83d0d925db4d",
+      "width": 480,
+      "height": 480,
+      "size": 20264,
+      "createdAt": "2026-07-07T04:10:08Z",
+      "updatedAt": "2026-07-07T04:10:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/detail-4.webp",
+      "hash": "9a33534a9f2b96656e2fa879ed673bb39c77ccacd2e9cec4c30f5d0898d59ac5",
+      "width": 480,
+      "height": 480,
+      "size": 26576,
+      "createdAt": "2026-07-07T04:10:08Z",
+      "updatedAt": "2026-07-07T04:10:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/19-20/fan/camisa-selecao-brasileira-i-19-20-torcedor-masculina-amarela-com-a-gola-verde/detail-5.webp",
+      "hash": "91f35b6dee13e90b02b434f6f0ad213845cd897a77efceec9bc69c44bca70d57",
+      "width": 480,
+      "height": 480,
+      "size": 14366,
+      "createdAt": "2026-07-07T04:10:08Z",
+      "updatedAt": "2026-07-07T04:10:08Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa",
+  "createdAt": "2026-07-07T04:08:20Z",
+  "updatedAt": "2026-07-07T04:08:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/front.webp",
+      "hash": "f653bb24bee2a6a3066a0db4a3e4b055c3f1ddd4f332384191c587acadd2c0f7",
+      "width": 480,
+      "height": 480,
+      "size": 15642,
+      "createdAt": "2026-07-07T04:08:18Z",
+      "updatedAt": "2026-07-07T04:08:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/back.webp",
+      "hash": "a418e096105f160bf5df380282ffbb32c49b4048701b8d350b5fdd1b16dbd937",
+      "width": 480,
+      "height": 480,
+      "size": 23974,
+      "createdAt": "2026-07-07T04:08:19Z",
+      "updatedAt": "2026-07-07T04:08:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-1.webp",
+      "hash": "fe5230181a72d519029049f9195a9df44ca6b09c245d918b5397f1af22c9fa8b",
+      "width": 480,
+      "height": 480,
+      "size": 11370,
+      "createdAt": "2026-07-07T04:08:19Z",
+      "updatedAt": "2026-07-07T04:08:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-2.webp",
+      "hash": "af2e02109393c23b19b7bbc720b3de20d15f91af668848c238fad74f7744bda4",
+      "width": 480,
+      "height": 480,
+      "size": 58296,
+      "createdAt": "2026-07-07T04:08:19Z",
+      "updatedAt": "2026-07-07T04:08:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-3.webp",
+      "hash": "360fdc01bf6883540fbaa6f18b169eb34722ee2773aeae9dbc0cccfc611a85a0",
+      "width": 480,
+      "height": 480,
+      "size": 39500,
+      "createdAt": "2026-07-07T04:08:19Z",
+      "updatedAt": "2026-07-07T04:08:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-4.webp",
+      "hash": "28bfab034624edb980d84a16b636678ebfc2ca0862f4fc95a643f0dd60c292c2",
+      "width": 480,
+      "height": 480,
+      "size": 17238,
+      "createdAt": "2026-07-07T04:08:20Z",
+      "updatedAt": "2026-07-07T04:08:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-5.webp",
+      "hash": "d323b8ead0329ea92f955122cb690f622d31daa97f035ff4a913d8bcdcccf944",
+      "width": 480,
+      "height": 480,
+      "size": 16764,
+      "createdAt": "2026-07-07T04:08:20Z",
+      "updatedAt": "2026-07-07T04:08:20Z"
+    }
+  ]
+}

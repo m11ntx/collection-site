@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-de-portugal-goleiro-24-25-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-07T04:11:01Z",
+  "updatedAt": "2026-07-07T04:11:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-goleiro-24-25-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "79b00aa132c0874f26b9c91e5d3865b65c1406de299729076b466886cc47246e",
+      "width": 480,
+      "height": 480,
+      "size": 14466,
+      "createdAt": "2026-07-07T04:11:01Z",
+      "updatedAt": "2026-07-07T04:11:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-goleiro-24-25-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "a80efe84394b76d71194354d80794b4699841f712ddc1cb03a5a0228c918f8ce",
+      "width": 480,
+      "height": 480,
+      "size": 14216,
+      "createdAt": "2026-07-07T04:11:01Z",
+      "updatedAt": "2026-07-07T04:11:01Z"
+    }
+  ]
+}

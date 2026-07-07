@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-masculina-equador-iii-26-27-marathon-modelo-torcedor-branca",
+  "createdAt": "2026-07-07T04:08:30Z",
+  "updatedAt": "2026-07-07T04:08:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/equador/26-27/fan/camisa-masculina-equador-iii-26-27-marathon-modelo-torcedor-branca/front.webp",
+      "hash": "efa422d7a28f2e4c5fd1d12013d757c9467b9a6f361a17b59800ff36edc776ba",
+      "width": 480,
+      "height": 480,
+      "size": 5220,
+      "createdAt": "2026-07-07T04:08:30Z",
+      "updatedAt": "2026-07-07T04:08:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/equador/26-27/fan/camisa-masculina-equador-iii-26-27-marathon-modelo-torcedor-branca/back.webp",
+      "hash": "615e413e4707418d847fca0535068043cf2fde02e8af63fc3b16597611cdc077",
+      "width": 480,
+      "height": 480,
+      "size": 3498,
+      "createdAt": "2026-07-07T04:08:30Z",
+      "updatedAt": "2026-07-07T04:08:30Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza",
+  "createdAt": "2026-07-07T04:14:24Z",
+  "updatedAt": "2026-07-07T04:14:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/front.webp",
+      "hash": "9f5a8c6e8092d5378ab75560f4ecb1e1ce417b75ea78708b08c05499027d9215",
+      "width": 480,
+      "height": 480,
+      "size": 15652,
+      "createdAt": "2026-07-07T04:14:22Z",
+      "updatedAt": "2026-07-07T04:14:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/back.webp",
+      "hash": "d02877c550423da25cfce27c8b970406685abfe918a58184be2de4c520d1402c",
+      "width": 480,
+      "height": 480,
+      "size": 15466,
+      "createdAt": "2026-07-07T04:14:22Z",
+      "updatedAt": "2026-07-07T04:14:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/detail-1.webp",
+      "hash": "673154d74ccec5add74f9c4d0055021c5842937f85a3211929bd127cdaa7f380",
+      "width": 480,
+      "height": 480,
+      "size": 25038,
+      "createdAt": "2026-07-07T04:14:22Z",
+      "updatedAt": "2026-07-07T04:14:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/detail-2.webp",
+      "hash": "c5045b62e66432cde5f4951b0256a62e2e5224c4d578c523fdfbc14c06bfd4c9",
+      "width": 480,
+      "height": 480,
+      "size": 70844,
+      "createdAt": "2026-07-07T04:14:22Z",
+      "updatedAt": "2026-07-07T04:14:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/detail-3.webp",
+      "hash": "76b53a0f12557f7c80e7625e1c5dca3c546aea0702fc571620ecccab7e8955d3",
+      "width": 480,
+      "height": 480,
+      "size": 60340,
+      "createdAt": "2026-07-07T04:14:23Z",
+      "updatedAt": "2026-07-07T04:14:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/detail-4.webp",
+      "hash": "7bad2c695d5091800310ff8df5dc854f9e2e4ee5aa64c10e808a93ff8126a2d5",
+      "width": 480,
+      "height": 480,
+      "size": 21284,
+      "createdAt": "2026-07-07T04:14:23Z",
+      "updatedAt": "2026-07-07T04:14:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-nike-masculina-roxa-com-detalhes-em-branco-e-cinza/detail-5.webp",
+      "hash": "4e71b66c8025fcdbf0ad27f297b63fe42a5133219bc056084d0a86d66bd4e38e",
+      "width": 480,
+      "height": 480,
+      "size": 31822,
+      "createdAt": "2026-07-07T04:14:23Z",
+      "updatedAt": "2026-07-07T04:14:23Z"
+    }
+  ]
+}

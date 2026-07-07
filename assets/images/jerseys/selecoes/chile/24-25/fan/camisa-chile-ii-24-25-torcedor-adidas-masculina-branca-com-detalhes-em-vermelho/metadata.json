@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-07T04:07:47Z",
+  "updatedAt": "2026-07-07T04:07:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/front.webp",
+      "hash": "14cf03b8998a2996e0031d573c87658bb1281552a263a0a9bb2a493c2155792d",
+      "width": 480,
+      "height": 480,
+      "size": 6846,
+      "createdAt": "2026-07-07T04:07:46Z",
+      "updatedAt": "2026-07-07T04:07:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/back.webp",
+      "hash": "3b7eaa9357518f61e000a0bb52d7616f0b1d5c36f542ffe6f698be83c8889ed8",
+      "width": 480,
+      "height": 480,
+      "size": 4000,
+      "createdAt": "2026-07-07T04:07:46Z",
+      "updatedAt": "2026-07-07T04:07:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "b6a72d9d8864bf5766b01dfc45721f44aeb8edb7954678d5c5606f9d68963cb5",
+      "width": 480,
+      "height": 480,
+      "size": 10194,
+      "createdAt": "2026-07-07T04:07:46Z",
+      "updatedAt": "2026-07-07T04:07:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "5f7e731113b3ecff6ddbca15f4e0dd527aea9c9b7c4bde9db3a5a8a056e56c8c",
+      "width": 480,
+      "height": 480,
+      "size": 18788,
+      "createdAt": "2026-07-07T04:07:46Z",
+      "updatedAt": "2026-07-07T04:07:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "7d76be8e056371c05630854fb5f9952f3c2d229ecd48d6138dfe4b7b60986165",
+      "width": 480,
+      "height": 480,
+      "size": 38322,
+      "createdAt": "2026-07-07T04:07:46Z",
+      "updatedAt": "2026-07-07T04:07:46Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "f685e99f73644aae69e450e6cab609b45c32bb26c3dd2e61c3fe659b63707a56",
+      "width": 480,
+      "height": 480,
+      "size": 13342,
+      "createdAt": "2026-07-07T04:07:47Z",
+      "updatedAt": "2026-07-07T04:07:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/chile/24-25/fan/camisa-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "ffad36022bc8902d0a91eb238fe06cf05a10bccdc61768702a14a355943e27d3",
+      "width": 480,
+      "height": 480,
+      "size": 10902,
+      "createdAt": "2026-07-07T04:07:47Z",
+      "updatedAt": "2026-07-07T04:07:47Z"
+    }
+  ]
+}

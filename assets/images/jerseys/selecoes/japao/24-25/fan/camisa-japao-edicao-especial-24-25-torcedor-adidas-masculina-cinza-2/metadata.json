@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2",
+  "createdAt": "2026-07-07T04:08:16Z",
+  "updatedAt": "2026-07-07T04:08:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/front.webp",
+      "hash": "16a35e86fa85dcec8fab09155a4087bc7b0ea21cce7ca53145e46b2c0b9c9be6",
+      "width": 480,
+      "height": 480,
+      "size": 14420,
+      "createdAt": "2026-07-07T04:08:15Z",
+      "updatedAt": "2026-07-07T04:08:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/back.webp",
+      "hash": "798b48206c37cc2bceb5d6d83efe0cb8f3f04ed08f3aeeb2ddfa0fc1b31529bb",
+      "width": 480,
+      "height": 480,
+      "size": 14152,
+      "createdAt": "2026-07-07T04:08:15Z",
+      "updatedAt": "2026-07-07T04:08:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/detail-1.webp",
+      "hash": "d3fb791755c3a87538034eb592013e643aee0639ef748a2cd596daa6d910edaf",
+      "width": 480,
+      "height": 480,
+      "size": 21898,
+      "createdAt": "2026-07-07T04:08:15Z",
+      "updatedAt": "2026-07-07T04:08:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/detail-2.webp",
+      "hash": "8da2fd81e2f5da76ee752d1338b2319a72bceb66bb916912cada80bf63c8e9fd",
+      "width": 480,
+      "height": 480,
+      "size": 65956,
+      "createdAt": "2026-07-07T04:08:15Z",
+      "updatedAt": "2026-07-07T04:08:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/detail-3.webp",
+      "hash": "559183ab25a2bd9f2422594a3e01e9d435ef92f07f3212004ef980431baeab58",
+      "width": 480,
+      "height": 480,
+      "size": 59166,
+      "createdAt": "2026-07-07T04:08:16Z",
+      "updatedAt": "2026-07-07T04:08:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-cinza-2/detail-4.webp",
+      "hash": "db1ebcc9d52745dc41a33c9299979c823f0536ecabfa47cafd3581cfc4f0c374",
+      "width": 480,
+      "height": 480,
+      "size": 18886,
+      "createdAt": "2026-07-07T04:08:16Z",
+      "updatedAt": "2026-07-07T04:08:16Z"
+    }
+  ]
+}

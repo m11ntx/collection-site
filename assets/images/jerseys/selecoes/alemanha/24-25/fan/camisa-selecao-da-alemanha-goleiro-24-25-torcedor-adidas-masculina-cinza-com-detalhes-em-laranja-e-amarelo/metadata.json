@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo",
+  "createdAt": "2026-07-07T04:10:20Z",
+  "updatedAt": "2026-07-07T04:10:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/front.webp",
+      "hash": "764121b97722b2c4f36bc483e24ad2abd253b9ff25c3e89b63345984dadd45dd",
+      "width": 480,
+      "height": 480,
+      "size": 12724,
+      "createdAt": "2026-07-07T04:10:19Z",
+      "updatedAt": "2026-07-07T04:10:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/back.webp",
+      "hash": "15fc0ac1d5bf37920e357414fc0a8f5f77c4df96143220c61257ad4cabefd358",
+      "width": 480,
+      "height": 480,
+      "size": 21688,
+      "createdAt": "2026-07-07T04:10:19Z",
+      "updatedAt": "2026-07-07T04:10:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/detail-1.webp",
+      "hash": "accac069308da85463447f559693ffe267a3bb12701325682fb2e46ae08396a0",
+      "width": 480,
+      "height": 480,
+      "size": 5638,
+      "createdAt": "2026-07-07T04:10:19Z",
+      "updatedAt": "2026-07-07T04:10:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/detail-2.webp",
+      "hash": "fcb16345216b4d12cbaf2caece5531644902b370826d03847a997b383acfa75b",
+      "width": 480,
+      "height": 480,
+      "size": 21392,
+      "createdAt": "2026-07-07T04:10:19Z",
+      "updatedAt": "2026-07-07T04:10:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/detail-3.webp",
+      "hash": "80b1b039f42dd57c68d3eabb4f0446669ba0dd024519b0da6212a0a52e209fdc",
+      "width": 480,
+      "height": 480,
+      "size": 55306,
+      "createdAt": "2026-07-07T04:10:19Z",
+      "updatedAt": "2026-07-07T04:10:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-goleiro-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-laranja-e-amarelo/detail-4.webp",
+      "hash": "5d9c6a328491ac9893f17a0dd87a5f0fb6057ffbd85ecdf8e158237e41f3735b",
+      "width": 480,
+      "height": 480,
+      "size": 67558,
+      "createdAt": "2026-07-07T04:10:20Z",
+      "updatedAt": "2026-07-07T04:10:20Z"
+    }
+  ]
+}

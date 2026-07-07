@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-colombia-centenario-24-25-torcedor-adidas-preta",
+  "createdAt": "2026-07-07T04:07:48Z",
+  "updatedAt": "2026-07-07T04:07:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-centenario-24-25-torcedor-adidas-preta/front.webp",
+      "hash": "d3081a2606e062c097a7d9da1f0bc9b7729f1f574ec564f780685a86b57c3730",
+      "width": 480,
+      "height": 480,
+      "size": 6266,
+      "createdAt": "2026-07-07T04:07:47Z",
+      "updatedAt": "2026-07-07T04:07:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-centenario-24-25-torcedor-adidas-preta/back.webp",
+      "hash": "d13044652df5e3a2e9041a6ed0f4f95f89274e1657886994befed74d67846702",
+      "width": 480,
+      "height": 480,
+      "size": 5008,
+      "createdAt": "2026-07-07T04:07:48Z",
+      "updatedAt": "2026-07-07T04:07:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/fan/camisa-colombia-centenario-24-25-torcedor-adidas-preta/detail-1.webp",
+      "hash": "3fded00ece8ebae690332d5d34fcc602378b06d7a5287be28eea619aceba2bdf",
+      "width": 480,
+      "height": 480,
+      "size": 11452,
+      "createdAt": "2026-07-07T04:07:48Z",
+      "updatedAt": "2026-07-07T04:07:48Z"
+    }
+  ]
+}

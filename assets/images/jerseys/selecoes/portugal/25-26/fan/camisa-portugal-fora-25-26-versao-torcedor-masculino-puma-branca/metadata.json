@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-portugal-fora-25-26-versao-torcedor-masculino-puma-branca",
+  "createdAt": "2026-07-07T04:08:45Z",
+  "updatedAt": "2026-07-07T04:08:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/fan/camisa-portugal-fora-25-26-versao-torcedor-masculino-puma-branca/front.webp",
+      "hash": "30a799a28d462346d44668abe071001ccaf28d333b4d0c3df4e6a977375757bd",
+      "width": 480,
+      "height": 480,
+      "size": 14358,
+      "createdAt": "2026-07-07T04:08:45Z",
+      "updatedAt": "2026-07-07T04:08:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/fan/camisa-portugal-fora-25-26-versao-torcedor-masculino-puma-branca/back.webp",
+      "hash": "cd30b90ce61497d6ab606fd285f9be6d457bbd5dc9bf1c9ca46af816b7aa38f4",
+      "width": 480,
+      "height": 480,
+      "size": 7354,
+      "createdAt": "2026-07-07T04:08:45Z",
+      "updatedAt": "2026-07-07T04:08:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/fan/camisa-portugal-fora-25-26-versao-torcedor-masculino-puma-branca/detail-1.webp",
+      "hash": "a3ae55b0108e7e4b7e038da3c9d89b81550851f34a46bba3a97a74ba9cd13f5b",
+      "width": 480,
+      "height": 480,
+      "size": 34870,
+      "createdAt": "2026-07-07T04:08:45Z",
+      "updatedAt": "2026-07-07T04:08:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/fan/camisa-portugal-fora-25-26-versao-torcedor-masculino-puma-branca/detail-2.webp",
+      "hash": "630b51f2cac7ee6037e2213ba93a69528f726936eb935300e5938ca59ca6e4a2",
+      "width": 480,
+      "height": 480,
+      "size": 56984,
+      "createdAt": "2026-07-07T04:08:45Z",
+      "updatedAt": "2026-07-07T04:08:45Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado",
+  "createdAt": "2026-07-07T04:14:33Z",
+  "updatedAt": "2026-07-07T04:14:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/front.webp",
+      "hash": "c4336e07e77c9e5562a477c836b200d8d0a24671a595a2d4178a7d06ce5ef78b",
+      "width": 480,
+      "height": 480,
+      "size": 5692,
+      "createdAt": "2026-07-07T04:14:32Z",
+      "updatedAt": "2026-07-07T04:14:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/back.webp",
+      "hash": "0e9995ad035b78ea2f602f423ac25639925a2d318281a246874ad4a1e8351f14",
+      "width": 480,
+      "height": 480,
+      "size": 4600,
+      "createdAt": "2026-07-07T04:14:32Z",
+      "updatedAt": "2026-07-07T04:14:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/detail-1.webp",
+      "hash": "f85f698877031be3b27b79b64c971bed54b5a0766ca2bc23bf4f12d154e39f13",
+      "width": 480,
+      "height": 480,
+      "size": 8618,
+      "createdAt": "2026-07-07T04:14:32Z",
+      "updatedAt": "2026-07-07T04:14:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/detail-2.webp",
+      "hash": "d035523a158a03878ddcf9c716b6bbcf7f87bf8c709d4aeb98697a06beb3421b",
+      "width": 480,
+      "height": 480,
+      "size": 44674,
+      "createdAt": "2026-07-07T04:14:32Z",
+      "updatedAt": "2026-07-07T04:14:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/detail-3.webp",
+      "hash": "8ef5543f51bde51b66d75213452cf14bc7a2b0e47ae896f73881a1fefad00b76",
+      "width": 480,
+      "height": 480,
+      "size": 44590,
+      "createdAt": "2026-07-07T04:14:33Z",
+      "updatedAt": "2026-07-07T04:14:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/detail-4.webp",
+      "hash": "8c845f2b1f93d11a26dc2da3608e6c4d8162b0f69c9d23180afbb02dd8fdb8aa",
+      "width": 480,
+      "height": 480,
+      "size": 10608,
+      "createdAt": "2026-07-07T04:14:33Z",
+      "updatedAt": "2026-07-07T04:14:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-i-24-25-torcedor-adidas-masculina-azul-e-branca-com-detalhes-em-dourado/detail-5.webp",
+      "hash": "a61a59fcf54988e26cb04b8d34f7cdd58e46b3dcff9f69c798f4a0575c18f315",
+      "width": 480,
+      "height": 480,
+      "size": 6514,
+      "createdAt": "2026-07-07T04:14:33Z",
+      "updatedAt": "2026-07-07T04:14:33Z"
+    }
+  ]
+}
