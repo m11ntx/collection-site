@@ -8,14 +8,6 @@
     "image": null
   },
   {
-    "id": "selecoes",
-    "collectionId": "brasil",
-    "slug": "selecoes",
-    "name": "Seleções",
-    "country": null,
-    "image": null
-  },
-  {
     "id": "bundesliga",
     "collectionId": "europa",
     "slug": "bundesliga",
@@ -85,6 +77,14 @@
     "slug": "super-lig",
     "name": "Süper Lig",
     "country": "Turkey",
+    "image": null
+  },
+  {
+    "id": "selecoes",
+    "collectionId": "selecoes",
+    "slug": "selecoes",
+    "name": "Seleções",
+    "country": null,
     "image": null
   }
 ]
