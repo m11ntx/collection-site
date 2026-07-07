@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 1896,
+    "products": 1890,
     "collections": 3,
     "leagues": 10,
     "regions": 6,
@@ -8,20 +8,20 @@
     "manufacturers": 17
   },
   "products": {
-    "available": 1858,
+    "available": 1852,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 1465
+    "withManufacturer": 1464
   },
   "byCollection": {
     "brasil": 487,
-    "europa": 752,
+    "europa": 746,
     "selecoes": 235,
     "unknown": 422
   },
   "byLeague": {
     "brasileirao": 408,
-    "bundesliga": 44,
+    "bundesliga": 38,
     "eredivisie": 8,
     "la-liga": 49,
     "ligue-1": 19,
@@ -39,7 +39,7 @@
     "rio-de-janeiro": 146,
     "sao-paulo": 98,
     "sul": 56,
-    "unknown": 1483
+    "unknown": 1477
   },
   "byClub": {
     "ac-milan": 16,
@@ -55,7 +55,7 @@
     "avai": 1,
     "bahia": 23,
     "barcelona": 13,
-    "bayer-leverkusen": 10,
+    "bayer-leverkusen": 4,
     "bayern-munich": 15,
     "benfica": 5,
     "borussia-dortmund": 13,
@@ -215,7 +215,7 @@
     "2023": 3,
     "2023/2024": 1,
     "2023/24": 1,
-    "2024": 9,
+    "2024": 8,
     "2024/2025": 4,
     "2024/25": 10,
     "2025": 16,
@@ -228,7 +228,7 @@
     "24/25": 906,
     "24/35": 1,
     "25/26": 185,
-    "26/27": 180,
+    "26/27": 176,
     "57/62": 1,
     "88/90": 1,
     "91/93": 2,
@@ -240,22 +240,22 @@
     "97/98": 1,
     "97/99": 1,
     "98/99": 1,
-    "unknown": 187
+    "unknown": 186
   },
   "byCategory": {
     "current": 87,
     "manga-longa": 6,
     "retro": 333,
-    "unknown": 1470
+    "unknown": 1464
   },
   "byVersion": {
-    "fan": 1082,
+    "fan": 1076,
     "player": 137,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1579,
+    "men": 1573,
     "unknown": 197,
     "women": 41
   }
