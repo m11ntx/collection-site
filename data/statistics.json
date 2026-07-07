@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 1886,
+    "products": 1887,
     "collections": 3,
     "leagues": 11,
     "regions": 10,
@@ -8,19 +8,19 @@
     "manufacturers": 17
   },
   "products": {
-    "available": 1848,
+    "available": 1849,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 1461
+    "withManufacturer": 1462
   },
   "byCollection": {
     "brasil": 487,
-    "europa": 744,
+    "europa": 745,
     "selecoes": 244,
     "unknown": 411
   },
   "byLeague": {
-    "brasileirao": 406,
+    "brasileirao": 407,
     "bundesliga": 38,
     "eredivisie": 8,
     "la-liga": 49,
@@ -42,7 +42,7 @@
     "nordeste": 48,
     "norte": 7,
     "rio-de-janeiro": 146,
-    "sao-paulo": 97,
+    "sao-paulo": 98,
     "sul": 55,
     "unknown": 1290
   },
@@ -135,7 +135,7 @@
     "remo": 2,
     "santa-cruz": 6,
     "santos": 20,
-    "sao-paulo": 13,
+    "sao-paulo": 14,
     "sport": 7,
     "sporting-cp": 3,
     "suecia": 3,
@@ -264,7 +264,7 @@
     "24/15": 1,
     "24/25": 907,
     "24/35": 1,
-    "25/26": 184,
+    "25/26": 185,
     "26/27": 173,
     "57/62": 1,
     "88/90": 1,
@@ -283,16 +283,16 @@
     "current": 85,
     "manga-longa": 9,
     "retro": 332,
-    "unknown": 1460
+    "unknown": 1461
   },
   "byVersion": {
-    "fan": 1072,
+    "fan": 1073,
     "player": 137,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1569,
+    "men": 1570,
     "unknown": 197,
     "women": 41
   }

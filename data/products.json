@@ -313065,6 +313065,228 @@
     }
   },
   {
+    "id": "source-camisa-sao-paulo-i-new-balance-25-26",
+    "externalId": "344401018",
+    "source": "source",
+    "slug": "camisa-sao-paulo-i-new-balance-25-26",
+    "name": "Camisa São Paulo I New Balance 25/26",
+    "collectionId": "europa",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "clubId": "sao-paulo",
+    "manufacturerId": "new-balance",
+    "category": null,
+    "gender": "men",
+    "version": "fan",
+    "season": "25/26",
+    "price": 65.4,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1525348957",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348960",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348961",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348962",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348963",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348973",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348976",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348978",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348980",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.84,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      },
+      {
+        "id": "1525348981",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 174.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-i-new-balance-25-26/front.webp",
+        "alt": "Camisa São Paulo I New Balance 25/26",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-i-new-balance-25-26/back.webp",
+        "alt": "Camisa São Paulo I New Balance 25/26",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-sao-paulo-i-new-balance-25-26-1dk4n/",
+    "createdAt": "2026-07-07T04:19:54Z",
+    "updatedAt": "2026-07-07T04:19:54Z",
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 344401018,
+        "compare_at_price_number": 136.24,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_255ac5ba-6bf5-402d-bc47-aecbb8d356ab_5718418_7890871-b20dd517a45b98711017788787113966-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-bayern-leverkusen-2023-24-bundesliga-champions",
     "externalId": "257905980",
     "source": "source",
