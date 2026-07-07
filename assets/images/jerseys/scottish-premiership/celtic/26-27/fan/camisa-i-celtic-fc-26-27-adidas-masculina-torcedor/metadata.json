@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-i-celtic-fc-26-27-adidas-masculina-torcedor",
+  "createdAt": "2026-07-07T03:08:04Z",
+  "updatedAt": "2026-07-07T03:08:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/26-27/fan/camisa-i-celtic-fc-26-27-adidas-masculina-torcedor/front.webp",
+      "hash": "d07bc926764bd999f46391f772f7e1e2f7eac43a87adb5f570e0b9e8ccc7c5f5",
+      "width": 480,
+      "height": 560,
+      "size": 20106,
+      "createdAt": "2026-07-07T03:08:03Z",
+      "updatedAt": "2026-07-07T03:08:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/26-27/fan/camisa-i-celtic-fc-26-27-adidas-masculina-torcedor/back.webp",
+      "hash": "b06b22ef28f04d3702fe4ede417ac1747fee93cca6ce00088e1410a11972fcf1",
+      "width": 480,
+      "height": 640,
+      "size": 15202,
+      "createdAt": "2026-07-07T03:08:03Z",
+      "updatedAt": "2026-07-07T03:08:03Z"
+    }
+  ]
+}

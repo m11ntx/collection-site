@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-benfica-ii-24-25-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-07T03:07:58Z",
+  "updatedAt": "2026-07-07T03:07:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/benfica/24-25/fan/camisa-benfica-ii-24-25-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "d952b010e53e17bf070d16155fbdd0f02614bad19a00f7d4a003ef329f36c845",
+      "width": 480,
+      "height": 480,
+      "size": 15808,
+      "createdAt": "2026-07-07T03:07:58Z",
+      "updatedAt": "2026-07-07T03:07:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/benfica/24-25/fan/camisa-benfica-ii-24-25-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "3784656c49c02a6105c8ac9a842fd71a599cfdd1cde9b25812bdd308aca8ea2d",
+      "width": 480,
+      "height": 480,
+      "size": 12860,
+      "createdAt": "2026-07-07T03:07:58Z",
+      "updatedAt": "2026-07-07T03:07:58Z"
+    }
+  ]
+}

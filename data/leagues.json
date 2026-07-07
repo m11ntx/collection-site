@@ -16,6 +16,14 @@
     "image": null
   },
   {
+    "id": "eredivisie",
+    "collectionId": "europa",
+    "slug": "eredivisie",
+    "name": "Eredivisie",
+    "country": "Netherlands",
+    "image": null
+  },
+  {
     "id": "la-liga",
     "collectionId": "europa",
     "slug": "la-liga",
@@ -40,11 +48,35 @@
     "image": null
   },
   {
+    "id": "primeira-liga",
+    "collectionId": "europa",
+    "slug": "primeira-liga",
+    "name": "Primeira Liga",
+    "country": "Portugal",
+    "image": null
+  },
+  {
+    "id": "scottish-premiership",
+    "collectionId": "europa",
+    "slug": "scottish-premiership",
+    "name": "Scottish Premiership",
+    "country": "Scotland",
+    "image": null
+  },
+  {
     "id": "serie-a",
     "collectionId": "europa",
     "slug": "serie-a",
     "name": "Serie A",
     "country": "Italy",
+    "image": null
+  },
+  {
+    "id": "super-lig",
+    "collectionId": "europa",
+    "slug": "super-lig",
+    "name": "Süper Lig",
+    "country": "Turkey",
     "image": null
   }
 ]

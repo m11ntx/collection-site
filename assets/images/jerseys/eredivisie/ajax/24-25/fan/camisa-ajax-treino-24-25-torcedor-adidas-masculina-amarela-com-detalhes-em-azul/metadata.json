@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ajax-treino-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T03:07:56Z",
+  "updatedAt": "2026-07-07T03:07:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-treino-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/front.webp",
+      "hash": "78c798d54c4a4abf75ac07a704f25387a60ca79b4a7fa7e545e4ad151b9bd133",
+      "width": 480,
+      "height": 480,
+      "size": 5918,
+      "createdAt": "2026-07-07T03:07:56Z",
+      "updatedAt": "2026-07-07T03:07:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-treino-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/back.webp",
+      "hash": "ff877c5599fd98bdfbc1593f09828a68ff7ed72555c2ed878a5999f139f8194c",
+      "width": 480,
+      "height": 480,
+      "size": 4658,
+      "createdAt": "2026-07-07T03:07:56Z",
+      "updatedAt": "2026-07-07T03:07:56Z"
+    }
+  ]
+}

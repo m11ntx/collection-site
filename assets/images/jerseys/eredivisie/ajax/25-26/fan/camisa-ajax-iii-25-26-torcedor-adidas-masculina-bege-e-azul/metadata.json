@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ajax-iii-25-26-torcedor-adidas-masculina-bege-e-azul",
+  "createdAt": "2026-07-07T03:07:55Z",
+  "updatedAt": "2026-07-07T03:07:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/25-26/fan/camisa-ajax-iii-25-26-torcedor-adidas-masculina-bege-e-azul/front.webp",
+      "hash": "44f3d5dabcbd78c0a38e27a835ac635c9755f67a6805c199cd3e364da23d9cb4",
+      "width": 480,
+      "height": 480,
+      "size": 9236,
+      "createdAt": "2026-07-07T03:07:54Z",
+      "updatedAt": "2026-07-07T03:07:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/25-26/fan/camisa-ajax-iii-25-26-torcedor-adidas-masculina-bege-e-azul/back.webp",
+      "hash": "61aa6fa7db2e91ff7a3991e25bb98859f9f6e80008312fae767728afb05959f7",
+      "width": 480,
+      "height": 480,
+      "size": 3844,
+      "createdAt": "2026-07-07T03:07:54Z",
+      "updatedAt": "2026-07-07T03:07:54Z"
+    }
+  ]
+}

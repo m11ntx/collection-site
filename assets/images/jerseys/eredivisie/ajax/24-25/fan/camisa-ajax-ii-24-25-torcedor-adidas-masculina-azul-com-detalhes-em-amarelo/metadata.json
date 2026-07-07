@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-07T03:07:53Z",
+  "updatedAt": "2026-07-07T03:07:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "fca0de1f8e08c4ee5f1fbf75ff4ff21fdabeb4a3926ec565eb860cf4845e0e56",
+      "width": 480,
+      "height": 480,
+      "size": 24758,
+      "createdAt": "2026-07-07T03:07:52Z",
+      "updatedAt": "2026-07-07T03:07:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "19b6b96123778455a8f369f6cc539e27e081f1d47fc6ab1e2a3174f87673b702",
+      "width": 480,
+      "height": 480,
+      "size": 12214,
+      "createdAt": "2026-07-07T03:07:52Z",
+      "updatedAt": "2026-07-07T03:07:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "474c1c3e9dd4b6ec716439a2c1c5883eaf8aefb0de3b2fa2431d370cfef22dec",
+      "width": 480,
+      "height": 480,
+      "size": 52674,
+      "createdAt": "2026-07-07T03:07:53Z",
+      "updatedAt": "2026-07-07T03:07:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/fan/camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "5f7cb60bd3daad03fb8bf7418a018603791069e1a62ba5a21770587df93ce7b1",
+      "width": 480,
+      "height": 480,
+      "size": 25618,
+      "createdAt": "2026-07-07T03:07:53Z",
+      "updatedAt": "2026-07-07T03:07:53Z"
+    }
+  ]
+}

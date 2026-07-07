@@ -320,6 +320,26 @@
     "image": null
   },
   {
+    "id": "ajax",
+    "leagueId": "eredivisie",
+    "regionId": null,
+    "slug": "ajax",
+    "name": "Ajax",
+    "country": "Netherlands",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "psv",
+    "leagueId": "eredivisie",
+    "regionId": null,
+    "slug": "psv",
+    "name": "PSV Eindhoven",
+    "country": "Netherlands",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "athletic-bilbao",
     "leagueId": "la-liga",
     "regionId": null,
@@ -345,6 +365,16 @@
     "regionId": null,
     "slug": "barcelona",
     "name": "Barcelona",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "real-betis",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "real-betis",
+    "name": "Real Betis",
     "country": "Spain",
     "badge": null,
     "image": null
@@ -530,6 +560,46 @@
     "image": null
   },
   {
+    "id": "benfica",
+    "leagueId": "primeira-liga",
+    "regionId": null,
+    "slug": "benfica",
+    "name": "Benfica",
+    "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "fc-porto",
+    "leagueId": "primeira-liga",
+    "regionId": null,
+    "slug": "fc-porto",
+    "name": "FC Porto",
+    "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "sporting-cp",
+    "leagueId": "primeira-liga",
+    "regionId": null,
+    "slug": "sporting-cp",
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "celtic",
+    "leagueId": "scottish-premiership",
+    "regionId": null,
+    "slug": "celtic",
+    "name": "Celtic",
+    "country": "Scotland",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "ac-milan",
     "leagueId": "serie-a",
     "regionId": null,
@@ -586,6 +656,16 @@
     "slug": "napoli",
     "name": "Napoli",
     "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "galatasaray",
+    "leagueId": "super-lig",
+    "regionId": null,
+    "slug": "galatasaray",
+    "name": "Galatasaray",
+    "country": "Turkey",
     "badge": null,
     "image": null
   }
