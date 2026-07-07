@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-polo-flamengo-treino-26-27-jogador-masculina-marrom",
+  "createdAt": "2026-07-05T06:09:23Z",
+  "updatedAt": "2026-07-05T06:09:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/player/camisa-polo-flamengo-treino-26-27-jogador-masculina-marrom/front.webp",
+      "hash": "90ded01609b15a9fbc07a8268c5105367b8e7df42402aa38a0e695952eb65421",
+      "width": 480,
+      "height": 480,
+      "size": 10166,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/player/camisa-polo-flamengo-treino-26-27-jogador-masculina-marrom/back.webp",
+      "hash": "76c9d5402e6dbdd25a757712122ce5b1442d7baef1065208137505f68f9987e9",
+      "width": 480,
+      "height": 480,
+      "size": 8976,
+      "createdAt": "2026-07-05T06:09:23Z",
+      "updatedAt": "2026-07-05T06:09:23Z"
+    }
+  ]
+}

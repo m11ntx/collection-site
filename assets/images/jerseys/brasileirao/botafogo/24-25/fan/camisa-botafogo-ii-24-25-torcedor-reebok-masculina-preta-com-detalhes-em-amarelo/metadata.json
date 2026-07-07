@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-05T04:24:47Z",
+  "updatedAt": "2026-07-05T04:24:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/front.webp",
+      "hash": "fb5efdb0668b11291c1d9723bfc234c7764148efdee1a743cb5e81c36a9ee901",
+      "width": 480,
+      "height": 480,
+      "size": 13660,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/back.webp",
+      "hash": "05a6f57b0d7ad1cf2dd732389f47aae34355ca869856a94ecaa6390bdcd03cfb",
+      "width": 480,
+      "height": 480,
+      "size": 12712,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "75271642b26fba5611a1e01534b0d463ef80e2a1a1cbbf62766307f8664267a6",
+      "width": 480,
+      "height": 480,
+      "size": 5176,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "4780e3114fbe13e912784c84aa478975a950ba0982659a9a3a9f8f3c43c26e2d",
+      "width": 480,
+      "height": 480,
+      "size": 15130,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/detail-3.webp",
+      "hash": "bf45c7012f87f8108cbb17bdb1c3bcf6ce8750bf5362a8a484f7362c6b7e16a7",
+      "width": 480,
+      "height": 480,
+      "size": 6186,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo/detail-4.webp",
+      "hash": "9628b449805ec3695f8de2ab21f36c7fd7d017ca63e0589885ecdc9d509509e4",
+      "width": 480,
+      "height": 480,
+      "size": 48568,
+      "createdAt": "2026-07-05T04:24:47Z",
+      "updatedAt": "2026-07-05T04:24:47Z"
+    }
+  ]
+}

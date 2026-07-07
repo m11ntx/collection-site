@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-flamengo-homenagem-ao-mundial-de-1981-branco",
+  "createdAt": "2026-07-04T18:29:16Z",
+  "updatedAt": "2026-07-04T20:26:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1981/fan/front.webp",
+      "hash": "cefa0d49910bf4ad47d1e9724f06077a71098b2004efba1ece896924a54f1c7c",
+      "width": 480,
+      "height": 480,
+      "size": 9788,
+      "createdAt": "2026-07-04T18:29:16Z",
+      "updatedAt": "2026-07-04T20:26:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1981/fan/back.webp",
+      "hash": "dc52453a84eb8830127128f5947c422a852f83e56a60d9cb946c3922d6519a1c",
+      "width": 480,
+      "height": 480,
+      "size": 4870,
+      "createdAt": "2026-07-04T18:29:16Z",
+      "updatedAt": "2026-07-04T20:26:09Z"
+    }
+  ]
+}

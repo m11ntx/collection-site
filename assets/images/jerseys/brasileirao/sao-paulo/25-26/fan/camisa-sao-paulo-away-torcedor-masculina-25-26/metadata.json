@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-sao-paulo-away-torcedor-masculina-25-26",
+  "createdAt": "2026-07-05T16:43:09Z",
+  "updatedAt": "2026-07-05T16:43:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-away-torcedor-masculina-25-26/front.webp",
+      "hash": "0c41a5ae5baa04f8b06ef4ac2b5a1d22c16f91840de976f2915afab5f176d965",
+      "width": 480,
+      "height": 480,
+      "size": 15614,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-away-torcedor-masculina-25-26/back.webp",
+      "hash": "a102d52a5b072f3ab43bb7d7f5338d83633bf91524e3a38a3443d77be50ba958",
+      "width": 480,
+      "height": 480,
+      "size": 14536,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-away-torcedor-masculina-25-26/detail-1.webp",
+      "hash": "a086faa59b98591b28684e241750af65e52692987ccec0e233a67adbca5fa1a2",
+      "width": 480,
+      "height": 480,
+      "size": 26908,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-away-torcedor-masculina-25-26/detail-2.webp",
+      "hash": "d345d9cc70b7da995d14f18a612f12bc42fe0c4f2b5e9068b3bf645700d77820",
+      "width": 480,
+      "height": 480,
+      "size": 12828,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    }
+  ]
+}

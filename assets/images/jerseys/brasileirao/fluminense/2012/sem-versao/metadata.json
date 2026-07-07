@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-fluminense-iii-2012",
+  "createdAt": "2026-07-04T20:26:14Z",
+  "updatedAt": "2026-07-04T20:26:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2012/sem-versao/front.webp",
+      "hash": "034e6ed57844a450dfad224d9ac877eec50b2cacac92ea07ce48d7bbd8f65e31",
+      "width": 480,
+      "height": 480,
+      "size": 12946,
+      "createdAt": "2026-07-04T20:26:14Z",
+      "updatedAt": "2026-07-04T20:26:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2012/sem-versao/back.webp",
+      "hash": "74e1407853a9ec480865693351b462c0491e8639ed83321199150abaca0119d1",
+      "width": 480,
+      "height": 480,
+      "size": 8016,
+      "createdAt": "2026-07-04T20:26:14Z",
+      "updatedAt": "2026-07-04T20:26:14Z"
+    }
+  ]
+}

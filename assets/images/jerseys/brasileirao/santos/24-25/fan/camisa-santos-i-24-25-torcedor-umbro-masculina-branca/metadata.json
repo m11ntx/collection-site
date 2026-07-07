@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-santos-i-24-25-torcedor-umbro-masculina-branca",
+  "createdAt": "2026-07-05T03:00:31Z",
+  "updatedAt": "2026-07-05T03:00:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/front.webp",
+      "hash": "2d86baf866accc385a5f45fb5fa965619e386f30be489aa83b15304fe9ad2870",
+      "width": 480,
+      "height": 480,
+      "size": 5208,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/back.webp",
+      "hash": "08c4407ed407e2d19cd4102fdcaa4c84251fc778902c84e4620b2648e316247c",
+      "width": 480,
+      "height": 480,
+      "size": 5222,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/detail-1.webp",
+      "hash": "15d9b95564ee49b9a6de7c6c34fb1f3cfc8d15e144e5a47e3ec39d5ba3ef6e91",
+      "width": 480,
+      "height": 480,
+      "size": 3120,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/detail-2.webp",
+      "hash": "1163bbb61ba6549c5503a2c6b179e0933b6cd669e499c08ded78393ab048cf1c",
+      "width": 480,
+      "height": 480,
+      "size": 7866,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/detail-3.webp",
+      "hash": "b8186ca8d6183737bc8403cbe3b75a8cdd462173bafff70527d850c46729b33b",
+      "width": 480,
+      "height": 480,
+      "size": 9000,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca/detail-4.webp",
+      "hash": "1b83cd5716f6f56650dfa64530f0901f3ca56265e829c15d8a1933426b1d9516",
+      "width": 480,
+      "height": 480,
+      "size": 12848,
+      "createdAt": "2026-07-05T03:00:31Z",
+      "updatedAt": "2026-07-05T03:00:31Z"
+    }
+  ]
+}

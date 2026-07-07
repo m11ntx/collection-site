@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-newcastle-1997-1999-manga-longa-masculina-adidas-branca-com-listras-pretas-e-detalhes-em-azul",
+  "createdAt": "2026-07-04T18:12:40Z",
+  "updatedAt": "2026-07-04T18:12:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/front.webp",
+      "hash": "bdcc81a9f21e8cda60e3b5cfd78f570c5ebadf1c113514741ba2912316edc7a8",
+      "width": 480,
+      "height": 480,
+      "size": 9584,
+      "createdAt": "2026-07-04T18:12:37Z",
+      "updatedAt": "2026-07-04T18:12:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/back.webp",
+      "hash": "f51b5dbaa44940e359e73e9709cbaabdd902b9114c78456f0632262326aa6954",
+      "width": 480,
+      "height": 480,
+      "size": 6210,
+      "createdAt": "2026-07-04T18:12:37Z",
+      "updatedAt": "2026-07-04T18:12:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/detail-1.webp",
+      "hash": "bb35f794c4a6fbc0127f13b2b098da01c4edbbb1a85ba5215d89f9550eb9f22c",
+      "width": 480,
+      "height": 480,
+      "size": 14930,
+      "createdAt": "2026-07-04T18:12:38Z",
+      "updatedAt": "2026-07-04T18:12:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/detail-2.webp",
+      "hash": "6e2804dc50fd6841014a05ea8bf51a0aaa1a2903611c419ed6fd8dc9ad5f8021",
+      "width": 480,
+      "height": 480,
+      "size": 46580,
+      "createdAt": "2026-07-04T18:12:38Z",
+      "updatedAt": "2026-07-04T18:12:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/detail-3.webp",
+      "hash": "9dec65fa874484252cbec096524aea4e68df0e6863765ac945d9b9f834c79f10",
+      "width": 480,
+      "height": 480,
+      "size": 56916,
+      "createdAt": "2026-07-04T18:12:39Z",
+      "updatedAt": "2026-07-04T18:12:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/detail-4.webp",
+      "hash": "ab82c6d8f2e6b2e517f923c9d90d36467536da4efe13a6f324bddb7ac6d45020",
+      "width": 480,
+      "height": 480,
+      "size": 11488,
+      "createdAt": "2026-07-04T18:12:39Z",
+      "updatedAt": "2026-07-04T18:12:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1997-1999/sem-versao/detail-5.webp",
+      "hash": "109bb98560606f020c28ade0a4b49a7ae89a297386190ca69ae81f1f70ca686c",
+      "width": 480,
+      "height": 480,
+      "size": 8286,
+      "createdAt": "2026-07-04T18:12:39Z",
+      "updatedAt": "2026-07-04T18:12:39Z"
+    }
+  ]
+}

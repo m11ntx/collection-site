@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-roma-iii-25-26-torcedor-adidas-masculina-branca-com-detalhes-em-verde",
+  "createdAt": "2026-07-04T18:33:41Z",
+  "updatedAt": "2026-07-04T20:27:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/25-26/player/front.webp",
+      "hash": "91e18a9ec03a692776370e4fb26d06117fc0b1812705a13e089c07989c32ca9e",
+      "width": 480,
+      "height": 480,
+      "size": 6466,
+      "createdAt": "2026-07-04T18:33:40Z",
+      "updatedAt": "2026-07-04T20:27:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/25-26/player/back.webp",
+      "hash": "c97e9c477c10f431f9cea7fe027729eb6c71bb08026b58df1b8cd76e19fb2bf2",
+      "width": 480,
+      "height": 480,
+      "size": 4534,
+      "createdAt": "2026-07-04T18:33:40Z",
+      "updatedAt": "2026-07-04T20:27:34Z"
+    }
+  ]
+}

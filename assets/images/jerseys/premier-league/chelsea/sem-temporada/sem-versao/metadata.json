@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-chelsea",
+  "createdAt": "2026-07-04T18:27:47Z",
+  "updatedAt": "2026-07-04T18:27:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/sem-temporada/sem-versao/front.webp",
+      "hash": "6aa6b4a08b1729bfe9f90dcebaaf0473cc935efb8f5ff34b241ed4ff48ca4990",
+      "width": 480,
+      "height": 480,
+      "size": 11726,
+      "createdAt": "2026-07-04T18:27:46Z",
+      "updatedAt": "2026-07-04T18:27:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/sem-temporada/sem-versao/back.webp",
+      "hash": "8e825e6741cda72d15933cd88933a35767d4e12ba682bf57b942cdd807871af4",
+      "width": 480,
+      "height": 480,
+      "size": 30088,
+      "createdAt": "2026-07-04T18:27:47Z",
+      "updatedAt": "2026-07-04T18:27:47Z"
+    }
+  ]
+}

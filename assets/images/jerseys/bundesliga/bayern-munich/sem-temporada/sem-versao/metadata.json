@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-bayern-de-munique",
+  "createdAt": "2026-07-04T18:27:54Z",
+  "updatedAt": "2026-07-04T18:27:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/sem-temporada/sem-versao/front.webp",
+      "hash": "47b363f3e462221e55c39ad9c3333897bc407446d4ca8bcb6f193d9ace88527c",
+      "width": 480,
+      "height": 480,
+      "size": 12440,
+      "createdAt": "2026-07-04T18:27:53Z",
+      "updatedAt": "2026-07-04T18:27:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/sem-temporada/sem-versao/back.webp",
+      "hash": "75aee3ccb188179290bfbb8a4054385600d8fdf174cc87dab805012eccbc4f99",
+      "width": 480,
+      "height": 480,
+      "size": 31434,
+      "createdAt": "2026-07-04T18:27:54Z",
+      "updatedAt": "2026-07-04T18:27:54Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-home-26-27-torcedor-adidas-masculina-branca",
+  "createdAt": "2026-07-07T01:34:07Z",
+  "updatedAt": "2026-07-07T01:34:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/26-27/fan/camisa-real-madrid-home-26-27-torcedor-adidas-masculina-branca/front.webp",
+      "hash": "c9873c6486c3c2148b09987f66f50ee2213ddf3e69dce9b83baacf5d94ebf511",
+      "width": 480,
+      "height": 480,
+      "size": 9454,
+      "createdAt": "2026-07-07T01:34:06Z",
+      "updatedAt": "2026-07-07T01:34:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/26-27/fan/camisa-real-madrid-home-26-27-torcedor-adidas-masculina-branca/back.webp",
+      "hash": "9dc735acc3669a160052298ab0c72995a74c21c8b5b72cfb59308c8292ceaa59",
+      "width": 480,
+      "height": 480,
+      "size": 4924,
+      "createdAt": "2026-07-07T01:34:06Z",
+      "updatedAt": "2026-07-07T01:34:06Z"
+    }
+  ]
+}

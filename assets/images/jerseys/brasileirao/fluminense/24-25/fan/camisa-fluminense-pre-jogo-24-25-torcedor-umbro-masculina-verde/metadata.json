@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-fluminense-pre-jogo-24-25-torcedor-umbro-masculina-verde",
+  "createdAt": "2026-07-05T16:04:55Z",
+  "updatedAt": "2026-07-05T16:04:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-pre-jogo-24-25-torcedor-umbro-masculina-verde/front.webp",
+      "hash": "384f4520a55d64f0eab79a7a211da339fbf5253588072488240c8c4d586b80b1",
+      "width": 480,
+      "height": 480,
+      "size": 40140,
+      "createdAt": "2026-07-05T16:04:54Z",
+      "updatedAt": "2026-07-05T16:04:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-pre-jogo-24-25-torcedor-umbro-masculina-verde/back.webp",
+      "hash": "c731d157c5c3f94495df4cc76a19adab17fd5c5ada242ef9bd5c8899ca8e43d1",
+      "width": 480,
+      "height": 480,
+      "size": 39512,
+      "createdAt": "2026-07-05T16:04:55Z",
+      "updatedAt": "2026-07-05T16:04:55Z"
+    }
+  ]
+}

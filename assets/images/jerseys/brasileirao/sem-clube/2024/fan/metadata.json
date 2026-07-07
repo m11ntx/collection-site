@@ -1,0 +1,27 @@
+{
+  "productId": "source-blusao-umbro-gremio-treino-2024-azul",
+  "createdAt": "2026-07-04T18:27:01Z",
+  "updatedAt": "2026-07-04T18:40:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2024/fan/front.webp",
+      "hash": "f82a5951330a78956372a6a7431bc1a6894a3bcc550520219b283635ecfe24cc",
+      "width": 480,
+      "height": 484,
+      "size": 35218,
+      "createdAt": "2026-07-04T18:27:01Z",
+      "updatedAt": "2026-07-04T18:40:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2024/fan/back.webp",
+      "hash": "0abb278a2a0996d8fbcdad3c51ffcc8cd5c5cd0885d4655253ac59f848b2c682",
+      "width": 412,
+      "height": 507,
+      "size": 23410,
+      "createdAt": "2026-07-04T18:30:34Z",
+      "updatedAt": "2026-07-04T18:40:59Z"
+    }
+  ]
+}

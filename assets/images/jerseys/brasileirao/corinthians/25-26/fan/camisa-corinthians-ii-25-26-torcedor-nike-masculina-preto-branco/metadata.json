@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-corinthians-ii-25-26-torcedor-nike-masculina-preto-branco",
+  "createdAt": "2026-07-05T16:01:49Z",
+  "updatedAt": "2026-07-05T16:01:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-ii-25-26-torcedor-nike-masculina-preto-branco/front.webp",
+      "hash": "b4be7786b930ad0103438be055ec1ae6365d663c53c159d975bf9dc49ec9cb11",
+      "width": 480,
+      "height": 480,
+      "size": 6036,
+      "createdAt": "2026-07-05T16:01:49Z",
+      "updatedAt": "2026-07-05T16:01:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-ii-25-26-torcedor-nike-masculina-preto-branco/back.webp",
+      "hash": "142e53707ec662fe846f304603dd128ae3565f89de5edeb14c7ac279559e2107",
+      "width": 480,
+      "height": 480,
+      "size": 4194,
+      "createdAt": "2026-07-05T16:01:49Z",
+      "updatedAt": "2026-07-05T16:01:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-ii-25-26-torcedor-nike-masculina-preto-branco/detail-1.webp",
+      "hash": "1a11b10bc43dbd8cc4e32e377dad9964a1dccae49345741aa21ad0405160fb31",
+      "width": 480,
+      "height": 480,
+      "size": 10098,
+      "createdAt": "2026-07-05T16:01:49Z",
+      "updatedAt": "2026-07-05T16:01:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-ii-25-26-torcedor-nike-masculina-preto-branco/detail-2.webp",
+      "hash": "b6284ed8b89abdd7888efe29bab5cfb4b76f1aa3841b5627c1cd68f493b39e8a",
+      "width": 480,
+      "height": 480,
+      "size": 29396,
+      "createdAt": "2026-07-05T16:01:49Z",
+      "updatedAt": "2026-07-05T16:01:49Z"
+    }
+  ]
+}

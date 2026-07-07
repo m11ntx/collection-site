@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-ii-25-26-torcedor-adidas-masculina-bege-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-07T01:33:12Z",
+  "updatedAt": "2026-07-07T01:33:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-ii-25-26-torcedor-adidas-masculina-bege-com-detalhes-em-vermelho-e-preto/front.webp",
+      "hash": "5caac4bb80285f82f848747402cde04cddde20dee0895c1504169f7eab0ff716",
+      "width": 480,
+      "height": 480,
+      "size": 9586,
+      "createdAt": "2026-07-07T01:33:11Z",
+      "updatedAt": "2026-07-07T01:33:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-ii-25-26-torcedor-adidas-masculina-bege-com-detalhes-em-vermelho-e-preto/back.webp",
+      "hash": "d3be871810c8f75d3fdbab0e9f63da00f7ef3f618aa56c997f89438387341742",
+      "width": 480,
+      "height": 480,
+      "size": 4820,
+      "createdAt": "2026-07-07T01:33:11Z",
+      "updatedAt": "2026-07-07T01:33:11Z"
+    }
+  ]
+}

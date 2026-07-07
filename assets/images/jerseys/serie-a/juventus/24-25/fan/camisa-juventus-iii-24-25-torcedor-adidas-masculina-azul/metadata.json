@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-juventus-iii-24-25-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-07T01:32:58Z",
+  "updatedAt": "2026-07-07T01:32:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-iii-24-25-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "165c5898b4e5873a22d5b34a030f4e92dc7dc2293c473a42956636b75f538574",
+      "width": 480,
+      "height": 480,
+      "size": 13138,
+      "createdAt": "2026-07-07T01:32:57Z",
+      "updatedAt": "2026-07-07T01:32:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-iii-24-25-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "9dc023b53b5ab0be6b8745c7d2cb83c1ed8eae0b7a29e90be1eb9146d39981f5",
+      "width": 480,
+      "height": 480,
+      "size": 11840,
+      "createdAt": "2026-07-07T01:32:58Z",
+      "updatedAt": "2026-07-07T01:32:58Z"
+    }
+  ]
+}

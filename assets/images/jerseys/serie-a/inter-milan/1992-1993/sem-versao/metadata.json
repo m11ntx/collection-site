@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-i-1992-1993-masculina-umbro-azul-e-preta",
+  "createdAt": "2026-07-04T17:45:58Z",
+  "updatedAt": "2026-07-04T21:09:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/front.webp",
+      "hash": "69dce938b0f4037e0a23197e2744eee2f906b424ff794745a2d0d97fdd1feed9",
+      "width": 480,
+      "height": 480,
+      "size": 10460,
+      "createdAt": "2026-07-04T17:45:55Z",
+      "updatedAt": "2026-07-04T21:09:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/back.webp",
+      "hash": "864fa89b437901215267d195c27e2f74f011b40d5f58bbc21cbe9a19307079d4",
+      "width": 480,
+      "height": 480,
+      "size": 14826,
+      "createdAt": "2026-07-04T17:45:55Z",
+      "updatedAt": "2026-07-04T21:09:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/detail-1.webp",
+      "hash": "32ac2ec4fb56e3d9bf74b3a45aed74b2554d5e85d7ced8d95b1b2f53992f989d",
+      "width": 480,
+      "height": 480,
+      "size": 7280,
+      "createdAt": "2026-07-04T17:45:56Z",
+      "updatedAt": "2026-07-04T21:09:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/detail-2.webp",
+      "hash": "e48bcd712c0125c83b4bcbd3358d81bcc25eda461e84f3103ed323d41a5432a2",
+      "width": 480,
+      "height": 480,
+      "size": 52042,
+      "createdAt": "2026-07-04T17:45:56Z",
+      "updatedAt": "2026-07-04T21:09:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/detail-3.webp",
+      "hash": "47e207ae0942567ebfd45e3fbeb6de2d6f3c6a1ac351ac2d80a95dada8950f25",
+      "width": 480,
+      "height": 480,
+      "size": 46810,
+      "createdAt": "2026-07-04T17:45:57Z",
+      "updatedAt": "2026-07-04T21:09:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/detail-4.webp",
+      "hash": "f46c41b3944cc6ef9b1598b0622fd9899c2fa0f56e8a79c5b4a0da62ed156c86",
+      "width": 480,
+      "height": 480,
+      "size": 21928,
+      "createdAt": "2026-07-04T17:45:57Z",
+      "updatedAt": "2026-07-04T21:09:55Z"
+    }
+  ]
+}

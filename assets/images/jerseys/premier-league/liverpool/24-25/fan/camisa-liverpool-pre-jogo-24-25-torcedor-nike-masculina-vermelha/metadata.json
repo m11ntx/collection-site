@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-pre-jogo-24-25-torcedor-nike-masculina-vermelha",
+  "createdAt": "2026-07-07T01:33:16Z",
+  "updatedAt": "2026-07-07T01:33:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-pre-jogo-24-25-torcedor-nike-masculina-vermelha/front.webp",
+      "hash": "97a7c30cfbc1a5f10ee2e5b17a5f6581af9d2bd0521db1aa9d5f65d401fc40dc",
+      "width": 480,
+      "height": 480,
+      "size": 10238,
+      "createdAt": "2026-07-07T01:33:15Z",
+      "updatedAt": "2026-07-07T01:33:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-pre-jogo-24-25-torcedor-nike-masculina-vermelha/back.webp",
+      "hash": "b46b68e3a61397f9fba0a33f291ec9ee58c31be0c0e9e0fa356412ce0351f57d",
+      "width": 480,
+      "height": 480,
+      "size": 8260,
+      "createdAt": "2026-07-07T01:33:15Z",
+      "updatedAt": "2026-07-07T01:33:15Z"
+    }
+  ]
+}

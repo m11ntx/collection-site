@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-i-26-27-jogador-adidas-masculina-azul",
+  "createdAt": "2026-07-04T20:28:23Z",
+  "updatedAt": "2026-07-04T20:32:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/player/front.webp",
+      "hash": "ed11b37a15e54eec293060f939c4cece56506e219b87b4f79edda835dab49bea",
+      "width": 480,
+      "height": 480,
+      "size": 7856,
+      "createdAt": "2026-07-04T20:28:23Z",
+      "updatedAt": "2026-07-04T20:32:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/player/back.webp",
+      "hash": "508fcfb6e9cf1a0ca8d1025ddd927c1af4fb7f21c8610413fd15308c462976c2",
+      "width": 480,
+      "height": 480,
+      "size": 6534,
+      "createdAt": "2026-07-04T20:28:23Z",
+      "updatedAt": "2026-07-04T20:32:50Z"
+    }
+  ]
+}

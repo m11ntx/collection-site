@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-atletico-mineiro-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza",
+  "createdAt": "2026-07-05T16:55:13Z",
+  "updatedAt": "2026-07-05T16:55:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/front.webp",
+      "hash": "704f89fd8cf67bf8c8901184c6aaf9d9becfad6877205e26b4a71b15415b3e6a",
+      "width": 480,
+      "height": 480,
+      "size": 28704,
+      "createdAt": "2026-07-05T16:55:13Z",
+      "updatedAt": "2026-07-05T16:55:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/back.webp",
+      "hash": "70e9c976bd8d6bac3335d1ffe63ddeb03349fe1c87daf981b86ab4672e09cf11",
+      "width": 480,
+      "height": 480,
+      "size": 4252,
+      "createdAt": "2026-07-05T16:55:13Z",
+      "updatedAt": "2026-07-05T16:55:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "119f717822cf1cd89d41d2e3f83ebaf6017f9d01b883c24f60d19128b507c996",
+      "width": 480,
+      "height": 480,
+      "size": 6710,
+      "createdAt": "2026-07-05T16:55:13Z",
+      "updatedAt": "2026-07-05T16:55:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "3209716c2f5620de7005520875e3e219224f315fc5e2c807f638e15e25f8713c",
+      "width": 480,
+      "height": 480,
+      "size": 32688,
+      "createdAt": "2026-07-05T16:55:13Z",
+      "updatedAt": "2026-07-05T16:55:13Z"
+    }
+  ]
+}

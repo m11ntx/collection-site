@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-ii-1997-reebok-masculina-branca-com-detalhes-em-verde-com-patrocinio",
+  "createdAt": "2026-07-04T17:48:37Z",
+  "updatedAt": "2026-07-04T17:48:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/front.webp",
+      "hash": "35a87d8c340109d2604dfa19d0e6fd8511895cc963bc015e9689693538405ad0",
+      "width": 480,
+      "height": 480,
+      "size": 7380,
+      "createdAt": "2026-07-04T17:48:35Z",
+      "updatedAt": "2026-07-04T17:48:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/back.webp",
+      "hash": "92c9b61319262260705bbfbf87e3a307c728cb083819950306087c0138a329d0",
+      "width": 480,
+      "height": 480,
+      "size": 11616,
+      "createdAt": "2026-07-04T17:48:35Z",
+      "updatedAt": "2026-07-04T17:48:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/detail-1.webp",
+      "hash": "b8e2a532f9324860ca88815db8772c39a7bc8fe9962c556ef6aa19cf2f86e44c",
+      "width": 480,
+      "height": 480,
+      "size": 5460,
+      "createdAt": "2026-07-04T17:48:35Z",
+      "updatedAt": "2026-07-04T17:48:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/detail-2.webp",
+      "hash": "ae249e85a215393de954e5c1d7b12c8cb9b89b89c9b028502c50103097c588e1",
+      "width": 480,
+      "height": 480,
+      "size": 38224,
+      "createdAt": "2026-07-04T17:48:36Z",
+      "updatedAt": "2026-07-04T17:48:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/detail-3.webp",
+      "hash": "ffb34285825eccc5261cca6d5232cb275875b97b80dd524c8accd12bc972c6b8",
+      "width": 480,
+      "height": 480,
+      "size": 44208,
+      "createdAt": "2026-07-04T17:48:36Z",
+      "updatedAt": "2026-07-04T17:48:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/detail-4.webp",
+      "hash": "f8765a21eb029e33017c0ac3e963baaa673293319fbb56813afb5fd3c445ad6a",
+      "width": 480,
+      "height": 480,
+      "size": 10286,
+      "createdAt": "2026-07-04T17:48:37Z",
+      "updatedAt": "2026-07-04T17:48:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1997/sem-versao/detail-5.webp",
+      "hash": "5a102fb947c1f957a09160f07c180e957d5fcf7ccd2ecdcf6ee590f5ba74ee22",
+      "width": 480,
+      "height": 480,
+      "size": 9894,
+      "createdAt": "2026-07-04T17:48:37Z",
+      "updatedAt": "2026-07-04T17:48:37Z"
+    }
+  ]
+}

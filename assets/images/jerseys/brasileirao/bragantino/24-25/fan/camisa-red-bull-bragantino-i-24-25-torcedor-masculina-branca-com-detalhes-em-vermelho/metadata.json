@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-05T16:55:36Z",
+  "updatedAt": "2026-07-05T16:55:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/front.webp",
+      "hash": "f11a73e55b1191056669910ad0064dd9e661903e42144b96aa5a6412f6351ce8",
+      "width": 480,
+      "height": 480,
+      "size": 27008,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/back.webp",
+      "hash": "aed5967aa27a9066df7fe6e80e8afcd7b7163b74e14c408e3010730863238afb",
+      "width": 480,
+      "height": 480,
+      "size": 24380,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "a329a2c0b85544e89bf96c447d0f45c5af4685e0fc2e7ecac89a5b42ee7c370b",
+      "width": 480,
+      "height": 480,
+      "size": 7846,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "ed5ee769e600f16f6371de153a2f073b056f415bb119e2d0c46f319409024b62",
+      "width": 480,
+      "height": 480,
+      "size": 23468,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "ac6e3783b49533608cf493fe47c8bad1808a900ee38e218e16994330ba364e35",
+      "width": 480,
+      "height": 480,
+      "size": 53706,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "44e0c6c9c82149b33c4a7d268c720132db4f6fa17e301933b21987d983cd3a74",
+      "width": 480,
+      "height": 480,
+      "size": 47998,
+      "createdAt": "2026-07-05T16:55:35Z",
+      "updatedAt": "2026-07-05T16:55:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-masculina-branca-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "7f65265b50ecf40fa47dede7421fcb2dab254bbd6c093764b12f6b70d56eda15",
+      "width": 480,
+      "height": 480,
+      "size": 48144,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    }
+  ]
+}

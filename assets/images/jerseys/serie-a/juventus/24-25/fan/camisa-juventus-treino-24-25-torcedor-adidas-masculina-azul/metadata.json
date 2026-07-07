@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-juventus-treino-24-25-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-07T01:33:01Z",
+  "updatedAt": "2026-07-07T01:33:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-treino-24-25-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "e150dd1fa495d8d885bd3e0d09dfcd3c2a05c525a6566b2054d587afefc46d66",
+      "width": 480,
+      "height": 480,
+      "size": 7482,
+      "createdAt": "2026-07-07T01:33:00Z",
+      "updatedAt": "2026-07-07T01:33:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-treino-24-25-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "d27c29e95672a9c28fb0f368077823499adda488c5ec473115e58221e38b2289",
+      "width": 480,
+      "height": 480,
+      "size": 5270,
+      "createdAt": "2026-07-07T01:33:01Z",
+      "updatedAt": "2026-07-07T01:33:01Z"
+    }
+  ]
+}

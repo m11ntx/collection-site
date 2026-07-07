@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-iii-retro-2004-torcedor-masculina-branco-com-detalhes-em-azul-e-brasao-cdb",
+  "createdAt": "2026-07-04T17:30:38Z",
+  "updatedAt": "2026-07-04T17:30:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/front.webp",
+      "hash": "eba930c6f2f45a0f8586771c50b1e77f4b55f41e8e50a18c9077c244d2f08acb",
+      "width": 480,
+      "height": 480,
+      "size": 6070,
+      "createdAt": "2026-07-04T17:30:35Z",
+      "updatedAt": "2026-07-04T17:30:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/back.webp",
+      "hash": "4980497c82778a7bee06e235ca7ea93f491c9387879a6a78ea62285bc578e465",
+      "width": 480,
+      "height": 480,
+      "size": 7594,
+      "createdAt": "2026-07-04T17:30:36Z",
+      "updatedAt": "2026-07-04T17:30:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/detail-1.webp",
+      "hash": "8c2ee76e6c66233ac2f2d97ccae0d095b84122f3362166f6c4a624f5db8816e3",
+      "width": 480,
+      "height": 480,
+      "size": 3930,
+      "createdAt": "2026-07-04T17:30:36Z",
+      "updatedAt": "2026-07-04T17:30:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/detail-2.webp",
+      "hash": "5f8b5f82834ad60580ebfd795b9cad0b65d1bc59eeff26f7c1dea62b89170482",
+      "width": 480,
+      "height": 480,
+      "size": 13732,
+      "createdAt": "2026-07-04T17:30:36Z",
+      "updatedAt": "2026-07-04T17:30:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/detail-3.webp",
+      "hash": "2e86d606ef1da0f43453749f58e7bfac829b542af48490e8c78e7445ddfb1883",
+      "width": 480,
+      "height": 480,
+      "size": 10612,
+      "createdAt": "2026-07-04T17:30:37Z",
+      "updatedAt": "2026-07-04T17:30:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/detail-4.webp",
+      "hash": "2587c937e21b66ef2c3f1036008c006ee66eae27adb6a46a2ae999316c3d38c9",
+      "width": 480,
+      "height": 480,
+      "size": 10928,
+      "createdAt": "2026-07-04T17:30:37Z",
+      "updatedAt": "2026-07-04T17:30:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2004/fan/detail-5.webp",
+      "hash": "c0322087b94f3ac12dea006de343c256142c1ef7526ca5753108ea5b3e28c1a0",
+      "width": 480,
+      "height": 480,
+      "size": 51580,
+      "createdAt": "2026-07-04T17:30:38Z",
+      "updatedAt": "2026-07-04T17:30:38Z"
+    }
+  ]
+}

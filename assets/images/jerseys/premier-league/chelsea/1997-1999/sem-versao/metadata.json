@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chelsea-retro-1997-1999-azul-umbro",
+  "createdAt": "2026-07-04T17:18:04Z",
+  "updatedAt": "2026-07-04T17:18:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/front.webp",
+      "hash": "a4f15187015cb559aecac65d8f8ea15df9cc6da33f450a00eee2bc1076dfee2e",
+      "width": 480,
+      "height": 480,
+      "size": 14612,
+      "createdAt": "2026-07-04T17:18:01Z",
+      "updatedAt": "2026-07-04T17:18:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/back.webp",
+      "hash": "59b941fe89c6b2e2f5b7bf5ffe6b1596fce3cc483fc7e019451c062316e4fa0b",
+      "width": 480,
+      "height": 480,
+      "size": 10012,
+      "createdAt": "2026-07-04T17:18:01Z",
+      "updatedAt": "2026-07-04T17:18:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/detail-1.webp",
+      "hash": "9a2a8ee6d76c3caca7b90bb33b52de1013373c040c77160491004590845ef53b",
+      "width": 480,
+      "height": 480,
+      "size": 44782,
+      "createdAt": "2026-07-04T17:18:02Z",
+      "updatedAt": "2026-07-04T17:18:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/detail-2.webp",
+      "hash": "1129df50f3172f764a173cd18ff6f9c244888beed667691510bb75f64bd98260",
+      "width": 480,
+      "height": 480,
+      "size": 25972,
+      "createdAt": "2026-07-04T17:18:02Z",
+      "updatedAt": "2026-07-04T17:18:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/detail-3.webp",
+      "hash": "ade423677c47669d10ef5604b22c076c9e6fed403262853838e4b789c89d8cb7",
+      "width": 480,
+      "height": 480,
+      "size": 77640,
+      "createdAt": "2026-07-04T17:18:03Z",
+      "updatedAt": "2026-07-04T17:18:03Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/detail-4.webp",
+      "hash": "89765cf68cb1a6d91c4786d87006f90661ffbdd1a811866d7e5507ad780cf610",
+      "width": 480,
+      "height": 480,
+      "size": 69808,
+      "createdAt": "2026-07-04T17:18:03Z",
+      "updatedAt": "2026-07-04T17:18:03Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/chelsea/1997-1999/sem-versao/detail-5.webp",
+      "hash": "671b9c8d59be0f227e50b66d808661a8448649ec6b35753fe3159be96945552c",
+      "width": 480,
+      "height": 480,
+      "size": 43388,
+      "createdAt": "2026-07-04T17:18:04Z",
+      "updatedAt": "2026-07-04T17:18:04Z"
+    }
+  ]
+}

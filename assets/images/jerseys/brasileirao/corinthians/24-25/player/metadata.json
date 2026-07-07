@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-corinthians-ii-manga-longa-24-25-jogador-nike-masculina-preta",
+  "createdAt": "2026-07-04T18:02:16Z",
+  "updatedAt": "2026-07-04T20:21:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/front.webp",
+      "hash": "1950963a504ff3dc0049b3bac8f83ec31157cbf20db91e93c698d02559446c25",
+      "width": 480,
+      "height": 480,
+      "size": 14610,
+      "createdAt": "2026-07-04T18:02:13Z",
+      "updatedAt": "2026-07-04T20:21:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/back.webp",
+      "hash": "aa21d19f295804376d32355f4c9dff833994a1067631f4864008e6a847ed579a",
+      "width": 480,
+      "height": 480,
+      "size": 12904,
+      "createdAt": "2026-07-04T18:02:13Z",
+      "updatedAt": "2026-07-04T20:21:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/detail-1.webp",
+      "hash": "b9c65cac86a8dfc2695f354f745c9299eed49986f79e00c6a9a567c2e1a380ca",
+      "width": 480,
+      "height": 480,
+      "size": 14054,
+      "createdAt": "2026-07-04T18:02:14Z",
+      "updatedAt": "2026-07-04T20:21:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/detail-2.webp",
+      "hash": "df25cba0f8904412fc8b567f827f7a6e580add501a56e27483b2a40c5131d5d7",
+      "width": 480,
+      "height": 480,
+      "size": 41044,
+      "createdAt": "2026-07-04T18:02:14Z",
+      "updatedAt": "2026-07-04T20:21:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/detail-3.webp",
+      "hash": "250ccfadeec52180582b7527c2e853434d065cceccac36db36545602873120a4",
+      "width": 480,
+      "height": 480,
+      "size": 41214,
+      "createdAt": "2026-07-04T18:02:15Z",
+      "updatedAt": "2026-07-04T20:21:15Z"
+    }
+  ]
+}

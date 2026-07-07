@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-07-08-masculina-nike-vermelha-e-azul",
+  "createdAt": "2026-07-04T17:40:00Z",
+  "updatedAt": "2026-07-04T21:07:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/front.webp",
+      "hash": "16494ced33e5c428caf46f7b1d67430a841a3f665097e56d142a07c93e621cb9",
+      "width": 480,
+      "height": 480,
+      "size": 10348,
+      "createdAt": "2026-07-04T17:39:57Z",
+      "updatedAt": "2026-07-04T21:07:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/back.webp",
+      "hash": "3749b011758863cdc5b2b80525a071eb5a1e59e8b1a231c5dc6ea16654d9742e",
+      "width": 480,
+      "height": 480,
+      "size": 6716,
+      "createdAt": "2026-07-04T17:39:57Z",
+      "updatedAt": "2026-07-04T21:07:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/detail-1.webp",
+      "hash": "cd28dea6b72037da48fa5b1e0de0e849c83abc6f84b3c506061db3bc3fe64c70",
+      "width": 480,
+      "height": 480,
+      "size": 18066,
+      "createdAt": "2026-07-04T17:39:58Z",
+      "updatedAt": "2026-07-04T21:07:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/detail-2.webp",
+      "hash": "77618eb497d5374ceb3f909dd778485f26d525d64a36f1378c2c100ab911cc3d",
+      "width": 480,
+      "height": 480,
+      "size": 60042,
+      "createdAt": "2026-07-04T17:39:58Z",
+      "updatedAt": "2026-07-04T21:07:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/detail-3.webp",
+      "hash": "2d8dfe20437fae28d5c0022d15558e6811b9d3917bbbc32135adf17de71d1794",
+      "width": 480,
+      "height": 480,
+      "size": 72186,
+      "createdAt": "2026-07-04T17:39:59Z",
+      "updatedAt": "2026-07-04T21:07:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/detail-4.webp",
+      "hash": "7ca6eaf30fa5c21447745e5848dce868f848e25c80c9f347588a9eac23b49681",
+      "width": 480,
+      "height": 480,
+      "size": 28456,
+      "createdAt": "2026-07-04T17:39:59Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/07-08/sem-versao/detail-5.webp",
+      "hash": "450edfc741ae5dacb9d846b23b4312b7c37ffd6051dc905628e53e7936e0bdb5",
+      "width": 480,
+      "height": 480,
+      "size": 25952,
+      "createdAt": "2026-07-04T17:40:00Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    }
+  ]
+}

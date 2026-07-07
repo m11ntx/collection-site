@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-2015-2016-adidas-masculina-rosa-com-detalhes-em-preto",
+  "createdAt": "2026-07-04T17:23:16Z",
+  "updatedAt": "2026-07-04T17:23:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/front.webp",
+      "hash": "05ce14a48c02fda253d70bd8468890e33ef8bafc8d3365ad1d5fdc1e23c403f0",
+      "width": 480,
+      "height": 480,
+      "size": 12810,
+      "createdAt": "2026-07-04T17:23:13Z",
+      "updatedAt": "2026-07-04T17:23:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/back.webp",
+      "hash": "9d826781712048f82c667134df25abbfba9ebc157227e5aca7a4da8e14eaddae",
+      "width": 480,
+      "height": 480,
+      "size": 6630,
+      "createdAt": "2026-07-04T17:23:14Z",
+      "updatedAt": "2026-07-04T17:23:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/detail-1.webp",
+      "hash": "cd03b1ad03e864407ea06c002a9e396e43eb531c7b9d9a15b7c88f45d5178636",
+      "width": 480,
+      "height": 480,
+      "size": 76562,
+      "createdAt": "2026-07-04T17:23:14Z",
+      "updatedAt": "2026-07-04T17:23:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/detail-2.webp",
+      "hash": "29175f5b6c8a928f7aa62ff00d0bdf29aaa6fa5bfa02315fcd08ae0d40c578a7",
+      "width": 480,
+      "height": 480,
+      "size": 71002,
+      "createdAt": "2026-07-04T17:23:15Z",
+      "updatedAt": "2026-07-04T17:23:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/detail-3.webp",
+      "hash": "758bcf9472c5bfc9846e1632e2cc47ae476196fde09cdda5578caea48a8b7478",
+      "width": 480,
+      "height": 480,
+      "size": 19498,
+      "createdAt": "2026-07-04T17:23:15Z",
+      "updatedAt": "2026-07-04T17:23:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/detail-4.webp",
+      "hash": "a1e28e366e60e6fdac0a841fc47b23ec4d9fb9bc06ca5ecebda41132e8ef06a8",
+      "width": 480,
+      "height": 480,
+      "size": 23480,
+      "createdAt": "2026-07-04T17:23:16Z",
+      "updatedAt": "2026-07-04T17:23:16Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/2015-2016/sem-versao/detail-5.webp",
+      "hash": "28653c45f9280790de5fc29151c76f68f7f316afcfa007cd252264d82414d85a",
+      "width": 480,
+      "height": 480,
+      "size": 22242,
+      "createdAt": "2026-07-04T17:23:16Z",
+      "updatedAt": "2026-07-04T17:23:16Z"
+    }
+  ]
+}

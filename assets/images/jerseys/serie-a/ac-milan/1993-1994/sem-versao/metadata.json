@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-i-1993-1994-masculina-lotto-vermelha-e-preta",
+  "createdAt": "2026-07-04T17:27:34Z",
+  "updatedAt": "2026-07-04T17:27:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/front.webp",
+      "hash": "30749280af179bb7a65d2fce1be7fc79d4050b33151f044d211338f08315d9b8",
+      "width": 480,
+      "height": 480,
+      "size": 13530,
+      "createdAt": "2026-07-04T17:27:32Z",
+      "updatedAt": "2026-07-04T17:27:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/back.webp",
+      "hash": "a58ea2828a3985bcc2a278c9b44cdb587c9459a3bf8f1b715e7b3644aa8c7430",
+      "width": 480,
+      "height": 480,
+      "size": 10518,
+      "createdAt": "2026-07-04T17:27:32Z",
+      "updatedAt": "2026-07-04T17:27:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/detail-1.webp",
+      "hash": "94485849e4b2a4c46dcb951f948d83955eb53c708f858c5dc4168693e49214ef",
+      "width": 480,
+      "height": 480,
+      "size": 22644,
+      "createdAt": "2026-07-04T17:27:33Z",
+      "updatedAt": "2026-07-04T17:27:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/detail-2.webp",
+      "hash": "16c2e31e8d49ec97cb7f32f4446fe9680fbf99cca15067a67f9c93900a3fc12c",
+      "width": 480,
+      "height": 480,
+      "size": 24454,
+      "createdAt": "2026-07-04T17:27:33Z",
+      "updatedAt": "2026-07-04T17:27:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/detail-3.webp",
+      "hash": "5a51062adba74f3ee09c14e81907b3d34c50636df68262926452ddd8413adb64",
+      "width": 480,
+      "height": 480,
+      "size": 34276,
+      "createdAt": "2026-07-04T17:27:33Z",
+      "updatedAt": "2026-07-04T17:27:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/detail-4.webp",
+      "hash": "3e6f4a9d3d84f517b2c668ac84542b42a3867d9ff93b30df6bd70f052725adcc",
+      "width": 480,
+      "height": 480,
+      "size": 24632,
+      "createdAt": "2026-07-04T17:27:34Z",
+      "updatedAt": "2026-07-04T17:27:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1993-1994/sem-versao/detail-5.webp",
+      "hash": "8d867cfd8c05d3231edc22f6d0a671c5aa036821bd6f30e9f46af8d4964fe66e",
+      "width": 480,
+      "height": 480,
+      "size": 13508,
+      "createdAt": "2026-07-04T17:27:34Z",
+      "updatedAt": "2026-07-04T17:27:34Z"
+    }
+  ]
+}

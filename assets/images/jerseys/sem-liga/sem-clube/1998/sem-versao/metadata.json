@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-argentina-ii-1998-adidas-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-04T04:54:15Z",
+  "updatedAt": "2026-07-04T21:10:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/front.webp",
+      "hash": "ce7744b89a44d975628196ae471e1d7c679172dfd1706f1217636b197d653b9e",
+      "width": 480,
+      "height": 480,
+      "size": 8308,
+      "createdAt": "2026-07-04T04:54:14Z",
+      "updatedAt": "2026-07-04T21:10:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/back.webp",
+      "hash": "e2e5d375b1c190914e1b4e178042fe69ccf8902024106affb527b3270570dacd",
+      "width": 480,
+      "height": 480,
+      "size": 17692,
+      "createdAt": "2026-07-04T05:22:50Z",
+      "updatedAt": "2026-07-04T21:10:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/detail-1.webp",
+      "hash": "ce21c7688d4ce0dcd8f7e8bb31a326cc615b41c60b7d8cf0e1f192d3773b141c",
+      "width": 480,
+      "height": 480,
+      "size": 5576,
+      "createdAt": "2026-07-04T21:01:28Z",
+      "updatedAt": "2026-07-04T21:10:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/detail-2.webp",
+      "hash": "a086691aa2f838171b593e273fb7fa3cdc6b48a7775a3e0fcc401f391ed5295f",
+      "width": 480,
+      "height": 480,
+      "size": 85150,
+      "createdAt": "2026-07-04T21:01:28Z",
+      "updatedAt": "2026-07-04T21:10:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/detail-3.webp",
+      "hash": "7ed7a9b900e1c3aab8f8ae028ff0e7fe89c0093b5ee3824bd9a2e54643030f59",
+      "width": 480,
+      "height": 480,
+      "size": 90210,
+      "createdAt": "2026-07-04T21:01:28Z",
+      "updatedAt": "2026-07-04T21:10:46Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/detail-4.webp",
+      "hash": "fa0095be8c0bf6e4c93e9746b21f23090fb01f2265d55a1eed1291b468f178c8",
+      "width": 480,
+      "height": 480,
+      "size": 23416,
+      "createdAt": "2026-07-04T21:01:28Z",
+      "updatedAt": "2026-07-04T21:10:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1998/sem-versao/detail-5.webp",
+      "hash": "b09af78363e69d8e4f17b8bf859a69fa0c2a007ba7be66418eadba087275f21b",
+      "width": 480,
+      "height": 480,
+      "size": 22148,
+      "createdAt": "2026-07-04T21:01:28Z",
+      "updatedAt": "2026-07-04T21:10:47Z"
+    }
+  ]
+}

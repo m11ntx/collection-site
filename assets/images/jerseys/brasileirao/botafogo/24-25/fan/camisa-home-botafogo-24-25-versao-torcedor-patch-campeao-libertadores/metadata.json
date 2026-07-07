@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-home-botafogo-24-25-versao-torcedor-patch-campeao-libertadores",
+  "createdAt": "2026-07-05T04:24:50Z",
+  "updatedAt": "2026-07-05T04:24:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-home-botafogo-24-25-versao-torcedor-patch-campeao-libertadores/front.webp",
+      "hash": "6181c323a951366c9ff1e8a2d2b1303a89dd75c34361b2b4310854d1f28c2e5a",
+      "width": 480,
+      "height": 480,
+      "size": 10416,
+      "createdAt": "2026-07-05T04:24:50Z",
+      "updatedAt": "2026-07-05T04:24:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-home-botafogo-24-25-versao-torcedor-patch-campeao-libertadores/back.webp",
+      "hash": "ee464d217de73d4d4e4848dc6088b0df2123c72aab64a858b35ea2c1fd478578",
+      "width": 480,
+      "height": 480,
+      "size": 10644,
+      "createdAt": "2026-07-05T04:24:50Z",
+      "updatedAt": "2026-07-05T04:24:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-home-botafogo-24-25-versao-torcedor-patch-campeao-libertadores/detail-1.webp",
+      "hash": "4e44dcb87048ac82628d7a28e34c3d50f95379cda44b2a47b2014136024e6f9d",
+      "width": 480,
+      "height": 480,
+      "size": 22728,
+      "createdAt": "2026-07-05T04:24:50Z",
+      "updatedAt": "2026-07-05T04:24:50Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta",
+  "createdAt": "2026-07-04T20:10:12Z",
+  "updatedAt": "2026-07-04T21:05:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/front.webp",
+      "hash": "934171d6875d5094e6e7cfc3d694990c9da2b50422a79a1875210bf4e71b0a44",
+      "width": 480,
+      "height": 480,
+      "size": 9262,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/back.webp",
+      "hash": "124a23245cce082ef5331857ca9c5ed139535189f51d8e7b3b891cd9dc1a4719",
+      "width": 480,
+      "height": 480,
+      "size": 7102,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/detail-1.webp",
+      "hash": "26f6af566d7b52a0913601a699a860f44d5dbb5f7e3734364236abb53987e059",
+      "width": 480,
+      "height": 480,
+      "size": 16456,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/detail-2.webp",
+      "hash": "4c6e81e100b8fdd341c4d0ae643a38b56df42aeeb25b85ca6d93b42c8bda515d",
+      "width": 480,
+      "height": 480,
+      "size": 10364,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/detail-3.webp",
+      "hash": "a1615e28ec687a5884150697314f39c8c4c0595e40ff6bf03ffa2d55909609d6",
+      "width": 480,
+      "height": 480,
+      "size": 83688,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/detail-4.webp",
+      "hash": "ec9d32abd596984c9bba981e27bf99f63d734d282ade02b412a4c807f7f6d85a",
+      "width": 480,
+      "height": 480,
+      "size": 69408,
+      "createdAt": "2026-07-04T20:10:11Z",
+      "updatedAt": "2026-07-04T21:05:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/detail-5.webp",
+      "hash": "9839883c8f2a43ed507a05f1e431f2d978fd2089adb8fbb1512463cf48c8aeb9",
+      "width": 480,
+      "height": 480,
+      "size": 20478,
+      "createdAt": "2026-07-04T20:10:12Z",
+      "updatedAt": "2026-07-04T21:05:35Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja",
+  "createdAt": "2026-07-07T01:33:56Z",
+  "updatedAt": "2026-07-07T01:33:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/front.webp",
+      "hash": "9a2c51007f6d0b34351a7a3c66761774b9e1f02989b17b5b8374bb0b25628963",
+      "width": 480,
+      "height": 480,
+      "size": 8124,
+      "createdAt": "2026-07-07T01:33:52Z",
+      "updatedAt": "2026-07-07T01:33:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/back.webp",
+      "hash": "4c9c24825a414a67c34b00eeeb42df023fc912214bac58d2104e9a86f9d97f1d",
+      "width": 480,
+      "height": 480,
+      "size": 13530,
+      "createdAt": "2026-07-07T01:33:52Z",
+      "updatedAt": "2026-07-07T01:33:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/detail-1.webp",
+      "hash": "c52c4c56d8554a5cde25d60664d433d4ec2e964f38779919732e552de5dc078d",
+      "width": 480,
+      "height": 480,
+      "size": 4712,
+      "createdAt": "2026-07-07T01:33:53Z",
+      "updatedAt": "2026-07-07T01:33:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/detail-2.webp",
+      "hash": "3fd9619c8503c332b885bf70283eb974a94d7b3da88fd317fb319a6fc9fa6a05",
+      "width": 480,
+      "height": 480,
+      "size": 52500,
+      "createdAt": "2026-07-07T01:33:53Z",
+      "updatedAt": "2026-07-07T01:33:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/detail-3.webp",
+      "hash": "17b2aabc1e079fbd61e9375a60c063b7f31cda188b2ac86ce62a706374a925a9",
+      "width": 480,
+      "height": 480,
+      "size": 39386,
+      "createdAt": "2026-07-07T01:33:54Z",
+      "updatedAt": "2026-07-07T01:33:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-y-3-masculina-laranja/detail-4.webp",
+      "hash": "ef1ac99033868ddb75426b8daa2691ec8a162d87b8531d1c0d2a0593502a9e3e",
+      "width": 480,
+      "height": 480,
+      "size": 11772,
+      "createdAt": "2026-07-07T01:33:55Z",
+      "updatedAt": "2026-07-07T01:33:55Z"
+    }
+  ]
+}

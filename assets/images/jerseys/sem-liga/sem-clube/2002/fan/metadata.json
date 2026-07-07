@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-goleiro-selecao-brasileira-retro-2002-nike-torcedor-masculina-preta-com-detalhes-em-branco",
+  "createdAt": "2026-07-04T17:30:44Z",
+  "updatedAt": "2026-07-04T21:05:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/front.webp",
+      "hash": "cede4871a5d5d5777ecc5e1391796ac9555a0b48b0f6b0b8cb69252de9c9302f",
+      "width": 480,
+      "height": 480,
+      "size": 6760,
+      "createdAt": "2026-07-04T17:30:42Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/back.webp",
+      "hash": "866aabbcd555ca776ee7122e98850ac056a81b01c3d2165b35ec9d462fb8005b",
+      "width": 480,
+      "height": 480,
+      "size": 8616,
+      "createdAt": "2026-07-04T17:30:43Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/detail-1.webp",
+      "hash": "9f9e6eed0bf4cdb8921030303537c453521846c13e28399189c15193c3c1b445",
+      "width": 480,
+      "height": 480,
+      "size": 4334,
+      "createdAt": "2026-07-04T17:30:43Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/detail-2.webp",
+      "hash": "78a63a9e1ba775f022c21d12ad2f83cfa5649f4dfcc608f58e6635cfdbc0f3ec",
+      "width": 480,
+      "height": 480,
+      "size": 12918,
+      "createdAt": "2026-07-04T17:30:43Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/detail-3.webp",
+      "hash": "d7d6e2b25ea5098eee7e314ad7df78302d645457535f61c746e914633d3f71c0",
+      "width": 480,
+      "height": 480,
+      "size": 23700,
+      "createdAt": "2026-07-04T17:30:43Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/detail-4.webp",
+      "hash": "b7a98459c41e975d275af571b77cd940312131491b6c78f070c4cd14c649c749",
+      "width": 480,
+      "height": 480,
+      "size": 45586,
+      "createdAt": "2026-07-04T17:30:43Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/fan/detail-5.webp",
+      "hash": "aa087f527a7e2405143f3c805b8c70082b625850a12cafb01cf23411cb2955c9",
+      "width": 480,
+      "height": 480,
+      "size": 16560,
+      "createdAt": "2026-07-04T17:30:44Z",
+      "updatedAt": "2026-07-04T21:05:52Z"
+    }
+  ]
+}

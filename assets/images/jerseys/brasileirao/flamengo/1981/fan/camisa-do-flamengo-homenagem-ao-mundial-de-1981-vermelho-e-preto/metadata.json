@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-flamengo-homenagem-ao-mundial-de-1981-vermelho-e-preto",
+  "createdAt": "2026-07-05T06:09:00Z",
+  "updatedAt": "2026-07-05T06:09:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1981/fan/camisa-do-flamengo-homenagem-ao-mundial-de-1981-vermelho-e-preto/front.webp",
+      "hash": "af0eeec26c542a6663df8f81ffd7d156e74c4a53fc965362a76d9e2e85a55c67",
+      "width": 480,
+      "height": 480,
+      "size": 7152,
+      "createdAt": "2026-07-05T06:09:00Z",
+      "updatedAt": "2026-07-05T06:09:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1981/fan/camisa-do-flamengo-homenagem-ao-mundial-de-1981-vermelho-e-preto/back.webp",
+      "hash": "80db9cb4e8a128bf211fd713a970ae71285a6763a1586635fb03a1fda28cff1d",
+      "width": 480,
+      "height": 480,
+      "size": 5506,
+      "createdAt": "2026-07-05T06:09:00Z",
+      "updatedAt": "2026-07-05T06:09:00Z"
+    }
+  ]
+}

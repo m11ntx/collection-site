@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ii-sport-recife-25-26-torcedor-maculino",
+  "createdAt": "2026-07-05T16:55:30Z",
+  "updatedAt": "2026-07-05T16:55:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-ii-sport-recife-25-26-torcedor-maculino/front.webp",
+      "hash": "dc54a5109aa1630f32863a3e459e106b958c8c322479a69b4989166cc956075f",
+      "width": 480,
+      "height": 480,
+      "size": 10464,
+      "createdAt": "2026-07-05T16:55:30Z",
+      "updatedAt": "2026-07-05T16:55:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-ii-sport-recife-25-26-torcedor-maculino/back.webp",
+      "hash": "5afbef6d7065216d5eecda08f879ab2d4e0c8269dbd3e7e65e11734d4199bbbb",
+      "width": 480,
+      "height": 480,
+      "size": 7606,
+      "createdAt": "2026-07-05T16:55:30Z",
+      "updatedAt": "2026-07-05T16:55:30Z"
+    }
+  ]
+}

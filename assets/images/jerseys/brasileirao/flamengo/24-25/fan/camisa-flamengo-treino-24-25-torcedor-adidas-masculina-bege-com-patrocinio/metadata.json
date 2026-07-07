@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-treino-24-25-torcedor-adidas-masculina-bege-com-patrocinio",
+  "createdAt": "2026-07-05T06:09:19Z",
+  "updatedAt": "2026-07-05T06:09:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-bege-com-patrocinio/front.webp",
+      "hash": "cd1b16cca9bffbe5aa36a88af83259a185b3c2800e280e19930c8f5642402ba3",
+      "width": 480,
+      "height": 480,
+      "size": 9580,
+      "createdAt": "2026-07-05T06:09:19Z",
+      "updatedAt": "2026-07-05T06:09:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-bege-com-patrocinio/back.webp",
+      "hash": "73d0ad5a4858ef81ca444c83e42ac1e49ae24139a4f769cee86af09dd4d44e80",
+      "width": 480,
+      "height": 480,
+      "size": 6788,
+      "createdAt": "2026-07-05T06:09:19Z",
+      "updatedAt": "2026-07-05T06:09:19Z"
+    }
+  ]
+}

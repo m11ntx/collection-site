@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha",
+  "createdAt": "2026-07-05T16:55:39Z",
+  "updatedAt": "2026-07-05T16:55:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha/front.webp",
+      "hash": "f3f3537013b618b02108eacdd3cb6f9f6ae4d07eb42b5c1593a654a82c81515a",
+      "width": 480,
+      "height": 480,
+      "size": 22934,
+      "createdAt": "2026-07-05T16:55:38Z",
+      "updatedAt": "2026-07-05T16:55:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha/back.webp",
+      "hash": "04c98eb4f6d2af06128337ceb8ceb0f0ee07f0c8f177782115cef14b0260ea5f",
+      "width": 480,
+      "height": 480,
+      "size": 15708,
+      "createdAt": "2026-07-05T16:55:38Z",
+      "updatedAt": "2026-07-05T16:55:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha/detail-1.webp",
+      "hash": "ce379b9ed2d14feabc778cb2196527d85373a6b0c7b2a88acd689b4e458d3563",
+      "width": 480,
+      "height": 480,
+      "size": 49046,
+      "createdAt": "2026-07-05T16:55:38Z",
+      "updatedAt": "2026-07-05T16:55:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha/detail-2.webp",
+      "hash": "2ac0df1cc86e9c2535620734d04dc7774b2ee33b47ac11b73d8397ed3d2166de",
+      "width": 480,
+      "height": 480,
+      "size": 41610,
+      "createdAt": "2026-07-05T16:55:38Z",
+      "updatedAt": "2026-07-05T16:55:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha/detail-3.webp",
+      "hash": "4fe101a8ecfce83b37dccc87f9a46cda869009dd5a8c6edb01ed2f409f0b9240",
+      "width": 480,
+      "height": 480,
+      "size": 41826,
+      "createdAt": "2026-07-05T16:55:38Z",
+      "updatedAt": "2026-07-05T16:55:38Z"
+    }
+  ]
+}

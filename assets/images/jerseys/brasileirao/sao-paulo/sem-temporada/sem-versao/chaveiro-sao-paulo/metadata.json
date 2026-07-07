@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-sao-paulo",
+  "createdAt": "2026-07-05T16:43:10Z",
+  "updatedAt": "2026-07-05T16:43:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/sem-temporada/sem-versao/chaveiro-sao-paulo/front.webp",
+      "hash": "9fadb2599634d4805d17c7a42b97a75a85b72d003d091eba04f00e1c35bee7d9",
+      "width": 480,
+      "height": 480,
+      "size": 7466,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/sem-temporada/sem-versao/chaveiro-sao-paulo/back.webp",
+      "hash": "8d14276cf7ca5ac87b43bff3fe4fd85d665f5d8bda7c3f3969c3d9e9c56d1786",
+      "width": 480,
+      "height": 480,
+      "size": 18472,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    }
+  ]
+}

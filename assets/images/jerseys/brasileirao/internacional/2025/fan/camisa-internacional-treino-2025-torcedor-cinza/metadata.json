@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-treino-2025-torcedor-cinza",
+  "createdAt": "2026-07-05T05:51:08Z",
+  "updatedAt": "2026-07-05T05:51:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/2025/fan/camisa-internacional-treino-2025-torcedor-cinza/front.webp",
+      "hash": "05d882a144356d2423c2ef51b01d9b263fbf885bc2c99cbeabc71e1f8faf2103",
+      "width": 480,
+      "height": 480,
+      "size": 8410,
+      "createdAt": "2026-07-05T05:51:08Z",
+      "updatedAt": "2026-07-05T05:51:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/2025/fan/camisa-internacional-treino-2025-torcedor-cinza/back.webp",
+      "hash": "1ffd4bb65abc5d99d58932d739cf52aa62dbd394b63b26a661c1155717ae46a0",
+      "width": 480,
+      "height": 480,
+      "size": 4488,
+      "createdAt": "2026-07-05T05:51:08Z",
+      "updatedAt": "2026-07-05T05:51:08Z"
+    }
+  ]
+}

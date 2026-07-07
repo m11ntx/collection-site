@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-manchester-city-edicao-especial-ano-do-dragao-24-25-torcedor-puma-masculina-azul-branca-com-detalhes-em-cinza-e-preto",
+  "createdAt": "2026-07-04T17:33:19Z",
+  "updatedAt": "2026-07-04T21:06:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/front.webp",
+      "hash": "0187dc439873179b3f4beb2add18dda908e960ee3f1dc87e006cbfab63938862",
+      "width": 480,
+      "height": 480,
+      "size": 17830,
+      "createdAt": "2026-07-04T17:33:18Z",
+      "updatedAt": "2026-07-04T21:06:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/back.webp",
+      "hash": "1f05fc85c1401fcd5206289ec6777d11e69362f87ca0931873dd7e68e3b07f42",
+      "width": 480,
+      "height": 480,
+      "size": 6618,
+      "createdAt": "2026-07-04T17:33:18Z",
+      "updatedAt": "2026-07-04T21:06:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/detail-1.webp",
+      "hash": "c0699b1065f17b771abd92577e88751480bde6709299b1e3161e5ff3c81f3dda",
+      "width": 480,
+      "height": 480,
+      "size": 26726,
+      "createdAt": "2026-07-04T21:06:19Z",
+      "updatedAt": "2026-07-04T21:06:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/detail-2.webp",
+      "hash": "a7ca977bceef2911dbb479d0fbbfe7506dafc41aa01f8c869da6cac91704d407",
+      "width": 480,
+      "height": 480,
+      "size": 55780,
+      "createdAt": "2026-07-04T21:06:19Z",
+      "updatedAt": "2026-07-04T21:06:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/detail-3.webp",
+      "hash": "a8d57065a1e77d9498fc3fbe58d22437e88486590f3e31f9ad18f2a352565f39",
+      "width": 480,
+      "height": 480,
+      "size": 39080,
+      "createdAt": "2026-07-04T21:06:19Z",
+      "updatedAt": "2026-07-04T21:06:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/detail-4.webp",
+      "hash": "c333b0919bbda353408e670b4a95456386a780a9f6b80af045fad892c1be8748",
+      "width": 480,
+      "height": 480,
+      "size": 34672,
+      "createdAt": "2026-07-04T21:06:20Z",
+      "updatedAt": "2026-07-04T21:06:20Z"
+    }
+  ]
+}

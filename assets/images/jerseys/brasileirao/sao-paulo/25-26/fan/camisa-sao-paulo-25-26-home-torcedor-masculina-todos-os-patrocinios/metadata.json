@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sao-paulo-25-26-home-torcedor-masculina-todos-os-patrocinios",
+  "createdAt": "2026-07-05T16:43:07Z",
+  "updatedAt": "2026-07-05T16:43:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-home-torcedor-masculina-todos-os-patrocinios/front.webp",
+      "hash": "79719c4993e9264158f370715605953eccfee29b3fc44003a292e6ff0210faad",
+      "width": 480,
+      "height": 480,
+      "size": 12572,
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-home-torcedor-masculina-todos-os-patrocinios/back.webp",
+      "hash": "b092686d19557d79021fb4e5a250a31c2d535c2d031024ddc60a5d3a15c274cc",
+      "width": 480,
+      "height": 480,
+      "size": 7368,
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
+    }
+  ]
+}

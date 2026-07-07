@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-07T01:33:52Z",
+  "updatedAt": "2026-07-07T01:33:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "e0954f569d11b66cea9143b0f1d7377c45ea1610cc26762387a1ee54076580c4",
+      "width": 480,
+      "height": 480,
+      "size": 8766,
+      "createdAt": "2026-07-07T01:33:48Z",
+      "updatedAt": "2026-07-07T01:33:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "f71cf638d4e4fa9126eb398bc3cb710113605c6618c75b79768e5bd08748f130",
+      "width": 480,
+      "height": 480,
+      "size": 4702,
+      "createdAt": "2026-07-07T01:33:49Z",
+      "updatedAt": "2026-07-07T01:33:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/detail-1.webp",
+      "hash": "6b988c4d85ea1e914f23e2cc5737bd18eb862230c0b8a5dde62d02e57f09dae6",
+      "width": 480,
+      "height": 480,
+      "size": 13576,
+      "createdAt": "2026-07-07T01:33:49Z",
+      "updatedAt": "2026-07-07T01:33:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/detail-2.webp",
+      "hash": "7fbb8621aa5fe497912588103b2c1bf62200a4ab7408e322d30a3d92debd7bc6",
+      "width": 480,
+      "height": 480,
+      "size": 49918,
+      "createdAt": "2026-07-07T01:33:49Z",
+      "updatedAt": "2026-07-07T01:33:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/detail-3.webp",
+      "hash": "5262567160c5c6f3dd6eb75e9d479459699606e08e486b0cafe33b5fc3f9b37a",
+      "width": 480,
+      "height": 480,
+      "size": 42356,
+      "createdAt": "2026-07-07T01:33:50Z",
+      "updatedAt": "2026-07-07T01:33:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/detail-4.webp",
+      "hash": "796b378884ac81795b0bc8e5fa5c2d4c30aaf4aa07b3d3534935a81dead2a0e8",
+      "width": 480,
+      "height": 480,
+      "size": 28330,
+      "createdAt": "2026-07-07T01:33:51Z",
+      "updatedAt": "2026-07-07T01:33:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-edicao-especial-24-25-torcedor-adidas-masculina-preta/detail-5.webp",
+      "hash": "21a4489be82cfa91b7da7d432837eeaab70c3cc4a2aded5515713103d0715e59",
+      "width": 480,
+      "height": 480,
+      "size": 17780,
+      "createdAt": "2026-07-07T01:33:51Z",
+      "updatedAt": "2026-07-07T01:33:51Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santa-cruz-25-26-torcedor-volt-masculina-home",
+  "createdAt": "2026-07-05T16:55:42Z",
+  "updatedAt": "2026-07-05T16:55:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/25-26/fan/camisa-santa-cruz-25-26-torcedor-volt-masculina-home/front.webp",
+      "hash": "6c6d4d4f951aec5de5ffefae2fb7ed848bdbb5d3a06d28295b9bfd8fc43fa9e2",
+      "width": 480,
+      "height": 480,
+      "size": 12822,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/25-26/fan/camisa-santa-cruz-25-26-torcedor-volt-masculina-home/back.webp",
+      "hash": "a51ba05bab8d3df13c1cf115a071ed04e395fc177fcf994738fc88ec4b15d1ae",
+      "width": 480,
+      "height": 480,
+      "size": 10646,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    }
+  ]
+}

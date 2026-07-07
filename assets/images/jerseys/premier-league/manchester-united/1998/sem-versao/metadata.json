@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-1998-masculina-umbro-preta-com-detalhes-em-verde",
+  "createdAt": "2026-07-04T17:37:58Z",
+  "updatedAt": "2026-07-04T17:37:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/front.webp",
+      "hash": "a7fcd47972d4edd3213ad9e095b25f0e2475cfe61924336efe8750d1d0086c23",
+      "width": 480,
+      "height": 480,
+      "size": 9834,
+      "createdAt": "2026-07-04T17:37:55Z",
+      "updatedAt": "2026-07-04T17:37:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/back.webp",
+      "hash": "b6faa54e18a25139532fb6653b9e7e853e831bbb226a790de39de54032d0683d",
+      "width": 480,
+      "height": 480,
+      "size": 8078,
+      "createdAt": "2026-07-04T17:37:55Z",
+      "updatedAt": "2026-07-04T17:37:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/detail-1.webp",
+      "hash": "474f2a60b7767814977793f0e22cea9b6107c97ebd510ac9287fb6cb1509f722",
+      "width": 480,
+      "height": 480,
+      "size": 17234,
+      "createdAt": "2026-07-04T17:37:56Z",
+      "updatedAt": "2026-07-04T17:37:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/detail-2.webp",
+      "hash": "29775239ffd616a9685cad6c55b3e6378e113b35ff464bfc6059157019813a7e",
+      "width": 480,
+      "height": 480,
+      "size": 80974,
+      "createdAt": "2026-07-04T17:37:56Z",
+      "updatedAt": "2026-07-04T17:37:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/detail-3.webp",
+      "hash": "949ebbdbb8eda92d76297fcf32c2b0c50b7a1b6eccd8fdf6d2c1fbf37822ebfa",
+      "width": 480,
+      "height": 480,
+      "size": 85984,
+      "createdAt": "2026-07-04T17:37:57Z",
+      "updatedAt": "2026-07-04T17:37:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/detail-4.webp",
+      "hash": "2267b0c03eba9947ae377617b09780e982e9b120516a0ff7f7da38b9fa609641",
+      "width": 480,
+      "height": 480,
+      "size": 30296,
+      "createdAt": "2026-07-04T17:37:57Z",
+      "updatedAt": "2026-07-04T17:37:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1998/sem-versao/detail-5.webp",
+      "hash": "e76214cf2cd8ac95620f5deff7f866c539a6d831a06a0337eadbdd23f222a7ea",
+      "width": 480,
+      "height": 480,
+      "size": 22054,
+      "createdAt": "2026-07-04T17:37:58Z",
+      "updatedAt": "2026-07-04T17:37:58Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-palmeiras-away-2026-jogador-masculina",
+  "createdAt": "2026-07-04T18:35:54Z",
+  "updatedAt": "2026-07-04T20:28:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2026/player/front.webp",
+      "hash": "97219915229fee5417179d00886401c827f7ce4ff6a1c91df7f0676bc4ce242f",
+      "width": 480,
+      "height": 480,
+      "size": 12158,
+      "createdAt": "2026-07-04T18:35:53Z",
+      "updatedAt": "2026-07-04T20:28:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2026/player/back.webp",
+      "hash": "291584dc7d32aeb9589ce01c1b2d9923ac576b3ff7645508520db5ad0928111a",
+      "width": 480,
+      "height": 480,
+      "size": 19738,
+      "createdAt": "2026-07-04T18:35:54Z",
+      "updatedAt": "2026-07-04T20:28:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2026/player/detail-1.webp",
+      "hash": "4235a93d80fc8d631f1f6303c126d20c75126b565a547566929596446852cc17",
+      "width": 480,
+      "height": 480,
+      "size": 11050,
+      "createdAt": "2026-07-04T18:35:54Z",
+      "updatedAt": "2026-07-04T20:28:20Z"
+    }
+  ]
+}

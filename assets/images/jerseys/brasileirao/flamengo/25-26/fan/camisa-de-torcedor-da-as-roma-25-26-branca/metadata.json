@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-de-torcedor-da-as-roma-25-26-branca",
+  "createdAt": "2026-07-05T06:08:58Z",
+  "updatedAt": "2026-07-05T06:08:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-de-torcedor-da-as-roma-25-26-branca/front.webp",
+      "hash": "fbce6677cb17c21cdc705c48e0d793d91314b9b8a76716dcf87e66dc56253617",
+      "width": 480,
+      "height": 480,
+      "size": 10034,
+      "createdAt": "2026-07-05T06:08:58Z",
+      "updatedAt": "2026-07-05T06:08:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-de-torcedor-da-as-roma-25-26-branca/back.webp",
+      "hash": "3e3c661301e44a3c395ac4fb3825ee5971e17af04c5a9cd18b705df1436e8447",
+      "width": 480,
+      "height": 480,
+      "size": 6402,
+      "createdAt": "2026-07-05T06:08:58Z",
+      "updatedAt": "2026-07-05T06:08:58Z"
+    }
+  ]
+}

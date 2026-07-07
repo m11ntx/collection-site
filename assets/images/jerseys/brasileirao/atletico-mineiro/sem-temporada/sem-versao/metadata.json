@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-atletico-mineiro",
+  "createdAt": "2026-07-04T20:25:22Z",
+  "updatedAt": "2026-07-04T20:25:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/sem-temporada/sem-versao/front.webp",
+      "hash": "1f2d5662906e659eff945525e7083e978c643585bcd758afa895c575fcefa8e2",
+      "width": 480,
+      "height": 480,
+      "size": 6826,
+      "createdAt": "2026-07-04T20:25:22Z",
+      "updatedAt": "2026-07-04T20:25:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/sem-temporada/sem-versao/back.webp",
+      "hash": "9b7cbb32fd6dae59bb2b7b143428141c18a720638e87c4aad236a96c48fac0a5",
+      "width": 480,
+      "height": 480,
+      "size": 11404,
+      "createdAt": "2026-07-04T20:25:22Z",
+      "updatedAt": "2026-07-04T20:25:22Z"
+    }
+  ]
+}

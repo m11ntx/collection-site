@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-liverpool-retro-05-06-reebok-vermelha",
+  "createdAt": "2026-07-04T17:23:30Z",
+  "updatedAt": "2026-07-04T17:23:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/front.webp",
+      "hash": "e6a461f848f674882915cd017b7fdebddf2b857199a950a31d2fc094151797c0",
+      "width": 480,
+      "height": 480,
+      "size": 12820,
+      "createdAt": "2026-07-04T17:23:28Z",
+      "updatedAt": "2026-07-04T17:23:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/back.webp",
+      "hash": "4bb054f0fc96f3116d50cb418c57c927f6a7e0e2220164d2053594e4dda380ca",
+      "width": 480,
+      "height": 480,
+      "size": 8012,
+      "createdAt": "2026-07-04T17:23:28Z",
+      "updatedAt": "2026-07-04T17:23:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/detail-1.webp",
+      "hash": "866c1a87a13ecaf295e82ae0b0796499c4ab3d5fa9f0fb91dd7acb5af831dd19",
+      "width": 480,
+      "height": 480,
+      "size": 22148,
+      "createdAt": "2026-07-04T17:23:29Z",
+      "updatedAt": "2026-07-04T17:23:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/detail-2.webp",
+      "hash": "0ce6885a780f438dd1c936ead5c37af7c00e8710ba7d1c4bbed2b3daf9f42507",
+      "width": 480,
+      "height": 480,
+      "size": 45914,
+      "createdAt": "2026-07-04T17:23:29Z",
+      "updatedAt": "2026-07-04T17:23:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/detail-3.webp",
+      "hash": "c9358e4860814458de5ffbbe7978e6587f16cabf4fc45486fb8e257dae1d3e08",
+      "width": 480,
+      "height": 480,
+      "size": 28250,
+      "createdAt": "2026-07-04T17:23:30Z",
+      "updatedAt": "2026-07-04T17:23:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/05-06/sem-versao/detail-4.webp",
+      "hash": "77e8b525bdabd1e91a9ce4621695463d4f3ea842edd01b52e2b07f154bddd107",
+      "width": 480,
+      "height": 480,
+      "size": 26748,
+      "createdAt": "2026-07-04T17:23:30Z",
+      "updatedAt": "2026-07-04T17:23:30Z"
+    }
+  ]
+}

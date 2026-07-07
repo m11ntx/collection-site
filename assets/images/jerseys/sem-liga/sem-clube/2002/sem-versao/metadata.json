@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-i-2002-nike-masculina-vermelha-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-04T04:54:15Z",
+  "updatedAt": "2026-07-04T21:10:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/front.webp",
+      "hash": "32b51cd33855c54c0a8138ecd9b4aaee2cc12c0e7cb4dcf651ed06ae94283ba2",
+      "width": 480,
+      "height": 480,
+      "size": 8532,
+      "createdAt": "2026-07-04T04:54:15Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/back.webp",
+      "hash": "4bb3d24812e0fea24489d1de604ca763673055f593ae428643355037f418fb7c",
+      "width": 480,
+      "height": 480,
+      "size": 12122,
+      "createdAt": "2026-07-04T05:22:52Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/detail-1.webp",
+      "hash": "b32221d0f0806508695cd9d22389e0269257ef61ce7ef9eb3ce0b2b752b4cb00",
+      "width": 480,
+      "height": 480,
+      "size": 6438,
+      "createdAt": "2026-07-04T05:22:52Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/detail-2.webp",
+      "hash": "0d0acf7419edb53a61d44bc08fc8c8f260ed84c6194d3be0c53234605f1b0dad",
+      "width": 480,
+      "height": 480,
+      "size": 21196,
+      "createdAt": "2026-07-04T05:22:52Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/detail-3.webp",
+      "hash": "782e3abca837cfa9ce0e40fa165f39fa94d022391d40ffdb5a3c82d9dc1c8458",
+      "width": 480,
+      "height": 480,
+      "size": 22718,
+      "createdAt": "2026-07-04T05:22:52Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/detail-4.webp",
+      "hash": "10878ceeff7c0a7ea94fc85f3d8039c090c4219dfbdf2fbdc2d714f91541bf06",
+      "width": 480,
+      "height": 480,
+      "size": 12186,
+      "createdAt": "2026-07-04T05:22:52Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2002/sem-versao/detail-5.webp",
+      "hash": "d8bac20629d7bfe39ffda4a2f792af72cff3e3f8a4f97630f82190e5dca7a733",
+      "width": 480,
+      "height": 480,
+      "size": 9896,
+      "createdAt": "2026-07-04T21:01:29Z",
+      "updatedAt": "2026-07-04T21:10:34Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-i-retro-03-04-torcedor-masculina-vermelha-com-detalhes-em-preto-e-amarelo",
+  "createdAt": "2026-07-04T17:29:59Z",
+  "updatedAt": "2026-07-04T17:29:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/front.webp",
+      "hash": "bead65046b17e8570c4678adb236b6619ef2395a30c24cace90222d33d35df9f",
+      "width": 480,
+      "height": 480,
+      "size": 10266,
+      "createdAt": "2026-07-04T17:29:56Z",
+      "updatedAt": "2026-07-04T17:29:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/back.webp",
+      "hash": "31087577f62e148851f6402596ad8391cce1ebc225122ccf61a017be19227213",
+      "width": 480,
+      "height": 480,
+      "size": 13890,
+      "createdAt": "2026-07-04T17:29:56Z",
+      "updatedAt": "2026-07-04T17:29:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/detail-1.webp",
+      "hash": "390b906c13709ad8e75206d8c80312753bc4b5ae7e68a294ac88d9243d00e0a5",
+      "width": 480,
+      "height": 480,
+      "size": 8520,
+      "createdAt": "2026-07-04T17:29:57Z",
+      "updatedAt": "2026-07-04T17:29:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/detail-2.webp",
+      "hash": "ceead509804e8a009eaa931adc18ea05893644728e004f9470cd5c43029bd1e6",
+      "width": 480,
+      "height": 480,
+      "size": 18562,
+      "createdAt": "2026-07-04T17:29:57Z",
+      "updatedAt": "2026-07-04T17:29:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/detail-3.webp",
+      "hash": "884b6b9a83d5e7c05a68dbc734fc84062677a27a59a16b46ee40d0e218d86140",
+      "width": 480,
+      "height": 480,
+      "size": 80320,
+      "createdAt": "2026-07-04T17:29:58Z",
+      "updatedAt": "2026-07-04T17:29:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/detail-4.webp",
+      "hash": "e95c4671a38c593a47ce0e4547f6872a3fc4dbc391d246a737f30b902a164430",
+      "width": 480,
+      "height": 480,
+      "size": 49342,
+      "createdAt": "2026-07-04T17:29:58Z",
+      "updatedAt": "2026-07-04T17:29:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/03-04/fan/detail-5.webp",
+      "hash": "bf321095b929e56f0b51ef3375df5137f998dfb5210e0a35beee1b6d5af3b8e5",
+      "width": 480,
+      "height": 480,
+      "size": 17196,
+      "createdAt": "2026-07-04T17:29:59Z",
+      "updatedAt": "2026-07-04T17:29:59Z"
+    }
+  ]
+}

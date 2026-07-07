@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-paris-saint-germain-ii-1998-1999-torcedor-nike-masculina-branca-azul-e-vermelha",
+  "createdAt": "2026-07-04T04:54:19Z",
+  "updatedAt": "2026-07-04T05:23:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/front.webp",
+      "hash": "d51346446a371fea55ffb45ca99af20f6a8f51a9a0669a21741b104bcf2cd93b",
+      "width": 480,
+      "height": 480,
+      "size": 13020,
+      "createdAt": "2026-07-04T04:54:18Z",
+      "updatedAt": "2026-07-04T05:23:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/back.webp",
+      "hash": "7b5818592599a0af71dba74a1ab43e556cb74ec57d66c7469096a17ec7ee486f",
+      "width": 480,
+      "height": 480,
+      "size": 7970,
+      "createdAt": "2026-07-04T05:23:11Z",
+      "updatedAt": "2026-07-04T05:23:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/detail-1.webp",
+      "hash": "1e3095319acf71cef1aabb397bc2b218199067c4725352930584e3b8eda46054",
+      "width": 480,
+      "height": 480,
+      "size": 23474,
+      "createdAt": "2026-07-04T05:23:11Z",
+      "updatedAt": "2026-07-04T05:23:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/detail-2.webp",
+      "hash": "146ed115c45b2071f30a1918d1165452a2460b9f1826f07751772acdfd917ecb",
+      "width": 480,
+      "height": 480,
+      "size": 21286,
+      "createdAt": "2026-07-04T05:23:11Z",
+      "updatedAt": "2026-07-04T05:23:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/detail-3.webp",
+      "hash": "5920307e2bf3f0922640c553990dfc88ccc522c24a2d830ade8a0631b1c87db1",
+      "width": 480,
+      "height": 480,
+      "size": 56480,
+      "createdAt": "2026-07-04T05:23:12Z",
+      "updatedAt": "2026-07-04T05:23:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/detail-4.webp",
+      "hash": "16f09d5a9ad73d1722937024033a0a56eaf5049bd6ced5eb6ff5da6fa882e852",
+      "width": 480,
+      "height": 480,
+      "size": 17622,
+      "createdAt": "2026-07-04T05:23:12Z",
+      "updatedAt": "2026-07-04T05:23:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/1998-1999/fan/detail-5.webp",
+      "hash": "5166b220c898efeb196cf9b13c6bf4b66957652b3663f064ac91e0a9827d0585",
+      "width": 480,
+      "height": 480,
+      "size": 36322,
+      "createdAt": "2026-07-04T05:23:13Z",
+      "updatedAt": "2026-07-04T05:23:13Z"
+    }
+  ]
+}

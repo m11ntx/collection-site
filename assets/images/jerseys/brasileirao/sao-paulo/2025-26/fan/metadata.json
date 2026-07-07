@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-goleiro-sao-paulo-2025-26-masculina",
+  "createdAt": "2026-07-04T18:30:23Z",
+  "updatedAt": "2026-07-04T18:30:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/2025-26/fan/front.webp",
+      "hash": "6d499c51a339b374516a42825886f41dc7dafb771a34e191e1e8c29883f0b8fb",
+      "width": 480,
+      "height": 480,
+      "size": 16416,
+      "createdAt": "2026-07-04T18:30:22Z",
+      "updatedAt": "2026-07-04T18:30:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/2025-26/fan/back.webp",
+      "hash": "41749d5eb93b95bc2d15c43ec7016f7454fc4200091bce75de7311c04ada6ee4",
+      "width": 480,
+      "height": 480,
+      "size": 15874,
+      "createdAt": "2026-07-04T18:30:23Z",
+      "updatedAt": "2026-07-04T18:30:23Z"
+    }
+  ]
+}

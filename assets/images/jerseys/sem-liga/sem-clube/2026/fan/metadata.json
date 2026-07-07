@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-brasil-copa-do-mundo-2026-i-manga-longa-azul-torcedor-amarela",
+  "createdAt": "2026-07-04T18:35:21Z",
+  "updatedAt": "2026-07-04T20:32:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/fan/front.webp",
+      "hash": "e337721b46c773f482fc17f780cf5eb147a7e4d35d0780d089d7443a7b92bba7",
+      "width": 480,
+      "height": 480,
+      "size": 8492,
+      "createdAt": "2026-07-04T18:35:20Z",
+      "updatedAt": "2026-07-04T20:32:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/fan/back.webp",
+      "hash": "e98fc252ac23578be449f3c0ad281892ef227c02605e3842729d4456eb72d88a",
+      "width": 480,
+      "height": 480,
+      "size": 15544,
+      "createdAt": "2026-07-04T18:35:20Z",
+      "updatedAt": "2026-07-04T20:32:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/fan/detail-1.webp",
+      "hash": "aff065d14a8fca486035d3f56926e748173e8b276d5c3b2b5a6fd89b9596b70b",
+      "width": 480,
+      "height": 480,
+      "size": 6052,
+      "createdAt": "2026-07-04T20:32:53Z",
+      "updatedAt": "2026-07-04T20:32:55Z"
+    }
+  ]
+}

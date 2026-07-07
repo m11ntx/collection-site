@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho",
+  "createdAt": "2026-07-05T16:55:43Z",
+  "updatedAt": "2026-07-05T16:55:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/front.webp",
+      "hash": "c3ca491c87fb780ae9ae1a841e835962dbefbe8d09863e17c817824d9045a5bf",
+      "width": 480,
+      "height": 480,
+      "size": 7150,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/back.webp",
+      "hash": "2a3dd24ca1e93e735b5df44ce0a950e67bd87cc8657b00dba01d6b8c6b718dc1",
+      "width": 480,
+      "height": 480,
+      "size": 10660,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/detail-1.webp",
+      "hash": "38da5d42243f9ba09c874bdface3a93a833dc05b258f0f5402517f14335a8236",
+      "width": 480,
+      "height": 480,
+      "size": 6238,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/detail-2.webp",
+      "hash": "a169e3c7cf6cf659504ddadfd6b40fb279abb218494a49a1df3f12b2ded6197b",
+      "width": 480,
+      "height": 480,
+      "size": 60230,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/detail-3.webp",
+      "hash": "63a09a3b45b6d4a9b0c8940658bd9a98d80062e03c64bc9e55b2a286e7f7e8b1",
+      "width": 480,
+      "height": 480,
+      "size": 51778,
+      "createdAt": "2026-07-05T16:55:42Z",
+      "updatedAt": "2026-07-05T16:55:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/detail-4.webp",
+      "hash": "0c6e5b050d58fa4ff3b6332a12f732bd753ad39688e7c05104ff495af1913025",
+      "width": 480,
+      "height": 480,
+      "size": 11624,
+      "createdAt": "2026-07-05T16:55:43Z",
+      "updatedAt": "2026-07-05T16:55:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-i-24-25-torcedor-volt-masculina-preta-com-listras-em-vermelho/detail-5.webp",
+      "hash": "45717e536e6555eb39f3cc39a7b4aacbf11623afccdeccdbdf53ad3cb4f7ad38",
+      "width": 480,
+      "height": 480,
+      "size": 23884,
+      "createdAt": "2026-07-05T16:55:43Z",
+      "updatedAt": "2026-07-05T16:55:43Z"
+    }
+  ]
+}

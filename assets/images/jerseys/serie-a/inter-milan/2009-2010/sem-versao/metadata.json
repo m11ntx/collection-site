@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-ii-2009-2010-masculina-nike-branca",
+  "createdAt": "2026-07-04T17:21:48Z",
+  "updatedAt": "2026-07-04T21:06:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/front.webp",
+      "hash": "e2186250105eadc81d0196609ac1e4571494057fd7220217326907df49f5f7f3",
+      "width": 480,
+      "height": 480,
+      "size": 9036,
+      "createdAt": "2026-07-04T17:21:45Z",
+      "updatedAt": "2026-07-04T21:06:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/back.webp",
+      "hash": "62ee1b7ad0b6db8e7485d801fdc62fbe053e64e392929a2e196f126492953ed4",
+      "width": 480,
+      "height": 480,
+      "size": 16398,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/detail-1.webp",
+      "hash": "5619508212c334083521d0de7b7f75ada7a6a5bd959cf710589d937821661635",
+      "width": 480,
+      "height": 480,
+      "size": 43982,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/detail-2.webp",
+      "hash": "61b5cd65b2a9e10da43322ca4d357548027ac9b36f483c630cc66ac302f64382",
+      "width": 480,
+      "height": 480,
+      "size": 19592,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/detail-3.webp",
+      "hash": "5d762a2fe3364174a17ead77b3ed7f151042e9a4e3d66b070f383a84fe84dc98",
+      "width": 480,
+      "height": 480,
+      "size": 20384,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/detail-4.webp",
+      "hash": "93135960e3e3c91b70914f2f7c52be9d33a06d3acfcad3c3b04dc408cfe7b8f3",
+      "width": 480,
+      "height": 480,
+      "size": 16586,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2009-2010/sem-versao/detail-5.webp",
+      "hash": "3dce55757db797d85a5271e434b2115f42bc46a54681475e8c452ee2e467dc44",
+      "width": 480,
+      "height": 480,
+      "size": 18414,
+      "createdAt": "2026-07-04T21:04:29Z",
+      "updatedAt": "2026-07-04T21:06:02Z"
+    }
+  ]
+}

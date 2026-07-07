@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-97-98-masculina-adidas-branca-com-detalhes-em-preto-e-roxo",
+  "createdAt": "2026-07-04T17:35:11Z",
+  "updatedAt": "2026-07-04T17:35:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/front.webp",
+      "hash": "e1d102a0da7a765265af691fd6a3932ae146f92f215e03a383338d89e53180b0",
+      "width": 480,
+      "height": 480,
+      "size": 14430,
+      "createdAt": "2026-07-04T17:35:08Z",
+      "updatedAt": "2026-07-04T17:35:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/back.webp",
+      "hash": "e5d914d225882f25d556fd4e93715cd18159c06ea16e5e1f567557bab292e03f",
+      "width": 480,
+      "height": 480,
+      "size": 12716,
+      "createdAt": "2026-07-04T17:35:09Z",
+      "updatedAt": "2026-07-04T17:35:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/detail-1.webp",
+      "hash": "076053513acd2fd091feb092e0d9924d605e3b852c10807d924c32568dc41a69",
+      "width": 480,
+      "height": 480,
+      "size": 21100,
+      "createdAt": "2026-07-04T17:35:09Z",
+      "updatedAt": "2026-07-04T17:35:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/detail-2.webp",
+      "hash": "6166c090ecda1e92d0e0e3ca15a44268ffc8a0bea19947e89451aff854bc9c97",
+      "width": 480,
+      "height": 480,
+      "size": 57254,
+      "createdAt": "2026-07-04T17:35:10Z",
+      "updatedAt": "2026-07-04T17:35:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/detail-3.webp",
+      "hash": "9f2fe0715ffd908f5740b36d4bebb844867152b035a9c7d01e22ba8c97cf2e10",
+      "width": 480,
+      "height": 480,
+      "size": 41848,
+      "createdAt": "2026-07-04T17:35:10Z",
+      "updatedAt": "2026-07-04T17:35:10Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/detail-4.webp",
+      "hash": "ef514109c69d86baf230ede21af83f198cd61dbd14b82cfb03b8962fd2c4b7d4",
+      "width": 480,
+      "height": 480,
+      "size": 21268,
+      "createdAt": "2026-07-04T17:35:11Z",
+      "updatedAt": "2026-07-04T17:35:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/97-98/sem-versao/detail-5.webp",
+      "hash": "11302afd78d83701ad986ef81502aa818c44bbd62b476bb117ea87839e3725c9",
+      "width": 480,
+      "height": 480,
+      "size": 21266,
+      "createdAt": "2026-07-04T17:35:11Z",
+      "updatedAt": "2026-07-04T17:35:11Z"
+    }
+  ]
+}

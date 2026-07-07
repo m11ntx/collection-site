@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-da-argentina-i-1978-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-04T17:19:05Z",
+  "updatedAt": "2026-07-04T21:10:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/front.webp",
+      "hash": "a320dd634429f819292323f414d620be2ec9828ac38091eb8a3cda6194bfa332",
+      "width": 480,
+      "height": 480,
+      "size": 8800,
+      "createdAt": "2026-07-04T17:19:02Z",
+      "updatedAt": "2026-07-04T21:10:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/back.webp",
+      "hash": "517573b74366928e6e6b2c0f03eb6fdd1c2f2696a9307ae9a41552ec8a6e102c",
+      "width": 480,
+      "height": 480,
+      "size": 6990,
+      "createdAt": "2026-07-04T17:19:02Z",
+      "updatedAt": "2026-07-04T21:10:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/detail-1.webp",
+      "hash": "f6e5d4273d365d0491bdcfa821213fabb759befb46fc747cd130fbde9f2fb70c",
+      "width": 480,
+      "height": 480,
+      "size": 12696,
+      "createdAt": "2026-07-04T17:19:03Z",
+      "updatedAt": "2026-07-04T21:10:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/detail-2.webp",
+      "hash": "2808f935c812d668142cd415c129777b0ff57db0b198f037f14e536facbcdc54",
+      "width": 480,
+      "height": 480,
+      "size": 14750,
+      "createdAt": "2026-07-04T17:19:03Z",
+      "updatedAt": "2026-07-04T21:10:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/detail-3.webp",
+      "hash": "29ae42d685ad1d653923caccad705ee5a07f67ebbddb7317db0748e81cf981ba",
+      "width": 480,
+      "height": 480,
+      "size": 15076,
+      "createdAt": "2026-07-04T17:19:03Z",
+      "updatedAt": "2026-07-04T21:10:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1978/sem-versao/detail-4.webp",
+      "hash": "dc297a1eaa893e9ad524069af7a42810087ef3f9e915f91febd8d08b6e756580",
+      "width": 480,
+      "height": 480,
+      "size": 8466,
+      "createdAt": "2026-07-04T17:19:04Z",
+      "updatedAt": "2026-07-04T21:10:50Z"
+    }
+  ]
+}

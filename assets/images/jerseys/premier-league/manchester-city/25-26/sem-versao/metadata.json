@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-manchester-city-i-puma-25-26-azul",
+  "createdAt": "2026-07-04T18:32:21Z",
+  "updatedAt": "2026-07-04T18:32:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/sem-versao/front.webp",
+      "hash": "c1644f002c55ad44869c37df219d7db4d78b25e969e6ebf8601d2ec9519af8d3",
+      "width": 480,
+      "height": 480,
+      "size": 16464,
+      "createdAt": "2026-07-04T18:32:19Z",
+      "updatedAt": "2026-07-04T18:32:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/sem-versao/back.webp",
+      "hash": "add4e5362d414d66664ba61301382d41f793677674c0152cbb0213b662141408",
+      "width": 480,
+      "height": 480,
+      "size": 11174,
+      "createdAt": "2026-07-04T18:32:20Z",
+      "updatedAt": "2026-07-04T18:32:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/sem-versao/detail-1.webp",
+      "hash": "dc3f31bf6661416b158e1051ab5a6c909c4cb23408e3e332275b87a1f24dab19",
+      "width": 480,
+      "height": 480,
+      "size": 39190,
+      "createdAt": "2026-07-04T18:32:20Z",
+      "updatedAt": "2026-07-04T18:32:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/sem-versao/detail-2.webp",
+      "hash": "91adc1e047489eae008b375b4ae2bf1eef190fcd4813fa91ca6d1f277a501494",
+      "width": 480,
+      "height": 480,
+      "size": 78214,
+      "createdAt": "2026-07-04T18:32:21Z",
+      "updatedAt": "2026-07-04T18:32:21Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fiorentina-retro-1998-roxa-fila",
+  "createdAt": "2026-07-04T17:20:01Z",
+  "updatedAt": "2026-07-04T21:04:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/front.webp",
+      "hash": "d713e95cfd635a6a39960113063bd7b84981a76a5c0e0c89ec8dc4068addd5d0",
+      "width": 480,
+      "height": 480,
+      "size": 12540,
+      "createdAt": "2026-07-04T17:19:58Z",
+      "updatedAt": "2026-07-04T21:04:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/back.webp",
+      "hash": "786a96630f5deac93acf1d521750dfd6db2bb2b8f9824c34910c37c71c47b274",
+      "width": 480,
+      "height": 480,
+      "size": 8168,
+      "createdAt": "2026-07-04T17:19:59Z",
+      "updatedAt": "2026-07-04T21:04:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/detail-1.webp",
+      "hash": "72a8d6dbcfc40309f11de246f77bf15dc18f4e4a8baa79f3d7cae569cc2f424a",
+      "width": 480,
+      "height": 480,
+      "size": 39796,
+      "createdAt": "2026-07-04T17:19:59Z",
+      "updatedAt": "2026-07-04T21:04:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/detail-2.webp",
+      "hash": "3937d8f5c7fe2350d51320599847cf501671b58e73008102766791b600233126",
+      "width": 480,
+      "height": 480,
+      "size": 32700,
+      "createdAt": "2026-07-04T17:20:00Z",
+      "updatedAt": "2026-07-04T21:04:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/detail-3.webp",
+      "hash": "e21f59817992b27097e01fbf16a63095fce58b8c0e164c17b7f42f00d229f9e2",
+      "width": 480,
+      "height": 480,
+      "size": 29374,
+      "createdAt": "2026-07-04T17:20:00Z",
+      "updatedAt": "2026-07-04T21:04:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/detail-4.webp",
+      "hash": "45248b9d2fd3766fa260e46ba3c0ca42fd76cbf48a489e2c57779b6bde4c2eda",
+      "width": 480,
+      "height": 480,
+      "size": 22714,
+      "createdAt": "2026-07-04T17:20:01Z",
+      "updatedAt": "2026-07-04T21:04:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1998/sem-versao/detail-5.webp",
+      "hash": "ca1265af73b898cf84903265a00ebf655e38cb35eaaaa3fe853875d2bf060652",
+      "width": 480,
+      "height": 480,
+      "size": 31748,
+      "createdAt": "2026-07-04T21:04:08Z",
+      "updatedAt": "2026-07-04T21:04:08Z"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productId": "source-camisa-roma-especial-retro-16-17",
+  "createdAt": "2026-07-04T18:32:27Z",
+  "updatedAt": "2026-07-04T18:32:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/16-17/sem-versao/front.webp",
+      "hash": "43b255f8b0345242e482cf180776660152b154ad76e695faae038f34b81e670d",
+      "width": 480,
+      "height": 480,
+      "size": 10432,
+      "createdAt": "2026-07-04T18:32:27Z",
+      "updatedAt": "2026-07-04T18:32:27Z"
+    }
+  ]
+}

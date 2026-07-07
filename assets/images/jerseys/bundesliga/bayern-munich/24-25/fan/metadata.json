@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-treino-24-25-manga-longa-torcedor-adidas-masculina-vinho",
+  "createdAt": "2026-07-04T17:49:44Z",
+  "updatedAt": "2026-07-04T20:20:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/front.webp",
+      "hash": "87e9f9d0ac52466d7788ef1ee88e13752c62948ed7cd8df11a5838ab716d9ebe",
+      "width": 480,
+      "height": 480,
+      "size": 7954,
+      "createdAt": "2026-07-04T17:49:42Z",
+      "updatedAt": "2026-07-04T20:20:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/back.webp",
+      "hash": "62e250eedbabe33116194ba03de4d26608fac902dd1d73d679389217714f5dc9",
+      "width": 480,
+      "height": 480,
+      "size": 5826,
+      "createdAt": "2026-07-04T17:49:42Z",
+      "updatedAt": "2026-07-04T20:20:56Z"
+    }
+  ]
+}

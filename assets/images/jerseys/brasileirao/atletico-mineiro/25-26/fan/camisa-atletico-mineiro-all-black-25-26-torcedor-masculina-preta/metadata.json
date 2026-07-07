@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta",
+  "createdAt": "2026-07-05T16:55:10Z",
+  "updatedAt": "2026-07-05T16:55:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta/front.webp",
+      "hash": "6cb9e2719230c47b6dfd5c579ff26848b644e8612076def245c4bec8fc153697",
+      "width": 480,
+      "height": 480,
+      "size": 13066,
+      "createdAt": "2026-07-05T16:54:42Z",
+      "updatedAt": "2026-07-05T16:54:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta/back.webp",
+      "hash": "856a437a59aa7850c997c70f378cba22afac4bd9b939f2f673432ebdde8db815",
+      "width": 480,
+      "height": 480,
+      "size": 9742,
+      "createdAt": "2026-07-05T16:54:49Z",
+      "updatedAt": "2026-07-05T16:54:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta/detail-1.webp",
+      "hash": "7e60dad90bcaa5a5598975232859e1d620f53a2e1d4be51e3a26f63442347ff7",
+      "width": 480,
+      "height": 480,
+      "size": 18892,
+      "createdAt": "2026-07-05T16:54:55Z",
+      "updatedAt": "2026-07-05T16:54:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta/detail-2.webp",
+      "hash": "c22c7c5563709b42dd045b59b08c8e3aaf6beaf3405a44c8b69f4f13a9a86f2b",
+      "width": 480,
+      "height": 480,
+      "size": 17700,
+      "createdAt": "2026-07-05T16:55:03Z",
+      "updatedAt": "2026-07-05T16:55:03Z"
+    }
+  ]
+}

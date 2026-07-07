@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-ii-26-27-torcedor-masculina-listrada",
+  "createdAt": "2026-07-05T03:00:42Z",
+  "updatedAt": "2026-07-05T03:00:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-ii-26-27-torcedor-masculina-listrada/front.webp",
+      "hash": "06dee0a0fc281642210c9eedbcd3e61fa709153c1f0b8f114e99e9202a9f44ac",
+      "width": 480,
+      "height": 480,
+      "size": 8262,
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-ii-26-27-torcedor-masculina-listrada/back.webp",
+      "hash": "1144c23e9117cfc6646fafc3f96400bafe304b4840cc4ab0ad289f36be77d3ac",
+      "width": 480,
+      "height": 480,
+      "size": 6116,
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
+    }
+  ]
+}

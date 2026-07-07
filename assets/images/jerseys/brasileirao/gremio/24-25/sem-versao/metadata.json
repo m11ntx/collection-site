@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-gremio-i-24-25-umbro-azul-e-preto",
+  "createdAt": "2026-07-04T20:18:55Z",
+  "updatedAt": "2026-07-04T20:19:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/sem-versao/front.webp",
+      "hash": "2b45e9f97de49c394cdd42506c706573f22cdb60e31944b899d0fb04098238fc",
+      "width": 480,
+      "height": 480,
+      "size": 10396,
+      "createdAt": "2026-07-04T20:18:55Z",
+      "updatedAt": "2026-07-04T20:19:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/sem-versao/back.webp",
+      "hash": "a9ca5bb1e48845ac403b97bf67f0d58d9a0be6572bdaaeab38c9877a2704944c",
+      "width": 480,
+      "height": 480,
+      "size": 8394,
+      "createdAt": "2026-07-04T20:18:55Z",
+      "updatedAt": "2026-07-04T20:19:25Z"
+    }
+  ]
+}

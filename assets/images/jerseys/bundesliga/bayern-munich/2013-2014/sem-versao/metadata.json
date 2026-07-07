@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-i-2013-2014-masculina-adidas-vermelha",
+  "createdAt": "2026-07-04T17:43:10Z",
+  "updatedAt": "2026-07-04T21:09:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/front.webp",
+      "hash": "f71a28c8749ec6d4e7f8ec521d90bc1a11f670d27e35965263145879b6dd4950",
+      "width": 480,
+      "height": 480,
+      "size": 10284,
+      "createdAt": "2026-07-04T17:43:08Z",
+      "updatedAt": "2026-07-04T21:09:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/back.webp",
+      "hash": "83217b729bf8130d05c33b2c840cf04567a2fde9b14909b4543b0c152338ff07",
+      "width": 480,
+      "height": 480,
+      "size": 8040,
+      "createdAt": "2026-07-04T17:43:08Z",
+      "updatedAt": "2026-07-04T21:09:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/detail-1.webp",
+      "hash": "1852ade9184f3f0ee34edabad6ebbf3fb607f63404c13029d4b031deb737578a",
+      "width": 480,
+      "height": 480,
+      "size": 20752,
+      "createdAt": "2026-07-04T17:43:09Z",
+      "updatedAt": "2026-07-04T21:09:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/detail-2.webp",
+      "hash": "2ba80059617619e45632a189f981e84f7ab54d08217c56f8178640224b453a80",
+      "width": 480,
+      "height": 480,
+      "size": 18690,
+      "createdAt": "2026-07-04T17:43:09Z",
+      "updatedAt": "2026-07-04T17:43:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/detail-3.webp",
+      "hash": "328d4c7e3ba7f57b91dcad7281f4e0183c2b6ba2b7cc42621bc3167e1674171d",
+      "width": 480,
+      "height": 480,
+      "size": 28652,
+      "createdAt": "2026-07-04T17:43:10Z",
+      "updatedAt": "2026-07-04T21:09:03Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/detail-4.webp",
+      "hash": "7b8390ac76128a1976682a1563689c3fc3c4c9215825a3a4eb35e04e7a1c155f",
+      "width": 480,
+      "height": 480,
+      "size": 17484,
+      "createdAt": "2026-07-04T17:43:10Z",
+      "updatedAt": "2026-07-04T21:09:03Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/detail-5.webp",
+      "hash": "99e59b7d11fe639ec6266bcb214f056c353b988fe05f65b012f053e4e18c5c68",
+      "width": 480,
+      "height": 480,
+      "size": 15538,
+      "createdAt": "2026-07-04T17:43:10Z",
+      "updatedAt": "2026-07-04T21:09:03Z"
+    }
+  ]
+}

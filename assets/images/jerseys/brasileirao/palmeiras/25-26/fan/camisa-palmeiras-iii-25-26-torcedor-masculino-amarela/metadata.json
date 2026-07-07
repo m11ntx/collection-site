@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-iii-25-26-torcedor-masculino-amarela",
+  "createdAt": "2026-07-05T06:21:22Z",
+  "updatedAt": "2026-07-05T06:21:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-iii-25-26-torcedor-masculino-amarela/front.webp",
+      "hash": "46944daaad42124457598c80ecc22fba3dcd64d18a0bd59a9eb01015b1a13ad0",
+      "width": 480,
+      "height": 480,
+      "size": 13366,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-iii-25-26-torcedor-masculino-amarela/back.webp",
+      "hash": "8474169888b3bd0b241ab99364d60798c7af4e7fa3dd196c47279d4b21a899d2",
+      "width": 480,
+      "height": 480,
+      "size": 9312,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    }
+  ]
+}

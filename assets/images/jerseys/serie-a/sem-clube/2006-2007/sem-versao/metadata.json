@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-milan-2006-2007-adidas-masculina-vermelha-e-preta",
+  "createdAt": "2026-07-04T17:27:49Z",
+  "updatedAt": "2026-07-04T21:05:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/front.webp",
+      "hash": "5af3a14e290e1ab3b329836f299b8efc5e39f9678846c0e1b332cc16c83bb930",
+      "width": 480,
+      "height": 480,
+      "size": 14708,
+      "createdAt": "2026-07-04T17:27:47Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/back.webp",
+      "hash": "c0f989bf9c3e4c3133847529cd07d11688e4ae45a22f3ee8d02877877dbe7351",
+      "width": 480,
+      "height": 480,
+      "size": 10786,
+      "createdAt": "2026-07-04T17:27:47Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/detail-1.webp",
+      "hash": "466d038b31dc024ed074743616f3fd86ba992510db11118edf1f8002329ea34d",
+      "width": 480,
+      "height": 480,
+      "size": 23364,
+      "createdAt": "2026-07-04T17:27:48Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/detail-2.webp",
+      "hash": "285515f4e9a3027fdafe05d0085963daaf47c227bb7688d2e8585696b18933a3",
+      "width": 480,
+      "height": 480,
+      "size": 27718,
+      "createdAt": "2026-07-04T17:27:48Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/detail-3.webp",
+      "hash": "c555dbcf19021422082b5595e5c290573597033f297830ef87705ad734d59228",
+      "width": 480,
+      "height": 480,
+      "size": 47084,
+      "createdAt": "2026-07-04T17:27:49Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/detail-4.webp",
+      "hash": "9b8701f7c24797dc7ca2b0c8ad2a082598b4a0c90893b5a1c6af9fe2dd357ffe",
+      "width": 480,
+      "height": 480,
+      "size": 16572,
+      "createdAt": "2026-07-04T17:27:49Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/sem-clube/2006-2007/sem-versao/detail-5.webp",
+      "hash": "3872fab3aa7a34930f656b5f7a78de801bf026aaa2cfad9ee69f83f52c43bd25",
+      "width": 480,
+      "height": 480,
+      "size": 18264,
+      "createdAt": "2026-07-04T17:27:49Z",
+      "updatedAt": "2026-07-04T21:05:25Z"
+    }
+  ]
+}

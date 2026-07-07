@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-boca-juniors-2003-2004-nike-masculina-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-04T17:16:48Z",
+  "updatedAt": "2026-07-04T21:03:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/front.webp",
+      "hash": "667eb1e893fabd97fb0e7274e82271ef7deabdec5da9b3e79edc22c75c6ff47e",
+      "width": 480,
+      "height": 480,
+      "size": 13626,
+      "createdAt": "2026-07-04T17:16:46Z",
+      "updatedAt": "2026-07-04T21:03:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/back.webp",
+      "hash": "33079dc33481ef98b1a563671d56c21799414fdc11113f6e004263e3071c0c9b",
+      "width": 480,
+      "height": 480,
+      "size": 10084,
+      "createdAt": "2026-07-04T17:16:46Z",
+      "updatedAt": "2026-07-04T21:03:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/detail-1.webp",
+      "hash": "7999f66597cb21ad36fee4c3c6711d04a6aa6c33114c28210354e71c2b482d0c",
+      "width": 480,
+      "height": 480,
+      "size": 24544,
+      "createdAt": "2026-07-04T17:16:46Z",
+      "updatedAt": "2026-07-04T21:03:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/detail-2.webp",
+      "hash": "aa627ae3faf8931c68f7efd312676e180b882155b01004310dc01690a1b78e51",
+      "width": 480,
+      "height": 480,
+      "size": 41060,
+      "createdAt": "2026-07-04T17:16:47Z",
+      "updatedAt": "2026-07-04T21:03:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/detail-3.webp",
+      "hash": "a6f009e455fb36e148816a4aac94d6e94102ecf145fa306c3d391d6076534cae",
+      "width": 480,
+      "height": 480,
+      "size": 29652,
+      "createdAt": "2026-07-04T17:16:48Z",
+      "updatedAt": "2026-07-04T21:03:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2003-2004/sem-versao/detail-4.webp",
+      "hash": "667eb1e893fabd97fb0e7274e82271ef7deabdec5da9b3e79edc22c75c6ff47e",
+      "width": 480,
+      "height": 480,
+      "size": 13626,
+      "createdAt": "2026-07-04T17:16:48Z",
+      "updatedAt": "2026-07-04T21:03:26Z"
+    }
+  ]
+}

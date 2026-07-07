@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-glasgow-rangers-retro-1987-1988-branca-e-vermelha-umbro",
+  "createdAt": "2026-07-04T17:20:39Z",
+  "updatedAt": "2026-07-04T17:20:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/front.webp",
+      "hash": "db703362ef3ca17b4520670d427243d82e7f4db6c3ad213eaa1559fbe4ce5a8d",
+      "width": 480,
+      "height": 480,
+      "size": 11068,
+      "createdAt": "2026-07-04T17:20:36Z",
+      "updatedAt": "2026-07-04T17:20:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/back.webp",
+      "hash": "60dbffecf8c4e8483a87d8d2c7d91e0419784a7dfdd179c79cbca9c20436ac72",
+      "width": 480,
+      "height": 480,
+      "size": 6994,
+      "createdAt": "2026-07-04T17:20:37Z",
+      "updatedAt": "2026-07-04T17:20:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/detail-1.webp",
+      "hash": "118b9bd29f58d97e2be8d6b42e99f0458c24a70cee1c9bb337c14207ac720b01",
+      "width": 480,
+      "height": 480,
+      "size": 21042,
+      "createdAt": "2026-07-04T17:20:37Z",
+      "updatedAt": "2026-07-04T17:20:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/detail-2.webp",
+      "hash": "90cbdaa8ccd336b6ee0db7330cf6ffbdc44cafc542fc8a772a0d4785fcc169a3",
+      "width": 480,
+      "height": 480,
+      "size": 18406,
+      "createdAt": "2026-07-04T17:20:37Z",
+      "updatedAt": "2026-07-04T17:20:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/detail-3.webp",
+      "hash": "b2b987893bb25b05bd8a8ac2638effd9f6dc722e952541c00f163d6faa561f18",
+      "width": 480,
+      "height": 480,
+      "size": 58874,
+      "createdAt": "2026-07-04T17:20:38Z",
+      "updatedAt": "2026-07-04T17:20:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/detail-4.webp",
+      "hash": "9e8b4b4a3e72a7b1746395bc5b834f41fc9155ff8587f5521b5a5734e2333069",
+      "width": 480,
+      "height": 480,
+      "size": 34146,
+      "createdAt": "2026-07-04T17:20:38Z",
+      "updatedAt": "2026-07-04T17:20:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1987-1988/sem-versao/detail-5.webp",
+      "hash": "f62c9960e85e3f6c43550e5bde4b2ef9072db258da5f79fde925b0e0d5ff847e",
+      "width": 480,
+      "height": 480,
+      "size": 25144,
+      "createdAt": "2026-07-04T17:20:39Z",
+      "updatedAt": "2026-07-04T17:20:39Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-i-25-26-torcedor-umbro-masculina-azul",
+  "createdAt": "2026-07-05T03:00:39Z",
+  "updatedAt": "2026-07-05T03:00:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-i-25-26-torcedor-umbro-masculina-azul/front.webp",
+      "hash": "1e20d535da6469176c4d1ae3c936aefc419678b019269e631cf5f00f87640474",
+      "width": 480,
+      "height": 480,
+      "size": 16826,
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-i-25-26-torcedor-umbro-masculina-azul/back.webp",
+      "hash": "b1f081c243e1cf25cc84ae7039aa018d36ef39ccbd2bb17902985d46bbb34f27",
+      "width": 480,
+      "height": 480,
+      "size": 6558,
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
+    }
+  ]
+}

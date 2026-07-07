@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-10-11-masculina-nike-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-04T17:37:51Z",
+  "updatedAt": "2026-07-04T17:37:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/front.webp",
+      "hash": "6128ddb7cb5d2211f76a40cc3a814d668a9b008cf8bf3aecadd2224f756f4a0f",
+      "width": 480,
+      "height": 480,
+      "size": 9090,
+      "createdAt": "2026-07-04T17:37:49Z",
+      "updatedAt": "2026-07-04T17:37:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/back.webp",
+      "hash": "2fde5b401161b4d32ce1640294db264a04b14f1068be319b15193a48ef2d7f7c",
+      "width": 480,
+      "height": 480,
+      "size": 6850,
+      "createdAt": "2026-07-04T17:37:49Z",
+      "updatedAt": "2026-07-04T17:37:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/detail-1.webp",
+      "hash": "09d54fa2d274816230c1cc60bc18ad50d9d7ccbc2498d0f8967f7ce9da5d07fa",
+      "width": 480,
+      "height": 480,
+      "size": 12988,
+      "createdAt": "2026-07-04T17:37:49Z",
+      "updatedAt": "2026-07-04T17:37:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/detail-2.webp",
+      "hash": "a2c21a3017161fe7dd3a677249e4f2366f420c9b8c9235e99bc588c2b9671dc3",
+      "width": 480,
+      "height": 480,
+      "size": 75672,
+      "createdAt": "2026-07-04T17:37:50Z",
+      "updatedAt": "2026-07-04T17:37:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/detail-3.webp",
+      "hash": "b67c0b17b391088d3452cb0fffca7e4372340abaac8fe5a5a7d28caa6fdd8724",
+      "width": 480,
+      "height": 480,
+      "size": 78030,
+      "createdAt": "2026-07-04T17:37:50Z",
+      "updatedAt": "2026-07-04T17:37:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/detail-4.webp",
+      "hash": "d90129f61a546e99841ce214c32a3cf1dcb1fd2709eb6927431fa7376a94bb94",
+      "width": 480,
+      "height": 480,
+      "size": 27030,
+      "createdAt": "2026-07-04T17:37:51Z",
+      "updatedAt": "2026-07-04T17:37:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/10-11/sem-versao/detail-5.webp",
+      "hash": "c654d31993a2a3d7349206771f992ead8fdc77411c0182f77e709635061bf03c",
+      "width": 480,
+      "height": 480,
+      "size": 23664,
+      "createdAt": "2026-07-04T17:37:51Z",
+      "updatedAt": "2026-07-04T17:37:51Z"
+    }
+  ]
+}

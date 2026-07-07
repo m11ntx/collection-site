@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sao-paulo-25-26-patrocinios-superbet-home-torcedor-masculina-branco-vermelho",
+  "createdAt": "2026-07-05T16:43:08Z",
+  "updatedAt": "2026-07-05T16:43:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-patrocinios-superbet-home-torcedor-masculina-branco-vermelho/front.webp",
+      "hash": "0fa6fdac3b973881e3c05417ba3647f3cb3740faa74a9b80e1194bc552e27300",
+      "width": 480,
+      "height": 480,
+      "size": 7256,
+      "createdAt": "2026-07-05T16:43:08Z",
+      "updatedAt": "2026-07-05T16:43:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-patrocinios-superbet-home-torcedor-masculina-branco-vermelho/back.webp",
+      "hash": "1e5210862ba0b73ba520bcc1e21d6de6d1d2dbdb2c1c53a98b4c529bdaab96dc",
+      "width": 480,
+      "height": 480,
+      "size": 4746,
+      "createdAt": "2026-07-05T16:43:08Z",
+      "updatedAt": "2026-07-05T16:43:08Z"
+    }
+  ]
+}

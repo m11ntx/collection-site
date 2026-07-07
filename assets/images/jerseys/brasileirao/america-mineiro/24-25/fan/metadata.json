@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-america-mineiro-i-24-25-torcedor-volt-masculina-verde-e-preta",
+  "createdAt": "2026-07-04T20:15:09Z",
+  "updatedAt": "2026-07-04T20:15:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/front.webp",
+      "hash": "aeb519b8cf1dd96fa365f52a77fca254534b44bb1e2a2a5c311ca9c403d19848",
+      "width": 480,
+      "height": 480,
+      "size": 7094,
+      "createdAt": "2026-07-04T20:15:08Z",
+      "updatedAt": "2026-07-04T20:15:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/back.webp",
+      "hash": "c095711acc3c797cd1a652901f878c34eaf27a2e9cb3964b50168ca96245db49",
+      "width": 480,
+      "height": 480,
+      "size": 12496,
+      "createdAt": "2026-07-04T20:15:08Z",
+      "updatedAt": "2026-07-04T20:15:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/detail-1.webp",
+      "hash": "e79259edff98d2d720fb753034097abdd24aad762fb40c3e42c0728d6a1b1511",
+      "width": 480,
+      "height": 480,
+      "size": 5748,
+      "createdAt": "2026-07-04T20:15:09Z",
+      "updatedAt": "2026-07-04T20:15:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/detail-2.webp",
+      "hash": "1753aea1e4eacdbadce97e8d683d5bd3ccf92ea7f8cb6f80feb000de7aec8316",
+      "width": 480,
+      "height": 480,
+      "size": 32922,
+      "createdAt": "2026-07-04T20:15:09Z",
+      "updatedAt": "2026-07-04T20:15:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/detail-3.webp",
+      "hash": "57139a93185bd69625fe5f77111411b42f73e0731066b781a2f1b4d7eb990e58",
+      "width": 480,
+      "height": 480,
+      "size": 24526,
+      "createdAt": "2026-07-04T20:15:09Z",
+      "updatedAt": "2026-07-04T20:15:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/detail-4.webp",
+      "hash": "2028c5561b52fad4e92ef7e80d0b2616a3754f371e94f797d5d8220e2e3c8d4f",
+      "width": 480,
+      "height": 480,
+      "size": 13762,
+      "createdAt": "2026-07-04T20:15:09Z",
+      "updatedAt": "2026-07-04T20:15:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/america-mineiro/24-25/fan/detail-5.webp",
+      "hash": "1c5933b6a352ceee18c9c0cb4487a172bc5a78eea654f66d8757b3f570ddf1d9",
+      "width": 480,
+      "height": 480,
+      "size": 11118,
+      "createdAt": "2026-07-04T20:15:09Z",
+      "updatedAt": "2026-07-04T20:15:09Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-regata-kappa-vasco-treino-2025-cinza",
+  "createdAt": "2026-07-05T16:03:34Z",
+  "updatedAt": "2026-07-05T16:03:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2025/fan/camisa-regata-kappa-vasco-treino-2025-cinza/front.webp",
+      "hash": "a9e7dd6cd104254ebcf01a7904bf3a3488f63aea75f484ca97f7e1bbe662c556",
+      "width": 480,
+      "height": 480,
+      "size": 4570,
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2025/fan/camisa-regata-kappa-vasco-treino-2025-cinza/back.webp",
+      "hash": "06574c1c5e9a3c01ad617fc38e2082d502bcd33c25a25d898a2bbbb69bef34d4",
+      "width": 480,
+      "height": 480,
+      "size": 4288,
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2025/fan/camisa-regata-kappa-vasco-treino-2025-cinza/detail-1.webp",
+      "hash": "a3c311da7f6a0d7eca4ed6599b01b9ca11dc6a29ae430723dd709e607c62dc78",
+      "width": 480,
+      "height": 480,
+      "size": 4814,
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
+    }
+  ]
+}

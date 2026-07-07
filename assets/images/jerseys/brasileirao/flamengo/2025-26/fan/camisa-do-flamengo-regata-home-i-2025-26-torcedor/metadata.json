@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-do-flamengo-regata-home-i-2025-26-torcedor",
+  "createdAt": "2026-07-05T06:09:00Z",
+  "updatedAt": "2026-07-05T06:09:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-regata-home-i-2025-26-torcedor/front.webp",
+      "hash": "39c427e5d0e2167d3e15494b2edee67fee927927ca5c2280d9cf86ccd2a424ab",
+      "width": 480,
+      "height": 480,
+      "size": 9548,
+      "createdAt": "2026-07-05T06:09:00Z",
+      "updatedAt": "2026-07-05T06:09:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-regata-home-i-2025-26-torcedor/back.webp",
+      "hash": "7e0eb46f79b8ff37dfa7fa670cc2b196efeedf484429fc0c9f871563ce68ea49",
+      "width": 480,
+      "height": 480,
+      "size": 7188,
+      "createdAt": "2026-07-05T06:09:00Z",
+      "updatedAt": "2026-07-05T06:09:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-regata-home-i-2025-26-torcedor/detail-1.webp",
+      "hash": "f2a05cbae293f928358eed4ff3499706e1295721da480dd8bb44cc76b8751809",
+      "width": 480,
+      "height": 480,
+      "size": 17000,
+      "createdAt": "2026-07-05T06:09:00Z",
+      "updatedAt": "2026-07-05T06:09:00Z"
+    }
+  ]
+}

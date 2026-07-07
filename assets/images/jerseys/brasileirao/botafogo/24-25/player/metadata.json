@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-botafogo-i-24-25-jogador-reebok-masculina-preta-e-branca",
+  "createdAt": "2026-07-04T20:16:12Z",
+  "updatedAt": "2026-07-04T20:16:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/player/front.webp",
+      "hash": "6ff010b4bcc16fe432a6638c2a1fcca487c09f836a5cd3f98c20840c6ce75fb7",
+      "width": 480,
+      "height": 480,
+      "size": 12800,
+      "createdAt": "2026-07-04T20:16:12Z",
+      "updatedAt": "2026-07-04T20:16:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/player/back.webp",
+      "hash": "9da6e10fa52e53ec4416cfccc0ecb54d4556f8d0797333c9f6e6c8e8f818c8e0",
+      "width": 480,
+      "height": 480,
+      "size": 26308,
+      "createdAt": "2026-07-04T20:16:12Z",
+      "updatedAt": "2026-07-04T20:16:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/player/detail-1.webp",
+      "hash": "bbdb51e0415800c7620681acce6c1e295fb609cf14b7054c6dea7a00c0e192c7",
+      "width": 480,
+      "height": 480,
+      "size": 15346,
+      "createdAt": "2026-07-04T20:16:12Z",
+      "updatedAt": "2026-07-04T20:16:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/player/detail-2.webp",
+      "hash": "67636f37ea1c8adea342053efa3c7d120e5d987cfe9637bed18d51a4c64c4f95",
+      "width": 480,
+      "height": 480,
+      "size": 27930,
+      "createdAt": "2026-07-04T20:16:12Z",
+      "updatedAt": "2026-07-04T20:16:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/player/detail-3.webp",
+      "hash": "40e9ddc2ccb40d30a68cf7d9d89a4d0b6cce29659fdbedfaf3fc9a556b7e8965",
+      "width": 480,
+      "height": 480,
+      "size": 30694,
+      "createdAt": "2026-07-04T20:16:12Z",
+      "updatedAt": "2026-07-04T20:16:12Z"
+    }
+  ]
+}

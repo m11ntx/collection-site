@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fluminense-ii-24-25-torcedor-umbro-masculina-branca",
+  "createdAt": "2026-07-04T20:12:37Z",
+  "updatedAt": "2026-07-04T21:11:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/front.webp",
+      "hash": "d3d82aa86385935eb4224306e157bf93fe9dda9a25bf353f0d6079c3d95a1d21",
+      "width": 480,
+      "height": 480,
+      "size": 6202,
+      "createdAt": "2026-07-04T20:12:36Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/back.webp",
+      "hash": "d0c4dc078a9a58213447d9cdbab33ca5d9b77ef6f314a7fe8f37e7a159f6fde6",
+      "width": 480,
+      "height": 480,
+      "size": 10290,
+      "createdAt": "2026-07-04T20:12:37Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/detail-1.webp",
+      "hash": "1f5ca29d1c12f71d2dfffe5028c492c829e5211b54b9ef54e6fdaaaa589087b4",
+      "width": 480,
+      "height": 480,
+      "size": 5856,
+      "createdAt": "2026-07-04T21:08:38Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/detail-2.webp",
+      "hash": "dfea18e5b5e287c42d614c55dff2d728f1196ab25a41cd2b3017e8452cac72c6",
+      "width": 480,
+      "height": 480,
+      "size": 63536,
+      "createdAt": "2026-07-04T21:08:38Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/detail-3.webp",
+      "hash": "d3dccd84fe7ef73a0c48d011e01fbd47b1ac149bb184dc97f04111375fe5e54d",
+      "width": 480,
+      "height": 480,
+      "size": 37870,
+      "createdAt": "2026-07-04T21:08:38Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/detail-4.webp",
+      "hash": "649bdca0bba7b16ce42dec5a4acf559697ecab703580f685369a7a9b3b1ada07",
+      "width": 480,
+      "height": 480,
+      "size": 9900,
+      "createdAt": "2026-07-04T21:08:38Z",
+      "updatedAt": "2026-07-04T21:11:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/detail-5.webp",
+      "hash": "3d6a92c63ebac669473efbeef5053cce5be45707e26e5603f4b934aba2ec9006",
+      "width": 480,
+      "height": 480,
+      "size": 7098,
+      "createdAt": "2026-07-04T21:11:21Z",
+      "updatedAt": "2026-07-04T21:11:21Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-tottenham-i-retro-91-93-umbro-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-04T17:33:58Z",
+  "updatedAt": "2026-07-04T17:33:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/front.webp",
+      "hash": "aba322d79fdc52e1a905452ac07867ba6b197cc8ebda6cdeae8c49b1679f6460",
+      "width": 480,
+      "height": 480,
+      "size": 6534,
+      "createdAt": "2026-07-04T17:33:55Z",
+      "updatedAt": "2026-07-04T17:33:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/back.webp",
+      "hash": "7d7430bd7417fd9efd8c1db2d1339ab42ae044bcfab09749a6600a7293b7d548",
+      "width": 480,
+      "height": 480,
+      "size": 4354,
+      "createdAt": "2026-07-04T17:33:56Z",
+      "updatedAt": "2026-07-04T17:33:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/detail-1.webp",
+      "hash": "2e71b35c0c079a2105bd1ba3cc2f76fc86e4209a0c5007bb1991906bb6c633a7",
+      "width": 480,
+      "height": 480,
+      "size": 13876,
+      "createdAt": "2026-07-04T17:33:56Z",
+      "updatedAt": "2026-07-04T17:33:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/detail-2.webp",
+      "hash": "0f20745b0fb36bbae2361c34a3ac4e2c6c4127bf43ba4fb8e0a2ef2149beb4f8",
+      "width": 480,
+      "height": 480,
+      "size": 40710,
+      "createdAt": "2026-07-04T17:33:56Z",
+      "updatedAt": "2026-07-04T17:33:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/detail-3.webp",
+      "hash": "0f20745b0fb36bbae2361c34a3ac4e2c6c4127bf43ba4fb8e0a2ef2149beb4f8",
+      "width": 480,
+      "height": 480,
+      "size": 40710,
+      "createdAt": "2026-07-04T17:33:57Z",
+      "updatedAt": "2026-07-04T17:33:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/detail-4.webp",
+      "hash": "91fb9647fa3e5ac9397814fb1498be92b16caf9efd3e75cd555bd15557f688c2",
+      "width": 480,
+      "height": 480,
+      "size": 18944,
+      "createdAt": "2026-07-04T17:33:57Z",
+      "updatedAt": "2026-07-04T17:33:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/tottenham/91-93/sem-versao/detail-5.webp",
+      "hash": "189217971d263d770aad4c3206f186f3930c23a54d7bf33a09a5f1698f2312a5",
+      "width": 480,
+      "height": 480,
+      "size": 12568,
+      "createdAt": "2026-07-04T17:33:58Z",
+      "updatedAt": "2026-07-04T17:33:58Z"
+    }
+  ]
+}

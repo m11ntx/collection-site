@@ -1,0 +1,27 @@
+{
+  "productId": "source-camiseta-treino-cr-flamengo-tiro-25-26-azul-ciano",
+  "createdAt": "2026-07-05T06:09:43Z",
+  "updatedAt": "2026-07-05T06:09:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camiseta-treino-cr-flamengo-tiro-25-26-azul-ciano/front.webp",
+      "hash": "9d2a9be039e84c95562ae2d85d83eade4ca893aa57ba54a771381752c3569181",
+      "width": 480,
+      "height": 480,
+      "size": 16188,
+      "createdAt": "2026-07-05T06:09:30Z",
+      "updatedAt": "2026-07-05T06:09:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camiseta-treino-cr-flamengo-tiro-25-26-azul-ciano/back.webp",
+      "hash": "fd87658c484eeaffdff1c535532b164b2725d096bd77c485c70becf5d9e76ab4",
+      "width": 480,
+      "height": 480,
+      "size": 12082,
+      "createdAt": "2026-07-05T06:09:36Z",
+      "updatedAt": "2026-07-05T06:09:36Z"
+    }
+  ]
+}

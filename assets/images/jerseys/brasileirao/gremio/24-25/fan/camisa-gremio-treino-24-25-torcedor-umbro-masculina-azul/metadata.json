@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul",
+  "createdAt": "2026-07-05T16:05:43Z",
+  "updatedAt": "2026-07-05T16:05:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/front.webp",
+      "hash": "4807d43046227be04d104535686f85f86eb4764063de7ec09e75638de40e7bca",
+      "width": 480,
+      "height": 480,
+      "size": 14706,
+      "createdAt": "2026-07-05T16:05:42Z",
+      "updatedAt": "2026-07-05T16:05:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/back.webp",
+      "hash": "455f49c1fcf024a9570d5f95c1095330b5b326d79bfb3a94cff312f62c6cee42",
+      "width": 480,
+      "height": 480,
+      "size": 28574,
+      "createdAt": "2026-07-05T16:05:42Z",
+      "updatedAt": "2026-07-05T16:05:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/detail-1.webp",
+      "hash": "0b0592f6630fbe237227f09212c8f8a336a529ecc4aa6b44b67109bdbd0b540a",
+      "width": 480,
+      "height": 480,
+      "size": 10506,
+      "createdAt": "2026-07-05T16:05:43Z",
+      "updatedAt": "2026-07-05T16:05:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/detail-2.webp",
+      "hash": "fece5b1355543e179dbf897c30793bb1acff93c25eaf88895892c4b76ad4ffe5",
+      "width": 480,
+      "height": 480,
+      "size": 61328,
+      "createdAt": "2026-07-05T16:05:43Z",
+      "updatedAt": "2026-07-05T16:05:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/detail-3.webp",
+      "hash": "45d5fdece10df7c24462de4d36c9d4509173a7a66ced72c3bdd82ffeae17df7a",
+      "width": 480,
+      "height": 480,
+      "size": 63666,
+      "createdAt": "2026-07-05T16:05:43Z",
+      "updatedAt": "2026-07-05T16:05:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-treino-24-25-torcedor-umbro-masculina-azul/detail-4.webp",
+      "hash": "cd318bfbcfb918c09a1f7e91afccea356b1d5f40f01e62f01fdfd4078bb68a88",
+      "width": 480,
+      "height": 480,
+      "size": 21426,
+      "createdAt": "2026-07-05T16:05:43Z",
+      "updatedAt": "2026-07-05T16:05:43Z"
+    }
+  ]
+}

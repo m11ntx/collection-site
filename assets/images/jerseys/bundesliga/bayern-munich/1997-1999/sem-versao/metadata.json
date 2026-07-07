@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-1997-1999-masculina-adidas-preta-e-vermelha",
+  "createdAt": "2026-07-04T17:16:35Z",
+  "updatedAt": "2026-07-04T17:16:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/front.webp",
+      "hash": "0edfed33902449155276e4f964b051932040f07fae1b2cc64f8bb0e3b0d842e9",
+      "width": 480,
+      "height": 480,
+      "size": 13822,
+      "createdAt": "2026-07-04T17:16:33Z",
+      "updatedAt": "2026-07-04T17:16:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/back.webp",
+      "hash": "5798e7f53ebdd503503331080d0ba6d467192d037972eca99628082806c85323",
+      "width": 480,
+      "height": 480,
+      "size": 11910,
+      "createdAt": "2026-07-04T17:16:34Z",
+      "updatedAt": "2026-07-04T17:16:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/detail-1.webp",
+      "hash": "26064db719e784200d072bc80d4476be79e57cedb1e9dccb4db153598a394cc2",
+      "width": 480,
+      "height": 480,
+      "size": 26222,
+      "createdAt": "2026-07-04T17:16:34Z",
+      "updatedAt": "2026-07-04T17:16:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/detail-2.webp",
+      "hash": "764eeef82156450d21348855baf559543518175b8b574714d7531efde9c26745",
+      "width": 480,
+      "height": 480,
+      "size": 25078,
+      "createdAt": "2026-07-04T17:16:34Z",
+      "updatedAt": "2026-07-04T17:16:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/detail-3.webp",
+      "hash": "14c6145b75d260382a764dca24f960c936c9bbef4dd18f4ed6947d9b9a07d2e5",
+      "width": 480,
+      "height": 480,
+      "size": 49364,
+      "createdAt": "2026-07-04T17:16:34Z",
+      "updatedAt": "2026-07-04T17:16:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/detail-4.webp",
+      "hash": "f38ae9064fc7e6939e842d4e2bad0f11537d86f5f4705094028bfae07ca55929",
+      "width": 480,
+      "height": 480,
+      "size": 28900,
+      "createdAt": "2026-07-04T17:16:34Z",
+      "updatedAt": "2026-07-04T17:16:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1997-1999/sem-versao/detail-5.webp",
+      "hash": "48a426782e58f88ae1c76d17fa7e6a60ce29420fb1571e0915361732827675d8",
+      "width": 480,
+      "height": 480,
+      "size": 9112,
+      "createdAt": "2026-07-04T17:16:35Z",
+      "updatedAt": "2026-07-04T17:16:35Z"
+    }
+  ]
+}

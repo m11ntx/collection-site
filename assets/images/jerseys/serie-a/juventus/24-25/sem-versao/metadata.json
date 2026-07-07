@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-juventus-adidas-24-25-azul-e-laranja",
+  "createdAt": "2026-07-04T18:07:18Z",
+  "updatedAt": "2026-07-04T20:22:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/front.webp",
+      "hash": "1135b5c402e21741c1d84a596ee422561ab218ab513d88df24d78b1aa6a988d0",
+      "width": 480,
+      "height": 480,
+      "size": 10490,
+      "createdAt": "2026-07-04T18:07:18Z",
+      "updatedAt": "2026-07-04T20:22:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/back.webp",
+      "hash": "cce83da2f6a6422f517899276ea8023506ccde1b513e0ade6825253d0d67496d",
+      "width": 480,
+      "height": 480,
+      "size": 7748,
+      "createdAt": "2026-07-04T18:07:18Z",
+      "updatedAt": "2026-07-04T20:22:55Z"
+    }
+  ]
+}

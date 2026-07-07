@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-internacional-adidas-24-25-vermelho",
+  "createdAt": "2026-07-04T18:06:01Z",
+  "updatedAt": "2026-07-04T20:22:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/front.webp",
+      "hash": "711eff227391570bb1f1ee8932d03188cb25e02fd91de53dacb4ea4d25cbb0d3",
+      "width": 480,
+      "height": 480,
+      "size": 9036,
+      "createdAt": "2026-07-04T18:06:00Z",
+      "updatedAt": "2026-07-04T20:22:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/back.webp",
+      "hash": "f16d850c789b33a5981197fc1da0c31f1c3ace87ce9e6373a46ccd86b31d78d1",
+      "width": 480,
+      "height": 480,
+      "size": 9814,
+      "createdAt": "2026-07-04T18:06:00Z",
+      "updatedAt": "2026-07-04T20:22:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/detail-1.webp",
+      "hash": "154fca92a987749f5f29acc1dca99b2bcfbd80a954d29fc43cfcf68406f4a5de",
+      "width": 480,
+      "height": 480,
+      "size": 7484,
+      "createdAt": "2026-07-04T20:22:53Z",
+      "updatedAt": "2026-07-04T20:22:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/detail-2.webp",
+      "hash": "68105593d2c16b3846d848174eb192c94b9200c2efbf821835537d3e0d55e579",
+      "width": 480,
+      "height": 320,
+      "size": 7390,
+      "createdAt": "2026-07-04T20:22:54Z",
+      "updatedAt": "2026-07-04T20:22:54Z"
+    }
+  ]
+}

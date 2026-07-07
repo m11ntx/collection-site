@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-da-argentina-ii-1994-jogador-adidas-masculina-azul-com-detalhes-em-preto",
+  "createdAt": "2026-07-04T17:31:26Z",
+  "updatedAt": "2026-07-04T17:31:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/front.webp",
+      "hash": "eb33b0fc8c812f5c3c12efc4216189d5321f729f3b1fa927647b07461354eea8",
+      "width": 480,
+      "height": 480,
+      "size": 23022,
+      "createdAt": "2026-07-04T17:31:23Z",
+      "updatedAt": "2026-07-04T17:31:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/back.webp",
+      "hash": "4878c74c157e35462069bd60f6e22960f25c47432126e8a9079a49de086e4a7b",
+      "width": 480,
+      "height": 480,
+      "size": 19718,
+      "createdAt": "2026-07-04T17:31:24Z",
+      "updatedAt": "2026-07-04T17:31:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/detail-1.webp",
+      "hash": "fc561d7e9296d9601e166c57d0f6d2d97317110fbedc934c5399b3f5d4cd3cbe",
+      "width": 480,
+      "height": 480,
+      "size": 48560,
+      "createdAt": "2026-07-04T17:31:24Z",
+      "updatedAt": "2026-07-04T17:31:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/detail-2.webp",
+      "hash": "a2802f5d8810e03ac759981cfd2dddc04cfcde90acb2812dca9efa34b469db70",
+      "width": 480,
+      "height": 480,
+      "size": 25012,
+      "createdAt": "2026-07-04T17:31:25Z",
+      "updatedAt": "2026-07-04T17:31:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/detail-3.webp",
+      "hash": "81d07e62f135362af8a224e84b739545cf9f3eb0c8a967d72a20cc0116c2077a",
+      "width": 480,
+      "height": 480,
+      "size": 25934,
+      "createdAt": "2026-07-04T17:31:25Z",
+      "updatedAt": "2026-07-04T17:31:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1994/player/detail-4.webp",
+      "hash": "26362509ae75b2eab9965c8433463431184553871fb614e89b1895d7b46ddaf6",
+      "width": 480,
+      "height": 480,
+      "size": 45404,
+      "createdAt": "2026-07-04T17:31:26Z",
+      "updatedAt": "2026-07-04T17:31:26Z"
+    }
+  ]
+}

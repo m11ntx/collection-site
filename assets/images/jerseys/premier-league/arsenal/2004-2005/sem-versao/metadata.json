@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-retro-arsenal-i-2004-2005-nike-vermelho-com-detalhes-em-branco-e-amarelo",
+  "createdAt": "2026-07-04T18:09:28Z",
+  "updatedAt": "2026-07-04T18:09:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/front.webp",
+      "hash": "172d1215e61d685186f8684e87929b4451db6e22ebb11d5106cf1538fd77ea9f",
+      "width": 480,
+      "height": 480,
+      "size": 6876,
+      "createdAt": "2026-07-04T18:09:26Z",
+      "updatedAt": "2026-07-04T18:09:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/back.webp",
+      "hash": "427aa357d295cfd88a8c0f8a698fb2ceb47cd48101bd7adb06ca955f124c88d1",
+      "width": 480,
+      "height": 480,
+      "size": 12206,
+      "createdAt": "2026-07-04T18:09:26Z",
+      "updatedAt": "2026-07-04T18:09:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/detail-1.webp",
+      "hash": "a44bf266aa9d9e4f04394dd447df10573c748694bf736534e5bac46acd9233c0",
+      "width": 480,
+      "height": 480,
+      "size": 5346,
+      "createdAt": "2026-07-04T18:09:26Z",
+      "updatedAt": "2026-07-04T18:09:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/detail-2.webp",
+      "hash": "7143ed92750d4186d0872b7f35465d969439d770b92cfe8f918996cbe4d367b3",
+      "width": 480,
+      "height": 480,
+      "size": 72370,
+      "createdAt": "2026-07-04T18:09:27Z",
+      "updatedAt": "2026-07-04T18:09:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/detail-3.webp",
+      "hash": "f8cf5137a2463b23e221f2dcc2c1110fdcba88fad0a9e64b4e099b33e7cf9715",
+      "width": 480,
+      "height": 480,
+      "size": 55856,
+      "createdAt": "2026-07-04T18:09:27Z",
+      "updatedAt": "2026-07-04T18:09:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/detail-4.webp",
+      "hash": "5f26556fb7de83f6b2bfc4393dc6b384de1debffa13ff5b1a1cf26a1e41fb68e",
+      "width": 480,
+      "height": 480,
+      "size": 18646,
+      "createdAt": "2026-07-04T18:09:28Z",
+      "updatedAt": "2026-07-04T18:09:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/2004-2005/sem-versao/detail-5.webp",
+      "hash": "4c4b8822fa5a3e56a7e305520ea3f42eac31c8bbbdd6afac18b502315a0b416f",
+      "width": 480,
+      "height": 480,
+      "size": 9756,
+      "createdAt": "2026-07-04T18:09:28Z",
+      "updatedAt": "2026-07-04T18:09:28Z"
+    }
+  ]
+}

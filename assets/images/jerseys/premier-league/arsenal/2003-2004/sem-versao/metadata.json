@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-arsenal-ii-2003-2004-masculina-nike-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-04T17:40:22Z",
+  "updatedAt": "2026-07-04T17:40:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/front.webp",
+      "hash": "042f3e1d9e1b10b4a5f160af3dedd69d4a179688a88b9e152b035c2051cddf5d",
+      "width": 480,
+      "height": 480,
+      "size": 9418,
+      "createdAt": "2026-07-04T17:40:19Z",
+      "updatedAt": "2026-07-04T17:40:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/back.webp",
+      "hash": "1e3713eed1af08896504eda3b9065f1cbe102fca718a7722b7f3a27f8cf9821c",
+      "width": 480,
+      "height": 480,
+      "size": 6208,
+      "createdAt": "2026-07-04T17:40:20Z",
+      "updatedAt": "2026-07-04T17:40:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/detail-1.webp",
+      "hash": "08b29ceeb158a5ead475ff89f7a9a7d597fac3c53f946b18808154897d9d3766",
+      "width": 480,
+      "height": 480,
+      "size": 11120,
+      "createdAt": "2026-07-04T17:40:20Z",
+      "updatedAt": "2026-07-04T17:40:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/detail-2.webp",
+      "hash": "b3f1065c3bd11457daa92ec5a72e4560f44ab2494a2a0490d7add4845cd57e2e",
+      "width": 480,
+      "height": 480,
+      "size": 39092,
+      "createdAt": "2026-07-04T17:40:21Z",
+      "updatedAt": "2026-07-04T17:40:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/detail-3.webp",
+      "hash": "5c0f31c6584447b4db764297e7a86014feca0547a6b386d7922e2fbd2f788156",
+      "width": 480,
+      "height": 480,
+      "size": 57882,
+      "createdAt": "2026-07-04T17:40:21Z",
+      "updatedAt": "2026-07-04T17:40:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/detail-4.webp",
+      "hash": "701894ff5891082f4d5bc877f355e22e431342fd3021366c947391bc4425fbe0",
+      "width": 480,
+      "height": 480,
+      "size": 18226,
+      "createdAt": "2026-07-04T17:40:22Z",
+      "updatedAt": "2026-07-04T17:40:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/2003-2004/sem-versao/detail-5.webp",
+      "hash": "c46b1aeab9684bf6b7f08cb956f723c1ce2ab15f4239b9c3f8c7e8a6e4dd29e8",
+      "width": 480,
+      "height": 480,
+      "size": 10404,
+      "createdAt": "2026-07-04T17:40:22Z",
+      "updatedAt": "2026-07-04T17:40:22Z"
+    }
+  ]
+}

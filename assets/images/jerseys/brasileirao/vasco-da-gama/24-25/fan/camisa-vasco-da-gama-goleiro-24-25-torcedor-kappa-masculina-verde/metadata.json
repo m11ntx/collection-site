@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde",
+  "createdAt": "2026-07-05T16:03:39Z",
+  "updatedAt": "2026-07-05T16:03:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/front.webp",
+      "hash": "1e4d0d5a4a92591ff343df3a0dc6a6706310c906ef1e653c9f1fcb147c9e1ab9",
+      "width": 480,
+      "height": 480,
+      "size": 8180,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/back.webp",
+      "hash": "f7a9da89659659a0544c092fc48279ea04ea309bf506f4dfd4a63fb0956dae3a",
+      "width": 480,
+      "height": 480,
+      "size": 5622,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/detail-1.webp",
+      "hash": "f47a3fad5d254d31ad5bc3eab19434aaaafa8122a7b057deaaab7d31cb08bf07",
+      "width": 480,
+      "height": 480,
+      "size": 16732,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/detail-2.webp",
+      "hash": "9d34830a82b43efb0914b59008b2edd1cadc431dfb7b33c05cdf4abb776a277d",
+      "width": 480,
+      "height": 480,
+      "size": 48336,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/detail-3.webp",
+      "hash": "9f86791cde138aa4f73f0e9af912e609064703d687d6b552b5e8a759285170f4",
+      "width": 480,
+      "height": 480,
+      "size": 48766,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/detail-4.webp",
+      "hash": "1342c82d3164171c18ed524fced85ea51ba24377599c62aa06834c851a4e2f8c",
+      "width": 480,
+      "height": 480,
+      "size": 20390,
+      "createdAt": "2026-07-05T16:03:39Z",
+      "updatedAt": "2026-07-05T16:03:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde/detail-5.webp",
+      "hash": "af2042dc56fe53d7c612cceef8901bcb409bc7d869f3c7b6d8705b6b1f5ddbe0",
+      "width": 480,
+      "height": 480,
+      "size": 15480,
+      "createdAt": "2026-07-05T16:03:39Z",
+      "updatedAt": "2026-07-05T16:03:39Z"
+    }
+  ]
+}

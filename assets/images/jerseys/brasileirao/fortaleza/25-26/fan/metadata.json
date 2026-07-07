@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-fortaleza-i-25-26-torcedor-masculina-vermelha-e-azul",
+  "createdAt": "2026-07-04T20:26:44Z",
+  "updatedAt": "2026-07-04T20:26:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fortaleza/25-26/fan/front.webp",
+      "hash": "9a147e31016617d06e5434acbe88497c41c80b0eed784cc7d2868ff151c24e30",
+      "width": 480,
+      "height": 480,
+      "size": 23274,
+      "createdAt": "2026-07-04T20:26:44Z",
+      "updatedAt": "2026-07-04T20:26:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fortaleza/25-26/fan/back.webp",
+      "hash": "a5cd7155c02536e15001c480d7020df161162521ac065089c2252f42f28cbbf0",
+      "width": 480,
+      "height": 480,
+      "size": 73932,
+      "createdAt": "2026-07-04T20:26:44Z",
+      "updatedAt": "2026-07-04T20:26:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fortaleza/25-26/fan/detail-1.webp",
+      "hash": "cf5eaf62f02cf75fd71fa8c834bf8c2755a6a800196412a9fcfa5871a1e59010",
+      "width": 480,
+      "height": 480,
+      "size": 32212,
+      "createdAt": "2026-07-04T20:26:44Z",
+      "updatedAt": "2026-07-04T20:26:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fortaleza/25-26/fan/detail-2.webp",
+      "hash": "c295a905c5113908e7b1caea3d509ba15b68714ee291957346aaef95edb0148b",
+      "width": 480,
+      "height": 480,
+      "size": 21382,
+      "createdAt": "2026-07-04T20:26:44Z",
+      "updatedAt": "2026-07-04T20:26:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fortaleza/25-26/fan/detail-3.webp",
+      "hash": "4506765491e4cec6a46f5ccea01c4367e8a3e3a77f86fd24ef3e5d1596561425",
+      "width": 480,
+      "height": 480,
+      "size": 87138,
+      "createdAt": "2026-07-04T20:26:44Z",
+      "updatedAt": "2026-07-04T20:26:44Z"
+    }
+  ]
+}

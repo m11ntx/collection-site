@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-bahia-i-26-27-torcedor-puma-masculina-branca",
+  "createdAt": "2026-07-05T16:55:22Z",
+  "updatedAt": "2026-07-05T16:55:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-i-26-27-torcedor-puma-masculina-branca/front.webp",
+      "hash": "4cc74fd34221292494c434ebe52fc259c41dfff2e760a6a0a06ca9417d390eaa",
+      "width": 480,
+      "height": 480,
+      "size": 8032,
+      "createdAt": "2026-07-05T16:55:21Z",
+      "updatedAt": "2026-07-05T16:55:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-i-26-27-torcedor-puma-masculina-branca/back.webp",
+      "hash": "98190bb255eda0579821f0632b71605805c4a6e0221bd2f90978e5cd48caec0d",
+      "width": 480,
+      "height": 480,
+      "size": 3294,
+      "createdAt": "2026-07-05T16:55:22Z",
+      "updatedAt": "2026-07-05T16:55:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-i-26-27-torcedor-puma-masculina-branca/detail-1.webp",
+      "hash": "97e80b377901f4c074b50680abcf807a15d3352c2dde1a44202b99477072d448",
+      "width": 480,
+      "height": 480,
+      "size": 25722,
+      "createdAt": "2026-07-05T16:55:22Z",
+      "updatedAt": "2026-07-05T16:55:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-i-26-27-torcedor-puma-masculina-branca/detail-2.webp",
+      "hash": "575004d5ab2c55507d24f33491a94e647635f725feb79b53697df38a2847af7b",
+      "width": 480,
+      "height": 480,
+      "size": 41928,
+      "createdAt": "2026-07-05T16:55:22Z",
+      "updatedAt": "2026-07-05T16:55:22Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-i-1992-1993-masculina-adidas-verde-com-listras-em-branco",
+  "createdAt": "2026-07-04T17:51:16Z",
+  "updatedAt": "2026-07-04T17:51:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/front.webp",
+      "hash": "ea6829497202b1aaa59cc324a6228eb7a45557581c4a7b6ea1a1697e5f30a6b0",
+      "width": 480,
+      "height": 480,
+      "size": 9058,
+      "createdAt": "2026-07-04T17:51:13Z",
+      "updatedAt": "2026-07-04T17:51:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/back.webp",
+      "hash": "5a66d96d0980633df7314438b6a9d21a703adc5ff23920fca2d823c6ad943e27",
+      "width": 480,
+      "height": 480,
+      "size": 16090,
+      "createdAt": "2026-07-04T17:51:13Z",
+      "updatedAt": "2026-07-04T17:51:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/detail-1.webp",
+      "hash": "e896f5873c84baffb065cb61e8810ac3cce8e6626c1e2ec6773cdd110a6014cb",
+      "width": 480,
+      "height": 480,
+      "size": 7558,
+      "createdAt": "2026-07-04T17:51:14Z",
+      "updatedAt": "2026-07-04T17:51:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/detail-2.webp",
+      "hash": "68cc6ecc550cc0aa922ad54ac00c622ab5d3a2bef7c4c9e8029b8d74a8dd2ece",
+      "width": 480,
+      "height": 480,
+      "size": 64112,
+      "createdAt": "2026-07-04T17:51:14Z",
+      "updatedAt": "2026-07-04T17:51:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/detail-3.webp",
+      "hash": "811c3b022b34770eb61470575c4752c1d52d788d0393a8d16e4fdace7c2856cb",
+      "width": 480,
+      "height": 480,
+      "size": 15978,
+      "createdAt": "2026-07-04T17:51:15Z",
+      "updatedAt": "2026-07-04T17:51:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/detail-4.webp",
+      "hash": "a3f17ffd02bd6a31086e7fe07d1eaa27745560f0f0b813da4f941ec1829ffef3",
+      "width": 480,
+      "height": 480,
+      "size": 15836,
+      "createdAt": "2026-07-04T17:51:15Z",
+      "updatedAt": "2026-07-04T17:51:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1992-1993/sem-versao/detail-5.webp",
+      "hash": "781d59647e348f06b29050a906b3040ffa9ea44ab5941557ad46372a4a8f2429",
+      "width": 480,
+      "height": 480,
+      "size": 12914,
+      "createdAt": "2026-07-04T17:51:16Z",
+      "updatedAt": "2026-07-04T17:51:16Z"
+    }
+  ]
+}

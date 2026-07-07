@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-sao-paulo-ii-26-27-torcedor-masculina-listrada",
+  "createdAt": "2026-07-05T16:43:10Z",
+  "updatedAt": "2026-07-05T16:43:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-ii-26-27-torcedor-masculina-listrada/front.webp",
+      "hash": "6dcd96d424c4714fd638d2c139dac1dd4c79fdb909eb9a90c4bc38226e7109de",
+      "width": 480,
+      "height": 480,
+      "size": 17104,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-ii-26-27-torcedor-masculina-listrada/back.webp",
+      "hash": "8f5b30ad5f0e311caa03c4a31fc75e4a26f0f3a30171e2ac5a1c9bb4e449ba16",
+      "width": 480,
+      "height": 480,
+      "size": 14020,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-ii-26-27-torcedor-masculina-listrada/detail-1.webp",
+      "hash": "586334fae30f99acc05b78c035448f48288ad039c7ad4ac08bf5d96f12d607a0",
+      "width": 480,
+      "height": 480,
+      "size": 24368,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    }
+  ]
+}

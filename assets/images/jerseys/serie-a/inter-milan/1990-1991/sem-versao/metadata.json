@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-ii-1990-1991-masculina-uhlsport-branca",
+  "createdAt": "2026-07-04T17:45:47Z",
+  "updatedAt": "2026-07-04T17:45:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1990-1991/sem-versao/front.webp",
+      "hash": "2018ed26ea027c52cf5f26b4362800e53151396e62af5160954d33f7b2b3cc39",
+      "width": 480,
+      "height": 480,
+      "size": 7378,
+      "createdAt": "2026-07-04T17:45:45Z",
+      "updatedAt": "2026-07-04T17:45:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1990-1991/sem-versao/back.webp",
+      "hash": "902ecc2b7e6d9f2244df68f57d3e2e35c97ddf83c927e4ef40e54f3d84f241c0",
+      "width": 480,
+      "height": 480,
+      "size": 11656,
+      "createdAt": "2026-07-04T17:45:45Z",
+      "updatedAt": "2026-07-04T17:45:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1990-1991/sem-versao/detail-1.webp",
+      "hash": "78dd9ee96c5e151db852680953456d49ab6f0ca56c01c40e6454ad00c961fd10",
+      "width": 480,
+      "height": 480,
+      "size": 3642,
+      "createdAt": "2026-07-04T17:45:46Z",
+      "updatedAt": "2026-07-04T17:45:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1990-1991/sem-versao/detail-2.webp",
+      "hash": "5cfae68462aeb1e3360b47b6532707035e91de488476bad55dff3f23b95fe0bd",
+      "width": 480,
+      "height": 480,
+      "size": 35308,
+      "createdAt": "2026-07-04T17:45:46Z",
+      "updatedAt": "2026-07-04T17:45:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1990-1991/sem-versao/detail-3.webp",
+      "hash": "e8a65733ad2474e54c388e263032d881a6fd74b957c9ed1b7d39f7d675f2916d",
+      "width": 480,
+      "height": 480,
+      "size": 37242,
+      "createdAt": "2026-07-04T17:45:46Z",
+      "updatedAt": "2026-07-04T17:45:46Z"
+    }
+  ]
+}

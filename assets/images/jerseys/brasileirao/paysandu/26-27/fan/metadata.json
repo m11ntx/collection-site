@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-paysandu-lobo-26-27-uniforme-i-torcedor-masculina",
+  "createdAt": "2026-07-04T20:28:23Z",
+  "updatedAt": "2026-07-04T20:28:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/paysandu/26-27/fan/front.webp",
+      "hash": "209b920cb788578c9d6d19413cee014e88ac0471f4f9cf7888238a7c7e2f96f4",
+      "width": 480,
+      "height": 480,
+      "size": 12590,
+      "createdAt": "2026-07-04T20:28:23Z",
+      "updatedAt": "2026-07-04T20:28:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/paysandu/26-27/fan/back.webp",
+      "hash": "3eb938e18411701ee68e52e6c4e2e2c6123c0786f19573dbb35a172313582db9",
+      "width": 480,
+      "height": 480,
+      "size": 10714,
+      "createdAt": "2026-07-04T20:28:23Z",
+      "updatedAt": "2026-07-04T20:28:23Z"
+    }
+  ]
+}

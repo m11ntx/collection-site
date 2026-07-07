@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-away-retro-2003-04-preta-nike",
+  "createdAt": "2026-07-04T17:31:29Z",
+  "updatedAt": "2026-07-04T21:05:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/front.webp",
+      "hash": "9a2f4003bc8833b954cce3a6660386a50842cc3f5491cded1ca4b65bd51f21ef",
+      "width": 480,
+      "height": 480,
+      "size": 7444,
+      "createdAt": "2026-07-04T17:31:28Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/back.webp",
+      "hash": "66b1ea592877c58c4f3eec85f6aab0898cada49aba1762b69660de6bc52118b5",
+      "width": 480,
+      "height": 480,
+      "size": 8950,
+      "createdAt": "2026-07-04T17:31:28Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/detail-1.webp",
+      "hash": "8c2cd045e4cc08b0019ecee9a38238161cd108a228bf463f5d679336a6264d9d",
+      "width": 480,
+      "height": 480,
+      "size": 16414,
+      "createdAt": "2026-07-04T17:31:29Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/detail-2.webp",
+      "hash": "0146fe0823415009ce2d3df8a34785730d3928876c5d8bab5ca0ca2c130a0f6c",
+      "width": 480,
+      "height": 480,
+      "size": 5272,
+      "createdAt": "2026-07-04T21:05:58Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/detail-3.webp",
+      "hash": "d282179a5d00234b85e11b3bf41568ec637a0e198cb4f96f3f88008e9386f52d",
+      "width": 480,
+      "height": 480,
+      "size": 9108,
+      "createdAt": "2026-07-04T21:05:58Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/detail-4.webp",
+      "hash": "c2ef3cc3c0a099f19ace7c7f1f2e864640f8a17306b4ba1e0e7d5b66908e0173",
+      "width": 480,
+      "height": 480,
+      "size": 9192,
+      "createdAt": "2026-07-04T21:05:58Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2003-04/sem-versao/detail-5.webp",
+      "hash": "96b89f45ae616da67fd0a26cfc71262dd12aa6adb8d7f4bbfcd852329ab6563b",
+      "width": 480,
+      "height": 480,
+      "size": 16890,
+      "createdAt": "2026-07-04T21:05:58Z",
+      "updatedAt": "2026-07-04T21:05:58Z"
+    }
+  ]
+}

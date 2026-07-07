@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25",
+  "createdAt": "2026-07-05T16:01:53Z",
+  "updatedAt": "2026-07-05T16:01:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25/front.webp",
+      "hash": "5bee466b8968ff664511d748d51e2def95044201bb6400ad6e39dea31d8d83bd",
+      "width": 480,
+      "height": 480,
+      "size": 7206,
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25/back.webp",
+      "hash": "13991a6c4891fe47f6b260422114a6d9d5f1763a11c215263408359f4a067ba6",
+      "width": 480,
+      "height": 480,
+      "size": 4522,
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25/detail-1.webp",
+      "hash": "06a99713e3ccca886154aa56f7ab2ef5ffb999e68f669f391f8da923b178941e",
+      "width": 480,
+      "height": 480,
+      "size": 25298,
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25/detail-2.webp",
+      "hash": "19ca6f19024b51390d5f47abe27e654006b143f07b5c132f9c9358ce05a91519",
+      "width": 480,
+      "height": 480,
+      "size": 23362,
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25/detail-3.webp",
+      "hash": "6eafc098e6db30910adb567bf3be34e16cc23fc26e2373d8eb35efe64922a504",
+      "width": 480,
+      "height": 480,
+      "size": 34852,
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
+    }
+  ]
+}

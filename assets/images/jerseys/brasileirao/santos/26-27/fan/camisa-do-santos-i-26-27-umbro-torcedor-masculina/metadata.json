@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-santos-i-26-27-umbro-torcedor-masculina",
+  "createdAt": "2026-07-05T02:59:06Z",
+  "updatedAt": "2026-07-05T02:59:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-do-santos-i-26-27-umbro-torcedor-masculina/front.webp",
+      "hash": "c9b1a23830aa311e070368ded95ef582efaac97e3a1bae16d7fc365563d5839b",
+      "width": 480,
+      "height": 480,
+      "size": 5522,
+      "createdAt": "2026-07-05T02:59:06Z",
+      "updatedAt": "2026-07-05T02:59:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-do-santos-i-26-27-umbro-torcedor-masculina/back.webp",
+      "hash": "ad0c4fa010a8e78c273e9ef59dc2db8dfcd6c09f8a1ed0cfbc1638673d90e569",
+      "width": 480,
+      "height": 480,
+      "size": 2332,
+      "createdAt": "2026-07-05T02:59:06Z",
+      "updatedAt": "2026-07-05T02:59:06Z"
+    }
+  ]
+}

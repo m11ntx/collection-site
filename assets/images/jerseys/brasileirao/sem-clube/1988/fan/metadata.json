@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-bahia-retro-1988-esquadrao-masculina",
+  "createdAt": "2026-07-04T18:29:06Z",
+  "updatedAt": "2026-07-04T18:29:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/1988/fan/front.webp",
+      "hash": "efa86703e2e0a918c3ccfc45d31a81f9b0b86263ed65077a837bd06c7263d7da",
+      "width": 480,
+      "height": 480,
+      "size": 16552,
+      "createdAt": "2026-07-04T18:29:05Z",
+      "updatedAt": "2026-07-04T18:29:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/1988/fan/back.webp",
+      "hash": "61d23dd490c0ba25b0b58751002a0d3652ef25203da490a2195a2177325a9d89",
+      "width": 480,
+      "height": 480,
+      "size": 12412,
+      "createdAt": "2026-07-04T18:29:06Z",
+      "updatedAt": "2026-07-04T18:29:06Z"
+    }
+  ]
+}

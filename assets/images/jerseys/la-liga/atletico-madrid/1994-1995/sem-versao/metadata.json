@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-retro-1994-1995-branca-e-vermelha-puma",
+  "createdAt": "2026-07-04T17:15:30Z",
+  "updatedAt": "2026-07-04T17:15:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/front.webp",
+      "hash": "2955c3469c23ab45228ff1a75d33aeedcfa0cee4e28e2b52d3a3031586fb455d",
+      "width": 480,
+      "height": 480,
+      "size": 15018,
+      "createdAt": "2026-07-04T17:15:28Z",
+      "updatedAt": "2026-07-04T17:15:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/back.webp",
+      "hash": "13844f6276d4af7231fd485787c50b71876a7bcf20ac526ff51d0f6531c9a9aa",
+      "width": 480,
+      "height": 480,
+      "size": 12200,
+      "createdAt": "2026-07-04T17:15:28Z",
+      "updatedAt": "2026-07-04T17:15:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/detail-1.webp",
+      "hash": "23fba4869391034bec9cfc2cac7c6889821c1f5dbba7db0208fa7f53bc2ab8e3",
+      "width": 480,
+      "height": 480,
+      "size": 23624,
+      "createdAt": "2026-07-04T17:15:28Z",
+      "updatedAt": "2026-07-04T17:15:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/detail-2.webp",
+      "hash": "e36a7875e41cd15d2341f8d025e86f77ada748509c8613f86166d2876317a3e4",
+      "width": 480,
+      "height": 480,
+      "size": 26952,
+      "createdAt": "2026-07-04T17:15:29Z",
+      "updatedAt": "2026-07-04T17:15:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/detail-3.webp",
+      "hash": "7d87ba8b2021c12efdd6f68d62896905aba9c34eefd1cc695eae6743e007377c",
+      "width": 480,
+      "height": 480,
+      "size": 41008,
+      "createdAt": "2026-07-04T17:15:29Z",
+      "updatedAt": "2026-07-04T17:15:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/detail-4.webp",
+      "hash": "d74decdabdfb0d004ac39029a5fa01f487cd89095ebb07a30f0a87c06d9b5f8e",
+      "width": 480,
+      "height": 480,
+      "size": 27114,
+      "createdAt": "2026-07-04T17:15:30Z",
+      "updatedAt": "2026-07-04T17:15:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/1994-1995/sem-versao/detail-5.webp",
+      "hash": "09aa192a4e9325ee247f443f1adecc800a666a008045cfeb1fa682fabc9f03b7",
+      "width": 480,
+      "height": 480,
+      "size": 17006,
+      "createdAt": "2026-07-04T17:15:30Z",
+      "updatedAt": "2026-07-04T17:15:30Z"
+    }
+  ]
+}

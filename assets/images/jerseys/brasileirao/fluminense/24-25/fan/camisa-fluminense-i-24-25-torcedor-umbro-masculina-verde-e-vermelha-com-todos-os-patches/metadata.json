@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches",
+  "createdAt": "2026-07-05T16:04:51Z",
+  "updatedAt": "2026-07-05T16:04:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/front.webp",
+      "hash": "ab2a8a13e2a847fdb15cfae30ef5ab91c6b6170e0ba572954a92e338f871f7ed",
+      "width": 480,
+      "height": 480,
+      "size": 12502,
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/back.webp",
+      "hash": "53f0a03487b80a79d155df682b27d34f8ab43f718e4417138198ced6f569bea1",
+      "width": 480,
+      "height": 480,
+      "size": 12134,
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/detail-1.webp",
+      "hash": "1d9a299134751af6452d1521ff9b10a53d1374bc700d98aab0f4e668e4a13561",
+      "width": 480,
+      "height": 480,
+      "size": 9402,
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/detail-2.webp",
+      "hash": "f75dbcf8c6e403c322a9c0c32f3518efb5640d4f5a5def6c5e9537029e583021",
+      "width": 480,
+      "height": 480,
+      "size": 67778,
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/detail-3.webp",
+      "hash": "871f0f55149f3d3808128e2b18ca961bd785e86c6fab011f44bb5e31cbb5742c",
+      "width": 480,
+      "height": 480,
+      "size": 70150,
+      "createdAt": "2026-07-05T16:04:51Z",
+      "updatedAt": "2026-07-05T16:04:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/detail-4.webp",
+      "hash": "14a305e9b2bb26a78c5bce8d4123be35f55e663068122e56a56327569fac7e68",
+      "width": 480,
+      "height": 480,
+      "size": 23468,
+      "createdAt": "2026-07-05T16:04:51Z",
+      "updatedAt": "2026-07-05T16:04:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-i-24-25-torcedor-umbro-masculina-verde-e-vermelha-com-todos-os-patches/detail-5.webp",
+      "hash": "ab5fc61f2355009c2616ac29bf4db16a4997d44f0e3839b9926d451974cfd665",
+      "width": 480,
+      "height": 480,
+      "size": 50940,
+      "createdAt": "2026-07-05T16:04:51Z",
+      "updatedAt": "2026-07-05T16:04:51Z"
+    }
+  ]
+}

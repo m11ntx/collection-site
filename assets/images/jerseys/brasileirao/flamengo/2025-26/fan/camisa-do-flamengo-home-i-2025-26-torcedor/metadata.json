@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-do-flamengo-home-i-2025-26-torcedor",
+  "createdAt": "2026-07-05T06:08:59Z",
+  "updatedAt": "2026-07-05T06:08:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-torcedor/front.webp",
+      "hash": "0cf144c13316f4cea70dafb286f2088b4ee9e91d83bcb3910e2c84e63864f80d",
+      "width": 480,
+      "height": 480,
+      "size": 12840,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-torcedor/back.webp",
+      "hash": "d8ce54d3e5791a3c43766a071517096c38d58046545d42ed5edaa253c29fb1b3",
+      "width": 480,
+      "height": 480,
+      "size": 10148,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-torcedor/detail-1.webp",
+      "hash": "28c465bd7fee0167c69087ca145be33e8822d5bd8f5fafd854f44ef1295b4d8e",
+      "width": 480,
+      "height": 480,
+      "size": 20790,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-torcedor/detail-2.webp",
+      "hash": "e012294e9f4415ee4812c90b2fbf8a3d0c2a379bff738d456bd2b70a4d479106",
+      "width": 480,
+      "height": 480,
+      "size": 29450,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    }
+  ]
+}

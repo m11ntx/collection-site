@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-i-25-26-torcedor-umbro-masculina-azul-preto",
+  "createdAt": "2026-07-05T16:05:38Z",
+  "updatedAt": "2026-07-05T16:05:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/25-26/fan/camisa-gremio-i-25-26-torcedor-umbro-masculina-azul-preto/front.webp",
+      "hash": "c9846a32b01c57c36e4b646338d13bc8c580d7bbb13428cf7b9ecd32ba52d8f8",
+      "width": 480,
+      "height": 480,
+      "size": 14450,
+      "createdAt": "2026-07-05T16:05:38Z",
+      "updatedAt": "2026-07-05T16:05:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/25-26/fan/camisa-gremio-i-25-26-torcedor-umbro-masculina-azul-preto/back.webp",
+      "hash": "0b50a2e7bbfdc31133efefe4f09252bfad8c502d127956333e472ea34914b974",
+      "width": 480,
+      "height": 480,
+      "size": 12058,
+      "createdAt": "2026-07-05T16:05:38Z",
+      "updatedAt": "2026-07-05T16:05:38Z"
+    }
+  ]
+}

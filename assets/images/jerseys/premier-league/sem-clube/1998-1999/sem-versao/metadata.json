@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-newcastle-united-ii-retro-1998-1999-masculina-adidas-azul-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T17:52:39Z",
+  "updatedAt": "2026-07-04T17:52:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/front.webp",
+      "hash": "5dc5bc4d3b311d8cc2e3859a229bbbb2f19aaa5a4b3f1ab753bb84a601a7f0d6",
+      "width": 480,
+      "height": 480,
+      "size": 12214,
+      "createdAt": "2026-07-04T17:52:36Z",
+      "updatedAt": "2026-07-04T17:52:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/back.webp",
+      "hash": "6c738ed7d0d299081e9ce181c1f93b3746d2073d1c899b5dcfc19b5d906fc770",
+      "width": 480,
+      "height": 480,
+      "size": 9610,
+      "createdAt": "2026-07-04T17:52:37Z",
+      "updatedAt": "2026-07-04T17:52:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/detail-1.webp",
+      "hash": "7a71116c4dacb0c8d009916e1f2e2bfdcad23649fa4c2ee1a6d369f62fcf1d40",
+      "width": 480,
+      "height": 480,
+      "size": 22554,
+      "createdAt": "2026-07-04T17:52:37Z",
+      "updatedAt": "2026-07-04T17:52:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/detail-2.webp",
+      "hash": "4ff2f2f2f624f36035c872dd18523d40b51fac023cea7536a702eeef84ba673d",
+      "width": 480,
+      "height": 480,
+      "size": 97430,
+      "createdAt": "2026-07-04T17:52:37Z",
+      "updatedAt": "2026-07-04T17:52:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/detail-3.webp",
+      "hash": "cb4e259b0a8cf05b26e860b9ff11e8578b39df3718dacf51c83dbf9fe9706931",
+      "width": 480,
+      "height": 480,
+      "size": 29824,
+      "createdAt": "2026-07-04T17:52:38Z",
+      "updatedAt": "2026-07-04T17:52:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/detail-4.webp",
+      "hash": "9ad2db573e7c989ad8e0392734cee5eabce9d672eb38fa08ae5fe10e4646424c",
+      "width": 480,
+      "height": 480,
+      "size": 30690,
+      "createdAt": "2026-07-04T17:52:38Z",
+      "updatedAt": "2026-07-04T17:52:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/sem-clube/1998-1999/sem-versao/detail-5.webp",
+      "hash": "845c350fc7853ca92e100a090f661734a0d475368bded1dfac9ddf72275a74d7",
+      "width": 480,
+      "height": 480,
+      "size": 35104,
+      "createdAt": "2026-07-04T17:52:39Z",
+      "updatedAt": "2026-07-04T17:52:39Z"
+    }
+  ]
+}

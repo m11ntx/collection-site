@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-corinthians-retro-2012-13-preto",
+  "createdAt": "2026-07-04T18:30:14Z",
+  "updatedAt": "2026-07-04T20:27:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2012-13/fan/front.webp",
+      "hash": "7683a30f24be8cfa43d18c6000bec531c129fdbea7e4c2213d6b66665d9a1cb8",
+      "width": 480,
+      "height": 480,
+      "size": 11060,
+      "createdAt": "2026-07-04T18:30:14Z",
+      "updatedAt": "2026-07-04T20:27:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2012-13/fan/back.webp",
+      "hash": "7ad957bfbe4bfe82185af5e92cbd0d5ce732cd0181d63faf111ae8e65586e26e",
+      "width": 480,
+      "height": 480,
+      "size": 25244,
+      "createdAt": "2026-07-04T18:30:14Z",
+      "updatedAt": "2026-07-04T20:27:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2012-13/fan/detail-1.webp",
+      "hash": "ed8689cb96a604431fae144ba8adc15320ca94afa96312dfd2d8652e72560aab",
+      "width": 480,
+      "height": 480,
+      "size": 8054,
+      "createdAt": "2026-07-04T20:27:12Z",
+      "updatedAt": "2026-07-04T20:27:12Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-vasco",
+  "createdAt": "2026-07-04T20:25:13Z",
+  "updatedAt": "2026-07-04T20:25:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/sem-temporada/sem-versao/front.webp",
+      "hash": "136f0da90aa2ddc562874d2795bbdc3b9f01afa040a66edfda6f76f13d6d7ac3",
+      "width": 480,
+      "height": 480,
+      "size": 8926,
+      "createdAt": "2026-07-04T20:25:13Z",
+      "updatedAt": "2026-07-04T20:25:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/sem-temporada/sem-versao/back.webp",
+      "hash": "1a675fc1b06240b35d6e33ffe6aa2bda70180fc60ade60f572e0924b0efe964c",
+      "width": 480,
+      "height": 480,
+      "size": 19340,
+      "createdAt": "2026-07-04T20:25:13Z",
+      "updatedAt": "2026-07-04T20:25:13Z"
+    }
+  ]
+}

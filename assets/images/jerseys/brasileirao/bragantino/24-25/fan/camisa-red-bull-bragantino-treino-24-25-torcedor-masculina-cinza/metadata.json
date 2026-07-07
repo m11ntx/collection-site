@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza",
+  "createdAt": "2026-07-05T16:55:38Z",
+  "updatedAt": "2026-07-05T16:55:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/front.webp",
+      "hash": "a594bcac965c7f40bd589603fbfd96e7c0584a07e7a4d33c31284bf806b3a72d",
+      "width": 480,
+      "height": 480,
+      "size": 22992,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/back.webp",
+      "hash": "7646336629bf3df9aed30c5d867ee924afc06543b45b61f8a8c3ca8665d8ecce",
+      "width": 480,
+      "height": 480,
+      "size": 19980,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/detail-1.webp",
+      "hash": "606db251cc40243654a90870d9b9ab22bcaf9a806b6995d75fffdb152d1ab208",
+      "width": 480,
+      "height": 480,
+      "size": 21918,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/detail-2.webp",
+      "hash": "c6f41d469404737d363eabad8fda757f487b0eeac9f9a13ada6fe22573389f85",
+      "width": 480,
+      "height": 480,
+      "size": 41916,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/detail-3.webp",
+      "hash": "81cda290625ab77989cc2709b0eb13740b5889512611d2926404ff23ff61f532",
+      "width": 480,
+      "height": 480,
+      "size": 50326,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-cinza/detail-4.webp",
+      "hash": "f4c764e3c4c279bbb871b1d741d3b21d9e8f01701409459c1dff9bf262fd7f25",
+      "width": 480,
+      "height": 480,
+      "size": 56124,
+      "createdAt": "2026-07-05T16:55:37Z",
+      "updatedAt": "2026-07-05T16:55:37Z"
+    }
+  ]
+}

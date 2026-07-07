@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela",
+  "createdAt": "2026-07-05T16:01:46Z",
+  "updatedAt": "2026-07-05T16:01:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/front.webp",
+      "hash": "d972c792321d15e3980c4b00a15f60fb7eecf619543f16240a316dcd0496d7cb",
+      "width": 480,
+      "height": 480,
+      "size": 17164,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/back.webp",
+      "hash": "3f79eeb0502e38ec8ac919b4f5a3df05455438f42a184a1f5476391b6a059175",
+      "width": 480,
+      "height": 480,
+      "size": 14512,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/detail-1.webp",
+      "hash": "d4c4a6e9571bab0df50b6c3c4aaf84df781ddc5f0fef909502524a572168c9f1",
+      "width": 480,
+      "height": 480,
+      "size": 17262,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/detail-2.webp",
+      "hash": "d6a419b564e206fe9ea6034095b779297e9f391de14ec7035b27542407f16c36",
+      "width": 480,
+      "height": 480,
+      "size": 53036,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/detail-3.webp",
+      "hash": "2c9b7170aa36e2dff36f59d92e068e95fe4feb97874a5822865dd462ebe4146a",
+      "width": 480,
+      "height": 480,
+      "size": 52464,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-amarela/detail-4.webp",
+      "hash": "cb40af321c5ce87d0b5a3e7f0b6641a3cf8656681e84975ac5810b5dac86e675",
+      "width": 480,
+      "height": 480,
+      "size": 27984,
+      "createdAt": "2026-07-05T16:01:45Z",
+      "updatedAt": "2026-07-05T16:01:45Z"
+    }
+  ]
+}

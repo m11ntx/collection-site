@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa",
+  "createdAt": "2026-07-05T06:21:23Z",
+  "updatedAt": "2026-07-05T06:21:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/front.webp",
+      "hash": "aae2c25592a3cc25b83d3f208ece7dc97fff9613ab138dd1e23a797de107e916",
+      "width": 480,
+      "height": 480,
+      "size": 8240,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/back.webp",
+      "hash": "8330052ec41606f3e0c350435b7b398bd4226522d337f7b8a4605b75be496828",
+      "width": 480,
+      "height": 480,
+      "size": 11826,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/detail-1.webp",
+      "hash": "d01c64c13f001829b3e0b255b4120f7d98257569b3ce011682ba28c6043c7798",
+      "width": 480,
+      "height": 480,
+      "size": 5220,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/detail-2.webp",
+      "hash": "1c16b72ff789d363ec5a8b0fce924da01b0c653e03219a8d26faaf1df8ff409d",
+      "width": 480,
+      "height": 480,
+      "size": 19802,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/detail-3.webp",
+      "hash": "7e4a044d86eba67353232391b946d2acc878155c2e39ff18faeaf5b2c4cd6b8f",
+      "width": 480,
+      "height": 480,
+      "size": 55492,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/detail-4.webp",
+      "hash": "b891d89424ee8850d8551f974361401a1850b020f5066285f8bb2acca7379326",
+      "width": 480,
+      "height": 480,
+      "size": 51950,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa/detail-5.webp",
+      "hash": "045b4df6cd4652a8f025e7be910d8b9dcfc0bed8c7220fe3eb3dc5d444856642",
+      "width": 480,
+      "height": 480,
+      "size": 21606,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    }
+  ]
+}

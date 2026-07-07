@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-bahia-2024-torcedor-esquadrao-feminina-branca",
+  "createdAt": "2026-07-04T20:25:08Z",
+  "updatedAt": "2026-07-04T20:25:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/2024/fan/front.webp",
+      "hash": "be66a0ca6617e88a3f1724431ef246d2c2951830889a36de19b8c56477d2d911",
+      "width": 480,
+      "height": 480,
+      "size": 10230,
+      "createdAt": "2026-07-04T20:25:08Z",
+      "updatedAt": "2026-07-04T20:25:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/2024/fan/back.webp",
+      "hash": "8accc5d938de48ef740ce8ffd6aa6239298d955b7c3fb77b93f318ea18f0405a",
+      "width": 480,
+      "height": 480,
+      "size": 33886,
+      "createdAt": "2026-07-04T20:25:08Z",
+      "updatedAt": "2026-07-04T20:25:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/2024/fan/detail-1.webp",
+      "hash": "7ce8f6d950e1f5eb7155260acd230366f036592d8bc0e734a1a770160c11987d",
+      "width": 480,
+      "height": 480,
+      "size": 6510,
+      "createdAt": "2026-07-04T20:25:08Z",
+      "updatedAt": "2026-07-04T20:25:08Z"
+    }
+  ]
+}

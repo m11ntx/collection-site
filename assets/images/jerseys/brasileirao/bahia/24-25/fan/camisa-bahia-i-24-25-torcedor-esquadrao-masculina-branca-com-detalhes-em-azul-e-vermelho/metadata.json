@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-05T16:55:21Z",
+  "updatedAt": "2026-07-05T16:55:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/front.webp",
+      "hash": "dc114792132190e4f2b1be2e31e06a36934d581ea26691c7f611c49e8cb2d597",
+      "width": 480,
+      "height": 480,
+      "size": 7226,
+      "createdAt": "2026-07-05T16:55:20Z",
+      "updatedAt": "2026-07-05T16:55:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/back.webp",
+      "hash": "a5d30c4cdfe7b1d0df6cae961eb02ea71cd4958f22f0a6b6d25d08371ce0891b",
+      "width": 480,
+      "height": 480,
+      "size": 4350,
+      "createdAt": "2026-07-05T16:55:20Z",
+      "updatedAt": "2026-07-05T16:55:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/detail-1.webp",
+      "hash": "4b0158d605440b4f9bb86e5b0a19cd75a51cf06772bfb7173907b437ff1871e2",
+      "width": 480,
+      "height": 480,
+      "size": 28882,
+      "createdAt": "2026-07-05T16:55:21Z",
+      "updatedAt": "2026-07-05T16:55:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/detail-2.webp",
+      "hash": "27e5f13ca59ceb55c19aab0c3c1941ae47cef1cc7f6028f32b455a03a8fa78c1",
+      "width": 480,
+      "height": 480,
+      "size": 10958,
+      "createdAt": "2026-07-05T16:55:21Z",
+      "updatedAt": "2026-07-05T16:55:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/detail-3.webp",
+      "hash": "1feb47190dd7ddb89b8c1fc1495319a93b8a3ea250e62b73ea359c402f70b6d4",
+      "width": 480,
+      "height": 480,
+      "size": 26254,
+      "createdAt": "2026-07-05T16:55:21Z",
+      "updatedAt": "2026-07-05T16:55:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho/detail-4.webp",
+      "hash": "cfb0e7217b6c6db6ea791c2da5db85053870d0036223be76f96f57437c8b5007",
+      "width": 480,
+      "height": 480,
+      "size": 17140,
+      "createdAt": "2026-07-05T16:55:21Z",
+      "updatedAt": "2026-07-05T16:55:21Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-irlanda-retro-1988-verde-adidas",
+  "createdAt": "2026-07-04T17:10:21Z",
+  "updatedAt": "2026-07-04T21:04:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/front.webp",
+      "hash": "218a3ccf44da98eb9b6c4d3797f3a38f41ef6a2392f049e8f692aabac8dbc0a7",
+      "width": 480,
+      "height": 480,
+      "size": 11644,
+      "createdAt": "2026-07-04T17:10:18Z",
+      "updatedAt": "2026-07-04T21:04:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/back.webp",
+      "hash": "ea41af98b205ea66f0a271ff0510965995a0bba8bd92bb226c0d4d20f8df0280",
+      "width": 480,
+      "height": 480,
+      "size": 9932,
+      "createdAt": "2026-07-04T17:10:18Z",
+      "updatedAt": "2026-07-04T21:04:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/detail-1.webp",
+      "hash": "ec3d82def57c393f6b164b33bff9c7fb12bc92174e26f632dcffdcef96cb1c95",
+      "width": 480,
+      "height": 480,
+      "size": 37892,
+      "createdAt": "2026-07-04T17:10:19Z",
+      "updatedAt": "2026-07-04T21:04:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/detail-2.webp",
+      "hash": "69f6c4961caecfa98dd6d442a8ed807f2cff3c5c5ab445d7ea2a2b1aff179439",
+      "width": 480,
+      "height": 480,
+      "size": 22910,
+      "createdAt": "2026-07-04T17:10:19Z",
+      "updatedAt": "2026-07-04T21:04:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/detail-3.webp",
+      "hash": "75295369d3ce48d83a5d1d93a427e95739673c1a247d78e832c861aefc2504c9",
+      "width": 480,
+      "height": 480,
+      "size": 100584,
+      "createdAt": "2026-07-04T17:10:19Z",
+      "updatedAt": "2026-07-04T21:04:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/detail-4.webp",
+      "hash": "d8ed73e672d1be461b9d82404c81111de96e12f6d2e65fdff9a0b93fc52fe08b",
+      "width": 480,
+      "height": 480,
+      "size": 55446,
+      "createdAt": "2026-07-04T17:10:20Z",
+      "updatedAt": "2026-07-04T21:04:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1988/sem-versao/detail-5.webp",
+      "hash": "dffcdbd115e34aa624afcded9f0e07813c3ce5e7fef1596fd9d328bf2adb1ad8",
+      "width": 480,
+      "height": 480,
+      "size": 44760,
+      "createdAt": "2026-07-04T17:10:21Z",
+      "updatedAt": "2026-07-04T21:04:31Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-da-selecao-do-haiti-26-27-masculina-modelo-torcedor",
+  "createdAt": "2026-07-04T18:40:39Z",
+  "updatedAt": "2026-07-04T18:40:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/sem-clube/26-27/fan/front.webp",
+      "hash": "d21316542ef82f494b3b7e5b5b166e164faf2fd58512981c52836d5c9b088e24",
+      "width": 480,
+      "height": 480,
+      "size": 15672,
+      "createdAt": "2026-07-04T18:40:39Z",
+      "updatedAt": "2026-07-04T18:40:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/sem-clube/26-27/fan/back.webp",
+      "hash": "e8e2b60634149bafb59245092c40f8794f8ea8d18bbad340b5d1d7b9db357e13",
+      "width": 480,
+      "height": 480,
+      "size": 13790,
+      "createdAt": "2026-07-04T18:40:40Z",
+      "updatedAt": "2026-07-04T18:40:40Z"
+    }
+  ]
+}

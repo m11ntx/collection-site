@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-away-25-26-torcedor-puma-masculina-branco-patrocinio",
+  "createdAt": "2026-07-05T06:21:17Z",
+  "updatedAt": "2026-07-05T06:21:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-away-25-26-torcedor-puma-masculina-branco-patrocinio/front.webp",
+      "hash": "ab06d1c6d8de0779e5c14b6d5d94625d55a8f30cb8ada075176cfc3bc494267a",
+      "width": 480,
+      "height": 480,
+      "size": 15452,
+      "createdAt": "2026-07-05T06:21:17Z",
+      "updatedAt": "2026-07-05T06:21:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-away-25-26-torcedor-puma-masculina-branco-patrocinio/back.webp",
+      "hash": "48e46312af212884bdb05f162630ca2d84acdf29c5091dfa32a6d0bebfdf78b7",
+      "width": 480,
+      "height": 480,
+      "size": 6690,
+      "createdAt": "2026-07-05T06:21:17Z",
+      "updatedAt": "2026-07-05T06:21:17Z"
+    }
+  ]
+}

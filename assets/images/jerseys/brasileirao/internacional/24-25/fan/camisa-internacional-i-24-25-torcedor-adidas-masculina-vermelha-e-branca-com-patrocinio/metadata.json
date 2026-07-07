@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca-com-patrocinio",
+  "createdAt": "2026-07-05T05:51:03Z",
+  "updatedAt": "2026-07-05T05:51:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca-com-patrocinio/front.webp",
+      "hash": "2505148ed21d1bfdbecf12167b1aed668ae03ec6ddeb764ff9a902d2b0e811e9",
+      "width": 480,
+      "height": 480,
+      "size": 12280,
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca-com-patrocinio/back.webp",
+      "hash": "a1e796bbd65f779762b7ccde33bc712ee9a74ce2632fffa8f64aaeaa005cfe73",
+      "width": 480,
+      "height": 480,
+      "size": 9100,
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca-com-patrocinio/detail-1.webp",
+      "hash": "cef47f9c25b4f08056a73bf5a8250259321534538ec303416a17fa3aa069fd85",
+      "width": 480,
+      "height": 480,
+      "size": 62504,
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca-com-patrocinio/detail-2.webp",
+      "hash": "d1fbf0d99ffc7e3e751a44fd60e411d9db010b9d77c9c18598be124f326927f4",
+      "width": 480,
+      "height": 480,
+      "size": 57932,
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
+    }
+  ]
+}

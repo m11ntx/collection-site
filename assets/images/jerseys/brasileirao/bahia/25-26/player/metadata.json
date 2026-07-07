@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-bahia-jogador-fora-25-26-tricolor-masculina",
+  "createdAt": "2026-07-04T20:26:51Z",
+  "updatedAt": "2026-07-04T20:26:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/player/front.webp",
+      "hash": "5dd9fd7f7a4e1ebb1083b5de03beadb961f1197133d47298d3234e4531536c66",
+      "width": 480,
+      "height": 480,
+      "size": 17334,
+      "createdAt": "2026-07-04T20:26:50Z",
+      "updatedAt": "2026-07-04T20:26:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/player/back.webp",
+      "hash": "d7c0c5a2ba91b47726adf0af4308a98598d04873a6c79c3d4285b12cb75c9c33",
+      "width": 480,
+      "height": 480,
+      "size": 16886,
+      "createdAt": "2026-07-04T20:26:50Z",
+      "updatedAt": "2026-07-04T20:26:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/player/detail-1.webp",
+      "hash": "26841798142f97477cf7d2c9d7cf87c4d15cf11bfc08c8473018ab0767909c96",
+      "width": 480,
+      "height": 480,
+      "size": 61674,
+      "createdAt": "2026-07-04T20:26:50Z",
+      "updatedAt": "2026-07-04T20:26:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/player/detail-2.webp",
+      "hash": "8f90a3587010aa7e3e19d4971e8f7f60f650423164fbec4f3aebbaab537e65cd",
+      "width": 480,
+      "height": 480,
+      "size": 37214,
+      "createdAt": "2026-07-04T20:26:50Z",
+      "updatedAt": "2026-07-04T20:26:51Z"
+    }
+  ]
+}

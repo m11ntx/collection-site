@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-gremio-i-24-25-torcedor-umbro-masculina-branca-e-preta",
+  "createdAt": "2026-07-05T16:05:37Z",
+  "updatedAt": "2026-07-05T16:05:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-i-24-25-torcedor-umbro-masculina-branca-e-preta/front.webp",
+      "hash": "c01421a7011646b9565fe78b1aeccbda16b13b15b2b1c2bc5771d59af9db46c4",
+      "width": 480,
+      "height": 480,
+      "size": 13002,
+      "createdAt": "2026-07-05T16:05:37Z",
+      "updatedAt": "2026-07-05T16:05:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-i-24-25-torcedor-umbro-masculina-branca-e-preta/back.webp",
+      "hash": "723c680379e4c706f78cb9f5353932bdcfb237694ff4e2012e6aafe64ad954ae",
+      "width": 480,
+      "height": 480,
+      "size": 13810,
+      "createdAt": "2026-07-05T16:05:37Z",
+      "updatedAt": "2026-07-05T16:05:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-i-24-25-torcedor-umbro-masculina-branca-e-preta/detail-1.webp",
+      "hash": "586fbb738df5f32232932d1abf0081054aafa36d057ad8c6269dfb73e542c76d",
+      "width": 480,
+      "height": 480,
+      "size": 11280,
+      "createdAt": "2026-07-05T16:05:37Z",
+      "updatedAt": "2026-07-05T16:05:37Z"
+    }
+  ]
+}

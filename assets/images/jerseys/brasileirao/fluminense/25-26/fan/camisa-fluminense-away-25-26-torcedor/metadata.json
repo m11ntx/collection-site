@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-fluminense-away-25-26-torcedor",
+  "createdAt": "2026-07-05T16:04:47Z",
+  "updatedAt": "2026-07-05T16:04:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/25-26/fan/camisa-fluminense-away-25-26-torcedor/front.webp",
+      "hash": "7c0374d7f8152c8c29e6b99aa991db1a7017d77ddf9d16dc3ac7a424dd731f0e",
+      "width": 480,
+      "height": 480,
+      "size": 9356,
+      "createdAt": "2026-07-05T16:04:46Z",
+      "updatedAt": "2026-07-05T16:04:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/25-26/fan/camisa-fluminense-away-25-26-torcedor/back.webp",
+      "hash": "50d1c3459060baf9c9385fc74a97e70abc590855f36cbab3ee7ad2efbde0f050",
+      "width": 480,
+      "height": 480,
+      "size": 4680,
+      "createdAt": "2026-07-05T16:04:47Z",
+      "updatedAt": "2026-07-05T16:04:47Z"
+    }
+  ]
+}

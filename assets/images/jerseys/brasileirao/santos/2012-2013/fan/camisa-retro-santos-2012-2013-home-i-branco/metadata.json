@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-santos-2012-2013-home-i-branco",
+  "createdAt": "2026-07-05T03:00:08Z",
+  "updatedAt": "2026-07-05T03:00:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-2013/fan/camisa-retro-santos-2012-2013-home-i-branco/front.webp",
+      "hash": "52035ea7d7c59ad166fbb9a9c97f232ff203cc84d5b8fdda02b339521c711121",
+      "width": 480,
+      "height": 480,
+      "size": 14024,
+      "createdAt": "2026-07-05T02:59:37Z",
+      "updatedAt": "2026-07-05T02:59:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-2013/fan/camisa-retro-santos-2012-2013-home-i-branco/back.webp",
+      "hash": "69a9164c9138c67d52c60da40b377fa92efefb56bc151ce2148d9446b9c3c4be",
+      "width": 480,
+      "height": 480,
+      "size": 10536,
+      "createdAt": "2026-07-05T02:59:45Z",
+      "updatedAt": "2026-07-05T02:59:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-2013/fan/camisa-retro-santos-2012-2013-home-i-branco/detail-1.webp",
+      "hash": "85bc4d728f8c37d8360c33e4cb3df4919f8a04bca07a7fae255d7592eaedc297",
+      "width": 480,
+      "height": 480,
+      "size": 22658,
+      "createdAt": "2026-07-05T02:59:52Z",
+      "updatedAt": "2026-07-05T02:59:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-2013/fan/camisa-retro-santos-2012-2013-home-i-branco/detail-2.webp",
+      "hash": "c01d96b3679f40c98b842e092382306c6700d7934a5842e2c28f24d69aa1b6f9",
+      "width": 480,
+      "height": 480,
+      "size": 21158,
+      "createdAt": "2026-07-05T02:59:59Z",
+      "updatedAt": "2026-07-05T02:59:59Z"
+    }
+  ]
+}

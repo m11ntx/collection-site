@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja",
+  "createdAt": "2026-07-05T06:21:19Z",
+  "updatedAt": "2026-07-05T06:21:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/front.webp",
+      "hash": "2a5a80ecfa365ae4b54c5f19d3cb3243b4e7eb7b3dc73f54bf03f782e4b75d0d",
+      "width": 480,
+      "height": 480,
+      "size": 10848,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/back.webp",
+      "hash": "3dcd68e627abc3c7e31ac408dd549bff37e412abbf5fb82066c1e237eff5895c",
+      "width": 480,
+      "height": 480,
+      "size": 15796,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/detail-1.webp",
+      "hash": "39d810a1e8b7a98f30cde179feaed78b668827d11f0dc865be4657de4ff9b4ee",
+      "width": 480,
+      "height": 480,
+      "size": 6520,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/detail-2.webp",
+      "hash": "bfb04b89ef67f6428e3240ae04c6cddc88ebd74f8995d4ff8b8edbaa335a097d",
+      "width": 480,
+      "height": 480,
+      "size": 46218,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/detail-3.webp",
+      "hash": "2faca9ab04984429462692b5d59f42312d9e040260a2aa845529c589cefaf087",
+      "width": 480,
+      "height": 480,
+      "size": 47258,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/detail-4.webp",
+      "hash": "3ca5cb1c7d9e4467ee43ed654d8a32036e99cd4b6990cd8fc127e0413ee5d9fb",
+      "width": 480,
+      "height": 480,
+      "size": 10864,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-goleiro-iii-24-25-torcedor-puma-masculina-laranja/detail-5.webp",
+      "hash": "c188d7d9c3ffa3258463fb26b88f348d8200cf84186996e80ff602b44267be1a",
+      "width": 480,
+      "height": 480,
+      "size": 11760,
+      "createdAt": "2026-07-05T06:21:19Z",
+      "updatedAt": "2026-07-05T06:21:19Z"
+    }
+  ]
+}

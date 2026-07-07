@@ -1,0 +1,27 @@
+{
+  "productId": "source-manto-flamengo-jogo-1-branco-manga-longa-adidas-26-27",
+  "createdAt": "2026-07-05T06:10:08Z",
+  "updatedAt": "2026-07-05T06:10:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/manto-flamengo-jogo-1-branco-manga-longa-adidas-26-27/front.webp",
+      "hash": "424a21464d7b27142c52221ef80414898718a963e8dad30e5714f6ff2ee7d734",
+      "width": 480,
+      "height": 480,
+      "size": 14874,
+      "createdAt": "2026-07-05T06:09:55Z",
+      "updatedAt": "2026-07-05T06:09:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/manto-flamengo-jogo-1-branco-manga-longa-adidas-26-27/back.webp",
+      "hash": "27cd81d719295a18b6fe4e3347018e596dbafa7da052e9c22ac8efb7808ed09a",
+      "width": 480,
+      "height": 480,
+      "size": 9736,
+      "createdAt": "2026-07-05T06:10:02Z",
+      "updatedAt": "2026-07-05T06:10:02Z"
+    }
+  ]
+}

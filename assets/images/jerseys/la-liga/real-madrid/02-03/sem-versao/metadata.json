@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-champions-league-real-madrid-i-02-03-masculina-adidas-branca",
+  "createdAt": "2026-07-04T17:36:35Z",
+  "updatedAt": "2026-07-04T21:07:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/front.webp",
+      "hash": "cc3f39422d0cdc4c00c33e5c2883fc8b7ef7d977f405a1917842587c787f5940",
+      "width": 480,
+      "height": 480,
+      "size": 4562,
+      "createdAt": "2026-07-04T17:36:33Z",
+      "updatedAt": "2026-07-04T21:06:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/back.webp",
+      "hash": "c9492eaf7971da45fd9bd7c0067bd033df147630f67be661679cd5721986e858",
+      "width": 480,
+      "height": 480,
+      "size": 2964,
+      "createdAt": "2026-07-04T17:36:33Z",
+      "updatedAt": "2026-07-04T21:06:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/detail-1.webp",
+      "hash": "dc1ba36f3d0ad79ea53d94da119dc0314e5a0ac2fb7a31bff67e153179560b1c",
+      "width": 480,
+      "height": 480,
+      "size": 9234,
+      "createdAt": "2026-07-04T17:36:34Z",
+      "updatedAt": "2026-07-04T21:06:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/detail-2.webp",
+      "hash": "ad0e689b58aff8cc5edcfa51dc2434f78fe6202d5ef5b1955939ede9f0b7790e",
+      "width": 480,
+      "height": 480,
+      "size": 25878,
+      "createdAt": "2026-07-04T17:36:34Z",
+      "updatedAt": "2026-07-04T21:06:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/detail-3.webp",
+      "hash": "2ec5a77949c739a1e7a2c1ba5580b42061c0ec42c7e767f73651ff47f0451ff1",
+      "width": 480,
+      "height": 480,
+      "size": 49702,
+      "createdAt": "2026-07-04T17:36:35Z",
+      "updatedAt": "2026-07-04T21:06:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/detail-4.webp",
+      "hash": "8b78e507b977cab2f220ca8504fd4361b7eb803c044fd809a22aeb0f8ace56c8",
+      "width": 480,
+      "height": 480,
+      "size": 5970,
+      "createdAt": "2026-07-04T17:36:35Z",
+      "updatedAt": "2026-07-04T21:07:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/detail-5.webp",
+      "hash": "e141e82ac46ea949157131361932da8d34742a1411b34ba758818d212e1f5779",
+      "width": 480,
+      "height": 480,
+      "size": 7942,
+      "createdAt": "2026-07-04T21:07:00Z",
+      "updatedAt": "2026-07-04T21:07:00Z"
+    }
+  ]
+}

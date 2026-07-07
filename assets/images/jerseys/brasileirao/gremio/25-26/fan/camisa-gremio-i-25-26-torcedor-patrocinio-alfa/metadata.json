@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-i-25-26-torcedor-patrocinio-alfa",
+  "createdAt": "2026-07-05T16:05:37Z",
+  "updatedAt": "2026-07-05T16:05:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/25-26/fan/camisa-gremio-i-25-26-torcedor-patrocinio-alfa/front.webp",
+      "hash": "156e342fe8554701690278bafdd82acc28a2105ab484f1fa4d1c76cce937883c",
+      "width": 480,
+      "height": 480,
+      "size": 14192,
+      "createdAt": "2026-07-05T16:05:37Z",
+      "updatedAt": "2026-07-05T16:05:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/25-26/fan/camisa-gremio-i-25-26-torcedor-patrocinio-alfa/back.webp",
+      "hash": "620fdc702625b2c5829fd20d495ac00fcb929a354c1fce6b47a9a50253f500a3",
+      "width": 480,
+      "height": 480,
+      "size": 9490,
+      "createdAt": "2026-07-05T16:05:37Z",
+      "updatedAt": "2026-07-05T16:05:37Z"
+    }
+  ]
+}

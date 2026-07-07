@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-arsenal-i-90-92-masculina-adidas-vermelha-e-branca",
+  "createdAt": "2026-07-04T17:40:13Z",
+  "updatedAt": "2026-07-04T17:40:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/front.webp",
+      "hash": "18e5de4cd5becefef3cff94b89e8d3ff27d8b59349c5e23af4ffb8b6370fcebb",
+      "width": 480,
+      "height": 480,
+      "size": 14170,
+      "createdAt": "2026-07-04T17:40:11Z",
+      "updatedAt": "2026-07-04T17:40:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/back.webp",
+      "hash": "45c4e807156c5811ee8ab5cd420a7c96ac56e86ec0750e0486445176f2633715",
+      "width": 480,
+      "height": 480,
+      "size": 13086,
+      "createdAt": "2026-07-04T17:40:11Z",
+      "updatedAt": "2026-07-04T17:40:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/detail-1.webp",
+      "hash": "98f6326b262ec540af2b18c6182e69cdbcdfd11ad6a9b22d4e896bf1a2d799fb",
+      "width": 480,
+      "height": 480,
+      "size": 19732,
+      "createdAt": "2026-07-04T17:40:11Z",
+      "updatedAt": "2026-07-04T17:40:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/detail-2.webp",
+      "hash": "63f437c62a92f8f4bb093ed4d71af1cc0409762b59fb76caecc6f01b2ce29749",
+      "width": 480,
+      "height": 480,
+      "size": 20278,
+      "createdAt": "2026-07-04T17:40:12Z",
+      "updatedAt": "2026-07-04T17:40:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/detail-3.webp",
+      "hash": "323af062e8f8c94a5e511dd58f57f3b32e40bbed3aed862c97a57c16103043b7",
+      "width": 480,
+      "height": 480,
+      "size": 18986,
+      "createdAt": "2026-07-04T17:40:12Z",
+      "updatedAt": "2026-07-04T17:40:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/90-92/sem-versao/detail-4.webp",
+      "hash": "2107bddde745e1ee408eb3c0502909fac12308de6a95d6e6b47f6fc1aa845024",
+      "width": 480,
+      "height": 480,
+      "size": 14088,
+      "createdAt": "2026-07-04T17:40:13Z",
+      "updatedAt": "2026-07-04T17:40:13Z"
+    }
+  ]
+}

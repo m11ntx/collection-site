@@ -1,0 +1,17 @@
+{
+  "productId": "source-jaqueta-real-madrid-masculino-adidas",
+  "createdAt": "2026-07-04T18:27:52Z",
+  "updatedAt": "2026-07-04T20:26:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/sem-temporada/sem-versao/front.webp",
+      "hash": "284582aab7fedadcfdb610c3410864a132d477f8ccf837e0f8b63474c95b4ffa",
+      "width": 480,
+      "height": 480,
+      "size": 8342,
+      "createdAt": "2026-07-04T18:27:51Z",
+      "updatedAt": "2026-07-04T20:26:17Z"
+    }
+  ]
+}

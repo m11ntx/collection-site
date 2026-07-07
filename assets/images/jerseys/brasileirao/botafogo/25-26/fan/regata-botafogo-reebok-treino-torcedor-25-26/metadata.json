@@ -1,0 +1,27 @@
+{
+  "productId": "source-regata-botafogo-reebok-treino-torcedor-25-26",
+  "createdAt": "2026-07-05T04:24:52Z",
+  "updatedAt": "2026-07-05T04:24:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/regata-botafogo-reebok-treino-torcedor-25-26/front.webp",
+      "hash": "0a3ba873f2f97475df68fc4a48e1d616d0a3f0a772386d6f7c7c2be57825dedf",
+      "width": 480,
+      "height": 480,
+      "size": 4482,
+      "createdAt": "2026-07-05T04:24:52Z",
+      "updatedAt": "2026-07-05T04:24:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/regata-botafogo-reebok-treino-torcedor-25-26/back.webp",
+      "hash": "09712d37db042b2dc84c98f6f8a2f6d13820e527a3467af7c3595fb41b6f8756",
+      "width": 480,
+      "height": 480,
+      "size": 5034,
+      "createdAt": "2026-07-05T04:24:52Z",
+      "updatedAt": "2026-07-05T04:24:52Z"
+    }
+  ]
+}

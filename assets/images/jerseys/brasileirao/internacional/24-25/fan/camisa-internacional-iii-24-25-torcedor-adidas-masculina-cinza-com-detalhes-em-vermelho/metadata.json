@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-05T05:51:07Z",
+  "updatedAt": "2026-07-05T05:51:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/front.webp",
+      "hash": "eb41eaaf638a3405e73c1466b1d12e672715300aeb0f4692b3726797b8ab5a98",
+      "width": 480,
+      "height": 480,
+      "size": 11782,
+      "createdAt": "2026-07-05T05:51:06Z",
+      "updatedAt": "2026-07-05T05:51:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/back.webp",
+      "hash": "26c4139a77d0d9f5db63e2d29f914bc3fb3a45c934d6680cf5fd224f0527095a",
+      "width": 480,
+      "height": 480,
+      "size": 4162,
+      "createdAt": "2026-07-05T05:51:06Z",
+      "updatedAt": "2026-07-05T05:51:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "e7e8dcd57d598fd0e8f9432589f708cf216e2b294199b94bf6b2e0d55e2ca19e",
+      "width": 480,
+      "height": 480,
+      "size": 6244,
+      "createdAt": "2026-07-05T05:51:07Z",
+      "updatedAt": "2026-07-05T05:51:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "ae8186a7ab7c514d955cb289423bff1fb083a25e028e755e4166eb87bb0ba875",
+      "width": 480,
+      "height": 480,
+      "size": 66892,
+      "createdAt": "2026-07-05T05:51:07Z",
+      "updatedAt": "2026-07-05T05:51:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "77f36ce2fc0da57be26700705832fa53bec2735c73db9bb63caf95a3a3c9403d",
+      "width": 480,
+      "height": 480,
+      "size": 47494,
+      "createdAt": "2026-07-05T05:51:07Z",
+      "updatedAt": "2026-07-05T05:51:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-iii-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "f7b57f9aa55d4712a0136438d537402b197028cf972392a78b63dc998f83b38c",
+      "width": 480,
+      "height": 480,
+      "size": 44468,
+      "createdAt": "2026-07-05T05:51:07Z",
+      "updatedAt": "2026-07-05T05:51:07Z"
+    }
+  ]
+}

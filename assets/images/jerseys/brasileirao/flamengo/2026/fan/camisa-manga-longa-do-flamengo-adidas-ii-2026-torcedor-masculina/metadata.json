@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-manga-longa-do-flamengo-adidas-ii-2026-torcedor-masculina",
+  "createdAt": "2026-07-05T06:09:22Z",
+  "updatedAt": "2026-07-05T06:09:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2026/fan/camisa-manga-longa-do-flamengo-adidas-ii-2026-torcedor-masculina/front.webp",
+      "hash": "36f3e4bb69be437abc265b21dc57b10d51da36084cec54d841f0862515d6275e",
+      "width": 480,
+      "height": 480,
+      "size": 10086,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2026/fan/camisa-manga-longa-do-flamengo-adidas-ii-2026-torcedor-masculina/back.webp",
+      "hash": "117011c780ff3e33a9fe57a7cf9dc8753048bef8c953c825b704062c8d8f7b4a",
+      "width": 480,
+      "height": 480,
+      "size": 16504,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2026/fan/camisa-manga-longa-do-flamengo-adidas-ii-2026-torcedor-masculina/detail-1.webp",
+      "hash": "2ea003ec62b3a0be8ee9792ed0627ec8dd795f7155ae75d708ab42dd2c96fcb9",
+      "width": 480,
+      "height": 480,
+      "size": 15280,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2026/fan/camisa-manga-longa-do-flamengo-adidas-ii-2026-torcedor-masculina/detail-2.webp",
+      "hash": "cc770add223d50b4490c85807570a4cd5159fa44e8f9af2db8b0c4d04d914e87",
+      "width": 480,
+      "height": 480,
+      "size": 4784,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    }
+  ]
+}

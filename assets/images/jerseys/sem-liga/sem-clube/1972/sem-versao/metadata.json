@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-edicao-especial-i-1972-masculina-vermelha-com-detalhes-em-verde",
+  "createdAt": "2026-07-04T17:33:29Z",
+  "updatedAt": "2026-07-04T17:33:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1972/sem-versao/front.webp",
+      "hash": "ce2a1a7a9bb529ac61fe3d3e468a9d5604615735d8d90f39466ecfcffcca42bd",
+      "width": 480,
+      "height": 480,
+      "size": 6162,
+      "createdAt": "2026-07-04T17:33:27Z",
+      "updatedAt": "2026-07-04T17:33:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1972/sem-versao/back.webp",
+      "hash": "86cd83bb1e4fb8e327190ca2c217c9cf4b76ffc7ee8dabc9fbf4ca61ffd274e2",
+      "width": 480,
+      "height": 480,
+      "size": 4470,
+      "createdAt": "2026-07-04T17:33:27Z",
+      "updatedAt": "2026-07-04T17:33:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1972/sem-versao/detail-1.webp",
+      "hash": "5bcd049969caa5b8e0df9704293321df8b022a2437b98a9fcc4fa2f627c2a1cb",
+      "width": 480,
+      "height": 480,
+      "size": 44860,
+      "createdAt": "2026-07-04T17:33:28Z",
+      "updatedAt": "2026-07-04T17:33:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1972/sem-versao/detail-2.webp",
+      "hash": "aa1cef1ba6fa8ececdabcf2f01ff6e3061e58e529a7404eb147327f3917a4443",
+      "width": 480,
+      "height": 480,
+      "size": 9500,
+      "createdAt": "2026-07-04T17:33:28Z",
+      "updatedAt": "2026-07-04T17:33:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1972/sem-versao/detail-3.webp",
+      "hash": "aec30c06886fafd8ad5cd0c8b71d24be59fdcc1b01164ea8574a1cd623a9bd2c",
+      "width": 480,
+      "height": 480,
+      "size": 12112,
+      "createdAt": "2026-07-04T17:33:28Z",
+      "updatedAt": "2026-07-04T17:33:28Z"
+    }
+  ]
+}

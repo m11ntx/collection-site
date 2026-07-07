@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-ii-1995-1997-masculina-lotto-branca",
+  "createdAt": "2026-07-04T17:27:37Z",
+  "updatedAt": "2026-07-04T17:27:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/front.webp",
+      "hash": "4213f5c7303abe49e144ebefa378c2cf0a1fc7bd0e96e2fc5ffe89732227f646",
+      "width": 480,
+      "height": 480,
+      "size": 8668,
+      "createdAt": "2026-07-04T17:27:35Z",
+      "updatedAt": "2026-07-04T17:27:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/back.webp",
+      "hash": "0fe72961302b903811ac54c2042907bab6d1710741a77ad2be17478d5be97879",
+      "width": 480,
+      "height": 480,
+      "size": 4962,
+      "createdAt": "2026-07-04T17:27:35Z",
+      "updatedAt": "2026-07-04T17:27:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/detail-1.webp",
+      "hash": "343fb27b7e4d2ebf6583ebf125ff6e2ce7e81ee53bdf5ec3ef8bca7609cbf830",
+      "width": 480,
+      "height": 480,
+      "size": 17194,
+      "createdAt": "2026-07-04T17:27:35Z",
+      "updatedAt": "2026-07-04T17:27:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/detail-2.webp",
+      "hash": "59046df1017b36a370775de2908bb9432fbca9376003d980f655e68e9ee9e9c5",
+      "width": 480,
+      "height": 480,
+      "size": 26550,
+      "createdAt": "2026-07-04T17:27:36Z",
+      "updatedAt": "2026-07-04T17:27:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/detail-3.webp",
+      "hash": "bcd8eda876270ea0be10e3dd41cd056eef418baef6617751a6bea14ec1baa42c",
+      "width": 480,
+      "height": 480,
+      "size": 26776,
+      "createdAt": "2026-07-04T17:27:36Z",
+      "updatedAt": "2026-07-04T17:27:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/detail-4.webp",
+      "hash": "a47043d60db90451fda84d6d911e18557e77d95059c9d5a9a6213a094a3c8343",
+      "width": 480,
+      "height": 480,
+      "size": 14730,
+      "createdAt": "2026-07-04T17:27:37Z",
+      "updatedAt": "2026-07-04T17:27:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1995-1997/sem-versao/detail-5.webp",
+      "hash": "c9f8d9d4a0aaff0c4bdd72fbde3a9801e065a87934c6b8a0ed9d5062b662d1c9",
+      "width": 480,
+      "height": 480,
+      "size": 15452,
+      "createdAt": "2026-07-04T17:27:37Z",
+      "updatedAt": "2026-07-04T17:27:37Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-sao-paulo-home-torcedor-masculina-26-27",
+  "createdAt": "2026-07-05T16:43:09Z",
+  "updatedAt": "2026-07-05T16:43:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-home-torcedor-masculina-26-27/front.webp",
+      "hash": "ba9a024b5c19bb21c1b6cf6f626a4a06ba4fd4eacadb1440cc8bb2c4a0c91c3b",
+      "width": 480,
+      "height": 480,
+      "size": 9644,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-home-torcedor-masculina-26-27/back.webp",
+      "hash": "15abea8f6332ff2da823fa56da36d79895d23b4c5d32876e31920c2607a954bb",
+      "width": 480,
+      "height": 480,
+      "size": 23868,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-home-torcedor-masculina-26-27/detail-1.webp",
+      "hash": "a186093bc44f53f6980d2c6c381a72b726d930c68001040e7cc4e371f438943f",
+      "width": 480,
+      "height": 480,
+      "size": 24814,
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-25-26-torcedor-puma-masculina-vermelho-e-preto",
+  "createdAt": "2026-07-04T18:35:22Z",
+  "updatedAt": "2026-07-04T18:35:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/25-26/fan/front.webp",
+      "hash": "286e057cb8f8c6cdb5cce487a4cdf49357035645d2ad38501dfc10cff198762e",
+      "width": 480,
+      "height": 480,
+      "size": 13050,
+      "createdAt": "2026-07-04T18:35:22Z",
+      "updatedAt": "2026-07-04T18:35:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/25-26/fan/back.webp",
+      "hash": "a587ed0049b59ce6f47d536ea7cd96177d71618bade283dcf3c1307742979a17",
+      "width": 480,
+      "height": 480,
+      "size": 5626,
+      "createdAt": "2026-07-04T18:35:22Z",
+      "updatedAt": "2026-07-04T18:35:22Z"
+    }
+  ]
+}

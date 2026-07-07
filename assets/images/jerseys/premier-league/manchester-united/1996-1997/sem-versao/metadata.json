@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1996-1997-branca-umbro",
+  "createdAt": "2026-07-04T17:25:40Z",
+  "updatedAt": "2026-07-04T21:05:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/front.webp",
+      "hash": "6dff5408cb3d2c75a575f9321468556d233d4b5bd4cf4e4f34196e61e4aa8e0d",
+      "width": 480,
+      "height": 480,
+      "size": 8670,
+      "createdAt": "2026-07-04T17:25:37Z",
+      "updatedAt": "2026-07-04T21:05:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/back.webp",
+      "hash": "3fa783717dfaeb6ab9ff5b39d1db35e6986678d33139300491993bc76a9fc69f",
+      "width": 480,
+      "height": 480,
+      "size": 3492,
+      "createdAt": "2026-07-04T17:25:37Z",
+      "updatedAt": "2026-07-04T21:05:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/detail-1.webp",
+      "hash": "ab39400a2e98fd70747f3f7e545f65ec3743aee7bc9d874d41df790208f65a50",
+      "width": 480,
+      "height": 480,
+      "size": 20596,
+      "createdAt": "2026-07-04T17:25:38Z",
+      "updatedAt": "2026-07-04T21:05:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/detail-2.webp",
+      "hash": "080c6bdec10d1358131dc174250bd69ebf7202ae7d47bf697e3580cb15b6d173",
+      "width": 480,
+      "height": 480,
+      "size": 20756,
+      "createdAt": "2026-07-04T17:25:38Z",
+      "updatedAt": "2026-07-04T21:05:03Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/detail-3.webp",
+      "hash": "bb8025ffba3d6a05abde0b27003b00c7dbac943cf49de39e4c6d5592fbeeb519",
+      "width": 480,
+      "height": 480,
+      "size": 16342,
+      "createdAt": "2026-07-04T17:25:39Z",
+      "updatedAt": "2026-07-04T21:05:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/detail-4.webp",
+      "hash": "805c21adc7403ac330d09d8b372290dd1498248ea7cb1437dd5ac10d9b57afe7",
+      "width": 480,
+      "height": 480,
+      "size": 48610,
+      "createdAt": "2026-07-04T17:25:39Z",
+      "updatedAt": "2026-07-04T21:05:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/detail-5.webp",
+      "hash": "2a642f56a0467f98d63ef105a378a5992ce4270d9d6fde7f710e3cd15a0fd964",
+      "width": 480,
+      "height": 480,
+      "size": 34980,
+      "createdAt": "2026-07-04T17:25:40Z",
+      "updatedAt": "2026-07-04T21:05:04Z"
+    }
+  ]
+}

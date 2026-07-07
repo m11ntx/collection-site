@@ -1,31 +1,422 @@
 [
-  { "id": 1,  "slug": "ac-milan",          "name": "AC Milan",          "collection": "serie-a",        "country": "Italy",   "founded": 1899, "image": "" },
-  { "id": 2,  "slug": "inter-milan",       "name": "Inter Milan",       "collection": "serie-a",        "country": "Italy",   "founded": 1908, "image": "" },
-  { "id": 3,  "slug": "juventus",          "name": "Juventus",          "collection": "serie-a",        "country": "Italy",   "founded": 1897, "image": "" },
-  { "id": 4,  "slug": "napoli",            "name": "Napoli",            "collection": "serie-a",        "country": "Italy",   "founded": 1926, "image": "" },
-
-  { "id": 5,  "slug": "manchester-united", "name": "Manchester United", "collection": "premier-league", "country": "England", "founded": 1878, "image": "" },
-  { "id": 6,  "slug": "arsenal",           "name": "Arsenal",           "collection": "premier-league", "country": "England", "founded": 1886, "image": "" },
-  { "id": 7,  "slug": "liverpool",         "name": "Liverpool",         "collection": "premier-league", "country": "England", "founded": 1892, "image": "" },
-  { "id": 8,  "slug": "chelsea",           "name": "Chelsea",           "collection": "premier-league", "country": "England", "founded": 1905, "image": "" },
-
-  { "id": 9,  "slug": "real-madrid",       "name": "Real Madrid",       "collection": "la-liga",        "country": "Spain",   "founded": 1902, "image": "" },
-  { "id": 10, "slug": "barcelona",         "name": "Barcelona",         "collection": "la-liga",        "country": "Spain",   "founded": 1899, "image": "" },
-  { "id": 11, "slug": "valencia",          "name": "Valencia",          "collection": "la-liga",        "country": "Spain",   "founded": 1919, "image": "" },
-  { "id": 12, "slug": "atletico-madrid",   "name": "Atlético Madrid",   "collection": "la-liga",        "country": "Spain",   "founded": 1903, "image": "" },
-
-  { "id": 13, "slug": "bayern-munich",     "name": "Bayern Munich",     "collection": "bundesliga",     "country": "Germany", "founded": 1900, "image": "" },
-  { "id": 14, "slug": "borussia-dortmund", "name": "Borussia Dortmund", "collection": "bundesliga",     "country": "Germany", "founded": 1909, "image": "" },
-  { "id": 15, "slug": "werder-bremen",     "name": "Werder Bremen",     "collection": "bundesliga",     "country": "Germany", "founded": 1899, "image": "" },
-  { "id": 16, "slug": "hamburger-sv",      "name": "Hamburger SV",      "collection": "bundesliga",     "country": "Germany", "founded": 1887, "image": "" },
-
-  { "id": 17, "slug": "marseille",         "name": "Marseille",         "collection": "ligue-1",        "country": "France",  "founded": 1899, "image": "" },
-  { "id": 18, "slug": "psg",               "name": "Paris Saint-Germain","collection": "ligue-1",       "country": "France",  "founded": 1970, "image": "" },
-  { "id": 19, "slug": "monaco",            "name": "Monaco",            "collection": "ligue-1",        "country": "France",  "founded": 1924, "image": "" },
-  { "id": 20, "slug": "lyon",              "name": "Lyon",              "collection": "ligue-1",        "country": "France",  "founded": 1950, "image": "" },
-
-  { "id": 21, "slug": "flamengo",          "name": "Flamengo",          "collection": "brasileirao",    "country": "Brazil",  "founded": 1895, "image": "" },
-  { "id": 22, "slug": "palmeiras",         "name": "Palmeiras",         "collection": "brasileirao",    "country": "Brazil",  "founded": 1914, "image": "" },
-  { "id": 23, "slug": "sao-paulo",         "name": "São Paulo",         "collection": "brasileirao",    "country": "Brazil",  "founded": 1930, "image": "" },
-  { "id": 24, "slug": "santos",            "name": "Santos",            "collection": "brasileirao",    "country": "Brazil",  "founded": 1912, "image": "" }
+  {
+    "id": "america-mineiro",
+    "leagueId": "brasileirao",
+    "regionId": "minas-gerais",
+    "slug": "america-mineiro",
+    "name": "América Mineiro",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "athletico-paranaense",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "athletico-paranaense",
+    "name": "Athletico Paranaense",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "atletico-mineiro",
+    "leagueId": "brasileirao",
+    "regionId": "minas-gerais",
+    "slug": "atletico-mineiro",
+    "name": "Atlético Mineiro",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "avai",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "avai",
+    "name": "Avaí",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "bahia",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "bahia",
+    "name": "Bahia",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "botafogo",
+    "leagueId": "brasileirao",
+    "regionId": "rio-de-janeiro",
+    "slug": "botafogo",
+    "name": "Botafogo",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "bragantino",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "bragantino",
+    "name": "Red Bull Bragantino",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "ceara",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "ceara",
+    "name": "Ceará",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "chapecoense",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "chapecoense",
+    "name": "Chapecoense",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "corinthians",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "corinthians",
+    "name": "Corinthians",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "cruzeiro",
+    "leagueId": "brasileirao",
+    "regionId": "minas-gerais",
+    "slug": "cruzeiro",
+    "name": "Cruzeiro",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "flamengo",
+    "leagueId": "brasileirao",
+    "regionId": "rio-de-janeiro",
+    "slug": "flamengo",
+    "name": "Flamengo",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "fluminense",
+    "leagueId": "brasileirao",
+    "regionId": "rio-de-janeiro",
+    "slug": "fluminense",
+    "name": "Fluminense",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "fortaleza",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "fortaleza",
+    "name": "Fortaleza",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "gremio",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "gremio",
+    "name": "Grêmio",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "internacional",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "internacional",
+    "name": "Internacional",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "nautico",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "nautico",
+    "name": "Náutico",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "palmeiras",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "palmeiras",
+    "name": "Palmeiras",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "paysandu",
+    "leagueId": "brasileirao",
+    "regionId": "norte",
+    "slug": "paysandu",
+    "name": "Paysandu",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "remo",
+    "leagueId": "brasileirao",
+    "regionId": "norte",
+    "slug": "remo",
+    "name": "Remo",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "santa-cruz",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "santa-cruz",
+    "name": "Santa Cruz",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "santos",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "santos",
+    "name": "Santos",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "sao-paulo",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "sao-paulo",
+    "name": "São Paulo",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "sport",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "sport",
+    "name": "Sport Recife",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "vasco-da-gama",
+    "leagueId": "brasileirao",
+    "regionId": "rio-de-janeiro",
+    "slug": "vasco-da-gama",
+    "name": "Vasco da Gama",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "vitoria",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "vitoria",
+    "name": "Vitória",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "bayer-leverkusen",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "bayern-munich",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "bayern-munich",
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "borussia-dortmund",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "borussia-dortmund",
+    "name": "Borussia Dortmund",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "atletico-madrid",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "atletico-madrid",
+    "name": "Atlético Madrid",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "barcelona",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "barcelona",
+    "name": "Barcelona",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "real-madrid",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "real-madrid",
+    "name": "Real Madrid",
+    "country": "Spain",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "paris-saint-germain",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "paris-saint-germain",
+    "name": "Paris Saint-Germain",
+    "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "arsenal",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "arsenal",
+    "name": "Arsenal",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "chelsea",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "chelsea",
+    "name": "Chelsea",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "liverpool",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "liverpool",
+    "name": "Liverpool",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "manchester-city",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "manchester-city",
+    "name": "Manchester City",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "manchester-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "manchester-united",
+    "name": "Manchester United",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "tottenham",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "tottenham",
+    "name": "Tottenham Hotspur",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "ac-milan",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "ac-milan",
+    "name": "AC Milan",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "inter-milan",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "inter-milan",
+    "name": "Inter Milan",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "juventus",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "juventus",
+    "name": "Juventus",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  }
 ]

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul",
+  "createdAt": "2026-07-05T16:05:36Z",
+  "updatedAt": "2026-07-05T16:05:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/front.webp",
+      "hash": "9a9f3cf611502231bddb72f259143a1faeb5e891f4b12d11bfdaf681dc0ae8f9",
+      "width": 480,
+      "height": 480,
+      "size": 14348,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/back.webp",
+      "hash": "27716c2bd6d1f37179f06662f8474bc983c2c2012b566d45c554cd9bfecdbf45",
+      "width": 480,
+      "height": 480,
+      "size": 21304,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/detail-1.webp",
+      "hash": "460d69f50b07a1582d07eb8fe46179dbc67ce61e64084250c72ae54c5c35dbae",
+      "width": 480,
+      "height": 480,
+      "size": 13208,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/detail-2.webp",
+      "hash": "12cdb2b53a87c1124363e2e69afff79be8eefb139b6d402969733bdae26acea7",
+      "width": 480,
+      "height": 480,
+      "size": 57700,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/detail-3.webp",
+      "hash": "dfe782587a4f86a5c7347459afc4564c689c1a71368f57ce4bb3ceab6b23a070",
+      "width": 480,
+      "height": 480,
+      "size": 64258,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/detail-4.webp",
+      "hash": "f815f7ae34d12d4eb3709b122a55c077ced1c1bf08ac158f06235b95b81d4695",
+      "width": 480,
+      "height": 480,
+      "size": 16520,
+      "createdAt": "2026-07-05T16:05:35Z",
+      "updatedAt": "2026-07-05T16:05:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-edicao-especial-treino-24-25-torcedor-umbro-masculina-azul/detail-5.webp",
+      "hash": "5bf57509a4352baf8d601f940749563311d14c2690a0513463647fbcc3edb00d",
+      "width": 480,
+      "height": 480,
+      "size": 17174,
+      "createdAt": "2026-07-05T16:05:36Z",
+      "updatedAt": "2026-07-05T16:05:36Z"
+    }
+  ]
+}

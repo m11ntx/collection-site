@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-cruzeiro-25-26-torcedor-masculino-betfair",
+  "createdAt": "2026-07-05T04:53:28Z",
+  "updatedAt": "2026-07-05T04:53:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-25-26-torcedor-masculino-betfair/front.webp",
+      "hash": "9d252a8a001b88253299649765ed93866b1c229ebf9e8c4e446e5707d029b1df",
+      "width": 480,
+      "height": 480,
+      "size": 22818,
+      "createdAt": "2026-07-05T04:53:28Z",
+      "updatedAt": "2026-07-05T04:53:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-25-26-torcedor-masculino-betfair/back.webp",
+      "hash": "4dd40cb0968bd029f2de4ef1a0a6539323a192e13a14886dada88aa3290b494a",
+      "width": 480,
+      "height": 480,
+      "size": 6790,
+      "createdAt": "2026-07-05T04:53:28Z",
+      "updatedAt": "2026-07-05T04:53:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-25-26-torcedor-masculino-betfair/detail-1.webp",
+      "hash": "cc276acdd4c4442441c6fb2021b2d92527fce33d944b728a9fe6e1e0a7223c2c",
+      "width": 480,
+      "height": 480,
+      "size": 22328,
+      "createdAt": "2026-07-05T04:53:28Z",
+      "updatedAt": "2026-07-05T04:53:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-25-26-torcedor-masculino-betfair/detail-2.webp",
+      "hash": "a7ca3d37576080c5874a1100f5a2214f25b53e52c28c5a8e42e1f471222150d5",
+      "width": 480,
+      "height": 480,
+      "size": 4976,
+      "createdAt": "2026-07-05T04:53:28Z",
+      "updatedAt": "2026-07-05T04:53:28Z"
+    }
+  ]
+}

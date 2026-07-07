@@ -1,0 +1,47 @@
+{
+  "productId": "source-short-chelsea-masculino-25-26-azul",
+  "createdAt": "2026-07-04T18:32:08Z",
+  "updatedAt": "2026-07-04T20:27:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/25-26/sem-versao/front.webp",
+      "hash": "d9d758e6dfeb5a3358468a19fd7cef2d7dc5d2429eb90217f0f1395986fec61f",
+      "width": 480,
+      "height": 480,
+      "size": 50388,
+      "createdAt": "2026-07-04T18:32:06Z",
+      "updatedAt": "2026-07-04T20:27:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/25-26/sem-versao/back.webp",
+      "hash": "23f4e5d09ca824a46d96fbb26f653b8f13572ecb8582534cd04ab028266a26c3",
+      "width": 480,
+      "height": 480,
+      "size": 48120,
+      "createdAt": "2026-07-04T18:32:06Z",
+      "updatedAt": "2026-07-04T20:27:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/25-26/sem-versao/detail-1.webp",
+      "hash": "e159e544db97d92a2ffe71c5fc97bb626fcd72b3ed3dd95736a998c872235fd8",
+      "width": 480,
+      "height": 480,
+      "size": 54234,
+      "createdAt": "2026-07-04T18:32:07Z",
+      "updatedAt": "2026-07-04T20:27:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/25-26/sem-versao/detail-2.webp",
+      "hash": "e7a2a56a5d44da5c2415f4a1e5c8063fb6600de07cd5a0f3a1d0f931ef285094",
+      "width": 480,
+      "height": 480,
+      "size": 36564,
+      "createdAt": "2026-07-04T18:32:08Z",
+      "updatedAt": "2026-07-04T20:27:19Z"
+    }
+  ]
+}

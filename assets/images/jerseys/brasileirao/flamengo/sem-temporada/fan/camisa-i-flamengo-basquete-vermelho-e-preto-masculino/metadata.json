@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-i-flamengo-basquete-vermelho-e-preto-masculino",
+  "createdAt": "2026-07-05T06:09:22Z",
+  "updatedAt": "2026-07-05T06:09:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/sem-temporada/fan/camisa-i-flamengo-basquete-vermelho-e-preto-masculino/front.webp",
+      "hash": "e400370fea7525c5875f8e4e884eb54f3512d089d694c674e3cbf55c523cbe4d",
+      "width": 480,
+      "height": 480,
+      "size": 12930,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/sem-temporada/fan/camisa-i-flamengo-basquete-vermelho-e-preto-masculino/back.webp",
+      "hash": "f40247999e218d437121c59ff4f8a1ad13f85f8cc5c1732be5c2c543ec49f5c4",
+      "width": 480,
+      "height": 480,
+      "size": 7678,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    }
+  ]
+}

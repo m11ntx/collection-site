@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-masculina-adidas-atletico-mineiro-2025-goleiro-1",
+  "createdAt": "2026-07-04T20:26:32Z",
+  "updatedAt": "2026-07-04T20:26:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025/fan/front.webp",
+      "hash": "e25099b89a739aaf45714658b95093b6d62d4e0e6505c5d093d37f6cc895a89c",
+      "width": 480,
+      "height": 480,
+      "size": 14218,
+      "createdAt": "2026-07-04T20:26:32Z",
+      "updatedAt": "2026-07-04T20:26:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025/fan/back.webp",
+      "hash": "be621759c76dc9454ce054e380f8f3efb4b93bea36efa5958025a34f19909db0",
+      "width": 480,
+      "height": 480,
+      "size": 4806,
+      "createdAt": "2026-07-04T20:26:32Z",
+      "updatedAt": "2026-07-04T20:26:32Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-treino-atletico-mineiro-tiro-24",
+  "createdAt": "2026-07-05T16:55:49Z",
+  "updatedAt": "2026-07-05T16:55:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/sem-temporada/fan/camisa-treino-atletico-mineiro-tiro-24/front.webp",
+      "hash": "2903cbe2ff0386b462cc192ff0126d22eab6b7cc38c5a442d51c70efeab67743",
+      "width": 480,
+      "height": 480,
+      "size": 8424,
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/sem-temporada/fan/camisa-treino-atletico-mineiro-tiro-24/back.webp",
+      "hash": "157f9304c8561cd42fdbcc31e1d23f54a3163a96ae99c5d507390675106e3370",
+      "width": 480,
+      "height": 480,
+      "size": 4870,
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
+    }
+  ]
+}

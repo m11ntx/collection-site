@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-gremio-i-1997-1998-masculina-penalty-azul-e-preta-com-patrocinio-ironcryl",
+  "createdAt": "2026-07-04T20:10:24Z",
+  "updatedAt": "2026-07-04T20:10:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/front.webp",
+      "hash": "f086fe55a96dca481b46fce631a5b3b3adbaa6154b04af0869f2588a3eb48341",
+      "width": 480,
+      "height": 480,
+      "size": 11984,
+      "createdAt": "2026-07-04T20:10:23Z",
+      "updatedAt": "2026-07-04T20:10:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/back.webp",
+      "hash": "3f42be2cfe4821a9bc270b6d738395669523bb1558ce41d1ec0e64dc700e8d06",
+      "width": 480,
+      "height": 480,
+      "size": 15476,
+      "createdAt": "2026-07-04T20:10:23Z",
+      "updatedAt": "2026-07-04T20:10:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/detail-1.webp",
+      "hash": "d7cc3618c7e506640ed86ea3396522799c056fa08c138da19b72a412f547f1fc",
+      "width": 480,
+      "height": 480,
+      "size": 9664,
+      "createdAt": "2026-07-04T20:10:23Z",
+      "updatedAt": "2026-07-04T20:10:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/detail-2.webp",
+      "hash": "d342e05272df00d08aa2b94f23bf9e7fb55dc69a53f2bbc7f0df385a8c368809",
+      "width": 480,
+      "height": 480,
+      "size": 22016,
+      "createdAt": "2026-07-04T20:10:23Z",
+      "updatedAt": "2026-07-04T20:10:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/detail-3.webp",
+      "hash": "2660b004a35dc25523de07851b7ffdcf1276b0648ed7c2d474e1988fe9c41608",
+      "width": 480,
+      "height": 480,
+      "size": 40520,
+      "createdAt": "2026-07-04T20:10:23Z",
+      "updatedAt": "2026-07-04T20:10:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/detail-4.webp",
+      "hash": "b2a53177953be3135ba9d8c63a75ab6cfcb6af750ce7556a701999f0e86a86ae",
+      "width": 480,
+      "height": 480,
+      "size": 47146,
+      "createdAt": "2026-07-04T20:10:24Z",
+      "updatedAt": "2026-07-04T20:10:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/gremio/1997-1998/sem-versao/detail-5.webp",
+      "hash": "5c7010a305fb3cbe34ecd3dd47fa125cbdbea0b726625a91d78864f698a87592",
+      "width": 480,
+      "height": 480,
+      "size": 21798,
+      "createdAt": "2026-07-04T20:10:24Z",
+      "updatedAt": "2026-07-04T20:10:24Z"
+    }
+  ]
+}

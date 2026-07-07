@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-santos-ii-24-25-torcedor-umbro-masculina-branca-e-preta",
+  "createdAt": "2026-07-05T03:00:40Z",
+  "updatedAt": "2026-07-05T03:00:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-ii-24-25-torcedor-umbro-masculina-branca-e-preta/front.webp",
+      "hash": "f2cb811b6cc3c90b46d43c1fbabca25b6f76c1b577f3a010dac0d78e4cb452d5",
+      "width": 480,
+      "height": 480,
+      "size": 12002,
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-ii-24-25-torcedor-umbro-masculina-branca-e-preta/back.webp",
+      "hash": "a593809bdc310fa3981ab6fe8d987fe054b5f08245c28fa9ee2e6f070cfa0dbe",
+      "width": 480,
+      "height": 480,
+      "size": 11898,
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-ii-24-25-torcedor-umbro-masculina-branca-e-preta/detail-1.webp",
+      "hash": "ce75cdaff111aa793c87e96a6638feb9121aefd84acdd22d90d1131ec4ba1515",
+      "width": 480,
+      "height": 480,
+      "size": 9460,
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-ii-24-25-torcedor-umbro-masculina-branca-e-preta/detail-2.webp",
+      "hash": "cab7db93d5e9d14f355f510f2e69d8708fba3afdd55476a86a48a2ea7139d280",
+      "width": 480,
+      "height": 480,
+      "size": 48472,
+      "createdAt": "2026-07-05T03:00:40Z",
+      "updatedAt": "2026-07-05T03:00:40Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-real-madrid-ii-24-25-torcedor-adidas-masculina-laranja",
+  "createdAt": "2026-07-07T01:34:09Z",
+  "updatedAt": "2026-07-07T01:34:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-ii-24-25-torcedor-adidas-masculina-laranja/front.webp",
+      "hash": "47576c00bd89695a9a71a719b80a50e9243920a68031d14636af06e2014edce2",
+      "width": 480,
+      "height": 480,
+      "size": 19916,
+      "createdAt": "2026-07-07T01:34:07Z",
+      "updatedAt": "2026-07-07T01:34:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-ii-24-25-torcedor-adidas-masculina-laranja/back.webp",
+      "hash": "c5e03d97c207c4ee0944b6b2a17da8611f867d62fd075f43cea295b85d055220",
+      "width": 480,
+      "height": 480,
+      "size": 7880,
+      "createdAt": "2026-07-07T01:34:07Z",
+      "updatedAt": "2026-07-07T01:34:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-ii-24-25-torcedor-adidas-masculina-laranja/detail-1.webp",
+      "hash": "cbee32f0586580178161913cd83a6b8fe4badc02e782c7477154b48d67123869",
+      "width": 480,
+      "height": 480,
+      "size": 20904,
+      "createdAt": "2026-07-07T01:34:08Z",
+      "updatedAt": "2026-07-07T01:34:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-ii-24-25-torcedor-adidas-masculina-laranja/detail-2.webp",
+      "hash": "1f1c9456dcf510a48186fa21415563f34656f9996f195363cb66769644d87ce0",
+      "width": 480,
+      "height": 480,
+      "size": 32822,
+      "createdAt": "2026-07-07T01:34:08Z",
+      "updatedAt": "2026-07-07T01:34:08Z"
+    }
+  ]
+}

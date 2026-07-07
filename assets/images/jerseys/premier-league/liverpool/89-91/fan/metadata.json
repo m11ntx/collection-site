@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-away-89-91-torcedor-adidas-masculina-cinza",
+  "createdAt": "2026-07-04T17:09:45Z",
+  "updatedAt": "2026-07-04T17:09:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/front.webp",
+      "hash": "3e8389f3b9c77c39f174350ba6b6a71183d398620afa055a71a3faf439c1d59b",
+      "width": 480,
+      "height": 480,
+      "size": 18358,
+      "createdAt": "2026-07-04T17:09:43Z",
+      "updatedAt": "2026-07-04T17:09:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/back.webp",
+      "hash": "e6a80718baa47c787298e7d4b15f150531735b7e9c30e348c5757a5def916999",
+      "width": 480,
+      "height": 480,
+      "size": 13816,
+      "createdAt": "2026-07-04T17:09:43Z",
+      "updatedAt": "2026-07-04T17:09:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/detail-1.webp",
+      "hash": "04e8af2393014a75ef23cbe8c57724bc56c4d8a141a6da4314a19337f988de40",
+      "width": 480,
+      "height": 480,
+      "size": 28288,
+      "createdAt": "2026-07-04T17:09:43Z",
+      "updatedAt": "2026-07-04T17:09:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/detail-2.webp",
+      "hash": "e55e4f610a2d263acffa0666331879cc64f23c277ac72517aa682773a650e644",
+      "width": 480,
+      "height": 480,
+      "size": 27886,
+      "createdAt": "2026-07-04T17:09:44Z",
+      "updatedAt": "2026-07-04T17:09:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/detail-3.webp",
+      "hash": "f838ac90798932f6c4443d837dbd0e47995c3089f516dd15abaacf28dedbde6a",
+      "width": 480,
+      "height": 480,
+      "size": 43792,
+      "createdAt": "2026-07-04T17:09:44Z",
+      "updatedAt": "2026-07-04T17:09:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/detail-4.webp",
+      "hash": "578e52c1b0c57dafb1a9e967461c840a938bd7563877b3ab5a0c8a2af4dd5624",
+      "width": 480,
+      "height": 480,
+      "size": 50102,
+      "createdAt": "2026-07-04T17:09:45Z",
+      "updatedAt": "2026-07-04T17:09:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/89-91/fan/detail-5.webp",
+      "hash": "73ad64fc3486f510b676b22970d13ce9879220a261c1b535145caf5b324c06b7",
+      "width": 480,
+      "height": 480,
+      "size": 13780,
+      "createdAt": "2026-07-04T17:09:45Z",
+      "updatedAt": "2026-07-04T17:09:45Z"
+    }
+  ]
+}

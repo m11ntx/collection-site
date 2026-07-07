@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-home-torcedor-new-balance-26-27-tricolor-masculina",
+  "createdAt": "2026-07-05T16:05:38Z",
+  "updatedAt": "2026-07-05T16:05:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-home-torcedor-new-balance-26-27-tricolor-masculina/front.webp",
+      "hash": "786ab2daf47b3a10e23a8a1ddf7a0537186e86b2d51bc24b22539648f78b6670",
+      "width": 480,
+      "height": 480,
+      "size": 15722,
+      "createdAt": "2026-07-05T16:05:38Z",
+      "updatedAt": "2026-07-05T16:05:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-home-torcedor-new-balance-26-27-tricolor-masculina/back.webp",
+      "hash": "09be5190b076d7f3e46a6e9b225f6b625c8aac77b65b3a85eadff93e69e4fb45",
+      "width": 480,
+      "height": 480,
+      "size": 10984,
+      "createdAt": "2026-07-05T16:05:38Z",
+      "updatedAt": "2026-07-05T16:05:38Z"
+    }
+  ]
+}

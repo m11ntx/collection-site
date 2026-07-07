@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-treino-flamengo-26-27-bege-masculina-torcedor",
+  "createdAt": "2026-07-05T06:09:26Z",
+  "updatedAt": "2026-07-05T06:09:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-treino-flamengo-26-27-bege-masculina-torcedor/front.webp",
+      "hash": "0742daa89b7c1873b13dc26f5ffebff7a61cafc4754c3a617edc1485e5624f95",
+      "width": 480,
+      "height": 480,
+      "size": 14134,
+      "createdAt": "2026-07-05T06:09:26Z",
+      "updatedAt": "2026-07-05T06:09:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-treino-flamengo-26-27-bege-masculina-torcedor/back.webp",
+      "hash": "36a1ee49287547c2949ce748df2797babb91ca6d71e55be686773900fcc3c8db",
+      "width": 480,
+      "height": 480,
+      "size": 7698,
+      "createdAt": "2026-07-05T06:09:26Z",
+      "updatedAt": "2026-07-05T06:09:26Z"
+    }
+  ]
+}

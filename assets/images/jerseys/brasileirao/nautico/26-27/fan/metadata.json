@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-nautico-home-26-27-torcedor-masculina-reebok-vermelha-com-branco",
+  "createdAt": "2026-07-04T20:32:58Z",
+  "updatedAt": "2026-07-04T20:32:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/front.webp",
+      "hash": "57ce08668e1daf2d89b70721253503cea8b21118d31efb4f8a60fbb9af7681f4",
+      "width": 480,
+      "height": 480,
+      "size": 8534,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/back.webp",
+      "hash": "a1afd7bf3b1a912f5c0602bca47f6461733127a4ce6a49ce2b7149cb5528d95a",
+      "width": 480,
+      "height": 480,
+      "size": 7144,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/detail-1.webp",
+      "hash": "9d8565c66d0ebc3936cae4f3eaea964fa2226bd5f302d8d0f4c4ab8a268047a4",
+      "width": 480,
+      "height": 480,
+      "size": 24234,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/detail-2.webp",
+      "hash": "699b19114a993d634ce51a0d7864be2080d9b69e8f536b9fa2f6c8b12439e05d",
+      "width": 480,
+      "height": 480,
+      "size": 53402,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/detail-3.webp",
+      "hash": "89bc364bdc29ce82b14b3edfd8a13d2fa63ff80f51969d60393f6f01bed6609c",
+      "width": 480,
+      "height": 480,
+      "size": 41660,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/detail-4.webp",
+      "hash": "90fc3702080262d0358ec12ead5fcdca35026669f771ff52af4754985dda7cc0",
+      "width": 480,
+      "height": 480,
+      "size": 22158,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    }
+  ]
+}

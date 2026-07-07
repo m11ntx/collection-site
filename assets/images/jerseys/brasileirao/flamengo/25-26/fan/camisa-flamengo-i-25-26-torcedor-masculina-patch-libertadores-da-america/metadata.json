@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-flamengo-i-25-26-torcedor-masculina-patch-libertadores-da-america",
+  "createdAt": "2026-07-05T06:09:13Z",
+  "updatedAt": "2026-07-05T06:09:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-flamengo-i-25-26-torcedor-masculina-patch-libertadores-da-america/front.webp",
+      "hash": "57957bce9ad7e1674fd5f885454d11a4ac591abe5ff049d46aa4c6d53eb53bf9",
+      "width": 480,
+      "height": 480,
+      "size": 14684,
+      "createdAt": "2026-07-05T06:09:13Z",
+      "updatedAt": "2026-07-05T06:09:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-flamengo-i-25-26-torcedor-masculina-patch-libertadores-da-america/back.webp",
+      "hash": "e4d3a19d16a0f205a392a8a572f42c7717aaa8c0b763555938d715037e66595c",
+      "width": 480,
+      "height": 480,
+      "size": 7952,
+      "createdAt": "2026-07-05T06:09:13Z",
+      "updatedAt": "2026-07-05T06:09:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-flamengo-i-25-26-torcedor-masculina-patch-libertadores-da-america/detail-1.webp",
+      "hash": "cc419f726d9f6cda81c4add0f9b1496c235bf9bb6d5a599fa6ece46d3805aee2",
+      "width": 480,
+      "height": 480,
+      "size": 14390,
+      "createdAt": "2026-07-05T06:09:13Z",
+      "updatedAt": "2026-07-05T06:09:13Z"
+    }
+  ]
+}

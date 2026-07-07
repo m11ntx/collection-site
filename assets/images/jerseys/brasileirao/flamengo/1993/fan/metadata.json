@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-ii-retro-1993-torcedor-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-04T17:30:26Z",
+  "updatedAt": "2026-07-04T17:30:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/front.webp",
+      "hash": "8a6d978fe1b322e51a1f5fb7b17bce3d662d0727a88374de338856adb86c9cb1",
+      "width": 480,
+      "height": 480,
+      "size": 11168,
+      "createdAt": "2026-07-04T17:30:23Z",
+      "updatedAt": "2026-07-04T17:30:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/back.webp",
+      "hash": "e92a25dab8a1a50662f8b58793484b3fd83f9460ed7c9d45b21c6cee44e8fbbe",
+      "width": 480,
+      "height": 480,
+      "size": 13740,
+      "createdAt": "2026-07-04T17:30:23Z",
+      "updatedAt": "2026-07-04T17:30:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/detail-1.webp",
+      "hash": "264ecb73b50af24243e4f545118c09fd9b79853fed38eb47c1f1da3f7612a5a4",
+      "width": 480,
+      "height": 480,
+      "size": 7940,
+      "createdAt": "2026-07-04T17:30:24Z",
+      "updatedAt": "2026-07-04T17:30:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/detail-2.webp",
+      "hash": "51ce4dd2f2e8c00883d03766f69b82fa8b5f6e62c43e898962b80bc15c9a31de",
+      "width": 480,
+      "height": 480,
+      "size": 21294,
+      "createdAt": "2026-07-04T17:30:24Z",
+      "updatedAt": "2026-07-04T17:30:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/detail-3.webp",
+      "hash": "5182a6e46c3056c374d59305382da43893b7656b5220ded620d7b080d665b7c7",
+      "width": 480,
+      "height": 480,
+      "size": 35690,
+      "createdAt": "2026-07-04T17:30:25Z",
+      "updatedAt": "2026-07-04T17:30:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/detail-4.webp",
+      "hash": "22d2f443be3c6f2fcc0098f0f72dc57ee7d7ac978ecd07c0ff3c38a30debb776",
+      "width": 480,
+      "height": 480,
+      "size": 38650,
+      "createdAt": "2026-07-04T17:30:25Z",
+      "updatedAt": "2026-07-04T17:30:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1993/fan/detail-5.webp",
+      "hash": "14455b19fece43616ab4ac165ba279436bd6ee2debb27fb1bc98d1f8a1641a3b",
+      "width": 480,
+      "height": 480,
+      "size": 16506,
+      "createdAt": "2026-07-04T17:30:26Z",
+      "updatedAt": "2026-07-04T17:30:26Z"
+    }
+  ]
+}

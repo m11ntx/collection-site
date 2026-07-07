@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-bayern-de-munique-adidas-24-25-preto-com-detalhes-em-verde-e-roxo",
+  "createdAt": "2026-07-04T18:06:11Z",
+  "updatedAt": "2026-07-04T20:22:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/front.webp",
+      "hash": "b173f12590e4dcdcdd7800eceb92d5b987bc2dfb5032880fd2a38f8a717c2d6a",
+      "width": 480,
+      "height": 480,
+      "size": 7778,
+      "createdAt": "2026-07-04T18:06:11Z",
+      "updatedAt": "2026-07-04T20:22:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/back.webp",
+      "hash": "13c3592333607f3514cd0fc7ed9f2ff684d92637e335c4eb1fa47dff9d9d2e8f",
+      "width": 480,
+      "height": 480,
+      "size": 2982,
+      "createdAt": "2026-07-04T18:06:11Z",
+      "updatedAt": "2026-07-04T20:22:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/detail-1.webp",
+      "hash": "a437cde289ce56b0d52eae33f813c347dbd3142c42a021f5229012225edfd129",
+      "width": 480,
+      "height": 480,
+      "size": 4090,
+      "createdAt": "2026-07-04T20:22:50Z",
+      "updatedAt": "2026-07-04T20:22:50Z"
+    }
+  ]
+}

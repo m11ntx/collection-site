@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-ii-2005-2006-masculina-nike-vermelha-com-detalhes-em-verde-e-branco",
+  "createdAt": "2026-07-04T17:52:32Z",
+  "updatedAt": "2026-07-04T17:52:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/front.webp",
+      "hash": "8b035a82f09331175b139226194f715b150fbbdb87418793ce271a2d7395b2fc",
+      "width": 480,
+      "height": 480,
+      "size": 8038,
+      "createdAt": "2026-07-04T17:52:29Z",
+      "updatedAt": "2026-07-04T17:52:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/back.webp",
+      "hash": "ba3b0ec48e16cfdb896c895d2ccd04ea84183bfa75638f0bb4ab43e0227a1359",
+      "width": 480,
+      "height": 480,
+      "size": 12398,
+      "createdAt": "2026-07-04T17:52:30Z",
+      "updatedAt": "2026-07-04T17:52:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/detail-1.webp",
+      "hash": "e9a99daa3464299f5daeb8e7bc6efb2b901e9bfe922cc41b9d1047521e7bf948",
+      "width": 480,
+      "height": 480,
+      "size": 5898,
+      "createdAt": "2026-07-04T17:52:30Z",
+      "updatedAt": "2026-07-04T17:52:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/detail-2.webp",
+      "hash": "56438ca9c84a49df7e2689f06fb45b44b1556d10c6bcbb51d802b3be513803a9",
+      "width": 480,
+      "height": 480,
+      "size": 22220,
+      "createdAt": "2026-07-04T17:52:31Z",
+      "updatedAt": "2026-07-04T17:52:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/detail-3.webp",
+      "hash": "2b6014eaf6e493b6fe5419730fa100d287469c32b99efdb2b7986b810a2ece23",
+      "width": 480,
+      "height": 480,
+      "size": 29200,
+      "createdAt": "2026-07-04T17:52:31Z",
+      "updatedAt": "2026-07-04T17:52:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/detail-4.webp",
+      "hash": "2ae4d1c493605973794bc538b72dac1bccae61b572fbdee8ba2f389246f20bb4",
+      "width": 480,
+      "height": 480,
+      "size": 15740,
+      "createdAt": "2026-07-04T17:52:32Z",
+      "updatedAt": "2026-07-04T17:52:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/2005-2006/sem-versao/detail-5.webp",
+      "hash": "171a2d6585ed32ae1bb287aeb3d5d526b0b80355f1fd9203eaeb0149da20397e",
+      "width": 480,
+      "height": 480,
+      "size": 11452,
+      "createdAt": "2026-07-04T17:52:32Z",
+      "updatedAt": "2026-07-04T17:52:32Z"
+    }
+  ]
+}

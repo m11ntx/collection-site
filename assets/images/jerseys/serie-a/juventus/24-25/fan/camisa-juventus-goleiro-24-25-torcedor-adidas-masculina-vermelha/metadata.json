@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-07T01:32:53Z",
+  "updatedAt": "2026-07-07T01:32:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/front.webp",
+      "hash": "13a48d319fb20a609621c6bb62dd1b2a78f5bb0e4e656617bf8a1f0e74347b7c",
+      "width": 480,
+      "height": 480,
+      "size": 19502,
+      "createdAt": "2026-07-07T01:32:49Z",
+      "updatedAt": "2026-07-07T01:32:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/back.webp",
+      "hash": "032b2018ae668ab084efceeff0a2537e78c25b424510115fc3dcb54091029ae9",
+      "width": 480,
+      "height": 480,
+      "size": 11074,
+      "createdAt": "2026-07-07T01:32:50Z",
+      "updatedAt": "2026-07-07T01:32:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/detail-1.webp",
+      "hash": "950919b9ad795895cad05a2b5278001cd066617a111478e43fc52dae1af69f63",
+      "width": 480,
+      "height": 480,
+      "size": 51706,
+      "createdAt": "2026-07-07T01:32:50Z",
+      "updatedAt": "2026-07-07T01:32:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/detail-2.webp",
+      "hash": "e39452d055580c27961e070a48523ecf0b27e438692af44262039e18857a8632",
+      "width": 480,
+      "height": 480,
+      "size": 57052,
+      "createdAt": "2026-07-07T01:32:51Z",
+      "updatedAt": "2026-07-07T01:32:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/detail-3.webp",
+      "hash": "b3a7faea787d435dffcab972596a9ea9047967c890e90eaac85a4acbec03cfe1",
+      "width": 480,
+      "height": 480,
+      "size": 61440,
+      "createdAt": "2026-07-07T01:32:51Z",
+      "updatedAt": "2026-07-07T01:32:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/detail-4.webp",
+      "hash": "18c24dc6d25168b4c56d922118cc69ff266185398c5c8c183e8919f332c1b7dd",
+      "width": 480,
+      "height": 480,
+      "size": 29706,
+      "createdAt": "2026-07-07T01:32:52Z",
+      "updatedAt": "2026-07-07T01:32:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-goleiro-24-25-torcedor-adidas-masculina-vermelha/detail-5.webp",
+      "hash": "843f88880ba98e527c49d1e99f259d2a5a2cbe65dbb58d1e2231f7105640d6d9",
+      "width": 480,
+      "height": 480,
+      "size": 44960,
+      "createdAt": "2026-07-07T01:32:53Z",
+      "updatedAt": "2026-07-07T01:32:53Z"
+    }
+  ]
+}

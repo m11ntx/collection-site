@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-corinthians-iii-25-26",
+  "createdAt": "2026-07-04T18:29:31Z",
+  "updatedAt": "2026-07-04T20:29:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/front.webp",
+      "hash": "b81faf49a0e5f87e00ebe36d97226e5daf441b39a6ebfdd4152484ce1dbc5f6e",
+      "width": 480,
+      "height": 480,
+      "size": 8210,
+      "createdAt": "2026-07-04T18:29:30Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/back.webp",
+      "hash": "0adff20513fe2acf1c048a060386dda7da9f41cb786178bdfa5788cfcf3754d6",
+      "width": 480,
+      "height": 480,
+      "size": 9080,
+      "createdAt": "2026-07-04T20:29:56Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/detail-1.webp",
+      "hash": "4b8a67d47c3054d4511942217bfdeef77bf145b7acba81f6065e6d3df114eb03",
+      "width": 480,
+      "height": 480,
+      "size": 55688,
+      "createdAt": "2026-07-04T20:29:56Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/detail-2.webp",
+      "hash": "8471d966cbc74379a56ea7012b7936a00a0a7ee9cbc38314ab07bf6e62fdd93a",
+      "width": 480,
+      "height": 480,
+      "size": 40802,
+      "createdAt": "2026-07-04T20:29:56Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/detail-3.webp",
+      "hash": "cddbed9b0bd0c8cf310fb44c7e4af0cfc16f15d1089eb9e03a50b8bb25ee56a8",
+      "width": 480,
+      "height": 480,
+      "size": 6466,
+      "createdAt": "2026-07-04T20:29:56Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/detail-4.webp",
+      "hash": "b8ea4dcad2e7d3c709c463d4784d61152175f9e2ded2a4b59bd0b74e04a51668",
+      "width": 480,
+      "height": 480,
+      "size": 9762,
+      "createdAt": "2026-07-04T20:29:56Z",
+      "updatedAt": "2026-07-04T20:29:56Z"
+    }
+  ]
+}

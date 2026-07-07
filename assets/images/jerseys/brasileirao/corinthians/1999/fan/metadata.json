@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-corinthians-batavo-i-1999-branco",
+  "createdAt": "2026-07-04T18:02:36Z",
+  "updatedAt": "2026-07-04T20:26:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/front.webp",
+      "hash": "b65ad42a9e29f2ac2d5b4f2baf3855d1c8748cf974c346c5ca40e68ab33d1db7",
+      "width": 480,
+      "height": 480,
+      "size": 11106,
+      "createdAt": "2026-07-04T18:02:35Z",
+      "updatedAt": "2026-07-04T20:26:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/back.webp",
+      "hash": "60f8851685733f197877ed6aa78e5276f61fad71c5e95e922cb422f4b3f18921",
+      "width": 480,
+      "height": 480,
+      "size": 7388,
+      "createdAt": "2026-07-04T18:02:35Z",
+      "updatedAt": "2026-07-04T20:26:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/detail-1.webp",
+      "hash": "54deed89969dcd1d9b31a47bcfa6635081c6d8a7863342e4808688402d8c8bef",
+      "width": 480,
+      "height": 480,
+      "size": 16742,
+      "createdAt": "2026-07-04T18:02:36Z",
+      "updatedAt": "2026-07-04T20:26:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/detail-2.webp",
+      "hash": "a42ad23343ad1b3398aa635cc425a123e306353bc8176fd910c999dc33a718e6",
+      "width": 480,
+      "height": 480,
+      "size": 30364,
+      "createdAt": "2026-07-04T20:26:30Z",
+      "updatedAt": "2026-07-04T20:26:30Z"
+    }
+  ]
+}

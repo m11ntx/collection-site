@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-bahia-i-25-26-branco-e-azul",
+  "createdAt": "2026-07-04T20:26:42Z",
+  "updatedAt": "2026-07-04T20:26:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/front.webp",
+      "hash": "e6a16e8c05386958e3dd07f8d90ed40184d0f21e51c830fa1cf008b411331a92",
+      "width": 480,
+      "height": 480,
+      "size": 17008,
+      "createdAt": "2026-07-04T20:26:41Z",
+      "updatedAt": "2026-07-04T20:26:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/back.webp",
+      "hash": "5496326ac5c7cebef98df1ec763adcdfd0124893cf2c1b095cd4ea67baca038a",
+      "width": 480,
+      "height": 480,
+      "size": 14202,
+      "createdAt": "2026-07-04T20:26:41Z",
+      "updatedAt": "2026-07-04T20:26:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/detail-1.webp",
+      "hash": "f089890a08ab0d8961302aef15eaab7bb531f220aaeae8e0188b59e3897c83c7",
+      "width": 480,
+      "height": 480,
+      "size": 56230,
+      "createdAt": "2026-07-04T20:26:41Z",
+      "updatedAt": "2026-07-04T20:26:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/detail-2.webp",
+      "hash": "9e2e0f1854f4481e64bd3f12e5b30e8828e503e411ef84bb7e622f5af36818f4",
+      "width": 480,
+      "height": 480,
+      "size": 56578,
+      "createdAt": "2026-07-04T20:26:42Z",
+      "updatedAt": "2026-07-04T20:26:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/detail-3.webp",
+      "hash": "ca28e5a68ec2905de8426860848e5afef071a6f990e1db906512f7d0de9bfaf6",
+      "width": 480,
+      "height": 480,
+      "size": 33690,
+      "createdAt": "2026-07-04T20:26:42Z",
+      "updatedAt": "2026-07-04T20:26:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/sem-versao/detail-4.webp",
+      "hash": "9158670fea7aa33e789327f2cac7636e105ab5de249107b8ad533ffb86c1950a",
+      "width": 480,
+      "height": 480,
+      "size": 23832,
+      "createdAt": "2026-07-04T20:26:42Z",
+      "updatedAt": "2026-07-04T20:26:42Z"
+    }
+  ]
+}

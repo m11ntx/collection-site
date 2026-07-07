@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-espanha-i-1996-adidas-masculina-vermelha-com-detalhes-em-azul-e-amarelo",
+  "createdAt": "2026-07-04T17:19:36Z",
+  "updatedAt": "2026-07-04T21:10:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/front.webp",
+      "hash": "5975a05cd85d7e7af7bc26a3540d9be066c61ae57aed1f482ceb210c8e6f0e1c",
+      "width": 480,
+      "height": 480,
+      "size": 12220,
+      "createdAt": "2026-07-04T17:19:33Z",
+      "updatedAt": "2026-07-04T21:10:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/back.webp",
+      "hash": "ce08335c375f70b46e79080f7c15c4b2b986e385a2df7ef8473046e0cf23940e",
+      "width": 480,
+      "height": 480,
+      "size": 19624,
+      "createdAt": "2026-07-04T17:19:34Z",
+      "updatedAt": "2026-07-04T21:10:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/detail-1.webp",
+      "hash": "8e7b0dc7987e769a73fc2e1c4177c246750eacb4dc0352954a6294ca3551e436",
+      "width": 480,
+      "height": 480,
+      "size": 7710,
+      "createdAt": "2026-07-04T17:19:34Z",
+      "updatedAt": "2026-07-04T21:10:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/detail-2.webp",
+      "hash": "e1ac925f6f606760e8a2359f8e7aa339a01355bdce897b879fe28579e49d4b0e",
+      "width": 480,
+      "height": 480,
+      "size": 46586,
+      "createdAt": "2026-07-04T17:19:34Z",
+      "updatedAt": "2026-07-04T21:10:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/detail-3.webp",
+      "hash": "f5af6e0045b136ced3f69762d698fc2c6154dcf6f6900e66649313e4ca76f415",
+      "width": 480,
+      "height": 480,
+      "size": 40106,
+      "createdAt": "2026-07-04T17:19:35Z",
+      "updatedAt": "2026-07-04T21:10:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/detail-4.webp",
+      "hash": "04a5462ef5a9eb448b483104299ef6593cf24c1104b9680249dc36817ba7db03",
+      "width": 480,
+      "height": 480,
+      "size": 20474,
+      "createdAt": "2026-07-04T17:19:35Z",
+      "updatedAt": "2026-07-04T21:10:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996/sem-versao/detail-5.webp",
+      "hash": "e70c39d3fbedadc275e3c141205301f48bda60e84dfbeb5952633f5cd09f0f9e",
+      "width": 480,
+      "height": 480,
+      "size": 11044,
+      "createdAt": "2026-07-04T21:04:25Z",
+      "updatedAt": "2026-07-04T21:10:07Z"
+    }
+  ]
+}

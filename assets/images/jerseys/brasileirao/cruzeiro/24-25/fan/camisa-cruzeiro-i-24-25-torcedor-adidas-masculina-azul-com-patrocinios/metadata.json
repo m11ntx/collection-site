@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios",
+  "createdAt": "2026-07-05T04:53:30Z",
+  "updatedAt": "2026-07-05T04:53:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios/front.webp",
+      "hash": "410d003f4ce1ff139eb26d460435cd52263deffb7944b9ab04adb3fe3790b606",
+      "width": 480,
+      "height": 480,
+      "size": 14004,
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios/back.webp",
+      "hash": "6596374d2c7a621f19785815cd9dc317db7da5b1d43f5249cdb055d12ab167c2",
+      "width": 480,
+      "height": 480,
+      "size": 5740,
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios/detail-1.webp",
+      "hash": "5ccadf13ecdede9ac7113d1c7703ec716ae34aa06df50cadb6c7e0b4fc630935",
+      "width": 480,
+      "height": 480,
+      "size": 59482,
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios/detail-2.webp",
+      "hash": "d6839d405db7f47b9efc2675fe422a876038de6f94e72a916243840c16037c91",
+      "width": 480,
+      "height": 480,
+      "size": 66666,
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
+    }
+  ]
+}

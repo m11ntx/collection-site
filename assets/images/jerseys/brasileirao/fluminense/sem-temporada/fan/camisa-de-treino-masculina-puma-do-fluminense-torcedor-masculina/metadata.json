@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-de-treino-masculina-puma-do-fluminense-torcedor-masculina",
+  "createdAt": "2026-07-05T16:04:45Z",
+  "updatedAt": "2026-07-05T16:04:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/sem-temporada/fan/camisa-de-treino-masculina-puma-do-fluminense-torcedor-masculina/front.webp",
+      "hash": "65bd89591f9c3bbdf978ac2be37c0a3d70db0bc3addd4c97d168a8e8c241d0c9",
+      "width": 480,
+      "height": 480,
+      "size": 9928,
+      "createdAt": "2026-07-05T16:04:45Z",
+      "updatedAt": "2026-07-05T16:04:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/sem-temporada/fan/camisa-de-treino-masculina-puma-do-fluminense-torcedor-masculina/back.webp",
+      "hash": "0dc3207917c6af3ec17af3d486a03447af32da035ff5e79189804220173f5a92",
+      "width": 480,
+      "height": 480,
+      "size": 4652,
+      "createdAt": "2026-07-05T16:04:45Z",
+      "updatedAt": "2026-07-05T16:04:45Z"
+    }
+  ]
+}

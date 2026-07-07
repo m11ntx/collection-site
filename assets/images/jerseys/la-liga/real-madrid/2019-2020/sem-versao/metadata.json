@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-2019-2020-manga-longa-adidas-masculina-branca-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T18:12:54Z",
+  "updatedAt": "2026-07-04T20:20:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/front.webp",
+      "hash": "b86949e9a4f35da17498924f59fd2d16396cebffa8610dccb7b146b44284ea4d",
+      "width": 480,
+      "height": 480,
+      "size": 7862,
+      "createdAt": "2026-07-04T18:12:52Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/back.webp",
+      "hash": "65ca13b3562cbd544931a9584fc6898b30dc886bc338a65a128efe3d32a340cd",
+      "width": 480,
+      "height": 480,
+      "size": 4464,
+      "createdAt": "2026-07-04T18:12:52Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/detail-1.webp",
+      "hash": "0626a251224bbea9c286a07b3d1cfb39ba44eb9bc6a4a61324577c0f1d47f09d",
+      "width": 480,
+      "height": 480,
+      "size": 12042,
+      "createdAt": "2026-07-04T18:12:52Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/detail-2.webp",
+      "hash": "724b2e7bb476c983d58779f826c4ed7cc37002b7cb3bd6b46936d54786ac6500",
+      "width": 480,
+      "height": 480,
+      "size": 36484,
+      "createdAt": "2026-07-04T18:12:53Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/detail-3.webp",
+      "hash": "98e9858337c8c75a443bb4660f523f9b39abb3d3b95eb4ed47497aeae1c60abd",
+      "width": 480,
+      "height": 480,
+      "size": 54504,
+      "createdAt": "2026-07-04T18:12:54Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/detail-4.webp",
+      "hash": "6d8fe09c13ab3cd49970305db11364983ea991c827304d99a4adbdf9a3233f28",
+      "width": 480,
+      "height": 480,
+      "size": 11272,
+      "createdAt": "2026-07-04T18:12:54Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2019-2020/sem-versao/detail-5.webp",
+      "hash": "57e1b3a2bce00e6af4cd46bd7ff20a282c216b52b188ddf78a6342e3c7f21de3",
+      "width": 480,
+      "height": 480,
+      "size": 15768,
+      "createdAt": "2026-07-04T20:20:16Z",
+      "updatedAt": "2026-07-04T20:20:16Z"
+    }
+  ]
+}

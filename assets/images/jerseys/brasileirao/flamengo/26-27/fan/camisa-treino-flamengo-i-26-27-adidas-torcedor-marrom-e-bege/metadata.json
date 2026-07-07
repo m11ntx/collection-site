@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-treino-flamengo-i-26-27-adidas-torcedor-marrom-e-bege",
+  "createdAt": "2026-07-05T06:09:26Z",
+  "updatedAt": "2026-07-05T06:09:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-treino-flamengo-i-26-27-adidas-torcedor-marrom-e-bege/front.webp",
+      "hash": "61120a8989408262f83319a70b49750d486162915bc518395dc2a6affb7dbfe8",
+      "width": 480,
+      "height": 475,
+      "size": 8604,
+      "createdAt": "2026-07-05T06:09:25Z",
+      "updatedAt": "2026-07-05T06:09:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-treino-flamengo-i-26-27-adidas-torcedor-marrom-e-bege/back.webp",
+      "hash": "072023cc689c5f84e656210cfc8c9308c3772499fc34f968e93cfc0984920d2e",
+      "width": 480,
+      "height": 480,
+      "size": 14278,
+      "createdAt": "2026-07-05T06:09:26Z",
+      "updatedAt": "2026-07-05T06:09:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-treino-flamengo-i-26-27-adidas-torcedor-marrom-e-bege/detail-1.webp",
+      "hash": "2fab32a55dd3dc68b45ef97450937e4885e748503778d3b96fe5fb82fcaca5ef",
+      "width": 480,
+      "height": 480,
+      "size": 3376,
+      "createdAt": "2026-07-05T06:09:26Z",
+      "updatedAt": "2026-07-05T06:09:26Z"
+    }
+  ]
+}

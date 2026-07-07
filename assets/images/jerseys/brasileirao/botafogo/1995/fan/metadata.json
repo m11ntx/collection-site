@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-botafogo-ii-retro-1995-torcedor-masculina-preta",
+  "createdAt": "2026-07-04T20:10:06Z",
+  "updatedAt": "2026-07-04T21:05:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/front.webp",
+      "hash": "7279a40b21f1e306cfd8288e4c13b1679c10ee7822e7d71f7b92a1d28cd3623d",
+      "width": 480,
+      "height": 480,
+      "size": 10882,
+      "createdAt": "2026-07-04T20:10:05Z",
+      "updatedAt": "2026-07-04T21:05:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/back.webp",
+      "hash": "0dc39b982a2445998181f8e694d79337fc0c8e454ca089eb9dbac76a0677ed8d",
+      "width": 480,
+      "height": 480,
+      "size": 13624,
+      "createdAt": "2026-07-04T20:10:05Z",
+      "updatedAt": "2026-07-04T21:05:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/detail-1.webp",
+      "hash": "1a9ee73ed70d7a1e27aac3499798bbbfc0d28564adac7fc5af78ad43ff6fc284",
+      "width": 480,
+      "height": 480,
+      "size": 8022,
+      "createdAt": "2026-07-04T20:10:05Z",
+      "updatedAt": "2026-07-04T21:05:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/detail-2.webp",
+      "hash": "361dc13f13a8e062e2be32bde0695f879ae5d5e0d44343353ac74b884f409fee",
+      "width": 480,
+      "height": 480,
+      "size": 20034,
+      "createdAt": "2026-07-04T20:10:05Z",
+      "updatedAt": "2026-07-04T21:05:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/detail-3.webp",
+      "hash": "c38fbac8e2991185fd56bd4cc59b6b2afe68d1b2e865c9d8f49e753ebd30870a",
+      "width": 480,
+      "height": 480,
+      "size": 16800,
+      "createdAt": "2026-07-04T20:10:05Z",
+      "updatedAt": "2026-07-04T21:05:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/detail-4.webp",
+      "hash": "1dece5705b3518a69b9d8e66391e99185397faa338ecddfa8f4fc1ae58a04de8",
+      "width": 480,
+      "height": 480,
+      "size": 26580,
+      "createdAt": "2026-07-04T20:10:06Z",
+      "updatedAt": "2026-07-04T21:05:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1995/fan/detail-5.webp",
+      "hash": "b28c42bb265be37c323a5cb2c257ee353320c314edfa006c923d3e22139c2654",
+      "width": 480,
+      "height": 480,
+      "size": 22664,
+      "createdAt": "2026-07-04T20:10:06Z",
+      "updatedAt": "2026-07-04T21:05:33Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fluminense-retro-14-15-torcedor-masculina-branca-com-detalhes-em-vermelho-e-verde",
+  "createdAt": "2026-07-04T20:10:09Z",
+  "updatedAt": "2026-07-04T20:10:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/front.webp",
+      "hash": "b47a75ba05c3ccc19f25b163b4270fd53f7c2bf7541d4096f2219232af1aa737",
+      "width": 480,
+      "height": 480,
+      "size": 7844,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/back.webp",
+      "hash": "16c6bf290e247a2abc6852623f79cface9320bad3769a968c2f05a48fdd60bd2",
+      "width": 480,
+      "height": 480,
+      "size": 9572,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/detail-1.webp",
+      "hash": "fb87f2999e7ddbcc39fc67827a6d3c8172a4945d7892276160fc4538d6ae60ff",
+      "width": 480,
+      "height": 480,
+      "size": 4994,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/detail-2.webp",
+      "hash": "84900993bb9d7f9307501268374b07889c0dcd37d0c16ff2605803e42a9ca38f",
+      "width": 480,
+      "height": 480,
+      "size": 15184,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/detail-3.webp",
+      "hash": "2bf01d0d9423f443061d4efa7f860cce08eda2ff0f0313582b4fb5dbdd8c4022",
+      "width": 480,
+      "height": 480,
+      "size": 15776,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/detail-4.webp",
+      "hash": "26f34176d360984bd0aeab853847dd5236412641228693d3d44d86bd9bdf78e6",
+      "width": 480,
+      "height": 480,
+      "size": 14014,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/fluminense/14-15/fan/detail-5.webp",
+      "hash": "2213f8f7beb3146fe9076eb38c2ba8e038191040c394dcf9bebcdf73afb5d1db",
+      "width": 480,
+      "height": 480,
+      "size": 25790,
+      "createdAt": "2026-07-04T20:10:09Z",
+      "updatedAt": "2026-07-04T20:10:09Z"
+    }
+  ]
+}

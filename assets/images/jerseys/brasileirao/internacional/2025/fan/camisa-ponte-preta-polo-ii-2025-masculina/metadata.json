@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ponte-preta-polo-ii-2025-masculina",
+  "createdAt": "2026-07-05T05:51:09Z",
+  "updatedAt": "2026-07-05T05:51:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/2025/fan/camisa-ponte-preta-polo-ii-2025-masculina/front.webp",
+      "hash": "dcd94cf1186c8d8701acf5bf004f460f027a444952b9edf7d827c0602d5ba251",
+      "width": 480,
+      "height": 480,
+      "size": 7878,
+      "createdAt": "2026-07-05T05:51:09Z",
+      "updatedAt": "2026-07-05T05:51:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/2025/fan/camisa-ponte-preta-polo-ii-2025-masculina/back.webp",
+      "hash": "e0f6f245307dcc56e9c3535c3024ab4d4309f3f57e2927e471944633979f1c03",
+      "width": 480,
+      "height": 480,
+      "size": 6558,
+      "createdAt": "2026-07-05T05:51:09Z",
+      "updatedAt": "2026-07-05T05:51:09Z"
+    }
+  ]
+}

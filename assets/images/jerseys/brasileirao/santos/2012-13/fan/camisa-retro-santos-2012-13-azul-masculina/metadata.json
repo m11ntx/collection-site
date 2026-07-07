@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-retro-santos-2012-13-azul-masculina",
+  "createdAt": "2026-07-05T02:59:37Z",
+  "updatedAt": "2026-07-05T02:59:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-13/fan/camisa-retro-santos-2012-13-azul-masculina/front.webp",
+      "hash": "e8cbb3f8372ee748cfe0dce3bad7936b1059fca41062bca5471326e2265c7924",
+      "width": 480,
+      "height": 480,
+      "size": 15028,
+      "createdAt": "2026-07-05T02:59:07Z",
+      "updatedAt": "2026-07-05T02:59:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-13/fan/camisa-retro-santos-2012-13-azul-masculina/back.webp",
+      "hash": "7bc673291c17adb4364b568aebd7aedb85be59e97382873f44cecdf6e6edc4ee",
+      "width": 480,
+      "height": 480,
+      "size": 10134,
+      "createdAt": "2026-07-05T02:59:15Z",
+      "updatedAt": "2026-07-05T02:59:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-13/fan/camisa-retro-santos-2012-13-azul-masculina/detail-1.webp",
+      "hash": "a0927e5168db2da93c8e347a5bd9c92518aeb491bfa39f80072065cdfeb1f94d",
+      "width": 480,
+      "height": 480,
+      "size": 22236,
+      "createdAt": "2026-07-05T02:59:23Z",
+      "updatedAt": "2026-07-05T02:59:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-13/fan/camisa-retro-santos-2012-13-azul-masculina/detail-2.webp",
+      "hash": "89eb909c3db014806d9f4ff25b464cdad32287c7cbd341642633ba795df15226",
+      "width": 480,
+      "height": 480,
+      "size": 63744,
+      "createdAt": "2026-07-05T02:59:30Z",
+      "updatedAt": "2026-07-05T02:59:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/santos/2012-13/fan/camisa-retro-santos-2012-13-azul-masculina/detail-3.webp",
+      "hash": "73cd303bc2146e56b20b106c76ae9cd865b7b0acf034417f20db7a11d32842aa",
+      "width": 480,
+      "height": 480,
+      "size": 21380,
+      "createdAt": "2026-07-05T02:59:30Z",
+      "updatedAt": "2026-07-05T02:59:30Z"
+    }
+  ]
+}

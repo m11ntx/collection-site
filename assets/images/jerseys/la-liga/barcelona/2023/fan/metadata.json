@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-barcelona-titular-2023-2024-torcedor",
+  "createdAt": "2026-07-04T18:29:11Z",
+  "updatedAt": "2026-07-04T18:29:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2023/fan/front.webp",
+      "hash": "9dd607cb311801d7c14e1d693722a5af7ccce9e8f6851b467937099019b37b87",
+      "width": 480,
+      "height": 480,
+      "size": 20116,
+      "createdAt": "2026-07-04T18:29:10Z",
+      "updatedAt": "2026-07-04T18:29:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2023/fan/back.webp",
+      "hash": "807b34eb6ee01a60503a7b8cdbf86bed0c69131fdea19cd8cd342e1473336459",
+      "width": 480,
+      "height": 480,
+      "size": 17454,
+      "createdAt": "2026-07-04T18:29:11Z",
+      "updatedAt": "2026-07-04T18:29:11Z"
+    }
+  ]
+}

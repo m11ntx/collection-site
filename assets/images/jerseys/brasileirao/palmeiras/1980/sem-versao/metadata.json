@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-i-1980-masculina-adidas-verde-com-detalhes-branco-com-patrocinio-da-coca-cola",
+  "createdAt": "2026-07-04T17:48:00Z",
+  "updatedAt": "2026-07-04T17:48:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/front.webp",
+      "hash": "0a0188d8e20a9277ec744b8a369f95517f1e7b521ad055b1418d01a2d633a156",
+      "width": 480,
+      "height": 480,
+      "size": 8038,
+      "createdAt": "2026-07-04T17:47:57Z",
+      "updatedAt": "2026-07-04T17:47:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/back.webp",
+      "hash": "9b747f2913577d7a0f834ab2681cc586e74fd951df3c334a59f96956752fa97f",
+      "width": 480,
+      "height": 480,
+      "size": 12192,
+      "createdAt": "2026-07-04T17:47:57Z",
+      "updatedAt": "2026-07-04T17:47:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/detail-1.webp",
+      "hash": "226b62eede28acf89a85ce56c506a9eb76464c0fb4917768dd0d01edf771fb41",
+      "width": 480,
+      "height": 480,
+      "size": 6608,
+      "createdAt": "2026-07-04T17:47:58Z",
+      "updatedAt": "2026-07-04T17:47:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/detail-2.webp",
+      "hash": "1ac1a14783174374c3b3844fb5d2540d9f2b18a4bc7ce7fd3bdd72f206ab4956",
+      "width": 480,
+      "height": 480,
+      "size": 61022,
+      "createdAt": "2026-07-04T17:47:58Z",
+      "updatedAt": "2026-07-04T17:47:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/detail-3.webp",
+      "hash": "bed998d55f9905e0a3dcf2496a07bf45db9a5e694dfe8109cd3caca1306cc4ba",
+      "width": 480,
+      "height": 480,
+      "size": 65002,
+      "createdAt": "2026-07-04T17:47:59Z",
+      "updatedAt": "2026-07-04T17:47:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/detail-4.webp",
+      "hash": "998a88d4499d0a552f52ed7bd3ddd8cc117982c2dc3ed24fbab7636d1197ac41",
+      "width": 480,
+      "height": 480,
+      "size": 12192,
+      "createdAt": "2026-07-04T17:48:00Z",
+      "updatedAt": "2026-07-04T17:48:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1980/sem-versao/detail-5.webp",
+      "hash": "9e89e1a41be9bbab4fb3f9c521ee2eea4e1a7981647ea5cf202ec5a1ff4e4988",
+      "width": 480,
+      "height": 480,
+      "size": 13478,
+      "createdAt": "2026-07-04T17:48:00Z",
+      "updatedAt": "2026-07-04T17:48:00Z"
+    }
+  ]
+}

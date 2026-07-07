@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-tottenham",
+  "createdAt": "2026-07-04T17:14:15Z",
+  "updatedAt": "2026-07-04T18:27:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/sem-temporada/sem-versao/front.webp",
+      "hash": "d5b1c1e1f538271de11866bcd7df1d4d311ea925ba431776e15b8de9d8534759",
+      "width": 480,
+      "height": 480,
+      "size": 6802,
+      "createdAt": "2026-07-04T17:14:13Z",
+      "updatedAt": "2026-07-04T18:27:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/sem-temporada/sem-versao/back.webp",
+      "hash": "b57c8f6ff180ecabcf74c87ab014af4919139d8f057aa5b461e70ae624e59106",
+      "width": 480,
+      "height": 480,
+      "size": 11694,
+      "createdAt": "2026-07-04T17:14:13Z",
+      "updatedAt": "2026-07-04T18:27:49Z"
+    }
+  ]
+}

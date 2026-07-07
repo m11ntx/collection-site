@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-ii-2008-2010-masculina-umbro-vermelha",
+  "createdAt": "2026-07-04T17:40:53Z",
+  "updatedAt": "2026-07-04T17:40:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/front.webp",
+      "hash": "5d5bb12dbd5e9052a1c322e29deb69b64b35f4009447539952d5ec5e7b9829be",
+      "width": 480,
+      "height": 480,
+      "size": 9042,
+      "createdAt": "2026-07-04T17:40:50Z",
+      "updatedAt": "2026-07-04T17:40:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/back.webp",
+      "hash": "f12bd52bf0a0f3a30ad2df4037418786f541191417723302321a2b9b8551571a",
+      "width": 480,
+      "height": 480,
+      "size": 7022,
+      "createdAt": "2026-07-04T17:40:51Z",
+      "updatedAt": "2026-07-04T17:40:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/detail-1.webp",
+      "hash": "552a58b9fd7d18093a54a81e8e9d99b5a4afb4b0f9754e09158e51d7020ed2f7",
+      "width": 480,
+      "height": 480,
+      "size": 19804,
+      "createdAt": "2026-07-04T17:40:51Z",
+      "updatedAt": "2026-07-04T17:40:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/detail-2.webp",
+      "hash": "64e2f5511881ca8636dfac5c03b917d25be2d5559bf84d4206af26f9b2a9fbe6",
+      "width": 480,
+      "height": 480,
+      "size": 41452,
+      "createdAt": "2026-07-04T17:40:52Z",
+      "updatedAt": "2026-07-04T17:40:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/detail-3.webp",
+      "hash": "2b63cb0b8cae047c1cdcd5ae89dc1d283ff11d5a56a207aa6b80542aa2a69e59",
+      "width": 480,
+      "height": 480,
+      "size": 16366,
+      "createdAt": "2026-07-04T17:40:52Z",
+      "updatedAt": "2026-07-04T17:40:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/detail-4.webp",
+      "hash": "26bed1aedaf57a968a475383ffc55c561bcba882a7d274a0b8c1d3260c0209ff",
+      "width": 480,
+      "height": 480,
+      "size": 10792,
+      "createdAt": "2026-07-04T17:40:52Z",
+      "updatedAt": "2026-07-04T17:40:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2008-2010/sem-versao/detail-5.webp",
+      "hash": "9628f2a092559284718fe22ef571c31319fe5292b53ec9cbd01fff5043e5d3e9",
+      "width": 480,
+      "height": 480,
+      "size": 16912,
+      "createdAt": "2026-07-04T17:40:53Z",
+      "updatedAt": "2026-07-04T17:40:53Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-ac-milan-goleiro-iii-25-26-puma-verde",
+  "createdAt": "2026-07-07T01:34:24Z",
+  "updatedAt": "2026-07-07T01:34:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/25-26/sem-versao/kit-infantil-ac-milan-goleiro-iii-25-26-puma-verde/front.webp",
+      "hash": "5aaa1de0e96eae06573412d3be3559d7a1163c4b795a9bf97a3d42e145b4e7e0",
+      "width": 480,
+      "height": 480,
+      "size": 12826,
+      "createdAt": "2026-07-07T01:34:23Z",
+      "updatedAt": "2026-07-07T01:34:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/25-26/sem-versao/kit-infantil-ac-milan-goleiro-iii-25-26-puma-verde/back.webp",
+      "hash": "5981b2663884a05d6a56c9f25fac20d2982e2af6d87b22a77744bdf560034d69",
+      "width": 480,
+      "height": 480,
+      "size": 6692,
+      "createdAt": "2026-07-07T01:34:23Z",
+      "updatedAt": "2026-07-07T01:34:23Z"
+    }
+  ]
+}

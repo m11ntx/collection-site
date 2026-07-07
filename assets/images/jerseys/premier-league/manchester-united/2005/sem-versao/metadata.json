@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-i-2005-masculina-nike-vermelha-com-detalhes-em-preto-e-branco",
+  "createdAt": "2026-07-04T17:26:09Z",
+  "updatedAt": "2026-07-04T17:26:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/front.webp",
+      "hash": "8036b2f7d1b3486010f079d7203601aab47251971747b5f6b3245e0e91560426",
+      "width": 480,
+      "height": 640,
+      "size": 15644,
+      "createdAt": "2026-07-04T17:26:05Z",
+      "updatedAt": "2026-07-04T17:26:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/back.webp",
+      "hash": "ce8dfd031adab8a82688c5b43be7b155da2769a1c2ba725fe64bf998879b3b3b",
+      "width": 480,
+      "height": 640,
+      "size": 59784,
+      "createdAt": "2026-07-04T17:26:06Z",
+      "updatedAt": "2026-07-04T17:26:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/detail-1.webp",
+      "hash": "1d82991b8c7917a6b5ead32b1240ddfeea07eba89bfba5cfd1ca90f467809f4d",
+      "width": 480,
+      "height": 640,
+      "size": 107256,
+      "createdAt": "2026-07-04T17:26:06Z",
+      "updatedAt": "2026-07-04T17:26:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/detail-2.webp",
+      "hash": "b662a0ceee224aa987383dc2a42b5fef9775be548f8aa963bc7ec4120440554b",
+      "width": 480,
+      "height": 640,
+      "size": 112814,
+      "createdAt": "2026-07-04T17:26:07Z",
+      "updatedAt": "2026-07-04T17:26:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/detail-3.webp",
+      "hash": "538c6cb3783f0685b45cb08a257c0d0139e93f2cea7d76d17cb46fb53dc74e62",
+      "width": 480,
+      "height": 640,
+      "size": 55182,
+      "createdAt": "2026-07-04T17:26:08Z",
+      "updatedAt": "2026-07-04T17:26:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/detail-4.webp",
+      "hash": "72419fde581ffd737edb4bb21271536ca69d53389a1a383a0b42f40d0147ba18",
+      "width": 480,
+      "height": 640,
+      "size": 51474,
+      "createdAt": "2026-07-04T17:26:08Z",
+      "updatedAt": "2026-07-04T17:26:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2005/sem-versao/detail-5.webp",
+      "hash": "8a8c3a03db440f7d66ecac4d3fb6492803e1cca32165447a58cb5ec061afb459",
+      "width": 480,
+      "height": 640,
+      "size": 53042,
+      "createdAt": "2026-07-04T17:26:09Z",
+      "updatedAt": "2026-07-04T17:26:09Z"
+    }
+  ]
+}

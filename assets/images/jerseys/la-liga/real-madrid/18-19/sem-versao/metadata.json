@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-18-19-masculina-adidas-branca-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T17:36:20Z",
+  "updatedAt": "2026-07-04T17:36:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/front.webp",
+      "hash": "f10f9c67e6f34f7092441db9382b10b404d32411d290081bdce4800312ea09ce",
+      "width": 480,
+      "height": 480,
+      "size": 6434,
+      "createdAt": "2026-07-04T17:36:17Z",
+      "updatedAt": "2026-07-04T17:36:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/back.webp",
+      "hash": "cad51b1830f082c3765418bfa15b257c15c46ae092435d7875736f11dafb5523",
+      "width": 480,
+      "height": 480,
+      "size": 3940,
+      "createdAt": "2026-07-04T17:36:18Z",
+      "updatedAt": "2026-07-04T17:36:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/detail-1.webp",
+      "hash": "4ae006f4bb6f11e0023532f5036c959a6b9f6753b826628805ba031392b27a38",
+      "width": 480,
+      "height": 480,
+      "size": 12266,
+      "createdAt": "2026-07-04T17:36:18Z",
+      "updatedAt": "2026-07-04T17:36:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/detail-2.webp",
+      "hash": "305640e72f7ba861be2d64495d2d0af79599d15ff2069fe6ac6d00f539185135",
+      "width": 480,
+      "height": 480,
+      "size": 54920,
+      "createdAt": "2026-07-04T17:36:19Z",
+      "updatedAt": "2026-07-04T17:36:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/detail-3.webp",
+      "hash": "bf2c82895f4208e63b63b46d412aee918accf81c9609412b73aa53d5002ab472",
+      "width": 480,
+      "height": 480,
+      "size": 52996,
+      "createdAt": "2026-07-04T17:36:19Z",
+      "updatedAt": "2026-07-04T17:36:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/detail-4.webp",
+      "hash": "58799a38dc067357b43203e92e7506294e7633972db62a30d9549b0caf09aaac",
+      "width": 480,
+      "height": 480,
+      "size": 19170,
+      "createdAt": "2026-07-04T17:36:20Z",
+      "updatedAt": "2026-07-04T17:36:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/18-19/sem-versao/detail-5.webp",
+      "hash": "799649d9a480ea6cd8ff2dce9ff3a52e30f908d53949c8fbc361718aaf3d41a6",
+      "width": 480,
+      "height": 480,
+      "size": 15678,
+      "createdAt": "2026-07-04T17:36:20Z",
+      "updatedAt": "2026-07-04T17:36:20Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde",
+  "createdAt": "2026-07-05T06:21:24Z",
+  "updatedAt": "2026-07-05T06:21:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/front.webp",
+      "hash": "aa705407dbd6b3a857d9cd1410f28528811369ec46485ab9dced8aa2d25bb487",
+      "width": 480,
+      "height": 480,
+      "size": 6788,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/back.webp",
+      "hash": "b607c04937c95965b17e489a3fef5c8f80895fe6d2ecb53e700462f9cdd14961",
+      "width": 480,
+      "height": 480,
+      "size": 9070,
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-1.webp",
+      "hash": "d4de04c8903c96948d38b9df0642af9271cf4476a84c60b51d868b5789dfc61c",
+      "width": 480,
+      "height": 480,
+      "size": 4646,
+      "createdAt": "2026-07-05T06:21:24Z",
+      "updatedAt": "2026-07-05T06:21:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-2.webp",
+      "hash": "845bf76290729711939740c76920301a596966723fd4ce8bf78e34e4cc7dc23a",
+      "width": 480,
+      "height": 480,
+      "size": 84018,
+      "createdAt": "2026-07-05T06:21:24Z",
+      "updatedAt": "2026-07-05T06:21:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-3.webp",
+      "hash": "0292a87a4a60fd19d94f5ab3f07d3b80b3f209a3f116ac8d45f98506d8261943",
+      "width": 480,
+      "height": 480,
+      "size": 74514,
+      "createdAt": "2026-07-05T06:21:24Z",
+      "updatedAt": "2026-07-05T06:21:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-regata-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-4.webp",
+      "hash": "5163f51c06d7c8aa29220afd0a9a85aa3ff86c29e36d95cfe368a793f775dc81",
+      "width": 480,
+      "height": 480,
+      "size": 12646,
+      "createdAt": "2026-07-05T06:21:24Z",
+      "updatedAt": "2026-07-05T06:21:24Z"
+    }
+  ]
+}

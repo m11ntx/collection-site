@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-do-santos-retro-11-12-branca",
+  "createdAt": "2026-07-04T18:25:06Z",
+  "updatedAt": "2026-07-04T18:25:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/11-12/fan/front.webp",
+      "hash": "d5591c34210e0c3e6eb9221f5d6476ce3645868f0e6c5df35fa174a82e022b96",
+      "width": 480,
+      "height": 480,
+      "size": 8970,
+      "createdAt": "2026-07-04T18:25:05Z",
+      "updatedAt": "2026-07-04T18:25:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/11-12/fan/back.webp",
+      "hash": "4754da0618d04ada59be3d1200a3c2a36e18b79e925c846da1aa76a5c4e775e3",
+      "width": 480,
+      "height": 480,
+      "size": 14314,
+      "createdAt": "2026-07-04T18:25:05Z",
+      "updatedAt": "2026-07-04T18:25:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/11-12/fan/detail-1.webp",
+      "hash": "57ec5c7089f6c4a9726ad5f3e68cc18c90487c6d873ec96b314aa1ba595a5b90",
+      "width": 480,
+      "height": 480,
+      "size": 5460,
+      "createdAt": "2026-07-04T18:25:06Z",
+      "updatedAt": "2026-07-04T18:25:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/11-12/fan/detail-2.webp",
+      "hash": "f809505723bbf2cf71c54e229b4c2fd5d887d0fda92ba3a8ffb19539fb3ab7fd",
+      "width": 480,
+      "height": 480,
+      "size": 68640,
+      "createdAt": "2026-07-04T18:25:06Z",
+      "updatedAt": "2026-07-04T18:25:06Z"
+    }
+  ]
+}

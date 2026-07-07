@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-portugal-casa-25-26-torcedor-masculino-puma-edicao-especial-black",
+  "createdAt": "2026-07-04T18:26:43Z",
+  "updatedAt": "2026-07-04T20:27:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/25-26/fan/front.webp",
+      "hash": "0283fd18a1af04803f17af2093912a9f88534c72a70da802e913dc7af516f5f3",
+      "width": 480,
+      "height": 480,
+      "size": 18698,
+      "createdAt": "2026-07-04T18:26:42Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/25-26/fan/back.webp",
+      "hash": "51a91e83c6fe3a560e6bc004926c8b48607c4ee0ece8567de3fdf836f90f956b",
+      "width": 480,
+      "height": 480,
+      "size": 18146,
+      "createdAt": "2026-07-04T20:27:58Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    }
+  ]
+}

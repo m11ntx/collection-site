@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-adidas-cruzeiro-brasil-26-27-detalhes-em-azul-e-verde",
+  "createdAt": "2026-07-05T04:53:36Z",
+  "updatedAt": "2026-07-05T04:53:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-adidas-cruzeiro-brasil-26-27-detalhes-em-azul-e-verde/front.webp",
+      "hash": "d51ff37995277cc5ba8badbf5348b04c8ef36006330141a7fff06d3e7b22a207",
+      "width": 480,
+      "height": 480,
+      "size": 10770,
+      "createdAt": "2026-07-05T04:53:36Z",
+      "updatedAt": "2026-07-05T04:53:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-adidas-cruzeiro-brasil-26-27-detalhes-em-azul-e-verde/back.webp",
+      "hash": "b8571a60a666f43e7a18c8a8b2883bf4570c1c34cca79c8d409d9ce1ff59ed4d",
+      "width": 480,
+      "height": 480,
+      "size": 6724,
+      "createdAt": "2026-07-05T04:53:36Z",
+      "updatedAt": "2026-07-05T04:53:36Z"
+    }
+  ]
+}

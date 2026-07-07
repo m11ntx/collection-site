@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde",
+  "createdAt": "2026-07-07T01:33:09Z",
+  "updatedAt": "2026-07-07T01:33:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/front.webp",
+      "hash": "68bdeac860b263aaf28293caacdd9c01738b1e7f77a69ab4c6e64d9ef24736a3",
+      "width": 480,
+      "height": 480,
+      "size": 11776,
+      "createdAt": "2026-07-07T01:33:06Z",
+      "updatedAt": "2026-07-07T01:33:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/back.webp",
+      "hash": "f7c5699378e7e9183b78608bd303431df2d47b13ff3039f64d683d501ab94885",
+      "width": 480,
+      "height": 480,
+      "size": 10708,
+      "createdAt": "2026-07-07T01:33:06Z",
+      "updatedAt": "2026-07-07T01:33:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-1.webp",
+      "hash": "cadeeee7f6174b7700690c92f20c9ae89edbd9ff0afc5bfbbd3539b3fd2144f5",
+      "width": 480,
+      "height": 480,
+      "size": 18580,
+      "createdAt": "2026-07-07T01:33:06Z",
+      "updatedAt": "2026-07-07T01:33:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-2.webp",
+      "hash": "850093ab7aece58eca9ad212e4948dfffc88399121872d35bf00226f9fe2a81b",
+      "width": 480,
+      "height": 480,
+      "size": 48946,
+      "createdAt": "2026-07-07T01:33:07Z",
+      "updatedAt": "2026-07-07T01:33:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-3.webp",
+      "hash": "ea8858ced03d8f15a01e0f3b310dc1c1d5970c60921735957a438e1d319a1571",
+      "width": 480,
+      "height": 480,
+      "size": 52840,
+      "createdAt": "2026-07-07T01:33:07Z",
+      "updatedAt": "2026-07-07T01:33:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-4.webp",
+      "hash": "7b5ab2adb341b3227429a1a8f31ead762ac4bcc0d7eefdee5203be20c1ba7c5a",
+      "width": 480,
+      "height": 480,
+      "size": 11820,
+      "createdAt": "2026-07-07T01:33:08Z",
+      "updatedAt": "2026-07-07T01:33:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-edicao-especial-24-25-torcedor-nike-masculina-preta-com-detalhes-em-verde/detail-5.webp",
+      "hash": "a1601c013830cdea69c39ab23a965921ae6c095b6a447532dd2286540c3e3f5e",
+      "width": 480,
+      "height": 480,
+      "size": 16200,
+      "createdAt": "2026-07-07T01:33:08Z",
+      "updatedAt": "2026-07-07T01:33:08Z"
+    }
+  ]
+}

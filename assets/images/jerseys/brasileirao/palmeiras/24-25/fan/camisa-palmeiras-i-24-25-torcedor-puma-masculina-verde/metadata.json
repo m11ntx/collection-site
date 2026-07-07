@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde",
+  "createdAt": "2026-07-05T06:21:26Z",
+  "updatedAt": "2026-07-05T06:21:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde/front.webp",
+      "hash": "19f5adefe3cfbc7543d1a3cbf8666c89d5ca54a0537e9ce385c192335905a2d1",
+      "width": 480,
+      "height": 480,
+      "size": 9192,
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde/back.webp",
+      "hash": "d33467ec3db2096a543c02830d6a9cbb7cb32afa2b7add1d36535582376bb67b",
+      "width": 480,
+      "height": 480,
+      "size": 5592,
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-1.webp",
+      "hash": "0f6e404f7c96de09c0c930e9359af9594a2a1f9a0124fb08195f74165c563136",
+      "width": 480,
+      "height": 480,
+      "size": 24518,
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-2.webp",
+      "hash": "21ebfb6e36997ea4095954a42ff830a04315449239ecf752b301124e80458df3",
+      "width": 480,
+      "height": 480,
+      "size": 24226,
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde/detail-3.webp",
+      "hash": "8de2f9889f82de37ae9643a4e79f245f107fafb99242346bcfa508f775c311e0",
+      "width": 480,
+      "height": 480,
+      "size": 21652,
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
+    }
+  ]
+}

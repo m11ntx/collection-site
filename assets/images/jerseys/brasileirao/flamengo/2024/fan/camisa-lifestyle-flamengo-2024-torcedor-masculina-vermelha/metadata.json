@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-lifestyle-flamengo-2024-torcedor-masculina-vermelha",
+  "createdAt": "2026-07-05T06:09:22Z",
+  "updatedAt": "2026-07-05T06:09:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2024/fan/camisa-lifestyle-flamengo-2024-torcedor-masculina-vermelha/front.webp",
+      "hash": "086246cf85b58f27a22b318934abfd0fd928d19a9a65f3d9a7cb20e5286678d4",
+      "width": 480,
+      "height": 480,
+      "size": 12838,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2024/fan/camisa-lifestyle-flamengo-2024-torcedor-masculina-vermelha/back.webp",
+      "hash": "7ffdb800541ef862062545d7a28637f3590e016c077376b91dccb5d52c85a8b3",
+      "width": 480,
+      "height": 480,
+      "size": 9988,
+      "createdAt": "2026-07-05T06:09:22Z",
+      "updatedAt": "2026-07-05T06:09:22Z"
+    }
+  ]
+}

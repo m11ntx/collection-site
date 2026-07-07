@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-ac-milan",
+  "createdAt": "2026-07-04T18:27:50Z",
+  "updatedAt": "2026-07-04T18:27:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/sem-temporada/sem-versao/front.webp",
+      "hash": "5237fe483a075393095fd9692fd664cc5508f0d9ec03bc2189220a89558e626f",
+      "width": 480,
+      "height": 480,
+      "size": 6892,
+      "createdAt": "2026-07-04T18:27:50Z",
+      "updatedAt": "2026-07-04T18:27:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/sem-temporada/sem-versao/back.webp",
+      "hash": "e900f03a5f6adbdcb5e0c3a4abd6ecff21657012a144d64baad46ca72472062a",
+      "width": 480,
+      "height": 480,
+      "size": 13884,
+      "createdAt": "2026-07-04T18:27:50Z",
+      "updatedAt": "2026-07-04T18:27:50Z"
+    }
+  ]
+}

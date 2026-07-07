@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-edicao-aniversario-de-100-anos-2014-2015-torcedor-adidas-masculina-verde-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T17:29:11Z",
+  "updatedAt": "2026-07-04T21:11:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/front.webp",
+      "hash": "bc6950258cb742b506a3f9ca7469cf366dd972eb7ecd6b12529612bd967b43f5",
+      "width": 480,
+      "height": 480,
+      "size": 6048,
+      "createdAt": "2026-07-04T17:29:09Z",
+      "updatedAt": "2026-07-04T21:11:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/back.webp",
+      "hash": "5998de6f09501513867a52e6b70338b3fb7704e98a26c06df3c5a4a19340c33b",
+      "width": 480,
+      "height": 480,
+      "size": 15728,
+      "createdAt": "2026-07-04T17:29:09Z",
+      "updatedAt": "2026-07-04T21:11:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/detail-1.webp",
+      "hash": "96841123bb347dfb1e9a207337ab5ab32480d5326f153d320fa9ad6eb7e39667",
+      "width": 480,
+      "height": 480,
+      "size": 5848,
+      "createdAt": "2026-07-04T17:29:10Z",
+      "updatedAt": "2026-07-04T21:11:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/detail-2.webp",
+      "hash": "760bdd5453b56af9b200dfc4d5fa8e048bc877eb0b8a7a54d2bbf7ca07e2fca4",
+      "width": 480,
+      "height": 480,
+      "size": 74004,
+      "createdAt": "2026-07-04T17:29:10Z",
+      "updatedAt": "2026-07-04T21:11:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/detail-3.webp",
+      "hash": "11646eb37080a8cfd749e6e61f68d097de9cd8ff573ac4218694e6b96667e52c",
+      "width": 480,
+      "height": 480,
+      "size": 75016,
+      "createdAt": "2026-07-04T17:29:11Z",
+      "updatedAt": "2026-07-04T21:11:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/detail-4.webp",
+      "hash": "c3863e8179cf65ec17e4c1d05b454ad58aa0d050e60a64c66fe46d181442076b",
+      "width": 480,
+      "height": 480,
+      "size": 22916,
+      "createdAt": "2026-07-04T17:29:11Z",
+      "updatedAt": "2026-07-04T21:11:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/detail-5.webp",
+      "hash": "661278d74db70ab7e330a19971af976b9e9aaca313adef5ed7244c405592dd8b",
+      "width": 480,
+      "height": 480,
+      "size": 16380,
+      "createdAt": "2026-07-04T17:29:11Z",
+      "updatedAt": "2026-07-04T21:11:31Z"
+    }
+  ]
+}

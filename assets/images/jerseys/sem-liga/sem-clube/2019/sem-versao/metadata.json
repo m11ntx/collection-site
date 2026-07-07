@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-argentina-i-2019-adidas-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-04T17:48:06Z",
+  "updatedAt": "2026-07-04T17:48:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/front.webp",
+      "hash": "62d387f1fbd4c0c6430c366bc0aa021cc3abdf58290361e8cf9edf7ec84c58c6",
+      "width": 480,
+      "height": 480,
+      "size": 6534,
+      "createdAt": "2026-07-04T17:48:03Z",
+      "updatedAt": "2026-07-04T17:48:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/back.webp",
+      "hash": "9b72f80a5a0e457bad8e27a1fb0f69ba8a79372e138b54d34328bf1f816cee12",
+      "width": 480,
+      "height": 480,
+      "size": 11440,
+      "createdAt": "2026-07-04T17:48:04Z",
+      "updatedAt": "2026-07-04T17:48:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/detail-1.webp",
+      "hash": "8b7c9b5abefb4497c48a4c4cd8013735b1112728002c07190891911dc42acd63",
+      "width": 480,
+      "height": 480,
+      "size": 5388,
+      "createdAt": "2026-07-04T17:48:04Z",
+      "updatedAt": "2026-07-04T17:48:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/detail-2.webp",
+      "hash": "3649001dbdbe02d74b424e62a4d7eb4fd02efd129c88fc3296b68aaa712bab5f",
+      "width": 480,
+      "height": 480,
+      "size": 44516,
+      "createdAt": "2026-07-04T17:48:04Z",
+      "updatedAt": "2026-07-04T17:48:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/detail-3.webp",
+      "hash": "e3dcb0c5deed6c8f6fcf168f05f7135fe6fe1dd3b929b08cdfb529c575b6f696",
+      "width": 480,
+      "height": 480,
+      "size": 47324,
+      "createdAt": "2026-07-04T17:48:05Z",
+      "updatedAt": "2026-07-04T17:48:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/detail-4.webp",
+      "hash": "416f974fdb7fda494f7c6f8390766edc30cd5de201d8c05e763dee3ee287bd64",
+      "width": 480,
+      "height": 480,
+      "size": 14402,
+      "createdAt": "2026-07-04T17:48:06Z",
+      "updatedAt": "2026-07-04T17:48:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2019/sem-versao/detail-5.webp",
+      "hash": "794b70f3c2ff46d4de97edbc1d0a9177612448c0c3b787cd79c2dc4406d2afcc",
+      "width": 480,
+      "height": 480,
+      "size": 12974,
+      "createdAt": "2026-07-04T17:48:06Z",
+      "updatedAt": "2026-07-04T17:48:06Z"
+    }
+  ]
+}

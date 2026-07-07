@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-arsenal-retro-2005-2006-vinho-nike",
+  "createdAt": "2026-07-04T17:15:19Z",
+  "updatedAt": "2026-07-04T21:03:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/front.webp",
+      "hash": "15dab28805ce7029ddb0aa4b460b6daf86c4d91ed8f689624fb10dcf48feb556",
+      "width": 480,
+      "height": 480,
+      "size": 8836,
+      "createdAt": "2026-07-04T17:15:18Z",
+      "updatedAt": "2026-07-04T21:03:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/back.webp",
+      "hash": "ebe726c5828adbffde78e4ec331cd2e2a5640a4a60482fe0884892356b7a77f7",
+      "width": 480,
+      "height": 480,
+      "size": 6126,
+      "createdAt": "2026-07-04T17:15:18Z",
+      "updatedAt": "2026-07-04T21:03:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/detail-1.webp",
+      "hash": "040420af6c28c3bdea119a63cbaa0acbe232b6fb80c1afd33fe63a54751eb98a",
+      "width": 480,
+      "height": 480,
+      "size": 17800,
+      "createdAt": "2026-07-04T17:15:19Z",
+      "updatedAt": "2026-07-04T21:03:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/detail-2.webp",
+      "hash": "62c06c5a95872d8bc1e2d271166182876ca4b31be8eb261816c29fde73eb41c5",
+      "width": 480,
+      "height": 480,
+      "size": 20834,
+      "createdAt": "2026-07-04T17:15:19Z",
+      "updatedAt": "2026-07-04T21:03:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/detail-3.webp",
+      "hash": "109511d64afa6bd7e50b0fd455abc3a0a9ddd05476c32e6b81b5424f6326d513",
+      "width": 480,
+      "height": 480,
+      "size": 14786,
+      "createdAt": "2026-07-04T17:15:19Z",
+      "updatedAt": "2026-07-04T21:03:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/detail-4.webp",
+      "hash": "d99c89259cebec1cebd96ae2f65e8452bbcc7c571bdb2b5b4be35b538a5a87fc",
+      "width": 480,
+      "height": 480,
+      "size": 14684,
+      "createdAt": "2026-07-04T17:15:19Z",
+      "updatedAt": "2026-07-04T21:03:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/detail-5.webp",
+      "hash": "3f0fcea0da62be1aa698dc3523a3da22cffe0dc312d83024deed3238283d4b89",
+      "width": 480,
+      "height": 480,
+      "size": 22706,
+      "createdAt": "2026-07-04T21:03:12Z",
+      "updatedAt": "2026-07-04T21:03:12Z"
+    }
+  ]
+}

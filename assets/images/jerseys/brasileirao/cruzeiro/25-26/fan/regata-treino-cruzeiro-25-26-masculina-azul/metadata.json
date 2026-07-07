@@ -1,0 +1,27 @@
+{
+  "productId": "source-regata-treino-cruzeiro-25-26-masculina-azul",
+  "createdAt": "2026-07-05T04:53:37Z",
+  "updatedAt": "2026-07-05T04:53:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/regata-treino-cruzeiro-25-26-masculina-azul/front.webp",
+      "hash": "a828c86babfa8f6cc3199f42907cb7f6b38547be5ef193368bfa541c5a36f918",
+      "width": 480,
+      "height": 480,
+      "size": 4334,
+      "createdAt": "2026-07-05T04:53:37Z",
+      "updatedAt": "2026-07-05T04:53:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/regata-treino-cruzeiro-25-26-masculina-azul/back.webp",
+      "hash": "2c1e010c22107e619f58687364ca78ef86e400dcea2f2083b1d1314a7e8efbe3",
+      "width": 480,
+      "height": 480,
+      "size": 3156,
+      "createdAt": "2026-07-05T04:53:37Z",
+      "updatedAt": "2026-07-05T04:53:37Z"
+    }
+  ]
+}

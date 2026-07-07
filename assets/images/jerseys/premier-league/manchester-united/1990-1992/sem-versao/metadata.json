@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1990-1992-azul-e-branca-adidas",
+  "createdAt": "2026-07-04T17:25:05Z",
+  "updatedAt": "2026-07-04T21:04:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/front.webp",
+      "hash": "d19b077d6b4ace31abdfceeceb0caacdc88cb4b0f43f47e0fe387d105f4803e6",
+      "width": 480,
+      "height": 480,
+      "size": 37672,
+      "createdAt": "2026-07-04T17:25:02Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/back.webp",
+      "hash": "58474987dc3bd053ec90461c1510db419d2d4f7c18c07061e8b942b2442e9f4f",
+      "width": 480,
+      "height": 480,
+      "size": 37580,
+      "createdAt": "2026-07-04T17:25:02Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/detail-1.webp",
+      "hash": "ddc8f0c4ff59fd8ba464abed452ecc981832a4f5634d7bc865601d4cdd88fefe",
+      "width": 480,
+      "height": 480,
+      "size": 55630,
+      "createdAt": "2026-07-04T17:25:03Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/detail-2.webp",
+      "hash": "9eb373dc225903fbf555162736e6a8a7dc3ad63d9ab602f5d27ad7104834fef2",
+      "width": 480,
+      "height": 480,
+      "size": 57054,
+      "createdAt": "2026-07-04T17:25:03Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/detail-3.webp",
+      "hash": "8a715a2103d11bb2207def9fb65d483efa03842bba247d7c4c9875a155d28f34",
+      "width": 480,
+      "height": 480,
+      "size": 55512,
+      "createdAt": "2026-07-04T17:25:04Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/detail-4.webp",
+      "hash": "32413ec3d049217190da09d3152aed83b9633f849a0be2197b6e558df5733e26",
+      "width": 480,
+      "height": 480,
+      "size": 27896,
+      "createdAt": "2026-07-04T17:25:04Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/detail-5.webp",
+      "hash": "898fd4870a214ba58e3eaac0b9c54a805719d69447381d32498a4f883794fa99",
+      "width": 480,
+      "height": 480,
+      "size": 60600,
+      "createdAt": "2026-07-04T17:25:05Z",
+      "updatedAt": "2026-07-04T21:04:58Z"
+    }
+  ]
+}

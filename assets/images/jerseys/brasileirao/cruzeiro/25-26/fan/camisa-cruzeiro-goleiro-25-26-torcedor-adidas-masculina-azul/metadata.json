@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-goleiro-25-26-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-05T04:53:30Z",
+  "updatedAt": "2026-07-05T04:53:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-goleiro-25-26-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "645aaf20aeb1589612b26aad6fd127a6e1ff9afb5d83f475c7fffdadaa0e5db6",
+      "width": 480,
+      "height": 480,
+      "size": 19862,
+      "createdAt": "2026-07-05T04:53:29Z",
+      "updatedAt": "2026-07-05T04:53:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-goleiro-25-26-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "4754ff80d889f99a35746fefd37a596cf7590aefbc124a25ff205adc7b2433ab",
+      "width": 480,
+      "height": 480,
+      "size": 7430,
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
+    }
+  ]
+}

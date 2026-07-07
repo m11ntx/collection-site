@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-retro-flamengo-ii-1994-umbro-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-04T17:30:18Z",
+  "updatedAt": "2026-07-04T21:10:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/front.webp",
+      "hash": "587b971cb11ab2053ce2042621148518e6b4555a594026b5c91c13b5c9bb5309",
+      "width": 480,
+      "height": 480,
+      "size": 7276,
+      "createdAt": "2026-07-04T17:30:16Z",
+      "updatedAt": "2026-07-04T21:10:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/back.webp",
+      "hash": "a9815d8a2453b779963935c1a4bceee5c4fe7f6a6d42b7e67790c4e5ca7be741",
+      "width": 480,
+      "height": 480,
+      "size": 6078,
+      "createdAt": "2026-07-04T17:30:16Z",
+      "updatedAt": "2026-07-04T21:10:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/detail-1.webp",
+      "hash": "73a05394faeb4ce1744bf4333602cb322f36038b83121a0a2472baecacefa65c",
+      "width": 480,
+      "height": 480,
+      "size": 13860,
+      "createdAt": "2026-07-04T17:30:17Z",
+      "updatedAt": "2026-07-04T21:10:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/detail-2.webp",
+      "hash": "2ad4861c2082b81d4aa911c7da6ac6eaa108b8da6956c6de3c75a81d9e297adf",
+      "width": 480,
+      "height": 480,
+      "size": 39626,
+      "createdAt": "2026-07-04T17:30:17Z",
+      "updatedAt": "2026-07-04T21:10:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/detail-3.webp",
+      "hash": "4b73b541dba44de275b006dd8c79a35147ecbd0b616f692683a161b0ce3c5459",
+      "width": 480,
+      "height": 480,
+      "size": 47600,
+      "createdAt": "2026-07-04T17:30:18Z",
+      "updatedAt": "2026-07-04T21:10:44Z"
+    }
+  ]
+}

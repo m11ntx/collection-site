@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-aniversario-125-anos-24-25-torcedor-adidas-masculina-vinho",
+  "createdAt": "2026-07-07T01:32:25Z",
+  "updatedAt": "2026-07-07T01:32:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-aniversario-125-anos-24-25-torcedor-adidas-masculina-vinho/front.webp",
+      "hash": "49855259067f3a70b8a5c373548559ed016d313a27ac70882d62cf1028b351ad",
+      "width": 480,
+      "height": 480,
+      "size": 10178,
+      "createdAt": "2026-07-07T01:32:24Z",
+      "updatedAt": "2026-07-07T01:32:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-aniversario-125-anos-24-25-torcedor-adidas-masculina-vinho/back.webp",
+      "hash": "18abcaadcb6af738400f578b13892358e98a37bd5bcca2af2e3b12101169a853",
+      "width": 480,
+      "height": 480,
+      "size": 5702,
+      "createdAt": "2026-07-07T01:32:24Z",
+      "updatedAt": "2026-07-07T01:32:24Z"
+    }
+  ]
+}

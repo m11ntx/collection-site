@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-iii-25-26-torcedor-masculina-todos-os-patrocinios-azul",
+  "createdAt": "2026-07-05T03:00:41Z",
+  "updatedAt": "2026-07-05T03:00:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-iii-25-26-torcedor-masculina-todos-os-patrocinios-azul/front.webp",
+      "hash": "ed53b06d591b40b7fa26af16717ccff761f9a935973509ef6b9d4e1b584d3340",
+      "width": 480,
+      "height": 480,
+      "size": 34142,
+      "createdAt": "2026-07-05T03:00:41Z",
+      "updatedAt": "2026-07-05T03:00:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-iii-25-26-torcedor-masculina-todos-os-patrocinios-azul/back.webp",
+      "hash": "6ce9fcd80dc4a5a330b72ea462ffc047dab29139596c60aa569a69cd7a1e8ad9",
+      "width": 480,
+      "height": 480,
+      "size": 13560,
+      "createdAt": "2026-07-05T03:00:41Z",
+      "updatedAt": "2026-07-05T03:00:41Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-retro-2013-2014-branca-nike",
+  "createdAt": "2026-07-04T17:15:41Z",
+  "updatedAt": "2026-07-04T21:06:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/front.webp",
+      "hash": "90c052c058d6c5b09171af24e4b832c74b49b75ff4edb6c2be2a49e78dc71caf",
+      "width": 480,
+      "height": 480,
+      "size": 9070,
+      "createdAt": "2026-07-04T17:15:39Z",
+      "updatedAt": "2026-07-04T21:06:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/back.webp",
+      "hash": "8e9b4eccd1e2f4cd9d40b9498742f45357dd0ada0fd504d6bfda2d1fecfe6a56",
+      "width": 480,
+      "height": 480,
+      "size": 15006,
+      "createdAt": "2026-07-04T17:15:39Z",
+      "updatedAt": "2026-07-04T21:06:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/detail-1.webp",
+      "hash": "ee112e8574d284547e29ec6b60d18c092892fcf268eaf9704c47ad78e6ac1b2d",
+      "width": 480,
+      "height": 480,
+      "size": 36232,
+      "createdAt": "2026-07-04T17:15:39Z",
+      "updatedAt": "2026-07-04T21:06:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/detail-2.webp",
+      "hash": "a92aa6dc01578285f593f38c9e46e2f83a1a9f6a308d45df1901caab3de94c82",
+      "width": 480,
+      "height": 480,
+      "size": 8144,
+      "createdAt": "2026-07-04T17:15:40Z",
+      "updatedAt": "2026-07-04T21:06:03Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/detail-3.webp",
+      "hash": "cc1faa65684b971c736a272671159a94212aca2e138b75cb87a50c7d2c0008d1",
+      "width": 480,
+      "height": 480,
+      "size": 33472,
+      "createdAt": "2026-07-04T17:15:40Z",
+      "updatedAt": "2026-07-04T21:06:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/detail-4.webp",
+      "hash": "60274b5f20dd430e2f09838b8fd8b161b3ab39047609080fc5b5f3cf54703708",
+      "width": 480,
+      "height": 480,
+      "size": 12404,
+      "createdAt": "2026-07-04T17:15:41Z",
+      "updatedAt": "2026-07-04T21:06:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2013-2014/sem-versao/detail-5.webp",
+      "hash": "c032e32a9fba8abf252437579d1488de79fbbacfd7517a57b6f6e2b4e9815e55",
+      "width": 480,
+      "height": 480,
+      "size": 6282,
+      "createdAt": "2026-07-04T17:15:41Z",
+      "updatedAt": "2026-07-04T21:06:04Z"
+    }
+  ]
+}

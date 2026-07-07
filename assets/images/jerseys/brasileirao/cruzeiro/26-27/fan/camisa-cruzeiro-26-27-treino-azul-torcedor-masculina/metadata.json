@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-26-27-treino-azul-torcedor-masculina",
+  "createdAt": "2026-07-05T04:53:29Z",
+  "updatedAt": "2026-07-05T04:53:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-26-27-treino-azul-torcedor-masculina/front.webp",
+      "hash": "85c483f72de7b7b3e6abe1603a102591d943f440eb21974362ade9161477e7ab",
+      "width": 480,
+      "height": 480,
+      "size": 14392,
+      "createdAt": "2026-07-05T04:53:29Z",
+      "updatedAt": "2026-07-05T04:53:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-26-27-treino-azul-torcedor-masculina/back.webp",
+      "hash": "7e644d634ce0bb3f26370389feed830511069e763548bb0b8cded7f05a3e8b98",
+      "width": 480,
+      "height": 480,
+      "size": 5656,
+      "createdAt": "2026-07-05T04:53:29Z",
+      "updatedAt": "2026-07-05T04:53:29Z"
+    }
+  ]
+}

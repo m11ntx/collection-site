@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-home-26-27-torcedor-adidas-masculina-vermelho",
+  "createdAt": "2026-07-04T18:41:55Z",
+  "updatedAt": "2026-07-04T18:41:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/26-27/fan/front.webp",
+      "hash": "9abc46dcec76bd735e0815a3f285795914664411ecd8c8ad7689adbcdfda71f0",
+      "width": 480,
+      "height": 480,
+      "size": 17250,
+      "createdAt": "2026-07-04T18:41:54Z",
+      "updatedAt": "2026-07-04T18:41:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/26-27/fan/back.webp",
+      "hash": "754bfed6f312e51d8e766f523260cb91a0a96a3b3749ee39a9ff89c966bdef4d",
+      "width": 480,
+      "height": 480,
+      "size": 13590,
+      "createdAt": "2026-07-04T18:41:55Z",
+      "updatedAt": "2026-07-04T18:41:55Z"
+    }
+  ]
+}

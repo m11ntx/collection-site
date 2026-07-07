@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-i-26-27-torcedor-puma-masculina-azul",
+  "createdAt": "2026-07-04T18:41:34Z",
+  "updatedAt": "2026-07-04T18:41:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/26-27/fan/front.webp",
+      "hash": "cae313963f51edd5a5fc9b69c9c372853b8f84e8f2d9f2ef46ca1e37a5a3da80",
+      "width": 480,
+      "height": 480,
+      "size": 8094,
+      "createdAt": "2026-07-04T18:41:34Z",
+      "updatedAt": "2026-07-04T18:41:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/26-27/fan/back.webp",
+      "hash": "46a2d7f3490ef4f27a4943be5aab2ad29753875bb806b414f72bffaca6d54e7d",
+      "width": 480,
+      "height": 480,
+      "size": 5274,
+      "createdAt": "2026-07-04T18:41:34Z",
+      "updatedAt": "2026-07-04T18:41:34Z"
+    }
+  ]
+}

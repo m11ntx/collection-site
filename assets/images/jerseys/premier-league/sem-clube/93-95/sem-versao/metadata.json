@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-newcastle-united-ii-retro-93-95-asics-masculina-azul-com-detalhes-em-preto",
+  "createdAt": "2026-07-04T17:34:16Z",
+  "updatedAt": "2026-07-04T17:34:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/front.webp",
+      "hash": "a3b5138c704608e74245e747c3ab56c9221a8bf23782996c8e77d223f6368b92",
+      "width": 480,
+      "height": 480,
+      "size": 10110,
+      "createdAt": "2026-07-04T17:34:13Z",
+      "updatedAt": "2026-07-04T17:34:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/back.webp",
+      "hash": "8038ef4ce8721561d77eac22996224ecc7d5b233c6e2a5c9e84bc36c5db5c18a",
+      "width": 480,
+      "height": 480,
+      "size": 7698,
+      "createdAt": "2026-07-04T17:34:14Z",
+      "updatedAt": "2026-07-04T17:34:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/detail-1.webp",
+      "hash": "520a96792037f82beab7ece6f9b3eeb8550e8fd2d65223007599a41a67b28bbf",
+      "width": 480,
+      "height": 480,
+      "size": 19704,
+      "createdAt": "2026-07-04T17:34:14Z",
+      "updatedAt": "2026-07-04T17:34:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/detail-2.webp",
+      "hash": "6546fd11bbb5cdf682691250bfacc858a21b3abe109a77a3ce5b855cef84e4c8",
+      "width": 480,
+      "height": 480,
+      "size": 44764,
+      "createdAt": "2026-07-04T17:34:15Z",
+      "updatedAt": "2026-07-04T17:34:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/detail-3.webp",
+      "hash": "add70911da8c2d4d3bb4fcc8ca006a7fd17b3d205f4a504435b510edefaf79cf",
+      "width": 480,
+      "height": 480,
+      "size": 66904,
+      "createdAt": "2026-07-04T17:34:15Z",
+      "updatedAt": "2026-07-04T17:34:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/detail-4.webp",
+      "hash": "11c057304e97f945b1aaed453c19540f9902250c4a74c9dd53dddb2a863d6ecc",
+      "width": 480,
+      "height": 480,
+      "size": 15512,
+      "createdAt": "2026-07-04T17:34:16Z",
+      "updatedAt": "2026-07-04T17:34:16Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/sem-clube/93-95/sem-versao/detail-5.webp",
+      "hash": "f014fb4072b4ef60fc098048ff73a58caf7f10a5ae864433fe4ac4913363d2c6",
+      "width": 480,
+      "height": 480,
+      "size": 12588,
+      "createdAt": "2026-07-04T17:34:16Z",
+      "updatedAt": "2026-07-04T17:34:16Z"
+    }
+  ]
+}

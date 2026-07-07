@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-river-plate-i-2015-2016-masculina-adidas-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-04T17:49:13Z",
+  "updatedAt": "2026-07-04T17:49:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/front.webp",
+      "hash": "af11c76766d9bb400c18e1cc0d9b09bf79b6b5bda6670dd243909560413812f3",
+      "width": 480,
+      "height": 480,
+      "size": 8508,
+      "createdAt": "2026-07-04T17:49:10Z",
+      "updatedAt": "2026-07-04T17:49:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/back.webp",
+      "hash": "31fceb054766902033613697289552b0e291c73e17b3bbebf73a7949cb8401fc",
+      "width": 480,
+      "height": 480,
+      "size": 15246,
+      "createdAt": "2026-07-04T17:49:11Z",
+      "updatedAt": "2026-07-04T17:49:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/detail-1.webp",
+      "hash": "60d5562d17422d05e01ee3fdbe5eb2d63c653c9f6fce44c2eb4c02b5f783ca53",
+      "width": 480,
+      "height": 480,
+      "size": 6588,
+      "createdAt": "2026-07-04T17:49:11Z",
+      "updatedAt": "2026-07-04T17:49:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/detail-2.webp",
+      "hash": "52c33d7af07c71c607a0fae382241e97caf37719241b75a5371b6735163b0926",
+      "width": 480,
+      "height": 480,
+      "size": 31758,
+      "createdAt": "2026-07-04T17:49:12Z",
+      "updatedAt": "2026-07-04T17:49:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/detail-3.webp",
+      "hash": "35a7f5a7da326c25fba5b20a698374cb4aa11ac3c38abe3c7603d09ce59a9d02",
+      "width": 480,
+      "height": 480,
+      "size": 45234,
+      "createdAt": "2026-07-04T17:49:12Z",
+      "updatedAt": "2026-07-04T17:49:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/detail-4.webp",
+      "hash": "769a1b072245aa97385690465e3afc5954b1e9a56da2d48dda64ccb43c2540bf",
+      "width": 480,
+      "height": 480,
+      "size": 13248,
+      "createdAt": "2026-07-04T17:49:13Z",
+      "updatedAt": "2026-07-04T17:49:13Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2015-2016/sem-versao/detail-5.webp",
+      "hash": "8b79b80aa248faa5339b0899368fab270a28226001ab064ae48386682b960a9a",
+      "width": 480,
+      "height": 480,
+      "size": 9638,
+      "createdAt": "2026-07-04T17:49:13Z",
+      "updatedAt": "2026-07-04T17:49:13Z"
+    }
+  ]
+}

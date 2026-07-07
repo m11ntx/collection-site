@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-edicao-especial-100-anos-masculina-rhumell-verde",
+  "createdAt": "2026-07-04T17:29:06Z",
+  "updatedAt": "2026-07-04T21:05:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/front.webp",
+      "hash": "9c84639e10a3abc18ce460c55053ce8be9366c8552cfb4f9593c84558c277cd7",
+      "width": 480,
+      "height": 480,
+      "size": 11180,
+      "createdAt": "2026-07-04T17:29:04Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/back.webp",
+      "hash": "e0b15ab8d7f7b06acac8a1fb71bfd36be501d3180e2af11a85bfe5423a728693",
+      "width": 480,
+      "height": 480,
+      "size": 15336,
+      "createdAt": "2026-07-04T17:29:04Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/detail-1.webp",
+      "hash": "140d01c451e30bf81f5d286cf3485d5c281a0404c3ce1580240e9fb74256319e",
+      "width": 480,
+      "height": 480,
+      "size": 8824,
+      "createdAt": "2026-07-04T21:05:36Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/detail-2.webp",
+      "hash": "37f272493ade7e90ab97e66ca374c4b6e34feedf17c0e45edd6aa6b4bfb8bf2d",
+      "width": 480,
+      "height": 480,
+      "size": 30762,
+      "createdAt": "2026-07-04T21:05:36Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/detail-3.webp",
+      "hash": "0edf1641fddabf395ae49df350e03a9d8d31812a9c4e46864d1a188c6a72c677",
+      "width": 480,
+      "height": 480,
+      "size": 31076,
+      "createdAt": "2026-07-04T21:05:36Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/detail-4.webp",
+      "hash": "8295f581b978cd47b9abf0eaedbaeeb42c6476d63bac2cb0b0b3431ba44711bc",
+      "width": 480,
+      "height": 480,
+      "size": 25858,
+      "createdAt": "2026-07-04T21:05:36Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/sem-versao/detail-5.webp",
+      "hash": "c2adbd7baf54a280aa35af8c86878b17ce92f77ffd63129f368fca8a41112253",
+      "width": 480,
+      "height": 480,
+      "size": 33238,
+      "createdAt": "2026-07-04T21:05:36Z",
+      "updatedAt": "2026-07-04T21:05:36Z"
+    }
+  ]
+}

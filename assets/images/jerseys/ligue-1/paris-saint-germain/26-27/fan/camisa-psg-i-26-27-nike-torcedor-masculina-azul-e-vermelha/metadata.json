@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha",
+  "createdAt": "2026-07-07T01:33:39Z",
+  "updatedAt": "2026-07-07T01:33:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/fan/camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha/front.webp",
+      "hash": "fd5d738ab747c194b71a29ab47945c452637bb3dbedc7fe8211ebd754732bb4a",
+      "width": 480,
+      "height": 480,
+      "size": 8530,
+      "createdAt": "2026-07-07T01:33:38Z",
+      "updatedAt": "2026-07-07T01:33:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/fan/camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha/back.webp",
+      "hash": "9c4017b3d9c3972011fa11a23cc46a9d598493c0049295cae857e6b35a049695",
+      "width": 480,
+      "height": 480,
+      "size": 6286,
+      "createdAt": "2026-07-07T01:33:38Z",
+      "updatedAt": "2026-07-07T01:33:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/fan/camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha/detail-1.webp",
+      "hash": "afa99a2a0a2e5721b77e0532dcb0b93cfabbab6602b92efbf57a1dd11c5546f9",
+      "width": 480,
+      "height": 480,
+      "size": 20718,
+      "createdAt": "2026-07-07T01:33:39Z",
+      "updatedAt": "2026-07-07T01:33:39Z"
+    }
+  ]
+}

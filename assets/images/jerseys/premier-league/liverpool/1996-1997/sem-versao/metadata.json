@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-1996-1997-masculina-adidas-vermelha-e-branca",
+  "createdAt": "2026-07-04T17:23:57Z",
+  "updatedAt": "2026-07-04T21:04:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/front.webp",
+      "hash": "d4f193c161f4696aca1f2ea48e86b7247b39b12b9642711ffe0bdaac8aff925f",
+      "width": 480,
+      "height": 480,
+      "size": 13418,
+      "createdAt": "2026-07-04T17:23:54Z",
+      "updatedAt": "2026-07-04T21:04:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/back.webp",
+      "hash": "6294698c3a573c4f2750200c5edc8e22abb32e0bc13c16f7666f21effd05fca7",
+      "width": 480,
+      "height": 480,
+      "size": 7474,
+      "createdAt": "2026-07-04T17:23:55Z",
+      "updatedAt": "2026-07-04T21:04:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/detail-1.webp",
+      "hash": "99be7666b0a44ceb16298e6ca13ecdeb9610155182fea8056095e34d4556917b",
+      "width": 480,
+      "height": 480,
+      "size": 42248,
+      "createdAt": "2026-07-04T17:23:55Z",
+      "updatedAt": "2026-07-04T21:04:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/detail-2.webp",
+      "hash": "dfef67a2c38cfbbc4b9228865a30e6e1d865afbd79a3a4d0733868fd34edc373",
+      "width": 480,
+      "height": 480,
+      "size": 48032,
+      "createdAt": "2026-07-04T17:23:56Z",
+      "updatedAt": "2026-07-04T21:04:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/detail-3.webp",
+      "hash": "ff4bcb7b04b0058862fbf641f78a3ead8f365880147729250eabcf686527d86c",
+      "width": 480,
+      "height": 480,
+      "size": 34554,
+      "createdAt": "2026-07-04T17:23:56Z",
+      "updatedAt": "2026-07-04T21:04:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/detail-4.webp",
+      "hash": "e7bbdfe5c2396e24b8da8ea4b497f35ea1b958f5c44b33e776d8d7e884d575ec",
+      "width": 480,
+      "height": 480,
+      "size": 20276,
+      "createdAt": "2026-07-04T17:23:57Z",
+      "updatedAt": "2026-07-04T21:04:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/sem-versao/detail-5.webp",
+      "hash": "030f4295aadf742afdd843c00c8ea6e0ea7e8efb29a73b28ef88fa8df2a53e4e",
+      "width": 480,
+      "height": 480,
+      "size": 34732,
+      "createdAt": "2026-07-04T17:23:57Z",
+      "updatedAt": "2026-07-04T21:04:53Z"
+    }
+  ]
+}

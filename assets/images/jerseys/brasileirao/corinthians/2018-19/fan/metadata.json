@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-corinthians-2018-19-masculina-nike-preta-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T18:02:56Z",
+  "updatedAt": "2026-07-04T18:02:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2018-19/fan/front.webp",
+      "hash": "c8be648638ed500cb6adcd2b74b952e3ba59da7a5af7ca74f6935d3ec92fc0b2",
+      "width": 480,
+      "height": 480,
+      "size": 12368,
+      "createdAt": "2026-07-04T18:02:54Z",
+      "updatedAt": "2026-07-04T18:02:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2018-19/fan/back.webp",
+      "hash": "1d9064fc88f52dc88193fdf194dcc1befd574b18b9c012aa52117b8efd0413ec",
+      "width": 480,
+      "height": 480,
+      "size": 4494,
+      "createdAt": "2026-07-04T18:02:55Z",
+      "updatedAt": "2026-07-04T18:02:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2018-19/fan/detail-1.webp",
+      "hash": "65b96ea81e81cf0162772510e5c268c0f1b8137c63311b5bd0dea11fdaad0849",
+      "width": 480,
+      "height": 480,
+      "size": 27740,
+      "createdAt": "2026-07-04T18:02:55Z",
+      "updatedAt": "2026-07-04T18:02:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2018-19/fan/detail-2.webp",
+      "hash": "864b4b9ccd0d6e2cd40dc3329b80fc89027e523a23006185b85f1bd689ee92ca",
+      "width": 480,
+      "height": 480,
+      "size": 29124,
+      "createdAt": "2026-07-04T18:02:55Z",
+      "updatedAt": "2026-07-04T18:02:55Z"
+    }
+  ]
+}

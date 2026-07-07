@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-atletico-mineiro-treino-24-25-masculino-adidas-cinza",
+  "createdAt": "2026-07-04T20:19:35Z",
+  "updatedAt": "2026-07-04T20:20:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/sem-versao/front.webp",
+      "hash": "3a58cc57cae7dc5e25003c924a7a02c6b1a9ec83889e2a9fa408842e7e5c2930",
+      "width": 480,
+      "height": 480,
+      "size": 11416,
+      "createdAt": "2026-07-04T20:19:35Z",
+      "updatedAt": "2026-07-04T20:20:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/sem-versao/back.webp",
+      "hash": "c2fb5446178fc38620ee3c4f555da8af1d0a671641fcda7baf6f86effb9bea6b",
+      "width": 480,
+      "height": 480,
+      "size": 10404,
+      "createdAt": "2026-07-04T20:19:35Z",
+      "updatedAt": "2026-07-04T20:20:01Z"
+    }
+  ]
+}

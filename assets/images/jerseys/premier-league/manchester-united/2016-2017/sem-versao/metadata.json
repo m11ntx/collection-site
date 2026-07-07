@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-i-2016-2017-masculina-adidas-vermelha-com-detalhes-em-branco-com-patrocinio",
+  "createdAt": "2026-07-04T17:48:12Z",
+  "updatedAt": "2026-07-04T17:48:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/front.webp",
+      "hash": "bcbd96bb2a20286029c9a0aec7900b44f86e0e3a1ccdb83472b78a6dd7090430",
+      "width": 480,
+      "height": 480,
+      "size": 8474,
+      "createdAt": "2026-07-04T17:48:09Z",
+      "updatedAt": "2026-07-04T17:48:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/back.webp",
+      "hash": "e981a3a97db83519b3cedbdeaa53f820568bd5d1da7beba0fd16888443e92dfd",
+      "width": 480,
+      "height": 480,
+      "size": 12982,
+      "createdAt": "2026-07-04T17:48:09Z",
+      "updatedAt": "2026-07-04T17:48:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/detail-1.webp",
+      "hash": "def9fde7fddd40156b5940a1a4af0e2b493d24ddcd66c48d5458c0579b0aa8cd",
+      "width": 480,
+      "height": 480,
+      "size": 4704,
+      "createdAt": "2026-07-04T17:48:10Z",
+      "updatedAt": "2026-07-04T17:48:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/detail-2.webp",
+      "hash": "786bb66196b67e5dd13df1b231f23fbca873a8e2042ab8311013d3d50aeab3e4",
+      "width": 480,
+      "height": 480,
+      "size": 65088,
+      "createdAt": "2026-07-04T17:48:10Z",
+      "updatedAt": "2026-07-04T17:48:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/detail-3.webp",
+      "hash": "ec2690d1ba3431d4304ffb710431c31b3f5c167689d2c6c472ab4ae8793954a0",
+      "width": 480,
+      "height": 480,
+      "size": 72536,
+      "createdAt": "2026-07-04T17:48:11Z",
+      "updatedAt": "2026-07-04T17:48:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/detail-4.webp",
+      "hash": "2f1b40b2de5aa452f358a0eabed4aecf939ea619569c1e5fd9d1986cc39b650a",
+      "width": 480,
+      "height": 480,
+      "size": 10674,
+      "createdAt": "2026-07-04T17:48:11Z",
+      "updatedAt": "2026-07-04T17:48:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2016-2017/sem-versao/detail-5.webp",
+      "hash": "1588c0944cf9ba4705010e5d99af55399a0916bb66030b045a60922162a230aa",
+      "width": 480,
+      "height": 480,
+      "size": 8216,
+      "createdAt": "2026-07-04T17:48:12Z",
+      "updatedAt": "2026-07-04T17:48:12Z"
+    }
+  ]
+}

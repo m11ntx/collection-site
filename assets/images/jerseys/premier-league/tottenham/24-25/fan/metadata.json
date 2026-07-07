@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-tottenham-pre-jogo-24-25-manga-longa-torcedor-nike-masculina-azul",
+  "createdAt": "2026-07-04T17:53:51Z",
+  "updatedAt": "2026-07-04T20:21:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/front.webp",
+      "hash": "9f71aa31086f04128198c674b5795172f804ae46a0ea395c9a81cc06fd2d70bb",
+      "width": 480,
+      "height": 480,
+      "size": 22578,
+      "createdAt": "2026-07-04T17:53:49Z",
+      "updatedAt": "2026-07-04T20:21:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/back.webp",
+      "hash": "9f83e141f7ca065c613d155edf7394dd25714a9b23a1759819bfe7c1bdf5b880",
+      "width": 480,
+      "height": 480,
+      "size": 10800,
+      "createdAt": "2026-07-04T17:53:50Z",
+      "updatedAt": "2026-07-04T20:21:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/detail-1.webp",
+      "hash": "250db0aa4b7aefa36460ec42e7b538b0cb85b081fc58f3657d100ce2fb5c2e06",
+      "width": 480,
+      "height": 480,
+      "size": 22466,
+      "createdAt": "2026-07-04T20:18:00Z",
+      "updatedAt": "2026-07-04T20:21:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/detail-2.webp",
+      "hash": "a005f53bb3a3e40a8c8e3d8c59985935ae8f2d770fc9ecda2d28fa8142df9f85",
+      "width": 480,
+      "height": 600,
+      "size": 107608,
+      "createdAt": "2026-07-04T20:18:01Z",
+      "updatedAt": "2026-07-04T20:21:19Z"
+    }
+  ]
+}

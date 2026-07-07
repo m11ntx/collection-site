@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-vasco-nike-ii-2026-27-jogadora-feminina",
+  "createdAt": "2026-07-04T20:32:15Z",
+  "updatedAt": "2026-07-04T20:32:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2026-27/player/front.webp",
+      "hash": "78d226735a3f6cdf3cc8ed7667aa7694e13f83b9e0b74b8d3100ef2dd42528d0",
+      "width": 480,
+      "height": 480,
+      "size": 6612,
+      "createdAt": "2026-07-04T20:32:09Z",
+      "updatedAt": "2026-07-04T20:32:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2026-27/player/back.webp",
+      "hash": "e47a364c686f58415841b51344148dfc615707512d622f8e8c198df8655af08c",
+      "width": 480,
+      "height": 480,
+      "size": 8116,
+      "createdAt": "2026-07-04T20:32:15Z",
+      "updatedAt": "2026-07-04T20:32:15Z"
+    }
+  ]
+}

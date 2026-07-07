@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-i-nike-2026-27-jogador-masculina",
+  "createdAt": "2026-07-05T16:55:16Z",
+  "updatedAt": "2026-07-05T16:55:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2026-27/fan/camisa-atletico-mineiro-i-nike-2026-27-jogador-masculina/front.webp",
+      "hash": "33353faeaa71378aac50d48c83ce186277fca92b580dbbe2cd25b0af548499e6",
+      "width": 480,
+      "height": 480,
+      "size": 16452,
+      "createdAt": "2026-07-05T16:55:15Z",
+      "updatedAt": "2026-07-05T16:55:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2026-27/fan/camisa-atletico-mineiro-i-nike-2026-27-jogador-masculina/back.webp",
+      "hash": "4ed821a0eb4078222c9d9c1ed15ba886567a967f2c64a52c542ddb1d710b92bb",
+      "width": 480,
+      "height": 480,
+      "size": 11908,
+      "createdAt": "2026-07-05T16:55:16Z",
+      "updatedAt": "2026-07-05T16:55:16Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-2006-masculina-adidas-roxa-com-detalhes-em-branco",
+  "createdAt": "2026-07-04T17:35:08Z",
+  "updatedAt": "2026-07-04T17:35:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/front.webp",
+      "hash": "44de4c930efaa0cb839897c91ef184d258f1193a8b137bb7584c10d8cedd5e6d",
+      "width": 480,
+      "height": 480,
+      "size": 13980,
+      "createdAt": "2026-07-04T17:35:05Z",
+      "updatedAt": "2026-07-04T17:35:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/back.webp",
+      "hash": "0935c59f2d8cd744c625aedf689a07e6eeeb68a1ddccfe5cea7d67b4222cbd7c",
+      "width": 480,
+      "height": 480,
+      "size": 11168,
+      "createdAt": "2026-07-04T17:35:05Z",
+      "updatedAt": "2026-07-04T17:35:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/detail-1.webp",
+      "hash": "17f0fa42de1b444db92989337a3151c13b4b296d815f3c2fbea2fed7ef648932",
+      "width": 480,
+      "height": 480,
+      "size": 21272,
+      "createdAt": "2026-07-04T17:35:06Z",
+      "updatedAt": "2026-07-04T17:35:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/detail-2.webp",
+      "hash": "86f04206e3908814afb9179cd0b815852c58a1a9f3e9a35742bcde0d747fafa3",
+      "width": 480,
+      "height": 480,
+      "size": 48610,
+      "createdAt": "2026-07-04T17:35:06Z",
+      "updatedAt": "2026-07-04T17:35:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/detail-3.webp",
+      "hash": "27fda14ba33c91c6a79b76dda1d0471be9c8bf3548ab1589d821a05a5bb9f78c",
+      "width": 480,
+      "height": 480,
+      "size": 66396,
+      "createdAt": "2026-07-04T17:35:07Z",
+      "updatedAt": "2026-07-04T17:35:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/detail-4.webp",
+      "hash": "bd445fe95d348062e0de6ba035113d7f4f49e332a8210eeec7eac892188946bc",
+      "width": 480,
+      "height": 480,
+      "size": 65890,
+      "createdAt": "2026-07-04T17:35:07Z",
+      "updatedAt": "2026-07-04T17:35:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2006/sem-versao/detail-5.webp",
+      "hash": "9be05d7e270f5112243acf13e1efdcf60950e89a1dd1dd1d4c295ce05d875ca3",
+      "width": 480,
+      "height": 480,
+      "size": 17216,
+      "createdAt": "2026-07-04T17:35:08Z",
+      "updatedAt": "2026-07-04T17:35:08Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco",
+  "createdAt": "2026-07-05T16:55:31Z",
+  "updatedAt": "2026-07-05T16:55:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/nautico/25-26/fan/camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco/front.webp",
+      "hash": "6e18bfc7e43990ffea264a4bb2c9dee37f319615eb3e7f771f1b5bd323b6856a",
+      "width": 480,
+      "height": 480,
+      "size": 21800,
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/nautico/25-26/fan/camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco/back.webp",
+      "hash": "40cd695c984fc1e30b149ff17e89050c12e779b67ec02be5cd02ae52c9070c23",
+      "width": 480,
+      "height": 480,
+      "size": 19028,
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/nautico/25-26/fan/camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco/detail-1.webp",
+      "hash": "e9b8c19ac872286ce458184976bd1643cc6edc2a3cefbd86976fbca436fc55a0",
+      "width": 480,
+      "height": 480,
+      "size": 64536,
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/nautico/25-26/fan/camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco/detail-2.webp",
+      "hash": "b452b180938d1405a266f06b1331849f0748fba64d0c3e475ea466314c943af7",
+      "width": 480,
+      "height": 480,
+      "size": 34984,
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
+    }
+  ]
+}

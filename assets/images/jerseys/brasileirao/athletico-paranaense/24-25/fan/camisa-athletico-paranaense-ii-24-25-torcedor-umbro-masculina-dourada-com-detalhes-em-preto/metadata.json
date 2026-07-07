@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-athletico-paranaense-ii-24-25-torcedor-umbro-masculina-dourada-com-detalhes-em-preto",
+  "createdAt": "2026-07-05T16:54:40Z",
+  "updatedAt": "2026-07-05T16:54:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-ii-24-25-torcedor-umbro-masculina-dourada-com-detalhes-em-preto/front.webp",
+      "hash": "2045b6a5a09dcb12283c031ced7660d701dd99ce54fe5d6af8e2cb175cfc9f36",
+      "width": 480,
+      "height": 480,
+      "size": 13288,
+      "createdAt": "2026-07-05T16:54:40Z",
+      "updatedAt": "2026-07-05T16:54:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-ii-24-25-torcedor-umbro-masculina-dourada-com-detalhes-em-preto/back.webp",
+      "hash": "02e62736ca4b9c6453198f1693bc845c627637ceffd6ca7f9141af76eba080d5",
+      "width": 480,
+      "height": 480,
+      "size": 11434,
+      "createdAt": "2026-07-05T16:54:40Z",
+      "updatedAt": "2026-07-05T16:54:40Z"
+    }
+  ]
+}

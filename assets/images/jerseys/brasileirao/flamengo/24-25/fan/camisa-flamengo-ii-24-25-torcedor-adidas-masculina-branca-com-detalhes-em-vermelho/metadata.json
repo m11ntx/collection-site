@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-05T06:09:15Z",
+  "updatedAt": "2026-07-05T06:09:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/front.webp",
+      "hash": "eb96e0578d6e695151505598d5c7b7ab8288c629a44164adc45b800a2e048bf6",
+      "width": 480,
+      "height": 480,
+      "size": 5980,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/back.webp",
+      "hash": "71735cd60a02d53fa13998ce2afb07b8b8f5e10fdf3eef8e45309e9cf21fd824",
+      "width": 480,
+      "height": 480,
+      "size": 10032,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "a712ee806bfcda661b58c787bc070701c57e5c1312e92c89acb306e72e5379c2",
+      "width": 480,
+      "height": 480,
+      "size": 3888,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "089433e772a0286c1c3a3ca08e0cd6932429a30fd11f4d01cf4e7d0772efe4e7",
+      "width": 480,
+      "height": 480,
+      "size": 34206,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "583747b5e450a4b44b4fe4c5d5c1e42207f4c3da7e1c49b940d7054a768fc314",
+      "width": 480,
+      "height": 480,
+      "size": 22550,
+      "createdAt": "2026-07-05T06:09:15Z",
+      "updatedAt": "2026-07-05T06:09:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "67403c6db343f30b921791634e6babed095394c3157b87ffdcda5a89d854c9c2",
+      "width": 480,
+      "height": 480,
+      "size": 9500,
+      "createdAt": "2026-07-05T06:09:15Z",
+      "updatedAt": "2026-07-05T06:09:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "43122cd251d0e93da580e6929e9613ac2b91078d3dbe0b1fcdd4e0e4cb090ccc",
+      "width": 480,
+      "height": 480,
+      "size": 9724,
+      "createdAt": "2026-07-05T06:09:15Z",
+      "updatedAt": "2026-07-05T06:09:15Z"
+    }
+  ]
+}

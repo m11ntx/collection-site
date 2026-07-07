@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela",
+  "createdAt": "2026-07-05T06:09:21Z",
+  "updatedAt": "2026-07-05T06:09:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela/front.webp",
+      "hash": "d74eb822054dc0bbd95df725798918b123206fe9b5ea341ec456d31615613b6f",
+      "width": 480,
+      "height": 480,
+      "size": 23778,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela/back.webp",
+      "hash": "e35468d275be4c38e255309af7fe3cf7252f74a6d7fee3340cd0bdcdb9a26c80",
+      "width": 480,
+      "height": 480,
+      "size": 28600,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela/detail-1.webp",
+      "hash": "e495a8f98b3b48e4f4cd3c19082283c319056fe3625a49b4f405d91c4d83cdc8",
+      "width": 480,
+      "height": 480,
+      "size": 6580,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela/detail-2.webp",
+      "hash": "a8cad783f4b6d836b1da65734324ce798614a6b5489c88957436a53403a0c0cd",
+      "width": 480,
+      "height": 480,
+      "size": 5748,
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
+    }
+  ]
+}

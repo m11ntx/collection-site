@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-azul",
+  "createdAt": "2026-07-05T16:01:46Z",
+  "updatedAt": "2026-07-05T16:01:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-azul/front.webp",
+      "hash": "e07faba475e3e866180df020b7b09ef2bdfa32d148701871dbdff17836727c17",
+      "width": 480,
+      "height": 480,
+      "size": 12744,
+      "createdAt": "2026-07-05T16:01:46Z",
+      "updatedAt": "2026-07-05T16:01:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-azul/back.webp",
+      "hash": "3d2385494ab8b808e2beece7c182a4ce884455239fcfa5b521d5651ec84cdf60",
+      "width": 480,
+      "height": 480,
+      "size": 8892,
+      "createdAt": "2026-07-05T16:01:46Z",
+      "updatedAt": "2026-07-05T16:01:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-azul/detail-1.webp",
+      "hash": "124b670c0618fe491bd80e7c64e980e304464939c5972b1c2386d47926843db1",
+      "width": 480,
+      "height": 480,
+      "size": 15160,
+      "createdAt": "2026-07-05T16:01:46Z",
+      "updatedAt": "2026-07-05T16:01:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-goleiro-24-25-torcedor-nike-masculina-azul/detail-2.webp",
+      "hash": "d1b536f84f497729bf1a7aac80c253b8dd16864b9cfbef4d80b9a76ccd9ff7c5",
+      "width": 480,
+      "height": 480,
+      "size": 14546,
+      "createdAt": "2026-07-05T16:01:46Z",
+      "updatedAt": "2026-07-05T16:01:46Z"
+    }
+  ]
+}

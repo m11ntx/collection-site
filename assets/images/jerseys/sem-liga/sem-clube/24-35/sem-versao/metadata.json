@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-al-nassr-24-35-azul",
+  "createdAt": "2026-07-04T18:29:15Z",
+  "updatedAt": "2026-07-04T18:29:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/24-35/sem-versao/front.webp",
+      "hash": "1c3fc443998d36238a6cb75d5c6ac7b950b17bf1f01ccf17044bd64af04bd223",
+      "width": 480,
+      "height": 480,
+      "size": 14900,
+      "createdAt": "2026-07-04T18:29:15Z",
+      "updatedAt": "2026-07-04T18:29:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/24-35/sem-versao/back.webp",
+      "hash": "23feda80479302d43736deea7f68f76d81201bafd628ae1ee0b56b8b23935363",
+      "width": 480,
+      "height": 480,
+      "size": 9762,
+      "createdAt": "2026-07-04T18:29:15Z",
+      "updatedAt": "2026-07-04T18:29:15Z"
+    }
+  ]
+}

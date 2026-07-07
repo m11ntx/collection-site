@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-flamengo-home-i-2025-26-todos-os-patrocinios-torcedor",
+  "createdAt": "2026-07-05T06:08:59Z",
+  "updatedAt": "2026-07-05T06:08:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-todos-os-patrocinios-torcedor/front.webp",
+      "hash": "c42f2d0091039efa271fd8d821d8eda6faf83917056a6f413cce1183d8b79e59",
+      "width": 480,
+      "height": 480,
+      "size": 12788,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-do-flamengo-home-i-2025-26-todos-os-patrocinios-torcedor/back.webp",
+      "hash": "8ab2e9cda6739835f693a34d8ba76418f7916c28eb2b03e7f107d9864625b19e",
+      "width": 480,
+      "height": 480,
+      "size": 8132,
+      "createdAt": "2026-07-05T06:08:59Z",
+      "updatedAt": "2026-07-05T06:08:59Z"
+    }
+  ]
+}

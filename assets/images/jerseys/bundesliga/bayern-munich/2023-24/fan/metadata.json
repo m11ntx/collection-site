@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-bayern-leverkusen-2023-24-bundesliga-champions",
+  "createdAt": "2026-07-04T18:28:27Z",
+  "updatedAt": "2026-07-04T18:28:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2023-24/fan/front.webp",
+      "hash": "89dcc6675a541c3ac1a0a049cdf1f5d6456f6a019e56a3b9b949a78de7ffe648",
+      "width": 480,
+      "height": 480,
+      "size": 12076,
+      "createdAt": "2026-07-04T18:28:26Z",
+      "updatedAt": "2026-07-04T18:28:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2023-24/fan/back.webp",
+      "hash": "44b6b4859f1a1d902e0b154c265ae45ae965a2be861123591208b211b8f5c32d",
+      "width": 480,
+      "height": 480,
+      "size": 55448,
+      "createdAt": "2026-07-04T18:28:27Z",
+      "updatedAt": "2026-07-04T18:28:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2023-24/fan/detail-1.webp",
+      "hash": "6c204b5a091b9814504d9f05c1468149bbcd5b763343acfcc655ab6268724965",
+      "width": 480,
+      "height": 480,
+      "size": 5040,
+      "createdAt": "2026-07-04T18:28:27Z",
+      "updatedAt": "2026-07-04T18:28:27Z"
+    }
+  ]
+}

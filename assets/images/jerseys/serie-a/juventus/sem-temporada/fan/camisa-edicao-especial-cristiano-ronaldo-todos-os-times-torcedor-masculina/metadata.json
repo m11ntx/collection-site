@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-edicao-especial-cristiano-ronaldo-todos-os-times-torcedor-masculina",
+  "createdAt": "2026-07-07T01:32:44Z",
+  "updatedAt": "2026-07-07T01:32:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/sem-temporada/fan/camisa-edicao-especial-cristiano-ronaldo-todos-os-times-torcedor-masculina/front.webp",
+      "hash": "84db044cb5e523570219d8cc799fd47878fd13a9ad14e6cf9260008d73a893e6",
+      "width": 480,
+      "height": 480,
+      "size": 18136,
+      "createdAt": "2026-07-07T01:32:43Z",
+      "updatedAt": "2026-07-07T01:32:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/sem-temporada/fan/camisa-edicao-especial-cristiano-ronaldo-todos-os-times-torcedor-masculina/back.webp",
+      "hash": "43bc2519daee520cbfee74d3c30352080022416d80518ebffaeb1ac78cfa93e9",
+      "width": 480,
+      "height": 480,
+      "size": 9932,
+      "createdAt": "2026-07-07T01:32:43Z",
+      "updatedAt": "2026-07-07T01:32:43Z"
+    }
+  ]
+}

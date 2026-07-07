@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-paysandu-i-25-26-lobo-masculina-torcedor",
+  "createdAt": "2026-07-06T02:11:00Z",
+  "updatedAt": "2026-07-06T02:11:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/paysandu/25-26/fan/camisa-do-paysandu-i-25-26-lobo-masculina-torcedor/front.webp",
+      "hash": "9ae2f6336b5d599b89977ef05cce9d53f15f293a4a96d32b47eae582d8aa87f1",
+      "width": 480,
+      "height": 480,
+      "size": 10542,
+      "createdAt": "2026-07-06T02:11:00Z",
+      "updatedAt": "2026-07-06T02:11:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/paysandu/25-26/fan/camisa-do-paysandu-i-25-26-lobo-masculina-torcedor/back.webp",
+      "hash": "aa85b79b268341bad9b007e0cdc035a5b52b3e929be95cff71339ae05c69cae8",
+      "width": 480,
+      "height": 480,
+      "size": 4524,
+      "createdAt": "2026-07-06T02:11:00Z",
+      "updatedAt": "2026-07-06T02:11:00Z"
+    }
+  ]
+}

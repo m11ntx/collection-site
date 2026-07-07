@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-2006-masculina-nike-vermelha-e-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-04T17:16:06Z",
+  "updatedAt": "2026-07-04T21:07:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/front.webp",
+      "hash": "78d45236042847fc10dc8b3523bc8b0c6265b1e703e2c63351e55a947bfe8592",
+      "width": 480,
+      "height": 480,
+      "size": 11572,
+      "createdAt": "2026-07-04T17:16:03Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/back.webp",
+      "hash": "9207180ca5bd1bb0d801528f537721ec7ffb1ab62ea010f1c563140a82051172",
+      "width": 480,
+      "height": 480,
+      "size": 10252,
+      "createdAt": "2026-07-04T17:16:03Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/detail-1.webp",
+      "hash": "78b5d3254d9ebb4d7ad6b7e7a537aa82bdf26d96fe63e4e4bb8d2c63cf29df28",
+      "width": 480,
+      "height": 480,
+      "size": 13808,
+      "createdAt": "2026-07-04T17:16:04Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/detail-2.webp",
+      "hash": "2a8a17c58dc1353b885fd2703ed0743c2fcc200dfafea6b50bb9a57f5158422d",
+      "width": 480,
+      "height": 480,
+      "size": 15250,
+      "createdAt": "2026-07-04T17:16:04Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/detail-3.webp",
+      "hash": "669c0785e48450a525f929a3e02ef8687b1137eeba6d6030155b659e95eda6b6",
+      "width": 480,
+      "height": 480,
+      "size": 59674,
+      "createdAt": "2026-07-04T17:16:04Z",
+      "updatedAt": "2026-07-04T21:07:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/detail-4.webp",
+      "hash": "4fd75f6b9ad980467166ccdb3c8536420ab945a63ec8612e9de77f16c1edd4db",
+      "width": 480,
+      "height": 480,
+      "size": 61072,
+      "createdAt": "2026-07-04T17:16:05Z",
+      "updatedAt": "2026-07-04T21:07:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006/sem-versao/detail-5.webp",
+      "hash": "92fc4ab02966f71424ef9b0a25f467536609ee0ddd2d2680e12c8e120ac5e827",
+      "width": 480,
+      "height": 480,
+      "size": 33086,
+      "createdAt": "2026-07-04T17:16:06Z",
+      "updatedAt": "2026-07-04T21:07:57Z"
+    }
+  ]
+}

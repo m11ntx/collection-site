@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-atletico-mineiro-ii-1996-umbro-masculino-branco-com-detalhes-em-preto",
+  "createdAt": "2026-07-04T20:10:08Z",
+  "updatedAt": "2026-07-04T20:10:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/front.webp",
+      "hash": "a2dc5c4594155f506c9a1cc22dd37ab057174ddfb321a8f93b5b229173689b96",
+      "width": 480,
+      "height": 480,
+      "size": 11982,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/back.webp",
+      "hash": "e4f858b554067840b2108fbeefd2f4d1a2b4feac30837ceb42d0c589949acdaf",
+      "width": 480,
+      "height": 480,
+      "size": 13034,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/detail-1.webp",
+      "hash": "69187dba1da7710db486a0908e2a0876c0eeb4736352f2cbeca38114481cd64d",
+      "width": 480,
+      "height": 480,
+      "size": 6000,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/detail-2.webp",
+      "hash": "2cb31a5893bea341f247d71dbba4343b193d505e8074998738028c7e125eab4b",
+      "width": 480,
+      "height": 480,
+      "size": 27090,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/detail-3.webp",
+      "hash": "755397cdb45273d2835017e9236473b7684137fdf17e2a25f8c087e7d9fc828d",
+      "width": 480,
+      "height": 480,
+      "size": 26032,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/detail-4.webp",
+      "hash": "f7380346f4509f030e2a26ff9eb819821ee1960409b36fee8ebe01fe8ed033bb",
+      "width": 480,
+      "height": 480,
+      "size": 11248,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/1996/sem-versao/detail-5.webp",
+      "hash": "0345de254e84611f8900313a1625a959360b2b9857ed0f56e9cf3688f6d0d638",
+      "width": 480,
+      "height": 480,
+      "size": 38470,
+      "createdAt": "2026-07-04T20:10:08Z",
+      "updatedAt": "2026-07-04T20:10:08Z"
+    }
+  ]
+}

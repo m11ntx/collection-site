@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-vitoria-i-25-26-masculina-volt-vermelho-e-preto",
+  "createdAt": "2026-07-04T20:27:51Z",
+  "updatedAt": "2026-07-04T20:32:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vitoria/25-26/fan/front.webp",
+      "hash": "8182a9ad6d6b75c40bae293e7749a0c825c991082c51070b0f7c1adaf6e1ecbc",
+      "width": 480,
+      "height": 480,
+      "size": 7764,
+      "createdAt": "2026-07-04T20:27:51Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vitoria/25-26/fan/back.webp",
+      "hash": "623c14ee8f8a70096bfa8e0d2ba51d16725bc4687056fee5a970f06d023ccd40",
+      "width": 480,
+      "height": 480,
+      "size": 6566,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vitoria/25-26/fan/detail-1.webp",
+      "hash": "96f87a6c76018541a54a866fa2439d748d78cdf58af35cedf4499af0042fcdfc",
+      "width": 480,
+      "height": 480,
+      "size": 39830,
+      "createdAt": "2026-07-04T20:32:58Z",
+      "updatedAt": "2026-07-04T20:32:58Z"
+    }
+  ]
+}

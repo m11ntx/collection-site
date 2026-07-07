@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-liverpool-i-infantil-25-26-vermelha-e-branca",
+  "createdAt": "2026-07-05T05:51:09Z",
+  "updatedAt": "2026-07-05T05:51:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/sem-versao/kit-liverpool-i-infantil-25-26-vermelha-e-branca/front.webp",
+      "hash": "1fccf88aa90ba3256a1f2949a7becfc8dbf07b1f795195fbe4524bc7358fc496",
+      "width": 480,
+      "height": 480,
+      "size": 18842,
+      "createdAt": "2026-07-05T05:51:09Z",
+      "updatedAt": "2026-07-05T05:51:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/sem-versao/kit-liverpool-i-infantil-25-26-vermelha-e-branca/back.webp",
+      "hash": "de1ed73d87ecd3a8894a1f5674a3c752fae2039e4b31f2433964eb9766ec62bd",
+      "width": 480,
+      "height": 480,
+      "size": 31650,
+      "createdAt": "2026-07-05T05:51:09Z",
+      "updatedAt": "2026-07-05T05:51:09Z"
+    }
+  ]
+}

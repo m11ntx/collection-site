@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-terrace-icons-2025-26-torcedor",
+  "createdAt": "2026-07-05T06:09:17Z",
+  "updatedAt": "2026-07-05T06:09:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-flamengo-terrace-icons-2025-26-torcedor/front.webp",
+      "hash": "cecaa7652b67494bcefe5d9c747a51c72c63170759ba47fee3c4dfc1aeed2803",
+      "width": 480,
+      "height": 480,
+      "size": 13688,
+      "createdAt": "2026-07-05T06:09:17Z",
+      "updatedAt": "2026-07-05T06:09:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/fan/camisa-flamengo-terrace-icons-2025-26-torcedor/back.webp",
+      "hash": "c704bf83a3fdbac0b63ea133f6023f74f98ae739fe8c1c756f42c98bed1ad643",
+      "width": 480,
+      "height": 480,
+      "size": 9432,
+      "createdAt": "2026-07-05T06:09:17Z",
+      "updatedAt": "2026-07-05T06:09:17Z"
+    }
+  ]
+}

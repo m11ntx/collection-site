@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-versao-jogador-corinthians-2024-25-masculina-all-black-patrocinadores",
+  "createdAt": "2026-07-04T18:26:25Z",
+  "updatedAt": "2026-07-04T20:26:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2024-25/player/front.webp",
+      "hash": "0c974b16edbd85f358a77c0aef1fb57f48c20816aec73129f4b166d09cc6dbcc",
+      "width": 480,
+      "height": 470,
+      "size": 11744,
+      "createdAt": "2026-07-04T18:26:25Z",
+      "updatedAt": "2026-07-04T20:26:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2024-25/player/back.webp",
+      "hash": "8121e6867bfda152e9ed5fe0c194ffdf1a152c7d7b15b3abc5aa8ee9c6fa2743",
+      "width": 480,
+      "height": 467,
+      "size": 12278,
+      "createdAt": "2026-07-04T18:26:25Z",
+      "updatedAt": "2026-07-04T20:26:22Z"
+    }
+  ]
+}

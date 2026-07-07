@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-fluminense",
+  "createdAt": "2026-07-04T20:25:20Z",
+  "updatedAt": "2026-07-04T20:25:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/sem-temporada/sem-versao/front.webp",
+      "hash": "054848acd25dc356e870ea71080ec13b4b27957025d607fdccdf7ed158e1b8b0",
+      "width": 480,
+      "height": 480,
+      "size": 7956,
+      "createdAt": "2026-07-04T20:25:20Z",
+      "updatedAt": "2026-07-04T20:25:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/sem-temporada/sem-versao/back.webp",
+      "hash": "9c5865ece21666d4e19c7bc5185fd32539c6d97326e0275c236eb00bde5ff78c",
+      "width": 480,
+      "height": 480,
+      "size": 17258,
+      "createdAt": "2026-07-04T20:25:20Z",
+      "updatedAt": "2026-07-04T20:25:20Z"
+    }
+  ]
+}

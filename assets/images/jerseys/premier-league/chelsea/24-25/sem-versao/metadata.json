@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-chelsea-nike-24-25-azul",
+  "createdAt": "2026-07-04T18:07:29Z",
+  "updatedAt": "2026-07-04T20:22:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/front.webp",
+      "hash": "998f3536c126c6b98e3c4a9108de7c7e7e332281ecaa8cb5dc47870e62242ce0",
+      "width": 480,
+      "height": 480,
+      "size": 9354,
+      "createdAt": "2026-07-04T18:07:28Z",
+      "updatedAt": "2026-07-04T20:22:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/back.webp",
+      "hash": "c0230ed581c376cb7a3d1523db104af2611b8f78ac4f7413d8c88c9562a34ec5",
+      "width": 480,
+      "height": 480,
+      "size": 5996,
+      "createdAt": "2026-07-04T18:07:28Z",
+      "updatedAt": "2026-07-04T20:22:51Z"
+    }
+  ]
+}

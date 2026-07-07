@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ponte-preta-retro-1977-dica-masculina",
+  "createdAt": "2026-07-04T18:34:31Z",
+  "updatedAt": "2026-07-04T18:34:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1977/fan/front.webp",
+      "hash": "9da2ad6e7b038090bb6abe14bd23d5f49ee8f571d5ed338cfe6ec63f47f0ae1b",
+      "width": 480,
+      "height": 480,
+      "size": 11332,
+      "createdAt": "2026-07-04T18:34:31Z",
+      "updatedAt": "2026-07-04T18:34:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1977/fan/back.webp",
+      "hash": "74344316548eaa5c05f878653d6f4b70fde987aaac60a4d2b43c73b723411d3c",
+      "width": 480,
+      "height": 480,
+      "size": 8150,
+      "createdAt": "2026-07-04T18:34:31Z",
+      "updatedAt": "2026-07-04T18:34:31Z"
+    }
+  ]
+}

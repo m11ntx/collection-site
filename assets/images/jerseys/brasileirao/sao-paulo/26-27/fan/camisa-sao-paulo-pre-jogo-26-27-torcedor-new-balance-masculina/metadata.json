@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sao-paulo-pre-jogo-26-27-torcedor-new-balance-masculina",
+  "createdAt": "2026-07-05T16:43:10Z",
+  "updatedAt": "2026-07-05T16:43:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-pre-jogo-26-27-torcedor-new-balance-masculina/front.webp",
+      "hash": "8e67223d208b1cf3c26c757fcb526e27dc9fcc27cc5fd7803aeff3919ea780ee",
+      "width": 480,
+      "height": 480,
+      "size": 33276,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-pre-jogo-26-27-torcedor-new-balance-masculina/back.webp",
+      "hash": "633220f99c3243fe584784fc84125b61fb5484859bcd780f94fbe951c6a8302d",
+      "width": 480,
+      "height": 480,
+      "size": 7186,
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
+    }
+  ]
+}

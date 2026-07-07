@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-ii-95-97-masculina-kappa-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-04T17:39:27Z",
+  "updatedAt": "2026-07-04T17:39:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/front.webp",
+      "hash": "fc3b86c7c70b53405851893e590e7d0f6bbe61da0df228f041220036227f5e82",
+      "width": 480,
+      "height": 480,
+      "size": 15324,
+      "createdAt": "2026-07-04T17:39:25Z",
+      "updatedAt": "2026-07-04T17:39:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/back.webp",
+      "hash": "2d700ce6c7c8b74a2b58d380eb8e61b01e76745d80f29b12a4f60b541a894e6a",
+      "width": 480,
+      "height": 480,
+      "size": 12798,
+      "createdAt": "2026-07-04T17:39:25Z",
+      "updatedAt": "2026-07-04T17:39:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/detail-1.webp",
+      "hash": "8d1233b7d4421b3d38adf4149e0450ba0cc850269d81bd0419de0bc211af1549",
+      "width": 480,
+      "height": 480,
+      "size": 23026,
+      "createdAt": "2026-07-04T17:39:25Z",
+      "updatedAt": "2026-07-04T17:39:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/detail-2.webp",
+      "hash": "bda7c5e05ce91db6ddc1ab542b52967aa7305bafdf936fed254c799ea5c1e6fb",
+      "width": 480,
+      "height": 480,
+      "size": 69892,
+      "createdAt": "2026-07-04T17:39:26Z",
+      "updatedAt": "2026-07-04T17:39:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/detail-3.webp",
+      "hash": "578bfa648fdb94c3a4d62da921116213a6875fa6fdb46d29589bd552357921fe",
+      "width": 480,
+      "height": 480,
+      "size": 75676,
+      "createdAt": "2026-07-04T17:39:26Z",
+      "updatedAt": "2026-07-04T17:39:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/detail-4.webp",
+      "hash": "44f9a1d0f769374d223f7dc9eb1228966ab9df73503a8028853e6521ee0737a0",
+      "width": 480,
+      "height": 480,
+      "size": 31086,
+      "createdAt": "2026-07-04T17:39:27Z",
+      "updatedAt": "2026-07-04T17:39:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/95-97/sem-versao/detail-5.webp",
+      "hash": "5f9713bc9dcf3d461cb59b380b0f70668964647ab769fdbca340bdeb6960b3bd",
+      "width": 480,
+      "height": 480,
+      "size": 31122,
+      "createdAt": "2026-07-04T17:39:27Z",
+      "updatedAt": "2026-07-04T17:39:27Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-vasco-iii-25-26-torcedor-masculina-todos-os-patrocinios-marrom",
+  "createdAt": "2026-07-04T20:25:02Z",
+  "updatedAt": "2026-07-04T20:28:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/front.webp",
+      "hash": "b17059604731ecaf257958aa47bdaa8fff86dcb5ca5939bf6654a676f805e44e",
+      "width": 480,
+      "height": 480,
+      "size": 10654,
+      "createdAt": "2026-07-04T20:25:02Z",
+      "updatedAt": "2026-07-04T20:28:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/back.webp",
+      "hash": "0e72c6fe6428b5caf4d8bda79d87fb5de3881db9086af4df6bfa6a4104c7b092",
+      "width": 480,
+      "height": 480,
+      "size": 8162,
+      "createdAt": "2026-07-04T20:25:02Z",
+      "updatedAt": "2026-07-04T20:28:02Z"
+    }
+  ]
+}

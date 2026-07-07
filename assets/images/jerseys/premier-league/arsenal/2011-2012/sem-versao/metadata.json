@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-arsenal-retro-2011-2012-vermelho-nike",
+  "createdAt": "2026-07-04T17:32:00Z",
+  "updatedAt": "2026-07-04T17:32:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/front.webp",
+      "hash": "d5c901abcaeed9bbee6458dcdc6dbb5f30481ea165d2b63d0df8338371b8e388",
+      "width": 480,
+      "height": 480,
+      "size": 9862,
+      "createdAt": "2026-07-04T17:31:57Z",
+      "updatedAt": "2026-07-04T17:31:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/back.webp",
+      "hash": "3c59fd5aecc957dea07de6b125604c2f13899d7779e20472cecfa311ed8984d7",
+      "width": 480,
+      "height": 480,
+      "size": 5772,
+      "createdAt": "2026-07-04T17:31:58Z",
+      "updatedAt": "2026-07-04T17:31:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/detail-1.webp",
+      "hash": "a48add2a87eef91eb492851bef6f3b03dc48ccad17dc28371be4e42df5a6f653",
+      "width": 480,
+      "height": 480,
+      "size": 25590,
+      "createdAt": "2026-07-04T17:31:58Z",
+      "updatedAt": "2026-07-04T17:31:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/detail-2.webp",
+      "hash": "40b7f4457ea347eb1f56983637af2b020ad406815b24b9ce8fa4b27592d275a6",
+      "width": 480,
+      "height": 480,
+      "size": 15326,
+      "createdAt": "2026-07-04T17:31:58Z",
+      "updatedAt": "2026-07-04T17:31:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/detail-3.webp",
+      "hash": "562dbfa5a6240d4d8b56278d0c8fcd995256b44739e27a3b7a5f3dff9a2adcf3",
+      "width": 480,
+      "height": 480,
+      "size": 30698,
+      "createdAt": "2026-07-04T17:31:59Z",
+      "updatedAt": "2026-07-04T17:31:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/detail-4.webp",
+      "hash": "fb17a843af540d7d2e1a2e0cd69708d7d1f5114e4547078128734ddf3f9aa881",
+      "width": 480,
+      "height": 480,
+      "size": 24270,
+      "createdAt": "2026-07-04T17:32:00Z",
+      "updatedAt": "2026-07-04T17:32:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/2011-2012/sem-versao/detail-5.webp",
+      "hash": "76fbf6158cd5be228029c5d9d193d501f023387dbc7eee3489f24856e69bd735",
+      "width": 480,
+      "height": 480,
+      "size": 37098,
+      "createdAt": "2026-07-04T17:32:00Z",
+      "updatedAt": "2026-07-04T17:32:00Z"
+    }
+  ]
+}

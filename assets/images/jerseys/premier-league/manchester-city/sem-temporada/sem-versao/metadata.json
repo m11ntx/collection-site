@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-manchester-city",
+  "createdAt": "2026-07-04T18:27:54Z",
+  "updatedAt": "2026-07-04T18:27:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/sem-temporada/sem-versao/front.webp",
+      "hash": "ba0d025696deced5caeceecfc3b6c412858e65e689bc12a1c884775f5329aaaf",
+      "width": 480,
+      "height": 480,
+      "size": 9918,
+      "createdAt": "2026-07-04T18:27:54Z",
+      "updatedAt": "2026-07-04T18:27:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/sem-temporada/sem-versao/back.webp",
+      "hash": "d73ca7afdab8f426b55337e37b3f1c8e7ba193e1ab3f13e629a5cfbffccb683d",
+      "width": 480,
+      "height": 480,
+      "size": 22762,
+      "createdAt": "2026-07-04T18:27:54Z",
+      "updatedAt": "2026-07-04T18:27:54Z"
+    }
+  ]
+}

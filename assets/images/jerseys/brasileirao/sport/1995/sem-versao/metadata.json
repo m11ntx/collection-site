@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-retro-1995-verde-aba-sport",
+  "createdAt": "2026-07-04T20:09:53Z",
+  "updatedAt": "2026-07-04T20:09:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/front.webp",
+      "hash": "faff53fabd5dc4921d2dfc6d3a377e4cc464c40e5779fc7dab076d6c638bf862",
+      "width": 480,
+      "height": 480,
+      "size": 14642,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/back.webp",
+      "hash": "b7d54823cd186d14370fc35a34e87a349e706fcbf93103c2999ed2556c294ccc",
+      "width": 480,
+      "height": 480,
+      "size": 14966,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/detail-1.webp",
+      "hash": "731ac48783bd90f671199fe5756246dc21a1fdb240a05649896b1b34f8fe8066",
+      "width": 480,
+      "height": 480,
+      "size": 22818,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/detail-2.webp",
+      "hash": "da3881dce426b5e9d3fdcaa547661131308c38cdd9d74546f172cff19a954951",
+      "width": 480,
+      "height": 480,
+      "size": 20246,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/detail-3.webp",
+      "hash": "c63043e70558f83e5d2b988c00aff557dd363514516c5babfbd83d64c5567be5",
+      "width": 480,
+      "height": 480,
+      "size": 24658,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/detail-4.webp",
+      "hash": "d4cf1c74d1718b1f20e931dd9911acab6335f27f46a476d91191a9177b1d7c44",
+      "width": 480,
+      "height": 480,
+      "size": 45846,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/sport/1995/sem-versao/detail-5.webp",
+      "hash": "76364ce446454af9ff691df7896b9ebbdfa41304f69dfaf08b5968a45b5b2c6c",
+      "width": 480,
+      "height": 480,
+      "size": 13190,
+      "createdAt": "2026-07-04T20:09:52Z",
+      "updatedAt": "2026-07-04T20:09:52Z"
+    }
+  ]
+}

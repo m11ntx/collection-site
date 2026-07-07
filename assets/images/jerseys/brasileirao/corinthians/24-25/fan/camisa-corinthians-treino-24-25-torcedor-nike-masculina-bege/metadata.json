@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-corinthians-treino-24-25-torcedor-nike-masculina-bege",
+  "createdAt": "2026-07-05T16:01:52Z",
+  "updatedAt": "2026-07-05T16:01:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-treino-24-25-torcedor-nike-masculina-bege/front.webp",
+      "hash": "10d9b4ebde6b3f90df57bf703700fd22c4faebb4a0ccc215a77db67ade0d085b",
+      "width": 480,
+      "height": 480,
+      "size": 6226,
+      "createdAt": "2026-07-05T16:01:51Z",
+      "updatedAt": "2026-07-05T16:01:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-treino-24-25-torcedor-nike-masculina-bege/back.webp",
+      "hash": "aa34fab9ee643cfd257039972dff966dff59aa95a62241c6997e33d0b6dd02c7",
+      "width": 480,
+      "height": 480,
+      "size": 4374,
+      "createdAt": "2026-07-05T16:01:52Z",
+      "updatedAt": "2026-07-05T16:01:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-treino-24-25-torcedor-nike-masculina-bege/detail-1.webp",
+      "hash": "b45c5ab76c6e7040aafd698ef90a9bcb980c7bf8f26d2dd2daca5aeac80b3701",
+      "width": 480,
+      "height": 480,
+      "size": 19298,
+      "createdAt": "2026-07-05T16:01:52Z",
+      "updatedAt": "2026-07-05T16:01:52Z"
+    }
+  ]
+}

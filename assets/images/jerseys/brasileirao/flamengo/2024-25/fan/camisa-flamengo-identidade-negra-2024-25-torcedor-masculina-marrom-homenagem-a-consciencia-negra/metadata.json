@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-flamengo-identidade-negra-2024-25-torcedor-masculina-marrom-homenagem-a-consciencia-negra",
+  "createdAt": "2026-07-05T06:09:14Z",
+  "updatedAt": "2026-07-05T06:09:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2024-25/fan/camisa-flamengo-identidade-negra-2024-25-torcedor-masculina-marrom-homenagem-a-consciencia-negra/front.webp",
+      "hash": "4475d971f3d31be798cefab7f6c6deee7234a266046c729d813ea16ca25650a6",
+      "width": 480,
+      "height": 480,
+      "size": 13462,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2024-25/fan/camisa-flamengo-identidade-negra-2024-25-torcedor-masculina-marrom-homenagem-a-consciencia-negra/back.webp",
+      "hash": "5b23a20594b0fc361bec50831c3fda3a74359ec7378d3c75e9009e99f6ba5564",
+      "width": 480,
+      "height": 480,
+      "size": 11950,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2024-25/fan/camisa-flamengo-identidade-negra-2024-25-torcedor-masculina-marrom-homenagem-a-consciencia-negra/detail-1.webp",
+      "hash": "c9512bef5c1f2844cec8eb54c147fa49b4b59748756241e5c3a4d80de787769c",
+      "width": 480,
+      "height": 480,
+      "size": 48612,
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-liverpool-retro-1965-vermelha",
+  "createdAt": "2026-07-04T17:23:32Z",
+  "updatedAt": "2026-07-04T17:23:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/front.webp",
+      "hash": "97e799f160e4c92616283292e02cbe5871dcf1460f88374faeef3a774913b462",
+      "width": 480,
+      "height": 480,
+      "size": 7298,
+      "createdAt": "2026-07-04T17:23:30Z",
+      "updatedAt": "2026-07-04T17:23:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/back.webp",
+      "hash": "a078183266738afec428f9020e8e3f37b6af812b07fef18d3ccaf4a66a783f55",
+      "width": 480,
+      "height": 480,
+      "size": 5728,
+      "createdAt": "2026-07-04T17:23:31Z",
+      "updatedAt": "2026-07-04T17:23:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/detail-1.webp",
+      "hash": "92f75f263e545b51a67221c0d62d74a43e4f3605206d8fedc5fd72d130b2161d",
+      "width": 480,
+      "height": 480,
+      "size": 13644,
+      "createdAt": "2026-07-04T17:23:31Z",
+      "updatedAt": "2026-07-04T17:23:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/detail-2.webp",
+      "hash": "58f881248adcf189fcb278242cc6d8074668491e70d09d6896505f29c81015e4",
+      "width": 480,
+      "height": 480,
+      "size": 10442,
+      "createdAt": "2026-07-04T17:23:31Z",
+      "updatedAt": "2026-07-04T17:23:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/detail-3.webp",
+      "hash": "c959e342aea8bcff45b689c5c747c07bab592d00a12440b3a9d4a38779ca784e",
+      "width": 480,
+      "height": 480,
+      "size": 23870,
+      "createdAt": "2026-07-04T17:23:32Z",
+      "updatedAt": "2026-07-04T17:23:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1965/sem-versao/detail-4.webp",
+      "hash": "f43b6b77e6c5267dff21389c33bb9b78a0fc43a2ef26108e8e5ca8d1b69d747e",
+      "width": 480,
+      "height": 480,
+      "size": 8524,
+      "createdAt": "2026-07-04T17:23:32Z",
+      "updatedAt": "2026-07-04T17:23:32Z"
+    }
+  ]
+}

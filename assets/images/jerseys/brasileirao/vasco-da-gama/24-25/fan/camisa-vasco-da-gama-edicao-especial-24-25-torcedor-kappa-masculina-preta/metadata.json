@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta",
+  "createdAt": "2026-07-05T16:03:36Z",
+  "updatedAt": "2026-07-05T16:03:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/front.webp",
+      "hash": "e7a31b4c4d67dc6126131b919e31fa538cb3a0f869dffa7642142af39a7ba7fa",
+      "width": 480,
+      "height": 480,
+      "size": 7452,
+      "createdAt": "2026-07-05T16:03:35Z",
+      "updatedAt": "2026-07-05T16:03:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/back.webp",
+      "hash": "a875943e32bac38b12d017f524795f4ddb6539f629d353a1c8b15bea9f55cb0d",
+      "width": 480,
+      "height": 480,
+      "size": 10726,
+      "createdAt": "2026-07-05T16:03:35Z",
+      "updatedAt": "2026-07-05T16:03:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/detail-1.webp",
+      "hash": "3b8b29a57e3465435240390bcd78e0277dd92a327473e60c090f840ac0ef5c4e",
+      "width": 480,
+      "height": 480,
+      "size": 5688,
+      "createdAt": "2026-07-05T16:03:35Z",
+      "updatedAt": "2026-07-05T16:03:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/detail-2.webp",
+      "hash": "fd38c38eaab01767249ceec7f5f5cbf01ec24cd335a47c224ba3fd55ffb72b5c",
+      "width": 480,
+      "height": 480,
+      "size": 35360,
+      "createdAt": "2026-07-05T16:03:36Z",
+      "updatedAt": "2026-07-05T16:03:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/detail-3.webp",
+      "hash": "1ce69443fba236e386676524fb7ba811530eeb9d9adb4b3a72661c143337aeca",
+      "width": 480,
+      "height": 480,
+      "size": 47492,
+      "createdAt": "2026-07-05T16:03:36Z",
+      "updatedAt": "2026-07-05T16:03:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/detail-4.webp",
+      "hash": "e8daad0a3f001c2d513c9697379fbcffc67af123022ba518c1067442931a2c6b",
+      "width": 480,
+      "height": 480,
+      "size": 12330,
+      "createdAt": "2026-07-05T16:03:36Z",
+      "updatedAt": "2026-07-05T16:03:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-edicao-especial-24-25-torcedor-kappa-masculina-preta/detail-5.webp",
+      "hash": "8250ea1d94581a33afd8e31fccea95c205acec16d44e9f23bdba10993511c177",
+      "width": 480,
+      "height": 480,
+      "size": 13898,
+      "createdAt": "2026-07-05T16:03:36Z",
+      "updatedAt": "2026-07-05T16:03:36Z"
+    }
+  ]
+}

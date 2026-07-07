@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-16-17-masculina-adidas-preta-com-detalhes-em-roxo",
+  "createdAt": "2026-07-04T17:36:02Z",
+  "updatedAt": "2026-07-04T21:06:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/front.webp",
+      "hash": "b531581da5cf75dd717749e62be8266ae63b4ae210baa38a9ff3b9a895d7df38",
+      "width": 480,
+      "height": 480,
+      "size": 6948,
+      "createdAt": "2026-07-04T17:36:00Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/back.webp",
+      "hash": "4ceb27cae7a7a6e7add07c5e0fb0f1cc44bf504fae8af11dcfe9c8bf76b38ca4",
+      "width": 480,
+      "height": 480,
+      "size": 4644,
+      "createdAt": "2026-07-04T17:36:00Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/detail-1.webp",
+      "hash": "6144a4af12e29877e5e16766ff2d7f21f2fa02cfb12f169ec8797957c5507373",
+      "width": 480,
+      "height": 480,
+      "size": 13560,
+      "createdAt": "2026-07-04T21:06:47Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/detail-2.webp",
+      "hash": "86dff3622f36b4bc630c3ba15645e83ca3c4939c39878f740eb13a858e932845",
+      "width": 480,
+      "height": 480,
+      "size": 63232,
+      "createdAt": "2026-07-04T21:06:47Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/detail-3.webp",
+      "hash": "fcabc372e894f43c00ebe85c655fbde076eee56f5413301f127770580210e30d",
+      "width": 480,
+      "height": 480,
+      "size": 48160,
+      "createdAt": "2026-07-04T21:06:47Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/detail-4.webp",
+      "hash": "978e065a998c4c342ce94e65e601c8be6fef2e8099714c64bd7aea5ff42dc8c5",
+      "width": 480,
+      "height": 480,
+      "size": 16890,
+      "createdAt": "2026-07-04T21:06:48Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/16-17/sem-versao/detail-5.webp",
+      "hash": "2534c501f13b614adb5c352780551c0d2a3b4b1eb371a21de3564b9487393e4b",
+      "width": 480,
+      "height": 480,
+      "size": 14938,
+      "createdAt": "2026-07-04T21:06:48Z",
+      "updatedAt": "2026-07-04T21:06:48Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-flamengo-94-95-torcedor-masculino",
+  "createdAt": "2026-07-04T18:29:36Z",
+  "updatedAt": "2026-07-04T18:29:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/94-95/fan/front.webp",
+      "hash": "905aa426723fd27e95d00b75744c7286285e08544cffe6e4af11aea48bf7641e",
+      "width": 480,
+      "height": 480,
+      "size": 12100,
+      "createdAt": "2026-07-04T18:29:35Z",
+      "updatedAt": "2026-07-04T18:29:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/94-95/fan/back.webp",
+      "hash": "c376068a4d0567718749394ee1096b39232e204a276f61ce47cbe595a0f62910",
+      "width": 480,
+      "height": 480,
+      "size": 12186,
+      "createdAt": "2026-07-04T18:29:36Z",
+      "updatedAt": "2026-07-04T18:29:36Z"
+    }
+  ]
+}

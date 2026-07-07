@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-i-1999-torcedor-rhumell-masculina-verde-com-listras-em-branco",
+  "createdAt": "2026-07-04T17:29:17Z",
+  "updatedAt": "2026-07-04T17:29:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/front.webp",
+      "hash": "db6fc78eda61cfea261e44066723c2edb9966203d21218a0f8f43047070a9c65",
+      "width": 480,
+      "height": 480,
+      "size": 11952,
+      "createdAt": "2026-07-04T17:29:14Z",
+      "updatedAt": "2026-07-04T17:29:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/back.webp",
+      "hash": "57ae58c1237ed9063592af49098f54b59c48a06a0effc3c3c8274dbec0f7db05",
+      "width": 480,
+      "height": 480,
+      "size": 17188,
+      "createdAt": "2026-07-04T17:29:15Z",
+      "updatedAt": "2026-07-04T17:29:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/detail-1.webp",
+      "hash": "5f000ce50ac11e6da891e54e218c698ec47f59f856c3e101f69416ff23a3d055",
+      "width": 480,
+      "height": 480,
+      "size": 8872,
+      "createdAt": "2026-07-04T17:29:15Z",
+      "updatedAt": "2026-07-04T17:29:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/detail-2.webp",
+      "hash": "fa2d6cd58b4ebb0422efe7ba8736f63c5c1caaf6552e6f44de39eff622306b66",
+      "width": 480,
+      "height": 480,
+      "size": 28436,
+      "createdAt": "2026-07-04T17:29:15Z",
+      "updatedAt": "2026-07-04T17:29:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/detail-3.webp",
+      "hash": "f36d1f01275065c3e86d3b5a9e6ffb367e5539557691cb160e9cc22616a2bee3",
+      "width": 480,
+      "height": 480,
+      "size": 40090,
+      "createdAt": "2026-07-04T17:29:16Z",
+      "updatedAt": "2026-07-04T17:29:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/detail-4.webp",
+      "hash": "393858c3cc28e4d18bc0f3a4a0d4ab7207c1678ecb1a104df0a0ce6f17a716ee",
+      "width": 480,
+      "height": 480,
+      "size": 30730,
+      "createdAt": "2026-07-04T17:29:16Z",
+      "updatedAt": "2026-07-04T17:29:16Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/fan/detail-5.webp",
+      "hash": "d9d2a712f59c21324ec2c1f4de1d1fbe5297d0c08ad9abced3fbb9d991405aaa",
+      "width": 480,
+      "height": 480,
+      "size": 45558,
+      "createdAt": "2026-07-04T17:29:17Z",
+      "updatedAt": "2026-07-04T17:29:17Z"
+    }
+  ]
+}

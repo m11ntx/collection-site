@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-ii-2006-masculina-adidas-preta",
+  "createdAt": "2026-07-04T17:27:53Z",
+  "updatedAt": "2026-07-04T17:27:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/front.webp",
+      "hash": "cd880ff8dee704e47d21d20497fe7c930722538ec3cfadecbd40ee1b5168b4e5",
+      "width": 480,
+      "height": 480,
+      "size": 14802,
+      "createdAt": "2026-07-04T17:27:50Z",
+      "updatedAt": "2026-07-04T17:27:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/back.webp",
+      "hash": "835b7e05a7d461e87417e6f147b09019994af8c443688da2410e0c6b37063a51",
+      "width": 480,
+      "height": 480,
+      "size": 10550,
+      "createdAt": "2026-07-04T17:27:50Z",
+      "updatedAt": "2026-07-04T17:27:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/detail-1.webp",
+      "hash": "279a828d7a4893792b80dbacca91bf4879cae1b6ef981dc6316e7f0c7372c83e",
+      "width": 480,
+      "height": 480,
+      "size": 29506,
+      "createdAt": "2026-07-04T17:27:50Z",
+      "updatedAt": "2026-07-04T17:27:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/detail-2.webp",
+      "hash": "5d82e597eb98d09d75c16baf1bee1c96de638bd1e3969a6b2044ab93560c1089",
+      "width": 480,
+      "height": 480,
+      "size": 27296,
+      "createdAt": "2026-07-04T17:27:51Z",
+      "updatedAt": "2026-07-04T17:27:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/detail-3.webp",
+      "hash": "8b76be9a8ecf4477a82fb2403a6b715547956ba1157d09b3410a87b370925a09",
+      "width": 480,
+      "height": 480,
+      "size": 48858,
+      "createdAt": "2026-07-04T17:27:51Z",
+      "updatedAt": "2026-07-04T17:27:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/detail-4.webp",
+      "hash": "de61955ec29102e4b07930f822726a9c174742e66d43683f6a0b9a840beaa317",
+      "width": 480,
+      "height": 480,
+      "size": 26416,
+      "createdAt": "2026-07-04T17:27:52Z",
+      "updatedAt": "2026-07-04T17:27:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2006/sem-versao/detail-5.webp",
+      "hash": "0f48daba34ae65c87a2663975ed524df92134f84e7019a38e96217c6c352c33c",
+      "width": 480,
+      "height": 480,
+      "size": 23850,
+      "createdAt": "2026-07-04T17:27:52Z",
+      "updatedAt": "2026-07-04T17:27:52Z"
+    }
+  ]
+}

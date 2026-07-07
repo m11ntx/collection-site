@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-ii-25-26-patrocinio-alfa-torcedor-adidas-masculina-branco",
+  "createdAt": "2026-07-05T05:51:05Z",
+  "updatedAt": "2026-07-05T05:51:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-ii-25-26-patrocinio-alfa-torcedor-adidas-masculina-branco/front.webp",
+      "hash": "31e12960f1b55ef31ac752d3db9c808eb04df50ebbffc73495520ef2374c73e6",
+      "width": 480,
+      "height": 480,
+      "size": 7516,
+      "createdAt": "2026-07-05T05:51:05Z",
+      "updatedAt": "2026-07-05T05:51:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-ii-25-26-patrocinio-alfa-torcedor-adidas-masculina-branco/back.webp",
+      "hash": "955628a3576bbfd65ddc281a630acf54563e7e9c9085b002352684bade77311a",
+      "width": 480,
+      "height": 480,
+      "size": 3290,
+      "createdAt": "2026-07-05T05:51:05Z",
+      "updatedAt": "2026-07-05T05:51:05Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-roma-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-04T17:59:19Z",
+  "updatedAt": "2026-07-04T20:18:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/front.webp",
+      "hash": "b0be2ed79b5502521820b7f264bdc08fe7e5c27ca813dc97a006a4bba610ea4d",
+      "width": 480,
+      "height": 480,
+      "size": 14960,
+      "createdAt": "2026-07-04T17:59:17Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/back.webp",
+      "hash": "ce1d41af958370c0902dd0b76b6ae83b20d1cb95b6c9514dd32756633c7f7bab",
+      "width": 480,
+      "height": 480,
+      "size": 14450,
+      "createdAt": "2026-07-04T17:59:17Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/detail-1.webp",
+      "hash": "b5a829214379ce7c2e14a96473e7d168472956d9b8cb9524dd2111a5df2fb80a",
+      "width": 480,
+      "height": 480,
+      "size": 18942,
+      "createdAt": "2026-07-04T17:59:17Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/detail-2.webp",
+      "hash": "f930775103f4cb9595017e57b973f81894f180aab91329928237e82c1af5b296",
+      "width": 480,
+      "height": 480,
+      "size": 22054,
+      "createdAt": "2026-07-04T17:59:18Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/detail-3.webp",
+      "hash": "135cd7c158fb0a59172f0885c73c128e53443455cf5224e45777f48bcded576c",
+      "width": 480,
+      "height": 480,
+      "size": 10048,
+      "createdAt": "2026-07-04T20:18:20Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/detail-4.webp",
+      "hash": "e205e15436dfd1200fcd386ae7fca7d518be5fb9b9e50b6da645631a9bc5ef6b",
+      "width": 480,
+      "height": 480,
+      "size": 18122,
+      "createdAt": "2026-07-04T20:18:20Z",
+      "updatedAt": "2026-07-04T20:18:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/sem-clube/24-25/player/detail-5.webp",
+      "hash": "6d08c8e832fe15844ba7cbc4f5f016b80fd5c698b15234cd090ecad0e4b01de1",
+      "width": 480,
+      "height": 480,
+      "size": 22862,
+      "createdAt": "2026-07-04T20:18:21Z",
+      "updatedAt": "2026-07-04T20:18:21Z"
+    }
+  ]
+}

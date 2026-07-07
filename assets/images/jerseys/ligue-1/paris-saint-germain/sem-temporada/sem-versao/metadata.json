@@ -1,0 +1,27 @@
+{
+  "productId": "source-chaveiro-psg",
+  "createdAt": "2026-07-04T18:27:42Z",
+  "updatedAt": "2026-07-04T18:27:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/sem-temporada/sem-versao/front.webp",
+      "hash": "75d4a8d00fdb163bf1be6046b21c5c6dfa38fd866a52411701c0404f6ad37667",
+      "width": 480,
+      "height": 480,
+      "size": 11222,
+      "createdAt": "2026-07-04T18:27:41Z",
+      "updatedAt": "2026-07-04T18:27:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/sem-temporada/sem-versao/back.webp",
+      "hash": "c880391eb6f70326d63c77e999cc0344d6328f42b618d8abef2530d551c027ba",
+      "width": 480,
+      "height": 480,
+      "size": 24402,
+      "createdAt": "2026-07-04T18:27:42Z",
+      "updatedAt": "2026-07-04T18:27:42Z"
+    }
+  ]
+}

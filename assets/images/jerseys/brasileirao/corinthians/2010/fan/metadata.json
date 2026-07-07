@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-corinthians-2010-away-masculina-preta",
+  "createdAt": "2026-07-04T18:40:15Z",
+  "updatedAt": "2026-07-04T20:32:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2010/fan/front.webp",
+      "hash": "f37dffef952e560f1e822e492e3c07db5c84e7f9b5ae79d16a11a718208d7343",
+      "width": 480,
+      "height": 480,
+      "size": 11266,
+      "createdAt": "2026-07-04T18:40:15Z",
+      "updatedAt": "2026-07-04T20:32:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2010/fan/back.webp",
+      "hash": "39e2060f1405e9629f67d4d1741d48ed4132540fce180fd99db82d3de8949469",
+      "width": 480,
+      "height": 480,
+      "size": 7468,
+      "createdAt": "2026-07-04T18:40:15Z",
+      "updatedAt": "2026-07-04T20:32:07Z"
+    }
+  ]
+}

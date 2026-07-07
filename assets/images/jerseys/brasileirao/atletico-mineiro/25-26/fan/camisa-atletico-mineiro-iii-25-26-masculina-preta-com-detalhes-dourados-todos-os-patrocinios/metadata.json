@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-iii-25-26-masculina-preta-com-detalhes-dourados-todos-os-patrocinios",
+  "createdAt": "2026-07-05T16:55:15Z",
+  "updatedAt": "2026-07-05T16:55:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-iii-25-26-masculina-preta-com-detalhes-dourados-todos-os-patrocinios/front.webp",
+      "hash": "16bebc4f2ed2541b3061b878c6ab6ba54d69a34d46582400f701fb0c7a8ee88b",
+      "width": 480,
+      "height": 480,
+      "size": 20296,
+      "createdAt": "2026-07-05T16:55:15Z",
+      "updatedAt": "2026-07-05T16:55:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-iii-25-26-masculina-preta-com-detalhes-dourados-todos-os-patrocinios/back.webp",
+      "hash": "bea0bd158c1ea215e481e433c2c7f003d65929c8e62558d8dff241bcf446e3d0",
+      "width": 480,
+      "height": 480,
+      "size": 7932,
+      "createdAt": "2026-07-05T16:55:15Z",
+      "updatedAt": "2026-07-05T16:55:15Z"
+    }
+  ]
+}

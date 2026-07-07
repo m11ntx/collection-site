@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-i-26-27-manga-longa-adidas-masculina-azul-royal-com-patches",
+  "createdAt": "2026-07-05T04:53:31Z",
+  "updatedAt": "2026-07-05T04:53:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-manga-longa-adidas-masculina-azul-royal-com-patches/front.webp",
+      "hash": "46eb79703588666f0a6d4bd8eac5c8735eab100abdcd83bdde205b07c7a124cc",
+      "width": 480,
+      "height": 320,
+      "size": 10632,
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-manga-longa-adidas-masculina-azul-royal-com-patches/back.webp",
+      "hash": "90491214ea0fe2251278c57556c45c640728ff0166150124a58220f6fc78d965",
+      "width": 480,
+      "height": 320,
+      "size": 6890,
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
+    }
+  ]
+}

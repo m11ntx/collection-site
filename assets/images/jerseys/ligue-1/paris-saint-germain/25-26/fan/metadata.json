@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-psg-iii-25-26-torcedor-masculina-nike-preta",
+  "createdAt": "2026-07-04T18:33:28Z",
+  "updatedAt": "2026-07-04T20:27:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/fan/front.webp",
+      "hash": "073aa3eb0d33bcc43fbe5e62d563077da65826c062f57d11fba68c1820dd9637",
+      "width": 480,
+      "height": 480,
+      "size": 19540,
+      "createdAt": "2026-07-04T18:33:28Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/fan/back.webp",
+      "hash": "0d90c10d848692c9c34c6954ff6a2e1b3680f8e3676e6195bfc495b95981d931",
+      "width": 480,
+      "height": 480,
+      "size": 16612,
+      "createdAt": "2026-07-04T18:33:28Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    }
+  ]
+}

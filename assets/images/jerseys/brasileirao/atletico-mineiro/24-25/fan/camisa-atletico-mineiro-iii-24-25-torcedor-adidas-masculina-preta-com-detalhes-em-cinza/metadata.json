@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza",
+  "createdAt": "2026-07-05T16:55:15Z",
+  "updatedAt": "2026-07-05T16:55:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza/front.webp",
+      "hash": "bd58b83757a6282107be189c6e5f5be065a5cad949e6e3f99d4103f42fe61f59",
+      "width": 480,
+      "height": 480,
+      "size": 22070,
+      "createdAt": "2026-07-05T16:55:14Z",
+      "updatedAt": "2026-07-05T16:55:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza/back.webp",
+      "hash": "f724b7da345e9d361665ea335a6e4b40680a2b5aa75aae4790090d33e529b079",
+      "width": 480,
+      "height": 480,
+      "size": 5742,
+      "createdAt": "2026-07-05T16:55:14Z",
+      "updatedAt": "2026-07-05T16:55:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "08e94d3aca88d988c8b72324a7b38d594a3b04c561dc234bd57b8e17382b1782",
+      "width": 480,
+      "height": 480,
+      "size": 27188,
+      "createdAt": "2026-07-05T16:55:14Z",
+      "updatedAt": "2026-07-05T16:55:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "c15c94b30b85b4818d3285fe64246a4f27fa4600c367befa860b353a8d6e9abb",
+      "width": 480,
+      "height": 480,
+      "size": 28048,
+      "createdAt": "2026-07-05T16:55:14Z",
+      "updatedAt": "2026-07-05T16:55:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "05cfb09f14025a3c359fbe7f6ce789cf9a7a8309730c1cd9ea60e9aaa7784914",
+      "width": 480,
+      "height": 480,
+      "size": 17908,
+      "createdAt": "2026-07-05T16:55:15Z",
+      "updatedAt": "2026-07-05T16:55:15Z"
+    }
+  ]
+}

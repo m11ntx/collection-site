@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-botafogo-i-retro-1997-torcedor-masculina-branca-com-listras-pretas-com-patrocinio-da-coca-cola",
+  "createdAt": "2026-07-04T20:10:04Z",
+  "updatedAt": "2026-07-04T20:10:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/front.webp",
+      "hash": "494e379766ff9fef5ac39ed3fe012629f7c2231f371653d22ff1dc8cb2f8f79e",
+      "width": 480,
+      "height": 480,
+      "size": 10024,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/back.webp",
+      "hash": "4c642829bfc32369c922efac5c04b30418d1d694d395e5e69c3aae7c6bd1abb2",
+      "width": 480,
+      "height": 480,
+      "size": 8092,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/detail-1.webp",
+      "hash": "24ac5b90f5fa1e0aff951e6ab95c2d1968dd182b148b72911e8f4fd1344a80e7",
+      "width": 480,
+      "height": 480,
+      "size": 13296,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/detail-2.webp",
+      "hash": "b23e51afd326a2d8c1fc5e8a5d09c753efb5e3a81762a11c68ef67819b298dec",
+      "width": 480,
+      "height": 480,
+      "size": 16458,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/detail-3.webp",
+      "hash": "10fbe9263a2939380bc80e5ee68c9b5525bfa31f96453de662d4f5dee663364d",
+      "width": 480,
+      "height": 480,
+      "size": 14406,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/detail-4.webp",
+      "hash": "5a446ecea7d34f1ae15784c2fab1140bf5d264ced90632da13a1c48bc64538a8",
+      "width": 480,
+      "height": 480,
+      "size": 10106,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/botafogo/1997/fan/detail-5.webp",
+      "hash": "c5bfad4664537831783e12eb265ba65be2b8aa6971f6c2395668eb6021aa6c6f",
+      "width": 480,
+      "height": 480,
+      "size": 12510,
+      "createdAt": "2026-07-04T20:10:04Z",
+      "updatedAt": "2026-07-04T20:10:04Z"
+    }
+  ]
+}

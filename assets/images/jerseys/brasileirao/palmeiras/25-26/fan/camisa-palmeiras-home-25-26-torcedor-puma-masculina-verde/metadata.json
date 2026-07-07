@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-home-25-26-torcedor-puma-masculina-verde",
+  "createdAt": "2026-07-05T06:21:20Z",
+  "updatedAt": "2026-07-05T06:21:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-home-25-26-torcedor-puma-masculina-verde/front.webp",
+      "hash": "dc5bbe475f82f9b65e7647ae4710bd14fbab192ea09b0af8a333e90005382196",
+      "width": 480,
+      "height": 480,
+      "size": 10758,
+      "createdAt": "2026-07-05T06:21:20Z",
+      "updatedAt": "2026-07-05T06:21:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-home-25-26-torcedor-puma-masculina-verde/back.webp",
+      "hash": "630585a4c2444090fa4eb7cd3c47eb21668acd6ab3cfe8176aadad2c993f5ca8",
+      "width": 480,
+      "height": 480,
+      "size": 5382,
+      "createdAt": "2026-07-05T06:21:20Z",
+      "updatedAt": "2026-07-05T06:21:20Z"
+    }
+  ]
+}

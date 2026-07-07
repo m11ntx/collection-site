@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-retro-chelsea-final-champions-league-2008",
+  "createdAt": "2026-07-04T18:30:33Z",
+  "updatedAt": "2026-07-04T18:30:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/2008/sem-versao/front.webp",
+      "hash": "fda131db779d67e5baf29a26ac65d82c8713199ed05b883f7016c2f8397ea906",
+      "width": 480,
+      "height": 480,
+      "size": 13252,
+      "createdAt": "2026-07-04T18:30:32Z",
+      "updatedAt": "2026-07-04T18:30:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/2008/sem-versao/back.webp",
+      "hash": "47a74bac1ef5fea1dcbee5c36f72c478d31157448fb4a98a4fd7b262d165716a",
+      "width": 480,
+      "height": 480,
+      "size": 21254,
+      "createdAt": "2026-07-04T18:30:32Z",
+      "updatedAt": "2026-07-04T18:30:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/2008/sem-versao/detail-1.webp",
+      "hash": "e4af2aee166ee1587733ed80b516e63b74ef4679a520e483cb81860a7b9c4867",
+      "width": 480,
+      "height": 480,
+      "size": 6632,
+      "createdAt": "2026-07-04T18:30:32Z",
+      "updatedAt": "2026-07-04T18:30:32Z"
+    }
+  ]
+}

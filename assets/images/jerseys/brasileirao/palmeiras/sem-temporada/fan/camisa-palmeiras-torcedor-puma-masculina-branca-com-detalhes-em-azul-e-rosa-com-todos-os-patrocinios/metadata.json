@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa-com-todos-os-patrocinios",
+  "createdAt": "2026-07-05T06:21:22Z",
+  "updatedAt": "2026-07-05T06:21:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa-com-todos-os-patrocinios/front.webp",
+      "hash": "794a63a58fcd5e0a1855d0ec658e7a16a6805dbb9174aabbdc2e4a75c2c88b81",
+      "width": 480,
+      "height": 480,
+      "size": 13060,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/sem-temporada/fan/camisa-palmeiras-torcedor-puma-masculina-branca-com-detalhes-em-azul-e-rosa-com-todos-os-patrocinios/back.webp",
+      "hash": "91ed3101f213d4ddb3dcb54d04f2e9bc525966fb1ae0ed5e6f69b7011a56a5b6",
+      "width": 480,
+      "height": 480,
+      "size": 6932,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    }
+  ]
+}

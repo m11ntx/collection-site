@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-athletico-paranaense-treino-24-25-torcedor-umbro-masculina-vermelha",
+  "createdAt": "2026-07-05T16:54:42Z",
+  "updatedAt": "2026-07-05T16:54:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-treino-24-25-torcedor-umbro-masculina-vermelha/front.webp",
+      "hash": "073c3c8d8e70b92b1e16d9a190b99b608b99d026746219db32b373d576994ea5",
+      "width": 480,
+      "height": 480,
+      "size": 14300,
+      "createdAt": "2026-07-05T16:54:41Z",
+      "updatedAt": "2026-07-05T16:54:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-treino-24-25-torcedor-umbro-masculina-vermelha/back.webp",
+      "hash": "62160ff72ee00b7c8730c290b5f621f9cb3ac118123e7627a8a626f17afca8a7",
+      "width": 480,
+      "height": 480,
+      "size": 13852,
+      "createdAt": "2026-07-05T16:54:41Z",
+      "updatedAt": "2026-07-05T16:54:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-treino-24-25-torcedor-umbro-masculina-vermelha/detail-1.webp",
+      "hash": "022bc2c6a6c1276ed00d25f13418ec66032fa470c13df72a64a52f79bea1454c",
+      "width": 480,
+      "height": 480,
+      "size": 8798,
+      "createdAt": "2026-07-05T16:54:42Z",
+      "updatedAt": "2026-07-05T16:54:42Z"
+    }
+  ]
+}

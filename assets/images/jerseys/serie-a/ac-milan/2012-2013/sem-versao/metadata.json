@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-i-2012-2013-masculina-adidas-vermelha-e-preta-com-detalhes-em-branco-e-verde",
+  "createdAt": "2026-07-04T17:37:33Z",
+  "updatedAt": "2026-07-04T17:37:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/front.webp",
+      "hash": "8980792b5bd0bb8e59901353380d98986f54b849e186346049ff4eac338653e1",
+      "width": 480,
+      "height": 480,
+      "size": 14262,
+      "createdAt": "2026-07-04T17:37:30Z",
+      "updatedAt": "2026-07-04T17:37:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/back.webp",
+      "hash": "13dc265bf13f223d06428bb6ef45087de83061fe41c36757c855425bfce3bb50",
+      "width": 480,
+      "height": 480,
+      "size": 9432,
+      "createdAt": "2026-07-04T17:37:31Z",
+      "updatedAt": "2026-07-04T17:37:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/detail-1.webp",
+      "hash": "397df6041d3a1df0d360c4d014da684d72ef4d1458a62ab1f091f20ecd7a4872",
+      "width": 480,
+      "height": 480,
+      "size": 21092,
+      "createdAt": "2026-07-04T17:37:31Z",
+      "updatedAt": "2026-07-04T17:37:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/detail-2.webp",
+      "hash": "f1b99606c7533eaa3c656f229f72e70b84315489f9b29e21088d7909bc5160eb",
+      "width": 480,
+      "height": 480,
+      "size": 46490,
+      "createdAt": "2026-07-04T17:37:32Z",
+      "updatedAt": "2026-07-04T17:37:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/detail-3.webp",
+      "hash": "d2d414a73c526a4326dda7cbd658c7d77d3066269753ff2c4e9a154cdaa8f06f",
+      "width": 480,
+      "height": 480,
+      "size": 34540,
+      "createdAt": "2026-07-04T17:37:32Z",
+      "updatedAt": "2026-07-04T17:37:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/detail-4.webp",
+      "hash": "9f02f2a73d7a77c642ec27705008bef5b1328c493d6778316c4755331dd6e1e5",
+      "width": 480,
+      "height": 480,
+      "size": 15710,
+      "createdAt": "2026-07-04T17:37:33Z",
+      "updatedAt": "2026-07-04T17:37:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2012-2013/sem-versao/detail-5.webp",
+      "hash": "1ba946ea586e5800616048a1d0a1b4bd81d34e43d3a87c0122bfd4acfb00a83c",
+      "width": 480,
+      "height": 480,
+      "size": 11982,
+      "createdAt": "2026-07-04T17:37:33Z",
+      "updatedAt": "2026-07-04T17:37:33Z"
+    }
+  ]
+}

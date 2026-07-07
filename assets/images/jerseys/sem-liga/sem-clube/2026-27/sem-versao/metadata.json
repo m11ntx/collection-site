@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-da-selecao-brasileira-jordan-azul-2026-27",
+  "createdAt": "2026-07-04T18:41:18Z",
+  "updatedAt": "2026-07-04T18:41:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026-27/sem-versao/front.webp",
+      "hash": "d3ac1b34f46aa5a64d1ea18f7ff1d0cf31a20dcbd5f5041033d1ca54dd47f50f",
+      "width": 480,
+      "height": 480,
+      "size": 12798,
+      "createdAt": "2026-07-04T18:41:17Z",
+      "updatedAt": "2026-07-04T18:41:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026-27/sem-versao/back.webp",
+      "hash": "1207e8bff9d238ef11d7c7a2fdae3b882913b28b2032ec7c582ed6d97abc571d",
+      "width": 480,
+      "height": 480,
+      "size": 16320,
+      "createdAt": "2026-07-04T18:41:18Z",
+      "updatedAt": "2026-07-04T18:41:18Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-fluminense-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio",
+  "createdAt": "2026-07-05T16:04:53Z",
+  "updatedAt": "2026-07-05T16:04:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio/front.webp",
+      "hash": "934bddbf58fd7bc21f3786829768a10eda4542e25ad2d4481ec87ab3ed747031",
+      "width": 480,
+      "height": 480,
+      "size": 10684,
+      "createdAt": "2026-07-05T16:04:53Z",
+      "updatedAt": "2026-07-05T16:04:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio/back.webp",
+      "hash": "b6698c822dd220184e004143260aa8ad241cc37dc956dbbd8e35c83d6a204d99",
+      "width": 480,
+      "height": 480,
+      "size": 8470,
+      "createdAt": "2026-07-05T16:04:53Z",
+      "updatedAt": "2026-07-05T16:04:53Z"
+    }
+  ]
+}

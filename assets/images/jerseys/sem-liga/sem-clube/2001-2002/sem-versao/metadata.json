@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-chivas-guadalajara-i-2001-2002-masculina-atletica-branca-com-detalhes-em-vermelho-e-azul-com-todos-os-patrocinios",
+  "createdAt": "2026-07-04T17:49:10Z",
+  "updatedAt": "2026-07-04T17:49:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/front.webp",
+      "hash": "29b3a65565d83484bdbe1b675f14eabf69fc664e997f94769d45d0bd56ae0e1c",
+      "width": 480,
+      "height": 480,
+      "size": 12820,
+      "createdAt": "2026-07-04T17:49:08Z",
+      "updatedAt": "2026-07-04T17:49:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/back.webp",
+      "hash": "5d9acdeaf852d4573151399331c3797296eb676797873fe21f679a58a6668118",
+      "width": 480,
+      "height": 480,
+      "size": 21476,
+      "createdAt": "2026-07-04T17:49:08Z",
+      "updatedAt": "2026-07-04T17:49:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/detail-1.webp",
+      "hash": "04c9cd027941d83a32edc166a717c190f1bce24e4054b6e72ae1bfacdd3ecc29",
+      "width": 480,
+      "height": 480,
+      "size": 10786,
+      "createdAt": "2026-07-04T17:49:08Z",
+      "updatedAt": "2026-07-04T17:49:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/detail-2.webp",
+      "hash": "fe074db8587402c2e377c49a38f8d77be8575f76c1672ba918fccb748af54bd7",
+      "width": 480,
+      "height": 480,
+      "size": 23810,
+      "createdAt": "2026-07-04T17:49:09Z",
+      "updatedAt": "2026-07-04T17:49:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/detail-3.webp",
+      "hash": "2b7c1699a35ecfe02f75bdb0d015192e5c1849ae95b081fa76de2cfcfb2d2ea5",
+      "width": 480,
+      "height": 480,
+      "size": 36776,
+      "createdAt": "2026-07-04T17:49:09Z",
+      "updatedAt": "2026-07-04T17:49:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/detail-4.webp",
+      "hash": "ab3c87baeec42aaedf9569163111bf71d97b16ab7aa043e37d3a52c3055ebd5e",
+      "width": 480,
+      "height": 480,
+      "size": 14932,
+      "createdAt": "2026-07-04T17:49:10Z",
+      "updatedAt": "2026-07-04T17:49:10Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2001-2002/sem-versao/detail-5.webp",
+      "hash": "0b4313deb23435a84728f97e5c5bd716763ac088bb4920f136566ba717dd228a",
+      "width": 480,
+      "height": 480,
+      "size": 12544,
+      "createdAt": "2026-07-04T17:49:10Z",
+      "updatedAt": "2026-07-04T17:49:10Z"
+    }
+  ]
+}

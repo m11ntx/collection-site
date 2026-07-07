@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul",
+  "createdAt": "2026-07-05T16:03:38Z",
+  "updatedAt": "2026-07-05T16:03:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/front.webp",
+      "hash": "ec3817410c64b68f1a7f37fd7678a2c7d8dc53360168d3ba7368acda86da54c3",
+      "width": 480,
+      "height": 480,
+      "size": 7754,
+      "createdAt": "2026-07-05T16:03:37Z",
+      "updatedAt": "2026-07-05T16:03:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/back.webp",
+      "hash": "66d89a9b4a1c124a3f2773a59bc56dfff9f208eba2113e3f980a1c7439a136c9",
+      "width": 480,
+      "height": 480,
+      "size": 6172,
+      "createdAt": "2026-07-05T16:03:37Z",
+      "updatedAt": "2026-07-05T16:03:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/detail-1.webp",
+      "hash": "b171fd169c0fe4d8914483791b714bb2a224a0f6feae0f8b83596c12b85784d2",
+      "width": 480,
+      "height": 480,
+      "size": 22126,
+      "createdAt": "2026-07-05T16:03:37Z",
+      "updatedAt": "2026-07-05T16:03:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/detail-2.webp",
+      "hash": "946443ab07b440cdc23856d47345c5a4702dfa4e8239050c93aedaa0b1abaea4",
+      "width": 480,
+      "height": 480,
+      "size": 49354,
+      "createdAt": "2026-07-05T16:03:37Z",
+      "updatedAt": "2026-07-05T16:03:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/detail-3.webp",
+      "hash": "0c4c7237cd3f9e6e46a2cd2f7c03139d06a2582ae79469a43c6ec91c28e81f2b",
+      "width": 480,
+      "height": 480,
+      "size": 52222,
+      "createdAt": "2026-07-05T16:03:37Z",
+      "updatedAt": "2026-07-05T16:03:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/detail-4.webp",
+      "hash": "59b61fd1b565d1d84d9eeef0565dfa5326c16ba047542212eac5e3a9427ccd94",
+      "width": 480,
+      "height": 480,
+      "size": 21352,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-azul/detail-5.webp",
+      "hash": "1fd72b60b4a74624bd179af0b9e4a9a55bbc23a49f9d5425a78e14cbe27ee697",
+      "width": 480,
+      "height": 480,
+      "size": 47656,
+      "createdAt": "2026-07-05T16:03:38Z",
+      "updatedAt": "2026-07-05T16:03:38Z"
+    }
+  ]
+}

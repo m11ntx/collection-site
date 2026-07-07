@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-17-18-masculina-nike-azul-com-detalhes-em-vermelho-e-amarelo",
+  "createdAt": "2026-07-04T17:39:30Z",
+  "updatedAt": "2026-07-04T17:39:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/front.webp",
+      "hash": "0eabac99119f6225c00d592dd33543c087bc9e9d1d358c375acaba8f85a39cf9",
+      "width": 480,
+      "height": 480,
+      "size": 11044,
+      "createdAt": "2026-07-04T17:39:27Z",
+      "updatedAt": "2026-07-04T17:39:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/back.webp",
+      "hash": "95622d90e9ec4d35505d574c159d62b275a59675d772c2e836a6eefc67a18fb9",
+      "width": 480,
+      "height": 480,
+      "size": 9686,
+      "createdAt": "2026-07-04T17:39:28Z",
+      "updatedAt": "2026-07-04T17:39:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/detail-1.webp",
+      "hash": "6b754fec3d2bd057ec588f4c1d261959ab9e5d6741de0489d41b53c3f4a53368",
+      "width": 480,
+      "height": 480,
+      "size": 16220,
+      "createdAt": "2026-07-04T17:39:28Z",
+      "updatedAt": "2026-07-04T17:39:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/detail-2.webp",
+      "hash": "012aaea8034df4c20da1d39d14bd92561c35ab84456021ddb38d7e889d98f8cd",
+      "width": 480,
+      "height": 480,
+      "size": 59382,
+      "createdAt": "2026-07-04T17:39:29Z",
+      "updatedAt": "2026-07-04T17:39:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/detail-3.webp",
+      "hash": "c70def55db9cb8df546968bf2eb65c3cd8aca4662a7dead6bf6c11e1a8305990",
+      "width": 480,
+      "height": 480,
+      "size": 48542,
+      "createdAt": "2026-07-04T17:39:29Z",
+      "updatedAt": "2026-07-04T17:39:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/detail-4.webp",
+      "hash": "930ba7caca57506e4072dfb8d6bbcfde7130240eb83b7df3d03d8d9abb6a0ed3",
+      "width": 480,
+      "height": 480,
+      "size": 28042,
+      "createdAt": "2026-07-04T17:39:30Z",
+      "updatedAt": "2026-07-04T17:39:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/17-18/sem-versao/detail-5.webp",
+      "hash": "942ce84f0513c58864e68d0ecf2fbb36941eca1d9cf2ecf78e5a94b533a3fb3f",
+      "width": 480,
+      "height": 480,
+      "size": 30122,
+      "createdAt": "2026-07-04T17:39:30Z",
+      "updatedAt": "2026-07-04T17:39:30Z"
+    }
+  ]
+}

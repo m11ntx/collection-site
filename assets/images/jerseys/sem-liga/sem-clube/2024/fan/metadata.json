@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-brasil-especial-cristo-redentor-2024-nike-torcedor-masculina-amarela",
+  "createdAt": "2026-07-04T18:26:16Z",
+  "updatedAt": "2026-07-04T20:27:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2024/fan/front.webp",
+      "hash": "93763dadf7d957706dc0b6028ddc48817534ffb4a04d472ade2774c57ce4da44",
+      "width": 480,
+      "height": 480,
+      "size": 28444,
+      "createdAt": "2026-07-04T18:26:15Z",
+      "updatedAt": "2026-07-04T20:27:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2024/fan/back.webp",
+      "hash": "d5083f5f8f4cb6fcc6c73c3d7290b17a139870d3fd0e67c65a44088d90fa937d",
+      "width": 480,
+      "height": 480,
+      "size": 7214,
+      "createdAt": "2026-07-04T18:26:16Z",
+      "updatedAt": "2026-07-04T20:27:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2024/fan/detail-1.webp",
+      "hash": "9c6c0293e84936ad5c9f5f63f31014df69fdfbee8239a0a2ccf711e2d6170160",
+      "width": 480,
+      "height": 480,
+      "size": 26850,
+      "createdAt": "2026-07-04T20:25:05Z",
+      "updatedAt": "2026-07-04T20:27:21Z"
+    }
+  ]
+}

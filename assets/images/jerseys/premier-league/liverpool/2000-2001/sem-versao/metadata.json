@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-retro-2000-2001-amarela-reebok",
+  "createdAt": "2026-07-04T17:24:09Z",
+  "updatedAt": "2026-07-04T17:24:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/front.webp",
+      "hash": "113f84126182405aa48fd5effa082d86621b2bd5e894c170b3f4b28753125031",
+      "width": 480,
+      "height": 480,
+      "size": 13554,
+      "createdAt": "2026-07-04T17:24:06Z",
+      "updatedAt": "2026-07-04T17:24:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/back.webp",
+      "hash": "fc13ccbd5d22f0439b95bb74e4c4f4577106d0edae6f9141abd0bc85a8549d3a",
+      "width": 480,
+      "height": 480,
+      "size": 8502,
+      "createdAt": "2026-07-04T17:24:07Z",
+      "updatedAt": "2026-07-04T17:24:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/detail-1.webp",
+      "hash": "fd5113ffb671aba3e01e350007db0ac4e78d086bdd548f95f994666e2a04b136",
+      "width": 480,
+      "height": 480,
+      "size": 38436,
+      "createdAt": "2026-07-04T17:24:07Z",
+      "updatedAt": "2026-07-04T17:24:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/detail-2.webp",
+      "hash": "de81fec199a0bb4c4b31818a8ba52632941e4d338678d29dc2d12b774a780f23",
+      "width": 480,
+      "height": 480,
+      "size": 61966,
+      "createdAt": "2026-07-04T17:24:08Z",
+      "updatedAt": "2026-07-04T17:24:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/detail-3.webp",
+      "hash": "f56f460fb0d80944afbab17bdda1a38cbd860fa79c4499ffeab467417a1ca4e0",
+      "width": 480,
+      "height": 480,
+      "size": 21872,
+      "createdAt": "2026-07-04T17:24:08Z",
+      "updatedAt": "2026-07-04T17:24:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/detail-4.webp",
+      "hash": "e62f1cb56930d9832d2351349a61be4c18edb09f98e133fb2ccd1cffb10f83af",
+      "width": 480,
+      "height": 480,
+      "size": 59118,
+      "createdAt": "2026-07-04T17:24:09Z",
+      "updatedAt": "2026-07-04T17:24:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/2000-2001/sem-versao/detail-5.webp",
+      "hash": "868a6336fad50193ec3b2ac87ad206f901d99ab64f1036e0215675b40b27819f",
+      "width": 480,
+      "height": 480,
+      "size": 25626,
+      "createdAt": "2026-07-04T17:24:09Z",
+      "updatedAt": "2026-07-04T17:24:09Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1985-branca-adidas",
+  "createdAt": "2026-07-04T17:24:51Z",
+  "updatedAt": "2026-07-04T17:24:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/front.webp",
+      "hash": "e7203188d50c94dbe48a038edb32dab006db30f999573a50a74e8cee3e89efc7",
+      "width": 480,
+      "height": 480,
+      "size": 11438,
+      "createdAt": "2026-07-04T17:24:48Z",
+      "updatedAt": "2026-07-04T17:24:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/back.webp",
+      "hash": "882914749bdb483690edca86c2f2ca60d046d412df7764c5d8068639545b157d",
+      "width": 480,
+      "height": 480,
+      "size": 6858,
+      "createdAt": "2026-07-04T17:24:49Z",
+      "updatedAt": "2026-07-04T17:24:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/detail-1.webp",
+      "hash": "0ad3d3f7f435c2c509554d83747be8b7b29668b6cb621249299977f26c36f173",
+      "width": 480,
+      "height": 480,
+      "size": 28150,
+      "createdAt": "2026-07-04T17:24:49Z",
+      "updatedAt": "2026-07-04T17:24:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/detail-2.webp",
+      "hash": "536e3e1be48b3c2c2f7e6ad82f6f6a435a7cfdab3b27b311ee7d3d19e5d08a6b",
+      "width": 480,
+      "height": 480,
+      "size": 18104,
+      "createdAt": "2026-07-04T17:24:50Z",
+      "updatedAt": "2026-07-04T17:24:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/detail-3.webp",
+      "hash": "f78f9b98ca4b18b4a9b03b029af5de40c61c5266b5865283c5444c320a6c9c85",
+      "width": 480,
+      "height": 480,
+      "size": 23164,
+      "createdAt": "2026-07-04T17:24:50Z",
+      "updatedAt": "2026-07-04T17:24:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/detail-4.webp",
+      "hash": "1f344141d054e2868b24880df4178f351d57273a22fa878c526f568847a67448",
+      "width": 480,
+      "height": 480,
+      "size": 68534,
+      "createdAt": "2026-07-04T17:24:50Z",
+      "updatedAt": "2026-07-04T17:24:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1985/sem-versao/detail-5.webp",
+      "hash": "b966ff4e6d5ebf94ffb8ae28a9ff00f7b8225fb1fba2ff7d285b9f4802da76fc",
+      "width": 480,
+      "height": 480,
+      "size": 36018,
+      "createdAt": "2026-07-04T17:24:51Z",
+      "updatedAt": "2026-07-04T17:24:51Z"
+    }
+  ]
+}

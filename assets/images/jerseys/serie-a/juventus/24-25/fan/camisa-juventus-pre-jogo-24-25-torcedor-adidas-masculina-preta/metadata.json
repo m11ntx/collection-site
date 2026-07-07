@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-juventus-pre-jogo-24-25-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-07T01:33:00Z",
+  "updatedAt": "2026-07-07T01:33:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-pre-jogo-24-25-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "a930e2c26adaf764aa48142c6f155395140d78c3826784afd5a7efb4e8144e4c",
+      "width": 480,
+      "height": 480,
+      "size": 15716,
+      "createdAt": "2026-07-07T01:32:59Z",
+      "updatedAt": "2026-07-07T01:32:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-pre-jogo-24-25-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "2a83f97cae13c27c012e5e255f52f968295bc52fd1a3558e9b46c1dd2549df3f",
+      "width": 480,
+      "height": 480,
+      "size": 14608,
+      "createdAt": "2026-07-07T01:33:00Z",
+      "updatedAt": "2026-07-07T01:33:00Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-inter-de-milao-home-2022-23",
+  "createdAt": "2026-07-04T18:40:14Z",
+  "updatedAt": "2026-07-04T18:40:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2022-23/fan/front.webp",
+      "hash": "58f6c150a719419f344ec6d1496f4b9bf10f6820417f534033cad8dd36191057",
+      "width": 480,
+      "height": 480,
+      "size": 11186,
+      "createdAt": "2026-07-04T18:40:14Z",
+      "updatedAt": "2026-07-04T18:40:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2022-23/fan/back.webp",
+      "hash": "3884ae6f24877e63624d0005b9a58964a528d572a440dd9fa4d093fb17892ef5",
+      "width": 225,
+      "height": 225,
+      "size": 4750,
+      "createdAt": "2026-07-04T18:40:14Z",
+      "updatedAt": "2026-07-04T18:40:14Z"
+    }
+  ]
+}

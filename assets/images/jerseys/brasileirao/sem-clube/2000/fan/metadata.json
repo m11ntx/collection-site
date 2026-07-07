@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculino-preta-com-faixa-branca-e-detalhes-em-amarelo-e-vermelho",
+  "createdAt": "2026-07-04T17:29:31Z",
+  "updatedAt": "2026-07-04T17:29:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/front.webp",
+      "hash": "3a3a30984968b6a807f71232479dffc0cd12952c38598a88e804003c8a379d7f",
+      "width": 480,
+      "height": 480,
+      "size": 10380,
+      "createdAt": "2026-07-04T17:29:28Z",
+      "updatedAt": "2026-07-04T17:29:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/back.webp",
+      "hash": "5ad4670c988f796af32d408bee2a022b6b918683d41b0d16d8881dff667acdee",
+      "width": 480,
+      "height": 480,
+      "size": 12630,
+      "createdAt": "2026-07-04T17:29:29Z",
+      "updatedAt": "2026-07-04T17:29:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/detail-1.webp",
+      "hash": "65dd12f45f54d2ebe2138475d10bb25c6789ab4680f3307eb8daa91d4e04b41b",
+      "width": 480,
+      "height": 480,
+      "size": 8010,
+      "createdAt": "2026-07-04T17:29:29Z",
+      "updatedAt": "2026-07-04T17:29:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/detail-2.webp",
+      "hash": "b55903dac996264277876c004b8dbfe36708cb95557e20d3d4e5e9cc62c6281d",
+      "width": 480,
+      "height": 480,
+      "size": 21696,
+      "createdAt": "2026-07-04T17:29:30Z",
+      "updatedAt": "2026-07-04T17:29:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/detail-3.webp",
+      "hash": "62b3eb03dd5d57b1482e5438a3de1fd6ba83b6cbd65418d0c2e23e747e9ba412",
+      "width": 480,
+      "height": 480,
+      "size": 64352,
+      "createdAt": "2026-07-04T17:29:30Z",
+      "updatedAt": "2026-07-04T17:29:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/detail-4.webp",
+      "hash": "f336befe4daf7bab4dd5904a8fb15622e74afd9255b93de800cb5b43e028e63a",
+      "width": 480,
+      "height": 480,
+      "size": 70234,
+      "createdAt": "2026-07-04T17:29:31Z",
+      "updatedAt": "2026-07-04T17:29:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/sem-clube/2000/fan/detail-5.webp",
+      "hash": "edb62bf3bbdb82fa0904b92cf83a4c640c1634b9d42c5636cd4c9479cd434299",
+      "width": 480,
+      "height": 480,
+      "size": 65646,
+      "createdAt": "2026-07-04T17:29:31Z",
+      "updatedAt": "2026-07-04T17:29:34Z"
+    }
+  ]
+}

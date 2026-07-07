@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-flamengo-away-ii-2025-26-jogador",
+  "createdAt": "2026-07-04T18:28:25Z",
+  "updatedAt": "2026-07-04T20:27:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/player/front.webp",
+      "hash": "aa7c88190972ab1ce211c1748fe9df11dfd3e7342a1ee56c29e1ccb1ca1cc3a6",
+      "width": 480,
+      "height": 480,
+      "size": 11760,
+      "createdAt": "2026-07-04T18:28:24Z",
+      "updatedAt": "2026-07-04T20:27:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/player/back.webp",
+      "hash": "84d93725d30952193e25d91cfd6ef43b88e047eb7b6eade71c415117cdef853f",
+      "width": 480,
+      "height": 480,
+      "size": 8006,
+      "createdAt": "2026-07-04T18:28:24Z",
+      "updatedAt": "2026-07-04T20:27:03Z"
+    }
+  ]
+}

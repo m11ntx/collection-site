@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-bahia-puma-26-27-uniforme-ii-torcedor-masculino",
+  "createdAt": "2026-07-05T16:55:26Z",
+  "updatedAt": "2026-07-05T16:55:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-puma-26-27-uniforme-ii-torcedor-masculino/front.webp",
+      "hash": "3072d11ae09474ee9a60af7d4b9b68b5a543df48a7687b49aa5831fdf88da722",
+      "width": 480,
+      "height": 560,
+      "size": 16050,
+      "createdAt": "2026-07-05T16:55:25Z",
+      "updatedAt": "2026-07-05T16:55:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-puma-26-27-uniforme-ii-torcedor-masculino/back.webp",
+      "hash": "0a60c8a3d566abf4580fb1d94142575f01ebe0570f66189f45c14459c726d247",
+      "width": 480,
+      "height": 572,
+      "size": 8682,
+      "createdAt": "2026-07-05T16:55:26Z",
+      "updatedAt": "2026-07-05T16:55:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/fan/camisa-bahia-puma-26-27-uniforme-ii-torcedor-masculino/detail-1.webp",
+      "hash": "11064fcbc3b12b0bceec608dcc4d8d22e852478cc4d72b2f844ebcb12575e656",
+      "width": 480,
+      "height": 480,
+      "size": 34968,
+      "createdAt": "2026-07-05T16:55:26Z",
+      "updatedAt": "2026-07-05T16:55:26Z"
+    }
+  ]
+}

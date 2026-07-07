@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2009-2010-vermelha-nike",
+  "createdAt": "2026-07-04T17:26:27Z",
+  "updatedAt": "2026-07-04T17:26:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/front.webp",
+      "hash": "01c69495a7a086b2a3b84481464e03c24c9f4798cb582a47777d6f159edcae6c",
+      "width": 480,
+      "height": 480,
+      "size": 11002,
+      "createdAt": "2026-07-04T17:26:25Z",
+      "updatedAt": "2026-07-04T17:26:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/back.webp",
+      "hash": "fbbc163d518c9b2cbf5b7a3aa7a69edf2d6fe0855d66987a8e09d27f518d8207",
+      "width": 480,
+      "height": 480,
+      "size": 5520,
+      "createdAt": "2026-07-04T17:26:25Z",
+      "updatedAt": "2026-07-04T17:26:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/detail-1.webp",
+      "hash": "3af2cd616b8bc41f191f6c87c21210e4836522507663ebfb838c11e24d1939d3",
+      "width": 480,
+      "height": 480,
+      "size": 16840,
+      "createdAt": "2026-07-04T17:26:26Z",
+      "updatedAt": "2026-07-04T17:26:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/detail-2.webp",
+      "hash": "2c3b597c99e39beb52c0480a678c083468fe7bdca7d6d2cd313d86381a0afb6b",
+      "width": 480,
+      "height": 480,
+      "size": 17902,
+      "createdAt": "2026-07-04T17:26:26Z",
+      "updatedAt": "2026-07-04T17:26:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/detail-3.webp",
+      "hash": "8e7870960026e730d9d05d80e475def83016ed3a53f81d593e741219ec67bf82",
+      "width": 480,
+      "height": 480,
+      "size": 13312,
+      "createdAt": "2026-07-04T17:26:26Z",
+      "updatedAt": "2026-07-04T17:26:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/detail-4.webp",
+      "hash": "92d00255425ce0942902e25ef1190696323aad39d4874e8f852b080c0be92074",
+      "width": 480,
+      "height": 480,
+      "size": 20824,
+      "createdAt": "2026-07-04T17:26:27Z",
+      "updatedAt": "2026-07-04T17:26:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2009-2010/sem-versao/detail-5.webp",
+      "hash": "547d1202137ab908e0651ce6eab8e940e8bc54013be6638f643938ef5135a371",
+      "width": 480,
+      "height": 480,
+      "size": 9794,
+      "createdAt": "2026-07-04T17:26:27Z",
+      "updatedAt": "2026-07-04T17:26:27Z"
+    }
+  ]
+}

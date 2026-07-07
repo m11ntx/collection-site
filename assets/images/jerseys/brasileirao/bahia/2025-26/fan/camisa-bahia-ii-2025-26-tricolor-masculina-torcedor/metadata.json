@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-bahia-ii-2025-26-tricolor-masculina-torcedor",
+  "createdAt": "2026-07-05T16:55:23Z",
+  "updatedAt": "2026-07-05T16:55:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/2025-26/fan/camisa-bahia-ii-2025-26-tricolor-masculina-torcedor/front.webp",
+      "hash": "acf3cca7accd63eaaf0769d5e3c90d3067935ccd50c58c510d23ecb77366cc67",
+      "width": 480,
+      "height": 480,
+      "size": 18216,
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/2025-26/fan/camisa-bahia-ii-2025-26-tricolor-masculina-torcedor/back.webp",
+      "hash": "0bf5c213a02528ab42ada49ce904fbfd3f8d0b4f484c8a8d5416711f807d7f22",
+      "width": 480,
+      "height": 480,
+      "size": 14084,
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/2025-26/fan/camisa-bahia-ii-2025-26-tricolor-masculina-torcedor/detail-1.webp",
+      "hash": "daeea61ef2b9c90853e1989efe7d4f5fc2a0bd03d4826353e506e3e65b19fb0e",
+      "width": 480,
+      "height": 480,
+      "size": 30776,
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/2025-26/fan/camisa-bahia-ii-2025-26-tricolor-masculina-torcedor/detail-2.webp",
+      "hash": "5d09a0966c4995fe5554bdee51df4d907547d664d856b2c2a7d6e42d406fa36a",
+      "width": 480,
+      "height": 480,
+      "size": 33016,
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bahia/2025-26/fan/camisa-bahia-ii-2025-26-tricolor-masculina-torcedor/detail-3.webp",
+      "hash": "2dbbec769627b800f7e3eb26115b51755b316b0b108bb472ee3af831013e15ca",
+      "width": 480,
+      "height": 480,
+      "size": 66030,
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
+    }
+  ]
+}

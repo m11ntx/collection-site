@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-flamengo-retro-1999-vermelha-e-preta-umbro",
+  "createdAt": "2026-07-04T17:20:16Z",
+  "updatedAt": "2026-07-04T17:20:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/front.webp",
+      "hash": "73023cabfbb9a661b70be79053565280f8c6d4dec5528ba4f3c48d26ec3478c6",
+      "width": 480,
+      "height": 480,
+      "size": 12170,
+      "createdAt": "2026-07-04T17:20:13Z",
+      "updatedAt": "2026-07-04T17:20:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/back.webp",
+      "hash": "914696cc7743dcff99555f953c74e5483cc56747b550e23a87c3e2610329e099",
+      "width": 480,
+      "height": 480,
+      "size": 9404,
+      "createdAt": "2026-07-04T17:20:14Z",
+      "updatedAt": "2026-07-04T17:20:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/detail-1.webp",
+      "hash": "a52f47904250edceed8990f3acc808bc25d579727faff0123eb06fd4af80c4d3",
+      "width": 480,
+      "height": 480,
+      "size": 42910,
+      "createdAt": "2026-07-04T17:20:14Z",
+      "updatedAt": "2026-07-04T17:20:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/detail-2.webp",
+      "hash": "dbdbc2d9471cc2a65a4da7b40ba4c1565390e3ca39562b98659ac2cb9614908c",
+      "width": 480,
+      "height": 480,
+      "size": 30974,
+      "createdAt": "2026-07-04T17:20:15Z",
+      "updatedAt": "2026-07-04T17:20:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/detail-3.webp",
+      "hash": "4fa90c0c0dd4d17008ccfc2469da23d52234cc47228c54bd62c9f556122b5d05",
+      "width": 480,
+      "height": 480,
+      "size": 15956,
+      "createdAt": "2026-07-04T17:20:15Z",
+      "updatedAt": "2026-07-04T17:20:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1999/sem-versao/detail-4.webp",
+      "hash": "370e3325455aa4e87a8281da0f6d769742950ba105e4f365fe62a211ee1bd8f2",
+      "width": 480,
+      "height": 480,
+      "size": 44074,
+      "createdAt": "2026-07-04T17:20:16Z",
+      "updatedAt": "2026-07-04T17:20:16Z"
+    }
+  ]
+}

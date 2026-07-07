@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-goleiro-24-25-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-07T01:32:30Z",
+  "updatedAt": "2026-07-07T01:32:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-goleiro-24-25-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "e7d81e573c59ab5b1283d649a2a92a48c5ef7919afc72863556e7400f0d85c63",
+      "width": 480,
+      "height": 480,
+      "size": 5894,
+      "createdAt": "2026-07-07T01:32:30Z",
+      "updatedAt": "2026-07-07T01:32:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-goleiro-24-25-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "e2e2c470fcb9bf5ae962317a4052a6c3e8ea2cf4012161b2a34a1dc514129f0c",
+      "width": 480,
+      "height": 480,
+      "size": 3922,
+      "createdAt": "2026-07-07T01:32:30Z",
+      "updatedAt": "2026-07-07T01:32:30Z"
+    }
+  ]
+}

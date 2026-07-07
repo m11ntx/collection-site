@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-gremio-ii-26-27-torcedor-new-balance-masculina-azul",
+  "createdAt": "2026-07-05T16:05:41Z",
+  "updatedAt": "2026-07-05T16:05:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-ii-26-27-torcedor-new-balance-masculina-azul/front.webp",
+      "hash": "e13d191f78116087362a1cfe2bf419ade643905238dbabf1b5f4f23d3b6e79d0",
+      "width": 480,
+      "height": 480,
+      "size": 6698,
+      "createdAt": "2026-07-05T16:05:40Z",
+      "updatedAt": "2026-07-05T16:05:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-ii-26-27-torcedor-new-balance-masculina-azul/back.webp",
+      "hash": "1455c9c3fa5e729529f4d5e5d65b93a8523d57ed25045c68b9d33944e67adaca",
+      "width": 480,
+      "height": 480,
+      "size": 7264,
+      "createdAt": "2026-07-05T16:05:41Z",
+      "updatedAt": "2026-07-05T16:05:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-ii-26-27-torcedor-new-balance-masculina-azul/detail-1.webp",
+      "hash": "b148c38b20def95b00085d3db23a9fe875ea756609d3b0ba769581553f409f7b",
+      "width": 480,
+      "height": 480,
+      "size": 33730,
+      "createdAt": "2026-07-05T16:05:41Z",
+      "updatedAt": "2026-07-05T16:05:41Z"
+    }
+  ]
+}

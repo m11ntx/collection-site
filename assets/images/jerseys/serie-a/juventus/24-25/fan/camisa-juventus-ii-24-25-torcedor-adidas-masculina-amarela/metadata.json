@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-juventus-ii-24-25-torcedor-adidas-masculina-amarela",
+  "createdAt": "2026-07-07T01:32:57Z",
+  "updatedAt": "2026-07-07T01:32:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-ii-24-25-torcedor-adidas-masculina-amarela/front.webp",
+      "hash": "e16788416ff9cc8266bebe5738cd43f91df556df0225345252fa63289fbfe166",
+      "width": 480,
+      "height": 480,
+      "size": 10914,
+      "createdAt": "2026-07-07T01:32:56Z",
+      "updatedAt": "2026-07-07T01:32:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-ii-24-25-torcedor-adidas-masculina-amarela/back.webp",
+      "hash": "bae6ea0ed1f66ffb9e92b0b275bbcecfd5e8153ce98eaf2f9000cdebbeeb37fe",
+      "width": 480,
+      "height": 480,
+      "size": 7654,
+      "createdAt": "2026-07-07T01:32:57Z",
+      "updatedAt": "2026-07-07T01:32:57Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bahia-iii-24-25-torcedor-esquadrao-masculina-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-05T16:55:24Z",
+  "updatedAt": "2026-07-05T16:55:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-iii-24-25-torcedor-esquadrao-masculina-azul-com-detalhes-em-vermelho/front.webp",
+      "hash": "8f6594629c8b61a1dc8c2d284449b8af43b9cee0bdae9e71c6191dbe24bfc82f",
+      "width": 480,
+      "height": 480,
+      "size": 13434,
+      "createdAt": "2026-07-05T16:55:24Z",
+      "updatedAt": "2026-07-05T16:55:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-iii-24-25-torcedor-esquadrao-masculina-azul-com-detalhes-em-vermelho/back.webp",
+      "hash": "5282be945fd662bc88fc9a376d8b3d9f8b5952a0a3ad4439b044d2249153584a",
+      "width": 480,
+      "height": 480,
+      "size": 11698,
+      "createdAt": "2026-07-05T16:55:24Z",
+      "updatedAt": "2026-07-05T16:55:24Z"
+    }
+  ]
+}

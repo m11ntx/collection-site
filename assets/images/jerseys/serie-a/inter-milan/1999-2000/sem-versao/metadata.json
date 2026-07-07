@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-i-1999-2000-masculina-nike-azul-e-preta",
+  "createdAt": "2026-07-04T17:31:40Z",
+  "updatedAt": "2026-07-04T17:31:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/front.webp",
+      "hash": "e592276e6de9741098d04c17a04d73cfaa668cde01e9ed574d637f2abf6f82bd",
+      "width": 480,
+      "height": 480,
+      "size": 8554,
+      "createdAt": "2026-07-04T17:31:37Z",
+      "updatedAt": "2026-07-04T17:31:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/back.webp",
+      "hash": "68cadeaf14c8e9d2e2bfcb9a21cd86d554271be87fa2b3d2d9f9a1c6008f8d3e",
+      "width": 480,
+      "height": 480,
+      "size": 8900,
+      "createdAt": "2026-07-04T17:31:38Z",
+      "updatedAt": "2026-07-04T17:31:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/detail-1.webp",
+      "hash": "600c9a6f6c2c8533612fb31ced5b7376db270542f0f77ae72719efde76618f71",
+      "width": 480,
+      "height": 480,
+      "size": 15090,
+      "createdAt": "2026-07-04T17:31:38Z",
+      "updatedAt": "2026-07-04T17:31:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/detail-2.webp",
+      "hash": "c78db5054318c91362916f832562f953e3fb5a0d47e922d0bf8f0d1162b2039f",
+      "width": 480,
+      "height": 480,
+      "size": 19084,
+      "createdAt": "2026-07-04T17:31:38Z",
+      "updatedAt": "2026-07-04T17:31:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/detail-3.webp",
+      "hash": "37a056c6caf0a07a41910deba3c6b26492869e3c9e5ac2f8a8ca9b533f407fc8",
+      "width": 480,
+      "height": 480,
+      "size": 17384,
+      "createdAt": "2026-07-04T17:31:39Z",
+      "updatedAt": "2026-07-04T17:31:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/detail-4.webp",
+      "hash": "959b1455c753a0b6b572c8128a74cc5093e99cb27b30e096cd5eeeb7e5b0abac",
+      "width": 480,
+      "height": 480,
+      "size": 18122,
+      "createdAt": "2026-07-04T17:31:39Z",
+      "updatedAt": "2026-07-04T17:31:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1999-2000/sem-versao/detail-5.webp",
+      "hash": "d822ecf68738d2ad97144313c86308d223d23f4f62d7464933ee81256992575c",
+      "width": 480,
+      "height": 480,
+      "size": 8866,
+      "createdAt": "2026-07-04T17:31:40Z",
+      "updatedAt": "2026-07-04T17:31:40Z"
+    }
+  ]
+}

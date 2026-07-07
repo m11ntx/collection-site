@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-paris-saint-germain-treino-24-25-torcedor-nike-masculina-verde-com-detalhes-em-vinho",
+  "createdAt": "2026-07-07T01:33:35Z",
+  "updatedAt": "2026-07-07T01:33:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-treino-24-25-torcedor-nike-masculina-verde-com-detalhes-em-vinho/front.webp",
+      "hash": "c8a21dbd78c43fdf7dcf22e798dc9ecd90f1bb904698ddaf9b58ac341ebc678d",
+      "width": 480,
+      "height": 399,
+      "size": 5848,
+      "createdAt": "2026-07-07T01:33:35Z",
+      "updatedAt": "2026-07-07T01:33:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-treino-24-25-torcedor-nike-masculina-verde-com-detalhes-em-vinho/back.webp",
+      "hash": "95ba416b2e154d81c32ca8d737c5ac090509d418948b7123f3a16f21cf61fb6e",
+      "width": 480,
+      "height": 399,
+      "size": 3650,
+      "createdAt": "2026-07-07T01:33:35Z",
+      "updatedAt": "2026-07-07T01:33:35Z"
+    }
+  ]
+}

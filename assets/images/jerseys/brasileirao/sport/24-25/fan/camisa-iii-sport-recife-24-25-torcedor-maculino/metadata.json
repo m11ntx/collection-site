@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-iii-sport-recife-24-25-torcedor-maculino",
+  "createdAt": "2026-07-05T16:55:30Z",
+  "updatedAt": "2026-07-05T16:55:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/24-25/fan/camisa-iii-sport-recife-24-25-torcedor-maculino/front.webp",
+      "hash": "4357729a8c2e89ce2f85e7d5cb8d6b909ad2bf80495e6e26ee167d9a462a02b7",
+      "width": 480,
+      "height": 480,
+      "size": 7412,
+      "createdAt": "2026-07-05T16:55:30Z",
+      "updatedAt": "2026-07-05T16:55:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/24-25/fan/camisa-iii-sport-recife-24-25-torcedor-maculino/back.webp",
+      "hash": "a40663b7441c97c548f97de915fda75df06db0c3934dcfe7d2b596eb86f6eca2",
+      "width": 480,
+      "height": 480,
+      "size": 7684,
+      "createdAt": "2026-07-05T16:55:30Z",
+      "updatedAt": "2026-07-05T16:55:30Z"
+    }
+  ]
+}

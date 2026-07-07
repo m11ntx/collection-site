@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto",
+  "createdAt": "2026-07-07T01:32:33Z",
+  "updatedAt": "2026-07-07T01:32:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto/front.webp",
+      "hash": "612d47ec36dda2d4af1fd90abd147c39def8683dd5744116f0528a9c9228bb44",
+      "width": 480,
+      "height": 480,
+      "size": 14222,
+      "createdAt": "2026-07-07T01:32:31Z",
+      "updatedAt": "2026-07-07T01:32:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto/back.webp",
+      "hash": "c7314bbc22cd7116fe0b4d8577d23300c66ceb7682c476c0d5f1b3c22f85a255",
+      "width": 480,
+      "height": 480,
+      "size": 8582,
+      "createdAt": "2026-07-07T01:32:31Z",
+      "updatedAt": "2026-07-07T01:32:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto/detail-1.webp",
+      "hash": "f19846346d3b02bd8f5546ebd3072cfd40017753689d80db7aaf3e6b0b8db822",
+      "width": 480,
+      "height": 480,
+      "size": 19030,
+      "createdAt": "2026-07-07T01:32:31Z",
+      "updatedAt": "2026-07-07T01:32:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto/detail-2.webp",
+      "hash": "5bc12ddbbc685fd7e06e9f14d2075771c7b33b715cc6cd94a4a888cc981dc8db",
+      "width": 480,
+      "height": 480,
+      "size": 21732,
+      "createdAt": "2026-07-07T01:32:32Z",
+      "updatedAt": "2026-07-07T01:32:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto/detail-3.webp",
+      "hash": "a99099db80a8ecdf3bc6566642d752ebe9703997b61e29d0939ea8d7d33f2110",
+      "width": 480,
+      "height": 480,
+      "size": 9492,
+      "createdAt": "2026-07-07T01:32:32Z",
+      "updatedAt": "2026-07-07T01:32:32Z"
+    }
+  ]
+}

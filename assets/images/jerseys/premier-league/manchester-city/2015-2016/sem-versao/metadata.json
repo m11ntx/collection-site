@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-city-ii-2015-2016-masculina-nike-azul",
+  "createdAt": "2026-07-04T17:48:09Z",
+  "updatedAt": "2026-07-04T17:48:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/front.webp",
+      "hash": "f8aa00bfd33f6b965a7bb86b50809b3f19b67e7be8d363ca2a64c7c012992d09",
+      "width": 480,
+      "height": 480,
+      "size": 7064,
+      "createdAt": "2026-07-04T17:48:06Z",
+      "updatedAt": "2026-07-04T17:48:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/back.webp",
+      "hash": "c11d78d374fe8b8c51330fe6771cef25592c882426c993c41836a95cc5dc098a",
+      "width": 480,
+      "height": 480,
+      "size": 9516,
+      "createdAt": "2026-07-04T17:48:06Z",
+      "updatedAt": "2026-07-04T17:48:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/detail-1.webp",
+      "hash": "f6b9aaa17b878f73488ba8677c2aa63669c3483431d7ef5004ff58e4d674f5c8",
+      "width": 480,
+      "height": 480,
+      "size": 5786,
+      "createdAt": "2026-07-04T17:48:07Z",
+      "updatedAt": "2026-07-04T17:48:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/detail-2.webp",
+      "hash": "3fdbba498c576089628f0f960cac083a820d8e625cd91bddadf8b98ac15e0b4b",
+      "width": 480,
+      "height": 480,
+      "size": 64934,
+      "createdAt": "2026-07-04T17:48:07Z",
+      "updatedAt": "2026-07-04T17:48:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/detail-3.webp",
+      "hash": "4568bd93a8bb2f0bfb4a87755309ad3183d7a244e8192ad204fb3a87e5592bed",
+      "width": 480,
+      "height": 480,
+      "size": 12934,
+      "createdAt": "2026-07-04T17:48:08Z",
+      "updatedAt": "2026-07-04T17:48:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/detail-4.webp",
+      "hash": "5b209d2ade40acf8b53cd4395d3dc38c5f951f8202fd1400d3cac52671e6a700",
+      "width": 480,
+      "height": 480,
+      "size": 15036,
+      "createdAt": "2026-07-04T17:48:08Z",
+      "updatedAt": "2026-07-04T17:48:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2015-2016/sem-versao/detail-5.webp",
+      "hash": "8c22c7374755b5d4f6e4b01fb1500757c7bf28403cc692a1270b658da6d619a2",
+      "width": 480,
+      "height": 480,
+      "size": 44658,
+      "createdAt": "2026-07-04T17:48:08Z",
+      "updatedAt": "2026-07-04T17:48:08Z"
+    }
+  ]
+}

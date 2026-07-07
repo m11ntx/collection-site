@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-napoli-i-1991-1993-umbro-masculina-azul",
+  "createdAt": "2026-07-04T17:34:53Z",
+  "updatedAt": "2026-07-04T17:34:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/front.webp",
+      "hash": "106a5bfcae922aa9cf93819c9d89f924f868bc6efb545ae57222db5e06bbe9a5",
+      "width": 480,
+      "height": 480,
+      "size": 12422,
+      "createdAt": "2026-07-04T17:34:50Z",
+      "updatedAt": "2026-07-04T17:34:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/back.webp",
+      "hash": "46e900e77038a99bc7d621a090032aeea10016273b547243eb8b4fc3bc033ab9",
+      "width": 480,
+      "height": 480,
+      "size": 11990,
+      "createdAt": "2026-07-04T17:34:51Z",
+      "updatedAt": "2026-07-04T17:34:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/detail-1.webp",
+      "hash": "7678883901efb8e03caafc96e996a7087e1c5db1384e26c172d11be02372d1d0",
+      "width": 480,
+      "height": 480,
+      "size": 23344,
+      "createdAt": "2026-07-04T17:34:51Z",
+      "updatedAt": "2026-07-04T17:34:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/detail-2.webp",
+      "hash": "a571a52ee5756c6cb55d6dcadf9f79784f17156d93d5f8c0fb8d337824b531ff",
+      "width": 480,
+      "height": 480,
+      "size": 61064,
+      "createdAt": "2026-07-04T17:34:52Z",
+      "updatedAt": "2026-07-04T17:34:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/detail-3.webp",
+      "hash": "70ce641bcbbe1e76ab1584aef836dd9ef41c3461a534dbc706962b93f2c8afdf",
+      "width": 480,
+      "height": 480,
+      "size": 77276,
+      "createdAt": "2026-07-04T17:34:52Z",
+      "updatedAt": "2026-07-04T17:34:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/detail-4.webp",
+      "hash": "96e9a84d4d1ae4db507625aa376f42d17577107229dfd5c37248426aba476ff4",
+      "width": 480,
+      "height": 480,
+      "size": 18936,
+      "createdAt": "2026-07-04T17:34:53Z",
+      "updatedAt": "2026-07-04T17:34:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1991-1993/sem-versao/detail-5.webp",
+      "hash": "8d0c1fc364504d5a2617f5c044ee1a5541dabb004ca4d11e2e4424d11b44c8d8",
+      "width": 480,
+      "height": 480,
+      "size": 14836,
+      "createdAt": "2026-07-04T17:34:53Z",
+      "updatedAt": "2026-07-04T17:34:53Z"
+    }
+  ]
+}

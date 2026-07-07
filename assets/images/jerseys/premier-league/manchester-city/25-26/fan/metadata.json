@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-iii-25-26-torcedor-puma-masculina-verde",
+  "createdAt": "2026-07-04T18:32:22Z",
+  "updatedAt": "2026-07-04T20:27:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/fan/front.webp",
+      "hash": "e7613b8ad20ffc2696218a0f8fe48a64324d33924dba18a935502abe39988aa8",
+      "width": 480,
+      "height": 480,
+      "size": 26586,
+      "createdAt": "2026-07-04T18:32:21Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/25-26/fan/back.webp",
+      "hash": "bb32ab30e29a30220bc3ad69078e08f2a07b79482f63bb51a89a62d01cffe142",
+      "width": 480,
+      "height": 480,
+      "size": 7812,
+      "createdAt": "2026-07-04T18:32:21Z",
+      "updatedAt": "2026-07-04T20:27:58Z"
+    }
+  ]
+}

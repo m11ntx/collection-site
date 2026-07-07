@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-mundial-25-26-torcedor-puma-masculina",
+  "createdAt": "2026-07-05T06:21:22Z",
+  "updatedAt": "2026-07-05T06:21:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-mundial-25-26-torcedor-puma-masculina/front.webp",
+      "hash": "2ddad4b8757c7d451f7659a8ec31db71622fe105bbf2edfacb885f1ff44bc554",
+      "width": 480,
+      "height": 480,
+      "size": 8694,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-mundial-25-26-torcedor-puma-masculina/back.webp",
+      "hash": "5924b98baf72c8c87278593970736c832440dbce19fbbf0d665eca6927e6201e",
+      "width": 480,
+      "height": 480,
+      "size": 4414,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    }
+  ]
+}

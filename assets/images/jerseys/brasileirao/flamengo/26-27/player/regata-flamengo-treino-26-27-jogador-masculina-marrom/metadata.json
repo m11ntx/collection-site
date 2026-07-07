@@ -1,0 +1,27 @@
+{
+  "productId": "source-regata-flamengo-treino-26-27-jogador-masculina-marrom",
+  "createdAt": "2026-07-05T06:10:09Z",
+  "updatedAt": "2026-07-05T06:10:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/player/regata-flamengo-treino-26-27-jogador-masculina-marrom/front.webp",
+      "hash": "2e6f34ba30685d5dbb5629568d58a3fbd75dcb7ac49e3b72b74ecb246a99a0a3",
+      "width": 480,
+      "height": 480,
+      "size": 10680,
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/player/regata-flamengo-treino-26-27-jogador-masculina-marrom/back.webp",
+      "hash": "a44286550b7e2feadb13e6bd6d494a35b481bf77aa352eca2abb94c67d07077b",
+      "width": 480,
+      "height": 480,
+      "size": 7790,
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
+    }
+  ]
+}

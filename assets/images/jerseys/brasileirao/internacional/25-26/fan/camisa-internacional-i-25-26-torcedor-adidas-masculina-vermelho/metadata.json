@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-internacional-i-25-26-torcedor-adidas-masculina-vermelho",
+  "createdAt": "2026-07-05T05:51:05Z",
+  "updatedAt": "2026-07-05T05:51:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-masculina-vermelho/front.webp",
+      "hash": "7d966aebf3b9653020841ed202b66192c2d4f3c2ea1698e593ed607f5a4cef3a",
+      "width": 480,
+      "height": 480,
+      "size": 9604,
+      "createdAt": "2026-07-05T05:51:04Z",
+      "updatedAt": "2026-07-05T05:51:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-masculina-vermelho/back.webp",
+      "hash": "a3364dd5aac78b7d0e721d02491ce73acd30f8fe8f99ae38b8f6c68f696cc06b",
+      "width": 480,
+      "height": 480,
+      "size": 5214,
+      "createdAt": "2026-07-05T05:51:04Z",
+      "updatedAt": "2026-07-05T05:51:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-masculina-vermelho/detail-1.webp",
+      "hash": "f28849e5ca5d48c15592b5cd136091f83fb142e9d9ab3cbfc8c1445ce7425ed7",
+      "width": 480,
+      "height": 480,
+      "size": 14604,
+      "createdAt": "2026-07-05T05:51:04Z",
+      "updatedAt": "2026-07-05T05:51:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-masculina-vermelho/detail-2.webp",
+      "hash": "de51a2a1bb3d12989d9fe7ba6e134981ab04113aab45bb17dce5438cdb68c651",
+      "width": 480,
+      "height": 480,
+      "size": 19374,
+      "createdAt": "2026-07-05T05:51:04Z",
+      "updatedAt": "2026-07-05T05:51:04Z"
+    }
+  ]
+}

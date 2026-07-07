@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-04-05-masculina-adidas-branca-com-listras-pretas",
+  "createdAt": "2026-07-04T17:31:54Z",
+  "updatedAt": "2026-07-04T21:06:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/front.webp",
+      "hash": "a3ec11cf94f52cbb10b3f211a797ba321f1e18eed69099838fc2e06a4bd6a4d9",
+      "width": 480,
+      "height": 480,
+      "size": 10024,
+      "createdAt": "2026-07-04T17:31:52Z",
+      "updatedAt": "2026-07-04T21:06:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/back.webp",
+      "hash": "eb5361d9cbe6e945563f45a08fc7905e72448aa365c3316fbe08e7f8bf92b8e7",
+      "width": 480,
+      "height": 480,
+      "size": 5816,
+      "createdAt": "2026-07-04T17:31:52Z",
+      "updatedAt": "2026-07-04T21:06:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/detail-1.webp",
+      "hash": "54110f6949f09902b8c651f535aa5017afde55589e251e1b3bd78ea6a7046095",
+      "width": 480,
+      "height": 480,
+      "size": 17392,
+      "createdAt": "2026-07-04T17:31:52Z",
+      "updatedAt": "2026-07-04T21:06:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/detail-2.webp",
+      "hash": "b69ca7ccf5ffd4e7060ad1b6d55e968a78c5afbfdc0e35a566731170464f1dac",
+      "width": 480,
+      "height": 480,
+      "size": 32110,
+      "createdAt": "2026-07-04T17:31:53Z",
+      "updatedAt": "2026-07-04T21:06:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/detail-3.webp",
+      "hash": "d923e2a31903f00be7ddb5156541e9389f1ed0649297dbfdf1300bbdc18a7f78",
+      "width": 480,
+      "height": 480,
+      "size": 50854,
+      "createdAt": "2026-07-04T17:31:53Z",
+      "updatedAt": "2026-07-04T21:06:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/detail-4.webp",
+      "hash": "d28f6bd2752ccefc7e75ba2f4a184aaac143d40d2ed21cd421b8eeada534f7b8",
+      "width": 480,
+      "height": 480,
+      "size": 14006,
+      "createdAt": "2026-07-04T17:31:54Z",
+      "updatedAt": "2026-07-04T21:06:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/detail-5.webp",
+      "hash": "b34a684972a0431f6bcd3960e38045ca5b96cae33851052e5e5f7e95f0bc7002",
+      "width": 480,
+      "height": 480,
+      "size": 19078,
+      "createdAt": "2026-07-04T17:31:54Z",
+      "updatedAt": "2026-07-04T21:06:36Z"
+    }
+  ]
+}

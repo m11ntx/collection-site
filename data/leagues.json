@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "brasileirao",
+    "collectionId": "brasil",
+    "slug": "brasileirao",
+    "name": "Brasileirão",
+    "country": "Brazil",
+    "image": null
+  },
+  {
+    "id": "bundesliga",
+    "collectionId": "europa",
+    "slug": "bundesliga",
+    "name": "Bundesliga",
+    "country": "Germany",
+    "image": null
+  },
+  {
+    "id": "la-liga",
+    "collectionId": "europa",
+    "slug": "la-liga",
+    "name": "La Liga",
+    "country": "Spain",
+    "image": null
+  },
+  {
+    "id": "ligue-1",
+    "collectionId": "europa",
+    "slug": "ligue-1",
+    "name": "Ligue 1",
+    "country": "France",
+    "image": null
+  },
+  {
+    "id": "premier-league",
+    "collectionId": "europa",
+    "slug": "premier-league",
+    "name": "Premier League",
+    "country": "England",
+    "image": null
+  },
+  {
+    "id": "serie-a",
+    "collectionId": "europa",
+    "slug": "serie-a",
+    "name": "Serie A",
+    "country": "Italy",
+    "image": null
+  }
+]

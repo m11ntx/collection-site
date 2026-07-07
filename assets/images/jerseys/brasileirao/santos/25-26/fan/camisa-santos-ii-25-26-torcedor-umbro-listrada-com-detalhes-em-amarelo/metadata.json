@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-05T03:00:40Z",
+  "updatedAt": "2026-07-05T03:00:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo/front.webp",
+      "hash": "28b64704977bf40dac3cf790d9cf14b90f52fd87560a396822c24e902342468b",
+      "width": 480,
+      "height": 480,
+      "size": 14070,
+      "createdAt": "2026-07-05T03:00:40Z",
+      "updatedAt": "2026-07-05T03:00:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo/back.webp",
+      "hash": "2d55e4d57068d45c8db639db444401e07fdd5d1b6e80c5136efb5fd33502db47",
+      "width": 480,
+      "height": 480,
+      "size": 11456,
+      "createdAt": "2026-07-05T03:00:40Z",
+      "updatedAt": "2026-07-05T03:00:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "acfd9fda3815c53f8c5a118dc9269918c8bb1f5ef2954c2d51b8aa2427f04bfb",
+      "width": 480,
+      "height": 480,
+      "size": 13818,
+      "createdAt": "2026-07-05T03:00:40Z",
+      "updatedAt": "2026-07-05T03:00:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/25-26/fan/camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "7d440a3ac2bee36635415d6ea4dcecac468c59859980649d348920e1d0c00c9f",
+      "width": 480,
+      "height": 480,
+      "size": 27472,
+      "createdAt": "2026-07-05T03:00:40Z",
+      "updatedAt": "2026-07-05T03:00:40Z"
+    }
+  ]
+}

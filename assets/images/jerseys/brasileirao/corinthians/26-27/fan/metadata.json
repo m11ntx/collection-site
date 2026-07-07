@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-ii-26-27-torcedor-nike-masculina",
+  "createdAt": "2026-07-04T18:35:56Z",
+  "updatedAt": "2026-07-04T20:32:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/front.webp",
+      "hash": "593782d5b681ff432d684cac308807ded7676d2e9f8d8b9e8ac40a5214c58e3c",
+      "width": 480,
+      "height": 480,
+      "size": 13554,
+      "createdAt": "2026-07-04T18:35:56Z",
+      "updatedAt": "2026-07-04T20:32:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/back.webp",
+      "hash": "582d805ba5032617106ea1b42ce85a1aa80ffa560d40d6088f491db51e917d93",
+      "width": 480,
+      "height": 480,
+      "size": 10410,
+      "createdAt": "2026-07-04T20:32:19Z",
+      "updatedAt": "2026-07-04T20:32:19Z"
+    }
+  ]
+}

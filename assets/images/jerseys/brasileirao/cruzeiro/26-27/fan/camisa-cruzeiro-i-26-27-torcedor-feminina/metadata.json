@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-i-26-27-torcedor-feminina",
+  "createdAt": "2026-07-05T04:53:31Z",
+  "updatedAt": "2026-07-05T04:53:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-torcedor-feminina/front.webp",
+      "hash": "3cb8741bbc1958d6781aed80124ee31b1393cabf7f397a4dd6b5ca73a5b4e50a",
+      "width": 480,
+      "height": 480,
+      "size": 9142,
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-torcedor-feminina/back.webp",
+      "hash": "e21eb6fb61fef111d460a03a9d8fa377acd3c112f1a8770db56bce37b51a6d71",
+      "width": 480,
+      "height": 480,
+      "size": 7900,
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
+    }
+  ]
+}

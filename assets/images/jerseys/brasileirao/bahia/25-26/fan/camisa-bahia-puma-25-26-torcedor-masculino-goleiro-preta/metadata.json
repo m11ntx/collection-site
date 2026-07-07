@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta",
+  "createdAt": "2026-07-05T16:55:25Z",
+  "updatedAt": "2026-07-05T16:55:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta/front.webp",
+      "hash": "4c3fba94884ba3d2c75db244e9e672bfbaa0c000e2427552c15121397188df93",
+      "width": 480,
+      "height": 480,
+      "size": 21166,
+      "createdAt": "2026-07-05T16:55:25Z",
+      "updatedAt": "2026-07-05T16:55:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta/back.webp",
+      "hash": "056804821ba0e0fd044364dec020d58161d70d7cb1ba4f8ab0bfa7e3f1980a7e",
+      "width": 480,
+      "height": 480,
+      "size": 5852,
+      "createdAt": "2026-07-05T16:55:25Z",
+      "updatedAt": "2026-07-05T16:55:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta/detail-1.webp",
+      "hash": "89d9b624d4512e444136849d1fa93af4f388e9e207cdec25af45fdc62372e189",
+      "width": 480,
+      "height": 480,
+      "size": 59244,
+      "createdAt": "2026-07-05T16:55:25Z",
+      "updatedAt": "2026-07-05T16:55:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta/detail-2.webp",
+      "hash": "6102b75d75eed13d6478954d03498cc133b56e19daae76e3aeb072661b199a69",
+      "width": 480,
+      "height": 480,
+      "size": 58546,
+      "createdAt": "2026-07-05T16:55:25Z",
+      "updatedAt": "2026-07-05T16:55:25Z"
+    }
+  ]
+}

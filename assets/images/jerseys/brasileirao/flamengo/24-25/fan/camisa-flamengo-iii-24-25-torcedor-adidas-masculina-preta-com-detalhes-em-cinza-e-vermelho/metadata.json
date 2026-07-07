@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza-e-vermelho",
+  "createdAt": "2026-07-05T06:09:16Z",
+  "updatedAt": "2026-07-05T06:09:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza-e-vermelho/front.webp",
+      "hash": "750d3bba1da3ba17c97d531e69e43a36a0f8d252d9433fce47e13e065eae7e55",
+      "width": 480,
+      "height": 480,
+      "size": 13140,
+      "createdAt": "2026-07-05T06:09:16Z",
+      "updatedAt": "2026-07-05T06:09:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-iii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-cinza-e-vermelho/back.webp",
+      "hash": "9661a06d8b05b77f7c570b137c063a27173fc5f6909ab8d4a7338505e3d54188",
+      "width": 480,
+      "height": 480,
+      "size": 4342,
+      "createdAt": "2026-07-05T06:09:16Z",
+      "updatedAt": "2026-07-05T06:09:16Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-ii-2025-26-torcedor-patrocinio",
+  "createdAt": "2026-07-05T16:55:12Z",
+  "updatedAt": "2026-07-05T16:55:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025-26/fan/camisa-atletico-mineiro-ii-2025-26-torcedor-patrocinio/front.webp",
+      "hash": "ba80e73ac59bb57b4a4280ce70d6ceb3e930eb6973f06657557502a5793d1ae5",
+      "width": 480,
+      "height": 495,
+      "size": 8664,
+      "createdAt": "2026-07-05T16:55:12Z",
+      "updatedAt": "2026-07-05T16:55:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025-26/fan/camisa-atletico-mineiro-ii-2025-26-torcedor-patrocinio/back.webp",
+      "hash": "c5f2e3412868a374a5b43430b6bf12268306ad729c7af21837a0e3be1c49d48c",
+      "width": 480,
+      "height": 495,
+      "size": 4310,
+      "createdAt": "2026-07-05T16:55:12Z",
+      "updatedAt": "2026-07-05T16:55:12Z"
+    }
+  ]
+}

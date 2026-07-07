@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha",
+  "createdAt": "2026-07-05T16:55:37Z",
+  "updatedAt": "2026-07-05T16:55:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/front.webp",
+      "hash": "67789e1d9fb3f8bc59c12a2b68b7397eb5f89b37bd59fd663a35e48054d23a1d",
+      "width": 480,
+      "height": 480,
+      "size": 12116,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/back.webp",
+      "hash": "3bb8c4cfa3d8f9d8b757dd0b51c634e9bc6f9dc91befca8b9a5ff59b0faaea7b",
+      "width": 480,
+      "height": 480,
+      "size": 11402,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/detail-1.webp",
+      "hash": "844e9052e259f3c7705d91b1c49815f2056dc18ca03e2519d1655fbb5aaddb9c",
+      "width": 480,
+      "height": 480,
+      "size": 7928,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/detail-2.webp",
+      "hash": "933a3efe39db9dec80a43e82d71dabed38199230f881b107e422d110b837a7d2",
+      "width": 480,
+      "height": 480,
+      "size": 19888,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/detail-3.webp",
+      "hash": "29f50a50020c7744c1eaa5347c2aeda576d80406a3171540a78e867fe773a074",
+      "width": 480,
+      "height": 480,
+      "size": 30984,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-iii-24-25-torcedor-masculina-vermelha/detail-4.webp",
+      "hash": "74d16c29201b753d934a3838bf45fd10e861cbefad2bd76502b41293952e3ce9",
+      "width": 480,
+      "height": 480,
+      "size": 29676,
+      "createdAt": "2026-07-05T16:55:36Z",
+      "updatedAt": "2026-07-05T16:55:36Z"
+    }
+  ]
+}

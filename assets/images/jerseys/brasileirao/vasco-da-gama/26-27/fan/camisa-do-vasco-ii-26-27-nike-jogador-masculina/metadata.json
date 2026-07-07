@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-vasco-ii-26-27-nike-jogador-masculina",
+  "createdAt": "2026-07-05T16:03:34Z",
+  "updatedAt": "2026-07-05T16:03:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/camisa-do-vasco-ii-26-27-nike-jogador-masculina/front.webp",
+      "hash": "13d50de9cd41c215c7939d17f26d1c0486e3808941677338d1295994d5b62012",
+      "width": 480,
+      "height": 480,
+      "size": 10252,
+      "createdAt": "2026-07-05T16:03:27Z",
+      "updatedAt": "2026-07-05T16:03:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/camisa-do-vasco-ii-26-27-nike-jogador-masculina/back.webp",
+      "hash": "0dc4e41b9d311a0ae3b51d808f3f45228f32f2c17f3dc56e408c8ae6953f392c",
+      "width": 480,
+      "height": 480,
+      "size": 2624,
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
+    }
+  ]
+}

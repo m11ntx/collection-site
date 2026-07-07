@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-real-madrid-i-25-26-torcedor-adidas-masculina",
+  "createdAt": "2026-07-07T01:34:06Z",
+  "updatedAt": "2026-07-07T01:34:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/fan/camisa-real-madrid-i-25-26-torcedor-adidas-masculina/front.webp",
+      "hash": "b20b540fccad773c4fd3da51de88b4f2e6239792603ace8648a55afbc5bcc183",
+      "width": 480,
+      "height": 480,
+      "size": 12858,
+      "createdAt": "2026-07-07T01:34:03Z",
+      "updatedAt": "2026-07-07T01:34:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/fan/camisa-real-madrid-i-25-26-torcedor-adidas-masculina/back.webp",
+      "hash": "dfbd38c292090224ee41a961e7abdffee506742cf229eda27ed3e26f87dc12f5",
+      "width": 480,
+      "height": 480,
+      "size": 2980,
+      "createdAt": "2026-07-07T01:34:03Z",
+      "updatedAt": "2026-07-07T01:34:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/fan/camisa-real-madrid-i-25-26-torcedor-adidas-masculina/detail-1.webp",
+      "hash": "86d2d0efd4fe8046f2d8ee475df9e6de1a7c9d71fb79d967d3eacbd1b6048f16",
+      "width": 480,
+      "height": 480,
+      "size": 18626,
+      "createdAt": "2026-07-07T01:34:04Z",
+      "updatedAt": "2026-07-07T01:34:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/fan/camisa-real-madrid-i-25-26-torcedor-adidas-masculina/detail-2.webp",
+      "hash": "6d9106f4ef8a2447316ac8068be6f76f161e500e50efba66db59b2e273c9cba4",
+      "width": 480,
+      "height": 480,
+      "size": 51328,
+      "createdAt": "2026-07-07T01:34:04Z",
+      "updatedAt": "2026-07-07T01:34:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/fan/camisa-real-madrid-i-25-26-torcedor-adidas-masculina/detail-3.webp",
+      "hash": "ab39743669b811ab6d8305532a77c4d4fe9ebfedac65c8c3b501572bbf1789f3",
+      "width": 480,
+      "height": 480,
+      "size": 40852,
+      "createdAt": "2026-07-07T01:34:05Z",
+      "updatedAt": "2026-07-07T01:34:05Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-home-retro-90-92-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-04T17:09:40Z",
+  "updatedAt": "2026-07-04T17:09:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/front.webp",
+      "hash": "6db90a1874b8dc604ea381b3f3fc0cfec1a5d26602ec39679ae5f036836e7482",
+      "width": 480,
+      "height": 480,
+      "size": 18942,
+      "createdAt": "2026-07-04T17:09:37Z",
+      "updatedAt": "2026-07-04T17:09:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/back.webp",
+      "hash": "4b538d9fd235ff9d5b0b71962c4591da07fe411272373a129118aa35f561a71c",
+      "width": 480,
+      "height": 480,
+      "size": 16914,
+      "createdAt": "2026-07-04T17:09:37Z",
+      "updatedAt": "2026-07-04T17:09:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/detail-1.webp",
+      "hash": "07338b12e528c35205b662a99e339238f254554f10af581e50f23fd097ed4296",
+      "width": 480,
+      "height": 480,
+      "size": 31842,
+      "createdAt": "2026-07-04T17:09:38Z",
+      "updatedAt": "2026-07-04T17:09:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/detail-2.webp",
+      "hash": "b2dd09d2939d232d3bb751f275190242b08a82ab2556ce2106476711e7364dbc",
+      "width": 480,
+      "height": 480,
+      "size": 29054,
+      "createdAt": "2026-07-04T17:09:38Z",
+      "updatedAt": "2026-07-04T17:09:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/detail-3.webp",
+      "hash": "08746ec1f3853ae33ac4ffaf2175a149c4b1110865270f11edc5efa0116acd67",
+      "width": 480,
+      "height": 480,
+      "size": 27898,
+      "createdAt": "2026-07-04T17:09:39Z",
+      "updatedAt": "2026-07-04T17:09:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/detail-4.webp",
+      "hash": "0e8fc51b86625468ff6dc833126874b74a2d62edbdb80e39f294bf6e405e2dfe",
+      "width": 480,
+      "height": 480,
+      "size": 41188,
+      "createdAt": "2026-07-04T17:09:39Z",
+      "updatedAt": "2026-07-04T17:09:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/90-92/fan/detail-5.webp",
+      "hash": "d2ac20c0f49cdf6bcdfc12df004523cbab924203ff049469968d8f5dc486427d",
+      "width": 480,
+      "height": 480,
+      "size": 39542,
+      "createdAt": "2026-07-04T17:09:40Z",
+      "updatedAt": "2026-07-04T17:09:40Z"
+    }
+  ]
+}

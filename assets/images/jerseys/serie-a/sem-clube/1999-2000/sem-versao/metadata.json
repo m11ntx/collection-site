@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-lazio-i-1999-2000-puma-masculina-azul-e-preta",
+  "createdAt": "2026-07-04T17:20:05Z",
+  "updatedAt": "2026-07-04T21:04:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/front.webp",
+      "hash": "0329fa8ace737306ee5ef9f31b181a304e2cc84defc32e63bea8198f30b16a11",
+      "width": 480,
+      "height": 480,
+      "size": 15630,
+      "createdAt": "2026-07-04T17:20:03Z",
+      "updatedAt": "2026-07-04T21:04:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/back.webp",
+      "hash": "80dd276dd550c47b4c85d8640fcd93ffdf52c7fe093d5f0c7ebc8fa018f7843c",
+      "width": 480,
+      "height": 480,
+      "size": 11154,
+      "createdAt": "2026-07-04T17:20:03Z",
+      "updatedAt": "2026-07-04T21:04:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/detail-1.webp",
+      "hash": "f9cc0bf94a52fe4f8c17a0fbbee222af1637cb69b4458eeeba735bde7294fef0",
+      "width": 480,
+      "height": 480,
+      "size": 34384,
+      "createdAt": "2026-07-04T17:20:03Z",
+      "updatedAt": "2026-07-04T21:04:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/detail-2.webp",
+      "hash": "a77d3833c55a73286c8788a898520fd883b9cc585cbc24b6282bf130f14782eb",
+      "width": 480,
+      "height": 480,
+      "size": 42542,
+      "createdAt": "2026-07-04T17:20:04Z",
+      "updatedAt": "2026-07-04T21:04:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/detail-3.webp",
+      "hash": "7975386308b03f85c009614542ed5ed86f3fa1cb31189cf9eb9d8aaa633ceab5",
+      "width": 480,
+      "height": 480,
+      "size": 33380,
+      "createdAt": "2026-07-04T17:20:04Z",
+      "updatedAt": "2026-07-04T21:04:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/detail-4.webp",
+      "hash": "286b2b89a3afa2dbc69bd1b9eaa51db534d0be52f7f47df6f547f3282e1a1f9b",
+      "width": 480,
+      "height": 480,
+      "size": 23354,
+      "createdAt": "2026-07-04T17:20:05Z",
+      "updatedAt": "2026-07-04T21:04:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/sem-clube/1999-2000/sem-versao/detail-5.webp",
+      "hash": "faa8f65cec227a3d0a8efc560a6ed42da2d1bd2ac8f3b9cdcec1df180e29d528",
+      "width": 480,
+      "height": 480,
+      "size": 30200,
+      "createdAt": "2026-07-04T17:20:05Z",
+      "updatedAt": "2026-07-04T21:04:48Z"
+    }
+  ]
+}

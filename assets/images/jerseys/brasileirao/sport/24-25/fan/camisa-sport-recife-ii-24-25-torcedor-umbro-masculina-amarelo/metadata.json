@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-sport-recife-ii-24-25-torcedor-umbro-masculina-amarelo",
+  "createdAt": "2026-07-05T16:55:47Z",
+  "updatedAt": "2026-07-05T16:55:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/24-25/fan/camisa-sport-recife-ii-24-25-torcedor-umbro-masculina-amarelo/front.webp",
+      "hash": "3aeea5952ed600c66fb54070512aaf6059839619f9224d0b61d1f0398064b0b4",
+      "width": 480,
+      "height": 480,
+      "size": 7980,
+      "createdAt": "2026-07-05T16:55:47Z",
+      "updatedAt": "2026-07-05T16:55:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/24-25/fan/camisa-sport-recife-ii-24-25-torcedor-umbro-masculina-amarelo/back.webp",
+      "hash": "a08072755d3b7482165cf5f61669979d0b2b48be606124e3c1ae5dd863f79011",
+      "width": 480,
+      "height": 480,
+      "size": 5058,
+      "createdAt": "2026-07-05T16:55:47Z",
+      "updatedAt": "2026-07-05T16:55:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sport/24-25/fan/camisa-sport-recife-ii-24-25-torcedor-umbro-masculina-amarelo/detail-1.webp",
+      "hash": "dc56fd279483ea247b7bcd6478a9d7baa912998683a19b5e06112135692c8892",
+      "width": 480,
+      "height": 480,
+      "size": 8866,
+      "createdAt": "2026-07-05T16:55:47Z",
+      "updatedAt": "2026-07-05T16:55:47Z"
+    }
+  ]
+}

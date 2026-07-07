@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-2011-2012-manga-longa-adidas-masculina-branca-com-detalhes-em-dourado",
+  "createdAt": "2026-07-04T18:13:44Z",
+  "updatedAt": "2026-07-04T18:13:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/front.webp",
+      "hash": "38ca948f6daae53c3f16a1f44d2a1d36f63ddc3e494e40441e646906f512f3f8",
+      "width": 480,
+      "height": 480,
+      "size": 9596,
+      "createdAt": "2026-07-04T18:13:41Z",
+      "updatedAt": "2026-07-04T18:13:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/back.webp",
+      "hash": "32137f22e841d7618a615b12f3c72b64e30b7cf32227717ed42318562548304b",
+      "width": 480,
+      "height": 480,
+      "size": 4308,
+      "createdAt": "2026-07-04T18:13:42Z",
+      "updatedAt": "2026-07-04T18:13:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/detail-1.webp",
+      "hash": "7693ad1de5ffc147ea2032d6b64951558bb13d50dfb4667f07bf8b4c2cc0aa1c",
+      "width": 480,
+      "height": 480,
+      "size": 12790,
+      "createdAt": "2026-07-04T18:13:42Z",
+      "updatedAt": "2026-07-04T18:13:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/detail-2.webp",
+      "hash": "d8a9533c242b58368c0264fc83b1478dac5874be71fa69881e631b7b0efa082a",
+      "width": 480,
+      "height": 480,
+      "size": 23970,
+      "createdAt": "2026-07-04T18:13:42Z",
+      "updatedAt": "2026-07-04T18:13:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/detail-3.webp",
+      "hash": "fd2d7cd7d3ecdafb20d6da364f9b8c819959e69225495a3387427991b4708ae9",
+      "width": 480,
+      "height": 480,
+      "size": 34342,
+      "createdAt": "2026-07-04T18:13:43Z",
+      "updatedAt": "2026-07-04T18:13:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/detail-4.webp",
+      "hash": "a0047bffe51b7f3e15ca5cf007fa275609ddb2cee401f04b10bb0267d8b62f2c",
+      "width": 480,
+      "height": 480,
+      "size": 11708,
+      "createdAt": "2026-07-04T18:13:43Z",
+      "updatedAt": "2026-07-04T18:13:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2011-2012/sem-versao/detail-5.webp",
+      "hash": "2cc9c87139497ad91756d6996fed9940022c4102f5ecae43dec1795e7046eba0",
+      "width": 480,
+      "height": 480,
+      "size": 7312,
+      "createdAt": "2026-07-04T18:13:44Z",
+      "updatedAt": "2026-07-04T18:13:44Z"
+    }
+  ]
+}

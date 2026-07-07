@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-masculina-cruzeiro-brasil-26-27",
+  "createdAt": "2026-07-05T04:53:36Z",
+  "updatedAt": "2026-07-05T04:53:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/sem-versao/camisa-masculina-cruzeiro-brasil-26-27/front.webp",
+      "hash": "d2344158c4c5683a9dd77c1d1dd9dd42a450a7bb2a63dc9ddbe0a7e5e5e98138",
+      "width": 480,
+      "height": 496,
+      "size": 11456,
+      "createdAt": "2026-07-05T04:53:35Z",
+      "updatedAt": "2026-07-05T04:53:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/sem-versao/camisa-masculina-cruzeiro-brasil-26-27/back.webp",
+      "hash": "de6dc1f6a13c9e17ec6cccfce5d5743640b5d46afad27bd6a4a28bf82b7d8890",
+      "width": 480,
+      "height": 496,
+      "size": 7700,
+      "createdAt": "2026-07-05T04:53:36Z",
+      "updatedAt": "2026-07-05T04:53:36Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-tottenham-ii-25-26-nike-preto",
+  "createdAt": "2026-07-07T01:34:26Z",
+  "updatedAt": "2026-07-07T01:34:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/25-26/sem-versao/kit-infantil-tottenham-ii-25-26-nike-preto/front.webp",
+      "hash": "f20528a09bc2fa3a3eedc73b0cd02a1909bdc4f363ca853cb86f267acd1bf1e4",
+      "width": 480,
+      "height": 480,
+      "size": 5216,
+      "createdAt": "2026-07-07T01:34:25Z",
+      "updatedAt": "2026-07-07T01:34:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/25-26/sem-versao/kit-infantil-tottenham-ii-25-26-nike-preto/back.webp",
+      "hash": "84eb4c87d17655c301ee618faeeeaeb9ebde7ef96b7f7142f407e91ddc7f13c7",
+      "width": 480,
+      "height": 480,
+      "size": 4138,
+      "createdAt": "2026-07-07T01:34:26Z",
+      "updatedAt": "2026-07-07T01:34:26Z"
+    }
+  ]
+}

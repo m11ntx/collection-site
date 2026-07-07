@@ -1,0 +1,27 @@
+{
+  "productId": "source-regata-nike-golden-state-warriors-swingman-branca-do-stephen-curry-edicao-classic-24-25",
+  "createdAt": "2026-07-04T18:06:05Z",
+  "updatedAt": "2026-07-04T20:32:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/24-25/sem-versao/front.webp",
+      "hash": "27489b3907e06f4dd89b8fd6d1b14e36946c777ff8f42b86ecae250d5d7d2dc1",
+      "width": 480,
+      "height": 480,
+      "size": 19724,
+      "createdAt": "2026-07-04T18:06:03Z",
+      "updatedAt": "2026-07-04T20:32:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/24-25/sem-versao/back.webp",
+      "hash": "53fdec317155d696bff5cdca0390d984d543f8366cc68e08f23d578cbd8ec9c3",
+      "width": 480,
+      "height": 534,
+      "size": 27926,
+      "createdAt": "2026-07-04T18:06:03Z",
+      "updatedAt": "2026-07-04T20:32:43Z"
+    }
+  ]
+}

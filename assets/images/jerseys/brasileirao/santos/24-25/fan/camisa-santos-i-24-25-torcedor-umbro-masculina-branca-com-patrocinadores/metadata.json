@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-i-24-25-torcedor-umbro-masculina-branca-com-patrocinadores",
+  "createdAt": "2026-07-05T03:00:31Z",
+  "updatedAt": "2026-07-05T03:00:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca-com-patrocinadores/front.webp",
+      "hash": "42e10aaf38e3ca60f163d367c6273a6ac18636b8536f3ea1d195ef41f9fbab01",
+      "width": 480,
+      "height": 480,
+      "size": 14492,
+      "createdAt": "2026-07-05T03:00:17Z",
+      "updatedAt": "2026-07-05T03:00:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-i-24-25-torcedor-umbro-masculina-branca-com-patrocinadores/back.webp",
+      "hash": "4e2875f5835b1a7d156a928003fe7a2fa777df88e627c9df04114cf72d2a022c",
+      "width": 480,
+      "height": 480,
+      "size": 10962,
+      "createdAt": "2026-07-05T03:00:24Z",
+      "updatedAt": "2026-07-05T03:00:24Z"
+    }
+  ]
+}

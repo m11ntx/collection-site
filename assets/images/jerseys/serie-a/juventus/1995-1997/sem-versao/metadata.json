@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-juventus-i-1995-1997-kappa-masculina-branca-e-preta",
+  "createdAt": "2026-07-04T17:22:52Z",
+  "updatedAt": "2026-07-04T21:09:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/front.webp",
+      "hash": "0e378f118d117337b7d2c69736911cc08b1fc2fb7bcc3e56354ecbbe9ed5f6da",
+      "width": 480,
+      "height": 480,
+      "size": 7966,
+      "createdAt": "2026-07-04T17:22:49Z",
+      "updatedAt": "2026-07-04T21:09:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/back.webp",
+      "hash": "3ac74c0b4c719de60b03c49b78ec101ff07d1abeecaa89709b5157ab77803503",
+      "width": 480,
+      "height": 480,
+      "size": 5962,
+      "createdAt": "2026-07-04T17:22:50Z",
+      "updatedAt": "2026-07-04T21:09:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/detail-1.webp",
+      "hash": "70bac0d372a7f228e236580382f424cc79b025eb5e1a85dbb4e0d0016094d670",
+      "width": 480,
+      "height": 480,
+      "size": 12744,
+      "createdAt": "2026-07-04T17:22:50Z",
+      "updatedAt": "2026-07-04T21:09:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/detail-2.webp",
+      "hash": "4da030513c5331b0b4fb3347225b16779e9424a4efb7e0867e2e511e031196cb",
+      "width": 480,
+      "height": 480,
+      "size": 9330,
+      "createdAt": "2026-07-04T17:22:51Z",
+      "updatedAt": "2026-07-04T21:09:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/detail-3.webp",
+      "hash": "fbcc9d1fe66fcc7f04004d041e188ae722c16269b85a713484ff867454646624",
+      "width": 480,
+      "height": 480,
+      "size": 41792,
+      "createdAt": "2026-07-04T17:22:51Z",
+      "updatedAt": "2026-07-04T21:09:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/detail-4.webp",
+      "hash": "c07fbcc7ae4c5f72bf491d2eedb465fc611f084cb72c7be824851b274de446e0",
+      "width": 480,
+      "height": 480,
+      "size": 40572,
+      "createdAt": "2026-07-04T17:22:52Z",
+      "updatedAt": "2026-07-04T21:09:44Z"
+    }
+  ]
+}

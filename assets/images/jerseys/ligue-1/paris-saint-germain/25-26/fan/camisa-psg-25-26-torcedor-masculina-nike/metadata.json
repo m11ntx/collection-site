@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-psg-25-26-torcedor-masculina-nike",
+  "createdAt": "2026-07-07T01:33:38Z",
+  "updatedAt": "2026-07-07T01:33:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/fan/camisa-psg-25-26-torcedor-masculina-nike/front.webp",
+      "hash": "d166093edd99f1c28f6c66099ac08dfb5aa419d28a06adf93f679b77c09a076d",
+      "width": 480,
+      "height": 480,
+      "size": 17876,
+      "createdAt": "2026-07-07T01:33:37Z",
+      "updatedAt": "2026-07-07T01:33:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/fan/camisa-psg-25-26-torcedor-masculina-nike/back.webp",
+      "hash": "3853e7bbed3317bc69f360252ced75c2bdaabc27161e2a0e541d8e2c16bf082d",
+      "width": 480,
+      "height": 480,
+      "size": 4928,
+      "createdAt": "2026-07-07T01:33:38Z",
+      "updatedAt": "2026-07-07T01:33:38Z"
+    }
+  ]
+}

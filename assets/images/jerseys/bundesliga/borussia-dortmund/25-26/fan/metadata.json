@@ -1,0 +1,17 @@
+{
+  "productId": "source-camisa-borussia-dortmund-i-25-26-torcedor-puma-masculino",
+  "createdAt": "2026-07-04T18:29:32Z",
+  "updatedAt": "2026-07-04T18:29:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/25-26/fan/front.webp",
+      "hash": "c9bb858c88a53251816a650fbc0ab645515d5fcfed07e570b7665eef1f51de7b",
+      "width": 480,
+      "height": 480,
+      "size": 13244,
+      "createdAt": "2026-07-04T18:29:31Z",
+      "updatedAt": "2026-07-04T18:29:31Z"
+    }
+  ]
+}

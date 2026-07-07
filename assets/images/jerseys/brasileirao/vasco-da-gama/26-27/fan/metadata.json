@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-vasco-da-gama-i-26-27-torcedora-kappa-feminina",
+  "createdAt": "2026-07-04T20:28:19Z",
+  "updatedAt": "2026-07-04T20:33:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/front.webp",
+      "hash": "f48dc0d5fbe3f19c6b42913f56d75504ab38e4c090e5abcb022dc60baa70dc8a",
+      "width": 480,
+      "height": 480,
+      "size": 9772,
+      "createdAt": "2026-07-04T20:28:13Z",
+      "updatedAt": "2026-07-04T20:33:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/back.webp",
+      "hash": "6c261d4a481f7fe216d5b42f2984769d41f8a2eb895515c53f487a70d5dfeb25",
+      "width": 480,
+      "height": 480,
+      "size": 5968,
+      "createdAt": "2026-07-04T20:32:31Z",
+      "updatedAt": "2026-07-04T20:33:03Z"
+    }
+  ]
+}

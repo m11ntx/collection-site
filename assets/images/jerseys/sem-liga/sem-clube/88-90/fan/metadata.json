@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-retro-i-88-90-topper-torcedor-maculina-amarela-com-gola-verde",
+  "createdAt": "2026-07-04T17:31:02Z",
+  "updatedAt": "2026-07-04T17:31:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/front.webp",
+      "hash": "58bbe800bfe831b5a1efe51059bb5a74d5218de634beb02ebad1be459067a24d",
+      "width": 480,
+      "height": 480,
+      "size": 8118,
+      "createdAt": "2026-07-04T17:31:00Z",
+      "updatedAt": "2026-07-04T17:31:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/back.webp",
+      "hash": "34312477c8c1d5786fcb2f484a3d62ea084a9cd74c5f54002a7ec6a5409b102a",
+      "width": 480,
+      "height": 480,
+      "size": 11476,
+      "createdAt": "2026-07-04T17:31:00Z",
+      "updatedAt": "2026-07-04T17:31:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/detail-1.webp",
+      "hash": "93b576eefdf6897e77afc00b2f77e786393b772e7b0c8778fa47ff494c9cf289",
+      "width": 480,
+      "height": 480,
+      "size": 5672,
+      "createdAt": "2026-07-04T17:31:01Z",
+      "updatedAt": "2026-07-04T17:31:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/detail-2.webp",
+      "hash": "8b565c15cabd7008ea065250143f4939a14a4fee986d427ffcec3646584933e6",
+      "width": 480,
+      "height": 480,
+      "size": 15524,
+      "createdAt": "2026-07-04T17:31:01Z",
+      "updatedAt": "2026-07-04T17:31:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/detail-3.webp",
+      "hash": "51976b2c65334ff896d15febc5dd31d24f6617e96a2c41f89efbc3187cc8ac91",
+      "width": 480,
+      "height": 480,
+      "size": 68064,
+      "createdAt": "2026-07-04T17:31:01Z",
+      "updatedAt": "2026-07-04T17:31:01Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/detail-4.webp",
+      "hash": "a7cb76cfca6d6724652b614d3ca555347e94169c119c58ae7d5b41fbfa15bee1",
+      "width": 480,
+      "height": 480,
+      "size": 65066,
+      "createdAt": "2026-07-04T17:31:01Z",
+      "updatedAt": "2026-07-04T17:31:01Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/88-90/fan/detail-5.webp",
+      "hash": "2fad4167546e2f0abf35e07a1f6280399bc3ab418e94e0a31e2f8af0e6f7f284",
+      "width": 480,
+      "height": 480,
+      "size": 10278,
+      "createdAt": "2026-07-04T17:31:02Z",
+      "updatedAt": "2026-07-04T17:31:02Z"
+    }
+  ]
+}

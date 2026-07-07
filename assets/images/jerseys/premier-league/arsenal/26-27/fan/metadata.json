@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-third-26-27-torcedor-adidas-masculina",
+  "createdAt": "2026-07-04T18:41:31Z",
+  "updatedAt": "2026-07-04T20:32:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/front.webp",
+      "hash": "41cf1cf099e9dae3724fd3b34e9843af46f18796138528445980c06fc9407921",
+      "width": 480,
+      "height": 480,
+      "size": 10092,
+      "createdAt": "2026-07-04T18:41:30Z",
+      "updatedAt": "2026-07-04T20:32:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/back.webp",
+      "hash": "18c622f1e2671dfddd616debcab1220baaafc3a2c87cc92a2a9830b4db715bf6",
+      "width": 480,
+      "height": 480,
+      "size": 7092,
+      "createdAt": "2026-07-04T18:41:31Z",
+      "updatedAt": "2026-07-04T20:32:57Z"
+    }
+  ]
+}

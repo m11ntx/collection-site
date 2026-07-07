@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-i-retro-91-93-umbro-torcedor-masculina-amarelo-com-detalhes-em-verde",
+  "createdAt": "2026-07-04T17:30:35Z",
+  "updatedAt": "2026-07-04T17:30:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/front.webp",
+      "hash": "aafa4a543da1441ef0108e90e0640c62878844b0097bbc753cae8dbe09bcc617",
+      "width": 480,
+      "height": 480,
+      "size": 9324,
+      "createdAt": "2026-07-04T17:30:34Z",
+      "updatedAt": "2026-07-04T17:30:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/back.webp",
+      "hash": "15ab2d745e3f2ac231b1fc2268892adddef9117f088258c3706440482d2d176a",
+      "width": 480,
+      "height": 480,
+      "size": 11510,
+      "createdAt": "2026-07-04T17:30:34Z",
+      "updatedAt": "2026-07-04T17:30:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/detail-1.webp",
+      "hash": "bbe82d5c617a0e03007dae62ddb2cffda5c61f579ca8e9f3daf1e882a19beab8",
+      "width": 480,
+      "height": 480,
+      "size": 7516,
+      "createdAt": "2026-07-04T17:30:34Z",
+      "updatedAt": "2026-07-04T17:30:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/detail-2.webp",
+      "hash": "944e11e94fde180d56f647603e9aa6628e91b94d0d596e57480255e70560e5f9",
+      "width": 480,
+      "height": 480,
+      "size": 19368,
+      "createdAt": "2026-07-04T17:30:34Z",
+      "updatedAt": "2026-07-04T17:30:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/detail-3.webp",
+      "hash": "5fc2e291e4ffbfec33087be2032d084696d64e523b6b2364c09172ab206114d8",
+      "width": 480,
+      "height": 480,
+      "size": 75492,
+      "createdAt": "2026-07-04T17:30:34Z",
+      "updatedAt": "2026-07-04T17:30:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/detail-4.webp",
+      "hash": "867817a05456dc7680b3c027e174f485b121db8ccc32861c25e8095defcedf84",
+      "width": 480,
+      "height": 480,
+      "size": 61174,
+      "createdAt": "2026-07-04T17:30:35Z",
+      "updatedAt": "2026-07-04T17:30:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/91-93/fan/detail-5.webp",
+      "hash": "eab6dc57f0bee293a770225568bba49a9c64aac99496ffc57f74de682189bcc5",
+      "width": 480,
+      "height": 480,
+      "size": 25540,
+      "createdAt": "2026-07-04T17:30:35Z",
+      "updatedAt": "2026-07-04T17:30:35Z"
+    }
+  ]
+}

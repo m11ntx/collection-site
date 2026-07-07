@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina",
+  "createdAt": "2026-07-07T01:32:24Z",
+  "updatedAt": "2026-07-07T01:32:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/25-26/fan/camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina/front.webp",
+      "hash": "b16b356f61c10adcf54edf79b82da8d88a3542007f135d828399c5cd7379def0",
+      "width": 480,
+      "height": 480,
+      "size": 9828,
+      "createdAt": "2026-07-07T01:32:22Z",
+      "updatedAt": "2026-07-07T01:32:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/25-26/fan/camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina/back.webp",
+      "hash": "d7b39e1c884b07568dd67793247340a0229c22f1800abb0901d48efff0a1ba50",
+      "width": 480,
+      "height": 480,
+      "size": 37158,
+      "createdAt": "2026-07-07T01:32:22Z",
+      "updatedAt": "2026-07-07T01:32:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/25-26/fan/camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina/detail-1.webp",
+      "hash": "dccbf12619bb09d4569cb082b62810d3727aa7cb685411d058d4f6af173e853a",
+      "width": 480,
+      "height": 480,
+      "size": 17312,
+      "createdAt": "2026-07-07T01:32:23Z",
+      "updatedAt": "2026-07-07T01:32:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/25-26/fan/camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina/detail-2.webp",
+      "hash": "59a86d792c4ed80f2f92d586f558844ad9f8113e4ec45ade10203350edd8469d",
+      "width": 480,
+      "height": 480,
+      "size": 25156,
+      "createdAt": "2026-07-07T01:32:23Z",
+      "updatedAt": "2026-07-07T01:32:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/25-26/fan/camisa-bayern-de-munique-25-26-edicao-especial-classics-torcedor-adidas-masculina/detail-3.webp",
+      "hash": "9bc8d3c0f03e0b3df638bf1e7225c54e48187b14c0ac86020591f996ea18847c",
+      "width": 480,
+      "height": 480,
+      "size": 8972,
+      "createdAt": "2026-07-07T01:32:23Z",
+      "updatedAt": "2026-07-07T01:32:23Z"
+    }
+  ]
+}

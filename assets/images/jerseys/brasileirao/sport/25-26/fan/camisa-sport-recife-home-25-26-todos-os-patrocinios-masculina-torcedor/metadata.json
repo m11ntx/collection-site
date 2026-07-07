@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sport-recife-home-25-26-todos-os-patrocinios-masculina-torcedor",
+  "createdAt": "2026-07-05T16:55:47Z",
+  "updatedAt": "2026-07-05T16:55:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-sport-recife-home-25-26-todos-os-patrocinios-masculina-torcedor/front.webp",
+      "hash": "745496815da4eed468cf25a77d945055ebd6e0483441bb166123fb3870bf9184",
+      "width": 480,
+      "height": 480,
+      "size": 16726,
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-sport-recife-home-25-26-todos-os-patrocinios-masculina-torcedor/back.webp",
+      "hash": "03a3174b98418dfa53f718ffa7674afd28fd28aa778d28443dc3ceceb355b079",
+      "width": 480,
+      "height": 480,
+      "size": 10848,
+      "createdAt": "2026-07-05T16:55:47Z",
+      "updatedAt": "2026-07-05T16:55:47Z"
+    }
+  ]
+}

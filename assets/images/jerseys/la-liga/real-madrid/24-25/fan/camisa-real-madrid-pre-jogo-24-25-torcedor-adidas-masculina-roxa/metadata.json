@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-pre-jogo-24-25-torcedor-adidas-masculina-roxa",
+  "createdAt": "2026-07-07T01:34:14Z",
+  "updatedAt": "2026-07-07T01:34:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-pre-jogo-24-25-torcedor-adidas-masculina-roxa/front.webp",
+      "hash": "0aba7dbc38e85a1b9f9c917730621d4efdf343d997bfcf561d41b907628d8786",
+      "width": 480,
+      "height": 480,
+      "size": 15556,
+      "createdAt": "2026-07-07T01:34:13Z",
+      "updatedAt": "2026-07-07T01:34:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-pre-jogo-24-25-torcedor-adidas-masculina-roxa/back.webp",
+      "hash": "239db0f195922888750d567efbaf85909d0610c322babe778420ee0ccca0ae85",
+      "width": 480,
+      "height": 480,
+      "size": 13978,
+      "createdAt": "2026-07-07T01:34:14Z",
+      "updatedAt": "2026-07-07T01:34:14Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-athletico-paranaense-i-24-25-torcedor-umbro-masculina-vermelha-com-detalhes-em-marrom-e-com-patrocinio",
+  "createdAt": "2026-07-04T20:14:26Z",
+  "updatedAt": "2026-07-04T21:11:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/front.webp",
+      "hash": "99e8757f33ef9abdf21f0be8342b3598a9b279e1302c4bec981c57221e27a40e",
+      "width": 480,
+      "height": 480,
+      "size": 14838,
+      "createdAt": "2026-07-04T20:14:26Z",
+      "updatedAt": "2026-07-04T21:11:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/back.webp",
+      "hash": "5f607dd90ad1a49836ff4d79832758cb6766cd54ce13c7e1a2daae627fcc6b45",
+      "width": 480,
+      "height": 480,
+      "size": 7526,
+      "createdAt": "2026-07-04T20:14:26Z",
+      "updatedAt": "2026-07-04T21:11:15Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-2012-2013-manga-longa-adidas-masculina-verde-com-detalhes-em-branco",
+  "createdAt": "2026-07-04T18:12:45Z",
+  "updatedAt": "2026-07-04T20:20:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/front.webp",
+      "hash": "2c6616ecff3e85c38fa899e145901156605e32a7a00a7891023e67e0c83eec41",
+      "width": 480,
+      "height": 480,
+      "size": 11624,
+      "createdAt": "2026-07-04T18:12:42Z",
+      "updatedAt": "2026-07-04T20:20:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/back.webp",
+      "hash": "1c2e7997b507b6166e854fabd03b89fccc51cc1bd7810ac42f9116e0471bfdde",
+      "width": 480,
+      "height": 480,
+      "size": 6478,
+      "createdAt": "2026-07-04T18:12:43Z",
+      "updatedAt": "2026-07-04T20:20:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/detail-1.webp",
+      "hash": "8e0ca52e45b9146f1d56ecf0b14e41ccb21d031f35ee5477c7e37514188e18fe",
+      "width": 480,
+      "height": 480,
+      "size": 15564,
+      "createdAt": "2026-07-04T18:12:43Z",
+      "updatedAt": "2026-07-04T20:20:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/detail-2.webp",
+      "hash": "41b02253961062b9628fbeeac79a2aa8046d0c938bdf89cffca440a452cd0df3",
+      "width": 480,
+      "height": 480,
+      "size": 82608,
+      "createdAt": "2026-07-04T18:12:44Z",
+      "updatedAt": "2026-07-04T20:20:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/detail-3.webp",
+      "hash": "d7cde4399e1cb271f41debf97258f85220c082f5f13d285abdc3e2d25b4099c6",
+      "width": 480,
+      "height": 480,
+      "size": 83648,
+      "createdAt": "2026-07-04T18:12:45Z",
+      "updatedAt": "2026-07-04T20:20:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/detail-4.webp",
+      "hash": "c4f0594f9b385a2c6736d9b22b2d0248639ac4ce7dfd5437c373b5691c2c4bf3",
+      "width": 480,
+      "height": 480,
+      "size": 23770,
+      "createdAt": "2026-07-04T18:12:45Z",
+      "updatedAt": "2026-07-04T20:20:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2012-2013/sem-versao/detail-5.webp",
+      "hash": "f25a70f025dfa8e8bffeec2a8b84ceb35d2991ea36d3f3679b7896f07acfd4c3",
+      "width": 480,
+      "height": 480,
+      "size": 16264,
+      "createdAt": "2026-07-04T20:20:07Z",
+      "updatedAt": "2026-07-04T20:20:07Z"
+    }
+  ]
+}

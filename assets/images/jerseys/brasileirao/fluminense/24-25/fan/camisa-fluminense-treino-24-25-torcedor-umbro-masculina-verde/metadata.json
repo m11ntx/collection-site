@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde",
+  "createdAt": "2026-07-05T16:04:57Z",
+  "updatedAt": "2026-07-05T16:04:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/front.webp",
+      "hash": "96f21ac23a6ce76ca7619dae789ac811b18dec5567f19b1e2346751d8057a8c8",
+      "width": 480,
+      "height": 480,
+      "size": 16442,
+      "createdAt": "2026-07-05T16:04:56Z",
+      "updatedAt": "2026-07-05T16:04:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/back.webp",
+      "hash": "844c4c7f3e0fbe5dc76b17c4018abc81ec90fe61bb8deda1f5f0c099726fbe25",
+      "width": 480,
+      "height": 480,
+      "size": 37642,
+      "createdAt": "2026-07-05T16:04:56Z",
+      "updatedAt": "2026-07-05T16:04:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/detail-1.webp",
+      "hash": "c94e9840d9591469d88791a00821b0854936aeea557c12c4f1b9d40722aac743",
+      "width": 480,
+      "height": 480,
+      "size": 12112,
+      "createdAt": "2026-07-05T16:04:56Z",
+      "updatedAt": "2026-07-05T16:04:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/detail-2.webp",
+      "hash": "d84b4fc4ec9eaf79272c87a31f470a8a4e77ac22b8172751cb873f19e9091e54",
+      "width": 480,
+      "height": 480,
+      "size": 76610,
+      "createdAt": "2026-07-05T16:04:56Z",
+      "updatedAt": "2026-07-05T16:04:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/detail-3.webp",
+      "hash": "de88f35a43e568a63ff89ba46ef6d4c501b4679f811afb0718ab7ae4dbc20c4d",
+      "width": 480,
+      "height": 480,
+      "size": 74482,
+      "createdAt": "2026-07-05T16:04:56Z",
+      "updatedAt": "2026-07-05T16:04:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/24-25/fan/camisa-fluminense-treino-24-25-torcedor-umbro-masculina-verde/detail-4.webp",
+      "hash": "636ae5848c5519f434aa4c96a9444e08f77ffbff6c2afad3954a2e4014a72c37",
+      "width": 480,
+      "height": 480,
+      "size": 27004,
+      "createdAt": "2026-07-05T16:04:57Z",
+      "updatedAt": "2026-07-05T16:04:57Z"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "productId": "source-jaqueta-adidas-flamengo-dna-preta-e-vermelha",
+  "createdAt": "2026-07-04T18:27:31Z",
+  "updatedAt": "2026-07-04T20:32:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/sem-temporada/sem-versao/front.webp",
+      "hash": "c72f88dcddcc438463456d0f008353e981ecfe7798abf959efe54dad02a513a7",
+      "width": 480,
+      "height": 480,
+      "size": 9208,
+      "createdAt": "2026-07-04T18:27:31Z",
+      "updatedAt": "2026-07-04T20:32:45Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-ii-26-27-torcedor-masculina-branca",
+  "createdAt": "2026-07-05T06:09:15Z",
+  "updatedAt": "2026-07-05T06:09:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-ii-26-27-torcedor-masculina-branca/front.webp",
+      "hash": "0c869756590f25864328f62a67e0b50cdeade82f335f9e9e2e32e76556571d37",
+      "width": 480,
+      "height": 480,
+      "size": 7844,
+      "createdAt": "2026-07-05T06:09:15Z",
+      "updatedAt": "2026-07-05T06:09:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-ii-26-27-torcedor-masculina-branca/back.webp",
+      "hash": "3291246b16c23e12fac23ac6fa16029e626394ceea94c12272985b2f63966dd4",
+      "width": 480,
+      "height": 480,
+      "size": 3964,
+      "createdAt": "2026-07-05T06:09:15Z",
+      "updatedAt": "2026-07-05T06:09:15Z"
+    }
+  ]
+}

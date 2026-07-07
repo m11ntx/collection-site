@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-ii-10-11-masculina-nike-verde",
+  "createdAt": "2026-07-04T17:39:09Z",
+  "updatedAt": "2026-07-04T21:07:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/front.webp",
+      "hash": "e6db86712a791d1bf74593243640a8c24a1dfa5d537b39f133dc9b6298188933",
+      "width": 480,
+      "height": 480,
+      "size": 8988,
+      "createdAt": "2026-07-04T17:39:06Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/back.webp",
+      "hash": "a284a2dd17d1fd5dcdb383a5aa77ea4ef4c101dc6818d811e34aaa576ebb8087",
+      "width": 480,
+      "height": 480,
+      "size": 6418,
+      "createdAt": "2026-07-04T17:39:06Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/detail-1.webp",
+      "hash": "f68f4c2320f1624c2fbcbabfa082558db0a8ef733710190a12550f8db2ed0bb0",
+      "width": 480,
+      "height": 480,
+      "size": 16424,
+      "createdAt": "2026-07-04T17:39:07Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/detail-2.webp",
+      "hash": "dcae820490c0a30abbb66aa23eb0c23ed21616931830269eb46c48569fad4029",
+      "width": 480,
+      "height": 480,
+      "size": 75840,
+      "createdAt": "2026-07-04T17:39:07Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/detail-3.webp",
+      "hash": "6cb487b3baf337a28355eee6e12e391edcc9226b43ada571a600e302f6131856",
+      "width": 480,
+      "height": 480,
+      "size": 71846,
+      "createdAt": "2026-07-04T17:39:08Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/detail-4.webp",
+      "hash": "5176a409bda62ed27c701658d2b23f21ed04a9ecf9880b3a39205ad74df00cff",
+      "width": 480,
+      "height": 480,
+      "size": 24626,
+      "createdAt": "2026-07-04T17:39:08Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/10-11/sem-versao/detail-5.webp",
+      "hash": "48e831166997b314a2cfb5698174886d14f98b5bb0c62ce29fddec0a2829e761",
+      "width": 480,
+      "height": 480,
+      "size": 19046,
+      "createdAt": "2026-07-04T17:39:09Z",
+      "updatedAt": "2026-07-04T21:07:52Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-flamengo-retro-2018-2019-vermelha-e-preta-adidas",
+  "createdAt": "2026-07-04T17:20:20Z",
+  "updatedAt": "2026-07-04T17:20:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2018-2019/sem-versao/front.webp",
+      "hash": "93868cef058165976643d2c5d9269b8773fa6b4bd8d24cb44122436c31eb3d0a",
+      "width": 480,
+      "height": 480,
+      "size": 13762,
+      "createdAt": "2026-07-04T17:20:18Z",
+      "updatedAt": "2026-07-04T17:20:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2018-2019/sem-versao/back.webp",
+      "hash": "9834b2ebe9bdd3c616cd83e9b67e5b731aef8c612d03c3e5dbb4515ffdb32605",
+      "width": 480,
+      "height": 480,
+      "size": 10624,
+      "createdAt": "2026-07-04T17:20:18Z",
+      "updatedAt": "2026-07-04T17:20:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2018-2019/sem-versao/detail-1.webp",
+      "hash": "10621d47a0653dc6ae1554eb6b5edafa5c4cf3fc7c9a3118d8a99b20eb946d70",
+      "width": 480,
+      "height": 480,
+      "size": 47072,
+      "createdAt": "2026-07-04T17:20:19Z",
+      "updatedAt": "2026-07-04T17:20:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2018-2019/sem-versao/detail-2.webp",
+      "hash": "c11fcd1da538e7d41fbf266fb67f72c73f804740121cc75f81365c4dcd360132",
+      "width": 480,
+      "height": 480,
+      "size": 24428,
+      "createdAt": "2026-07-04T17:20:19Z",
+      "updatedAt": "2026-07-04T17:20:19Z"
+    }
+  ]
+}

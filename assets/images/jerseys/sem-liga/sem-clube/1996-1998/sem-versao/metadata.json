@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-escocia-retro-1996-1998-amarela-umbro",
+  "createdAt": "2026-07-04T17:19:30Z",
+  "updatedAt": "2026-07-04T21:03:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/front.webp",
+      "hash": "b28727aec5368dd350a084f9b453ab8436eb43ab72da25b93b7d2fcca841ca26",
+      "width": 480,
+      "height": 480,
+      "size": 13656,
+      "createdAt": "2026-07-04T17:19:27Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/back.webp",
+      "hash": "44c7433a54b8e5615fd4a7c52974056da67d3728dde3827b1097fe5037219f24",
+      "width": 480,
+      "height": 480,
+      "size": 9300,
+      "createdAt": "2026-07-04T17:19:28Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/detail-1.webp",
+      "hash": "762a2b2ae50ec5b7373c7683b602a42a0c432754b6a7381a2c604f8f289e6ea4",
+      "width": 480,
+      "height": 480,
+      "size": 30296,
+      "createdAt": "2026-07-04T17:19:28Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/detail-2.webp",
+      "hash": "b67066e0028c395d5af849c1f188d64810e61e4cb3de9f67b2990351ff247708",
+      "width": 480,
+      "height": 480,
+      "size": 19132,
+      "createdAt": "2026-07-04T17:19:29Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/detail-3.webp",
+      "hash": "e4e088497c4065c286a99eae96cba302e58fce54258608ce9eb19f087a25484f",
+      "width": 480,
+      "height": 480,
+      "size": 25162,
+      "createdAt": "2026-07-04T17:19:29Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/detail-4.webp",
+      "hash": "e5226c3c45274ab5b4f782210fac7c83446845e6ed2be8c9193bf76741ed8ff6",
+      "width": 480,
+      "height": 480,
+      "size": 30094,
+      "createdAt": "2026-07-04T17:19:29Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/1996-1998/sem-versao/detail-5.webp",
+      "hash": "7baabf6bac4ecd98a18aaace70a2c726a325c7f54ccb5305d8b9c05c7fdd8d1c",
+      "width": 480,
+      "height": 480,
+      "size": 23416,
+      "createdAt": "2026-07-04T17:19:30Z",
+      "updatedAt": "2026-07-04T21:03:58Z"
+    }
+  ]
+}

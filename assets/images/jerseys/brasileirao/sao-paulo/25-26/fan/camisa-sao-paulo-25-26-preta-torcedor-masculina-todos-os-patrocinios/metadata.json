@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sao-paulo-25-26-preta-torcedor-masculina-todos-os-patrocinios",
+  "createdAt": "2026-07-06T02:11:01Z",
+  "updatedAt": "2026-07-06T02:11:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-preta-torcedor-masculina-todos-os-patrocinios/front.webp",
+      "hash": "36e2571c4b977ab51c388749299be7f666f91ead0547d742589d68f99e61dd36",
+      "width": 480,
+      "height": 480,
+      "size": 13012,
+      "createdAt": "2026-07-06T02:11:01Z",
+      "updatedAt": "2026-07-06T02:11:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/25-26/fan/camisa-sao-paulo-25-26-preta-torcedor-masculina-todos-os-patrocinios/back.webp",
+      "hash": "7e4318300c2802b15078beb1461a2a1c470bbb5a064217059e9aea685172a273",
+      "width": 480,
+      "height": 480,
+      "size": 11072,
+      "createdAt": "2026-07-06T02:11:01Z",
+      "updatedAt": "2026-07-06T02:11:01Z"
+    }
+  ]
+}

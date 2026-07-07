@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-city-retro-2011-2012-azul-umbro",
+  "createdAt": "2026-07-04T17:24:40Z",
+  "updatedAt": "2026-07-04T17:24:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/front.webp",
+      "hash": "1f4c7a12781bfbeb00408b7f6fafb0faea22f7cbf25dc024568062a96b648a17",
+      "width": 480,
+      "height": 480,
+      "size": 21006,
+      "createdAt": "2026-07-04T17:24:38Z",
+      "updatedAt": "2026-07-04T17:24:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/back.webp",
+      "hash": "3a6e123ee95952194e5c569474cccce9713b2b7c327f8b1601392a53dd8f1b7d",
+      "width": 480,
+      "height": 480,
+      "size": 8176,
+      "createdAt": "2026-07-04T17:24:38Z",
+      "updatedAt": "2026-07-04T17:24:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/detail-1.webp",
+      "hash": "3caf615f9d171e99c182c686c910bea60bc280e0a6047c400ba62689cac23ae2",
+      "width": 480,
+      "height": 480,
+      "size": 47624,
+      "createdAt": "2026-07-04T17:24:38Z",
+      "updatedAt": "2026-07-04T17:24:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/detail-2.webp",
+      "hash": "0ae92e94283f62d2fdcf1d6aa84a609efe19ff100f9959e59da14fe0ce52de1d",
+      "width": 480,
+      "height": 480,
+      "size": 70602,
+      "createdAt": "2026-07-04T17:24:39Z",
+      "updatedAt": "2026-07-04T17:24:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/detail-3.webp",
+      "hash": "1bf4b47e273e085fb3f5f7fb62b097e7d32b1f0c72617c784d5b8ae7dfc05749",
+      "width": 480,
+      "height": 480,
+      "size": 29146,
+      "createdAt": "2026-07-04T17:24:39Z",
+      "updatedAt": "2026-07-04T17:24:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/detail-4.webp",
+      "hash": "8d076ef4025e50bd9b83cf4d79714f2dab6af2934e8d24dd1c47cef3f832aab2",
+      "width": 480,
+      "height": 480,
+      "size": 58430,
+      "createdAt": "2026-07-04T17:24:39Z",
+      "updatedAt": "2026-07-04T17:24:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-city/2011-2012/sem-versao/detail-5.webp",
+      "hash": "d3d3b9c9eb97612106668860f7f22d681e6d12205c6c1d7884f15087aa375bd6",
+      "width": 480,
+      "height": 480,
+      "size": 22854,
+      "createdAt": "2026-07-04T17:24:39Z",
+      "updatedAt": "2026-07-04T17:24:39Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde",
+  "createdAt": "2026-07-05T06:21:22Z",
+  "updatedAt": "2026-07-05T06:21:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde/front.webp",
+      "hash": "a2d7d214f2c78f8e65d7755220fd5ddc119a2286c807dfd71602b849ddfc1069",
+      "width": 480,
+      "height": 480,
+      "size": 9870,
+      "createdAt": "2026-07-05T06:21:21Z",
+      "updatedAt": "2026-07-05T06:21:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde/back.webp",
+      "hash": "7ede13d1d0176729cde51abbb8fbede22e0c14ebb704f21c7f88743784e2cd7c",
+      "width": 480,
+      "height": 480,
+      "size": 6792,
+      "createdAt": "2026-07-05T06:21:21Z",
+      "updatedAt": "2026-07-05T06:21:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde/detail-1.webp",
+      "hash": "38570bdb873ab0f10d8dfd08268b41af93aa610f5eeb1de895f6b72134cf4e43",
+      "width": 360,
+      "height": 360,
+      "size": 35390,
+      "createdAt": "2026-07-05T06:21:21Z",
+      "updatedAt": "2026-07-05T06:21:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde/detail-2.webp",
+      "hash": "275f040320f7a3cb7a29b5cbc3ba5e6ab829eee7595375ef3146262ab8df5214",
+      "width": 360,
+      "height": 360,
+      "size": 36782,
+      "createdAt": "2026-07-05T06:21:21Z",
+      "updatedAt": "2026-07-05T06:21:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-masculina-dourada-com-detalhes-em-verde/detail-3.webp",
+      "hash": "e3d27799acba083f2164e8c8636b3cb3b61d5768cd5e884e2faf56465b31e5dd",
+      "width": 360,
+      "height": 360,
+      "size": 49618,
+      "createdAt": "2026-07-05T06:21:22Z",
+      "updatedAt": "2026-07-05T06:21:22Z"
+    }
+  ]
+}

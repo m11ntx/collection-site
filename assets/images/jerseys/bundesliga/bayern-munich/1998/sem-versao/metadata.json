@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-1998-masculina-adidas",
+  "createdAt": "2026-07-04T18:31:50Z",
+  "updatedAt": "2026-07-04T18:31:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1998/sem-versao/front.webp",
+      "hash": "0d65c2e529c67089571c21b591f46d5d79d77659498d7c842c7d29f0bca776d4",
+      "width": 480,
+      "height": 480,
+      "size": 12422,
+      "createdAt": "2026-07-04T18:31:48Z",
+      "updatedAt": "2026-07-04T18:31:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1998/sem-versao/back.webp",
+      "hash": "1d7380492c810b3e4af9237882282174305b4c71bf1a16ca8f8e87ae921ed80a",
+      "width": 480,
+      "height": 480,
+      "size": 12206,
+      "createdAt": "2026-07-04T18:31:49Z",
+      "updatedAt": "2026-07-04T18:31:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1998/sem-versao/detail-1.webp",
+      "hash": "06a45739e2a675416e720a3961265904bf69cbb99f11009d73033f67bfd7a245",
+      "width": 480,
+      "height": 480,
+      "size": 16988,
+      "createdAt": "2026-07-04T18:31:49Z",
+      "updatedAt": "2026-07-04T18:31:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1998/sem-versao/detail-2.webp",
+      "hash": "7aafbeec75072b355f2d5f30f3868514c9c203b18f2a18891d8ae1523b4bbb59",
+      "width": 480,
+      "height": 480,
+      "size": 67516,
+      "createdAt": "2026-07-04T18:31:50Z",
+      "updatedAt": "2026-07-04T18:31:50Z"
+    }
+  ]
+}

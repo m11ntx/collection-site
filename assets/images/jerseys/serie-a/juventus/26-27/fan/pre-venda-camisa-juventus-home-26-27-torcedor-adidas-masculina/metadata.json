@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-juventus-home-26-27-torcedor-adidas-masculina",
+  "createdAt": "2026-07-07T01:34:34Z",
+  "updatedAt": "2026-07-07T01:34:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/26-27/fan/pre-venda-camisa-juventus-home-26-27-torcedor-adidas-masculina/front.webp",
+      "hash": "0c92dd86898303379e396c762a07675f3e48682533d15e1d1041df0d81af421e",
+      "width": 480,
+      "height": 480,
+      "size": 10000,
+      "createdAt": "2026-07-07T01:34:33Z",
+      "updatedAt": "2026-07-07T01:34:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/26-27/fan/pre-venda-camisa-juventus-home-26-27-torcedor-adidas-masculina/back.webp",
+      "hash": "430660498069135d0228a2c26d4d9d79f9267bee272647c6334b844bb0215871",
+      "width": 480,
+      "height": 480,
+      "size": 3976,
+      "createdAt": "2026-07-07T01:34:34Z",
+      "updatedAt": "2026-07-07T01:34:34Z"
+    }
+  ]
+}

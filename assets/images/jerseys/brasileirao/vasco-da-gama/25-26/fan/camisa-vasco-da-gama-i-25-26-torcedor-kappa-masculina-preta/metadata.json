@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-vasco-da-gama-i-25-26-torcedor-kappa-masculina-preta",
+  "createdAt": "2026-07-05T16:03:41Z",
+  "updatedAt": "2026-07-05T16:03:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/25-26/fan/camisa-vasco-da-gama-i-25-26-torcedor-kappa-masculina-preta/front.webp",
+      "hash": "5af158fb079345acea5c46b9921d12baacb66d397765e33753e8af46b44e7ad2",
+      "width": 480,
+      "height": 480,
+      "size": 9002,
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/25-26/fan/camisa-vasco-da-gama-i-25-26-torcedor-kappa-masculina-preta/back.webp",
+      "hash": "b35d285bc8d6b68e8d32a472020540841c6bf1681592a7590812778a2a50dac5",
+      "width": 480,
+      "height": 480,
+      "size": 4812,
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/25-26/fan/camisa-vasco-da-gama-i-25-26-torcedor-kappa-masculina-preta/detail-1.webp",
+      "hash": "618b8b3703fe8faac9c4c17695ee4b57840f49f6c73a387b8bc917d256b83042",
+      "width": 480,
+      "height": 480,
+      "size": 31252,
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
+    }
+  ]
+}

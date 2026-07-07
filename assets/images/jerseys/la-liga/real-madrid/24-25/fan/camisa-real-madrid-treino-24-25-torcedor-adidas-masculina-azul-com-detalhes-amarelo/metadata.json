@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-azul-com-detalhes-amarelo",
+  "createdAt": "2026-07-07T01:34:16Z",
+  "updatedAt": "2026-07-07T01:34:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-azul-com-detalhes-amarelo/front.webp",
+      "hash": "ce7e97b4602b498874a2151e0990c89051086f4f4d4daa3befe410c2e7a4f8ba",
+      "width": 480,
+      "height": 480,
+      "size": 7920,
+      "createdAt": "2026-07-07T01:34:16Z",
+      "updatedAt": "2026-07-07T01:34:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-azul-com-detalhes-amarelo/back.webp",
+      "hash": "be4c7f2b90ff72a50389138ba319bc075caeb530effe967a5f6d31ec1ddf5108",
+      "width": 480,
+      "height": 480,
+      "size": 4884,
+      "createdAt": "2026-07-07T01:34:16Z",
+      "updatedAt": "2026-07-07T01:34:16Z"
+    }
+  ]
+}

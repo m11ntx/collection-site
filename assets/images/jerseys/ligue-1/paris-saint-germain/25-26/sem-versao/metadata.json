@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-de-inverno-paris-saint-germain-treino-25-26-masculino-nike-branco-com-detalhes-em-prteto",
+  "createdAt": "2026-07-04T18:29:59Z",
+  "updatedAt": "2026-07-04T20:27:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/sem-versao/front.webp",
+      "hash": "583263532c6f9f9cd98a4729a48b92632be7f2f54eda2324b156130526ff2921",
+      "width": 480,
+      "height": 480,
+      "size": 12710,
+      "createdAt": "2026-07-04T18:29:58Z",
+      "updatedAt": "2026-07-04T20:27:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/sem-versao/back.webp",
+      "hash": "c16d3eec092dac0d694e72f999762ff41b463bfce0fa221b9bef8f7721c5dce6",
+      "width": 480,
+      "height": 480,
+      "size": 9028,
+      "createdAt": "2026-07-04T18:29:58Z",
+      "updatedAt": "2026-07-04T20:27:17Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-05T16:55:10Z",
+  "updatedAt": "2026-07-05T16:55:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-home-26-27-torcedor-masculina/front.webp",
+      "hash": "2d5763304f0a88b20081896d80d2178e8af63c1f5ec5fb4a82ed60e5b40f9a23",
+      "width": 480,
+      "height": 480,
+      "size": 10052,
+      "createdAt": "2026-07-05T16:55:10Z",
+      "updatedAt": "2026-07-05T16:55:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-home-26-27-torcedor-masculina/back.webp",
+      "hash": "c20451dffc3abfb5a67fbd5f94d0b712f9a42c534dce0ece7506aa2be17b952b",
+      "width": 480,
+      "height": 480,
+      "size": 3962,
+      "createdAt": "2026-07-05T16:55:10Z",
+      "updatedAt": "2026-07-05T16:55:10Z"
+    }
+  ]
+}
