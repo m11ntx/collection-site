@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-al-nassr-i-25-26-torcedor-adidas-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T05:04:30Z",
+  "updatedAt": "2026-07-07T05:04:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/25-26/fan/camisa-al-nassr-i-25-26-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/front.webp",
+      "hash": "3316e3da463b519e90a37c3a926264dd31b5b34e21fe8355e619f44a675bb0e0",
+      "width": 480,
+      "height": 480,
+      "size": 13660,
+      "createdAt": "2026-07-07T05:04:30Z",
+      "updatedAt": "2026-07-07T05:04:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/25-26/fan/camisa-al-nassr-i-25-26-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/back.webp",
+      "hash": "f03a0ad75d793508552c4d2b9bc93fa613050cfbf9d2687db9013646d5d752c6",
+      "width": 480,
+      "height": 480,
+      "size": 5154,
+      "createdAt": "2026-07-07T05:04:30Z",
+      "updatedAt": "2026-07-07T05:04:30Z"
+    }
+  ]
+}

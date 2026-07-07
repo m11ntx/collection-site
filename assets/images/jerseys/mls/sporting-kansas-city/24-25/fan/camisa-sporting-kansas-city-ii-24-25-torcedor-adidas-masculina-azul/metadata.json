@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-07T05:05:52Z",
+  "updatedAt": "2026-07-07T05:05:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/sporting-kansas-city/24-25/fan/camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "ebd4871aa6ac20353d7bd8a7c70a4ea6e166174023b9670974ac2491e7e4c937",
+      "width": 480,
+      "height": 480,
+      "size": 15278,
+      "createdAt": "2026-07-07T05:05:51Z",
+      "updatedAt": "2026-07-07T05:05:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/sporting-kansas-city/24-25/fan/camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "0bedfef8704dd1e6eeda3c42332e9168e7dc20eedb622275d0b7f2ee5a48fbed",
+      "width": 480,
+      "height": 480,
+      "size": 10388,
+      "createdAt": "2026-07-07T05:05:51Z",
+      "updatedAt": "2026-07-07T05:05:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/sporting-kansas-city/24-25/fan/camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul/detail-1.webp",
+      "hash": "1edf8c491b2610006f0eeed1de2fdd21b9a4f140f1daff61604f57561120b67f",
+      "width": 480,
+      "height": 600,
+      "size": 49042,
+      "createdAt": "2026-07-07T05:05:51Z",
+      "updatedAt": "2026-07-07T05:05:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/sporting-kansas-city/24-25/fan/camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul/detail-2.webp",
+      "hash": "fe8b23140afd095ddecced8f635ee63b7a034c845f78f41f756e7838f27031de",
+      "width": 480,
+      "height": 480,
+      "size": 36784,
+      "createdAt": "2026-07-07T05:05:52Z",
+      "updatedAt": "2026-07-07T05:05:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/sporting-kansas-city/24-25/fan/camisa-sporting-kansas-city-ii-24-25-torcedor-adidas-masculina-azul/detail-3.webp",
+      "hash": "ee47f3634ce3d0a73ff5736e7f0cb36fd0a5b541ca45795db481306e55698b4b",
+      "width": 480,
+      "height": 480,
+      "size": 28738,
+      "createdAt": "2026-07-07T05:05:52Z",
+      "updatedAt": "2026-07-07T05:05:52Z"
+    }
+  ]
+}

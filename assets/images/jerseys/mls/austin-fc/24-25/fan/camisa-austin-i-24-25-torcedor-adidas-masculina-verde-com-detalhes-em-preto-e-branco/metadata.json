@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-austin-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-preto-e-branco",
+  "createdAt": "2026-07-07T05:04:41Z",
+  "updatedAt": "2026-07-07T05:04:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/austin-fc/24-25/fan/camisa-austin-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-preto-e-branco/front.webp",
+      "hash": "d33e38825ddad255e034caad37dd4a914eb088ce9fe2a659e14079a7d0c71ffc",
+      "width": 480,
+      "height": 480,
+      "size": 16076,
+      "createdAt": "2026-07-07T05:04:40Z",
+      "updatedAt": "2026-07-07T05:04:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/austin-fc/24-25/fan/camisa-austin-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-preto-e-branco/back.webp",
+      "hash": "013a7921ebafbdbb9c19b53f52994d6ea57784c64ff142dc13ee1561f5947553",
+      "width": 480,
+      "height": 480,
+      "size": 9132,
+      "createdAt": "2026-07-07T05:04:41Z",
+      "updatedAt": "2026-07-07T05:04:41Z"
+    }
+  ]
+}

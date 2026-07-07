@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-penarol-i-2024-25-torcedor-masculina-amarela-e-preta",
+  "createdAt": "2026-07-07T05:05:33Z",
+  "updatedAt": "2026-07-07T05:05:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/penarol/2024-25/fan/camisa-penarol-i-2024-25-torcedor-masculina-amarela-e-preta/front.webp",
+      "hash": "58d7a392ad626d07c1a23a8b5278403c221ce781a8422147f05f9d9c72a1d657",
+      "width": 480,
+      "height": 480,
+      "size": 13718,
+      "createdAt": "2026-07-07T05:05:33Z",
+      "updatedAt": "2026-07-07T05:05:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/penarol/2024-25/fan/camisa-penarol-i-2024-25-torcedor-masculina-amarela-e-preta/back.webp",
+      "hash": "dfa194d9cfd874eea5ce92fff9313f8edfa4e02ea18ac3eeced52f6c63514423",
+      "width": 480,
+      "height": 480,
+      "size": 10334,
+      "createdAt": "2026-07-07T05:05:33Z",
+      "updatedAt": "2026-07-07T05:05:33Z"
+    }
+  ]
+}

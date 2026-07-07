@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-inter-miami-iii-24-25-torcedor-adidas-masculina-verde",
+  "createdAt": "2026-07-07T05:05:18Z",
+  "updatedAt": "2026-07-07T05:05:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-iii-24-25-torcedor-adidas-masculina-verde/front.webp",
+      "hash": "84f3cfd0410fb60bce7965b39deb82e26e8ea702b62a533f61103dc13b115edb",
+      "width": 480,
+      "height": 480,
+      "size": 10138,
+      "createdAt": "2026-07-07T05:05:17Z",
+      "updatedAt": "2026-07-07T05:05:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-iii-24-25-torcedor-adidas-masculina-verde/back.webp",
+      "hash": "f7cdc446c42174b9ff38c65a784e193f07845a29b0cbbe6872c707dc52952de3",
+      "width": 480,
+      "height": 480,
+      "size": 6528,
+      "createdAt": "2026-07-07T05:05:18Z",
+      "updatedAt": "2026-07-07T05:05:18Z"
+    }
+  ]
+}

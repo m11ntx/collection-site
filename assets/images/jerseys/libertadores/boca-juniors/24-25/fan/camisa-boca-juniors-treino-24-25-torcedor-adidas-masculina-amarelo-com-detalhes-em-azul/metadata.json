@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-treino-24-25-torcedor-adidas-masculina-amarelo-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T05:04:46Z",
+  "updatedAt": "2026-07-07T05:04:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-treino-24-25-torcedor-adidas-masculina-amarelo-com-detalhes-em-azul/front.webp",
+      "hash": "26158f742569e35c4f05a9c7780408d5809bf6dfab6de9aafa4a3232faa4ce71",
+      "width": 480,
+      "height": 480,
+      "size": 7764,
+      "createdAt": "2026-07-07T05:04:45Z",
+      "updatedAt": "2026-07-07T05:04:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-treino-24-25-torcedor-adidas-masculina-amarelo-com-detalhes-em-azul/back.webp",
+      "hash": "6968a6fe05fc40a2bede0fb4f45d992bdaabf6831397ac267a132887aa12cf14",
+      "width": 480,
+      "height": 480,
+      "size": 6576,
+      "createdAt": "2026-07-07T05:04:46Z",
+      "updatedAt": "2026-07-07T05:04:46Z"
+    }
+  ]
+}

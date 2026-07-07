@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-inter-miami-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa",
+  "createdAt": "2026-07-07T05:05:17Z",
+  "updatedAt": "2026-07-07T05:05:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/front.webp",
+      "hash": "2f6f28629522a7a9928ec41a64fc841a1ea862542cb55571d1e988528b6f7690",
+      "width": 480,
+      "height": 480,
+      "size": 8328,
+      "createdAt": "2026-07-07T05:05:17Z",
+      "updatedAt": "2026-07-07T05:05:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/back.webp",
+      "hash": "d8cae396c1921584513fe325c5ae0ce48ac174be3db9c2ee62ed7c95334af6ba",
+      "width": 480,
+      "height": 480,
+      "size": 7636,
+      "createdAt": "2026-07-07T05:05:17Z",
+      "updatedAt": "2026-07-07T05:05:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-rosa/detail-1.webp",
+      "hash": "59ff31f27c64abb818788b162595784e2f3fb78b5790dc5da0afeb5cc5afe3fe",
+      "width": 480,
+      "height": 480,
+      "size": 23192,
+      "createdAt": "2026-07-07T05:05:17Z",
+      "updatedAt": "2026-07-07T05:05:17Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde",
+  "createdAt": "2026-07-07T05:05:39Z",
+  "updatedAt": "2026-07-07T05:05:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde/front.webp",
+      "hash": "95c2cbc30cd1da384b11ad3b7aa6340dfe594e17ec698ead0cb33df5703f14d4",
+      "width": 480,
+      "height": 480,
+      "size": 15880,
+      "createdAt": "2026-07-07T05:05:38Z",
+      "updatedAt": "2026-07-07T05:05:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde/back.webp",
+      "hash": "05f4805f25432161bd6d16caca370d2e743af9924e4f3ebd715e4ada197080e9",
+      "width": 480,
+      "height": 480,
+      "size": 6962,
+      "createdAt": "2026-07-07T05:05:38Z",
+      "updatedAt": "2026-07-07T05:05:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde/detail-1.webp",
+      "hash": "aceb9e9da6a9a27ade6754065fe32abac339003347c670f1210d8dabcada844a",
+      "width": 480,
+      "height": 480,
+      "size": 36982,
+      "createdAt": "2026-07-07T05:05:38Z",
+      "updatedAt": "2026-07-07T05:05:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde/detail-2.webp",
+      "hash": "6087b39bf7c64100b8a2f37035a8b99d8b37f2837adbb943a9d3d84c15323a49",
+      "width": 480,
+      "height": 480,
+      "size": 34680,
+      "createdAt": "2026-07-07T05:05:38Z",
+      "updatedAt": "2026-07-07T05:05:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-ii-24-25-torcedor-adidas-masculina-bege-com-detalhes-em-verde/detail-3.webp",
+      "hash": "c4e1b7c26ff1a5eac6bac1d6d890a8f2ee7412eba18a70fcd6fcdf926fdfc190",
+      "width": 480,
+      "height": 480,
+      "size": 47406,
+      "createdAt": "2026-07-07T05:05:38Z",
+      "updatedAt": "2026-07-07T05:05:38Z"
+    }
+  ]
+}

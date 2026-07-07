@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-regata-river-plate-treino-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-laranja",
+  "createdAt": "2026-07-07T05:05:40Z",
+  "updatedAt": "2026-07-07T05:05:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-regata-river-plate-treino-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-laranja/front.webp",
+      "hash": "0878bb04fbd8674f115d25bb563daacbac39310896d1765877253cc58911abe7",
+      "width": 480,
+      "height": 480,
+      "size": 4538,
+      "createdAt": "2026-07-07T05:05:40Z",
+      "updatedAt": "2026-07-07T05:05:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-regata-river-plate-treino-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-laranja/back.webp",
+      "hash": "689a7df21306dcbcc5becef58052bc08d0acdffec71f0b31062f34c00bfdc88d",
+      "width": 480,
+      "height": 480,
+      "size": 3644,
+      "createdAt": "2026-07-07T05:05:40Z",
+      "updatedAt": "2026-07-07T05:05:40Z"
+    }
+  ]
+}

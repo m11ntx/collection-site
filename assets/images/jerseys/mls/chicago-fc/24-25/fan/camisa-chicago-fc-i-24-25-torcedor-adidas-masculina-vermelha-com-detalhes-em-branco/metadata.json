@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-chicago-fc-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-07T05:04:51Z",
+  "updatedAt": "2026-07-07T05:04:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/chicago-fc/24-25/fan/camisa-chicago-fc-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-branco/front.webp",
+      "hash": "5b77c87b7e32f1aaae804ee627cb89b746483bf62040a811fca7179dedb2d87b",
+      "width": 480,
+      "height": 480,
+      "size": 12616,
+      "createdAt": "2026-07-07T05:04:50Z",
+      "updatedAt": "2026-07-07T05:04:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/chicago-fc/24-25/fan/camisa-chicago-fc-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-branco/back.webp",
+      "hash": "5c2dfdd3bcd867ebaa86ce5ec8fb5f09f6da0049b23ad464220651bf7bcfb7a1",
+      "width": 480,
+      "height": 480,
+      "size": 7556,
+      "createdAt": "2026-07-07T05:04:51Z",
+      "updatedAt": "2026-07-07T05:04:51Z"
+    }
+  ]
+}

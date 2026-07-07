@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto",
+  "createdAt": "2026-07-07T05:05:15Z",
+  "updatedAt": "2026-07-07T05:05:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/front.webp",
+      "hash": "89a35b401a17eee820ab5162cf201f34353f0a86536a64c093437655bca36559",
+      "width": 480,
+      "height": 480,
+      "size": 12372,
+      "createdAt": "2026-07-07T05:05:14Z",
+      "updatedAt": "2026-07-07T05:05:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/back.webp",
+      "hash": "0d790c86bcaa3599d5bf4ae01211e4d8e445a44b6e358f769f8002994b62eee2",
+      "width": 480,
+      "height": 480,
+      "size": 7402,
+      "createdAt": "2026-07-07T05:05:14Z",
+      "updatedAt": "2026-07-07T05:05:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/detail-1.webp",
+      "hash": "34a2c744c25bef1a99cc3a4609a235613a9b703e39cda3e0b0e74572485256a5",
+      "width": 480,
+      "height": 480,
+      "size": 18284,
+      "createdAt": "2026-07-07T05:05:14Z",
+      "updatedAt": "2026-07-07T05:05:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/detail-2.webp",
+      "hash": "55d764299f3998faf7d5b845e0b91e3d4d5b7d3060af1c566d49de940334301f",
+      "width": 480,
+      "height": 480,
+      "size": 41512,
+      "createdAt": "2026-07-07T05:05:14Z",
+      "updatedAt": "2026-07-07T05:05:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/detail-3.webp",
+      "hash": "8fe0a185433dccef0c5e7f41a769bae4df3a7e1f9450ab3a2905dc6ce5531c69",
+      "width": 480,
+      "height": 480,
+      "size": 12896,
+      "createdAt": "2026-07-07T05:05:14Z",
+      "updatedAt": "2026-07-07T05:05:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/detail-4.webp",
+      "hash": "2d78d5d3354f3fe7b1af6aa69819ca8d8360f0cfe0c8615d024f3db1e66e6d82",
+      "width": 480,
+      "height": 480,
+      "size": 8584,
+      "createdAt": "2026-07-07T05:05:15Z",
+      "updatedAt": "2026-07-07T05:05:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-edicao-champion-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-preto/detail-5.webp",
+      "hash": "68c27e913d5add6839f273105e9a630a262f4934c35c5a7dbcb14b359ec402a9",
+      "width": 480,
+      "height": 480,
+      "size": 29684,
+      "createdAt": "2026-07-07T05:05:15Z",
+      "updatedAt": "2026-07-07T05:05:15Z"
+    }
+  ]
+}

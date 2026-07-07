@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-azul-e-amarelo",
+  "createdAt": "2026-07-07T05:04:45Z",
+  "updatedAt": "2026-07-07T05:04:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-azul-e-amarelo/front.webp",
+      "hash": "e1a7c644d632ab6f440f1e846f69ad70728771c77652b15570ee93401f2cd447",
+      "width": 480,
+      "height": 480,
+      "size": 8396,
+      "createdAt": "2026-07-07T05:04:45Z",
+      "updatedAt": "2026-07-07T05:04:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-azul-e-amarelo/back.webp",
+      "hash": "24a7e0fce73b368f338d1fe3fa1b58eadebd398721419e14e05fc1bd10b6c14b",
+      "width": 480,
+      "height": 480,
+      "size": 7946,
+      "createdAt": "2026-07-07T05:04:45Z",
+      "updatedAt": "2026-07-07T05:04:45Z"
+    }
+  ]
+}

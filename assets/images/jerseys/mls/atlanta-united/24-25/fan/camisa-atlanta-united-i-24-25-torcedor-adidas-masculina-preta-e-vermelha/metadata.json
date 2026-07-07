@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha",
+  "createdAt": "2026-07-07T05:04:39Z",
+  "updatedAt": "2026-07-07T05:04:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/atlanta-united/24-25/fan/camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha/front.webp",
+      "hash": "a19e643f6fa2ab5cf5fc0b9bcb55b0e88291d79fcd1b288a998718a13e12c58d",
+      "width": 480,
+      "height": 480,
+      "size": 13156,
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/atlanta-united/24-25/fan/camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha/back.webp",
+      "hash": "1a848c507ba45167b91ff64f8ab734fdce469faddb4122568848531faaef35b3",
+      "width": 480,
+      "height": 480,
+      "size": 6508,
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/atlanta-united/24-25/fan/camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha/detail-1.webp",
+      "hash": "4aee635bae196fc403c5169fd022952f544acee7f3b027cc5798b34e042332bb",
+      "width": 480,
+      "height": 720,
+      "size": 44096,
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/atlanta-united/24-25/fan/camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha/detail-2.webp",
+      "hash": "5520f81654504956c7d10ddbef431b79be41e84e40e661f6b1918b09f44b59f2",
+      "width": 480,
+      "height": 720,
+      "size": 56910,
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/atlanta-united/24-25/fan/camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha/detail-3.webp",
+      "hash": "76852746ddd3aa56e161e341c2440fb9db78ea586a0783a10097279e33845f33",
+      "width": 480,
+      "height": 720,
+      "size": 42730,
+      "createdAt": "2026-07-07T05:04:39Z",
+      "updatedAt": "2026-07-07T05:04:39Z"
+    }
+  ]
+}

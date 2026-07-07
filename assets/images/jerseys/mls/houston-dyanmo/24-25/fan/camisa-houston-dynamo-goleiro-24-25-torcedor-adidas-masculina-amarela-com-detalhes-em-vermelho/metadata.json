@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-houston-dynamo-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-07T05:05:11Z",
+  "updatedAt": "2026-07-07T05:05:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/houston-dyanmo/24-25/fan/camisa-houston-dynamo-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho/front.webp",
+      "hash": "1704b65f5dba4768bd8310434725ddbe854d73bf39681b8d4262962abcdc7798",
+      "width": 480,
+      "height": 480,
+      "size": 17226,
+      "createdAt": "2026-07-07T05:05:11Z",
+      "updatedAt": "2026-07-07T05:05:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/houston-dyanmo/24-25/fan/camisa-houston-dynamo-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho/back.webp",
+      "hash": "9c1243756ca8959600c11d68f1ba8adfcf3c1345f9bcab37e7d4af186bd59806",
+      "width": 480,
+      "height": 480,
+      "size": 3616,
+      "createdAt": "2026-07-07T05:05:11Z",
+      "updatedAt": "2026-07-07T05:05:11Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-houston-dynamo-i-24-25-torcedor-adidas-masculina-laranja-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T05:05:11Z",
+  "updatedAt": "2026-07-07T05:05:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/houston-dyanmo/24-25/fan/camisa-houston-dynamo-i-24-25-torcedor-adidas-masculina-laranja-com-detalhes-em-azul/front.webp",
+      "hash": "8c281ef86ff81b19fb49c5eceb3c86c7005dd6514b556d6beb1ece051fb73ade",
+      "width": 480,
+      "height": 480,
+      "size": 13040,
+      "createdAt": "2026-07-07T05:05:11Z",
+      "updatedAt": "2026-07-07T05:05:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/houston-dyanmo/24-25/fan/camisa-houston-dynamo-i-24-25-torcedor-adidas-masculina-laranja-com-detalhes-em-azul/back.webp",
+      "hash": "143e96927381ed89fdd3c56cd9d39ef5bffc55aad50333fd7401873c55c31d71",
+      "width": 480,
+      "height": 480,
+      "size": 7294,
+      "createdAt": "2026-07-07T05:05:11Z",
+      "updatedAt": "2026-07-07T05:05:11Z"
+    }
+  ]
+}

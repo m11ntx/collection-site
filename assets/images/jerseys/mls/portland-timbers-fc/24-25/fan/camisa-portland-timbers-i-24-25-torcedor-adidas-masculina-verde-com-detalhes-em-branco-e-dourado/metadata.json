@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado",
+  "createdAt": "2026-07-07T05:05:37Z",
+  "updatedAt": "2026-07-07T05:05:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado/front.webp",
+      "hash": "1a2b25ca99ab14adb0bde32b0648b2d9e3ef1b7aead20e14af04a8ba15089953",
+      "width": 480,
+      "height": 480,
+      "size": 20672,
+      "createdAt": "2026-07-07T05:05:36Z",
+      "updatedAt": "2026-07-07T05:05:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado/back.webp",
+      "hash": "270cfb4b47a80789680f75c6f5810853a08258ea3523b36a0b722925b4a1fb11",
+      "width": 480,
+      "height": 480,
+      "size": 9000,
+      "createdAt": "2026-07-07T05:05:36Z",
+      "updatedAt": "2026-07-07T05:05:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado/detail-1.webp",
+      "hash": "df34b4cf33b50a52f3c4bda781d8a486a186db673171cf4f3b90831576d443a9",
+      "width": 480,
+      "height": 480,
+      "size": 66040,
+      "createdAt": "2026-07-07T05:05:36Z",
+      "updatedAt": "2026-07-07T05:05:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado/detail-2.webp",
+      "hash": "db2c677e659b484c7f2e6aaed0bef7db4b8b38b78bbf40b38b25ab463ebbcce3",
+      "width": 480,
+      "height": 480,
+      "size": 50582,
+      "createdAt": "2026-07-07T05:05:37Z",
+      "updatedAt": "2026-07-07T05:05:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/portland-timbers-fc/24-25/fan/camisa-portland-timbers-i-24-25-torcedor-adidas-masculina-verde-com-detalhes-em-branco-e-dourado/detail-3.webp",
+      "hash": "df18d930fd307d17a04be6c41dc77d237660797aa712342bdb870e02f6191bf2",
+      "width": 480,
+      "height": 453,
+      "size": 37748,
+      "createdAt": "2026-07-07T05:05:37Z",
+      "updatedAt": "2026-07-07T05:05:37Z"
+    }
+  ]
+}

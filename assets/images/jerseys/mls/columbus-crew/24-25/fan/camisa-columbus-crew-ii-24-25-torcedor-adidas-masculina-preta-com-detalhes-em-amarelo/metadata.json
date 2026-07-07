@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-07T05:05:00Z",
+  "updatedAt": "2026-07-07T05:05:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/front.webp",
+      "hash": "32daaedcfce9da89183a60e6f1bc47d9cdf6d7c61017822e1512f3765e2cb62f",
+      "width": 480,
+      "height": 480,
+      "size": 21280,
+      "createdAt": "2026-07-07T05:04:59Z",
+      "updatedAt": "2026-07-07T05:04:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/back.webp",
+      "hash": "cc4209b03ed7e47cb4342fb0ff0af5fc0976082f093f5faf680f0d1961dd1457",
+      "width": 480,
+      "height": 480,
+      "size": 8820,
+      "createdAt": "2026-07-07T05:04:59Z",
+      "updatedAt": "2026-07-07T05:04:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "eaf545f18518bce9abad40ca139d6890df979e8cfdb274431498ab2c7ee92177",
+      "width": 480,
+      "height": 320,
+      "size": 30836,
+      "createdAt": "2026-07-07T05:04:59Z",
+      "updatedAt": "2026-07-07T05:04:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "2c71fe6332955bd3dd9aead8acca90bab3c28c25aa1478b2220165add30c2bc8",
+      "width": 480,
+      "height": 320,
+      "size": 28028,
+      "createdAt": "2026-07-07T05:05:00Z",
+      "updatedAt": "2026-07-07T05:05:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/detail-3.webp",
+      "hash": "057573423a2f5583ff87a4ea8be52ba1f6a23ccba4b92066c0beba369f0e99e1",
+      "width": 480,
+      "height": 320,
+      "size": 24176,
+      "createdAt": "2026-07-07T05:05:00Z",
+      "updatedAt": "2026-07-07T05:05:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/columbus-crew/24-25/fan/camisa-columbus-crew-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-amarelo/detail-4.webp",
+      "hash": "f7157224238bed5ce0d34336355029c26e8d1cbc8a4d2d581d72e0860d8b891b",
+      "width": 480,
+      "height": 320,
+      "size": 27408,
+      "createdAt": "2026-07-07T05:05:00Z",
+      "updatedAt": "2026-07-07T05:05:00Z"
+    }
+  ]
+}

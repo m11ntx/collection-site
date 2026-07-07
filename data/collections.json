@@ -1,5 +1,14 @@
 [
   {
+    "id": "america-do-sul",
+    "slug": "america-do-sul",
+    "name": "América do Sul",
+    "country": null,
+    "image": null,
+    "description": null,
+    "featured": false
+  },
+  {
     "id": "brasil",
     "slug": "brasil",
     "name": "Brasil",
@@ -12,6 +21,15 @@
     "id": "europa",
     "slug": "europa",
     "name": "Europa",
+    "country": null,
+    "image": null,
+    "description": null,
+    "featured": false
+  },
+  {
+    "id": "resto-do-mundo",
+    "slug": "resto-do-mundo",
+    "name": "Resto do Mundo",
     "country": null,
     "image": null,
     "description": null,

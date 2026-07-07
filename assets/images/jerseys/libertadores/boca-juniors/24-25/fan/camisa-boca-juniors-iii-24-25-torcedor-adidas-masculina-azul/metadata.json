@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-iii-24-25-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-07T05:04:44Z",
+  "updatedAt": "2026-07-07T05:04:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-iii-24-25-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "1221c13fc6c24d5465ebb90d5074f9d570a23c054f1a7046cbe032e863a2baaa",
+      "width": 480,
+      "height": 480,
+      "size": 10628,
+      "createdAt": "2026-07-07T05:04:43Z",
+      "updatedAt": "2026-07-07T05:04:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-iii-24-25-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "1f116d598cb7463ceaf7b063a9d9c3bf81e32ed644b19c344ef5c5e89431a0e3",
+      "width": 480,
+      "height": 480,
+      "size": 6950,
+      "createdAt": "2026-07-07T05:04:44Z",
+      "updatedAt": "2026-07-07T05:04:44Z"
+    }
+  ]
+}

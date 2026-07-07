@@ -1,5 +1,13 @@
 [
   {
+    "id": "libertadores",
+    "collectionId": "america-do-sul",
+    "slug": "libertadores",
+    "name": "Libertadores",
+    "country": null,
+    "image": null
+  },
+  {
     "id": "brasileirao",
     "collectionId": "brasil",
     "slug": "brasileirao",
@@ -77,6 +85,22 @@
     "slug": "super-lig",
     "name": "Süper Lig",
     "country": "Turkey",
+    "image": null
+  },
+  {
+    "id": "mls",
+    "collectionId": "resto-do-mundo",
+    "slug": "mls",
+    "name": "MLS",
+    "country": null,
+    "image": null
+  },
+  {
+    "id": "saudi-pro-league",
+    "collectionId": "resto-do-mundo",
+    "slug": "saudi-pro-league",
+    "name": "Saudi Pro League",
+    "country": "Saudi Arabia",
     "image": null
   },
   {

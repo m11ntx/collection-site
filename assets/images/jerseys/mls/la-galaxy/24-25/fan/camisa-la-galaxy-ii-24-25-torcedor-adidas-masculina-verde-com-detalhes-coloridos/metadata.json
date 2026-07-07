@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos",
+  "createdAt": "2026-07-07T05:05:21Z",
+  "updatedAt": "2026-07-07T05:05:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/la-galaxy/24-25/fan/camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos/front.webp",
+      "hash": "31405044fb24dba53a272a0a8ca6f5758d817b7405382425085bea93d6f78cd4",
+      "width": 480,
+      "height": 480,
+      "size": 9652,
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/la-galaxy/24-25/fan/camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos/back.webp",
+      "hash": "9576bffca5e7357334d128a35bbee94484eda90d42d02e2b0860d62d2546b751",
+      "width": 480,
+      "height": 480,
+      "size": 7938,
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/la-galaxy/24-25/fan/camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos/detail-1.webp",
+      "hash": "8f4acb08e82f175b0b4a1d69d6e4f4de16a85090791d0f003dcf9c7562c3b448",
+      "width": 480,
+      "height": 720,
+      "size": 60984,
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/la-galaxy/24-25/fan/camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos/detail-2.webp",
+      "hash": "efc68ba92eb2b6a03a24a4f05414488be34d1f085d0c34a66d899eefc614fc67",
+      "width": 480,
+      "height": 720,
+      "size": 42848,
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/la-galaxy/24-25/fan/camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos/detail-3.webp",
+      "hash": "6fbacbe430f5bc19d089c27de86dccb0e63cc0bb4c5e01725d0e8c7d3b5acbde",
+      "width": 480,
+      "height": 720,
+      "size": 44662,
+      "createdAt": "2026-07-07T05:05:21Z",
+      "updatedAt": "2026-07-07T05:05:21Z"
+    }
+  ]
+}

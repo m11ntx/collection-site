@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T05:05:09Z",
+  "updatedAt": "2026-07-07T05:05:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/front.webp",
+      "hash": "9cc9b65a5b228e6b7e523320ee8e9251f8d133aa2229b23e0f6b5a418e931027",
+      "width": 480,
+      "height": 480,
+      "size": 12656,
+      "createdAt": "2026-07-07T05:05:08Z",
+      "updatedAt": "2026-07-07T05:05:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/back.webp",
+      "hash": "1d91627d8baddae287f405ea6add17085fd965a1143de940a1186aad87a8fb57",
+      "width": 480,
+      "height": 480,
+      "size": 6914,
+      "createdAt": "2026-07-07T05:05:08Z",
+      "updatedAt": "2026-07-07T05:05:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/detail-1.webp",
+      "hash": "8c12a2ba3b3e18734f7f02051e76842dfdff43e2b8b59aba1821fc81b1e7a61d",
+      "width": 480,
+      "height": 480,
+      "size": 20032,
+      "createdAt": "2026-07-07T05:05:08Z",
+      "updatedAt": "2026-07-07T05:05:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/detail-2.webp",
+      "hash": "4a03b82d51e02d2d37448799fa9d67f5c32f6adde359bf76472f69fff3d80b07",
+      "width": 480,
+      "height": 480,
+      "size": 57120,
+      "createdAt": "2026-07-07T05:05:08Z",
+      "updatedAt": "2026-07-07T05:05:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/detail-3.webp",
+      "hash": "8286dc10283c381aa74f401addb19a1f82801ce5e71b75c983e09cc23e53dabd",
+      "width": 480,
+      "height": 480,
+      "size": 27050,
+      "createdAt": "2026-07-07T05:05:08Z",
+      "updatedAt": "2026-07-07T05:05:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul/detail-4.webp",
+      "hash": "d777620252decbc987b5bd8aba4b3365b68e98738e3f144fd810613c5b8ad584",
+      "width": 480,
+      "height": 480,
+      "size": 15562,
+      "createdAt": "2026-07-07T05:05:09Z",
+      "updatedAt": "2026-07-07T05:05:09Z"
+    }
+  ]
+}

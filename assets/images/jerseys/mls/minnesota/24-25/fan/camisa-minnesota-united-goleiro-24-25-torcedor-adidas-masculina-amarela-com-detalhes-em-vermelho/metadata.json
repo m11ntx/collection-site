@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-minnesota-united-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-07T05:05:25Z",
+  "updatedAt": "2026-07-07T05:05:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/minnesota/24-25/fan/camisa-minnesota-united-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho/front.webp",
+      "hash": "cc643ad2ee3e87f6429ec4b526fc7d9019de355259e062bc8422d1e92588dd89",
+      "width": 480,
+      "height": 480,
+      "size": 15718,
+      "createdAt": "2026-07-07T05:05:25Z",
+      "updatedAt": "2026-07-07T05:05:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/minnesota/24-25/fan/camisa-minnesota-united-goleiro-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-vermelho/back.webp",
+      "hash": "4cec8495d93b0c2d1c8115b50d2b90b29d895203333245675a553a850e0bcffd",
+      "width": 480,
+      "height": 480,
+      "size": 3656,
+      "createdAt": "2026-07-07T05:05:25Z",
+      "updatedAt": "2026-07-07T05:05:25Z"
+    }
+  ]
+}

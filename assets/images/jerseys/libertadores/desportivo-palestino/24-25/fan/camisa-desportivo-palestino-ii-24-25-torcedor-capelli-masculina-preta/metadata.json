@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta",
+  "createdAt": "2026-07-07T05:05:05Z",
+  "updatedAt": "2026-07-07T05:05:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/front.webp",
+      "hash": "fb277b75b58faaed6544f6c941eba81152269d91fd4722f4fdfa4e3a21a175ad",
+      "width": 480,
+      "height": 480,
+      "size": 13896,
+      "createdAt": "2026-07-07T05:05:04Z",
+      "updatedAt": "2026-07-07T05:05:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/back.webp",
+      "hash": "7fabd3e13ca8fe69f5ab6f216ad953c082ca4b722a3f6c00594439714d5d890d",
+      "width": 480,
+      "height": 480,
+      "size": 21990,
+      "createdAt": "2026-07-07T05:05:04Z",
+      "updatedAt": "2026-07-07T05:05:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/detail-1.webp",
+      "hash": "6ac1fdbcc07ca7410f24add2d191f31b603b889dfa5f981680b06df6da2d8412",
+      "width": 480,
+      "height": 480,
+      "size": 13680,
+      "createdAt": "2026-07-07T05:05:04Z",
+      "updatedAt": "2026-07-07T05:05:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/detail-2.webp",
+      "hash": "e3c6295ece41bc3a4c2f45091761046abd07fd018c93121cf40a4960039e6b61",
+      "width": 480,
+      "height": 480,
+      "size": 58208,
+      "createdAt": "2026-07-07T05:05:04Z",
+      "updatedAt": "2026-07-07T05:05:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/detail-3.webp",
+      "hash": "4c39ad3fb848386499a5572c6b95996c69d84411615d7dc5730e664e4c28e4dd",
+      "width": 480,
+      "height": 480,
+      "size": 61298,
+      "createdAt": "2026-07-07T05:05:05Z",
+      "updatedAt": "2026-07-07T05:05:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/detail-4.webp",
+      "hash": "e7ad97d09e089bcf48b78aa79bb894cec1860b3241d984c2adb7f15bda95cb87",
+      "width": 480,
+      "height": 480,
+      "size": 13200,
+      "createdAt": "2026-07-07T05:05:05Z",
+      "updatedAt": "2026-07-07T05:05:05Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/desportivo-palestino/24-25/fan/camisa-desportivo-palestino-ii-24-25-torcedor-capelli-masculina-preta/detail-5.webp",
+      "hash": "158d90299bf6151219d5b31c848e4c600cf0bb325978938d6d9a55be8a20c731",
+      "width": 480,
+      "height": 480,
+      "size": 16668,
+      "createdAt": "2026-07-07T05:05:05Z",
+      "updatedAt": "2026-07-07T05:05:05Z"
+    }
+  ]
+}

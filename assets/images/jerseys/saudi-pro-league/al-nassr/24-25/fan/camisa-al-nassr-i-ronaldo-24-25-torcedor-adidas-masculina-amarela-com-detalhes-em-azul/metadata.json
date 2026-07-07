@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-al-nassr-i-ronaldo-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-07T05:04:31Z",
+  "updatedAt": "2026-07-07T05:04:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/fan/camisa-al-nassr-i-ronaldo-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/front.webp",
+      "hash": "6136ab1b1f09829e315509d87f5169fec374650ca9bd5c6ec2dbefaad4b23092",
+      "width": 480,
+      "height": 480,
+      "size": 11926,
+      "createdAt": "2026-07-07T05:04:31Z",
+      "updatedAt": "2026-07-07T05:04:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/fan/camisa-al-nassr-i-ronaldo-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/back.webp",
+      "hash": "ac14556586cda4357e55adefab7eefd1f640eab743e96324b4b842d5572592c2",
+      "width": 480,
+      "height": 480,
+      "size": 10174,
+      "createdAt": "2026-07-07T05:04:31Z",
+      "updatedAt": "2026-07-07T05:04:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/fan/camisa-al-nassr-i-ronaldo-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/detail-1.webp",
+      "hash": "a3357eb4933aa6734c11464c4d9b30dd53479b95cc6322b3e5c77fab3c924fae",
+      "width": 480,
+      "height": 480,
+      "size": 22584,
+      "createdAt": "2026-07-07T05:04:31Z",
+      "updatedAt": "2026-07-07T05:04:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/fan/camisa-al-nassr-i-ronaldo-24-25-torcedor-adidas-masculina-amarela-com-detalhes-em-azul/detail-2.webp",
+      "hash": "c7270f3bf00f7312ed8d0f143392ca59f8a56328dbbc3d7d504b239c46d3c419",
+      "width": 480,
+      "height": 480,
+      "size": 24860,
+      "createdAt": "2026-07-07T05:04:31Z",
+      "updatedAt": "2026-07-07T05:04:31Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza",
+  "createdAt": "2026-07-07T05:05:59Z",
+  "updatedAt": "2026-07-07T05:05:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/front.webp",
+      "hash": "5ead48a03d524072c6c6349d4b2925f801da8619e7fe677b4f23ba1164139b19",
+      "width": 480,
+      "height": 480,
+      "size": 8550,
+      "createdAt": "2026-07-07T05:05:58Z",
+      "updatedAt": "2026-07-07T05:05:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/back.webp",
+      "hash": "db96bd6e96a078e1098a40c4e41def68986611598f5df930cdef21745a7028ad",
+      "width": 480,
+      "height": 480,
+      "size": 3804,
+      "createdAt": "2026-07-07T05:05:58Z",
+      "updatedAt": "2026-07-07T05:05:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "db4e7c19c5a783d1a635786f173783e8a393094df12792c4c48a8a2e7afbdfa6",
+      "width": 480,
+      "height": 480,
+      "size": 8714,
+      "createdAt": "2026-07-07T05:05:58Z",
+      "updatedAt": "2026-07-07T05:05:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "cb11de6282daee19f115e3812851fb4765cae83ba9e6046325b388e89981fc64",
+      "width": 480,
+      "height": 480,
+      "size": 12814,
+      "createdAt": "2026-07-07T05:05:59Z",
+      "updatedAt": "2026-07-07T05:05:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "bd76fc0e262ab24b0be8d2a84dd9148d199b76c1396a9ccace453f611f3ff32d",
+      "width": 480,
+      "height": 480,
+      "size": 20410,
+      "createdAt": "2026-07-07T05:05:59Z",
+      "updatedAt": "2026-07-07T05:05:59Z"
+    }
+  ]
+}
