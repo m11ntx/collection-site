@@ -494551,6 +494551,601 @@
     }
   },
   {
+    "id": "source-camisa-mexico-25-26-quot-mexico-de-oro-quot-masculina-torcedor",
+    "externalId": "261298312",
+    "source": "source",
+    "slug": "camisa-mexico-25-26-quot-mexico-de-oro-quot-masculina-torcedor",
+    "name": "Camisa México 25/26 - &quot;México de Oro&quot; - Masculina Torcedor",
+    "collectionId": "selecoes",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "clubId": "mexico",
+    "manufacturerId": null,
+    "category": null,
+    "gender": "men",
+    "version": "fan",
+    "season": "25/26",
+    "price": 65.4,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1159172306",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172307",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172308",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172312",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172314",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172316",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172318",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172320",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172321",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.84,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172326",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 174.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172323",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.29,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172327",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172324",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.29,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      },
+      {
+        "id": "1159172328",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/25-26/fan/camisa-mexico-25-26-quot-mexico-de-oro-quot-masculina-torcedor/front.webp",
+        "alt": "Camisa México 25/26 - &quot;México de Oro&quot; - Masculina Torcedor",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/25-26/fan/camisa-mexico-25-26-quot-mexico-de-oro-quot-masculina-torcedor/back.webp",
+        "alt": "Camisa México 25/26 - &quot;México de Oro&quot; - Masculina Torcedor",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-mexico-25-26-mexico-de-oro-masculina-torcedor/",
+    "createdAt": "2026-07-07T05:11:08Z",
+    "updatedAt": "2026-07-07T05:11:08Z",
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 261298312,
+        "compare_at_price_number": 136.24,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1147-1c884f6a0253e39ebf17426714118231-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "manufacturer not identified",
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
+    "id": "source-camisa-mexico-26-27-torcedor-masculina",
+    "externalId": "342270226",
+    "source": "source",
+    "slug": "camisa-mexico-26-27-torcedor-masculina",
+    "name": "Camisa México 26/27 Torcedor - Masculina",
+    "collectionId": "selecoes",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "clubId": "mexico",
+    "manufacturerId": null,
+    "category": "current",
+    "gender": "men",
+    "version": "fan",
+    "season": "26/27",
+    "price": 65.4,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1518688957",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688965",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688969",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688975",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688980",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688985",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688990",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.4,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518688999",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 152.59,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689003",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.84,
+        "compareAtPrice": 136.24,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689007",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 87.19,
+        "compareAtPrice": 174.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689011",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.29,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689017",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 92.64,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689022",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 81.74,
+        "compareAtPrice": 147.14,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      },
+      {
+        "id": "1518689027",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 98.09,
+        "compareAtPrice": 179.84,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-26-27-torcedor-masculina/front.webp",
+        "alt": "Camisa México 26/27 Torcedor - Masculina",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-26-27-torcedor-masculina/back.webp",
+        "alt": "Camisa México 26/27 Torcedor - Masculina",
+        "position": 1,
+        "primary": false
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-26-27-torcedor-masculina/detail-1.webp",
+        "alt": "Camisa México 26/27 Torcedor - Masculina",
+        "position": 2,
+        "primary": false
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-26-27-torcedor-masculina/detail-2.webp",
+        "alt": "Camisa México 26/27 Torcedor - Masculina",
+        "position": 3,
+        "primary": false
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-26-27-torcedor-masculina/detail-3.webp",
+        "alt": "Camisa México 26/27 Torcedor - Masculina",
+        "position": 4,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-mexico-26-27-torcedor-masculina-18i73/",
+    "createdAt": "2026-07-07T05:11:08Z",
+    "updatedAt": "2026-07-07T05:11:08Z",
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 342270226,
+        "compare_at_price_number": 136.24,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_349966e1-be01-4773-90d6-887edc0ec815_5718418_7639697-24a00eef34525ff64917780073644107-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "manufacturer not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-selecao-do-mexico-home-26-27-torcedor-adidas-masculina-verde",
     "externalId": "342503057",
     "source": "source",
