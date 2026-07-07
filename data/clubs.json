@@ -392,7 +392,7 @@
   {
     "id": "boca-juniors",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "boca-juniors",
     "name": "Boca Juniors",
     "country": "Argentina",
@@ -402,7 +402,7 @@
   {
     "id": "cerro-portenho",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "cerro-portenho",
     "name": "Cerro Porteño",
     "country": "Paraguay",
@@ -412,7 +412,7 @@
   {
     "id": "colo-colo",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "colo-colo",
     "name": "Colo-Colo",
     "country": "Chile",
@@ -422,7 +422,7 @@
   {
     "id": "desportivo-palestino",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "desportivo-palestino",
     "name": "Deportivo Palestino",
     "country": "Chile",
@@ -432,7 +432,7 @@
   {
     "id": "monterrey",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "monterrey",
     "name": "Monterrey",
     "country": "Mexico",
@@ -442,7 +442,7 @@
   {
     "id": "olimpia",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "olimpia",
     "name": "Olimpia",
     "country": "Paraguay",
@@ -452,7 +452,7 @@
   {
     "id": "penarol",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "penarol",
     "name": "Peñarol",
     "country": "Uruguay",
@@ -462,7 +462,7 @@
   {
     "id": "river-plate",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "river-plate",
     "name": "River Plate",
     "country": "Argentina",
@@ -472,7 +472,7 @@
   {
     "id": "san-lorenzo",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "san-lorenzo",
     "name": "San Lorenzo",
     "country": "Argentina",
@@ -482,7 +482,7 @@
   {
     "id": "santiago-wanderers",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "santiago-wanderers",
     "name": "Santiago Wanderers",
     "country": "Chile",
@@ -492,7 +492,7 @@
   {
     "id": "tigres-do-mexico",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "tigres-do-mexico",
     "name": "Tigres UANL",
     "country": "Mexico",
@@ -502,7 +502,7 @@
   {
     "id": "universidad-do-chile",
     "leagueId": "libertadores",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "universidad-do-chile",
     "name": "Universidad de Chile",
     "country": "Chile",
@@ -552,7 +552,7 @@
   {
     "id": "atlanta-united",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "atlanta-united",
     "name": "Atlanta United",
     "country": "United States",
@@ -562,7 +562,7 @@
   {
     "id": "austin-fc",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "austin-fc",
     "name": "Austin FC",
     "country": "United States",
@@ -572,7 +572,7 @@
   {
     "id": "charlotte-fc",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "charlotte-fc",
     "name": "Charlotte FC",
     "country": "United States",
@@ -582,7 +582,7 @@
   {
     "id": "chicago-fc",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "chicago-fc",
     "name": "Chicago FC",
     "country": "United States",
@@ -592,7 +592,7 @@
   {
     "id": "columbus-crew",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "columbus-crew",
     "name": "Columbus Crew",
     "country": "United States",
@@ -602,7 +602,7 @@
   {
     "id": "fc-cincinnati",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "fc-cincinnati",
     "name": "FC Cincinnati",
     "country": "United States",
@@ -612,7 +612,7 @@
   {
     "id": "fc-dallas",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "fc-dallas",
     "name": "FC Dallas",
     "country": "United States",
@@ -622,7 +622,7 @@
   {
     "id": "houston-dyanmo",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "houston-dyanmo",
     "name": "Houston Dynamo",
     "country": "United States",
@@ -632,7 +632,7 @@
   {
     "id": "inter-miami",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "inter-miami",
     "name": "Inter Miami",
     "country": "United States",
@@ -642,7 +642,7 @@
   {
     "id": "la-galaxy",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "la-galaxy",
     "name": "LA Galaxy",
     "country": "United States",
@@ -652,7 +652,7 @@
   {
     "id": "los-angeles-fc",
     "leagueId": "mls",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "los-angeles-fc",
     "name": "Los Angeles FC",
     "country": "United States",
@@ -662,7 +662,7 @@
   {
     "id": "minnesota",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "minnesota",
     "name": "Minnesota United",
     "country": "United States",
@@ -672,7 +672,7 @@
   {
     "id": "new-england-revolution",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "new-england-revolution",
     "name": "New England Revolution",
     "country": "United States",
@@ -682,7 +682,7 @@
   {
     "id": "new-york-red-bull",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "new-york-red-bull",
     "name": "New York Red Bulls",
     "country": "United States",
@@ -692,7 +692,7 @@
   {
     "id": "orlando-city",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "orlando-city",
     "name": "Orlando City",
     "country": "United States",
@@ -702,7 +702,7 @@
   {
     "id": "philadelphia-fc",
     "leagueId": "mls",
-    "regionId": "libertadores",
+    "regionId": null,
     "slug": "philadelphia-fc",
     "name": "Philadelphia Union",
     "country": "United States",
@@ -712,7 +712,7 @@
   {
     "id": "portland-timbers-fc",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "portland-timbers-fc",
     "name": "Portland Timbers",
     "country": "United States",
@@ -722,7 +722,7 @@
   {
     "id": "seattle-fc",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "seattle-fc",
     "name": "Seattle Sounders",
     "country": "United States",
@@ -732,7 +732,7 @@
   {
     "id": "sporting-kansas-city",
     "leagueId": "mls",
-    "regionId": "mls",
+    "regionId": null,
     "slug": "sporting-kansas-city",
     "name": "Sporting Kansas City",
     "country": "United States",
@@ -742,7 +742,7 @@
   {
     "id": "toronto",
     "leagueId": "mls",
-    "regionId": "canada",
+    "regionId": null,
     "slug": "toronto",
     "name": "Toronto FC",
     "country": "Canada",
@@ -912,7 +912,7 @@
   {
     "id": "al-hilal",
     "leagueId": "saudi-pro-league",
-    "regionId": "arabias",
+    "regionId": null,
     "slug": "al-hilal",
     "name": "Al Hilal",
     "country": "Saudi Arabia",
@@ -922,7 +922,7 @@
   {
     "id": "al-nassr",
     "leagueId": "saudi-pro-league",
-    "regionId": "arabias",
+    "regionId": null,
     "slug": "al-nassr",
     "name": "Al Nassr",
     "country": "Saudi Arabia",

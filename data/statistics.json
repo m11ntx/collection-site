@@ -3,7 +3,7 @@
     "products": 1888,
     "collections": 5,
     "leagues": 14,
-    "regions": 14,
+    "regions": 10,
     "clubs": 133,
     "manufacturers": 17
   },
@@ -41,19 +41,15 @@
   "byRegion": {
     "africa": 4,
     "americas": 69,
-    "arabias": 8,
     "asia": 24,
-    "canada": 2,
     "europa": 90,
-    "libertadores": 43,
     "minas-gerais": 57,
-    "mls": 44,
     "nordeste": 48,
     "norte": 7,
     "rio-de-janeiro": 146,
     "sao-paulo": 98,
     "sul": 55,
-    "unknown": 1193
+    "unknown": 1290
   },
   "byClub": {
     "ac-milan": 16,

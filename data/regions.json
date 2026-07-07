@@ -48,38 +48,6 @@
     "image": null
   },
   {
-    "id": "libertadores",
-    "leagueId": "libertadores",
-    "slug": "libertadores",
-    "name": "Libertadores",
-    "country": null,
-    "image": null
-  },
-  {
-    "id": "canada",
-    "leagueId": "mls",
-    "slug": "canada",
-    "name": "Canada",
-    "country": null,
-    "image": null
-  },
-  {
-    "id": "mls",
-    "leagueId": "mls",
-    "slug": "mls",
-    "name": "Mls",
-    "country": null,
-    "image": null
-  },
-  {
-    "id": "arabias",
-    "leagueId": "saudi-pro-league",
-    "slug": "arabias",
-    "name": "Arabias",
-    "country": null,
-    "image": null
-  },
-  {
     "id": "africa",
     "leagueId": "selecoes",
     "slug": "africa",
