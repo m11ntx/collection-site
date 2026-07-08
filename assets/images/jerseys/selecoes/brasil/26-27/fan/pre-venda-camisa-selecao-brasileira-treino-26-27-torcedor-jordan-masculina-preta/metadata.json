@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-selecao-brasileira-treino-26-27-torcedor-jordan-masculina-preta",
+  "createdAt": "2026-07-08T03:51:36Z",
+  "updatedAt": "2026-07-08T03:51:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/26-27/fan/pre-venda-camisa-selecao-brasileira-treino-26-27-torcedor-jordan-masculina-preta/front.webp",
+      "hash": "bc72525e6624dd5c1d7290fbbd9616bbf3c6cf1c594062ca6128d75d8f3df74a",
+      "width": 480,
+      "height": 480,
+      "size": 5748,
+      "createdAt": "2026-07-08T03:51:36Z",
+      "updatedAt": "2026-07-08T03:51:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/26-27/fan/pre-venda-camisa-selecao-brasileira-treino-26-27-torcedor-jordan-masculina-preta/back.webp",
+      "hash": "7e1c7a6d21fc36abbca8c398adbf3085ee52cc3449b963b4f4e55259aacbb462",
+      "width": 480,
+      "height": 480,
+      "size": 4152,
+      "createdAt": "2026-07-08T03:51:36Z",
+      "updatedAt": "2026-07-08T03:51:36Z"
+    }
+  ]
+}

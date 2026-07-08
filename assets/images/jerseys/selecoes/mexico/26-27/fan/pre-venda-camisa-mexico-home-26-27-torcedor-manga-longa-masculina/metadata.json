@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-mexico-home-26-27-torcedor-manga-longa-masculina",
+  "createdAt": "2026-07-08T03:51:17Z",
+  "updatedAt": "2026-07-08T03:51:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/pre-venda-camisa-mexico-home-26-27-torcedor-manga-longa-masculina/front.webp",
+      "hash": "eb3d369736133e5dc2a02d6c7c4092ce36ba11b24f4ed7b985cea307cb0e3168",
+      "width": 480,
+      "height": 480,
+      "size": 32634,
+      "createdAt": "2026-07-08T03:51:16Z",
+      "updatedAt": "2026-07-08T03:51:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/pre-venda-camisa-mexico-home-26-27-torcedor-manga-longa-masculina/back.webp",
+      "hash": "b108e64bf851eb2f9994825e1775a7fc90f71ec9352ffbab0b0a181cfc1e468d",
+      "width": 480,
+      "height": 480,
+      "size": 29844,
+      "createdAt": "2026-07-08T03:51:17Z",
+      "updatedAt": "2026-07-08T03:51:17Z"
+    }
+  ]
+}

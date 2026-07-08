@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-portugal-away-26-27-torcedor-masculina",
+  "createdAt": "2026-07-08T03:51:23Z",
+  "updatedAt": "2026-07-08T03:51:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/camisa-portugal-away-26-27-torcedor-masculina/front.webp",
+      "hash": "1a19b86038f89b11e65cf04c8da1bffd1d7478f88809f4d9739c6a669daa440e",
+      "width": 480,
+      "height": 480,
+      "size": 9424,
+      "createdAt": "2026-07-08T03:51:23Z",
+      "updatedAt": "2026-07-08T03:51:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/camisa-portugal-away-26-27-torcedor-masculina/back.webp",
+      "hash": "ca88c81f68e7ee2857a38db52d7cf3d0b95b5541cf02e3866bafca2572515cff",
+      "width": 480,
+      "height": 480,
+      "size": 6556,
+      "createdAt": "2026-07-08T03:51:23Z",
+      "updatedAt": "2026-07-08T03:51:23Z"
+    }
+  ]
+}
