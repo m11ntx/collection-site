@@ -6,7 +6,8 @@
     "country": null,
     "image": null,
     "description": null,
-    "featured": false
+    "featured": false,
+    "virtual": false
   },
   {
     "id": "brasil",
@@ -15,7 +16,8 @@
     "country": "Brazil",
     "image": null,
     "description": null,
-    "featured": false
+    "featured": false,
+    "virtual": false
   },
   {
     "id": "europa",
@@ -24,7 +26,18 @@
     "country": null,
     "image": null,
     "description": null,
-    "featured": false
+    "featured": false,
+    "virtual": false
+  },
+  {
+    "id": "lancamentos",
+    "slug": "lancamentos",
+    "name": "Lançamentos",
+    "country": null,
+    "image": null,
+    "description": null,
+    "featured": false,
+    "virtual": true
   },
   {
     "id": "resto-do-mundo",
@@ -33,7 +46,8 @@
     "country": null,
     "image": null,
     "description": null,
-    "featured": false
+    "featured": false,
+    "virtual": false
   },
   {
     "id": "selecoes",
@@ -42,6 +56,7 @@
     "country": null,
     "image": null,
     "description": null,
-    "featured": false
+    "featured": false,
+    "virtual": false
   }
 ]

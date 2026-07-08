@@ -1,28 +1,29 @@
 {
   "totals": {
-    "products": 1890,
-    "collections": 5,
+    "products": 1873,
+    "collections": 6,
     "leagues": 14,
     "regions": 10,
     "clubs": 133,
     "manufacturers": 17
   },
   "products": {
-    "available": 1852,
+    "available": 1835,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 1465
+    "withManufacturer": 1459
   },
   "byCollection": {
     "america-do-sul": 39,
-    "brasil": 472,
+    "brasil": 474,
     "europa": 680,
+    "lancamentos": 1,
     "resto-do-mundo": 58,
-    "selecoes": 327,
-    "unknown": 314
+    "selecoes": 314,
+    "unknown": 307
   },
   "byLeague": {
-    "brasileirao": 407,
+    "brasileirao": 409,
     "bundesliga": 38,
     "eredivisie": 8,
     "la-liga": 49,
@@ -33,10 +34,10 @@
     "primeira-liga": 9,
     "saudi-pro-league": 8,
     "scottish-premiership": 4,
-    "selecoes": 189,
+    "selecoes": 194,
     "serie-a": 130,
     "super-lig": 1,
-    "unknown": 799
+    "unknown": 775
   },
   "byRegion": {
     "africa": 4,
@@ -47,9 +48,9 @@
     "nordeste": 48,
     "norte": 7,
     "rio-de-janeiro": 146,
-    "sao-paulo": 98,
+    "sao-paulo": 100,
     "sul": 55,
-    "unknown": 1290
+    "unknown": 1271
   },
   "byClub": {
     "ac-milan": 16,
@@ -169,7 +170,7 @@
     "santa-cruz": 6,
     "santiago-wanderers": 2,
     "santos": 20,
-    "sao-paulo": 14,
+    "sao-paulo": 16,
     "seattle-fc": 1,
     "sport": 7,
     "sporting-cp": 3,
@@ -181,7 +182,7 @@
     "tottenham": 8,
     "tunisia": 1,
     "universidad-do-chile": 2,
-    "unknown": 910,
+    "unknown": 891,
     "uruguai": 5,
     "vasco-da-gama": 25,
     "vitoria": 4,
@@ -296,15 +297,15 @@
     "2024/25": 10,
     "2025": 16,
     "2025/26": 22,
-    "2026": 16,
+    "2026": 12,
     "2026/27": 3,
     "21/20": 1,
     "22/23": 1,
     "24/15": 1,
     "24/25": 909,
     "24/35": 1,
-    "25/26": 185,
-    "26/27": 174,
+    "25/26": 184,
+    "26/27": 162,
     "57/62": 1,
     "88/90": 1,
     "91/93": 2,
@@ -319,20 +320,20 @@
     "unknown": 186
   },
   "byCategory": {
-    "current": 85,
+    "current": 82,
     "manga-longa": 9,
     "retro": 332,
-    "unknown": 1464
+    "unknown": 1450
   },
   "byVersion": {
-    "fan": 1076,
-    "player": 137,
+    "fan": 1067,
+    "player": 129,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1573,
+    "men": 1558,
     "unknown": 197,
-    "women": 41
+    "women": 39
   }
 }

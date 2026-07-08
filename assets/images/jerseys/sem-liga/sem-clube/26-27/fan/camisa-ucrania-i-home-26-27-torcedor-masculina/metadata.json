@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ucrania-i-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-08T03:33:06Z",
+  "updatedAt": "2026-07-08T03:33:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/26-27/fan/camisa-ucrania-i-home-26-27-torcedor-masculina/front.webp",
+      "hash": "a59f538f85e80fa08152a88a89409dd8ccb19c9ea667dee95461fe9bc6e4e596",
+      "width": 480,
+      "height": 480,
+      "size": 24010,
+      "createdAt": "2026-07-08T03:33:06Z",
+      "updatedAt": "2026-07-08T03:33:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/26-27/fan/camisa-ucrania-i-home-26-27-torcedor-masculina/back.webp",
+      "hash": "be0685f6092581b9eb259de514ba98b9ed6399b7ab7427243f0ac6475b4e78ac",
+      "width": 480,
+      "height": 480,
+      "size": 21384,
+      "createdAt": "2026-07-08T03:33:06Z",
+      "updatedAt": "2026-07-08T03:33:06Z"
+    }
+  ]
+}
