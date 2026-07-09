@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2568,
+    "products": 2569,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,10 +8,10 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 2530,
+    "available": 2531,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 2000
+    "withManufacturer": 2001
   },
   "byCollection": {
     "america-do-sul": 77,
@@ -19,7 +19,7 @@
     "europa": 996,
     "lancamentos": 1,
     "resto-do-mundo": 75,
-    "selecoes": 512,
+    "selecoes": 513,
     "unknown": 250
   },
   "byLeague": {
@@ -35,7 +35,7 @@
     "primeira-liga": 16,
     "saudi-pro-league": 15,
     "scottish-premiership": 21,
-    "selecoes": 456,
+    "selecoes": 457,
     "serie-a": 205,
     "super-lig": 1,
     "unknown": 432
@@ -43,7 +43,7 @@
   "byRegion": {
     "africa": 9,
     "americas": 175,
-    "asia": 41,
+    "asia": 42,
     "europa": 226,
     "minas-gerais": 72,
     "nordeste": 62,
@@ -99,7 +99,7 @@
     "colo-colo": 10,
     "colombia": 12,
     "columbus-crew": 2,
-    "coreia-do-sul": 3,
+    "coreia-do-sul": 4,
     "corinthians": 61,
     "costa-rica": 1,
     "croacia": 6,
@@ -307,7 +307,7 @@
     "2001/02": 2,
     "2001/2002": 6,
     "2001/2003": 3,
-    "2002": 11,
+    "2002": 12,
     "2002/03": 1,
     "2002/2003": 6,
     "2002/2004": 1,
@@ -404,18 +404,18 @@
   "byCategory": {
     "current": 91,
     "manga-longa": 11,
-    "retro": 767,
+    "retro": 768,
     "unknown": 1699
   },
   "byVersion": {
     "fan": 1272,
     "player": 260,
-    "unknown": 1036
+    "unknown": 1037
   },
   "byGender": {
     "kids": 79,
     "men": 1964,
-    "unknown": 356,
+    "unknown": 357,
     "women": 169
   }
 }
