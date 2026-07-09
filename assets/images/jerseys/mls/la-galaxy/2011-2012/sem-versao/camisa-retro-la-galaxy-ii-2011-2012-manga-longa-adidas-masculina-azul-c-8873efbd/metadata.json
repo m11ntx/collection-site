@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-com-detalhes-em-branco-e-amarelo",
+  "createdAt": "2026-07-09T20:58:36Z",
+  "updatedAt": "2026-07-09T20:58:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/front.webp",
+      "hash": "94ab5ca1904b45228e42953aca1716787dfa44833dea76573f69ff709375e8cf",
+      "width": 480,
+      "height": 480,
+      "size": 12168,
+      "createdAt": "2026-07-09T20:58:34Z",
+      "updatedAt": "2026-07-09T20:58:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/back.webp",
+      "hash": "667184327c86f3b2aeca553dda16b09c284d45b4097f406d639eb0fad818daef",
+      "width": 480,
+      "height": 480,
+      "size": 6730,
+      "createdAt": "2026-07-09T20:58:34Z",
+      "updatedAt": "2026-07-09T20:58:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/detail-1.webp",
+      "hash": "eda1ac0da154a6059cafa7cb8eacb9aec978269ca5348c26318444630f7378cb",
+      "width": 480,
+      "height": 480,
+      "size": 53958,
+      "createdAt": "2026-07-09T20:58:34Z",
+      "updatedAt": "2026-07-09T20:58:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/detail-2.webp",
+      "hash": "ff923a89b45a1687033f12b9623a1291477d7e233bc7f2fbe7bec51d7d80e941",
+      "width": 480,
+      "height": 480,
+      "size": 61756,
+      "createdAt": "2026-07-09T20:58:35Z",
+      "updatedAt": "2026-07-09T20:58:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/detail-3.webp",
+      "hash": "67733a29bbde8f3dd9117c6b961de291bcb1db34d35b8786127c1250eabeb0f9",
+      "width": 480,
+      "height": 480,
+      "size": 22104,
+      "createdAt": "2026-07-09T20:58:35Z",
+      "updatedAt": "2026-07-09T20:58:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/detail-4.webp",
+      "hash": "5d059876c08bca04acc9479995aad1df4c89a87baf6be78298c2cd10ebd7bbf7",
+      "width": 480,
+      "height": 480,
+      "size": 16354,
+      "createdAt": "2026-07-09T20:58:35Z",
+      "updatedAt": "2026-07-09T20:58:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/mls/la-galaxy/2011-2012/sem-versao/camisa-retro-la-galaxy-ii-2011-2012-manga-longa-adidas-masculina-azul-c-8873efbd/detail-5.webp",
+      "hash": "dfc4d654e7182f075be2727520d471aae2bd8f37930c05a8ac0d7fbe76230f68",
+      "width": 480,
+      "height": 480,
+      "size": 51186,
+      "createdAt": "2026-07-09T20:58:35Z",
+      "updatedAt": "2026-07-09T20:58:35Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:58:43Z",
+  "updatedAt": "2026-07-09T20:58:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/cf-montreal/24-25/fan/camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalh-6f680296/front.webp",
+      "hash": "e11d6a3c6d3a279d4610afeed90086ecbd19032c7c229edee43110285361fbaa",
+      "width": 480,
+      "height": 480,
+      "size": 14684,
+      "createdAt": "2026-07-09T20:58:42Z",
+      "updatedAt": "2026-07-09T20:58:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/cf-montreal/24-25/fan/camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalh-6f680296/back.webp",
+      "hash": "eb8632e7d9cf1d2c33594714587452322e9bc9e959a3aa7c3a5c312af4e57015",
+      "width": 480,
+      "height": 480,
+      "size": 6948,
+      "createdAt": "2026-07-09T20:58:42Z",
+      "updatedAt": "2026-07-09T20:58:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/cf-montreal/24-25/fan/camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalh-6f680296/detail-1.webp",
+      "hash": "995ac86eb4b3897f05d51547cef183fcf5da85156ab7df056708e27b08464ec4",
+      "width": 480,
+      "height": 480,
+      "size": 28054,
+      "createdAt": "2026-07-09T20:58:43Z",
+      "updatedAt": "2026-07-09T20:58:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/cf-montreal/24-25/fan/camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalh-6f680296/detail-2.webp",
+      "hash": "217fce5d8e118dd289987953163e816481ae9362b624c276fb9bd9ab700f9d99",
+      "width": 480,
+      "height": 480,
+      "size": 23478,
+      "createdAt": "2026-07-09T20:58:43Z",
+      "updatedAt": "2026-07-09T20:58:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/cf-montreal/24-25/fan/camisa-cf-montreal-ii-24-25-torcedor-adidas-masculina-branca-com-detalh-6f680296/detail-3.webp",
+      "hash": "28c035859f782dff376d0339b7175e24d9616b92c82a9356af7835ea66f8b3eb",
+      "width": 480,
+      "height": 720,
+      "size": 59938,
+      "createdAt": "2026-07-09T20:58:43Z",
+      "updatedAt": "2026-07-09T20:58:43Z"
+    }
+  ]
+}

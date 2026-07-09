@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo-e-vermelho",
+  "createdAt": "2026-07-09T20:58:45Z",
+  "updatedAt": "2026-07-09T20:58:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/colorado-rapids/24-25/fan/camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-deta-451b5c9c/front.webp",
+      "hash": "a026844d314211a9de8a576e1782f324b845231c1597adcf4e48c616f444f5b9",
+      "width": 480,
+      "height": 480,
+      "size": 11586,
+      "createdAt": "2026-07-09T20:58:44Z",
+      "updatedAt": "2026-07-09T20:58:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/colorado-rapids/24-25/fan/camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-deta-451b5c9c/back.webp",
+      "hash": "4109754f6d72e02b02850d4065372b9bd482526caae411b6304a449745362349",
+      "width": 480,
+      "height": 480,
+      "size": 6396,
+      "createdAt": "2026-07-09T20:58:44Z",
+      "updatedAt": "2026-07-09T20:58:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/colorado-rapids/24-25/fan/camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-deta-451b5c9c/detail-1.webp",
+      "hash": "83743bf295408faa3b3d169a978c39896ccc721cc0d4173f31d66deb508e3e2e",
+      "width": 480,
+      "height": 432,
+      "size": 29498,
+      "createdAt": "2026-07-09T20:58:44Z",
+      "updatedAt": "2026-07-09T20:58:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/colorado-rapids/24-25/fan/camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-deta-451b5c9c/detail-2.webp",
+      "hash": "1efbb2387922920b5cc72bd9d446ad4f9f2408e384dac89bf7d6d6048db0a372",
+      "width": 480,
+      "height": 480,
+      "size": 37280,
+      "createdAt": "2026-07-09T20:58:44Z",
+      "updatedAt": "2026-07-09T20:58:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/colorado-rapids/24-25/fan/camisa-colorado-rapids-ii-24-25-torcedor-adidas-masculina-azul-com-deta-451b5c9c/detail-3.webp",
+      "hash": "96b66e630a3c41143a13977d2ee6f42199ddc7f900b5ce282d72be2cb9e84131",
+      "width": 480,
+      "height": 480,
+      "size": 17904,
+      "createdAt": "2026-07-09T20:58:45Z",
+      "updatedAt": "2026-07-09T20:58:45Z"
+    }
+  ]
+}

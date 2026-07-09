@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-cinza-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T20:58:38Z",
+  "updatedAt": "2026-07-09T20:58:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-cinza-c-212c51be/front.webp",
+      "hash": "943a118ab6476d3ec52d6f8362b75b15fa0374bfe87af7c25c7184a876588293",
+      "width": 480,
+      "height": 480,
+      "size": 16474,
+      "createdAt": "2026-07-09T20:58:38Z",
+      "updatedAt": "2026-07-09T20:58:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-cinza-c-212c51be/back.webp",
+      "hash": "d34ad93a837098b96e4d0e0531c58982098355572ba1a6941adb3411359600b7",
+      "width": 480,
+      "height": 480,
+      "size": 12168,
+      "createdAt": "2026-07-09T20:58:38Z",
+      "updatedAt": "2026-07-09T20:58:38Z"
+    }
+  ]
+}

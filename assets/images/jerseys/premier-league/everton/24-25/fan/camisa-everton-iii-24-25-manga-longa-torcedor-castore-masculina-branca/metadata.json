@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-branca",
+  "createdAt": "2026-07-09T20:58:37Z",
+  "updatedAt": "2026-07-09T20:58:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-branca/front.webp",
+      "hash": "0919efada1bbef47f553dffd08d3817d684fbc42fe6aaf8e62f6d440fb8cfa61",
+      "width": 480,
+      "height": 480,
+      "size": 8310,
+      "createdAt": "2026-07-09T20:58:37Z",
+      "updatedAt": "2026-07-09T20:58:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-manga-longa-torcedor-castore-masculina-branca/back.webp",
+      "hash": "2e741509719060e7d59a086c3c7e7e8a67a808650cef81ed6fb58fa2f4d1e998",
+      "width": 480,
+      "height": 480,
+      "size": 4822,
+      "createdAt": "2026-07-09T20:58:37Z",
+      "updatedAt": "2026-07-09T20:58:37Z"
+    }
+  ]
+}

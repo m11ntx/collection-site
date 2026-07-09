@@ -610,6 +610,16 @@
     "image": null
   },
   {
+    "id": "cf-montreal",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "cf-montreal",
+    "name": "CF Montréal",
+    "country": "Canada",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "charlotte-fc",
     "leagueId": "mls",
     "regionId": null,
@@ -625,6 +635,16 @@
     "regionId": null,
     "slug": "chicago-fc",
     "name": "Chicago FC",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "colorado-rapids",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "colorado-rapids",
+    "name": "Colorado Rapids",
     "country": "United States",
     "badge": null,
     "image": null
@@ -720,6 +740,16 @@
     "image": null
   },
   {
+    "id": "new-york-city-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "new-york-city-fc",
+    "name": "New York City FC",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "new-york-red-bull",
     "leagueId": "mls",
     "regionId": null,
@@ -760,6 +790,26 @@
     "image": null
   },
   {
+    "id": "real-salt-lake",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "real-salt-lake",
+    "name": "Real Salt Lake",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "san-jose-earthquakes",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "san-jose-earthquakes",
+    "name": "San Jose Earthquakes",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "seattle-fc",
     "leagueId": "mls",
     "regionId": null,
@@ -775,6 +825,16 @@
     "regionId": null,
     "slug": "sporting-kansas-city",
     "name": "Sporting Kansas City",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "st-louis-city",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "st-louis-city",
+    "name": "St. Louis City",
     "country": "United States",
     "badge": null,
     "image": null

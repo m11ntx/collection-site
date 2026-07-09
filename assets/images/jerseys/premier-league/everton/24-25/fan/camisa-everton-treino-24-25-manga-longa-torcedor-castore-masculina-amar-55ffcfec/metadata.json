@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-treino-24-25-manga-longa-torcedor-castore-masculina-amarela-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T20:58:39Z",
+  "updatedAt": "2026-07-09T20:58:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-treino-24-25-manga-longa-torcedor-castore-masculina-amar-55ffcfec/front.webp",
+      "hash": "5107c490110d3151b52b292a5f0cef23611482ebee6e1a8915ee249f743e76d8",
+      "width": 480,
+      "height": 480,
+      "size": 8504,
+      "createdAt": "2026-07-09T20:58:39Z",
+      "updatedAt": "2026-07-09T20:58:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-treino-24-25-manga-longa-torcedor-castore-masculina-amar-55ffcfec/back.webp",
+      "hash": "95a745240c4d94bae46d8d1679505213eb3d5c2c683466a2c1a1e9888173c1a6",
+      "width": 480,
+      "height": 480,
+      "size": 5128,
+      "createdAt": "2026-07-09T20:58:39Z",
+      "updatedAt": "2026-07-09T20:58:39Z"
+    }
+  ]
+}
