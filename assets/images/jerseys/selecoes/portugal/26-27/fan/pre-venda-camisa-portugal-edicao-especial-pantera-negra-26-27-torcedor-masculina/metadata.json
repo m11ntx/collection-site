@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-portugal-edicao-especial-pantera-negra-26-27-torcedor-masculina",
+  "createdAt": "2026-07-09T18:55:10Z",
+  "updatedAt": "2026-07-09T18:55:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/pre-venda-camisa-portugal-edicao-especial-pantera-negra-26-27-torcedor-masculina/front.webp",
+      "hash": "ebb315d7cad59d5cfc83fc1292abc963fcfe84f8333fecaeea39a09175161dbc",
+      "width": 480,
+      "height": 480,
+      "size": 28110,
+      "createdAt": "2026-07-09T18:55:10Z",
+      "updatedAt": "2026-07-09T18:55:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/26-27/fan/pre-venda-camisa-portugal-edicao-especial-pantera-negra-26-27-torcedor-masculina/back.webp",
+      "hash": "bfd9bd9c11e089a585810da5b1237bf21cf10465270fff576e42ec56a40bdd8a",
+      "width": 480,
+      "height": 480,
+      "size": 6412,
+      "createdAt": "2026-07-09T18:55:10Z",
+      "updatedAt": "2026-07-09T18:55:10Z"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2712,
+    "products": 2714,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,7 +8,7 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 2674,
+    "available": 2676,
     "unavailable": 38,
     "inventoryTracked": 0,
     "withManufacturer": 2127
@@ -19,7 +19,7 @@
     "europa": 1055,
     "lancamentos": 1,
     "resto-do-mundo": 85,
-    "selecoes": 543,
+    "selecoes": 545,
     "unknown": 235
   },
   "byLeague": {
@@ -35,16 +35,16 @@
     "primeira-liga": 17,
     "saudi-pro-league": 23,
     "scottish-premiership": 22,
-    "selecoes": 497,
+    "selecoes": 499,
     "serie-a": 218,
     "super-lig": 1,
     "unknown": 379
   },
   "byRegion": {
     "africa": 9,
-    "americas": 191,
+    "americas": 192,
     "asia": 42,
-    "europa": 250,
+    "europa": 251,
     "minas-gerais": 76,
     "nordeste": 70,
     "norte": 8,
@@ -150,7 +150,7 @@
     "manchester-united": 88,
     "marrocos": 2,
     "marseille": 6,
-    "mexico": 22,
+    "mexico": 23,
     "minnesota": 3,
     "monterrey": 2,
     "napoli": 33,
@@ -172,7 +172,7 @@
     "philadelphia-fc": 2,
     "polonia": 3,
     "portland-timbers-fc": 2,
-    "portugal": 31,
+    "portugal": 32,
     "psv": 1,
     "rangers": 2,
     "rb-leipzig": 5,
@@ -375,9 +375,9 @@
     "24/15": 1,
     "24/25": 1148,
     "24/35": 1,
-    "25/26": 277,
+    "25/26": 278,
     "2526": 1,
-    "26/27": 205,
+    "26/27": 206,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -404,19 +404,19 @@
     "unknown": 194
   },
   "byCategory": {
-    "current": 93,
+    "current": 94,
     "manga-longa": 12,
     "retro": 777,
-    "unknown": 1830
+    "unknown": 1831
   },
   "byVersion": {
-    "fan": 1274,
+    "fan": 1276,
     "player": 260,
     "unknown": 1178
   },
   "byGender": {
     "kids": 222,
-    "men": 1964,
+    "men": 1966,
     "unknown": 357,
     "women": 169
   }
