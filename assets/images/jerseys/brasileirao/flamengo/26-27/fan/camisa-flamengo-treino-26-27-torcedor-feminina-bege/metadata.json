@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-treino-26-27-torcedor-feminina-bege",
+  "createdAt": "2026-07-09T19:18:05Z",
+  "updatedAt": "2026-07-09T19:18:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-treino-26-27-torcedor-feminina-bege/front.webp",
+      "hash": "f9636d2cb38770374159222ecab659996941884c20ecd754c7214fc0b7ceca6d",
+      "width": 480,
+      "height": 480,
+      "size": 10410,
+      "createdAt": "2026-07-09T19:18:05Z",
+      "updatedAt": "2026-07-09T19:18:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-treino-26-27-torcedor-feminina-bege/back.webp",
+      "hash": "b4af7fae30892bc2dd3e0f49158c70c2fef77fd69dc2d645112fe2492c440fc9",
+      "width": 480,
+      "height": 480,
+      "size": 6448,
+      "createdAt": "2026-07-09T19:18:05Z",
+      "updatedAt": "2026-07-09T19:18:05Z"
+    }
+  ]
+}

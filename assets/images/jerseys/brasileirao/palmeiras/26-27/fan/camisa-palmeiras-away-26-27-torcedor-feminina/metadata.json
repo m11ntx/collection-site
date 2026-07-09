@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-away-26-27-torcedor-feminina",
+  "createdAt": "2026-07-09T19:18:05Z",
+  "updatedAt": "2026-07-09T19:18:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/26-27/fan/camisa-palmeiras-away-26-27-torcedor-feminina/front.webp",
+      "hash": "ff6abb506d0d11990bcc40eb216c827193a2e92da5f52b9697602d7f8457e3f2",
+      "width": 480,
+      "height": 480,
+      "size": 9930,
+      "createdAt": "2026-07-09T19:18:05Z",
+      "updatedAt": "2026-07-09T19:18:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/26-27/fan/camisa-palmeiras-away-26-27-torcedor-feminina/back.webp",
+      "hash": "039ca10991111f93520b791cab2ea33cc6038ccd60aa8310096439b137583aa5",
+      "width": 480,
+      "height": 480,
+      "size": 7256,
+      "createdAt": "2026-07-09T19:18:05Z",
+      "updatedAt": "2026-07-09T19:18:05Z"
+    }
+  ]
+}

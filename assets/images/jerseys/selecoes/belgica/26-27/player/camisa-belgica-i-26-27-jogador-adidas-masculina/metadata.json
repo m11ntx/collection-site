@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-belgica-i-26-27-jogador-adidas-masculina",
+  "createdAt": "2026-07-09T19:18:15Z",
+  "updatedAt": "2026-07-09T19:18:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/belgica/26-27/player/camisa-belgica-i-26-27-jogador-adidas-masculina/front.webp",
+      "hash": "b254c7be8d964db3ee7d97e6e530184c2924fa3dc3565b9b0bb289b675393513",
+      "width": 480,
+      "height": 480,
+      "size": 8492,
+      "createdAt": "2026-07-09T19:18:15Z",
+      "updatedAt": "2026-07-09T19:18:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/belgica/26-27/player/camisa-belgica-i-26-27-jogador-adidas-masculina/back.webp",
+      "hash": "1ce378a7c0826eaaf862464b415802d603a6776270534221fac8e7b8b35beec8",
+      "width": 480,
+      "height": 480,
+      "size": 7968,
+      "createdAt": "2026-07-09T19:18:15Z",
+      "updatedAt": "2026-07-09T19:18:15Z"
+    }
+  ]
+}

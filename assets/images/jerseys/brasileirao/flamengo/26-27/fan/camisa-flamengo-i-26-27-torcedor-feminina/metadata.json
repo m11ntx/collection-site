@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-i-26-27-torcedor-feminina",
+  "createdAt": "2026-07-09T19:18:05Z",
+  "updatedAt": "2026-07-09T19:18:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-i-26-27-torcedor-feminina/front.webp",
+      "hash": "ee722bfb8b86f4118662fab08f36e84fa42d50944ee51dd87e4e8d14f280e2be",
+      "width": 480,
+      "height": 480,
+      "size": 11930,
+      "createdAt": "2026-07-09T19:18:04Z",
+      "updatedAt": "2026-07-09T19:18:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/camisa-flamengo-i-26-27-torcedor-feminina/back.webp",
+      "hash": "43ff552b7df61885bea3ed7ffc6990c63305f798b9531eaa34d318db8654d992",
+      "width": 480,
+      "height": 480,
+      "size": 7844,
+      "createdAt": "2026-07-09T19:18:04Z",
+      "updatedAt": "2026-07-09T19:18:04Z"
+    }
+  ]
+}
