@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-i-24-25-torcedor-adidas-feminina-branca-e-preta",
+  "createdAt": "2026-07-09T05:35:03Z",
+  "updatedAt": "2026-07-09T05:35:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-i-24-25-torcedor-adidas-feminina-branca-e-preta/front.webp",
+      "hash": "a72ee5c9da549304fa248e887c815f9a91a855cb0b7435e98bd8c0dfaf4e2239",
+      "width": 480,
+      "height": 480,
+      "size": 10090,
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-i-24-25-torcedor-adidas-feminina-branca-e-preta/back.webp",
+      "hash": "b9287e9dd5fc203e86fd721d9bf04d694778abba961ceb3e8d40a99b486ee256",
+      "width": 480,
+      "height": 480,
+      "size": 8226,
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-ii-24-25-torcedor-nike-feminina-verde-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:02Z",
+  "updatedAt": "2026-07-09T05:35:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-ii-24-25-torcedor-nike-feminina-verde-com-det-fc83f1b0/front.webp",
+      "hash": "36755845f972b6e2d2cd5281c71b7e942c0cfd02bb4e62d3c600270773e8d092",
+      "width": 480,
+      "height": 480,
+      "size": 8402,
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/fan/camisa-atletico-de-madrid-ii-24-25-torcedor-nike-feminina-verde-com-det-fc83f1b0/back.webp",
+      "hash": "c6fd9fef6e377d64c8d7f8deb38843bb570e26c7c0b1c6bb61fdf2910952db15",
+      "width": 480,
+      "height": 480,
+      "size": 6474,
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
+    }
+  ]
+}

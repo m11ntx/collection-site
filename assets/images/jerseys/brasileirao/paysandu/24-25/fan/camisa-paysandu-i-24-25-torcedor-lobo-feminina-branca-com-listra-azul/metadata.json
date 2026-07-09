@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul",
+  "createdAt": "2026-07-09T05:36:11Z",
+  "updatedAt": "2026-07-09T05:36:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/front.webp",
+      "hash": "61a1bce983812c54b7395e126eba983eb864333160e02918d85fd2eba2ac6b4b",
+      "width": 480,
+      "height": 480,
+      "size": 8950,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/back.webp",
+      "hash": "683a7af97f01f6ea5ec8161361e20eef33a8e1e29bb358f0902f2877fb99c838",
+      "width": 480,
+      "height": 480,
+      "size": 5768,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/detail-1.webp",
+      "hash": "741a316d7ecf41806eb15da9c1abe44eb5c58f0bd04b81fe918c0f6435c0da8b",
+      "width": 480,
+      "height": 480,
+      "size": 12540,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/detail-2.webp",
+      "hash": "bd106722fa7628db13d82b336627e3503cb7f13aea2772843660076f8561a37a",
+      "width": 480,
+      "height": 480,
+      "size": 59138,
+      "createdAt": "2026-07-09T05:36:11Z",
+      "updatedAt": "2026-07-09T05:36:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/detail-3.webp",
+      "hash": "451bff38282bffc7f4a915996c557247008e918a9f9ecc6e752bfd13e0e8af80",
+      "width": 480,
+      "height": 480,
+      "size": 63530,
+      "createdAt": "2026-07-09T05:36:11Z",
+      "updatedAt": "2026-07-09T05:36:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/detail-4.webp",
+      "hash": "a3334428a7812aafa6a9bc1eb96568e1426cdf6dc2ac5460f3fa22bde00c5828",
+      "width": 480,
+      "height": 480,
+      "size": 14144,
+      "createdAt": "2026-07-09T05:36:11Z",
+      "updatedAt": "2026-07-09T05:36:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/paysandu/24-25/fan/camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-listra-azul/detail-5.webp",
+      "hash": "b4c53bbd70083fae1910153d5a426956bc5c96f81f44df42f06afd3afe073818",
+      "width": 480,
+      "height": 480,
+      "size": 10620,
+      "createdAt": "2026-07-09T05:36:11Z",
+      "updatedAt": "2026-07-09T05:36:11Z"
+    }
+  ]
+}

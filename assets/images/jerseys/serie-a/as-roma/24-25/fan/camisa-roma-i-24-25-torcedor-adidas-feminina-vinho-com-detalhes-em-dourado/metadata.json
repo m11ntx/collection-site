@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-roma-i-24-25-torcedor-adidas-feminina-vinho-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T05:35:49Z",
+  "updatedAt": "2026-07-09T05:35:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/as-roma/24-25/fan/camisa-roma-i-24-25-torcedor-adidas-feminina-vinho-com-detalhes-em-dourado/front.webp",
+      "hash": "2362ec8e02fab826954732149facb5cfc9e6a247cbfa8db957357fde9e7561cf",
+      "width": 480,
+      "height": 480,
+      "size": 10242,
+      "createdAt": "2026-07-09T05:35:49Z",
+      "updatedAt": "2026-07-09T05:35:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/as-roma/24-25/fan/camisa-roma-i-24-25-torcedor-adidas-feminina-vinho-com-detalhes-em-dourado/back.webp",
+      "hash": "0e9f71ad87a89240e770edcef34f44b5b78be0d3fc27a5f470536592efc3a647",
+      "width": 480,
+      "height": 480,
+      "size": 5658,
+      "createdAt": "2026-07-09T05:35:49Z",
+      "updatedAt": "2026-07-09T05:35:49Z"
+    }
+  ]
+}

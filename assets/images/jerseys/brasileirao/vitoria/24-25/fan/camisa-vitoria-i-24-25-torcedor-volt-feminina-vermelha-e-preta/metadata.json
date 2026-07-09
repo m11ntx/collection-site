@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta",
+  "createdAt": "2026-07-09T05:36:07Z",
+  "updatedAt": "2026-07-09T05:36:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/front.webp",
+      "hash": "04f54a647332919600e9a7de322e63f53018115c7047cc18db5150a2c24e0547",
+      "width": 480,
+      "height": 480,
+      "size": 6576,
+      "createdAt": "2026-07-09T05:36:06Z",
+      "updatedAt": "2026-07-09T05:36:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/back.webp",
+      "hash": "d3fb32b812cb71aaa79152c109b9a456d8292801ae45408914315a67aee18021",
+      "width": 480,
+      "height": 480,
+      "size": 5262,
+      "createdAt": "2026-07-09T05:36:06Z",
+      "updatedAt": "2026-07-09T05:36:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/detail-1.webp",
+      "hash": "6584e641ea64700011dac1a4b8e8cfeb87dd9be92a43fd8d4fa095b7d1f59531",
+      "width": 480,
+      "height": 480,
+      "size": 15060,
+      "createdAt": "2026-07-09T05:36:06Z",
+      "updatedAt": "2026-07-09T05:36:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/detail-2.webp",
+      "hash": "2725b1060bc635510cd5dbcff1e4447b7bde5c94b610922629c17c4b6f276d60",
+      "width": 480,
+      "height": 480,
+      "size": 46972,
+      "createdAt": "2026-07-09T05:36:06Z",
+      "updatedAt": "2026-07-09T05:36:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/detail-3.webp",
+      "hash": "b9bc44d69206f651f2fe67cb87b0931c53465221a8c63fa8ccf96cf1e4bf1486",
+      "width": 480,
+      "height": 480,
+      "size": 32434,
+      "createdAt": "2026-07-09T05:36:07Z",
+      "updatedAt": "2026-07-09T05:36:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/detail-4.webp",
+      "hash": "78bdccd993695f8697f9769967cba2be8c63bc350b1947c9c566a99deff42b00",
+      "width": 480,
+      "height": 480,
+      "size": 11552,
+      "createdAt": "2026-07-09T05:36:07Z",
+      "updatedAt": "2026-07-09T05:36:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vitoria/24-25/fan/camisa-vitoria-i-24-25-torcedor-volt-feminina-vermelha-e-preta/detail-5.webp",
+      "hash": "9543d93cf77f2f56a2f0c04bca573012cc8855a7de75b8530c47d29dcbcf080f",
+      "width": 480,
+      "height": 480,
+      "size": 39598,
+      "createdAt": "2026-07-09T05:36:07Z",
+      "updatedAt": "2026-07-09T05:36:07Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T05:35:12Z",
+  "updatedAt": "2026-07-09T05:35:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/front.webp",
+      "hash": "32b133c6f8c60ef8a99e252e5b83f65fd5a1c13b05c7faa4207cf0776cce7ce8",
+      "width": 480,
+      "height": 480,
+      "size": 12192,
+      "createdAt": "2026-07-09T05:35:11Z",
+      "updatedAt": "2026-07-09T05:35:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/back.webp",
+      "hash": "3fe64fe79362de2591ee18f8c19f48d993329ed8a9c79fb54d29f742c39a5dac",
+      "width": 480,
+      "height": 480,
+      "size": 12418,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/detail-1.webp",
+      "hash": "61b248de8122adf37651c83c1a9886116e7264fa9989cfdbefad1a207fb32a75",
+      "width": 480,
+      "height": 480,
+      "size": 4944,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/detail-2.webp",
+      "hash": "421a8029e9a3e42a441aeadceb6358fa7c2fada48b2c8f1c72ba94fa3d75f95b",
+      "width": 480,
+      "height": 480,
+      "size": 13004,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/detail-3.webp",
+      "hash": "6a8fa3ab93fdf23d50ff081967e702e6d89fe403f7490756faf0c5c4c01192c2",
+      "width": 480,
+      "height": 480,
+      "size": 6196,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-ii-24-25-torcedor-reebok-feminina-preta-com-detalhes-em-dourado/detail-4.webp",
+      "hash": "ef5aa79eb1af0e15124ee13403e643c508b2e9bcd0a928e1f93e2d6dc925da2e",
+      "width": 480,
+      "height": 480,
+      "size": 47068,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    }
+  ]
+}

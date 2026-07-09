@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta",
+  "createdAt": "2026-07-09T05:35:10Z",
+  "updatedAt": "2026-07-09T05:35:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta/front.webp",
+      "hash": "5c3443a0510a758bab5c4a39bf80937a33c224f0480523779ae39e78e47f06cc",
+      "width": 480,
+      "height": 480,
+      "size": 8828,
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta/back.webp",
+      "hash": "b226f8c47a1e8f0701d01187318589cbacd75fcfff8caaece062d393b8f9204a",
+      "width": 480,
+      "height": 480,
+      "size": 8724,
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta/detail-1.webp",
+      "hash": "02ed599bf1970d5a1f03a20ebb37088db0d7f33bf86e24bb8602b9baeae1cd5f",
+      "width": 480,
+      "height": 480,
+      "size": 6388,
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta/detail-2.webp",
+      "hash": "18771bf1c236be3fdde152b04ee31707d03ce912a4804087e26fc551d49c8622",
+      "width": 480,
+      "height": 480,
+      "size": 4268,
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta/detail-3.webp",
+      "hash": "68c5d95df522b25b0dc9b3e433a6c86e32350bef60009b5803302ad1bad03909",
+      "width": 480,
+      "height": 480,
+      "size": 5748,
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
+    }
+  ]
+}

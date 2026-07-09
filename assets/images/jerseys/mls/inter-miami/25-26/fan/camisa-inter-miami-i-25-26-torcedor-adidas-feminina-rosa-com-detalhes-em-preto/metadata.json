@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-inter-miami-i-25-26-torcedor-adidas-feminina-rosa-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T05:35:31Z",
+  "updatedAt": "2026-07-09T05:35:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/25-26/fan/camisa-inter-miami-i-25-26-torcedor-adidas-feminina-rosa-com-detalhes-em-preto/front.webp",
+      "hash": "a80015c7426c5c71c5f4a7f4fce4b5fe549ab7d797910359a070d544a0e06535",
+      "width": 480,
+      "height": 480,
+      "size": 8860,
+      "createdAt": "2026-07-09T05:35:30Z",
+      "updatedAt": "2026-07-09T05:35:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/25-26/fan/camisa-inter-miami-i-25-26-torcedor-adidas-feminina-rosa-com-detalhes-em-preto/back.webp",
+      "hash": "68b93869e06a538e845a6004cad7439b700450784e9ea5921fe4748f07fa9dae",
+      "width": 480,
+      "height": 480,
+      "size": 3804,
+      "createdAt": "2026-07-09T05:35:31Z",
+      "updatedAt": "2026-07-09T05:35:31Z"
+    }
+  ]
+}

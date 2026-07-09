@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-iii-24-25-torcedor-puma-feminina-dourada-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T05:35:42Z",
+  "updatedAt": "2026-07-09T05:35:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-feminina-dourada-com-detalhes-em-verde/front.webp",
+      "hash": "41c66b676c3eb20b11cfffa572f48852875c716f2a855e97408032ea8091773a",
+      "width": 480,
+      "height": 480,
+      "size": 14106,
+      "createdAt": "2026-07-09T05:35:42Z",
+      "updatedAt": "2026-07-09T05:35:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-iii-24-25-torcedor-puma-feminina-dourada-com-detalhes-em-verde/back.webp",
+      "hash": "9de02c08d0b300c3be579a3c5a6b5773d41aa92730d8180678648de563f0daaa",
+      "width": 480,
+      "height": 480,
+      "size": 5732,
+      "createdAt": "2026-07-09T05:35:42Z",
+      "updatedAt": "2026-07-09T05:35:42Z"
+    }
+  ]
+}

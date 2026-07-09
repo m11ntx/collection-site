@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-tottenham-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T05:36:03Z",
+  "updatedAt": "2026-07-09T05:36:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul/front.webp",
+      "hash": "d24cd14502a9ba67db286f58d371464c2b6da67aa26fa41e10957246a227a83a",
+      "width": 480,
+      "height": 480,
+      "size": 6890,
+      "createdAt": "2026-07-09T05:36:02Z",
+      "updatedAt": "2026-07-09T05:36:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul/back.webp",
+      "hash": "d831cbb2212b4169c6c7cbf567c32d1acfe4744e5a4b9389190ff68b555ec80e",
+      "width": 480,
+      "height": 480,
+      "size": 4602,
+      "createdAt": "2026-07-09T05:36:02Z",
+      "updatedAt": "2026-07-09T05:36:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "dd815cc899e778d50acc5f7eb17b5f74904e60de06d127c2574b7e82f7ad135b",
+      "width": 480,
+      "height": 600,
+      "size": 46214,
+      "createdAt": "2026-07-09T05:36:02Z",
+      "updatedAt": "2026-07-09T05:36:02Z"
+    }
+  ]
+}

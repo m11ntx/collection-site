@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T05:35:45Z",
+  "updatedAt": "2026-07-09T05:35:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/front.webp",
+      "hash": "67b519a0f50bb85a7de0c015412b26b74159dfc1fc5a9e1e1389d251d021f361",
+      "width": 480,
+      "height": 480,
+      "size": 16414,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/back.webp",
+      "hash": "682cfc4c0c54923fc3b5d9bae8e7553dda38b5740993b2ef9cdf822385f44c31",
+      "width": 480,
+      "height": 480,
+      "size": 16664,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/detail-1.webp",
+      "hash": "b9e7f2059504088fc4bfa9f8f84b0622027c87a5a8892992fde9b092721805ca",
+      "width": 480,
+      "height": 480,
+      "size": 26516,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/detail-2.webp",
+      "hash": "17ca0e716a9d6474495a5f02b7d7d3981538f7aef3aefc4f862cc3f44cb4396f",
+      "width": 480,
+      "height": 480,
+      "size": 60104,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/detail-3.webp",
+      "hash": "bc1302c263f94ab534001d32a7a158c5c92d5bc561cdcd2e6a2876d5eccb0b84",
+      "width": 480,
+      "height": 480,
+      "size": 65462,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/detail-4.webp",
+      "hash": "a1f53ae071453fa6f467ff76e93eeef3972ffa6cfc396d16db2fc1a5fb9b7773",
+      "width": 480,
+      "height": 480,
+      "size": 23200,
+      "createdAt": "2026-07-09T05:35:44Z",
+      "updatedAt": "2026-07-09T05:35:44Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-torcedor-nike-feminina-branca-com-d-cee610de/detail-5.webp",
+      "hash": "fe936fbf2d5561395e8cc88935383e794d9b6cdafcf30eaa5e8e5f9a6eecf395",
+      "width": 480,
+      "height": 480,
+      "size": 20908,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    }
+  ]
+}

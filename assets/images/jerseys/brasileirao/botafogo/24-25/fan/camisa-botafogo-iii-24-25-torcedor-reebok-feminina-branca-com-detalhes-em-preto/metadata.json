@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T05:35:13Z",
+  "updatedAt": "2026-07-09T05:35:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/front.webp",
+      "hash": "9b3166a539229de32a03b844c09813ff4a9b11f1da5393f41ee9860e7bcf7a96",
+      "width": 480,
+      "height": 480,
+      "size": 3906,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/back.webp",
+      "hash": "261eb283df3167e27a0585a11cf2edb812954accd2c7e70a129ac2134a738324",
+      "width": 480,
+      "height": 480,
+      "size": 3848,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/detail-1.webp",
+      "hash": "0ea28d2e1c175f5b9001df03d1ac7bd3abcfab3eb9edc478925c707254587794",
+      "width": 480,
+      "height": 480,
+      "size": 2448,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/detail-2.webp",
+      "hash": "b369b689fe1e23b5b811671618a61d4e953d96493fc24c3b1dd60933db31be74",
+      "width": 480,
+      "height": 480,
+      "size": 7536,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/detail-3.webp",
+      "hash": "7871ac96d5d074c1bf9bf5fe15ee4de557876ff3cb0a274da0f551c5a21b53ca",
+      "width": 480,
+      "height": 480,
+      "size": 4284,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/detail-4.webp",
+      "hash": "268996b8df4dc797dbce9eb11654dc487e2619e5490611a57f3b6a28bfa2a68e",
+      "width": 480,
+      "height": 480,
+      "size": 15172,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto/detail-5.webp",
+      "hash": "eba64bc8ec874dd2d9f44585566163ae6ad5c8f38443d3897c66abe3ac0296f5",
+      "width": 480,
+      "height": 480,
+      "size": 7270,
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
+    }
+  ]
+}

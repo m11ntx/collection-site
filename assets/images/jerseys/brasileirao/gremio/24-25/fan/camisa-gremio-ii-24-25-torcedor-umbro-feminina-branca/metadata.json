@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-ii-24-25-torcedor-umbro-feminina-branca",
+  "createdAt": "2026-07-09T05:35:29Z",
+  "updatedAt": "2026-07-09T05:35:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-ii-24-25-torcedor-umbro-feminina-branca/front.webp",
+      "hash": "a8e6cad86a1d2d4f5662293b8ecce7b8576dc0be5d54b3a897c9d5ed2b7a7e1b",
+      "width": 480,
+      "height": 480,
+      "size": 7442,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-ii-24-25-torcedor-umbro-feminina-branca/back.webp",
+      "hash": "15d5da5ac1da09af11d9d88629c68e735b4303d9be04a08169ba1174e74b2583",
+      "width": 480,
+      "height": 480,
+      "size": 6182,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T05:35:56Z",
+  "updatedAt": "2026-07-09T05:35:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/front.webp",
+      "hash": "f4e2bb33bf182bf966c3e8ac50a59c11bc4a20d6884caed6bff07f1e19ad9cc1",
+      "width": 480,
+      "height": 480,
+      "size": 9512,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/back.webp",
+      "hash": "158e3508f56559e194d4aa11a5f862e6e75bbc1a0120477597b22a6d5d40ba5b",
+      "width": 480,
+      "height": 480,
+      "size": 7058,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/detail-1.webp",
+      "hash": "1b2f099236b095cec9376b8a83aec095b7bb132691c43743aac14e0f6ec8f5bf",
+      "width": 480,
+      "height": 480,
+      "size": 36514,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/detail-2.webp",
+      "hash": "173aceb2a0e6069968ad42fbee86c7bb056b4acb30954317b6c670f73d0dd744",
+      "width": 480,
+      "height": 480,
+      "size": 11714,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/detail-3.webp",
+      "hash": "4ac74961892930a477bf4642d568a1bc620243fb47e49e61b3c1cba9be15e4c2",
+      "width": 480,
+      "height": 480,
+      "size": 11670,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/detail-4.webp",
+      "hash": "587f602b00137f9a00555905f2863b8967032e91973cd4a88c1b1cffe1cccfb8",
+      "width": 480,
+      "height": 480,
+      "size": 11784,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-i-2022-torcedor-nike-feminina-amarela-com-det-b4034175/detail-5.webp",
+      "hash": "8ea73fa73a65cd051a79784bdd56fc9467f23293fde053dc006da1139ef05ec2",
+      "width": 480,
+      "height": 480,
+      "size": 8172,
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
+    }
+  ]
+}

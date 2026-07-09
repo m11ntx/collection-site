@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul",
+  "createdAt": "2026-07-09T05:36:10Z",
+  "updatedAt": "2026-07-09T05:36:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/front.webp",
+      "hash": "fbbe2c7e2daa96d29b0d6bd20bc4b59680ec59921a4b2c4fef5ac698e93ad35e",
+      "width": 480,
+      "height": 480,
+      "size": 7310,
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/back.webp",
+      "hash": "6be2a993346cd1d15bbd339302b057345399f995a4571227fea8567458e18112",
+      "width": 480,
+      "height": 480,
+      "size": 5382,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/detail-1.webp",
+      "hash": "3192f7cfdf5c9cd21bd0c7cbe36f8af69b3036a059f692973a73ceed0268d0f1",
+      "width": 480,
+      "height": 480,
+      "size": 10130,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/detail-2.webp",
+      "hash": "4f556fa8e200022f69ebd9c27db7985575f8bda85563b4e29396d0ad5986ac6f",
+      "width": 480,
+      "height": 480,
+      "size": 48646,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/detail-3.webp",
+      "hash": "46beaf2d0bb57a014c833066893cab3d3185900d4756540543280020dd521f60",
+      "width": 480,
+      "height": 480,
+      "size": 69246,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/detail-4.webp",
+      "hash": "ad891534f6124f50cca8b94361c896fd676cfcdf37cae0681f511326e4294a81",
+      "width": 480,
+      "height": 480,
+      "size": 25876,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-i-24-25-torcedor-nike-feminina-azul/detail-5.webp",
+      "hash": "d40141eb303781055057b93ef09cfe1850dfb402323ba553b15cc045c68f30d2",
+      "width": 480,
+      "height": 480,
+      "size": 18260,
+      "createdAt": "2026-07-09T05:36:10Z",
+      "updatedAt": "2026-07-09T05:36:10Z"
+    }
+  ]
+}

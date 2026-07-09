@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-espanha-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T05:35:19Z",
+  "updatedAt": "2026-07-09T05:35:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-espanha-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-amarelo/front.webp",
+      "hash": "f087b5e9933271ee1134644080cd522c606615a6f86a3dc9fc1cf443c778c271",
+      "width": 480,
+      "height": 480,
+      "size": 12144,
+      "createdAt": "2026-07-09T05:35:19Z",
+      "updatedAt": "2026-07-09T05:35:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-espanha-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-amarelo/back.webp",
+      "hash": "2debde37da29d93826f701c86781b087bd488fd5463948ef09d7226b5f17aed3",
+      "width": 480,
+      "height": 480,
+      "size": 10360,
+      "createdAt": "2026-07-09T05:35:19Z",
+      "updatedAt": "2026-07-09T05:35:19Z"
+    }
+  ]
+}

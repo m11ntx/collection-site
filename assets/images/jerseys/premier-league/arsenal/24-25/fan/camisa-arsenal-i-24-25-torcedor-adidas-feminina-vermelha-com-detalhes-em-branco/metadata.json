@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T05:35:00Z",
+  "updatedAt": "2026-07-09T05:35:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco/front.webp",
+      "hash": "ac5604cb96999482ae4aa49d93dc55b74bbbe44563690330344b8ddc3d3e1e51",
+      "width": 480,
+      "height": 480,
+      "size": 13104,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco/back.webp",
+      "hash": "5887b0112dcff3f03535d033368ac1270fa0f4a1b65e8d5d79339cf147c8072a",
+      "width": 480,
+      "height": 480,
+      "size": 6290,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco/detail-1.webp",
+      "hash": "4eb184a85bedb1f24058da0e1c7b39928ac68b641982668bfcb024994277b8d8",
+      "width": 480,
+      "height": 480,
+      "size": 11296,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco/detail-2.webp",
+      "hash": "cc945d7adce6e3052e46b5d07771dcf778b3e09f8d55e350b0a581e7cfd03f2f",
+      "width": 480,
+      "height": 480,
+      "size": 8998,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-torcedor-adidas-feminina-vermelha-com-detalhes-em-branco/detail-3.webp",
+      "hash": "c3e0bc71a253a6abeeee90c004638cf442f377f0de65a7686b313bd4591d6156",
+      "width": 480,
+      "height": 480,
+      "size": 10144,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    }
+  ]
+}

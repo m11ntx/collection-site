@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-i-25-26-torcedor-feminina-verde",
+  "createdAt": "2026-07-09T05:35:41Z",
+  "updatedAt": "2026-07-09T05:35:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-i-25-26-torcedor-feminina-verde/front.webp",
+      "hash": "053177927462efa014ecb06e41951b803ab16128c01d5205cfce14186d703f6e",
+      "width": 480,
+      "height": 480,
+      "size": 9756,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/fan/camisa-palmeiras-i-25-26-torcedor-feminina-verde/back.webp",
+      "hash": "d1c4a2f098061404e0f8818de64628cdd191a9e64972d60fafc62bca180b45a0",
+      "width": 480,
+      "height": 480,
+      "size": 4416,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    }
+  ]
+}

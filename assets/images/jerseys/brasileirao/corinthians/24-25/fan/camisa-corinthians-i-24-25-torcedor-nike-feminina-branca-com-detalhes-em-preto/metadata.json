@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T05:35:13Z",
+  "updatedAt": "2026-07-09T05:35:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-preto/front.webp",
+      "hash": "f217ed97e31076f3fb6fefd888b9185b332e83576c2041c184c393ee5cfba422",
+      "width": 480,
+      "height": 480,
+      "size": 4730,
+      "createdAt": "2026-07-09T05:35:13Z",
+      "updatedAt": "2026-07-09T05:35:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-preto/back.webp",
+      "hash": "6c1a20589ba36583656529611ced29047031701f1c20c5c2634810258b327a09",
+      "width": 480,
+      "height": 480,
+      "size": 4030,
+      "createdAt": "2026-07-09T05:35:13Z",
+      "updatedAt": "2026-07-09T05:35:13Z"
+    }
+  ]
+}

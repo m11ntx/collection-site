@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-corinthians-i-25-26-torcedor-nike-feminina-branco",
+  "createdAt": "2026-07-09T05:35:14Z",
+  "updatedAt": "2026-07-09T05:35:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-i-25-26-torcedor-nike-feminina-branco/front.webp",
+      "hash": "50a077f5be5210a705d1b0acabc5566e1c6993dd3e92f127d54c1a64dc6f6258",
+      "width": 480,
+      "height": 480,
+      "size": 9296,
+      "createdAt": "2026-07-09T05:35:13Z",
+      "updatedAt": "2026-07-09T05:35:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-i-25-26-torcedor-nike-feminina-branco/back.webp",
+      "hash": "d73d6cba1655b8432fcaf45f5357b634b0fdec3ef05726c33ff2c8dcdb65a05c",
+      "width": 480,
+      "height": 480,
+      "size": 14556,
+      "createdAt": "2026-07-09T05:35:13Z",
+      "updatedAt": "2026-07-09T05:35:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-i-25-26-torcedor-nike-feminina-branco/detail-1.webp",
+      "hash": "5361f0b7ff87847d934c178713f8f74636eef73641656325ff904b4d3f1e5d3a",
+      "width": 480,
+      "height": 480,
+      "size": 37492,
+      "createdAt": "2026-07-09T05:35:13Z",
+      "updatedAt": "2026-07-09T05:35:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-i-25-26-torcedor-nike-feminina-branco/detail-2.webp",
+      "hash": "ec2b95eccd4371cdc726c24c608d5d42cefa564704fe2cb43b7ed8814ec5d5ab",
+      "width": 480,
+      "height": 480,
+      "size": 6240,
+      "createdAt": "2026-07-09T05:35:14Z",
+      "updatedAt": "2026-07-09T05:35:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-i-25-26-torcedor-nike-feminina-branco/detail-3.webp",
+      "hash": "cc12f276f38dc6f79249e3a3061b9b949aabbe41e45157b9fb0634194b31ec6e",
+      "width": 480,
+      "height": 480,
+      "size": 16382,
+      "createdAt": "2026-07-09T05:35:14Z",
+      "updatedAt": "2026-07-09T05:35:14Z"
+    }
+  ]
+}

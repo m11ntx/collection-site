@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-ii-24-25-torcedor-adidas-feminina-preta-com-detalhes-em-verde-e-marrom",
+  "createdAt": "2026-07-09T05:35:09Z",
+  "updatedAt": "2026-07-09T05:35:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-ii-24-25-torcedor-adidas-feminina-preta-com-de-53541d9a/front.webp",
+      "hash": "fddecfb9bcc0c45bf105fe80068adddadeeef3570134e2dc6af5df13469ddf60",
+      "width": 480,
+      "height": 480,
+      "size": 20488,
+      "createdAt": "2026-07-09T05:35:09Z",
+      "updatedAt": "2026-07-09T05:35:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-ii-24-25-torcedor-adidas-feminina-preta-com-de-53541d9a/back.webp",
+      "hash": "969e70ac08c9279208d3bc02fc389162fb093db35cd04ba9dce55688364b27b6",
+      "width": 480,
+      "height": 480,
+      "size": 17330,
+      "createdAt": "2026-07-09T05:35:09Z",
+      "updatedAt": "2026-07-09T05:35:09Z"
+    }
+  ]
+}

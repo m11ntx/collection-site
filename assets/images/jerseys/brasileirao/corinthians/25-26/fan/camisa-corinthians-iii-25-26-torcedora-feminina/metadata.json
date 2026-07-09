@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-iii-25-26-torcedora-feminina",
+  "createdAt": "2026-07-09T05:35:15Z",
+  "updatedAt": "2026-07-09T05:35:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-iii-25-26-torcedora-feminina/front.webp",
+      "hash": "5d39636b5e1c424c4bb6f7ef4861f8c5081b42202983dc857455280102e69b28",
+      "width": 480,
+      "height": 480,
+      "size": 6402,
+      "createdAt": "2026-07-09T05:35:15Z",
+      "updatedAt": "2026-07-09T05:35:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-iii-25-26-torcedora-feminina/back.webp",
+      "hash": "32d5db2004f51d6d4e1e42de4d52da4d1715473310e9656ecf09f1352bfe6a9b",
+      "width": 120,
+      "height": 120,
+      "size": 1022,
+      "createdAt": "2026-07-09T05:35:15Z",
+      "updatedAt": "2026-07-09T05:35:15Z"
+    }
+  ]
+}

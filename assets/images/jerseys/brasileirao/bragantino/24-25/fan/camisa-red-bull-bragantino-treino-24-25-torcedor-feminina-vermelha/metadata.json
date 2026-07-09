@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha",
+  "createdAt": "2026-07-09T05:35:47Z",
+  "updatedAt": "2026-07-09T05:35:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha/front.webp",
+      "hash": "6b4a5b4a5ed617e69d6dde8dc2850c8f83a7dd2c03839bd5a24ad7d48d1cb2ad",
+      "width": 480,
+      "height": 480,
+      "size": 16492,
+      "createdAt": "2026-07-09T05:35:47Z",
+      "updatedAt": "2026-07-09T05:35:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha/back.webp",
+      "hash": "62f28c8a627828c25b5664da0f8513d9de381ee79d59dedd9db3dd066d1fec14",
+      "width": 480,
+      "height": 480,
+      "size": 15200,
+      "createdAt": "2026-07-09T05:35:47Z",
+      "updatedAt": "2026-07-09T05:35:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha/detail-1.webp",
+      "hash": "52917ea3248e1045f7cd82baa77094fb6319a098a012408f19cbd6d062eac27f",
+      "width": 480,
+      "height": 480,
+      "size": 15538,
+      "createdAt": "2026-07-09T05:35:47Z",
+      "updatedAt": "2026-07-09T05:35:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha/detail-2.webp",
+      "hash": "35833a0a6e4489a7e817ee6cc1fc86ce05c51447640cfdb40cdbe2ec48b7cc68",
+      "width": 480,
+      "height": 480,
+      "size": 44420,
+      "createdAt": "2026-07-09T05:35:47Z",
+      "updatedAt": "2026-07-09T05:35:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-vermelha/detail-3.webp",
+      "hash": "4b71b9fe00fb5de26dd030eac027d352c72dfbf5b191428ab37ac032a3a1c11a",
+      "width": 480,
+      "height": 480,
+      "size": 48724,
+      "createdAt": "2026-07-09T05:35:47Z",
+      "updatedAt": "2026-07-09T05:35:47Z"
+    }
+  ]
+}

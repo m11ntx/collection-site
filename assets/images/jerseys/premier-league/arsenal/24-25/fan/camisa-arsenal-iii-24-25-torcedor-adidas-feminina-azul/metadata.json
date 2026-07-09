@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-iii-24-25-torcedor-adidas-feminina-azul",
+  "createdAt": "2026-07-09T05:35:01Z",
+  "updatedAt": "2026-07-09T05:35:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-iii-24-25-torcedor-adidas-feminina-azul/front.webp",
+      "hash": "5c8fa2e3f39a15522ba3ab33740709cb708818b0e1b98465c860ac667e612a03",
+      "width": 480,
+      "height": 480,
+      "size": 10240,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-iii-24-25-torcedor-adidas-feminina-azul/back.webp",
+      "hash": "900943c978d992f4893b714e76fe03e487b0e73dac99719915a2de523556bf16",
+      "width": 480,
+      "height": 480,
+      "size": 5940,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    }
+  ]
+}

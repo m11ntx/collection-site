@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-ii-24-25-torcedor-adidas-feminina-preta",
+  "createdAt": "2026-07-09T05:35:00Z",
+  "updatedAt": "2026-07-09T05:35:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-ii-24-25-torcedor-adidas-feminina-preta/front.webp",
+      "hash": "efa425212dd2a0a0fc698fd4f875dffc0031dbedb21b07180ec4f23160b32002",
+      "width": 480,
+      "height": 480,
+      "size": 12386,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-ii-24-25-torcedor-adidas-feminina-preta/back.webp",
+      "hash": "9b4305c1dfd5e0b30143a6aa1693c6656be4794a5d22854aed7fa597a8726a21",
+      "width": 480,
+      "height": 480,
+      "size": 6860,
+      "createdAt": "2026-07-09T05:35:00Z",
+      "updatedAt": "2026-07-09T05:35:00Z"
+    }
+  ]
+}

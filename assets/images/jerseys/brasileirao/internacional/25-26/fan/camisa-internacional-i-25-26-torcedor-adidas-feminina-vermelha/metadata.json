@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-internacional-i-25-26-torcedor-adidas-feminina-vermelha",
+  "createdAt": "2026-07-09T05:35:32Z",
+  "updatedAt": "2026-07-09T05:35:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-feminina-vermelha/front.webp",
+      "hash": "052606ffbd4b993eab5674ad9115468030987a2e267cade159851f205f8b9529",
+      "width": 480,
+      "height": 480,
+      "size": 10314,
+      "createdAt": "2026-07-09T05:35:31Z",
+      "updatedAt": "2026-07-09T05:35:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-feminina-vermelha/back.webp",
+      "hash": "84786133bc725c0ac92819f5b9cf958ef6a3f9db5f78f1dd572d8df1fbc37044",
+      "width": 480,
+      "height": 480,
+      "size": 7104,
+      "createdAt": "2026-07-09T05:35:32Z",
+      "updatedAt": "2026-07-09T05:35:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/fan/camisa-internacional-i-25-26-torcedor-adidas-feminina-vermelha/detail-1.webp",
+      "hash": "832fbfd741644bccf110382b21f41cea891f65ba66b6569edb7bc7d4f7382892",
+      "width": 480,
+      "height": 480,
+      "size": 19814,
+      "createdAt": "2026-07-09T05:35:32Z",
+      "updatedAt": "2026-07-09T05:35:32Z"
+    }
+  ]
+}

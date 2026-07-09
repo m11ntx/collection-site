@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-river-plate-i-24-25-torcedor-adidas-feminina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:48Z",
+  "updatedAt": "2026-07-09T05:35:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-i-24-25-torcedor-adidas-feminina-branca-com-detalhes-fc002ff8/front.webp",
+      "hash": "c9135fcb2867e8b76ed7d4aac17029662ae67b0755c25e6c4c14c5a591096940",
+      "width": 480,
+      "height": 480,
+      "size": 9566,
+      "createdAt": "2026-07-09T05:35:48Z",
+      "updatedAt": "2026-07-09T05:35:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-i-24-25-torcedor-adidas-feminina-branca-com-detalhes-fc002ff8/back.webp",
+      "hash": "8d3b331873d2b57eaea9140283db0eb1becedb1950fb5b531d1375219dc82bb0",
+      "width": 480,
+      "height": 480,
+      "size": 5052,
+      "createdAt": "2026-07-09T05:35:48Z",
+      "updatedAt": "2026-07-09T05:35:48Z"
+    }
+  ]
+}

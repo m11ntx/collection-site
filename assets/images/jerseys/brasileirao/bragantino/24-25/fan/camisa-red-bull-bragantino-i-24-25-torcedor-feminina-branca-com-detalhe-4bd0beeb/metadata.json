@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:46Z",
+  "updatedAt": "2026-07-09T05:35:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/front.webp",
+      "hash": "57af7a60cd4a807a3ba015d88400fb170c78834a4d7bd5059443a9e5694666bd",
+      "width": 480,
+      "height": 480,
+      "size": 22490,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/back.webp",
+      "hash": "3fb2ed5cec5baa2bc4f76ddfbd8c9baa517051caa0cdbb3b1c6d3596b3cf9d60",
+      "width": 480,
+      "height": 480,
+      "size": 8632,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/detail-1.webp",
+      "hash": "4b32a9c72dd35063212f59cb23425f3134b0deb216ff9267496de1199a25de00",
+      "width": 480,
+      "height": 480,
+      "size": 19992,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/detail-2.webp",
+      "hash": "44e0c6c9c82149b33c4a7d268c720132db4f6fa17e301933b21987d983cd3a74",
+      "width": 480,
+      "height": 480,
+      "size": 47998,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/detail-3.webp",
+      "hash": "7f65265b50ecf40fa47dede7421fcb2dab254bbd6c093764b12f6b70d56eda15",
+      "width": 480,
+      "height": 480,
+      "size": 48144,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/detail-4.webp",
+      "hash": "152d88c71c2fd16700a98a2c077eb27320f5fd77c5300d99edefbdba602c26f8",
+      "width": 480,
+      "height": 480,
+      "size": 37690,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/bragantino/24-25/fan/camisa-red-bull-bragantino-i-24-25-torcedor-feminina-branca-com-detalhe-4bd0beeb/detail-5.webp",
+      "hash": "ed5ee769e600f16f6371de153a2f073b056f415bb119e2d0c46f319409024b62",
+      "width": 480,
+      "height": 480,
+      "size": 23468,
+      "createdAt": "2026-07-09T05:35:45Z",
+      "updatedAt": "2026-07-09T05:35:45Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-em-preto-e-vermelho",
+  "createdAt": "2026-07-09T05:35:50Z",
+  "updatedAt": "2026-07-09T05:35:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/front.webp",
+      "hash": "933119520ff0b92e3c08ff2f1fa83c035203b672682ed0adb101e5abc31abc53",
+      "width": 480,
+      "height": 480,
+      "size": 5462,
+      "createdAt": "2026-07-09T05:35:49Z",
+      "updatedAt": "2026-07-09T05:35:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/back.webp",
+      "hash": "dd17fb2db6a1150e5c03d1cb6bb942c0a2ca375fe4ef29a9e94e42f59c9ad34d",
+      "width": 480,
+      "height": 480,
+      "size": 13120,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/detail-1.webp",
+      "hash": "bd2a8dcc2e5e0627ef2cf7dff1435e80c71b2138a3b4206b3242e9fc94ec53a9",
+      "width": 480,
+      "height": 480,
+      "size": 4478,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/detail-2.webp",
+      "hash": "a404f0af5d47698b7a8f52a4203530f4bdc28a6b22e4461a3fcfec68d920cc5e",
+      "width": 480,
+      "height": 480,
+      "size": 40214,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/detail-3.webp",
+      "hash": "3aa5d3dc2d54b6064b83d299d0bb21f3aaff9352709abc8ee2456c5d6ab75623",
+      "width": 480,
+      "height": 480,
+      "size": 37712,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/detail-4.webp",
+      "hash": "2473d5832fcec96272ce315115e2a12c1527a45987e47bc694c63b43409fbd93",
+      "width": 480,
+      "height": 480,
+      "size": 17200,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/santa-cruz/24-25/fan/camisa-santa-cruz-ii-24-25-torcedor-volt-feminina-branca-com-detalhes-e-04a4226b/detail-5.webp",
+      "hash": "33238d3533ef28e92c6b29de70c62207e31a96fca4cb1f8d8c8b38903646bc03",
+      "width": 480,
+      "height": 480,
+      "size": 16992,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    }
+  ]
+}

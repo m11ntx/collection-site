@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-ii-2025-26-feminina-patrocinio",
+  "createdAt": "2026-07-09T05:35:03Z",
+  "updatedAt": "2026-07-09T05:35:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025-26/fan/camisa-atletico-mineiro-ii-2025-26-feminina-patrocinio/front.webp",
+      "hash": "a39f8f16bd5e520115928780aa98a8adddc2297a5155236d48c1a0f114c20742",
+      "width": 480,
+      "height": 495,
+      "size": 8840,
+      "createdAt": "2026-07-09T05:35:03Z",
+      "updatedAt": "2026-07-09T05:35:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/2025-26/fan/camisa-atletico-mineiro-ii-2025-26-feminina-patrocinio/back.webp",
+      "hash": "7e6f37d78f0396ebc6c8816a8c8384c8c67c976137184f5cb6d4892d7e31fbfc",
+      "width": 480,
+      "height": 495,
+      "size": 3464,
+      "createdAt": "2026-07-09T05:35:03Z",
+      "updatedAt": "2026-07-09T05:35:03Z"
+    }
+  ]
+}

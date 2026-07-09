@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-feminina-treino-2025",
+  "createdAt": "2026-07-09T05:35:22Z",
+  "updatedAt": "2026-07-09T05:35:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025/fan/camisa-flamengo-feminina-treino-2025/front.webp",
+      "hash": "1c1b9809c5f587708cb9ab3c3f3099ec6e5837040e6f37ddf882ef3f2f4b8069",
+      "width": 473,
+      "height": 473,
+      "size": 7632,
+      "createdAt": "2026-07-09T05:35:21Z",
+      "updatedAt": "2026-07-09T05:35:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025/fan/camisa-flamengo-feminina-treino-2025/back.webp",
+      "hash": "463d27402703ac682d72b8742c8d637b2c7f70e924a068ab642261042b6f33c5",
+      "width": 473,
+      "height": 473,
+      "size": 5706,
+      "createdAt": "2026-07-09T05:35:22Z",
+      "updatedAt": "2026-07-09T05:35:22Z"
+    }
+  ]
+}

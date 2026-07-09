@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-i-24-25-torcedor-adidas-feminina-vermelha",
+  "createdAt": "2026-07-09T05:35:08Z",
+  "updatedAt": "2026-07-09T05:35:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-feminina-vermelha/front.webp",
+      "hash": "62866df6fc74679f790971c732a8bcf382fef4c76b22be3e173e8598178e6082",
+      "width": 480,
+      "height": 480,
+      "size": 13020,
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-i-24-25-torcedor-adidas-feminina-vermelha/back.webp",
+      "hash": "d42b4a38639c3a6cfdab83744fc28536dd9bd38f4c547891e0067aa5a7bc377f",
+      "width": 480,
+      "height": 480,
+      "size": 8508,
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
+    }
+  ]
+}

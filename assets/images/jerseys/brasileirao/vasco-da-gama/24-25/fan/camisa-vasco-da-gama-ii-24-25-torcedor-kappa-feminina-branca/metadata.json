@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-vasco-da-gama-ii-24-25-torcedor-kappa-feminina-branca",
+  "createdAt": "2026-07-09T05:36:05Z",
+  "updatedAt": "2026-07-09T05:36:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-ii-24-25-torcedor-kappa-feminina-branca/front.webp",
+      "hash": "fef6668dbdacacc59358aea467a61c61b13654c163831c645f788fc45d5bcc60",
+      "width": 480,
+      "height": 480,
+      "size": 10418,
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-ii-24-25-torcedor-kappa-feminina-branca/back.webp",
+      "hash": "681d87ae772bf3ed835520d0579998c131b3ab7759d6e3b34521945f9b72ef03",
+      "width": 480,
+      "height": 480,
+      "size": 5318,
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-ii-24-25-torcedor-kappa-feminina-branca/detail-1.webp",
+      "hash": "fe60ec7736a16b9686c6f9656b9e8b9b4e4475520526a07abeca372590f8ecc9",
+      "width": 480,
+      "height": 480,
+      "size": 33290,
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
+    }
+  ]
+}

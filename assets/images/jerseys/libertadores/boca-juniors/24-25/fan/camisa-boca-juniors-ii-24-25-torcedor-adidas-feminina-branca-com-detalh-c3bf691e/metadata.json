@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-em-amarelo-e-azul",
+  "createdAt": "2026-07-09T05:35:10Z",
+  "updatedAt": "2026-07-09T05:35:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-ii-24-25-torcedor-adidas-feminina-branca-com-detalh-c3bf691e/front.webp",
+      "hash": "1c257831afb8c204dfbbe1817cc4b73fbb770ed135f38eb874770158d25f3f56",
+      "width": 480,
+      "height": 480,
+      "size": 8384,
+      "createdAt": "2026-07-09T05:35:09Z",
+      "updatedAt": "2026-07-09T05:35:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-ii-24-25-torcedor-adidas-feminina-branca-com-detalh-c3bf691e/back.webp",
+      "hash": "3c0489f8cb53f627e9208e258b9c70b0e9d997b7055ccf9ae91bc9b331e1ef57",
+      "width": 480,
+      "height": 480,
+      "size": 4124,
+      "createdAt": "2026-07-09T05:35:09Z",
+      "updatedAt": "2026-07-09T05:35:09Z"
+    }
+  ]
+}

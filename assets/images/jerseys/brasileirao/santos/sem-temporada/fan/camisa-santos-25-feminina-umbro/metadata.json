@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-santos-25-feminina-umbro",
+  "createdAt": "2026-07-09T05:35:51Z",
+  "updatedAt": "2026-07-09T05:35:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/fan/camisa-santos-25-feminina-umbro/front.webp",
+      "hash": "97989ed8fba8f1d7a0d18f5fa4200614aed0570ae65418a5582d86326f85b2b9",
+      "width": 480,
+      "height": 480,
+      "size": 5842,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/fan/camisa-santos-25-feminina-umbro/back.webp",
+      "hash": "f8e811dceca4c75dbe3f5eb2b0dd4f46beb6544b74eadd2a0dec9695d787adac",
+      "width": 480,
+      "height": 480,
+      "size": 24888,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/fan/camisa-santos-25-feminina-umbro/detail-1.webp",
+      "hash": "094898912aa507c43e8e84fd3cbf7c7e54683599170feb237e11354a42df14ef",
+      "width": 480,
+      "height": 480,
+      "size": 27732,
+      "createdAt": "2026-07-09T05:35:50Z",
+      "updatedAt": "2026-07-09T05:35:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/fan/camisa-santos-25-feminina-umbro/detail-2.webp",
+      "hash": "8f9a6e072793578c6300e5a19765ab719d369bcd4f774d07cc79dfcaae31360c",
+      "width": 480,
+      "height": 480,
+      "size": 31716,
+      "createdAt": "2026-07-09T05:35:51Z",
+      "updatedAt": "2026-07-09T05:35:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/fan/camisa-santos-25-feminina-umbro/detail-3.webp",
+      "hash": "b81cce7bd97d0b6d5d5ab68c329544cf0249548ceb4059be2047b68db322b42a",
+      "width": 480,
+      "height": 480,
+      "size": 4652,
+      "createdAt": "2026-07-09T05:35:51Z",
+      "updatedAt": "2026-07-09T05:35:51Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-bahia-superman-25-26-torcedor-feminina",
+  "createdAt": "2026-07-09T05:35:07Z",
+  "updatedAt": "2026-07-09T05:35:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-superman-25-26-torcedor-feminina/front.webp",
+      "hash": "86df52482e17a1df01fa210026ee44fdac1af7e6736084a8424b226e37bc0cb6",
+      "width": 480,
+      "height": 480,
+      "size": 12974,
+      "createdAt": "2026-07-09T05:35:07Z",
+      "updatedAt": "2026-07-09T05:35:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-superman-25-26-torcedor-feminina/back.webp",
+      "hash": "13c02630e913f8d9e2c94c340eaaf34c0a825d356c0bec273e6d0135f6ab1bfd",
+      "width": 480,
+      "height": 480,
+      "size": 20988,
+      "createdAt": "2026-07-09T05:35:07Z",
+      "updatedAt": "2026-07-09T05:35:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/bahia/25-26/fan/camisa-bahia-superman-25-26-torcedor-feminina/detail-1.webp",
+      "hash": "6895900109e5f41e6a3e7ac51f1c975a7331796ed2a69bc71266af864c183c97",
+      "width": 480,
+      "height": 480,
+      "size": 8316,
+      "createdAt": "2026-07-09T05:35:07Z",
+      "updatedAt": "2026-07-09T05:35:07Z"
+    }
+  ]
+}

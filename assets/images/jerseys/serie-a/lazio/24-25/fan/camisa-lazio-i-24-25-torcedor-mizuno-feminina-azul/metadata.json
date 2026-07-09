@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul",
+  "createdAt": "2026-07-09T05:35:35Z",
+  "updatedAt": "2026-07-09T05:35:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/front.webp",
+      "hash": "6c820cb4f422cad70aa6ff88dd66066e31dc79fc3455a89c8c04f3520cac6bb7",
+      "width": 480,
+      "height": 480,
+      "size": 9082,
+      "createdAt": "2026-07-09T05:35:34Z",
+      "updatedAt": "2026-07-09T05:35:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/back.webp",
+      "hash": "399dbd92926bf855d4dbfbcd62f40f6884bd66763c0093e913a38702afc3cae9",
+      "width": 480,
+      "height": 480,
+      "size": 8492,
+      "createdAt": "2026-07-09T05:35:34Z",
+      "updatedAt": "2026-07-09T05:35:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/detail-1.webp",
+      "hash": "3ba494e3ae032ae06e8d0ab83555372318be2e408b550bcaa08d7f16ba626d61",
+      "width": 480,
+      "height": 480,
+      "size": 4266,
+      "createdAt": "2026-07-09T05:35:35Z",
+      "updatedAt": "2026-07-09T05:35:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/detail-2.webp",
+      "hash": "04d9bfd2350834031631e12b4747e3e09db2abcf092a4722882541cbd2775ffd",
+      "width": 480,
+      "height": 480,
+      "size": 41106,
+      "createdAt": "2026-07-09T05:35:35Z",
+      "updatedAt": "2026-07-09T05:35:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/detail-3.webp",
+      "hash": "57be77bb62b7b916ce0cfb2d7d60be004a20a21bbfb1dd8bda35c172f20ed28d",
+      "width": 480,
+      "height": 480,
+      "size": 44142,
+      "createdAt": "2026-07-09T05:35:35Z",
+      "updatedAt": "2026-07-09T05:35:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/detail-4.webp",
+      "hash": "efe9790bc7b068124fea68a86a80bd440fe3b722eb2c049d9bd35a58d973b206",
+      "width": 480,
+      "height": 480,
+      "size": 52942,
+      "createdAt": "2026-07-09T05:35:35Z",
+      "updatedAt": "2026-07-09T05:35:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/fan/camisa-lazio-i-24-25-torcedor-mizuno-feminina-azul/detail-5.webp",
+      "hash": "2e846d3ad82efc64a3243c956b67a68c04452628464f12e6403bd42546da3d40",
+      "width": 480,
+      "height": 480,
+      "size": 47684,
+      "createdAt": "2026-07-09T05:35:35Z",
+      "updatedAt": "2026-07-09T05:35:35Z"
+    }
+  ]
+}

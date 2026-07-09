@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-river-plate-iii-24-25-torcedor-adidas-feminina-preta",
+  "createdAt": "2026-07-09T05:35:49Z",
+  "updatedAt": "2026-07-09T05:35:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-iii-24-25-torcedor-adidas-feminina-preta/front.webp",
+      "hash": "276e1c5719e1d6d5b4e6f5727d6c17629520fcfb8422c9114e2c6d464ec386e6",
+      "width": 480,
+      "height": 480,
+      "size": 8760,
+      "createdAt": "2026-07-09T05:35:49Z",
+      "updatedAt": "2026-07-09T05:35:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-iii-24-25-torcedor-adidas-feminina-preta/back.webp",
+      "hash": "50da10d14c0efedcfc1d0554494b19d99cd5dc0c08633e6dd439902e1b0468a3",
+      "width": 480,
+      "height": 480,
+      "size": 5098,
+      "createdAt": "2026-07-09T05:35:49Z",
+      "updatedAt": "2026-07-09T05:35:49Z"
+    }
+  ]
+}

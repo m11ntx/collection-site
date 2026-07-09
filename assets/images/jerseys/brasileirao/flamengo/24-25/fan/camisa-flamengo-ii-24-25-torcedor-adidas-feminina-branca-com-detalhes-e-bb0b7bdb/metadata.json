@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:24Z",
+  "updatedAt": "2026-07-09T05:35:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/front.webp",
+      "hash": "d1f64e7cdc18e296218c64d0ce8365e1158912d01788a17e477fe65850ecc1bc",
+      "width": 480,
+      "height": 480,
+      "size": 6748,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/back.webp",
+      "hash": "2734626f5a6a9d2b5db080e034a713277aa34b6ddb2f79229adcf9a3a5bfb9cc",
+      "width": 480,
+      "height": 480,
+      "size": 9820,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/detail-1.webp",
+      "hash": "317ea367760ccbd5d6cb9132fc27a28cd01056bd4357c12a2f2b0542848ec0d7",
+      "width": 480,
+      "height": 480,
+      "size": 3734,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/detail-2.webp",
+      "hash": "089433e772a0286c1c3a3ca08e0cd6932429a30fd11f4d01cf4e7d0772efe4e7",
+      "width": 480,
+      "height": 480,
+      "size": 34206,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/detail-3.webp",
+      "hash": "583747b5e450a4b44b4fe4c5d5c1e42207f4c3da7e1c49b940d7054a768fc314",
+      "width": 480,
+      "height": 480,
+      "size": 22550,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/detail-4.webp",
+      "hash": "2493a1f18cc678bc15e9716631861f089de1b10777fec722ac2985dd5e6ec59e",
+      "width": 480,
+      "height": 480,
+      "size": 10096,
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-e-bb0b7bdb/detail-5.webp",
+      "hash": "d8b06c73c79f24990418935fddc19c9afb92e7f577331e51f4e9b8edea6bd49f",
+      "width": 480,
+      "height": 480,
+      "size": 6708,
+      "createdAt": "2026-07-09T05:35:24Z",
+      "updatedAt": "2026-07-09T05:35:24Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-ii-24-25-torcedor-castore-feminina-cinza-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T05:35:19Z",
+  "updatedAt": "2026-07-09T05:35:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-ii-24-25-torcedor-castore-feminina-cinza-com-detalhes-em-amarelo/front.webp",
+      "hash": "9bb9a38e174675fc877f830693f6f090ed9c498b12504ef2db538d8ef91c67cc",
+      "width": 480,
+      "height": 480,
+      "size": 12916,
+      "createdAt": "2026-07-09T05:35:19Z",
+      "updatedAt": "2026-07-09T05:35:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-ii-24-25-torcedor-castore-feminina-cinza-com-detalhes-em-amarelo/back.webp",
+      "hash": "1fc38a2b2df5a4f2d2ebd8d9f33f802f13918467ee7a0ac0e0b0ddd462faa658",
+      "width": 480,
+      "height": 480,
+      "size": 9892,
+      "createdAt": "2026-07-09T05:35:19Z",
+      "updatedAt": "2026-07-09T05:35:19Z"
+    }
+  ]
+}

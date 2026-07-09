@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-detalhes-em-vermelho-e-verde",
+  "createdAt": "2026-07-09T05:35:39Z",
+  "updatedAt": "2026-07-09T05:35:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/front.webp",
+      "hash": "c2fba8873541c6c570b61f11b91f88b53c9e8626b3a54d5ff0c1712b0bf833b1",
+      "width": 480,
+      "height": 480,
+      "size": 14012,
+      "createdAt": "2026-07-09T05:35:38Z",
+      "updatedAt": "2026-07-09T05:35:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/back.webp",
+      "hash": "6960088017ceff00e4d804d5d6a403304f81d579bde40655d6cf96f88d8808d2",
+      "width": 480,
+      "height": 480,
+      "size": 21696,
+      "createdAt": "2026-07-09T05:35:38Z",
+      "updatedAt": "2026-07-09T05:35:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/detail-1.webp",
+      "hash": "feebcf9aeeec0f1cce8970084c5747bff1149baf25a6ce87f9d68163972052da",
+      "width": 480,
+      "height": 480,
+      "size": 11836,
+      "createdAt": "2026-07-09T05:35:38Z",
+      "updatedAt": "2026-07-09T05:35:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/detail-2.webp",
+      "hash": "cfbb879f623000720d1670e2440f37c3bd5887794a2f7d5a1e4c1ff45ad4e86c",
+      "width": 480,
+      "height": 480,
+      "size": 71692,
+      "createdAt": "2026-07-09T05:35:38Z",
+      "updatedAt": "2026-07-09T05:35:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/detail-3.webp",
+      "hash": "a3b6240d6b3b3cd336a70c8ca991bbd46823b0459f86273d833bc5c98a4bee67",
+      "width": 480,
+      "height": 480,
+      "size": 62654,
+      "createdAt": "2026-07-09T05:35:39Z",
+      "updatedAt": "2026-07-09T05:35:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/detail-4.webp",
+      "hash": "1ebadad3f240a65ff5a47bf4ddaa0de69492b850c67f899277cdc43d2b6e4b71",
+      "width": 480,
+      "height": 480,
+      "size": 17948,
+      "createdAt": "2026-07-09T05:35:39Z",
+      "updatedAt": "2026-07-09T05:35:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-torcedor-adidas-feminina-vinho-com-det-ab3e819c/detail-5.webp",
+      "hash": "5a06f82b0ac7c2dcd87361a03f50ffa03563b7475251e9c2c8be4f56bb81b6a4",
+      "width": 480,
+      "height": 480,
+      "size": 20490,
+      "createdAt": "2026-07-09T05:35:39Z",
+      "updatedAt": "2026-07-09T05:35:39Z"
+    }
+  ]
+}

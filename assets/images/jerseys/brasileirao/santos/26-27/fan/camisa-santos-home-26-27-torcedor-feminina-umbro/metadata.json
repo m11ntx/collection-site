@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-home-26-27-torcedor-feminina-umbro",
+  "createdAt": "2026-07-09T05:35:28Z",
+  "updatedAt": "2026-07-09T05:35:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-home-26-27-torcedor-feminina-umbro/front.webp",
+      "hash": "db29291c38f917ecf543d9e3bebff137d81fe28a25acfcf7177ab6ece260ca77",
+      "width": 480,
+      "height": 480,
+      "size": 9182,
+      "createdAt": "2026-07-09T05:35:28Z",
+      "updatedAt": "2026-07-09T05:35:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-home-26-27-torcedor-feminina-umbro/back.webp",
+      "hash": "bf21512cef5378889e823a6a82e4e0c2ee95229cad14335fc7258c2a04efc9e6",
+      "width": 480,
+      "height": 480,
+      "size": 5820,
+      "createdAt": "2026-07-09T05:35:28Z",
+      "updatedAt": "2026-07-09T05:35:28Z"
+    }
+  ]
+}

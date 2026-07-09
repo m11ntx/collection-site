@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-ii-24-25-torcedor-nike-feminina-preta-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T05:35:36Z",
+  "updatedAt": "2026-07-09T05:35:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-ii-24-25-torcedor-nike-feminina-preta-com-detalhes-em-verde/front.webp",
+      "hash": "c7bfc41bae8b04fb8ab5722c6cab25b92dc1f796249547f88a3119e58d2d9854",
+      "width": 480,
+      "height": 480,
+      "size": 7154,
+      "createdAt": "2026-07-09T05:35:36Z",
+      "updatedAt": "2026-07-09T05:35:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-ii-24-25-torcedor-nike-feminina-preta-com-detalhes-em-verde/back.webp",
+      "hash": "88fcf10734b922535db5ec0dc4771311d6e1e65bb1c0675b6d7fdebec50d6b93",
+      "width": 480,
+      "height": 480,
+      "size": 4260,
+      "createdAt": "2026-07-09T05:35:36Z",
+      "updatedAt": "2026-07-09T05:35:36Z"
+    }
+  ]
+}

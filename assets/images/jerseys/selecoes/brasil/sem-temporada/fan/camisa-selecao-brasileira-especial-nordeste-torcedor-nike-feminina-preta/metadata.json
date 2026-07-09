@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta",
+  "createdAt": "2026-07-09T05:35:55Z",
+  "updatedAt": "2026-07-09T05:35:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/front.webp",
+      "hash": "05de8d2c20f53be6c27d11d85ced7a77e079e69e9accf07f6de1165c8140aafd",
+      "width": 480,
+      "height": 480,
+      "size": 12228,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/back.webp",
+      "hash": "d1beb7d53a42b40ae81d935d19fec8404bd65b66361048acb4afb78f227f607e",
+      "width": 480,
+      "height": 480,
+      "size": 5644,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/detail-1.webp",
+      "hash": "8db9a11473964173a37cc765ffebaa193be3e422d06ef39286b0f19fe3291d87",
+      "width": 480,
+      "height": 480,
+      "size": 22558,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/detail-2.webp",
+      "hash": "f94531422135f07842dd7a97ad03874ea8b0b9924276f5fe63519d494d83bfa1",
+      "width": 480,
+      "height": 480,
+      "size": 16814,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/detail-3.webp",
+      "hash": "de4ac9d04c434e1e15b6f8982403fc3b9840926a67f7a7ad82019a7b76be8cb0",
+      "width": 480,
+      "height": 480,
+      "size": 17358,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/detail-4.webp",
+      "hash": "4ee448b2268a79e34caf28d96c6823ed9dfea4dc33ff0595bea136f1a42a9a35",
+      "width": 480,
+      "height": 480,
+      "size": 51262,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-selecao-brasileira-especial-nordeste-torcedor-nike-feminina-preta/detail-5.webp",
+      "hash": "074a2a81161a8543c5f5c6c268e8248d350424178a6268c9694b975b7fc34a14",
+      "width": 480,
+      "height": 480,
+      "size": 42848,
+      "createdAt": "2026-07-09T05:35:55Z",
+      "updatedAt": "2026-07-09T05:35:55Z"
+    }
+  ]
+}

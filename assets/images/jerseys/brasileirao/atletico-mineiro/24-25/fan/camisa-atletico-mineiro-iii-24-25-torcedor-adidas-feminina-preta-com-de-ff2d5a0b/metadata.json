@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T05:35:04Z",
+  "updatedAt": "2026-07-09T05:35:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-de-ff2d5a0b/front.webp",
+      "hash": "740df281da3bc1cb4cfcbeb5050be0fa75cbca7243ba637cca60ec55be9b3139",
+      "width": 480,
+      "height": 480,
+      "size": 22202,
+      "createdAt": "2026-07-09T05:35:03Z",
+      "updatedAt": "2026-07-09T05:35:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-de-ff2d5a0b/back.webp",
+      "hash": "dd36fe019051c86ec56ec516ebcbcf86e8aa09619adf1a83048db27de46a0166",
+      "width": 480,
+      "height": 480,
+      "size": 6538,
+      "createdAt": "2026-07-09T05:35:03Z",
+      "updatedAt": "2026-07-09T05:35:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-de-ff2d5a0b/detail-1.webp",
+      "hash": "08e94d3aca88d988c8b72324a7b38d594a3b04c561dc234bd57b8e17382b1782",
+      "width": 480,
+      "height": 480,
+      "size": 27188,
+      "createdAt": "2026-07-09T05:35:03Z",
+      "updatedAt": "2026-07-09T05:35:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-de-ff2d5a0b/detail-2.webp",
+      "hash": "c15c94b30b85b4818d3285fe64246a4f27fa4600c367befa860b353a8d6e9abb",
+      "width": 480,
+      "height": 480,
+      "size": 28048,
+      "createdAt": "2026-07-09T05:35:04Z",
+      "updatedAt": "2026-07-09T05:35:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/24-25/fan/camisa-atletico-mineiro-iii-24-25-torcedor-adidas-feminina-preta-com-de-ff2d5a0b/detail-3.webp",
+      "hash": "05cfb09f14025a3c359fbe7f6ce789cf9a7a8309730c1cd9ea60e9aaa7784914",
+      "width": 480,
+      "height": 480,
+      "size": 17908,
+      "createdAt": "2026-07-09T05:35:04Z",
+      "updatedAt": "2026-07-09T05:35:04Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-edicao-especial-outubro-rosa-retro-2020-21-torcedor-adidas-feminina-rosa",
+  "createdAt": "2026-07-09T05:35:20Z",
+  "updatedAt": "2026-07-09T05:35:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2020-21/fan/camisa-flamengo-edicao-especial-outubro-rosa-retro-2020-21-torcedor-adi-0660ed1b/front.webp",
+      "hash": "e95ebd401b076577a518a81f07d680bd4d6c49853ffce9af563c3ca120b9614d",
+      "width": 480,
+      "height": 480,
+      "size": 8982,
+      "createdAt": "2026-07-09T05:35:20Z",
+      "updatedAt": "2026-07-09T05:35:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2020-21/fan/camisa-flamengo-edicao-especial-outubro-rosa-retro-2020-21-torcedor-adi-0660ed1b/back.webp",
+      "hash": "e14cc235c6823b43f21dbfd7ce63c3d2a3722494e767decf64d76965e537ec1b",
+      "width": 480,
+      "height": 480,
+      "size": 7122,
+      "createdAt": "2026-07-09T05:35:20Z",
+      "updatedAt": "2026-07-09T05:35:20Z"
+    }
+  ]
+}

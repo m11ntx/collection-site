@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-santos-charlie-brown-jr-24-25-feminina-umbro",
+  "createdAt": "2026-07-09T05:35:51Z",
+  "updatedAt": "2026-07-09T05:35:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-charlie-brown-jr-24-25-feminina-umbro/front.webp",
+      "hash": "22c6b576c0cedaa0479a4258dd98c8a970093ffaa90f894a6352518c696a1525",
+      "width": 480,
+      "height": 480,
+      "size": 12014,
+      "createdAt": "2026-07-09T05:35:51Z",
+      "updatedAt": "2026-07-09T05:35:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-charlie-brown-jr-24-25-feminina-umbro/back.webp",
+      "hash": "d234effd96f1bc571472e99fde43a54a0542e7f4e5c89b3182fd0930d7104a15",
+      "width": 480,
+      "height": 480,
+      "size": 16644,
+      "createdAt": "2026-07-09T05:35:51Z",
+      "updatedAt": "2026-07-09T05:35:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-charlie-brown-jr-24-25-feminina-umbro/detail-1.webp",
+      "hash": "ee58333dc003126037de8c3ae593653433c6a6af0f2acb2c52a883ad25b06f59",
+      "width": 480,
+      "height": 480,
+      "size": 18972,
+      "createdAt": "2026-07-09T05:35:51Z",
+      "updatedAt": "2026-07-09T05:35:51Z"
+    }
+  ]
+}

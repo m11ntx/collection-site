@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-paris-saint-germain-ii-24-25-torcedor-nike-feminina-branca",
+  "createdAt": "2026-07-09T05:35:43Z",
+  "updatedAt": "2026-07-09T05:35:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-ii-24-25-torcedor-nike-feminina-branca/front.webp",
+      "hash": "f1bfafb260c41ac0a4805207088cd1257fedfad502aab141d9aa3d9c85a44761",
+      "width": 480,
+      "height": 480,
+      "size": 8996,
+      "createdAt": "2026-07-09T05:35:43Z",
+      "updatedAt": "2026-07-09T05:35:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-ii-24-25-torcedor-nike-feminina-branca/back.webp",
+      "hash": "20dd2c5194ab64646b58c4ef354899a2f0ca0f5ecf7c860a45277ea0ea2c04ba",
+      "width": 480,
+      "height": 480,
+      "size": 3626,
+      "createdAt": "2026-07-09T05:35:43Z",
+      "updatedAt": "2026-07-09T05:35:43Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cropped-do-flamengo-iii-25-26-feminina-adidas",
+  "createdAt": "2026-07-09T05:35:16Z",
+  "updatedAt": "2026-07-09T05:35:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-cropped-do-flamengo-iii-25-26-feminina-adidas/front.webp",
+      "hash": "4a09a9e0e0a307e2ea0f3f068e853e677555f131ab701af34640043797cc673a",
+      "width": 480,
+      "height": 480,
+      "size": 6574,
+      "createdAt": "2026-07-09T05:35:16Z",
+      "updatedAt": "2026-07-09T05:35:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/fan/camisa-cropped-do-flamengo-iii-25-26-feminina-adidas/back.webp",
+      "hash": "08c7adee8712ac489fb6a44bb8ef8c925ebe795b1acd812bfb146ed461e819b4",
+      "width": 480,
+      "height": 480,
+      "size": 4394,
+      "createdAt": "2026-07-09T05:35:16Z",
+      "updatedAt": "2026-07-09T05:35:16Z"
+    }
+  ]
+}

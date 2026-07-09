@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T05:35:59Z",
+  "updatedAt": "2026-07-09T05:35:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/front.webp",
+      "hash": "6393e89624eee78bb807e095f8953e684bde628872c711d9928f12db99ad45ce",
+      "width": 480,
+      "height": 480,
+      "size": 7126,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/back.webp",
+      "hash": "bdc2ef69728232f2d7bf16abe1ed82f228ab5718aaf1ae6a252bc14565c31edd",
+      "width": 480,
+      "height": 480,
+      "size": 13198,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/detail-1.webp",
+      "hash": "3d9e345212d317f737dfefafec3d96dc3f79827e04b8066961dce7ecabd980c3",
+      "width": 480,
+      "height": 480,
+      "size": 4714,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/detail-2.webp",
+      "hash": "027ff5f51def8563f6659c634805c0426f5a3ea9d43200e91894e05b7529b678",
+      "width": 480,
+      "height": 480,
+      "size": 6416,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/detail-3.webp",
+      "hash": "c7eb21836377aff21110a1c10489dccbffefda2ae699c1ccda9a25acbb245b90",
+      "width": 480,
+      "height": 480,
+      "size": 34710,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/detail-4.webp",
+      "hash": "dc1979438d36cabdd9bfce17442b2e41fa688f82b5165893a6ac43a7a10454a8",
+      "width": 480,
+      "height": 480,
+      "size": 14196,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-feminina-azul-com--5ee3c346/detail-5.webp",
+      "hash": "b296d2394491bc460d209982592598bfa4805eab7e97dca6db60d89b306e98a3",
+      "width": 480,
+      "height": 480,
+      "size": 10080,
+      "createdAt": "2026-07-09T05:35:59Z",
+      "updatedAt": "2026-07-09T05:35:59Z"
+    }
+  ]
+}

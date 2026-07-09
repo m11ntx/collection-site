@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-fluminense-i-26-27-feminina-umbro-tricolor",
+  "createdAt": "2026-07-09T05:35:26Z",
+  "updatedAt": "2026-07-09T05:35:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/camisa-fluminense-i-26-27-feminina-umbro-tricolor/front.webp",
+      "hash": "1dab1381ac96f583b96dabaadcd2cb57f524eb7976c9cbb0418f4dd4333024fe",
+      "width": 480,
+      "height": 480,
+      "size": 13868,
+      "createdAt": "2026-07-09T05:35:26Z",
+      "updatedAt": "2026-07-09T05:35:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/camisa-fluminense-i-26-27-feminina-umbro-tricolor/back.webp",
+      "hash": "9a05aaa56dcde5a67babfb06bb2b5cf4383a6a33137ec2cb404b6b6b175cd27e",
+      "width": 480,
+      "height": 480,
+      "size": 15302,
+      "createdAt": "2026-07-09T05:35:26Z",
+      "updatedAt": "2026-07-09T05:35:26Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul",
+  "createdAt": "2026-07-09T05:35:18Z",
+  "updatedAt": "2026-07-09T05:35:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul/front.webp",
+      "hash": "b84fdd6cf6b77bfdef7f99e7343ea8992e76aa6288720baeb867832108b3f551",
+      "width": 480,
+      "height": 480,
+      "size": 18644,
+      "createdAt": "2026-07-09T05:35:18Z",
+      "updatedAt": "2026-07-09T05:35:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul/back.webp",
+      "hash": "1ebad7670fb8f8113639c8c8be2c823b72756668c318d480dbd0b2434761c23f",
+      "width": 480,
+      "height": 480,
+      "size": 5008,
+      "createdAt": "2026-07-09T05:35:18Z",
+      "updatedAt": "2026-07-09T05:35:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul/detail-1.webp",
+      "hash": "d17513a97b72df0f49a9ad901e9bbdee61f508b5311db34860d744979b032d7a",
+      "width": 480,
+      "height": 480,
+      "size": 27842,
+      "createdAt": "2026-07-09T05:35:18Z",
+      "updatedAt": "2026-07-09T05:35:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul/detail-2.webp",
+      "hash": "b923a797c0a85dc5d53cd84f84fd4a75e975316dd93fc80288116d1973cbf840",
+      "width": 480,
+      "height": 480,
+      "size": 69256,
+      "createdAt": "2026-07-09T05:35:18Z",
+      "updatedAt": "2026-07-09T05:35:18Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/24-25/fan/camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul/detail-3.webp",
+      "hash": "1204619444338657ab74d2e729acf878fd311397a38666f06d658574a67a3899",
+      "width": 480,
+      "height": 480,
+      "size": 54882,
+      "createdAt": "2026-07-09T05:35:18Z",
+      "updatedAt": "2026-07-09T05:35:18Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-ii-24-25-torcedor-puma-feminina-azul-e-amarela",
+  "createdAt": "2026-07-09T05:35:37Z",
+  "updatedAt": "2026-07-09T05:35:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-ii-24-25-torcedor-puma-feminina-azul-e-amarela/front.webp",
+      "hash": "85bdcadef7761ba94fc86a317e69de532c7dd3f26a62c9e78c5e0f32d0c37545",
+      "width": 480,
+      "height": 480,
+      "size": 10724,
+      "createdAt": "2026-07-09T05:35:37Z",
+      "updatedAt": "2026-07-09T05:35:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-ii-24-25-torcedor-puma-feminina-azul-e-amarela/back.webp",
+      "hash": "ba40e2666d2c8d9b82e3f19df95924b61c5064b99d2ad996aaa67ac33b32a6eb",
+      "width": 480,
+      "height": 480,
+      "size": 5172,
+      "createdAt": "2026-07-09T05:35:37Z",
+      "updatedAt": "2026-07-09T05:35:37Z"
+    }
+  ]
+}

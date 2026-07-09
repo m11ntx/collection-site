@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-ii-24-25-torcedor-adidas-feminina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:32Z",
+  "updatedAt": "2026-07-09T05:35:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-ii-24-25-torcedor-adidas-feminina-branca-com-detal-c5c7e9ec/front.webp",
+      "hash": "cdb54675cde18b64e1f9cb796888af78980e687e6f5a05bb0cf6a8ccd4dcffcc",
+      "width": 480,
+      "height": 480,
+      "size": 8670,
+      "createdAt": "2026-07-09T05:35:32Z",
+      "updatedAt": "2026-07-09T05:35:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/fan/camisa-internacional-ii-24-25-torcedor-adidas-feminina-branca-com-detal-c5c7e9ec/back.webp",
+      "hash": "5b98b1a7825c1bbf7806065d9b22984f3c5c4ebec077dd5ede5ee7f6e9e29e1a",
+      "width": 480,
+      "height": 480,
+      "size": 3964,
+      "createdAt": "2026-07-09T05:35:32Z",
+      "updatedAt": "2026-07-09T05:35:32Z"
+    }
+  ]
+}

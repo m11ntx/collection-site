@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-athletico-paranaense-outubro-rosa-24-25-torcedor-umbro-feminina-rosa-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T05:35:01Z",
+  "updatedAt": "2026-07-09T05:35:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-outubro-rosa-24-25-torcedor-umbro-feminina--f5a2736e/front.webp",
+      "hash": "3365336e4bb1c072bd68f362645bc6ee7ca939ced680b2efa2944e660328b71a",
+      "width": 480,
+      "height": 480,
+      "size": 6800,
+      "createdAt": "2026-07-09T05:35:01Z",
+      "updatedAt": "2026-07-09T05:35:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-outubro-rosa-24-25-torcedor-umbro-feminina--f5a2736e/back.webp",
+      "hash": "61c241798964f1e388a3aeb6b894197351bae459f9d22d1f1eef551454fd1a62",
+      "width": 480,
+      "height": 480,
+      "size": 6570,
+      "createdAt": "2026-07-09T05:35:01Z",
+      "updatedAt": "2026-07-09T05:35:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-outubro-rosa-24-25-torcedor-umbro-feminina--f5a2736e/detail-1.webp",
+      "hash": "2d92839c2e664e4fd70f52fe531bd29a840c382eb64ac3646e77972aaeaab2f1",
+      "width": 480,
+      "height": 480,
+      "size": 4796,
+      "createdAt": "2026-07-09T05:35:01Z",
+      "updatedAt": "2026-07-09T05:35:01Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-tottenham-ii-24-25-torcedor-nike-feminina-azul",
+  "createdAt": "2026-07-09T05:36:03Z",
+  "updatedAt": "2026-07-09T05:36:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-ii-24-25-torcedor-nike-feminina-azul/front.webp",
+      "hash": "36034784761313a8087bab93c9ae6a4c7e32a249905f55f248b2c692fa24b2a3",
+      "width": 480,
+      "height": 480,
+      "size": 11048,
+      "createdAt": "2026-07-09T05:36:03Z",
+      "updatedAt": "2026-07-09T05:36:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-ii-24-25-torcedor-nike-feminina-azul/back.webp",
+      "hash": "1bc533002fed0c93672e1b5893fd5c8a8a1a7bb175ab11d16d297acd24a6d5a3",
+      "width": 480,
+      "height": 480,
+      "size": 10104,
+      "createdAt": "2026-07-09T05:36:03Z",
+      "updatedAt": "2026-07-09T05:36:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-ii-24-25-torcedor-nike-feminina-azul/detail-1.webp",
+      "hash": "54c72423b0b9350de56d72489afcf0724c8cfaf9dec4a4a288bdb6256e5f81c1",
+      "width": 480,
+      "height": 600,
+      "size": 83684,
+      "createdAt": "2026-07-09T05:36:03Z",
+      "updatedAt": "2026-07-09T05:36:03Z"
+    }
+  ]
+}

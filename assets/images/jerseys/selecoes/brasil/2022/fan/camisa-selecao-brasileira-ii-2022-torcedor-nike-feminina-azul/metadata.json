@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul",
+  "createdAt": "2026-07-09T05:35:57Z",
+  "updatedAt": "2026-07-09T05:35:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/front.webp",
+      "hash": "e55a389e8bf4b5302b10f93cfde97bceab067cade9fd8fef4427542796243de9",
+      "width": 480,
+      "height": 480,
+      "size": 12602,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/back.webp",
+      "hash": "086221d60a9a5d43da981d4faa7a86b3242573fb7bfc10f2a873e16a984b1e19",
+      "width": 480,
+      "height": 480,
+      "size": 14624,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/detail-1.webp",
+      "hash": "c41a9c68fee872cb7e968b85434da17d67e50e149b2253729856a691b599009c",
+      "width": 480,
+      "height": 480,
+      "size": 13118,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/detail-2.webp",
+      "hash": "abd030126097d35f740883cee632d8690ac57229efb1693fe252b2544ff1a51e",
+      "width": 480,
+      "height": 480,
+      "size": 8036,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/detail-3.webp",
+      "hash": "35181bbb3bcd4a6eb48274de03802556585302f4884c8dd0e537fcf344720d64",
+      "width": 480,
+      "height": 480,
+      "size": 10776,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/detail-4.webp",
+      "hash": "952f01bdd9a0e8e68e017818daea2f1aa74bc5e03b9d3001fb0b9942698f4a39",
+      "width": 480,
+      "height": 480,
+      "size": 15728,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2022/fan/camisa-selecao-brasileira-ii-2022-torcedor-nike-feminina-azul/detail-5.webp",
+      "hash": "0345c12947a6a1414e7fc6f9d410b411327e155c884890c3f36d978422dc4e2e",
+      "width": 480,
+      "height": 480,
+      "size": 14282,
+      "createdAt": "2026-07-09T05:35:57Z",
+      "updatedAt": "2026-07-09T05:35:57Z"
+    }
+  ]
+}

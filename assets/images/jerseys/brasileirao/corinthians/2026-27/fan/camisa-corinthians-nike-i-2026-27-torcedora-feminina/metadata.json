@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-nike-i-2026-27-torcedora-feminina",
+  "createdAt": "2026-07-09T05:35:16Z",
+  "updatedAt": "2026-07-09T05:35:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-corinthians-nike-i-2026-27-torcedora-feminina/front.webp",
+      "hash": "ff2f5823fcd684d49bcaf4e55ab6fbbf61ef04f2d01e84aceaa145150777de62",
+      "width": 480,
+      "height": 480,
+      "size": 7530,
+      "createdAt": "2026-07-09T05:35:16Z",
+      "updatedAt": "2026-07-09T05:35:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-corinthians-nike-i-2026-27-torcedora-feminina/back.webp",
+      "hash": "7469b9e40227c1512524495e79b40aefaf78894a91df2e44e8ea3fb930abb95f",
+      "width": 480,
+      "height": 480,
+      "size": 5904,
+      "createdAt": "2026-07-09T05:35:16Z",
+      "updatedAt": "2026-07-09T05:35:16Z"
+    }
+  ]
+}

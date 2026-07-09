@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde",
+  "createdAt": "2026-07-09T05:35:40Z",
+  "updatedAt": "2026-07-09T05:35:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/front.webp",
+      "hash": "54e4d42235d15f9a34f4513484b1554d452c4c7a968ff45365d1efbbde2c7b2f",
+      "width": 480,
+      "height": 480,
+      "size": 9188,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/back.webp",
+      "hash": "bf26aa67ed537b9c9391a60b4944d89d32f7b5de967b79fd98e6f8c39377c616",
+      "width": 480,
+      "height": 480,
+      "size": 4236,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/detail-1.webp",
+      "hash": "9266d59c6b3d56d8a3737edea6b85944c16f1ca5a2afd079a898088575adba3b",
+      "width": 480,
+      "height": 480,
+      "size": 21788,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/detail-2.webp",
+      "hash": "847077d9859c9a62e2a2b3342fb22c7e76c10308c1056f53b614fc760566bb09",
+      "width": 480,
+      "height": 480,
+      "size": 12690,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/detail-3.webp",
+      "hash": "e979ec33b4f907ceab2a6165a211c03da962e0e4aca9ca31891b03909bedce6b",
+      "width": 480,
+      "height": 480,
+      "size": 19664,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/fan/camisa-palmeiras-i-24-25-torcedor-puma-feminina-verde/detail-4.webp",
+      "hash": "534db3b64053b09f1eec413ea4639738538998e8e2b07ec29d3e4cb7f051223a",
+      "width": 480,
+      "height": 480,
+      "size": 13384,
+      "createdAt": "2026-07-09T05:35:40Z",
+      "updatedAt": "2026-07-09T05:35:40Z"
+    }
+  ]
+}

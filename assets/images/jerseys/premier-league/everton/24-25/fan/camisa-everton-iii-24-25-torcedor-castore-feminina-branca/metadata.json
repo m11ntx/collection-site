@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-iii-24-25-torcedor-castore-feminina-branca",
+  "createdAt": "2026-07-09T05:35:20Z",
+  "updatedAt": "2026-07-09T05:35:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-torcedor-castore-feminina-branca/front.webp",
+      "hash": "c548482a0326641eca86b0834a52213bc01d80b72142d5d88ca1080eb786ac89",
+      "width": 480,
+      "height": 480,
+      "size": 6658,
+      "createdAt": "2026-07-09T05:35:20Z",
+      "updatedAt": "2026-07-09T05:35:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-iii-24-25-torcedor-castore-feminina-branca/back.webp",
+      "hash": "3ec4848d5b1ee033f15f74379caaadb334f3088913c040cc347eb8361e9c30be",
+      "width": 480,
+      "height": 480,
+      "size": 4312,
+      "createdAt": "2026-07-09T05:35:20Z",
+      "updatedAt": "2026-07-09T05:35:20Z"
+    }
+  ]
+}

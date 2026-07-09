@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-napoli-i-24-25-torcedor-ea7-feminina-azul",
+  "createdAt": "2026-07-09T05:35:39Z",
+  "updatedAt": "2026-07-09T05:35:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-i-24-25-torcedor-ea7-feminina-azul/front.webp",
+      "hash": "e3eb7487be349b2d71e1c63dc176aabd41704583814233a258f54d902d5d4393",
+      "width": 480,
+      "height": 480,
+      "size": 13136,
+      "createdAt": "2026-07-09T05:35:39Z",
+      "updatedAt": "2026-07-09T05:35:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-i-24-25-torcedor-ea7-feminina-azul/back.webp",
+      "hash": "780db9355945f8980b0a572372d44d2c685c23f1c6f38d0d23910e8af8a8104d",
+      "width": 480,
+      "height": 480,
+      "size": 13140,
+      "createdAt": "2026-07-09T05:35:39Z",
+      "updatedAt": "2026-07-09T05:35:39Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-azul-e-branco",
+  "createdAt": "2026-07-09T05:35:30Z",
+  "updatedAt": "2026-07-09T05:35:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-a-2b6dd158/front.webp",
+      "hash": "01e4fbee046d2524ca651ae954ba3839ef98ead6f7e1c0248b02e55efb50478b",
+      "width": 480,
+      "height": 480,
+      "size": 8290,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-a-2b6dd158/back.webp",
+      "hash": "290a583d9e2b4dccc5b451afd1e8d4c1ce3165bf11bf420a0fdb9fc6c1f8039c",
+      "width": 480,
+      "height": 480,
+      "size": 8286,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-a-2b6dd158/detail-1.webp",
+      "hash": "40947c4cc602e6446178cefd154031f53118312a82e4c051ca9f93ce44deee2f",
+      "width": 480,
+      "height": 480,
+      "size": 7642,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-a-2b6dd158/detail-2.webp",
+      "hash": "8091318b6a6081e250a7c9949d568c70beaea98698248c947327c6761b8127e8",
+      "width": 480,
+      "height": 480,
+      "size": 33310,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-a-2b6dd158/detail-3.webp",
+      "hash": "f5a43114b05695ab6d75c3ba4efcd9a51c43c33e5274467b6c7db02c6172839f",
+      "width": 480,
+      "height": 480,
+      "size": 34114,
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
+    }
+  ]
+}
