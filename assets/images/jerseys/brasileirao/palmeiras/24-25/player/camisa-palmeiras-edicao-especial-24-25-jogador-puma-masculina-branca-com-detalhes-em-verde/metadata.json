@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T02:59:25Z",
+  "updatedAt": "2026-07-09T02:59:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/front.webp",
+      "hash": "bee3f11e5272ea8db2f11395995ef87e4b5d61463cbe925eb10160344a84fcc6",
+      "width": 480,
+      "height": 480,
+      "size": 6072,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/back.webp",
+      "hash": "94e82c406c29a0bc17212b7a6ca15b2e42992ebb7b1daca15793c2b6e1e3c4a6",
+      "width": 480,
+      "height": 480,
+      "size": 8890,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/detail-1.webp",
+      "hash": "7923b1deb6fbd1577547c6296181f9d96b974c7910be26bf6817d550c208897f",
+      "width": 480,
+      "height": 480,
+      "size": 7688,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/detail-2.webp",
+      "hash": "2bf9ecb07be9deca570fa29961b42eedc487c33ee534ef6254a6e3d13ee038b7",
+      "width": 480,
+      "height": 480,
+      "size": 50162,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/detail-3.webp",
+      "hash": "aa69b82d483579edbc41af770ed2aa6e0004262733d5822d80aa83e6643a2fc9",
+      "width": 480,
+      "height": 480,
+      "size": 22254,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/detail-4.webp",
+      "hash": "339e75fdfede48988f0fc3dbac0e293e7977f5488d0f93fe2e7cd97685b821a3",
+      "width": 480,
+      "height": 480,
+      "size": 10846,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-edicao-especial-24-25-jogador-puma-masculina-branca-com-detalhes-em-verde/detail-5.webp",
+      "hash": "35e4af11b7bf23c6db7fa1a698341aeefe84786a8f55f62345e5042d0b99ef29",
+      "width": 480,
+      "height": 480,
+      "size": 18718,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    }
+  ]
+}

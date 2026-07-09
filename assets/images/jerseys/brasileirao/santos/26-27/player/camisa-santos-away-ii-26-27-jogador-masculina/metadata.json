@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-away-ii-26-27-jogador-masculina",
+  "createdAt": "2026-07-09T02:59:28Z",
+  "updatedAt": "2026-07-09T02:59:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-away-ii-26-27-jogador-masculina/front.webp",
+      "hash": "0cabd5ba10135e8f787a062733b6237c9c75a666ca583880e674811977458249",
+      "width": 480,
+      "height": 480,
+      "size": 11594,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-away-ii-26-27-jogador-masculina/back.webp",
+      "hash": "60490e2ffa2aa54dd42a0f82e6608a52ec42f93ee2630301f253e75d2f61ddf2",
+      "width": 480,
+      "height": 480,
+      "size": 11598,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    }
+  ]
+}

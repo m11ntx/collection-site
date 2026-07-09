@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-corinthians-ii-24-25-jogador-nike-masculina-preta",
+  "createdAt": "2026-07-09T02:59:13Z",
+  "updatedAt": "2026-07-09T02:59:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/front.webp",
+      "hash": "31fb5ff0682b27ca19554f30b27c543b39c95750e04f00e3255004b123475bc4",
+      "width": 480,
+      "height": 480,
+      "size": 7366,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/back.webp",
+      "hash": "9d530076f268427ee2ce80298e4571a804c296c837472c58d5d5c7f1e3880617",
+      "width": 480,
+      "height": 480,
+      "size": 10254,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/detail-1.webp",
+      "hash": "d1fd7e5bfc18af324e1c7fc5477fabbbb3c41bbc9ed5fcc74d5405d4fd7c587e",
+      "width": 480,
+      "height": 480,
+      "size": 7672,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/detail-2.webp",
+      "hash": "625b9a9573675058ca66ccf5e2235170013216be37329b4339c07cd24b3a4e06",
+      "width": 480,
+      "height": 480,
+      "size": 8854,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/detail-3.webp",
+      "hash": "ba4ae340e1b16226aa7a26a21a8b88953b4a594778002880d21cac004786e24d",
+      "width": 480,
+      "height": 480,
+      "size": 32710,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/detail-4.webp",
+      "hash": "ad903b0d3b3b59fbe3fb39daf515ec03553fbbd1dbebe00a0a497fb36290f697",
+      "width": 480,
+      "height": 480,
+      "size": 40802,
+      "createdAt": "2026-07-09T02:59:12Z",
+      "updatedAt": "2026-07-09T02:59:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-ii-24-25-jogador-nike-masculina-preta/detail-5.webp",
+      "hash": "8fd68b7908d8bbaa4d637617800ab50b8066f9f141ea97caa596c4365fd5ed9a",
+      "width": 480,
+      "height": 480,
+      "size": 37846,
+      "createdAt": "2026-07-09T02:59:13Z",
+      "updatedAt": "2026-07-09T02:59:13Z"
+    }
+  ]
+}

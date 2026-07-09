@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-i-25-26-jogador-todos-os-patrocinios",
+  "createdAt": "2026-07-09T02:59:12Z",
+  "updatedAt": "2026-07-09T02:59:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-todos-os-patrocinios/front.webp",
+      "hash": "aa8caad6d5917b5afc5f20ebc239292395a3a259f26c0db5d7acd0d480109efe",
+      "width": 480,
+      "height": 480,
+      "size": 17054,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-todos-os-patrocinios/back.webp",
+      "hash": "e1d3b509b2007a45b95d106f6a896ed5b2291df91c103ef590775b014f9e5113",
+      "width": 480,
+      "height": 480,
+      "size": 16816,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    }
+  ]
+}

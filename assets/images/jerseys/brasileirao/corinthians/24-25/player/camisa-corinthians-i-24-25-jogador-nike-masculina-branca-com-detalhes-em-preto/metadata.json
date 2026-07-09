@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T02:59:10Z",
+  "updatedAt": "2026-07-09T02:59:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/front.webp",
+      "hash": "3badab96605686998f143e8a148c6f4ebdb103623a2b64df91271bd9a297aeb2",
+      "width": 480,
+      "height": 480,
+      "size": 10408,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/back.webp",
+      "hash": "32c00212c2502fa76fe20f2cac72e41096cbd2419b5cb2a74c33e854b3634fea",
+      "width": 480,
+      "height": 480,
+      "size": 8648,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/detail-1.webp",
+      "hash": "e4e3017e3478b271edaf442d67035f078ac0c0134c00402ef974241674edbd87",
+      "width": 480,
+      "height": 480,
+      "size": 17238,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/detail-2.webp",
+      "hash": "f043a9dce1c90673c319b6f991ff7c6156be9b1bd54ebd5c049ab811b89d2adb",
+      "width": 480,
+      "height": 480,
+      "size": 23350,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/detail-3.webp",
+      "hash": "de4cb884a3e0b632898ee878cf55b271885a0593a26888ab9bf83ab6a55e0731",
+      "width": 480,
+      "height": 480,
+      "size": 26328,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/detail-4.webp",
+      "hash": "28e2aee7e96cef472056c9a85b0a8c6f110615e1576df5d5c73b892571f485dd",
+      "width": 480,
+      "height": 480,
+      "size": 21916,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-preto/detail-5.webp",
+      "hash": "8fe16230754414831f434dee2824988144474e98f781d2d1f1b6dad1542d6c36",
+      "width": 480,
+      "height": 480,
+      "size": 33306,
+      "createdAt": "2026-07-09T02:59:10Z",
+      "updatedAt": "2026-07-09T02:59:10Z"
+    }
+  ]
+}

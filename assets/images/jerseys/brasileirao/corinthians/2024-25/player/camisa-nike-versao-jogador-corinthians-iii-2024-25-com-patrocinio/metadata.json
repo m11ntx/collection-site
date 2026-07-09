@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-nike-versao-jogador-corinthians-iii-2024-25-com-patrocinio",
+  "createdAt": "2026-07-09T02:59:24Z",
+  "updatedAt": "2026-07-09T02:59:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2024-25/player/camisa-nike-versao-jogador-corinthians-iii-2024-25-com-patrocinio/front.webp",
+      "hash": "16a48dc7bf8f8eda905fd8220520cd0fd1af4b8422c603ed3f56515fed285cc0",
+      "width": 480,
+      "height": 480,
+      "size": 12704,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2024-25/player/camisa-nike-versao-jogador-corinthians-iii-2024-25-com-patrocinio/back.webp",
+      "hash": "f87a5400663c94222dcf58ac3e92cc53d10b3f95764ff881aa4966c675ce8ec3",
+      "width": 480,
+      "height": 480,
+      "size": 10492,
+      "createdAt": "2026-07-09T02:59:24Z",
+      "updatedAt": "2026-07-09T02:59:24Z"
+    }
+  ]
+}

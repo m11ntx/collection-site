@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bahia-jogador-home-26-27-tricolor-masculina-branca",
+  "createdAt": "2026-07-09T02:59:09Z",
+  "updatedAt": "2026-07-09T02:59:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/player/camisa-bahia-jogador-home-26-27-tricolor-masculina-branca/front.webp",
+      "hash": "6f89efecc0d489ec4f947383f895130ea667286fa6022e14cb34dbf17ffe3135",
+      "width": 480,
+      "height": 480,
+      "size": 14644,
+      "createdAt": "2026-07-09T02:59:08Z",
+      "updatedAt": "2026-07-09T02:59:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/26-27/player/camisa-bahia-jogador-home-26-27-tricolor-masculina-branca/back.webp",
+      "hash": "9d936282b00baab713e3e7589b8a7d7c5f5811006a83779a0160b2a1af700908",
+      "width": 480,
+      "height": 480,
+      "size": 9392,
+      "createdAt": "2026-07-09T02:59:09Z",
+      "updatedAt": "2026-07-09T02:59:09Z"
+    }
+  ]
+}

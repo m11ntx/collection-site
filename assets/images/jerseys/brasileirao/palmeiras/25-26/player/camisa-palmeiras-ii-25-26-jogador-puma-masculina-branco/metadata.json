@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-ii-25-26-jogador-puma-masculina-branco",
+  "createdAt": "2026-07-09T02:59:27Z",
+  "updatedAt": "2026-07-09T02:59:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/player/camisa-palmeiras-ii-25-26-jogador-puma-masculina-branco/front.webp",
+      "hash": "db2a69f13290b58a1d1797dfe275da1711ce6bc71afce540786ba79bb1621226",
+      "width": 480,
+      "height": 480,
+      "size": 12938,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/player/camisa-palmeiras-ii-25-26-jogador-puma-masculina-branco/back.webp",
+      "hash": "945ef0da2bce16e0ffd4fc2752dd57d90e13548bcc914bad850635598a40c737",
+      "width": 480,
+      "height": 480,
+      "size": 7434,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    }
+  ]
+}

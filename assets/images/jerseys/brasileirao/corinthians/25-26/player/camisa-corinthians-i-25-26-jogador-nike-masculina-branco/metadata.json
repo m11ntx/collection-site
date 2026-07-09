@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-corinthians-i-25-26-jogador-nike-masculina-branco",
+  "createdAt": "2026-07-09T02:59:11Z",
+  "updatedAt": "2026-07-09T02:59:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-nike-masculina-branco/front.webp",
+      "hash": "f7ac0bfeeb516d0f2a1035891eb463ca96f07c3e35cbc7e68e781dd4c67b03fb",
+      "width": 480,
+      "height": 480,
+      "size": 12446,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-nike-masculina-branco/back.webp",
+      "hash": "5bb9274d3a566537e8c19c7472c9d43cc1c1f4c5d6ebd4aa1e349755138eb9d0",
+      "width": 480,
+      "height": 480,
+      "size": 63170,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-nike-masculina-branco/detail-1.webp",
+      "hash": "ba6aeb3a736c0611d6430149beeb896bf276a6b76c95fc7e8ce0f6f56b1edf3e",
+      "width": 480,
+      "height": 480,
+      "size": 31012,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-nike-masculina-branco/detail-2.webp",
+      "hash": "7da65f55bc5ddf8aa2e6830c31d1ea05a4f34f099149f2340d4e09997874d9ad",
+      "width": 480,
+      "height": 480,
+      "size": 12894,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/player/camisa-corinthians-i-25-26-jogador-nike-masculina-branco/detail-3.webp",
+      "hash": "c9c3a4efcfdf2693476b978cf1bace886d9e4ca651c49f52c9e4bce379e0536b",
+      "width": 480,
+      "height": 480,
+      "size": 55650,
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
+    }
+  ]
+}

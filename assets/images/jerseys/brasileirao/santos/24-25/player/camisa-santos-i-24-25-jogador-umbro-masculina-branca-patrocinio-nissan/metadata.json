@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-i-24-25-jogador-umbro-masculina-branca-patrocinio-nissan",
+  "createdAt": "2026-07-09T02:59:29Z",
+  "updatedAt": "2026-07-09T02:59:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/player/camisa-santos-i-24-25-jogador-umbro-masculina-branca-patrocinio-nissan/front.webp",
+      "hash": "77d26518cf96a4fc4c66302fc9406cc6c3185021fa761c91fbb26e07706a748b",
+      "width": 480,
+      "height": 480,
+      "size": 8046,
+      "createdAt": "2026-07-09T02:59:29Z",
+      "updatedAt": "2026-07-09T02:59:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/player/camisa-santos-i-24-25-jogador-umbro-masculina-branca-patrocinio-nissan/back.webp",
+      "hash": "c058fba22c059990844a77fd0f1aa32c7f1cc09ffc9f9556ff9b9737272fff9a",
+      "width": 480,
+      "height": 480,
+      "size": 7170,
+      "createdAt": "2026-07-09T02:59:29Z",
+      "updatedAt": "2026-07-09T02:59:29Z"
+    }
+  ]
+}

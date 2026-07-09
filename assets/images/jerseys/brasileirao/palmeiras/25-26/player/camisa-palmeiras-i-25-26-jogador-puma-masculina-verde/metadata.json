@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-palmeiras-i-25-26-jogador-puma-masculina-verde",
+  "createdAt": "2026-07-09T02:59:27Z",
+  "updatedAt": "2026-07-09T02:59:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/player/camisa-palmeiras-i-25-26-jogador-puma-masculina-verde/front.webp",
+      "hash": "c697236d9051086729ec25b3fab1335326e6f65eb8bf258705a8c3e102142dec",
+      "width": 480,
+      "height": 480,
+      "size": 12804,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/player/camisa-palmeiras-i-25-26-jogador-puma-masculina-verde/back.webp",
+      "hash": "2f7421e1dc425aa11dee0d42efeeb66f1d173e76395757ae69e34440b557afb6",
+      "width": 480,
+      "height": 480,
+      "size": 8226,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    }
+  ]
+}

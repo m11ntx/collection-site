@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-flamengo-home-i-2025-26-jogador-todos-os-patrocinios-patch",
+  "createdAt": "2026-07-09T02:59:17Z",
+  "updatedAt": "2026-07-09T02:59:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/player/camisa-do-flamengo-home-i-2025-26-jogador-todos-os-patrocinios-patch/front.webp",
+      "hash": "188314bd409ab255497e1f550cab475bc7de2a9a2ce88d663a3f3c73079f377a",
+      "width": 480,
+      "height": 480,
+      "size": 12890,
+      "createdAt": "2026-07-09T02:59:17Z",
+      "updatedAt": "2026-07-09T02:59:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2025-26/player/camisa-do-flamengo-home-i-2025-26-jogador-todos-os-patrocinios-patch/back.webp",
+      "hash": "d9eba0a82a2be9bdc7bf1812727f6be82b10a426f71a34a1ca82d5bc389a58e8",
+      "width": 480,
+      "height": 480,
+      "size": 12294,
+      "createdAt": "2026-07-09T02:59:17Z",
+      "updatedAt": "2026-07-09T02:59:17Z"
+    }
+  ]
+}

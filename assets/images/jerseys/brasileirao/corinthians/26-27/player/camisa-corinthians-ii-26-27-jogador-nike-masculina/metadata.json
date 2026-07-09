@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-ii-26-27-jogador-nike-masculina",
+  "createdAt": "2026-07-09T02:59:13Z",
+  "updatedAt": "2026-07-09T02:59:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/player/camisa-corinthians-ii-26-27-jogador-nike-masculina/front.webp",
+      "hash": "4aac4dda141ae0ae01b39f02a2d7b171035ba8f0a878212711551dc5e19e6649",
+      "width": 480,
+      "height": 480,
+      "size": 14700,
+      "createdAt": "2026-07-09T02:59:13Z",
+      "updatedAt": "2026-07-09T02:59:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/player/camisa-corinthians-ii-26-27-jogador-nike-masculina/back.webp",
+      "hash": "1cb34e39f5fabfee94213abbae1ed44fbce5a50f20b3d85431968feaf401f91d",
+      "width": 480,
+      "height": 480,
+      "size": 13242,
+      "createdAt": "2026-07-09T02:59:13Z",
+      "updatedAt": "2026-07-09T02:59:13Z"
+    }
+  ]
+}

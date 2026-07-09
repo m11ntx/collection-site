@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T02:59:28Z",
+  "updatedAt": "2026-07-09T02:59:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/front.webp",
+      "hash": "7cc17bed77b6c375bdb9472f3bce810cad5ff21b904c0391f8098e7ea9b0dcdc",
+      "width": 480,
+      "height": 480,
+      "size": 11358,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/back.webp",
+      "hash": "60c8013451ff0e9a3385d5389023b037857965f34b5fa67bf060a02ed20e5ec0",
+      "width": 480,
+      "height": 480,
+      "size": 13640,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/detail-1.webp",
+      "hash": "d6033bbd7f1d03213d3b254dcdd758dcf1f3b0d120a58211ed9630ace9012452",
+      "width": 480,
+      "height": 480,
+      "size": 12470,
+      "createdAt": "2026-07-09T02:59:27Z",
+      "updatedAt": "2026-07-09T02:59:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/detail-2.webp",
+      "hash": "3a0b48edc5a8028564044af933cd79db53cbd7007af139e84486b843481a076c",
+      "width": 480,
+      "height": 480,
+      "size": 7946,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/detail-3.webp",
+      "hash": "7c074d9f345c3348fb75db7634bfe7353dfbb4473a1ad32bcc5562cd962eedb6",
+      "width": 480,
+      "height": 480,
+      "size": 7442,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/detail-4.webp",
+      "hash": "28578bb87304128272995561a4d17d62f69d1e70387ecbf9d77e5c16cdad0108",
+      "width": 480,
+      "height": 480,
+      "size": 14036,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-iii-24-25-jogador-puma-masculina-dourada-com-detalhes-em-verde/detail-5.webp",
+      "hash": "3a9f36ab4c460ee1dc8a0b27aa4ba9effb187edf4d4f51fd196f50648a33f676",
+      "width": 480,
+      "height": 480,
+      "size": 16936,
+      "createdAt": "2026-07-09T02:59:28Z",
+      "updatedAt": "2026-07-09T02:59:28Z"
+    }
+  ]
+}

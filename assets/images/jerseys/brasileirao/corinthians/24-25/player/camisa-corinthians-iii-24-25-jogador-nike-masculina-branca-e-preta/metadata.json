@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta",
+  "createdAt": "2026-07-09T02:59:15Z",
+  "updatedAt": "2026-07-09T02:59:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/front.webp",
+      "hash": "f96807a9f851c5561ea2e0e6ddffe61009d0f0f01e50eca065efe84cfe6dd9c7",
+      "width": 480,
+      "height": 480,
+      "size": 11652,
+      "createdAt": "2026-07-09T02:59:14Z",
+      "updatedAt": "2026-07-09T02:59:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/back.webp",
+      "hash": "511f5ee7c28282adb47ca0e05d57fff1ef3573803d01bf332a2567b236c104af",
+      "width": 480,
+      "height": 480,
+      "size": 10000,
+      "createdAt": "2026-07-09T02:59:15Z",
+      "updatedAt": "2026-07-09T02:59:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/detail-1.webp",
+      "hash": "e2da72daea5ec27123f7dca1bffd73f40dd21e71172af96996e5c5425365aba2",
+      "width": 480,
+      "height": 480,
+      "size": 18174,
+      "createdAt": "2026-07-09T02:59:15Z",
+      "updatedAt": "2026-07-09T02:59:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/detail-2.webp",
+      "hash": "4663826f05aae3c03b04bb60051e952ea238b06e100a22c279fefe61b0b9eda5",
+      "width": 480,
+      "height": 480,
+      "size": 62946,
+      "createdAt": "2026-07-09T02:59:15Z",
+      "updatedAt": "2026-07-09T02:59:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/detail-3.webp",
+      "hash": "4c95269e1044dd005b241ad3213f68f0ad182513bcb8989f2193598281c39a5b",
+      "width": 480,
+      "height": 480,
+      "size": 54968,
+      "createdAt": "2026-07-09T02:59:15Z",
+      "updatedAt": "2026-07-09T02:59:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/player/camisa-corinthians-iii-24-25-jogador-nike-masculina-branca-e-preta/detail-4.webp",
+      "hash": "9880c5285c504c696a76cca6d89ef35c2c6722a3f77749c7ba3c2551125c204b",
+      "width": 480,
+      "height": 480,
+      "size": 81164,
+      "createdAt": "2026-07-09T02:59:15Z",
+      "updatedAt": "2026-07-09T02:59:15Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch",
+  "createdAt": "2026-07-09T02:59:26Z",
+  "updatedAt": "2026-07-09T02:59:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/front.webp",
+      "hash": "5eb9e20d52911a5fce526a4e4b51c4c905deb6776bc9e389b363417d50e84c6a",
+      "width": 480,
+      "height": 480,
+      "size": 16114,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/back.webp",
+      "hash": "fa5ca09b7faa91f6e7e117b45eb02e5dae5b67276f3de084bda0b0a08d790e80",
+      "width": 480,
+      "height": 480,
+      "size": 17598,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/detail-1.webp",
+      "hash": "7821ceea110c341ac4c3b6e55e9411131e828817dc4af170283baabab9197acf",
+      "width": 480,
+      "height": 480,
+      "size": 13530,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/detail-2.webp",
+      "hash": "f4f10e003adb3c14271ee8f072f88c34813636b8ad97a0ad02c4979e0b009e3b",
+      "width": 480,
+      "height": 480,
+      "size": 21084,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/detail-3.webp",
+      "hash": "e35fbcd586a5ae5fc0ee365b97f43ebf297c17397718ca917b7455c20f4a10d7",
+      "width": 480,
+      "height": 480,
+      "size": 23434,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/detail-4.webp",
+      "hash": "4b6b04a2bf4787ac67bc9516c379fc389c2a50dd16a5bec4a78fd8f724ea9616",
+      "width": 480,
+      "height": 480,
+      "size": 32440,
+      "createdAt": "2026-07-09T02:59:25Z",
+      "updatedAt": "2026-07-09T02:59:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/player/camisa-palmeiras-i-24-25-jogador-puma-masculina-verde-com-patrocinio-mais-patch/detail-5.webp",
+      "hash": "28e848487bbd86e18e46a035c33aeb814aa2ec24e510bb340495603c222fa216",
+      "width": 480,
+      "height": 480,
+      "size": 28520,
+      "createdAt": "2026-07-09T02:59:26Z",
+      "updatedAt": "2026-07-09T02:59:26Z"
+    }
+  ]
+}
