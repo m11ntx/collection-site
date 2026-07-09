@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2712,
+    "products": 2714,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,15 +8,15 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 2674,
+    "available": 2676,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 2128
+    "withManufacturer": 2129
   },
   "byCollection": {
     "america-do-sul": 86,
-    "brasil": 706,
-    "europa": 1056,
+    "brasil": 707,
+    "europa": 1057,
     "lancamentos": 1,
     "resto-do-mundo": 85,
     "selecoes": 543,
@@ -24,14 +24,14 @@
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 694,
+    "brasileirao": 695,
     "bundesliga": 76,
     "eredivisie": 20,
     "la-liga": 222,
     "libertadores": 86,
     "ligue-1": 40,
     "mls": 61,
-    "premier-league": 355,
+    "premier-league": 356,
     "primeira-liga": 17,
     "saudi-pro-league": 23,
     "scottish-premiership": 22,
@@ -50,8 +50,8 @@
     "norte": 8,
     "rio-de-janeiro": 261,
     "sao-paulo": 202,
-    "sul": 77,
-    "unknown": 1526
+    "sul": 78,
+    "unknown": 1527
   },
   "byClub": {
     "ac-milan": 55,
@@ -69,7 +69,7 @@
     "aston-villa": 7,
     "atalanta": 1,
     "athletic-bilbao": 3,
-    "athletico-paranaense": 14,
+    "athletico-paranaense": 15,
     "atlanta-united": 3,
     "atletico-madrid": 24,
     "atletico-mineiro": 36,
@@ -142,7 +142,7 @@
     "lazio": 19,
     "leeds-united": 1,
     "lille": 1,
-    "liverpool": 54,
+    "liverpool": 55,
     "lorient": 1,
     "los-angeles-fc": 2,
     "lyon": 3,
@@ -375,7 +375,7 @@
     "24/15": 1,
     "24/25": 1148,
     "24/35": 1,
-    "25/26": 277,
+    "25/26": 279,
     "2526": 1,
     "26/27": 205,
     "57/62": 1,
@@ -407,15 +407,15 @@
     "current": 93,
     "manga-longa": 12,
     "retro": 777,
-    "unknown": 1830
+    "unknown": 1832
   },
   "byVersion": {
     "fan": 1274,
     "player": 260,
-    "unknown": 1178
+    "unknown": 1180
   },
   "byGender": {
-    "kids": 222,
+    "kids": 224,
     "men": 1964,
     "unknown": 357,
     "women": 169
