@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2130,
+    "products": 2132,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,14 +8,14 @@
     "manufacturers": 17
   },
   "products": {
-    "available": 2092,
+    "available": 2094,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 1670
+    "withManufacturer": 1671
   },
   "byCollection": {
     "america-do-sul": 51,
-    "brasil": 586,
+    "brasil": 588,
     "europa": 764,
     "lancamentos": 1,
     "resto-do-mundo": 74,
@@ -24,7 +24,7 @@
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 534,
+    "brasileirao": 536,
     "bundesliga": 55,
     "eredivisie": 12,
     "la-liga": 83,
@@ -48,9 +48,9 @@
     "minas-gerais": 66,
     "nordeste": 60,
     "norte": 9,
-    "rio-de-janeiro": 188,
+    "rio-de-janeiro": 189,
     "sao-paulo": 148,
-    "sul": 64,
+    "sul": 65,
     "unknown": 1314
   },
   "byClub": {
@@ -88,7 +88,7 @@
     "ceara": 1,
     "celtic": 4,
     "cerro-portenho": 1,
-    "chapecoense": 1,
+    "chapecoense": 2,
     "charlotte-fc": 2,
     "chelsea": 14,
     "chicago-fc": 2,
@@ -190,7 +190,7 @@
     "universidad-do-chile": 2,
     "unknown": 762,
     "uruguai": 7,
-    "vasco-da-gama": 33,
+    "vasco-da-gama": 34,
     "vitoria": 5,
     "wolverhampton-wanderers": 2
   },
@@ -308,10 +308,10 @@
     "21/20": 1,
     "23/24": 1,
     "24/15": 1,
-    "24/25": 1075,
+    "24/25": 1076,
     "24/35": 1,
     "25/26": 217,
-    "26/27": 194,
+    "26/27": 195,
     "57/62": 1,
     "88/90": 1,
     "91/93": 2,
@@ -326,19 +326,19 @@
     "unknown": 190
   },
   "byCategory": {
-    "current": 90,
+    "current": 91,
     "manga-longa": 11,
     "retro": 333,
-    "unknown": 1696
+    "unknown": 1697
   },
   "byVersion": {
-    "fan": 1193,
+    "fan": 1195,
     "player": 260,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1674,
+    "men": 1676,
     "unknown": 209,
     "women": 168
   }

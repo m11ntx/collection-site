@@ -132948,6 +132948,295 @@
     }
   },
   {
+    "id": "source-camisa-chapecoense-i-26-27-torcedor-masculina",
+    "externalId": "340402661",
+    "source": "source",
+    "slug": "camisa-chapecoense-i-26-27-torcedor-masculina",
+    "name": "Camisa Chapecoense I 26/27 Torcedor Masculina",
+    "collectionId": "brasil",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "clubId": "chapecoense",
+    "manufacturerId": null,
+    "category": "current",
+    "gender": "men",
+    "version": "fan",
+    "season": "26/27",
+    "price": 65.47,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1512702196",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702199",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702203",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702207",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702211",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702216",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702218",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702223",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702226",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.92,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702231",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 163.67,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702240",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702233",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702242",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      },
+      {
+        "id": "1512702235",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/brasileirao/chapecoense/26-27/fan/camisa-chapecoense-i-26-27-torcedor-masculina/front.webp",
+        "alt": "Camisa Chapecoense I 26/27 Torcedor Masculina",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/brasileirao/chapecoense/26-27/fan/camisa-chapecoense-i-26-27-torcedor-masculina/back.webp",
+        "alt": "Camisa Chapecoense I 26/27 Torcedor Masculina",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-chapecoense-i-26-27-torcedor-masculina-11arh/",
+    "createdAt": "2026-07-09T05:52:00Z",
+    "updatedAt": "2026-07-09T05:52:00Z",
+    "isLaunch": true,
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 340402661,
+        "compare_at_price_number": 136.39,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-bbd873dfa5740e98bb17771321217019-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "manufacturer not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-reserva-da-chapecoense-26-27",
     "externalId": "347413661",
     "source": "source",
@@ -245751,6 +246040,262 @@
         "compare_at_price_number": 135.57,
         "has_promotional_price": true,
         "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/photoroom_000_20240618_213720-e940affc2bfbe4ce2717187575203447-1024-1024-5ec224c8564cb805a417374264648360-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
+    "id": "source-camisa-vasco-i-24-25-1974-kappa-masculina-preto-branco",
+    "externalId": "263433464",
+    "source": "source",
+    "slug": "camisa-vasco-i-24-25-1974-kappa-masculina-preto-branco",
+    "name": "Camisa Vasco I 24/25- 1974 Kappa Masculina - Preto+Branco",
+    "collectionId": "brasil",
+    "leagueId": "brasileirao",
+    "regionId": "rio-de-janeiro",
+    "clubId": "vasco-da-gama",
+    "manufacturerId": "kappa",
+    "category": null,
+    "gender": "men",
+    "version": "fan",
+    "season": "24/25",
+    "price": 65.47,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1168375835",
+        "sku": null,
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375838",
+        "sku": null,
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375840",
+        "sku": null,
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375841",
+        "sku": null,
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375846",
+        "sku": null,
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375848",
+        "sku": null,
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375849",
+        "sku": null,
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.92,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375855",
+        "sku": null,
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 174.58,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375852",
+        "sku": null,
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375857",
+        "sku": null,
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375858",
+        "sku": null,
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      },
+      {
+        "id": "1168375854",
+        "sku": null,
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-i-24-25-1974-kappa-masculina-preto-branco/front.webp",
+        "alt": "Camisa Vasco I 24/25- 1974 Kappa Masculina - Preto+Branco",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-i-24-25-1974-kappa-masculina-preto-branco/back.webp",
+        "alt": "Camisa Vasco I 24/25- 1974 Kappa Masculina - Preto+Branco",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-vasco-i-24-25-1974-kappa-masculina-pretobranco/",
+    "createdAt": "2026-07-09T05:52:00Z",
+    "updatedAt": "2026-07-09T05:52:00Z",
+    "isLaunch": false,
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 263433464,
+        "compare_at_price_number": 136.39,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/2177-996586865ca956092017437282279916-640-0.webp"
       },
       "normalizationWarnings": [
         "category not identified",
