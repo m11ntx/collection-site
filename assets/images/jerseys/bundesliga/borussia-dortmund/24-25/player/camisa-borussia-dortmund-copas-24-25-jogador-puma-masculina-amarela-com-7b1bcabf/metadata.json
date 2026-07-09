@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T03:13:25Z",
+  "updatedAt": "2026-07-09T03:13:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/front.webp",
+      "hash": "4e2e20290f69ffc3e9433896e59ef2172ff56553fa486331fe297251b0e624f3",
+      "width": 480,
+      "height": 480,
+      "size": 15964,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/back.webp",
+      "hash": "e934a480243e970da6cb7709cfbfbfe2567a7d3e8061ae2c8312ec178d2a0481",
+      "width": 480,
+      "height": 480,
+      "size": 13512,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/detail-1.webp",
+      "hash": "800abe5463a896e1a89cf542235c76314acb196e34c2bf8e059920ad1e4e0b71",
+      "width": 480,
+      "height": 480,
+      "size": 17312,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/detail-2.webp",
+      "hash": "4b8006f66f8c59332ac9d4ee005165900d8a60e021e462cf61098fff32414ee7",
+      "width": 480,
+      "height": 480,
+      "size": 14770,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/detail-3.webp",
+      "hash": "ae0857e7facbf9ca34e69a925f4d5abadfe8518f933344316818499729c93ba1",
+      "width": 480,
+      "height": 480,
+      "size": 23374,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/detail-4.webp",
+      "hash": "23f0e75a368a9ccde93024185b48b6d14cc37d63a2466506a84a1c7218078aed",
+      "width": 480,
+      "height": 480,
+      "size": 22538,
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-7b1bcabf/detail-5.webp",
+      "hash": "dcbd40e44dd8f49d3b7d6ecbb73cf4e30d5dc1c58d1eb765f517ca93d1ff5315",
+      "width": 480,
+      "height": 480,
+      "size": 26886,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    }
+  ]
+}

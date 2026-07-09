@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-bayern-de-munique-i-24-25-jogador-adidas-masculina-vermelha",
+  "createdAt": "2026-07-09T03:06:55Z",
+  "updatedAt": "2026-07-09T03:06:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/player/camisa-bayern-de-munique-i-24-25-jogador-adidas-masculina-vermelha/front.webp",
+      "hash": "14558b6b6478dc5fbfb89ce325b16bda061fc29fcf1946450003518e0770d138",
+      "width": 480,
+      "height": 480,
+      "size": 12836,
+      "createdAt": "2026-07-09T03:06:55Z",
+      "updatedAt": "2026-07-09T03:06:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/player/camisa-bayern-de-munique-i-24-25-jogador-adidas-masculina-vermelha/back.webp",
+      "hash": "b360a7f106240bf6942e7f48e79d3a84c030e3b8a8f8dca3d67193eaf76de982",
+      "width": 480,
+      "height": 480,
+      "size": 16318,
+      "createdAt": "2026-07-09T03:06:55Z",
+      "updatedAt": "2026-07-09T03:06:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/player/camisa-bayern-de-munique-i-24-25-jogador-adidas-masculina-vermelha/detail-1.webp",
+      "hash": "178727f20634141fa6e764ecb8146522a6988d6e12c404f37e87398610560464",
+      "width": 480,
+      "height": 480,
+      "size": 8634,
+      "createdAt": "2026-07-09T03:06:55Z",
+      "updatedAt": "2026-07-09T03:06:55Z"
+    }
+  ]
+}

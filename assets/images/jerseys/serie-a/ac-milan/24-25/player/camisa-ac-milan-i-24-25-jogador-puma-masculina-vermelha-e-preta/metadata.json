@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-i-24-25-jogador-puma-masculina-vermelha-e-preta",
+  "createdAt": "2026-07-09T03:06:31Z",
+  "updatedAt": "2026-07-09T03:06:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-i-24-25-jogador-puma-masculina-vermelha-e-preta/front.webp",
+      "hash": "caa29a56d551212bd575abd062112f0b057334f161cd103481a69e7d1c5dbd04",
+      "width": 480,
+      "height": 480,
+      "size": 17002,
+      "createdAt": "2026-07-09T03:06:31Z",
+      "updatedAt": "2026-07-09T03:06:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-i-24-25-jogador-puma-masculina-vermelha-e-preta/back.webp",
+      "hash": "bb664eb1bf77223eacb294358cf33b6e16464a9b954788c83fb0665281bb0d5b",
+      "width": 480,
+      "height": 480,
+      "size": 12028,
+      "createdAt": "2026-07-09T03:06:31Z",
+      "updatedAt": "2026-07-09T03:06:31Z"
+    }
+  ]
+}

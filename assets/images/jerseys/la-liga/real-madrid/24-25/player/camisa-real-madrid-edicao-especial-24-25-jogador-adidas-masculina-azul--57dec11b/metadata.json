@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T03:13:40Z",
+  "updatedAt": "2026-07-09T03:13:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/front.webp",
+      "hash": "1337739b1d8e58c21a9bd5eee5939905f4288a351a37513eac7f7b113aa47e98",
+      "width": 480,
+      "height": 480,
+      "size": 16980,
+      "createdAt": "2026-07-09T03:13:39Z",
+      "updatedAt": "2026-07-09T03:13:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/back.webp",
+      "hash": "cb41aba006adf5e6f3198f707e05fc59d16821e8da366484bb663b162fcd9923",
+      "width": 480,
+      "height": 480,
+      "size": 19782,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/detail-1.webp",
+      "hash": "50ac99c26e5b263a7017b40ba6a257a4883691970181ac87ffb00b95a4c928de",
+      "width": 480,
+      "height": 480,
+      "size": 10316,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/detail-2.webp",
+      "hash": "f8e82b164896f758aff18ba6cb43f71665f46d91cf3c980f6fd8d18d85316e0e",
+      "width": 480,
+      "height": 480,
+      "size": 49646,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/detail-3.webp",
+      "hash": "c668b7086755b0368fad3280be5d39feb48bbbae790f69d7ee7c331019722a1f",
+      "width": 480,
+      "height": 480,
+      "size": 67786,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/detail-4.webp",
+      "hash": "ffaded9e883edb156e268275a526314d27075d99d556ef132f27a8062ed545e4",
+      "width": 480,
+      "height": 480,
+      "size": 23880,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-azul--57dec11b/detail-5.webp",
+      "hash": "547801eb398f25c65f4b3214bf0853f2fa914378f6b45d73a53304b2bf59f86d",
+      "width": 480,
+      "height": 480,
+      "size": 30218,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    }
+  ]
+}

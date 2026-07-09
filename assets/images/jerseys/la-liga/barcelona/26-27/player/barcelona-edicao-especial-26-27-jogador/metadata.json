@@ -1,0 +1,27 @@
+{
+  "productId": "source-barcelona-edicao-especial-26-27-jogador",
+  "createdAt": "2026-07-09T03:07:03Z",
+  "updatedAt": "2026-07-09T03:07:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/26-27/player/barcelona-edicao-especial-26-27-jogador/front.webp",
+      "hash": "5f7915649f8e0585ab629ef3b9a6b1f08df071e9e1c42f117b65d9133cc8a0ef",
+      "width": 480,
+      "height": 480,
+      "size": 11706,
+      "createdAt": "2026-07-09T03:07:03Z",
+      "updatedAt": "2026-07-09T03:07:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/26-27/player/barcelona-edicao-especial-26-27-jogador/back.webp",
+      "hash": "61547c9ef62c739da974b2ffd68542a618c20ccd01044d3d2bcc578038a97329",
+      "width": 480,
+      "height": 480,
+      "size": 10600,
+      "createdAt": "2026-07-09T03:07:03Z",
+      "updatedAt": "2026-07-09T03:07:03Z"
+    }
+  ]
+}

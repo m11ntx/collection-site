@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T03:07:20Z",
+  "updatedAt": "2026-07-09T03:07:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/front.webp",
+      "hash": "0b434923aa79bcecc7e602837c20cbc26d4a64c6320db26c7c575240194106fc",
+      "width": 480,
+      "height": 480,
+      "size": 30696,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/back.webp",
+      "hash": "b5a0947045bcdb490535f2ef80c2fe7b45471a83d87cfd88e148a247b97f0aa9",
+      "width": 480,
+      "height": 480,
+      "size": 28550,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/detail-1.webp",
+      "hash": "748afb9fe037c9b386997ce26707ccf0eb96e5672ad7732365b6d1a9aae24188",
+      "width": 480,
+      "height": 480,
+      "size": 30520,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/detail-2.webp",
+      "hash": "ac5caf2a5c66a13dd10493afa198f30d7f2e87d96cbb7dfef1aadede161d25f4",
+      "width": 480,
+      "height": 480,
+      "size": 64120,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/detail-3.webp",
+      "hash": "c8698f05438427fd93abc03be90bc8fc4d56a9d244ed10f9a8d6608bc10e0923",
+      "width": 480,
+      "height": 480,
+      "size": 62914,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/detail-4.webp",
+      "hash": "63a1d09f41a85032331b12fff77635eef41ba4f1a7f936c58d98cf1028e0140c",
+      "width": 480,
+      "height": 480,
+      "size": 42434,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco/detail-5.webp",
+      "hash": "a0e1c9a5b976a2e98df4c207dcac7efdcd3c69f06731d70d781e0dbacceaaa29",
+      "width": 480,
+      "height": 480,
+      "size": 43440,
+      "createdAt": "2026-07-09T03:07:20Z",
+      "updatedAt": "2026-07-09T03:07:20Z"
+    }
+  ]
+}

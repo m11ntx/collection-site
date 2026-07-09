@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-bege-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T03:13:41Z",
+  "updatedAt": "2026-07-09T03:13:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-bege--d0c9392a/front.webp",
+      "hash": "3ca1ae2438042b1c4ebd89871095044cec624a65b865619f469e0c9a09ac6556",
+      "width": 480,
+      "height": 480,
+      "size": 16612,
+      "createdAt": "2026-07-09T03:13:40Z",
+      "updatedAt": "2026-07-09T03:13:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-bege--d0c9392a/back.webp",
+      "hash": "06a06810040af43da376a6161b7c1b83e85172d2f5b6f5831113b983ffd8d089",
+      "width": 480,
+      "height": 480,
+      "size": 12942,
+      "createdAt": "2026-07-09T03:13:41Z",
+      "updatedAt": "2026-07-09T03:13:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-edicao-especial-24-25-jogador-adidas-masculina-bege--d0c9392a/detail-1.webp",
+      "hash": "857fc1bbbcf8f7b27ad6c3dd3efc16f5f7df6ea7f203534a796539152d09a185",
+      "width": 480,
+      "height": 480,
+      "size": 17854,
+      "createdAt": "2026-07-09T03:13:41Z",
+      "updatedAt": "2026-07-09T03:13:41Z"
+    }
+  ]
+}

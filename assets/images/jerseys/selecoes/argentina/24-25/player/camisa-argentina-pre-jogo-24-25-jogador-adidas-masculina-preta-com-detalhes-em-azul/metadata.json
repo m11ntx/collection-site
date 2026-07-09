@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-argentina-pre-jogo-24-25-jogador-adidas-masculina-preta-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:06:39Z",
+  "updatedAt": "2026-07-09T03:06:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-argentina-pre-jogo-24-25-jogador-adidas-masculina-preta-com-detalhes-em-azul/front.webp",
+      "hash": "77d8f0f808f163838466ba6566d09ee0039587bee518bd8d2d7fe3f617a620f8",
+      "width": 480,
+      "height": 480,
+      "size": 11342,
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-argentina-pre-jogo-24-25-jogador-adidas-masculina-preta-com-detalhes-em-azul/back.webp",
+      "hash": "db4b4fa56d7a24f2b9a0cdb36d4af05e077e38a615988fe8aa1d3f1c228444d9",
+      "width": 480,
+      "height": 480,
+      "size": 13420,
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-argentina-pre-jogo-24-25-jogador-adidas-masculina-preta-com-detalhes-em-azul/detail-1.webp",
+      "hash": "a1cc0da52c7deecbb0d481056b522a8dc7845f72b90e9b77d6b80965eb6f063a",
+      "width": 480,
+      "height": 480,
+      "size": 5678,
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
+    }
+  ]
+}

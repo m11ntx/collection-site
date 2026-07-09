@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-em-azul-e-dourado",
+  "createdAt": "2026-07-09T03:14:06Z",
+  "updatedAt": "2026-07-09T03:14:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/front.webp",
+      "hash": "f4789e05dbbc58de862f7667a5ac93384c561fed95de366890982650258d0108",
+      "width": 480,
+      "height": 480,
+      "size": 7894,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/back.webp",
+      "hash": "6e291362a5f60d79237b1428283e74f7daa60229ac82a671b0c6789a47125c3b",
+      "width": 480,
+      "height": 480,
+      "size": 8006,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/detail-1.webp",
+      "hash": "3c31a688eb5d51d991f1f429e642b69a845b310383943f806e9978da807a0e44",
+      "width": 480,
+      "height": 480,
+      "size": 12290,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/detail-2.webp",
+      "hash": "d5fa6e6cbfb4912a92f01a2bfa7c6d29e9a916a7dd90e3d1e15905b1ca523b2b",
+      "width": 480,
+      "height": 480,
+      "size": 45504,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/detail-3.webp",
+      "hash": "b99b06600da6320cb91664e1b3f2c214b7547053736d9869ddd5dc2a942b9fc1",
+      "width": 480,
+      "height": 480,
+      "size": 20492,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/detail-4.webp",
+      "hash": "c08f8cb7f913fabaf0ab8e5c21037b54052d8efbd22fa3dfc5ecbba3882a3e6a",
+      "width": 480,
+      "height": 480,
+      "size": 14204,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/player/camisa-selecao-do-uruguai-i-24-25-jogador-masculina-branca-com-detalhes-10ea24fe/detail-5.webp",
+      "hash": "6b1e52448ffd0aea0a89af01cd40b1af4e93e57439f437100e3c4175c2261963",
+      "width": 480,
+      "height": 480,
+      "size": 18286,
+      "createdAt": "2026-07-09T03:14:06Z",
+      "updatedAt": "2026-07-09T03:14:06Z"
+    }
+  ]
+}

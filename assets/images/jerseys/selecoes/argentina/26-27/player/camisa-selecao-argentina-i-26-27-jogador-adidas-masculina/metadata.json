@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-argentina-i-26-27-jogador-adidas-masculina",
+  "createdAt": "2026-07-09T03:08:19Z",
+  "updatedAt": "2026-07-09T03:08:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/front.webp",
+      "hash": "df1c1ef2bea0d4e9302da70bc50df8af9e5d494313572dbe054d9566253aa241",
+      "width": 480,
+      "height": 480,
+      "size": 20970,
+      "createdAt": "2026-07-09T03:07:38Z",
+      "updatedAt": "2026-07-09T03:07:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/back.webp",
+      "hash": "1f8c3cff316b560fd05877c0be48df2ea29eb8e6ef244700140c03caaaf77fce",
+      "width": 480,
+      "height": 480,
+      "size": 27290,
+      "createdAt": "2026-07-09T03:07:44Z",
+      "updatedAt": "2026-07-09T03:07:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/detail-1.webp",
+      "hash": "2b6005290c1a6a7da8b8c636112053386077ad601df4caff0ff7e1348aa6c259",
+      "width": 480,
+      "height": 480,
+      "size": 40330,
+      "createdAt": "2026-07-09T03:07:50Z",
+      "updatedAt": "2026-07-09T03:07:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/detail-2.webp",
+      "hash": "40c589fc6871609c78f23704f7609abfe0afaeb38dda6a5ac5cc7a0e26f0af9b",
+      "width": 480,
+      "height": 480,
+      "size": 20806,
+      "createdAt": "2026-07-09T03:07:56Z",
+      "updatedAt": "2026-07-09T03:07:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/detail-3.webp",
+      "hash": "0b27d5cc61544b6fb2adef74466f13519cf492676f6457076860dfc9fb1a7008",
+      "width": 480,
+      "height": 480,
+      "size": 15118,
+      "createdAt": "2026-07-09T03:08:02Z",
+      "updatedAt": "2026-07-09T03:08:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/detail-4.webp",
+      "hash": "225fcdb0ac644ee16a986289c917f64cf98a7e47f376834c93aea9197282a98d",
+      "width": 480,
+      "height": 480,
+      "size": 27844,
+      "createdAt": "2026-07-09T03:08:07Z",
+      "updatedAt": "2026-07-09T03:08:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/26-27/player/camisa-selecao-argentina-i-26-27-jogador-adidas-masculina/detail-5.webp",
+      "hash": "de7bad91e51607e105434b6e1611e88408dd3fe8cd825af85daa719ecbd87874",
+      "width": 480,
+      "height": 480,
+      "size": 17108,
+      "createdAt": "2026-07-09T03:08:13Z",
+      "updatedAt": "2026-07-09T03:08:13Z"
+    }
+  ]
+}

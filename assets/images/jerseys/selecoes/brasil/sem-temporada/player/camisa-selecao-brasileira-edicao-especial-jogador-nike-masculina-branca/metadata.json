@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-09T03:08:23Z",
+  "updatedAt": "2026-07-09T03:08:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/front.webp",
+      "hash": "cb4b41d29724c2f71b18853a957af8cc2f5168be5c441f96974dbd368df81c67",
+      "width": 480,
+      "height": 480,
+      "size": 19182,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/back.webp",
+      "hash": "067fea68e7726586fc4b5fa4b3aaf308225339cddb1c65f2bdea3f50f9f404ca",
+      "width": 480,
+      "height": 480,
+      "size": 18476,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/detail-1.webp",
+      "hash": "e91b2eb00cb94f420842703af342d892db940e77d410fadc96ec0361eb1a2b35",
+      "width": 480,
+      "height": 480,
+      "size": 41632,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/detail-2.webp",
+      "hash": "47c8009666b720c2698776bce266a1875de6349b3da69adc43693e22f25be13d",
+      "width": 480,
+      "height": 480,
+      "size": 31906,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/detail-3.webp",
+      "hash": "e2ba025b8b13d43bf96d2d66f05a68282968954dd97f0afa943d41bc0cc0d1ef",
+      "width": 480,
+      "height": 480,
+      "size": 25546,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/detail-4.webp",
+      "hash": "190c0b90793b55c35219239326f40f4bed4f7feae1e183406d05d74b2babf17c",
+      "width": 480,
+      "height": 480,
+      "size": 51642,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-branca/detail-5.webp",
+      "hash": "eb3859a21d3da26acb74be1f3b7ea9f6433506529a39c30ee29012110b7242dd",
+      "width": 480,
+      "height": 480,
+      "size": 58052,
+      "createdAt": "2026-07-09T03:08:23Z",
+      "updatedAt": "2026-07-09T03:08:23Z"
+    }
+  ]
+}

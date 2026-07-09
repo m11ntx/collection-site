@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa",
+  "createdAt": "2026-07-09T03:06:36Z",
+  "updatedAt": "2026-07-09T03:06:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/player/camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa/front.webp",
+      "hash": "1867c812cdd21aeec5b0f5ad0c222e7fcf94d12bf114e73a1f5608abd6363ef5",
+      "width": 480,
+      "height": 480,
+      "size": 25364,
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/player/camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa/back.webp",
+      "hash": "ef1bde8db8b288db6de0f1c9edaa071492541926714d1fbe4c96fe444feec776",
+      "width": 480,
+      "height": 480,
+      "size": 34586,
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/player/camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa/detail-1.webp",
+      "hash": "4e981d92563a9f7a03484776ad3423847b45d83fc657191e618ab9c1fb4971d2",
+      "width": 480,
+      "height": 480,
+      "size": 13144,
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/player/camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa/detail-2.webp",
+      "hash": "1ad0f1a737912cf0973434d28ae431178e33cb830558f684bf48198cfdb80d04",
+      "width": 480,
+      "height": 480,
+      "size": 33728,
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/player/camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa/detail-3.webp",
+      "hash": "405812b5491412f36311a3522a567ee3d5d44192e96b3f92481694b45a2039bf",
+      "width": 480,
+      "height": 480,
+      "size": 37290,
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
+    }
+  ]
+}

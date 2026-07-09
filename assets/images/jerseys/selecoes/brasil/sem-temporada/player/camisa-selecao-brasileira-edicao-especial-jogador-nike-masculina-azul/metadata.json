@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T03:08:22Z",
+  "updatedAt": "2026-07-09T03:08:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/front.webp",
+      "hash": "423401fca18c7d93576a0810a34386c62a9664414a8efd97c1a5f206ad5529bd",
+      "width": 480,
+      "height": 480,
+      "size": 20626,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/back.webp",
+      "hash": "f1cfdf495dc3c676b9c18c16c9ba10c4bd0f8d53f9c7c3e172adb65c5e023ec5",
+      "width": 480,
+      "height": 480,
+      "size": 21478,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "b87bcd730961167ddf9aa6e95fa505764f7ff8a1630c657e42a725c0825a33ea",
+      "width": 480,
+      "height": 480,
+      "size": 36712,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/detail-2.webp",
+      "hash": "19b9f0ed8403424bc86b7e24daf46ea2dcc8aeb1e4b1dce93d7ba6b76786016a",
+      "width": 480,
+      "height": 480,
+      "size": 28260,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/detail-3.webp",
+      "hash": "31ef3fbad2b26238556c87bcb1ee99093a6e23b8250a2c6603bd008584dce914",
+      "width": 480,
+      "height": 480,
+      "size": 32374,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/detail-4.webp",
+      "hash": "5f61980041a184a0d882f439ef4767ae047b94b643f9b88d290cfc26dd8997ab",
+      "width": 480,
+      "height": 480,
+      "size": 46426,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/player/camisa-selecao-brasileira-edicao-especial-jogador-nike-masculina-azul/detail-5.webp",
+      "hash": "9ca235f4146e7621da62bc8bc2d36178ae1cfe07b11a4d5b43c815c3e008c5fb",
+      "width": 480,
+      "height": 480,
+      "size": 43600,
+      "createdAt": "2026-07-09T03:08:22Z",
+      "updatedAt": "2026-07-09T03:08:22Z"
+    }
+  ]
+}

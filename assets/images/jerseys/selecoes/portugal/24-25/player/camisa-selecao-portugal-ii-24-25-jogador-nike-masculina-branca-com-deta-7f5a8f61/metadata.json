@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul-e-preto",
+  "createdAt": "2026-07-09T03:14:01Z",
+  "updatedAt": "2026-07-09T03:14:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/player/camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-deta-7f5a8f61/front.webp",
+      "hash": "c88baa181f7db380e5fe9dbef7236ae7224ea13cade92cb8c8611fed91e2bff0",
+      "width": 480,
+      "height": 480,
+      "size": 28102,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/player/camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-deta-7f5a8f61/back.webp",
+      "hash": "90df6c08b980e3965402a1081357293897f2d88c39347f59df29971a7272ae5d",
+      "width": 480,
+      "height": 480,
+      "size": 26590,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/player/camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-deta-7f5a8f61/detail-1.webp",
+      "hash": "02316ea596fe297ee01d4b4212dce94129b6764a9c0363d5d81423b8b3d19e72",
+      "width": 480,
+      "height": 480,
+      "size": 50472,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/player/camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-deta-7f5a8f61/detail-2.webp",
+      "hash": "75c5eac03cf3df8566940a1e8ff31ea835c74c17ed32ef6e3f93ef3e6f4ac01e",
+      "width": 480,
+      "height": 480,
+      "size": 52204,
+      "createdAt": "2026-07-09T03:14:01Z",
+      "updatedAt": "2026-07-09T03:14:01Z"
+    }
+  ]
+}

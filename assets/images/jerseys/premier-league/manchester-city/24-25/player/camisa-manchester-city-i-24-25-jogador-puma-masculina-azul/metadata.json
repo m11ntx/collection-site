@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-manchester-city-i-24-25-jogador-puma-masculina-azul",
+  "createdAt": "2026-07-09T03:07:18Z",
+  "updatedAt": "2026-07-09T03:07:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-i-24-25-jogador-puma-masculina-azul/front.webp",
+      "hash": "eb48852dbbe72c3ff1d771ef858fddd019766c2cb07af912c91ec056887cfcf2",
+      "width": 480,
+      "height": 480,
+      "size": 11918,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-i-24-25-jogador-puma-masculina-azul/back.webp",
+      "hash": "2700a260077d67fd81a3a84eb716539f4a267ddafaf72e64b630e03c66f11e95",
+      "width": 480,
+      "height": 480,
+      "size": 10928,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-i-24-25-jogador-puma-masculina-azul/detail-1.webp",
+      "hash": "9504ad9b4a8e67d0c92ca5435df100b1a02d32f7b2a932667d45124a0b4d2741",
+      "width": 480,
+      "height": 480,
+      "size": 19580,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-i-24-25-jogador-puma-masculina-azul/detail-2.webp",
+      "hash": "2a7d44e6e21dd4612346fdf4607f431969b95d699581d920c2ce856739aeccc9",
+      "width": 480,
+      "height": 480,
+      "size": 13678,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-i-24-25-jogador-puma-masculina-azul/detail-3.webp",
+      "hash": "e2f56b18250bed252816704d4a9cd35c2d8fcb6b6ad1536197c93bcdf404ffb9",
+      "width": 480,
+      "height": 480,
+      "size": 27612,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    }
+  ]
+}

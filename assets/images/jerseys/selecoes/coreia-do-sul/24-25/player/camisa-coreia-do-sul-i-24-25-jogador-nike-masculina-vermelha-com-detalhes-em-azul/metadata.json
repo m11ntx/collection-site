@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:08:51Z",
+  "updatedAt": "2026-07-09T03:08:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/front.webp",
+      "hash": "f50560e43140321affdd0ffbee8cb2c4fb2e0db2eff335aa8a403bd95bbc58bd",
+      "width": 480,
+      "height": 480,
+      "size": 11864,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/back.webp",
+      "hash": "301bc1ac41083210a8fb0a664bddeb8c0be5175c84fa501004ec6d57e6896f26",
+      "width": 480,
+      "height": 480,
+      "size": 10340,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/detail-1.webp",
+      "hash": "58d3a1f56c66f7a49399553b69872e8e7b84c55cb8642d3ca0f5102be20b2158",
+      "width": 480,
+      "height": 480,
+      "size": 18088,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/detail-2.webp",
+      "hash": "bbfde60a5bf9140a250d47f12386b5f674c944fa2263f979a29963e60e5d88cd",
+      "width": 480,
+      "height": 480,
+      "size": 61696,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/detail-3.webp",
+      "hash": "f4613f6ed4dc2dc74b1b2fe31f11ac4e037bdde749f57f5ea4de0bf9d0bebb05",
+      "width": 480,
+      "height": 480,
+      "size": 58652,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/detail-4.webp",
+      "hash": "4eb27c313294d8809e031fb9c892595d3d56c10530ce9428d04861443538d2ed",
+      "width": 480,
+      "height": 480,
+      "size": 19246,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-azul/detail-5.webp",
+      "hash": "9d489497461e31f9a75d920e6d655097953d311aeea6a96af95862d15e6bfd9d",
+      "width": 480,
+      "height": 480,
+      "size": 20948,
+      "createdAt": "2026-07-09T03:08:51Z",
+      "updatedAt": "2026-07-09T03:08:51Z"
+    }
+  ]
+}

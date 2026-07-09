@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T03:08:26Z",
+  "updatedAt": "2026-07-09T03:08:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/player/camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul/front.webp",
+      "hash": "c249e1a49397efe4de30eee010e644b33e3a5ac58c1be329431af5f5ef17b7c8",
+      "width": 480,
+      "height": 480,
+      "size": 23582,
+      "createdAt": "2026-07-09T03:08:25Z",
+      "updatedAt": "2026-07-09T03:08:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/player/camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul/back.webp",
+      "hash": "e9e4d095af7f1fa69522adfde95b7cc2b27991651a1a2b34138c783f2892937b",
+      "width": 480,
+      "height": 480,
+      "size": 21572,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/player/camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "2d283fc8680c196d99aab95b5c4c37bc5de8f617b86e2b173e3bd848ff3a6f67",
+      "width": 480,
+      "height": 480,
+      "size": 33860,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/player/camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul/detail-2.webp",
+      "hash": "032b51e06fbcdfa03f946f6a234726e21569a3e8e9f31915dd8ea197913c4d0b",
+      "width": 480,
+      "height": 480,
+      "size": 28214,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/player/camisa-selecao-brasileira-ii-24-25-jogador-nike-masculina-azul/detail-3.webp",
+      "hash": "de449ddc8188b14e9c2ac038857478101a32c093dddc652c6584c2b40239cc87",
+      "width": 480,
+      "height": 480,
+      "size": 67498,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    }
+  ]
+}

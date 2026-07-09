@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T03:07:07Z",
+  "updatedAt": "2026-07-09T03:07:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/front.webp",
+      "hash": "5e78e4711a0a3ac848e3006f0909e0570900a1e2d7f0d5e57379138e6b16aa39",
+      "width": 480,
+      "height": 480,
+      "size": 16600,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/back.webp",
+      "hash": "9f09fe868daffffc193cbdcb6810acc5399ddff2cfe206bfc8556932d62da2f3",
+      "width": 480,
+      "height": 480,
+      "size": 20366,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/detail-1.webp",
+      "hash": "6838715b623c4f75a4407404d73ca4c4cad384fb78de273024953484b9b0c900",
+      "width": 480,
+      "height": 480,
+      "size": 9848,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/detail-2.webp",
+      "hash": "3469e442baba663c28c989b15847aa2b8588cbf3883fc3315732ac1552799296",
+      "width": 480,
+      "height": 480,
+      "size": 14392,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/detail-3.webp",
+      "hash": "686a279e5573eb65b853d94e0dfb3dd49af8edcccfd01142a8c08ecfb3b4a7c0",
+      "width": 480,
+      "height": 480,
+      "size": 10104,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-ii-24-25-jogador-adidas-masculina-rosa-com-detalhes-em-preto/detail-4.webp",
+      "hash": "68c2ed64bead3a9c1e302424e09ac38ffa4954264849f49eff0124c5adcb9abf",
+      "width": 480,
+      "height": 480,
+      "size": 58332,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    }
+  ]
+}

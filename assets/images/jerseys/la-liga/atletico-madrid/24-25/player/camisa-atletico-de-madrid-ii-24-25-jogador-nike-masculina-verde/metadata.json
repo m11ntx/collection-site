@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde",
+  "createdAt": "2026-07-09T03:06:48Z",
+  "updatedAt": "2026-07-09T03:06:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde/front.webp",
+      "hash": "d3e02c164b4a4840251e0b4511f63607eb56f19f4581d9407def2302094d2d44",
+      "width": 480,
+      "height": 480,
+      "size": 13052,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde/back.webp",
+      "hash": "87d1af12b9bf77f7b0ba1d42aadb4180c5f0e1c6414a38e43dcc022aeb2e14d7",
+      "width": 480,
+      "height": 480,
+      "size": 19850,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde/detail-1.webp",
+      "hash": "b4f6ffb821fffe3d284df626308d31be34065cfbdcaf827f6af37054e8cb9466",
+      "width": 480,
+      "height": 480,
+      "size": 12032,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde/detail-2.webp",
+      "hash": "d66073085127f33fe27a6eebe2bc8d5b576eeff25213445637b8fda2937589de",
+      "width": 480,
+      "height": 480,
+      "size": 52664,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-ii-24-25-jogador-nike-masculina-verde/detail-3.webp",
+      "hash": "2b6c2a8a0565fe7ddcba11c74c48539a8f34bebf3aa1925e190a666c87d533a6",
+      "width": 480,
+      "height": 480,
+      "size": 34926,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    }
+  ]
+}

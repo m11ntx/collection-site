@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-preta-e-amarela",
+  "createdAt": "2026-07-09T03:13:25Z",
+  "updatedAt": "2026-07-09T03:13:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/front.webp",
+      "hash": "5d04b3d9ddb32aec08293e0b246754b1524d5df6c1286c0281b892fcc3209cca",
+      "width": 480,
+      "height": 480,
+      "size": 16210,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/back.webp",
+      "hash": "eaa7e4aacc83e27da96534f3c9eca5b07d1095d293d08d2cc52f5923083defd2",
+      "width": 480,
+      "height": 480,
+      "size": 17538,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/detail-1.webp",
+      "hash": "635e277dc980d3cf2b482c0ad4c45ed46cc134bb7c86870620664f5aff6e63e1",
+      "width": 480,
+      "height": 480,
+      "size": 16936,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/detail-2.webp",
+      "hash": "e60308d19e268b562b9bcc3a72d782a2a799bfdc46a7dc81d5f43d9b58b5d796",
+      "width": 480,
+      "height": 480,
+      "size": 23552,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/detail-3.webp",
+      "hash": "360c3f2d2055f4012a01c52ac869e4c54ad1ade7b9c7bce22584c704ff94a92c",
+      "width": 480,
+      "height": 480,
+      "size": 27194,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/detail-4.webp",
+      "hash": "6a602cfbaec772a2d3eea56ba5af786092fb6b45b8a8515d0ee8f15618bd23c9",
+      "width": 480,
+      "height": 480,
+      "size": 17284,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-edicao-especial-24-25-jogador-puma-masculina-p-ec340d54/detail-5.webp",
+      "hash": "2754456657b237e1c55a3600cdb177ab238ed1234c4cf5fcdf850f1ee5f4f9ac",
+      "width": 480,
+      "height": 480,
+      "size": 19624,
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
+    }
+  ]
+}

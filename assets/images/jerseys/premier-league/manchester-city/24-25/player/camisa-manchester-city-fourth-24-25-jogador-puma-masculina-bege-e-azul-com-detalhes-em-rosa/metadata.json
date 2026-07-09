@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-manchester-city-fourth-24-25-jogador-puma-masculina-bege-e-azul-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T03:07:18Z",
+  "updatedAt": "2026-07-09T03:07:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-fourth-24-25-jogador-puma-masculina-bege-e-azul-com-detalhes-em-rosa/front.webp",
+      "hash": "7b2366380ddc26a301d6f389bfcc3ec176bba926c6948716bfa60f69b3aaa632",
+      "width": 480,
+      "height": 480,
+      "size": 13066,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-fourth-24-25-jogador-puma-masculina-bege-e-azul-com-detalhes-em-rosa/back.webp",
+      "hash": "ae88703748c912bea5e4ba4d53a1bc8843962bbdc55c0260bc0fde3aab1b0b96",
+      "width": 480,
+      "height": 480,
+      "size": 11144,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-fourth-24-25-jogador-puma-masculina-bege-e-azul-com-detalhes-em-rosa/detail-1.webp",
+      "hash": "4721d10b428df4d8946a2b335743150568333e4f7817f773ea2fb649595a0653",
+      "width": 480,
+      "height": 480,
+      "size": 20068,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-fourth-24-25-jogador-puma-masculina-bege-e-azul-com-detalhes-em-rosa/detail-2.webp",
+      "hash": "8a2996d321550f3ceccb11b58589050e3825277c0b2162815a68ef1128a8bcad",
+      "width": 480,
+      "height": 480,
+      "size": 17720,
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
+    }
+  ]
+}

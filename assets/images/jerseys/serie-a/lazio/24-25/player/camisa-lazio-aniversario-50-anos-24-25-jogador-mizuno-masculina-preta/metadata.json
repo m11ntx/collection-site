@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta",
+  "createdAt": "2026-07-09T03:07:16Z",
+  "updatedAt": "2026-07-09T03:07:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/player/camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta/front.webp",
+      "hash": "78278927d52588a3c67155b2e80582b840a73a8b1094027fd397d58c9fc09efd",
+      "width": 480,
+      "height": 480,
+      "size": 7144,
+      "createdAt": "2026-07-09T03:07:15Z",
+      "updatedAt": "2026-07-09T03:07:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/player/camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta/back.webp",
+      "hash": "d388c4a1e5dbc58e87fed8464dd64f5cff8571b31666615d18e8b8cafac2ce4a",
+      "width": 480,
+      "height": 480,
+      "size": 9368,
+      "createdAt": "2026-07-09T03:07:15Z",
+      "updatedAt": "2026-07-09T03:07:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/player/camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta/detail-1.webp",
+      "hash": "3175dc0eb493aa5e80d283257765c5dc3d8e3e3f2fb829f4ce86744b604e4dc9",
+      "width": 480,
+      "height": 480,
+      "size": 8168,
+      "createdAt": "2026-07-09T03:07:16Z",
+      "updatedAt": "2026-07-09T03:07:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/player/camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta/detail-2.webp",
+      "hash": "f2da9567c63b21d09300bbb85a6c775fbd8e58277f740504260609fa32abdf90",
+      "width": 480,
+      "height": 480,
+      "size": 6948,
+      "createdAt": "2026-07-09T03:07:16Z",
+      "updatedAt": "2026-07-09T03:07:16Z"
+    }
+  ]
+}

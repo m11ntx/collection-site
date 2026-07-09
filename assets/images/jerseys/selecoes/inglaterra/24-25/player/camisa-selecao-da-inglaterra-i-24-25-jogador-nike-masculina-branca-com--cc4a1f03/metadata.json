@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-da-inglaterra-i-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:13:51Z",
+  "updatedAt": "2026-07-09T03:13:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/player/camisa-selecao-da-inglaterra-i-24-25-jogador-nike-masculina-branca-com--cc4a1f03/front.webp",
+      "hash": "736bfa048ebddf69d15998528840499448455679d3ac43cd0328921958661d31",
+      "width": 480,
+      "height": 480,
+      "size": 11532,
+      "createdAt": "2026-07-09T03:13:50Z",
+      "updatedAt": "2026-07-09T03:13:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/player/camisa-selecao-da-inglaterra-i-24-25-jogador-nike-masculina-branca-com--cc4a1f03/back.webp",
+      "hash": "d86d2e763ebc613867eef1c7fd98cff1615c422680eb2f3f41fdce475b47888a",
+      "width": 480,
+      "height": 480,
+      "size": 16902,
+      "createdAt": "2026-07-09T03:13:50Z",
+      "updatedAt": "2026-07-09T03:13:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/player/camisa-selecao-da-inglaterra-i-24-25-jogador-nike-masculina-branca-com--cc4a1f03/detail-1.webp",
+      "hash": "09bca8fe64daf72c86e325ae142f6df904423114bf5d5db6105cea619c9bcd29",
+      "width": 480,
+      "height": 480,
+      "size": 11004,
+      "createdAt": "2026-07-09T03:13:50Z",
+      "updatedAt": "2026-07-09T03:13:50Z"
+    }
+  ]
+}

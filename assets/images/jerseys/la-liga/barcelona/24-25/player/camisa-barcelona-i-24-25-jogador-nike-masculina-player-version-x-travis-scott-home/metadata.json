@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home",
+  "createdAt": "2026-07-09T03:06:52Z",
+  "updatedAt": "2026-07-09T03:06:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home/front.webp",
+      "hash": "459bd195ac33091747d49c5c8a60a240569f320c5b1f461464fd857f70421649",
+      "width": 480,
+      "height": 480,
+      "size": 16724,
+      "createdAt": "2026-07-09T03:06:51Z",
+      "updatedAt": "2026-07-09T03:06:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home/back.webp",
+      "hash": "360fe96cd02c54403531a64e0ba176a9f760948ea6207c2dd4092c6d363c5197",
+      "width": 480,
+      "height": 480,
+      "size": 16612,
+      "createdAt": "2026-07-09T03:06:51Z",
+      "updatedAt": "2026-07-09T03:06:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home/detail-1.webp",
+      "hash": "0f1b337d6b2e14ead4194b6c71aafe0b78b814dbf7764feaa204c8203f6089ba",
+      "width": 480,
+      "height": 480,
+      "size": 38362,
+      "createdAt": "2026-07-09T03:06:51Z",
+      "updatedAt": "2026-07-09T03:06:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home/detail-2.webp",
+      "hash": "ebaac2cc1867176271ce4000c8c0f31cc9d895376d205877d3bbb3816b0bc05c",
+      "width": 480,
+      "height": 480,
+      "size": 25694,
+      "createdAt": "2026-07-09T03:06:52Z",
+      "updatedAt": "2026-07-09T03:06:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-player-version-x-travis-scott-home/detail-3.webp",
+      "hash": "53ba8bef5ff8619e32a02aac5f3d3e38b604d7b0a1edcb40df55d7da74009b9b",
+      "width": 480,
+      "height": 480,
+      "size": 26998,
+      "createdAt": "2026-07-09T03:06:52Z",
+      "updatedAt": "2026-07-09T03:06:52Z"
+    }
+  ]
+}

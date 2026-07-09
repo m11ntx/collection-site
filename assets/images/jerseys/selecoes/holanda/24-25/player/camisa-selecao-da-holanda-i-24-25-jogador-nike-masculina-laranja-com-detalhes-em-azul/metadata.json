@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:08:32Z",
+  "updatedAt": "2026-07-09T03:08:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/front.webp",
+      "hash": "2b18be8b7951b7933435f536f444bb73dc22154c1ed1c51a649db93a83f9b971",
+      "width": 480,
+      "height": 480,
+      "size": 9716,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/back.webp",
+      "hash": "7e4b8c306fd00dadeadaebd993b0c67935b4592bbe9613cf535581620c85d85e",
+      "width": 480,
+      "height": 480,
+      "size": 10032,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/detail-1.webp",
+      "hash": "0607e209d99e76faa2c307bf26f9b1ab62e6188b9bd804989234b8125ea24ef9",
+      "width": 480,
+      "height": 480,
+      "size": 15446,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/detail-2.webp",
+      "hash": "f48e0f66887d32ac619735868941370c09267f24fd657ed0a74452113366ebbe",
+      "width": 480,
+      "height": 480,
+      "size": 62064,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/detail-3.webp",
+      "hash": "9c831ad1cf7ee4dbdd43303b0e9ac5cb8b961ee1bbc16469fbdcdaac31d65ff1",
+      "width": 480,
+      "height": 480,
+      "size": 36182,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/detail-4.webp",
+      "hash": "e26ee148448fd7c3c2e5dd0dc568d3c00864b3df6a389c658770c519918f82b0",
+      "width": 480,
+      "height": 480,
+      "size": 21102,
+      "createdAt": "2026-07-09T03:08:31Z",
+      "updatedAt": "2026-07-09T03:08:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/player/camisa-selecao-da-holanda-i-24-25-jogador-nike-masculina-laranja-com-detalhes-em-azul/detail-5.webp",
+      "hash": "cb905881dcbaffff541a10c2950daa4d4da67e922e22df6a7bdeff354a21dff6",
+      "width": 480,
+      "height": 480,
+      "size": 25514,
+      "createdAt": "2026-07-09T03:08:32Z",
+      "updatedAt": "2026-07-09T03:08:32Z"
+    }
+  ]
+}

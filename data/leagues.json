@@ -88,6 +88,14 @@
     "image": null
   },
   {
+    "id": "allsvenskan",
+    "collectionId": "resto-do-mundo",
+    "slug": "allsvenskan",
+    "name": "Allsvenskan",
+    "country": "Sweden",
+    "image": null
+  },
+  {
     "id": "mls",
     "collectionId": "resto-do-mundo",
     "slug": "mls",

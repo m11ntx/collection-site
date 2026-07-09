@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha",
+  "createdAt": "2026-07-09T03:06:32Z",
+  "updatedAt": "2026-07-09T03:06:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/front.webp",
+      "hash": "73b9cf612f1ce6d08b58b99cf1e6410f12076346eda7a6c5299ddceda59d94bc",
+      "width": 480,
+      "height": 480,
+      "size": 12476,
+      "createdAt": "2026-07-09T03:06:31Z",
+      "updatedAt": "2026-07-09T03:06:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/back.webp",
+      "hash": "48434dfa3c6c637cb6356baa001c08f883fd14106675d4c7b602b88a40d1d7aa",
+      "width": 480,
+      "height": 480,
+      "size": 8258,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-1.webp",
+      "hash": "ecc0c805a67959b633793cc23535422532287ca9a29ac438ff93345cc62f1874",
+      "width": 480,
+      "height": 480,
+      "size": 16512,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-2.webp",
+      "hash": "fb4586c0cf2207f226e42b00a6dfd33433000d3712bfee01f0407f968505dfc3",
+      "width": 480,
+      "height": 480,
+      "size": 14244,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-3.webp",
+      "hash": "be1d5d5cd6533ecef731f1de09a4a754992664c4e4b5d07d4e6f74cf2c595697",
+      "width": 480,
+      "height": 480,
+      "size": 6384,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-4.webp",
+      "hash": "9c368e62a4468f7a99ab224ae7cec66ebe5e1d0d2549f841ab0eeb925827392e",
+      "width": 480,
+      "height": 480,
+      "size": 10202,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-5.webp",
+      "hash": "bc195f0dca7063f455d4fd12035e94fa8497e2ab720e1411e51136cfcd51e1a9",
+      "width": 480,
+      "height": 480,
+      "size": 17634,
+      "createdAt": "2026-07-09T03:06:32Z",
+      "updatedAt": "2026-07-09T03:06:32Z"
+    }
+  ]
+}

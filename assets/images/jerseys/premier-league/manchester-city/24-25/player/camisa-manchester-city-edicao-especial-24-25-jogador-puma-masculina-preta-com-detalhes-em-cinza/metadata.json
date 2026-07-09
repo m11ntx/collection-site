@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-manchester-city-edicao-especial-24-25-jogador-puma-masculina-preta-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T03:07:17Z",
+  "updatedAt": "2026-07-09T03:07:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-edicao-especial-24-25-jogador-puma-masculina-preta-com-detalhes-em-cinza/front.webp",
+      "hash": "4d36a7edc18265fc9db0eb011be253fe7a8f152ae13207a03a47d3e9b59de345",
+      "width": 480,
+      "height": 480,
+      "size": 22650,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-edicao-especial-24-25-jogador-puma-masculina-preta-com-detalhes-em-cinza/back.webp",
+      "hash": "8a7dbb2755c3abf52b0fac8a56487865674eb541cb4d7aca84038af70911b88f",
+      "width": 480,
+      "height": 480,
+      "size": 26882,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-edicao-especial-24-25-jogador-puma-masculina-preta-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "413f95f08b389b430778cafcb2423d330eee42b012847f2186318a597a307667",
+      "width": 480,
+      "height": 480,
+      "size": 7732,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/player/camisa-manchester-city-edicao-especial-24-25-jogador-puma-masculina-preta-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "998f9c46985580ec7f7d7ac16307a9daac7a3f352ebdd986d0bff5a5f7dd9ab0",
+      "width": 480,
+      "height": 480,
+      "size": 16078,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    }
+  ]
+}

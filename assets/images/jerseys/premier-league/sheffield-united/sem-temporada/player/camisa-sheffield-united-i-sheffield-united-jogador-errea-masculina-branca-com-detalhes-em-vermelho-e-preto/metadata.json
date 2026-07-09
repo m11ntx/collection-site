@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-09T03:08:40Z",
+  "updatedAt": "2026-07-09T03:08:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/front.webp",
+      "hash": "2d441831eabd19ce1d06c240decb9639d364ee215fb38763aa56d15a0ff70b51",
+      "width": 480,
+      "height": 480,
+      "size": 16784,
+      "createdAt": "2026-07-09T03:08:39Z",
+      "updatedAt": "2026-07-09T03:08:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/back.webp",
+      "hash": "2ed34ff2bd488018ea0b81c5a98c069f1c95e5a95e34130485fc21a787fb1746",
+      "width": 480,
+      "height": 480,
+      "size": 16150,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/detail-1.webp",
+      "hash": "a3ad452dc34eb2d5ed0324b237f916cf945c7d7ea139b69ae2d8c00a77a66dc3",
+      "width": 480,
+      "height": 480,
+      "size": 26964,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/detail-2.webp",
+      "hash": "0cc25622986d0a0b8a5e73d8c1f920f8f0eee8e1333fc710f1c3a838b7174d85",
+      "width": 480,
+      "height": 480,
+      "size": 48124,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/detail-3.webp",
+      "hash": "05e9cca65db367625cf57a60b7d57987593120e17956f99bc5e837d44cb3b667",
+      "width": 480,
+      "height": 480,
+      "size": 48116,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/detail-4.webp",
+      "hash": "f30e2d8269d829033c3c8d049dec19208948776b40ff6d57e8013dd7457b149c",
+      "width": 480,
+      "height": 480,
+      "size": 21600,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/sheffield-united/sem-temporada/player/camisa-sheffield-united-i-sheffield-united-jogador-errea-masculina-branca-com-detalhes-em-vermelho-e-preto/detail-5.webp",
+      "hash": "7fad3ff1adb1350de2bad0ab631bb53eec96be910d2778688343648419c0662c",
+      "width": 480,
+      "height": 480,
+      "size": 26374,
+      "createdAt": "2026-07-09T03:08:40Z",
+      "updatedAt": "2026-07-09T03:08:40Z"
+    }
+  ]
+}

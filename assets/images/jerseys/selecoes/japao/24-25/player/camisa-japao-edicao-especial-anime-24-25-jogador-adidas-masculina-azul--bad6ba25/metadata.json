@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul-com-desenhos-do-dragon-ball",
+  "createdAt": "2026-07-09T03:13:33Z",
+  "updatedAt": "2026-07-09T03:13:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/front.webp",
+      "hash": "971b203721e3e7868561adfc56054d50646ee72053657236e285303d9be23609",
+      "width": 480,
+      "height": 480,
+      "size": 22426,
+      "createdAt": "2026-07-09T03:13:32Z",
+      "updatedAt": "2026-07-09T03:13:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/back.webp",
+      "hash": "824002f440b038411888be5d479aa01fd0239bf53e352e3ed38a77bac69340e6",
+      "width": 480,
+      "height": 480,
+      "size": 37900,
+      "createdAt": "2026-07-09T03:13:32Z",
+      "updatedAt": "2026-07-09T03:13:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/detail-1.webp",
+      "hash": "6a186066f80cad50f8a7cb69873a4590e08813e3acdf3e74ec05927ce1c0959f",
+      "width": 480,
+      "height": 480,
+      "size": 10870,
+      "createdAt": "2026-07-09T03:13:32Z",
+      "updatedAt": "2026-07-09T03:13:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/detail-2.webp",
+      "hash": "27eec85c0a8cd64e566bc2f90aad90d6418c9b3e83bd66cdd203c8f9125a0704",
+      "width": 480,
+      "height": 480,
+      "size": 73192,
+      "createdAt": "2026-07-09T03:13:32Z",
+      "updatedAt": "2026-07-09T03:13:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/detail-3.webp",
+      "hash": "3d31ada5c41f58347b373b31c7bd562bee934e2e3e015a4ef0c2bbf77f1fc435",
+      "width": 480,
+      "height": 480,
+      "size": 53190,
+      "createdAt": "2026-07-09T03:13:33Z",
+      "updatedAt": "2026-07-09T03:13:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/detail-4.webp",
+      "hash": "51837dbe9866c8f98d6f42053cc954297df66427ddcdd2fd4edbaf36d935ab6e",
+      "width": 480,
+      "height": 480,
+      "size": 40376,
+      "createdAt": "2026-07-09T03:13:33Z",
+      "updatedAt": "2026-07-09T03:13:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-anime-24-25-jogador-adidas-masculina-azul--bad6ba25/detail-5.webp",
+      "hash": "046626df747e4d6ef346ec7d7a933e39bdcbabf89b6900a3efca8116ca8af9fb",
+      "width": 480,
+      "height": 480,
+      "size": 34872,
+      "createdAt": "2026-07-09T03:13:33Z",
+      "updatedAt": "2026-07-09T03:13:33Z"
+    }
+  ]
+}

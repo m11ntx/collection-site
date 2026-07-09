@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T03:13:58Z",
+  "updatedAt": "2026-07-09T03:13:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/front.webp",
+      "hash": "aaa6ccb8857636aa45025b213d7292cf3936833bcd2e84488a50dd25a758217d",
+      "width": 480,
+      "height": 480,
+      "size": 19630,
+      "createdAt": "2026-07-09T03:13:57Z",
+      "updatedAt": "2026-07-09T03:13:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/back.webp",
+      "hash": "71b80a4cad921a199d3dff7cfc4d9872c4bba0db2857ebe597af8a4ff2c7f438",
+      "width": 480,
+      "height": 480,
+      "size": 10552,
+      "createdAt": "2026-07-09T03:13:57Z",
+      "updatedAt": "2026-07-09T03:13:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/detail-1.webp",
+      "hash": "5ef848438cd4fe51e9fb8ebc350781aca566ba827b39d05b67a0b360d76c099d",
+      "width": 480,
+      "height": 480,
+      "size": 14840,
+      "createdAt": "2026-07-09T03:13:57Z",
+      "updatedAt": "2026-07-09T03:13:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/detail-2.webp",
+      "hash": "8b0e6540a9f3b11be7c5994d8e827f6e1025a79ffa8741b88ab98e7711c34bec",
+      "width": 480,
+      "height": 480,
+      "size": 14354,
+      "createdAt": "2026-07-09T03:13:57Z",
+      "updatedAt": "2026-07-09T03:13:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/detail-3.webp",
+      "hash": "88276d3a020af8264779871eb9d44594e84282047b5163cbd10508ec1b93c8e3",
+      "width": 480,
+      "height": 480,
+      "size": 31988,
+      "createdAt": "2026-07-09T03:13:58Z",
+      "updatedAt": "2026-07-09T03:13:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/detail-4.webp",
+      "hash": "7943bdf27f7027862ed80e2de26447dbaf3e0f4c5e150accf8373155ffd483b1",
+      "width": 480,
+      "height": 480,
+      "size": 47148,
+      "createdAt": "2026-07-09T03:13:58Z",
+      "updatedAt": "2026-07-09T03:13:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/emirados-arabes-unidos/24-25/player/camisa-emirados-arabes-unidos-ii-24-25-jogador-adidas-masculina-verde-c-b33c6489/detail-5.webp",
+      "hash": "a38f4f41b5b0e0eddfcfdd5e2012240e2423126597fc6dfc8fe55f211757b185",
+      "width": 480,
+      "height": 480,
+      "size": 34592,
+      "createdAt": "2026-07-09T03:13:58Z",
+      "updatedAt": "2026-07-09T03:13:58Z"
+    }
+  ]
+}

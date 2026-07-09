@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-09T03:06:50Z",
+  "updatedAt": "2026-07-09T03:06:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-branca/front.webp",
+      "hash": "f04f20fe7e9931320c64ab2582a0f16eb10d620f52060267a3ee16eb6160b457",
+      "width": 480,
+      "height": 480,
+      "size": 22002,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-branca/back.webp",
+      "hash": "ccfdc761bd5dfe35a5dbe40a6e2f51b83eebd8a086ef2b0b6ea28cece85bfc58",
+      "width": 480,
+      "height": 480,
+      "size": 8720,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-branca/detail-1.webp",
+      "hash": "d04c92a56de41b3123a5d1a58a1393726433a8cb700e346c809249621f09cc1f",
+      "width": 480,
+      "height": 480,
+      "size": 27310,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    }
+  ]
+}

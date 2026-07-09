@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-senegal-26-27-masculina-verde-torcedor",
+  "createdAt": "2026-07-09T03:08:39Z",
+  "updatedAt": "2026-07-09T03:08:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/senegal/26-27/player/camisa-senegal-26-27-masculina-verde-torcedor/front.webp",
+      "hash": "d047d526a7144383e242d31cbd4ea43a81c2764078db1a791929cd25b3d5608e",
+      "width": 480,
+      "height": 478,
+      "size": 12162,
+      "createdAt": "2026-07-09T03:08:39Z",
+      "updatedAt": "2026-07-09T03:08:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/senegal/26-27/player/camisa-senegal-26-27-masculina-verde-torcedor/back.webp",
+      "hash": "85324d33c5cf384d346ba266fd89711f3c1589c9ee7f108db1b74536166ce851",
+      "width": 480,
+      "height": 480,
+      "size": 22032,
+      "createdAt": "2026-07-09T03:08:39Z",
+      "updatedAt": "2026-07-09T03:08:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/senegal/26-27/player/camisa-senegal-26-27-masculina-verde-torcedor/detail-1.webp",
+      "hash": "8a23985d4f5f4539ab00ab83af6cf04f973bab58c33c34f1201a8f36551e017a",
+      "width": 480,
+      "height": 480,
+      "size": 4888,
+      "createdAt": "2026-07-09T03:08:39Z",
+      "updatedAt": "2026-07-09T03:08:39Z"
+    }
+  ]
+}

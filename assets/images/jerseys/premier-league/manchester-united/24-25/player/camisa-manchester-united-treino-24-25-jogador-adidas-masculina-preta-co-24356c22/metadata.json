@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-com-detalhes-coloridos",
+  "createdAt": "2026-07-09T03:14:00Z",
+  "updatedAt": "2026-07-09T03:14:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/front.webp",
+      "hash": "70dca9fcae11a3c7f8f0c9f3ae20f86a41327c2130411c529d5f73ea81418021",
+      "width": 480,
+      "height": 480,
+      "size": 10790,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/back.webp",
+      "hash": "3d86672f5d93a57b6e9c2d9922fb647206a8ee5a4ff361854ea97bb852372824",
+      "width": 480,
+      "height": 480,
+      "size": 10328,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/detail-1.webp",
+      "hash": "71ac214cda630de19947898e203e049666756e154d456c0b04e31f0422796d13",
+      "width": 480,
+      "height": 480,
+      "size": 15472,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/detail-2.webp",
+      "hash": "e54c001bc6b2ddc45db8677ec14f3e76280e760f95fbe74bd27f2786e1e1a350",
+      "width": 480,
+      "height": 480,
+      "size": 17454,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/detail-3.webp",
+      "hash": "1d0d2695480be519fd9a4e05f0355fbe114bce3cc93f888e89f4689e71417460",
+      "width": 480,
+      "height": 480,
+      "size": 12154,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-treino-24-25-jogador-adidas-masculina-preta-co-24356c22/detail-4.webp",
+      "hash": "d7a67f6d32411dc1e36e0f8642ae2c7950a9fa4c427e33f415f60c492806ccf6",
+      "width": 480,
+      "height": 480,
+      "size": 44268,
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca",
+  "createdAt": "2026-07-09T03:07:01Z",
+  "updatedAt": "2026-07-09T03:07:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/front.webp",
+      "hash": "759201b58881adcb1923e17fa27fb1ef14d6be3a707beabe069ab8a55e8a1afa",
+      "width": 480,
+      "height": 480,
+      "size": 11526,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/back.webp",
+      "hash": "254be369bcaf8efee287be2c3aa024080a4f28277ca0e58f014ff2c9e5192a89",
+      "width": 480,
+      "height": 480,
+      "size": 13776,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/detail-1.webp",
+      "hash": "38ee3f6a8a78af9397ff37c204b22975c6bb9efa50b92c4cf7bfe9f24b6c3358",
+      "width": 480,
+      "height": 480,
+      "size": 9558,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/detail-2.webp",
+      "hash": "b54de74904eab1926d32ebb5b936738eca147e164af2db75f99acf90d1c39aa5",
+      "width": 480,
+      "height": 480,
+      "size": 10766,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/detail-3.webp",
+      "hash": "bc05cf2d57655e4c843e795d9d63bf999146933e9434367014dae2c6728356f6",
+      "width": 480,
+      "height": 480,
+      "size": 24734,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-iii-24-25-jogador-puma-masculina-branca/detail-4.webp",
+      "hash": "a99aea92254475e25001d8b24c22c6c3f8b4485d191820ff852868958486bdf0",
+      "width": 480,
+      "height": 480,
+      "size": 18816,
+      "createdAt": "2026-07-09T03:07:01Z",
+      "updatedAt": "2026-07-09T03:07:01Z"
+    }
+  ]
+}

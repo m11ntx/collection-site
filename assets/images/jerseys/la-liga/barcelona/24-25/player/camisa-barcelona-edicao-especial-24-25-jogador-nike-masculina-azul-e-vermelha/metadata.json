@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha",
+  "createdAt": "2026-07-09T03:06:50Z",
+  "updatedAt": "2026-07-09T03:06:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/front.webp",
+      "hash": "2e2d31e98aed3242de593d477b774d579e5226e88e4c83f0adfb0dc68cf036b1",
+      "width": 480,
+      "height": 480,
+      "size": 13538,
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/back.webp",
+      "hash": "55c6d10ecda2e8a7e92f853a7ef92905edb62c3f1fc12ddbda6e158c6dd23720",
+      "width": 480,
+      "height": 480,
+      "size": 11830,
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/detail-1.webp",
+      "hash": "67e8de443f559d9af7f34a805e7f1fe509eca053e50b3349a8bc502d7ccae790",
+      "width": 480,
+      "height": 480,
+      "size": 19792,
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/detail-2.webp",
+      "hash": "e1f27e51bf39016095b1b9a7dbd38ac28ef73fde75f63e33a398b2b34d2efac7",
+      "width": 480,
+      "height": 480,
+      "size": 56704,
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/detail-3.webp",
+      "hash": "65040bbe7b66d3282ea0fce39d893333344c5fb2fe40e237c8f51731d57517ab",
+      "width": 480,
+      "height": 480,
+      "size": 55444,
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/detail-4.webp",
+      "hash": "db73198ed23d77a3e2100712a87f1e56b2b012e754579df3d27ac65dcd3a793e",
+      "width": 480,
+      "height": 480,
+      "size": 26150,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-e-vermelha/detail-5.webp",
+      "hash": "f523da1108a030374064a3f289a219cd80066afa3077cba425318c406d9e1417",
+      "width": 480,
+      "height": 480,
+      "size": 33536,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    }
+  ]
+}

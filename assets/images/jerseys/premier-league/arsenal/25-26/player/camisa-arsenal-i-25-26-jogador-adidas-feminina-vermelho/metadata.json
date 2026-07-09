@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho",
+  "createdAt": "2026-07-09T03:06:45Z",
+  "updatedAt": "2026-07-09T03:06:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/player/camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho/front.webp",
+      "hash": "9b143efd21543d4bf5ef815c28222dc5bcfb068a724cb21b38560853a5515034",
+      "width": 480,
+      "height": 480,
+      "size": 19702,
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/player/camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho/back.webp",
+      "hash": "33ece7bd683c0317627e3112544aa648f780e666a9682912d29e22475d91edac",
+      "width": 480,
+      "height": 480,
+      "size": 47958,
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/player/camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho/detail-1.webp",
+      "hash": "c93e7fcadeb63cac842f274041e7b2a8c763de6a586c1ed878f9f96284c587c8",
+      "width": 480,
+      "height": 480,
+      "size": 16258,
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/player/camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho/detail-2.webp",
+      "hash": "be8ceb27f6379a10253da0a2956073695164a4d473e6355535ad763eb4b5fd10",
+      "width": 480,
+      "height": 480,
+      "size": 43994,
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/player/camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho/detail-3.webp",
+      "hash": "6912dcfc189faa1cf44a11a81ed0908ad03975f2dc78d36b23d7a846c4258de5",
+      "width": 480,
+      "height": 480,
+      "size": 14302,
+      "createdAt": "2026-07-09T03:06:45Z",
+      "updatedAt": "2026-07-09T03:06:45Z"
+    }
+  ]
+}

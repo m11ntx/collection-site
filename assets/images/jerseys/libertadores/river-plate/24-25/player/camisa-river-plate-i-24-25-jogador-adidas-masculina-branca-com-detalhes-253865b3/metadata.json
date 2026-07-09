@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-river-plate-i-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T03:13:42Z",
+  "updatedAt": "2026-07-09T03:13:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-i-24-25-jogador-adidas-masculina-branca-com-detalhes-253865b3/front.webp",
+      "hash": "f217a1b078efb9e376820f98018910f2b5a92d565c3df89a8158b320fe4fea4b",
+      "width": 480,
+      "height": 480,
+      "size": 13704,
+      "createdAt": "2026-07-09T03:13:42Z",
+      "updatedAt": "2026-07-09T03:13:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-i-24-25-jogador-adidas-masculina-branca-com-detalhes-253865b3/back.webp",
+      "hash": "07cb622ceab876bc1eab018e6cbb951793fcb9c294d3e2a6055ef13b08eacf94",
+      "width": 480,
+      "height": 480,
+      "size": 16432,
+      "createdAt": "2026-07-09T03:13:42Z",
+      "updatedAt": "2026-07-09T03:13:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-i-24-25-jogador-adidas-masculina-branca-com-detalhes-253865b3/detail-1.webp",
+      "hash": "abb484950666ce2c5c84ee73b777019740988fa359d58b790c1f9b0db0b698c0",
+      "width": 480,
+      "height": 480,
+      "size": 8676,
+      "createdAt": "2026-07-09T03:13:42Z",
+      "updatedAt": "2026-07-09T03:13:42Z"
+    }
+  ]
+}

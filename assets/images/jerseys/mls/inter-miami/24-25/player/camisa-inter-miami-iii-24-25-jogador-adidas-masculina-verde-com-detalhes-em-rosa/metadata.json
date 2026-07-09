@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T03:07:08Z",
+  "updatedAt": "2026-07-09T03:07:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/front.webp",
+      "hash": "ce6be243cb826596318fc7bbae822d0f246ebf70b9388941b226de86f7a918a3",
+      "width": 480,
+      "height": 480,
+      "size": 12882,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/back.webp",
+      "hash": "873d6e9afc48447fb5c72d854d076c13ee37e97a54716e676a6c2f3c3729fa14",
+      "width": 480,
+      "height": 480,
+      "size": 14702,
+      "createdAt": "2026-07-09T03:07:07Z",
+      "updatedAt": "2026-07-09T03:07:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/detail-1.webp",
+      "hash": "9e71cce5f15cc615dc97aa50f88f76391d5dc237abc874083a8b317f5206a322",
+      "width": 480,
+      "height": 480,
+      "size": 18436,
+      "createdAt": "2026-07-09T03:07:08Z",
+      "updatedAt": "2026-07-09T03:07:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/detail-2.webp",
+      "hash": "83eb0cb8711ff55fb964692d24405ec08884a3e847be889a6cb64efeec9737f8",
+      "width": 480,
+      "height": 480,
+      "size": 17756,
+      "createdAt": "2026-07-09T03:07:08Z",
+      "updatedAt": "2026-07-09T03:07:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/detail-3.webp",
+      "hash": "55b2762a883f5d5481ca5a076a1b6853557c102414e989f7402570ac86b1f6be",
+      "width": 480,
+      "height": 480,
+      "size": 12216,
+      "createdAt": "2026-07-09T03:07:08Z",
+      "updatedAt": "2026-07-09T03:07:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-rosa/detail-4.webp",
+      "hash": "79bf9acbf63722224f699eaf35caab2b9b05b381ce63872495f63ca8df6d60a8",
+      "width": 480,
+      "height": 480,
+      "size": 30178,
+      "createdAt": "2026-07-09T03:07:08Z",
+      "updatedAt": "2026-07-09T03:07:08Z"
+    }
+  ]
+}

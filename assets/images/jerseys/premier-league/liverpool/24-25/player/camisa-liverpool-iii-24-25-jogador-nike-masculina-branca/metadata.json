@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-liverpool-iii-24-25-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-09T03:07:17Z",
+  "updatedAt": "2026-07-09T03:07:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-iii-24-25-jogador-nike-masculina-branca/front.webp",
+      "hash": "ea47b6790d832836a817141d501cf7179153cd5e731a43cec8cbe4b56395cb08",
+      "width": 480,
+      "height": 480,
+      "size": 15126,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-iii-24-25-jogador-nike-masculina-branca/back.webp",
+      "hash": "605b2134ded200d32976bc790867cad26363d7176726e40b78a6526530ea78c0",
+      "width": 480,
+      "height": 480,
+      "size": 13404,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-iii-24-25-jogador-nike-masculina-branca/detail-1.webp",
+      "hash": "2303add0e50bebb509a0c1db464c57d1dba8508b4d914e3dc42ce7405ae3cb4b",
+      "width": 480,
+      "height": 480,
+      "size": 18804,
+      "createdAt": "2026-07-09T03:07:17Z",
+      "updatedAt": "2026-07-09T03:07:17Z"
+    }
+  ]
+}

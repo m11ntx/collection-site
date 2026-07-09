@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-ajax-iii-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vinho",
+  "createdAt": "2026-07-09T03:06:33Z",
+  "updatedAt": "2026-07-09T03:06:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-iii-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vinho/front.webp",
+      "hash": "68239ffeeed770476cdf9e5c5bc69a84cb7fdf247a6d8d2e1388fa30de412cb1",
+      "width": 480,
+      "height": 480,
+      "size": 17438,
+      "createdAt": "2026-07-09T03:06:33Z",
+      "updatedAt": "2026-07-09T03:06:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-iii-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vinho/back.webp",
+      "hash": "0464cb768fbbd31399e48216ca2e4cd98f1b243a98092177c46534f888aac898",
+      "width": 480,
+      "height": 480,
+      "size": 8614,
+      "createdAt": "2026-07-09T03:06:33Z",
+      "updatedAt": "2026-07-09T03:06:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-iii-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vinho/detail-1.webp",
+      "hash": "cf52143dac5bcc8fdc08dc82e544a5ea6abf6abf5a4f19c3845f3462a027f934",
+      "width": 480,
+      "height": 640,
+      "size": 79816,
+      "createdAt": "2026-07-09T03:06:33Z",
+      "updatedAt": "2026-07-09T03:06:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/player/camisa-ajax-iii-24-25-jogador-adidas-masculina-branca-com-detalhes-em-vinho/detail-2.webp",
+      "hash": "68e50b5b9a12f494e0bbaac80a4ae27b7041c74222278db34b566643f5c8f8c8",
+      "width": 480,
+      "height": 640,
+      "size": 87808,
+      "createdAt": "2026-07-09T03:06:33Z",
+      "updatedAt": "2026-07-09T03:06:33Z"
+    }
+  ]
+}

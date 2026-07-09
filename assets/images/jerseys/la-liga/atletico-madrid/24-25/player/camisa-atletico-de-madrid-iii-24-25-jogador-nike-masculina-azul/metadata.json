@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-iii-24-25-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T03:06:48Z",
+  "updatedAt": "2026-07-09T03:06:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-iii-24-25-jogador-nike-masculina-azul/front.webp",
+      "hash": "965e5d6d91da0ae4bf8d14234a80f1e1a95b09a7116794c87a9e9177cf64242c",
+      "width": 480,
+      "height": 480,
+      "size": 23558,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/player/camisa-atletico-de-madrid-iii-24-25-jogador-nike-masculina-azul/back.webp",
+      "hash": "65fb302d4b368313d784f3e896c9094703e6d9a98cd533277de0ccb8984357b8",
+      "width": 480,
+      "height": 480,
+      "size": 15122,
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
+    }
+  ]
+}

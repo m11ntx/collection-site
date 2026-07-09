@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto",
+  "createdAt": "2026-07-09T03:06:57Z",
+  "updatedAt": "2026-07-09T03:06:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/front.webp",
+      "hash": "3eeeb1d8a8e7882e6117dc7ef53247dd30d54bd56ff23bf63faa6f0af8a46011",
+      "width": 480,
+      "height": 480,
+      "size": 11710,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/back.webp",
+      "hash": "707dd5b9b8307bdb53102e16ca7f9d7cdd8648fc48e5857cc5fd716024cb37d6",
+      "width": 480,
+      "height": 480,
+      "size": 10226,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/detail-1.webp",
+      "hash": "4f55c6cf4fb9ea089e9585fdecc5c49aa356cda8a34d09d0a3f340a217de8121",
+      "width": 480,
+      "height": 480,
+      "size": 13322,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/detail-2.webp",
+      "hash": "cd1a83c363c0bc1aee51268bc56b1c5b5fd3e7a3db10e184826f61f1f56ec943",
+      "width": 480,
+      "height": 480,
+      "size": 62248,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/detail-3.webp",
+      "hash": "a0b2af63281eec1d8349a347dc9fe4717e73543e333589de06c6957b97d43823",
+      "width": 480,
+      "height": 480,
+      "size": 46818,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/detail-4.webp",
+      "hash": "fbfad952b7a29603da86c876ed80dce92f2f6042134beb0d064b2a46883e3893",
+      "width": 480,
+      "height": 480,
+      "size": 14526,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/belgica/24-25/player/camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto/detail-5.webp",
+      "hash": "5c5d33d8a8a1d57d0c473738d065d088c85f9205c2cbe631c612cbb9ec3dabaf",
+      "width": 480,
+      "height": 480,
+      "size": 12334,
+      "createdAt": "2026-07-09T03:06:57Z",
+      "updatedAt": "2026-07-09T03:06:57Z"
+    }
+  ]
+}

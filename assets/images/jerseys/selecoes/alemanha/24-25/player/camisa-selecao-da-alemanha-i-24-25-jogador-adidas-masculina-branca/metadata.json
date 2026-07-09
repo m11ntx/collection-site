@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca",
+  "createdAt": "2026-07-09T03:08:27Z",
+  "updatedAt": "2026-07-09T03:08:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/front.webp",
+      "hash": "92aa4af5098d43c59d221f4b057af99930332e1a9d6da0a02a3bc71523fd93c8",
+      "width": 480,
+      "height": 480,
+      "size": 9442,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/back.webp",
+      "hash": "dd876cadf1e001976c8f1953bdc0a6986a2ddec110e1dda0380fb48ec2567439",
+      "width": 480,
+      "height": 480,
+      "size": 13066,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/detail-1.webp",
+      "hash": "f7a2211f6a3ead1f8fff0d448e42ea9021fd1e8af33393b86afe7f48ff0746e7",
+      "width": 480,
+      "height": 480,
+      "size": 9368,
+      "createdAt": "2026-07-09T03:08:26Z",
+      "updatedAt": "2026-07-09T03:08:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/detail-2.webp",
+      "hash": "7e9aca3bfbcd5b467d5e8d8f9e975403d27e1d570f71d83a43a203cdf348a212",
+      "width": 480,
+      "height": 480,
+      "size": 48372,
+      "createdAt": "2026-07-09T03:08:27Z",
+      "updatedAt": "2026-07-09T03:08:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/detail-3.webp",
+      "hash": "3b9c607281e19ca062e359408f529e346f3e3adc6b3378d827cc03db7be701be",
+      "width": 480,
+      "height": 480,
+      "size": 37210,
+      "createdAt": "2026-07-09T03:08:27Z",
+      "updatedAt": "2026-07-09T03:08:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/detail-4.webp",
+      "hash": "2caea681318c0a9fa06d5daac7901bd60f4c129ea7647a52fac2251b3e45a39a",
+      "width": 480,
+      "height": 480,
+      "size": 15022,
+      "createdAt": "2026-07-09T03:08:27Z",
+      "updatedAt": "2026-07-09T03:08:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-i-24-25-jogador-adidas-masculina-branca/detail-5.webp",
+      "hash": "57bc623a9b366296fd4bcef61d4e5aa7a41741ab1e35f46461834430c9f761dd",
+      "width": 480,
+      "height": 480,
+      "size": 26096,
+      "createdAt": "2026-07-09T03:08:27Z",
+      "updatedAt": "2026-07-09T03:08:27Z"
+    }
+  ]
+}

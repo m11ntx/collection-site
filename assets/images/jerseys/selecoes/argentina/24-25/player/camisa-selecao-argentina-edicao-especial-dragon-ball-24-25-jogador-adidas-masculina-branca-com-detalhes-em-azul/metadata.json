@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:07:37Z",
+  "updatedAt": "2026-07-09T03:07:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/front.webp",
+      "hash": "ebeec01ff37515ef28669b2c472549dbd6f78a3b8784d15f32065b588bcb5744",
+      "width": 480,
+      "height": 480,
+      "size": 9208,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/back.webp",
+      "hash": "cf8f4bb547df9562bba1e2c8911a4f586c7f6c3433e0a0f5332f15606eb0f62e",
+      "width": 480,
+      "height": 480,
+      "size": 7146,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "689797e87c69b4748475a7ca1881c4ff94de2f74b0663666e46f337518ac7afe",
+      "width": 480,
+      "height": 480,
+      "size": 13480,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "fd01aafa25e28ca64aa231e8ed31e357eb83b2a9aefb4a9b6d7cbde5be44afba",
+      "width": 480,
+      "height": 480,
+      "size": 52134,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/detail-3.webp",
+      "hash": "be4b5635c300937be7b00c515a40243b663024be2d65e7f4858e6f185f46d821",
+      "width": 480,
+      "height": 480,
+      "size": 52766,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/detail-4.webp",
+      "hash": "3ea5941a67cc9314cda62e6755a9f91a8b79759d4786368b67b7a60c440b276c",
+      "width": 480,
+      "height": 480,
+      "size": 32906,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-edicao-especial-dragon-ball-24-25-jogador-adidas-masculina-branca-com-detalhes-em-azul/detail-5.webp",
+      "hash": "106407d69571e1eec9d93e9b614859f991c348159152a716e33fc18c957deb87",
+      "width": 480,
+      "height": 480,
+      "size": 15172,
+      "createdAt": "2026-07-09T03:07:37Z",
+      "updatedAt": "2026-07-09T03:07:37Z"
+    }
+  ]
+}

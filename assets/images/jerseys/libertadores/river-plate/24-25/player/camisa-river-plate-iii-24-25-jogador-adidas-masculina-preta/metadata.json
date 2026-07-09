@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta",
+  "createdAt": "2026-07-09T03:07:34Z",
+  "updatedAt": "2026-07-09T03:07:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta/front.webp",
+      "hash": "18dfe39f605523ac983601301127a7bee4ecc97a01c45ba89df8fb919e025043",
+      "width": 480,
+      "height": 480,
+      "size": 17858,
+      "createdAt": "2026-07-09T03:07:33Z",
+      "updatedAt": "2026-07-09T03:07:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta/back.webp",
+      "hash": "231daf823644376e7815cff53363298671a71388987cd0bfacb2a9f20c1d30bf",
+      "width": 480,
+      "height": 480,
+      "size": 18840,
+      "createdAt": "2026-07-09T03:07:33Z",
+      "updatedAt": "2026-07-09T03:07:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta/detail-1.webp",
+      "hash": "874298b748a5b1dd1e270066710264f0e068bfa3fabae763d4cbc2fe2312ee56",
+      "width": 480,
+      "height": 480,
+      "size": 10236,
+      "createdAt": "2026-07-09T03:07:34Z",
+      "updatedAt": "2026-07-09T03:07:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta/detail-2.webp",
+      "hash": "c6371edffcdaef6ee7e341c0b085d4ae4e2f24f51b3308d54413c11e79fdcaac",
+      "width": 480,
+      "height": 480,
+      "size": 10556,
+      "createdAt": "2026-07-09T03:07:34Z",
+      "updatedAt": "2026-07-09T03:07:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/player/camisa-river-plate-iii-24-25-jogador-adidas-masculina-preta/detail-3.webp",
+      "hash": "f8af6b1fafed414229276fe0f5fa82da7fdec31e06abc65501960a6906fcaaf8",
+      "width": 480,
+      "height": 480,
+      "size": 9236,
+      "createdAt": "2026-07-09T03:07:34Z",
+      "updatedAt": "2026-07-09T03:07:34Z"
+    }
+  ]
+}

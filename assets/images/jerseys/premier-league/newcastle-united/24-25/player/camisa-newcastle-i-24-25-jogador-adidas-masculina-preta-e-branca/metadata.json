@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca",
+  "createdAt": "2026-07-09T03:07:25Z",
+  "updatedAt": "2026-07-09T03:07:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/front.webp",
+      "hash": "2d8e8cfb30ad2a57dd715ac2be6c1d486e34cffce8c52ba00e5f5f4a4e86b8d5",
+      "width": 480,
+      "height": 480,
+      "size": 12294,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/back.webp",
+      "hash": "d60404c2eb013d6418b7f4691eaa9f3a0e99e02b4e15e890c101c088f3af32e7",
+      "width": 480,
+      "height": 480,
+      "size": 14642,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/detail-1.webp",
+      "hash": "d6235eba3e686cd1d8976eb74926164bc4e1af9ee3f3418f8af04f3e98a708c5",
+      "width": 480,
+      "height": 480,
+      "size": 8158,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/detail-2.webp",
+      "hash": "645314bb1ae5ab77e1f5974ddbfd478047c477d6c9fe0a88d29721accb3342d1",
+      "width": 480,
+      "height": 480,
+      "size": 15474,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/detail-3.webp",
+      "hash": "6e0eba387e326a80f4f67e902cf89013fad6a367511f2fd0bf2d0a8f4379643e",
+      "width": 480,
+      "height": 480,
+      "size": 17214,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/player/camisa-newcastle-i-24-25-jogador-adidas-masculina-preta-e-branca/detail-4.webp",
+      "hash": "16f0623a2104cf8729d6a5d727deb95eb83cd8eff35180502384517a0d6e6cca",
+      "width": 480,
+      "height": 480,
+      "size": 20438,
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
+    }
+  ]
+}

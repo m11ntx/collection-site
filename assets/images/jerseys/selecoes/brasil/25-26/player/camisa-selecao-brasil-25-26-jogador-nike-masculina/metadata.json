@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-brasil-25-26-jogador-nike-masculina",
+  "createdAt": "2026-07-09T03:08:20Z",
+  "updatedAt": "2026-07-09T03:08:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/25-26/player/camisa-selecao-brasil-25-26-jogador-nike-masculina/front.webp",
+      "hash": "0dfa770c130f9fe5bf3fc6fc8c7841d3ece91420893c819a4364a329b1cfd7a1",
+      "width": 480,
+      "height": 480,
+      "size": 19970,
+      "createdAt": "2026-07-09T03:08:19Z",
+      "updatedAt": "2026-07-09T03:08:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/25-26/player/camisa-selecao-brasil-25-26-jogador-nike-masculina/back.webp",
+      "hash": "1a2d68d50926573e4743f10ef560fc6b1f0f8705c92f6e404bab81dd24ba60df",
+      "width": 480,
+      "height": 480,
+      "size": 16986,
+      "createdAt": "2026-07-09T03:08:19Z",
+      "updatedAt": "2026-07-09T03:08:19Z"
+    }
+  ]
+}

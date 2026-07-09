@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha",
+  "createdAt": "2026-07-09T03:07:28Z",
+  "updatedAt": "2026-07-09T03:07:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/front.webp",
+      "hash": "cbaedd75998c6536f48bde15ed1dc84dc38c48df05b5ca53eaa78222481f787a",
+      "width": 480,
+      "height": 480,
+      "size": 8352,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/back.webp",
+      "hash": "db70ee3063321c1c052eadc017c854704e784e5ab361d3af13d422f937f81b21",
+      "width": 480,
+      "height": 480,
+      "size": 14940,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-1.webp",
+      "hash": "59725f9ba1dcd666c9b400f1fec114f7dde930b9700fe6e31e7886b8db6bf5bc",
+      "width": 480,
+      "height": 480,
+      "size": 9288,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-2.webp",
+      "hash": "20d909acba9cfbe923b9c79820f7de52c524bb5cebeed7d531a706e2568ee01d",
+      "width": 480,
+      "height": 480,
+      "size": 51244,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-3.webp",
+      "hash": "8307f7f3ace2fec211e583371ba30ced5d9901f0c91078e505867103e365fb66",
+      "width": 480,
+      "height": 480,
+      "size": 16732,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-4.webp",
+      "hash": "55fe71f6e51f9777b9597f34e0611df6d78c6f96fd9b9b7242e7c8adfd104297",
+      "width": 480,
+      "height": 480,
+      "size": 24140,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/polonia/24-25/player/camisa-polonia-i-24-25-jogador-adidas-masculina-branca-e-vermelha/detail-5.webp",
+      "hash": "6f59a74e56bc8bbb09780d5ba496e3f0de0742d08e191e20ea46000d9e6cf66e",
+      "width": 480,
+      "height": 480,
+      "size": 16600,
+      "createdAt": "2026-07-09T03:07:28Z",
+      "updatedAt": "2026-07-09T03:07:28Z"
+    }
+  ]
+}

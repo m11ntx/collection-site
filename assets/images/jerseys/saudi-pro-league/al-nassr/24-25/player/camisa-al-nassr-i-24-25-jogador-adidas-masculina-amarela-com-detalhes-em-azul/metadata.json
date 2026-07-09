@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-al-nassr-i-24-25-jogador-adidas-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T03:06:36Z",
+  "updatedAt": "2026-07-09T03:06:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/player/camisa-al-nassr-i-24-25-jogador-adidas-masculina-amarela-com-detalhes-em-azul/front.webp",
+      "hash": "6453d4df2a1af793d43075acd57b7cc0df3f43efddd8d4e721ec6e9568d0c9eb",
+      "width": 480,
+      "height": 480,
+      "size": 12330,
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/player/camisa-al-nassr-i-24-25-jogador-adidas-masculina-amarela-com-detalhes-em-azul/back.webp",
+      "hash": "30351849c7501a63cb27b8be17b5a606eddb8b14a2d94a25f8aeae5618f5c32f",
+      "width": 480,
+      "height": 480,
+      "size": 14662,
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/player/camisa-al-nassr-i-24-25-jogador-adidas-masculina-amarela-com-detalhes-em-azul/detail-1.webp",
+      "hash": "68c3151343c3e9d7b97c17030bea686bf1b797d91246132a54318afbacf2a8f3",
+      "width": 480,
+      "height": 480,
+      "size": 8034,
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
+    }
+  ]
+}

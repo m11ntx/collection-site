@@ -1,5 +1,15 @@
 [
   {
+    "id": "aik",
+    "leagueId": "allsvenskan",
+    "regionId": null,
+    "slug": "aik",
+    "name": "AIK",
+    "country": "Sweden",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "america-mineiro",
     "leagueId": "brasileirao",
     "regionId": "minas-gerais",
@@ -860,6 +870,16 @@
     "image": null
   },
   {
+    "id": "sheffield-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "sheffield-united",
+    "name": "Sheffield United",
+    "country": "England",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "tottenham",
     "leagueId": "premier-league",
     "regionId": null,
@@ -950,6 +970,16 @@
     "image": null
   },
   {
+    "id": "argelia",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "argelia",
+    "name": "Argélia",
+    "country": "Algeria",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "argentina",
     "leagueId": "selecoes",
     "regionId": "americas",
@@ -1036,6 +1066,16 @@
     "slug": "croacia",
     "name": "Croácia",
     "country": "Croatia",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "emirados-arabes-unidos",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "emirados-arabes-unidos",
+    "name": "Emirados Árabes Unidos",
+    "country": "United Arab Emirates",
     "badge": null,
     "image": null
   },
@@ -1216,6 +1256,16 @@
     "slug": "portugal",
     "name": "Portugal",
     "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "senegal",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "senegal",
+    "name": "Senegal",
+    "country": "Senegal",
     "badge": null,
     "image": null
   },

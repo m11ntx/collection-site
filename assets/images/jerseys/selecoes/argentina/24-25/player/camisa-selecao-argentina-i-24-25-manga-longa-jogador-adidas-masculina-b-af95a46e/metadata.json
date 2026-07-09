@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-branca-e-azul",
+  "createdAt": "2026-07-09T03:13:45Z",
+  "updatedAt": "2026-07-09T03:13:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-b-af95a46e/front.webp",
+      "hash": "f1ef53fa95508ad79ed829355f010a26724f0ed288ee91019e56bc4707d8f4e0",
+      "width": 480,
+      "height": 480,
+      "size": 15884,
+      "createdAt": "2026-07-09T03:13:45Z",
+      "updatedAt": "2026-07-09T03:13:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-b-af95a46e/back.webp",
+      "hash": "f1cc7e227607ea7e83063c3a5d987cdfc0f1d3ae1ad6d4fa08dda98c07de4c51",
+      "width": 480,
+      "height": 480,
+      "size": 12862,
+      "createdAt": "2026-07-09T03:13:45Z",
+      "updatedAt": "2026-07-09T03:13:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-b-af95a46e/detail-1.webp",
+      "hash": "263fd9e4bccc76ec55265b48d9e47d52386f31c020a2e647381da538cc050ded",
+      "width": 480,
+      "height": 480,
+      "size": 59360,
+      "createdAt": "2026-07-09T03:13:45Z",
+      "updatedAt": "2026-07-09T03:13:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-b-af95a46e/detail-2.webp",
+      "hash": "5d0b2dbb5ff96f58a3f31f7c87e4cc1b74dbd656414cbbdeac1757636dfc7048",
+      "width": 480,
+      "height": 480,
+      "size": 52690,
+      "createdAt": "2026-07-09T03:13:45Z",
+      "updatedAt": "2026-07-09T03:13:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-i-24-25-manga-longa-jogador-adidas-masculina-b-af95a46e/detail-3.webp",
+      "hash": "2dcf61c20c4c137318b9ec2366e9427255ad27408fb18d46c05f6f71cd4e0b3c",
+      "width": 480,
+      "height": 480,
+      "size": 58718,
+      "createdAt": "2026-07-09T03:13:45Z",
+      "updatedAt": "2026-07-09T03:13:45Z"
+    }
+  ]
+}

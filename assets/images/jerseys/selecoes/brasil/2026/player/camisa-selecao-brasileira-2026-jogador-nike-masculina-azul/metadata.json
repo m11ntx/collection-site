@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-brasileira-2026-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T03:08:21Z",
+  "updatedAt": "2026-07-09T03:08:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-azul/front.webp",
+      "hash": "7dab89423b10ca959ea5dc6a5693cc5f8586817e046b6094b2ad679925745ed0",
+      "width": 480,
+      "height": 480,
+      "size": 21124,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-azul/back.webp",
+      "hash": "1349fb3ba12d3f7844d44862437f60b5a2d761c059ed659794a053decbf818a8",
+      "width": 480,
+      "height": 480,
+      "size": 27530,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "b9599f80b21ec588d5ed4565f831bb6db312be1724da2ad3b8ac58d122b5ef65",
+      "width": 480,
+      "height": 480,
+      "size": 31740,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-azul/detail-2.webp",
+      "hash": "5a778a6a2b2e6eb3d19574a3923fdf88f24280e825d7ce7fbe1bba3d91bff19b",
+      "width": 480,
+      "height": 480,
+      "size": 17666,
+      "createdAt": "2026-07-09T03:08:21Z",
+      "updatedAt": "2026-07-09T03:08:21Z"
+    }
+  ]
+}

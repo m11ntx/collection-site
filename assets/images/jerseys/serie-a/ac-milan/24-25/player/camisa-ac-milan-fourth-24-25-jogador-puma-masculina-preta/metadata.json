@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta",
+  "createdAt": "2026-07-09T03:06:31Z",
+  "updatedAt": "2026-07-09T03:06:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/front.webp",
+      "hash": "668feb667e027ed782587c49e666c39960f86be795fc46618de7177a1d614f84",
+      "width": 480,
+      "height": 480,
+      "size": 12708,
+      "createdAt": "2026-07-09T03:06:30Z",
+      "updatedAt": "2026-07-09T03:06:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/back.webp",
+      "hash": "c8b70c2519da82254cba856ef78fd59f28e38f5c26bf2f686ee86abca8d9f6b7",
+      "width": 480,
+      "height": 480,
+      "size": 10400,
+      "createdAt": "2026-07-09T03:06:30Z",
+      "updatedAt": "2026-07-09T03:06:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/detail-1.webp",
+      "hash": "d46abc1cda7d328b8fcc8395f8f1ffdd2ba8c7f1b014eef4b291a3d11c77c478",
+      "width": 480,
+      "height": 480,
+      "size": 14022,
+      "createdAt": "2026-07-09T03:06:30Z",
+      "updatedAt": "2026-07-09T03:06:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/detail-2.webp",
+      "hash": "618713394fdc5be2d3b2248ef68a85835cf2ed340b9fdc8b3aeb0285b5356366",
+      "width": 480,
+      "height": 480,
+      "size": 59854,
+      "createdAt": "2026-07-09T03:06:30Z",
+      "updatedAt": "2026-07-09T03:06:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/detail-3.webp",
+      "hash": "e1bf497f0541d472926ccc5c58efac4542fe65baed1052de175e8f6e471f94dc",
+      "width": 480,
+      "height": 480,
+      "size": 47458,
+      "createdAt": "2026-07-09T03:06:30Z",
+      "updatedAt": "2026-07-09T03:06:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/detail-4.webp",
+      "hash": "01b51dcae645b96ce39a402122c664db434c18a26f996c49cc19c67887fa0d88",
+      "width": 480,
+      "height": 480,
+      "size": 24486,
+      "createdAt": "2026-07-09T03:06:31Z",
+      "updatedAt": "2026-07-09T03:06:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta/detail-5.webp",
+      "hash": "8aca2038ee730ab5691a9f77efb459cb3ff95b9edf5992f1dbf95eb5e38a8c17",
+      "width": 480,
+      "height": 480,
+      "size": 28898,
+      "createdAt": "2026-07-09T03:06:31Z",
+      "updatedAt": "2026-07-09T03:06:31Z"
+    }
+  ]
+}

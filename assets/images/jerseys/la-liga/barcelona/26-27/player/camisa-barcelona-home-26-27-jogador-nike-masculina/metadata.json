@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-barcelona-home-26-27-jogador-nike-masculina",
+  "createdAt": "2026-07-09T03:06:51Z",
+  "updatedAt": "2026-07-09T03:06:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/26-27/player/camisa-barcelona-home-26-27-jogador-nike-masculina/front.webp",
+      "hash": "b3909e3d93beda109566b7d21e0bd3efecbd058e86b5227fefc6f236f9b19351",
+      "width": 480,
+      "height": 480,
+      "size": 19804,
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/26-27/player/camisa-barcelona-home-26-27-jogador-nike-masculina/back.webp",
+      "hash": "8f319f192b7386420a312ad518fdb9853ea4713ab7c6a916697c26fce5d7d1e9",
+      "width": 480,
+      "height": 480,
+      "size": 17734,
+      "createdAt": "2026-07-09T03:06:51Z",
+      "updatedAt": "2026-07-09T03:06:51Z"
+    }
+  ]
+}

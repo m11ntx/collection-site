@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-argelia-2026-torcedor-puma-masculina",
+  "createdAt": "2026-07-09T03:06:39Z",
+  "updatedAt": "2026-07-09T03:06:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argelia/2026/player/camisa-argelia-2026-torcedor-puma-masculina/front.webp",
+      "hash": "8105e7a74462b16e125ecbfd775c90249a0f000d236107f2eb6f55a7cf6f2c5a",
+      "width": 480,
+      "height": 480,
+      "size": 8016,
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argelia/2026/player/camisa-argelia-2026-torcedor-puma-masculina/back.webp",
+      "hash": "f6bb68d72d52b2164c7659cf6a0c977e16af1e38670796d369f25f07c109bf7a",
+      "width": 480,
+      "height": 480,
+      "size": 6810,
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
+    }
+  ]
+}

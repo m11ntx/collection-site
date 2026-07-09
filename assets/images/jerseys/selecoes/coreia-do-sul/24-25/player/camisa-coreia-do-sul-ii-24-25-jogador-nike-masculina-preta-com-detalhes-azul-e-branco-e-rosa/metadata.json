@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa",
+  "createdAt": "2026-07-09T03:07:03Z",
+  "updatedAt": "2026-07-09T03:07:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/front.webp",
+      "hash": "c29bc2b46bb6abd1fba8956cd22236b58f2f23cbe6771e356b92ba15ac91f631",
+      "width": 480,
+      "height": 480,
+      "size": 20822,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/back.webp",
+      "hash": "f73392012d1ebfdbec6bc7ff6570f746d9c65118acd6a52a14140b4851e569b3",
+      "width": 480,
+      "height": 480,
+      "size": 14598,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/detail-1.webp",
+      "hash": "aeff5f3c5f2e81d8b5443bb528c400a74c02307ee5e4d76f2197011c14e7beaf",
+      "width": 480,
+      "height": 480,
+      "size": 22988,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/detail-2.webp",
+      "hash": "f10885625ca74d507efe5237e5f6debf4343a6ce49feb4de982bf6c227644c77",
+      "width": 480,
+      "height": 480,
+      "size": 24402,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/detail-3.webp",
+      "hash": "b23fbab5c3d7e30e58e6b6d6d452ae6434aea79c0254ff6083cc37ba5990494f",
+      "width": 480,
+      "height": 480,
+      "size": 36076,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/detail-4.webp",
+      "hash": "961146047852733fe975bab6e05235ef400e92bdc9dbb3f4b856535307f1f6ae",
+      "width": 480,
+      "height": 480,
+      "size": 24406,
+      "createdAt": "2026-07-09T03:07:02Z",
+      "updatedAt": "2026-07-09T03:07:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/player/camisa-coreia-do-sul-ii-24-25-jogador-nike-masculina-preta-com-detalhes-azul-e-branco-e-rosa/detail-5.webp",
+      "hash": "4f6e6b38eccf8f1ee205b6d8135c8ea2576f8be1bcfcd7330b917e86df05f80c",
+      "width": 480,
+      "height": 480,
+      "size": 37864,
+      "createdAt": "2026-07-09T03:07:03Z",
+      "updatedAt": "2026-07-09T03:07:03Z"
+    }
+  ]
+}

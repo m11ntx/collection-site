@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul",
+  "createdAt": "2026-07-09T03:07:22Z",
+  "updatedAt": "2026-07-09T03:07:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul/front.webp",
+      "hash": "326eee698053525e0e0e61758229f6ef8435dce76253b01488386cdc25bd38de",
+      "width": 480,
+      "height": 480,
+      "size": 13418,
+      "createdAt": "2026-07-09T03:07:22Z",
+      "updatedAt": "2026-07-09T03:07:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul/back.webp",
+      "hash": "3e1c9b5544d9ca0c2304f99df3d037d0e777c01866527ad19ad4df2a04c9187a",
+      "width": 480,
+      "height": 480,
+      "size": 10996,
+      "createdAt": "2026-07-09T03:07:22Z",
+      "updatedAt": "2026-07-09T03:07:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul/detail-1.webp",
+      "hash": "8a633ffd36138f88d93076940e6373b75d066613fa6530a9a258342ab44bbd13",
+      "width": 480,
+      "height": 480,
+      "size": 14992,
+      "createdAt": "2026-07-09T03:07:22Z",
+      "updatedAt": "2026-07-09T03:07:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul/detail-2.webp",
+      "hash": "9801b0d1ab1e3a12d1aa5affcf7a7bfad095787159fe4a8506921341fd816d9f",
+      "width": 480,
+      "height": 480,
+      "size": 10140,
+      "createdAt": "2026-07-09T03:07:22Z",
+      "updatedAt": "2026-07-09T03:07:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-ii-24-25-jogador-adidas-masculina-azul/detail-3.webp",
+      "hash": "f486a07c0466501788e98b193bfce413604ab7f1ddbbee3cee701471e5dbf881",
+      "width": 480,
+      "height": 480,
+      "size": 4940,
+      "createdAt": "2026-07-09T03:07:22Z",
+      "updatedAt": "2026-07-09T03:07:22Z"
+    }
+  ]
+}

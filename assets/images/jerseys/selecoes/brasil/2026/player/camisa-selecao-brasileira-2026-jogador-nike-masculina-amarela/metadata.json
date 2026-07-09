@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela",
+  "createdAt": "2026-07-09T03:08:20Z",
+  "updatedAt": "2026-07-09T03:08:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/front.webp",
+      "hash": "b94c1695b31b3af0af219c9e4dff77308408cffe07f29ba4049ff6a7a0ec4349",
+      "width": 480,
+      "height": 480,
+      "size": 18142,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/back.webp",
+      "hash": "356474875b1c1ad5712ae611c52a2aa008969eaa99c09e86ed1c057f71299d5f",
+      "width": 480,
+      "height": 480,
+      "size": 14840,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/detail-1.webp",
+      "hash": "2ba5e3e9dced08bf75132adb5f5103a0f35f6947c63712bd18e099ded7b5eb3d",
+      "width": 480,
+      "height": 480,
+      "size": 51006,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/detail-2.webp",
+      "hash": "0dde110bbd6ccc18e1b56d54de19930ba7633400ae7c928941461b6e7ba22570",
+      "width": 480,
+      "height": 480,
+      "size": 66572,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/detail-3.webp",
+      "hash": "dc28c54c2c4e2554514aaece2c2a879c3dd951e4e1147996c473951fd8bd5bf6",
+      "width": 480,
+      "height": 480,
+      "size": 29402,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/detail-4.webp",
+      "hash": "815a7dbc688544f60816efa6a775bdff9254fb65a02dc59193395db9fc80d521",
+      "width": 480,
+      "height": 480,
+      "size": 43512,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/player/camisa-selecao-brasileira-2026-jogador-nike-masculina-amarela/detail-5.webp",
+      "hash": "458310131e5131f44fb9c5d669acab83dbbe47a4f9a70c7340f4fa967e9f0378",
+      "width": 480,
+      "height": 480,
+      "size": 29520,
+      "createdAt": "2026-07-09T03:08:20Z",
+      "updatedAt": "2026-07-09T03:08:20Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo",
+  "createdAt": "2026-07-09T03:08:53Z",
+  "updatedAt": "2026-07-09T03:08:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/front.webp",
+      "hash": "11af0df2a12be9327a221a460a9a3eec2e02120f88725b28ab1ad6027b3d9293",
+      "width": 480,
+      "height": 480,
+      "size": 15308,
+      "createdAt": "2026-07-09T03:08:52Z",
+      "updatedAt": "2026-07-09T03:08:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/back.webp",
+      "hash": "9f8a6d0d4e64e5c8442fb31dfe30f891097f9381f0ce7274e55fb350fe0c04a7",
+      "width": 480,
+      "height": 480,
+      "size": 12562,
+      "createdAt": "2026-07-09T03:08:52Z",
+      "updatedAt": "2026-07-09T03:08:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/detail-1.webp",
+      "hash": "44c1bcbe2ee10bd09ca7191fbeed99088dc28661392604aee42c68d33633f888",
+      "width": 480,
+      "height": 480,
+      "size": 54202,
+      "createdAt": "2026-07-09T03:08:52Z",
+      "updatedAt": "2026-07-09T03:08:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/detail-2.webp",
+      "hash": "1186d7c8794c9ac068f97eae8e53a9d36ffbdaf825a1f5e5527038896c8150a6",
+      "width": 480,
+      "height": 480,
+      "size": 52092,
+      "createdAt": "2026-07-09T03:08:53Z",
+      "updatedAt": "2026-07-09T03:08:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/detail-3.webp",
+      "hash": "eb9841706c5bd9bf1b3759f12b8497068999c7bdce7d49b017bfe6622fb348cb",
+      "width": 480,
+      "height": 480,
+      "size": 48504,
+      "createdAt": "2026-07-09T03:08:53Z",
+      "updatedAt": "2026-07-09T03:08:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/player/camisa-selecao-argentina-goleiro-24-25-jogador-adidas-masculina-preta-com-detalhes-em-laranja-e-amarelo/detail-4.webp",
+      "hash": "9971e3708f136e9ae772308eb3ad725a1c6a70e444cc676dc23d6d6343faeed0",
+      "width": 480,
+      "height": 480,
+      "size": 33466,
+      "createdAt": "2026-07-09T03:08:53Z",
+      "updatedAt": "2026-07-09T03:08:53Z"
+    }
+  ]
+}

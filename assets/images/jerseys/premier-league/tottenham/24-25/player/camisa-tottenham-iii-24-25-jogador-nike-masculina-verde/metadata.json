@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-tottenham-iii-24-25-jogador-nike-masculina-verde",
+  "createdAt": "2026-07-09T03:08:41Z",
+  "updatedAt": "2026-07-09T03:08:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-iii-24-25-jogador-nike-masculina-verde/front.webp",
+      "hash": "08af375f188f973bd77da575124e0b57ced9cc7d2063d3430a5303d655de873f",
+      "width": 480,
+      "height": 480,
+      "size": 21370,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-iii-24-25-jogador-nike-masculina-verde/back.webp",
+      "hash": "f93691ec14dcb55b6832cc8bb689b4b050d837d178f8956beea0df72ee355e85",
+      "width": 480,
+      "height": 480,
+      "size": 21170,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-iii-24-25-jogador-nike-masculina-verde/detail-1.webp",
+      "hash": "73807d04f619dfa056abc360f56c3c56a0e632945daaac33582a43b8281fe138",
+      "width": 480,
+      "height": 480,
+      "size": 25090,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    }
+  ]
+}

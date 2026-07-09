@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho",
+  "createdAt": "2026-07-09T03:06:44Z",
+  "updatedAt": "2026-07-09T03:06:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/front.webp",
+      "hash": "684d8562174c7fa4a064be12018af84bb178382e3fb99cb4f8b181839bac7d71",
+      "width": 480,
+      "height": 480,
+      "size": 16890,
+      "createdAt": "2026-07-09T03:06:41Z",
+      "updatedAt": "2026-07-09T03:06:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/back.webp",
+      "hash": "45449ba23d549e045b9a785733940e4a7a36ec2b4d58981b1c32b6dec9a8967f",
+      "width": 480,
+      "height": 480,
+      "size": 14232,
+      "createdAt": "2026-07-09T03:06:41Z",
+      "updatedAt": "2026-07-09T03:06:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/detail-1.webp",
+      "hash": "5238bb37a8c625347c77f53ccb0e9b6617f56312d6d756b483df1157d13306da",
+      "width": 480,
+      "height": 480,
+      "size": 76378,
+      "createdAt": "2026-07-09T03:06:41Z",
+      "updatedAt": "2026-07-09T03:06:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/detail-2.webp",
+      "hash": "d245c85191d78ce8a1cc882156b7c419b2d4625c048a7a78a4a839c1af683688",
+      "width": 480,
+      "height": 480,
+      "size": 37722,
+      "createdAt": "2026-07-09T03:06:42Z",
+      "updatedAt": "2026-07-09T03:06:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/detail-3.webp",
+      "hash": "c69212f64a9f003b621c35bce0270c2eedb14b21af9dba8650a9b5bb74038a65",
+      "width": 480,
+      "height": 480,
+      "size": 61072,
+      "createdAt": "2026-07-09T03:06:42Z",
+      "updatedAt": "2026-07-09T03:06:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/detail-4.webp",
+      "hash": "271dd428d2f189b51c985c06bc02cea9a1831964018718c794a13a0ccf353765",
+      "width": 480,
+      "height": 480,
+      "size": 38662,
+      "createdAt": "2026-07-09T03:06:43Z",
+      "updatedAt": "2026-07-09T03:06:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/23-24/player/camisa-arsenal-i-23-24-jogador-adidas-masculina-vermelho/detail-5.webp",
+      "hash": "c67a33697baeb15d7b9cad6fbdee7c07fbcae89a6da50778f76d51fc83f8beac",
+      "width": 480,
+      "height": 480,
+      "size": 21946,
+      "createdAt": "2026-07-09T03:06:43Z",
+      "updatedAt": "2026-07-09T03:06:43Z"
+    }
+  ]
+}

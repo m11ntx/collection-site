@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T03:08:47Z",
+  "updatedAt": "2026-07-09T03:08:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/front.webp",
+      "hash": "12e87c67f2188e59f3e683c58a935afbcc24e01d6df67752a1923de5348c8ec8",
+      "width": 480,
+      "height": 480,
+      "size": 11706,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/back.webp",
+      "hash": "f00228c1b440c5db685a064ec7bbf87a4a12a82beff671efeafca7e72aa5fb81",
+      "width": 480,
+      "height": 480,
+      "size": 11298,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/detail-1.webp",
+      "hash": "5c04a71665af3630f4d60645651fde031650c591c7c28cf866807f04270a734a",
+      "width": 480,
+      "height": 480,
+      "size": 15184,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/detail-2.webp",
+      "hash": "55978084ac08bb9119d808c3587b57f8014dbc3bd2f06911ef7bb5d9e9871ff7",
+      "width": 480,
+      "height": 480,
+      "size": 60714,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/detail-3.webp",
+      "hash": "769053907895b98154dfaaad26b54024efa085c1a9c11ee9fb8b99ed436176d9",
+      "width": 480,
+      "height": 480,
+      "size": 57672,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/detail-4.webp",
+      "hash": "198f7863864f1e42e75f9bbf14853c96f6f8900f0434aa284f302129b098bba6",
+      "width": 480,
+      "height": 480,
+      "size": 24686,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco/detail-5.webp",
+      "hash": "51e3cc4a8784873cd939894925a848ffba3ad0de9a0f995efb54cac05a45052d",
+      "width": 480,
+      "height": 480,
+      "size": 19056,
+      "createdAt": "2026-07-09T03:08:47Z",
+      "updatedAt": "2026-07-09T03:08:47Z"
+    }
+  ]
+}

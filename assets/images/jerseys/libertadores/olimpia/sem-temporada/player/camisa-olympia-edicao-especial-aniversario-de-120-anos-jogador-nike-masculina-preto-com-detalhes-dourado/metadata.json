@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado",
+  "createdAt": "2026-07-09T03:07:27Z",
+  "updatedAt": "2026-07-09T03:07:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/front.webp",
+      "hash": "7abd0ab45d50137333355c7df1f7fa8efec309332ee7e8d0f5d16defffa43e72",
+      "width": 480,
+      "height": 480,
+      "size": 8566,
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/back.webp",
+      "hash": "345796f69d357ae65622ff9dd975caf3c0c85bfb30c9a37d1f92a961f73a1c77",
+      "width": 480,
+      "height": 480,
+      "size": 13236,
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/detail-1.webp",
+      "hash": "4bbdb2320c0caa127d48a05e74826e02eaa5d42f9bc3cf0a4c56229bc11a1fba",
+      "width": 480,
+      "height": 480,
+      "size": 15726,
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/detail-2.webp",
+      "hash": "c2a8f41333483addbca4896cb9b2a86cc0b24ccff9faacb199ce7e40d9c1bb39",
+      "width": 480,
+      "height": 480,
+      "size": 60786,
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/detail-3.webp",
+      "hash": "041ab68325fce479d26394174dac2fd9bbfe8e2151bc20037d42a6e12883e09f",
+      "width": 480,
+      "height": 480,
+      "size": 32894,
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/detail-4.webp",
+      "hash": "228aba58358ff335d751aeda4ee56f4cbb37cad248c58b5c2b712995266bb3fe",
+      "width": 480,
+      "height": 480,
+      "size": 13372,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/olimpia/sem-temporada/player/camisa-olympia-edicao-especial-aniversario-de-120-anos-jogador-nike-masculina-preto-com-detalhes-dourado/detail-5.webp",
+      "hash": "3a6dc2bb3cee46708b14b744c5de54b1084e89fa0e1b7562f510c6c081f8ca0e",
+      "width": 480,
+      "height": 480,
+      "size": 34500,
+      "createdAt": "2026-07-09T03:07:27Z",
+      "updatedAt": "2026-07-09T03:07:27Z"
+    }
+  ]
+}

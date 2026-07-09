@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha",
+  "createdAt": "2026-07-09T03:08:43Z",
+  "updatedAt": "2026-07-09T03:08:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/front.webp",
+      "hash": "a22895a14484b26921d93061988c0202d94d0e5032d76308d9aea0a66ddc9480",
+      "width": 480,
+      "height": 480,
+      "size": 11394,
+      "createdAt": "2026-07-09T03:08:42Z",
+      "updatedAt": "2026-07-09T03:08:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/back.webp",
+      "hash": "608d5b151dcfc3380797e2a2c5ccdccbcd9fb735466a271bbeca4cfde59e4123",
+      "width": 480,
+      "height": 480,
+      "size": 12506,
+      "createdAt": "2026-07-09T03:08:42Z",
+      "updatedAt": "2026-07-09T03:08:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/detail-1.webp",
+      "hash": "142183b128b0b279419eeeef4d17017954c96c04ee5de11397e8a044a5c56d87",
+      "width": 480,
+      "height": 480,
+      "size": 19106,
+      "createdAt": "2026-07-09T03:08:43Z",
+      "updatedAt": "2026-07-09T03:08:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/detail-2.webp",
+      "hash": "f10f2f7d5a97d35560f1fb6c66f7871c2b5cff159f364deef4e723118e9c4d9a",
+      "width": 480,
+      "height": 480,
+      "size": 59790,
+      "createdAt": "2026-07-09T03:08:43Z",
+      "updatedAt": "2026-07-09T03:08:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/detail-3.webp",
+      "hash": "825b9a59df47dc89b4f57c01cd58808db36db0abe418c7f29e812595e38fa8b7",
+      "width": 480,
+      "height": 480,
+      "size": 60074,
+      "createdAt": "2026-07-09T03:08:43Z",
+      "updatedAt": "2026-07-09T03:08:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/detail-4.webp",
+      "hash": "c3f4e6d363fb2467df1678d0b56c45681b45a3d97b3c6fd74d33499a183d53d2",
+      "width": 480,
+      "height": 480,
+      "size": 23734,
+      "createdAt": "2026-07-09T03:08:43Z",
+      "updatedAt": "2026-07-09T03:08:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-i-24-25-jogador-nike-masculina-azul-e-vermelha/detail-5.webp",
+      "hash": "ce7ed5ff2a031351a4fe8e108908d462fbecebff32797c506d2423659b6e0369",
+      "width": 480,
+      "height": 480,
+      "size": 25786,
+      "createdAt": "2026-07-09T03:08:43Z",
+      "updatedAt": "2026-07-09T03:08:43Z"
+    }
+  ]
+}

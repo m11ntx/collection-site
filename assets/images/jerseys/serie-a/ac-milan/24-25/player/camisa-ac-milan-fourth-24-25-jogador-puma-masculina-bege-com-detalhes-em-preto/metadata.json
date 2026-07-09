@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T03:08:50Z",
+  "updatedAt": "2026-07-09T03:08:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/front.webp",
+      "hash": "2ddeb7202d39ef0bf24acd6f5cc250c54ec72bd28b6f67626834f13644bd6e79",
+      "width": 480,
+      "height": 480,
+      "size": 13826,
+      "createdAt": "2026-07-09T03:08:49Z",
+      "updatedAt": "2026-07-09T03:08:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/back.webp",
+      "hash": "a5a242dd64677ea399ee7d1be951e8bde2b18794c560b65ca441885637ff9714",
+      "width": 480,
+      "height": 480,
+      "size": 11164,
+      "createdAt": "2026-07-09T03:08:49Z",
+      "updatedAt": "2026-07-09T03:08:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/detail-1.webp",
+      "hash": "9a9ead6e3283f1109de0ca7e480788a1914ba5a6d134654fe349318e9c2af1ab",
+      "width": 480,
+      "height": 480,
+      "size": 17400,
+      "createdAt": "2026-07-09T03:08:50Z",
+      "updatedAt": "2026-07-09T03:08:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/detail-2.webp",
+      "hash": "2aced1284b2918316a15409b3746f51c76298e900e6493fdb9941bc5920711c5",
+      "width": 480,
+      "height": 480,
+      "size": 55670,
+      "createdAt": "2026-07-09T03:08:50Z",
+      "updatedAt": "2026-07-09T03:08:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/detail-3.webp",
+      "hash": "a32ce84e2d044941a0d2a2134abca4ad6fed11d903183d83f12db07e2c04cfe9",
+      "width": 480,
+      "height": 480,
+      "size": 55702,
+      "createdAt": "2026-07-09T03:08:50Z",
+      "updatedAt": "2026-07-09T03:08:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/detail-4.webp",
+      "hash": "d4c1ec82eea81c2a0c66f71002ee3d9f6e76059abef80c3c9d6dcb3f5ab3d9c9",
+      "width": 480,
+      "height": 480,
+      "size": 18814,
+      "createdAt": "2026-07-09T03:08:50Z",
+      "updatedAt": "2026-07-09T03:08:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/player/camisa-ac-milan-fourth-24-25-jogador-puma-masculina-bege-com-detalhes-em-preto/detail-5.webp",
+      "hash": "15dd3bed48e75c3f9af77926f05be745e88151e9dc794526e719e7ac0c82f524",
+      "width": 480,
+      "height": 480,
+      "size": 13758,
+      "createdAt": "2026-07-09T03:08:50Z",
+      "updatedAt": "2026-07-09T03:08:50Z"
+    }
+  ]
+}

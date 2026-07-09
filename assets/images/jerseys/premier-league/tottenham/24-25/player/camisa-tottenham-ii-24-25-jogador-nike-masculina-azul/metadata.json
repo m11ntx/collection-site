@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-tottenham-ii-24-25-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T03:08:41Z",
+  "updatedAt": "2026-07-09T03:08:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-jogador-nike-masculina-azul/front.webp",
+      "hash": "c769b9d6996e6da4fa04b2d9452c9efcc98e97dea37d2c05a052f8986bc58957",
+      "width": 480,
+      "height": 480,
+      "size": 14256,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-jogador-nike-masculina-azul/back.webp",
+      "hash": "9e8ec1851655f3b390779f8b1b84cf87ca6f1a147c0a245172741741dae9d9cb",
+      "width": 480,
+      "height": 480,
+      "size": 14634,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "96e107cbf4e1c95c722c55b92d93cb36c48a5645a69870f173e96e47d6b4a7bf",
+      "width": 480,
+      "height": 480,
+      "size": 41994,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-jogador-nike-masculina-azul/detail-2.webp",
+      "hash": "42c308279a87d9358e28d5c900e45c77c5fa7db731eda4c5c20544d5e298252c",
+      "width": 480,
+      "height": 480,
+      "size": 46076,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-jogador-nike-masculina-azul/detail-3.webp",
+      "hash": "cda9f5b0e228239a18bc6f98a13502f776c543eaf330e6c8438d00aad7d78e18",
+      "width": 480,
+      "height": 480,
+      "size": 49428,
+      "createdAt": "2026-07-09T03:08:41Z",
+      "updatedAt": "2026-07-09T03:08:41Z"
+    }
+  ]
+}

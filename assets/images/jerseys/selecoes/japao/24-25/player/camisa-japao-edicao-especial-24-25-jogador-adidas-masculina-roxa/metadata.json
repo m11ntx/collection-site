@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa",
+  "createdAt": "2026-07-09T03:07:13Z",
+  "updatedAt": "2026-07-09T03:07:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/front.webp",
+      "hash": "08e72ea3e39edba374006ebdf4f784a628417e752528e93cc9278ec5b0a82806",
+      "width": 480,
+      "height": 480,
+      "size": 18804,
+      "createdAt": "2026-07-09T03:07:12Z",
+      "updatedAt": "2026-07-09T03:07:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/back.webp",
+      "hash": "52074091fa9b62dfb5e27df8dddc27ce7b181058254a2523cf61ccc19ab34e71",
+      "width": 480,
+      "height": 480,
+      "size": 23010,
+      "createdAt": "2026-07-09T03:07:12Z",
+      "updatedAt": "2026-07-09T03:07:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/detail-1.webp",
+      "hash": "dfa4dcbff47e7730c9c9cd34341ea06d4106b96b410cc4c74a40fde59cd92739",
+      "width": 480,
+      "height": 480,
+      "size": 13064,
+      "createdAt": "2026-07-09T03:07:12Z",
+      "updatedAt": "2026-07-09T03:07:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/detail-2.webp",
+      "hash": "94b1afe081541ad53feeaa84503bfe79a67e70b4d411c638d1024aa9ccd123e3",
+      "width": 480,
+      "height": 480,
+      "size": 54872,
+      "createdAt": "2026-07-09T03:07:13Z",
+      "updatedAt": "2026-07-09T03:07:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/detail-3.webp",
+      "hash": "987515db2a86ab2a58fcbe0818b15dfbcf1f27469ce9243dc66181d92766a503",
+      "width": 480,
+      "height": 480,
+      "size": 54408,
+      "createdAt": "2026-07-09T03:07:13Z",
+      "updatedAt": "2026-07-09T03:07:13Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/detail-4.webp",
+      "hash": "051aaed29952d33e561fb2218527b6cb0681d2dcdca81edc05251baf6ab133ef",
+      "width": 480,
+      "height": 480,
+      "size": 26454,
+      "createdAt": "2026-07-09T03:07:13Z",
+      "updatedAt": "2026-07-09T03:07:13Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/player/camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-roxa/detail-5.webp",
+      "hash": "b9f67e4d1cb6ac5290120bb895a3e51caf250254d5d5ee3df5321a048c4d3807",
+      "width": 480,
+      "height": 480,
+      "size": 16622,
+      "createdAt": "2026-07-09T03:07:13Z",
+      "updatedAt": "2026-07-09T03:07:13Z"
+    }
+  ]
+}

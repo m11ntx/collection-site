@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta",
+  "createdAt": "2026-07-09T03:07:00Z",
+  "updatedAt": "2026-07-09T03:07:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/front.webp",
+      "hash": "ab7d3db7f7b4e3ad29848857f4ac589d1aace2274019bb0954aca1c3771ceb1c",
+      "width": 480,
+      "height": 480,
+      "size": 9832,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/back.webp",
+      "hash": "9eabf1c3742ce7f61e1bc44a7e436c52ad86ee9ab9bc2189c37af057ac1e83e7",
+      "width": 480,
+      "height": 480,
+      "size": 9698,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/detail-1.webp",
+      "hash": "8adff0517fafdc760d394119710ab8c085ca27ca89c519188e67256b8831980c",
+      "width": 480,
+      "height": 480,
+      "size": 12192,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/detail-2.webp",
+      "hash": "5d66496525b3268ef10ca92d296f9de8e139d15d92579937c0dcbfbad42a16e1",
+      "width": 480,
+      "height": 480,
+      "size": 16528,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/detail-3.webp",
+      "hash": "e24ca6a27572ddff678b17db24c6375cb31661cc08ebcaa67ea3951562c6a70e",
+      "width": 480,
+      "height": 480,
+      "size": 8522,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/player/camisa-borussia-dortmund-i-24-25-jogador-puma-masculina-amarela-e-preta/detail-4.webp",
+      "hash": "ac33c37e69da6a465827c83db39927e2f5336cb9de0f849e1c6c92fcc6f541ed",
+      "width": 480,
+      "height": 480,
+      "size": 12540,
+      "createdAt": "2026-07-09T03:07:00Z",
+      "updatedAt": "2026-07-09T03:07:00Z"
+    }
+  ]
+}

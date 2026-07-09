@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca",
+  "createdAt": "2026-07-09T03:07:30Z",
+  "updatedAt": "2026-07-09T03:07:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/front.webp",
+      "hash": "c5e3f2a7ded3c08074f1ef5f7cbec5e9aaa85f80b66ed361e7fc4bfc3b4f3434",
+      "width": 480,
+      "height": 480,
+      "size": 8442,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/back.webp",
+      "hash": "e28abc73bf5b8035b8e4adb162440dbac152e0a1a9117e99ba2806a39c816a58",
+      "width": 480,
+      "height": 480,
+      "size": 6632,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/detail-1.webp",
+      "hash": "dbfec498961735a97a25bfae9cd31c128ae85457631eb2816d559400c1a89854",
+      "width": 480,
+      "height": 480,
+      "size": 12164,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/detail-2.webp",
+      "hash": "226adc16c33884b4958d3b691f70795492a0c9c1f7c9de7d9a8515ea8729b30e",
+      "width": 480,
+      "height": 480,
+      "size": 14960,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/detail-3.webp",
+      "hash": "434d1612a8ad5740054e6d76ae6383198d5f4075ad98af1032dfeb29c04e704b",
+      "width": 480,
+      "height": 480,
+      "size": 30150,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/detail-4.webp",
+      "hash": "d565992c1af12593e7a1832a5c58e42e2ee5cba8fa044827f8a65b9a2f2457e9",
+      "width": 480,
+      "height": 480,
+      "size": 8026,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-i-24-25-jogador-adidas-masculina-branca/detail-5.webp",
+      "hash": "c398146f3fb6b5aca49f88ce7a28eb13004ff67af7b6c26de1479b99319c1744",
+      "width": 480,
+      "height": 480,
+      "size": 6806,
+      "createdAt": "2026-07-09T03:07:30Z",
+      "updatedAt": "2026-07-09T03:07:30Z"
+    }
+  ]
+}
