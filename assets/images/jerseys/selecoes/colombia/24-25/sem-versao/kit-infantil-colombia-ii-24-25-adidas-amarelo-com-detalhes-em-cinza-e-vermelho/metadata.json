@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho",
+  "createdAt": "2026-07-09T17:32:31Z",
+  "updatedAt": "2026-07-09T17:32:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/front.webp",
+      "hash": "bed0315e09c13fa2e7378de6472bbd4822d4ef6b5cc10e08068fc57759dcf17f",
+      "width": 480,
+      "height": 480,
+      "size": 5722,
+      "createdAt": "2026-07-09T17:32:30Z",
+      "updatedAt": "2026-07-09T17:32:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/back.webp",
+      "hash": "b1855961b175076072a3f026a0479c76e44d8457865df4903177b58669b8d90d",
+      "width": 480,
+      "height": 480,
+      "size": 9808,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/detail-1.webp",
+      "hash": "98238ab19526682e4d56f360cd9814571978fc161b44289d192dfcfcd9c34898",
+      "width": 480,
+      "height": 480,
+      "size": 5288,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/detail-2.webp",
+      "hash": "82b704820715f84e6aa490640064343ab45df76176e66c1e3929500ffdef6270",
+      "width": 480,
+      "height": 480,
+      "size": 30322,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/detail-3.webp",
+      "hash": "a33b45497aa316324b6db7058c1d0a952d959fcc8076d87fa4ccd950bf9a6379",
+      "width": 480,
+      "height": 480,
+      "size": 33038,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/detail-4.webp",
+      "hash": "d299960bea41188cd7ad3dfab20c55ec0512a8487a3eaa2b55dee25b31ca7554",
+      "width": 480,
+      "height": 480,
+      "size": 9578,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/colombia/24-25/sem-versao/kit-infantil-colombia-ii-24-25-adidas-amarelo-com-detalhes-em-cinza-e-vermelho/detail-5.webp",
+      "hash": "870f8804ae8202d4eb84f562e0cb6a105fc369fc674a433d5bef2466705fa09d",
+      "width": 480,
+      "height": 480,
+      "size": 20888,
+      "createdAt": "2026-07-09T17:32:31Z",
+      "updatedAt": "2026-07-09T17:32:31Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes-em-preto-e-vermelho-e-amarelo",
+  "createdAt": "2026-07-09T17:32:46Z",
+  "updatedAt": "2026-07-09T17:32:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/front.webp",
+      "hash": "b9e7b16472eb855c618ff63f7f1b632831fa3a7b2ab815d8d26ac5301c0bf331",
+      "width": 480,
+      "height": 480,
+      "size": 5622,
+      "createdAt": "2026-07-09T17:32:45Z",
+      "updatedAt": "2026-07-09T17:32:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/back.webp",
+      "hash": "e0e7f41e137d7cc3eb72814e979d36eea24fc245c7089d359ed8820b24652dab",
+      "width": 480,
+      "height": 480,
+      "size": 3738,
+      "createdAt": "2026-07-09T17:32:45Z",
+      "updatedAt": "2026-07-09T17:32:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/detail-1.webp",
+      "hash": "a15dea4efa667314d458489ff8e2fa7a1c703af2f2dec158ff645927d55dd8ce",
+      "width": 480,
+      "height": 480,
+      "size": 10592,
+      "createdAt": "2026-07-09T17:32:45Z",
+      "updatedAt": "2026-07-09T17:32:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/detail-2.webp",
+      "hash": "7cd4353950a24a6c70443091cb05bd0e0763ad7a5e2f1199399788354b994a63",
+      "width": 480,
+      "height": 480,
+      "size": 43492,
+      "createdAt": "2026-07-09T17:32:45Z",
+      "updatedAt": "2026-07-09T17:32:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/detail-3.webp",
+      "hash": "ff0b2a3651bf2b64783e9c4a7dbabcd0145c637f103a54bc59fa066be44ea411",
+      "width": 480,
+      "height": 480,
+      "size": 49956,
+      "createdAt": "2026-07-09T17:32:45Z",
+      "updatedAt": "2026-07-09T17:32:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/detail-4.webp",
+      "hash": "346f9e74cc035b13150017ede67a38f10ea669767b8c4a0a70816a22be8e21eb",
+      "width": 480,
+      "height": 480,
+      "size": 9960,
+      "createdAt": "2026-07-09T17:32:46Z",
+      "updatedAt": "2026-07-09T17:32:46Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1992/sem-versao/kit-infantil-retro-selecao-da-alemanha-1992-adidas-branco-com-detalhes--72e603b3/detail-5.webp",
+      "hash": "881fe6e3ce202e67c53e0a363d3a7f74ba79c7a4168ad6c026cf224ffce7b5c1",
+      "width": 480,
+      "height": 480,
+      "size": 9120,
+      "createdAt": "2026-07-09T17:32:46Z",
+      "updatedAt": "2026-07-09T17:32:46Z"
+    }
+  ]
+}

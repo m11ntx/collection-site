@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-benfica-iii-25-26-adidas-bege",
+  "createdAt": "2026-07-09T17:32:29Z",
+  "updatedAt": "2026-07-09T17:32:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/benfica/25-26/sem-versao/kit-infantil-benfica-iii-25-26-adidas-bege/front.webp",
+      "hash": "8d570a970c4461e0ab946c9c588df90d720b16d1c494ec03b71b7c4dc806f487",
+      "width": 480,
+      "height": 480,
+      "size": 8454,
+      "createdAt": "2026-07-09T17:32:29Z",
+      "updatedAt": "2026-07-09T17:32:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/benfica/25-26/sem-versao/kit-infantil-benfica-iii-25-26-adidas-bege/back.webp",
+      "hash": "aee1bd15d83d06a11f59c2f5a39bb77c9f799864d3beceadb749a54e8958380f",
+      "width": 480,
+      "height": 480,
+      "size": 4750,
+      "createdAt": "2026-07-09T17:32:29Z",
+      "updatedAt": "2026-07-09T17:32:29Z"
+    }
+  ]
+}

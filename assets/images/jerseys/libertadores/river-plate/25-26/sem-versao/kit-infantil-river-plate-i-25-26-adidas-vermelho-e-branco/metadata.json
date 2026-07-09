@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-river-plate-i-25-26-adidas-vermelho-e-branco",
+  "createdAt": "2026-07-09T17:32:41Z",
+  "updatedAt": "2026-07-09T17:32:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/25-26/sem-versao/kit-infantil-river-plate-i-25-26-adidas-vermelho-e-branco/front.webp",
+      "hash": "7fdeb1ff4eb03c903b6427dd2d0bb5a1e5b392c71c23f6aa828bc59de00a1c3c",
+      "width": 480,
+      "height": 480,
+      "size": 7360,
+      "createdAt": "2026-07-09T17:32:40Z",
+      "updatedAt": "2026-07-09T17:32:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/25-26/sem-versao/kit-infantil-river-plate-i-25-26-adidas-vermelho-e-branco/back.webp",
+      "hash": "4afd1bcf4593eb6b12cfc3f03800d4ffea4599620f13fa74e628bfd28f340460",
+      "width": 480,
+      "height": 480,
+      "size": 6468,
+      "createdAt": "2026-07-09T17:32:40Z",
+      "updatedAt": "2026-07-09T17:32:40Z"
+    }
+  ]
+}

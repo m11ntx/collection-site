@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-celtic-iii-25-26-adidas-branco-e-verde",
+  "createdAt": "2026-07-09T17:32:30Z",
+  "updatedAt": "2026-07-09T17:32:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/25-26/sem-versao/kit-infantil-celtic-iii-25-26-adidas-branco-e-verde/front.webp",
+      "hash": "478e04515dae1cf9db098bd4ec2623bad5a53546b665dafe8c893e14fc892dfb",
+      "width": 480,
+      "height": 480,
+      "size": 4766,
+      "createdAt": "2026-07-09T17:32:30Z",
+      "updatedAt": "2026-07-09T17:32:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/25-26/sem-versao/kit-infantil-celtic-iii-25-26-adidas-branco-e-verde/back.webp",
+      "hash": "5adf712ac634eeb2504adbc609f1af266613a2b55b3d4fab580af99f1e0d2e62",
+      "width": 480,
+      "height": 480,
+      "size": 2844,
+      "createdAt": "2026-07-09T17:32:30Z",
+      "updatedAt": "2026-07-09T17:32:30Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-portugal-i-25-26-puma-vermelho-e-verde",
+  "createdAt": "2026-07-09T17:32:44Z",
+  "updatedAt": "2026-07-09T17:32:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/sem-versao/kit-infantil-selecao-portugal-i-25-26-puma-vermelho-e-verde/front.webp",
+      "hash": "4ae3878302c5a04bc36a181a6526b70fc86960905302fd231353d521e9066356",
+      "width": 480,
+      "height": 480,
+      "size": 5980,
+      "createdAt": "2026-07-09T17:32:44Z",
+      "updatedAt": "2026-07-09T17:32:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/25-26/sem-versao/kit-infantil-selecao-portugal-i-25-26-puma-vermelho-e-verde/back.webp",
+      "hash": "7d78b2a39203ea731b1620f0b1ed0ec8666fb4aedd2685ed764bb7d1e9524fd0",
+      "width": 480,
+      "height": 480,
+      "size": 4994,
+      "createdAt": "2026-07-09T17:32:44Z",
+      "updatedAt": "2026-07-09T17:32:44Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-red-bull-leipzig-i-25-26-puma-branco-e-vermelho",
+  "createdAt": "2026-07-09T17:32:40Z",
+  "updatedAt": "2026-07-09T17:32:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/25-26/sem-versao/kit-infantil-red-bull-leipzig-i-25-26-puma-branco-e-vermelho/front.webp",
+      "hash": "5d391473c3834c05255942bc51ab830624e218d3347c09b1bd93255efe35194e",
+      "width": 480,
+      "height": 480,
+      "size": 6360,
+      "createdAt": "2026-07-09T17:32:40Z",
+      "updatedAt": "2026-07-09T17:32:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/rb-leipzig/25-26/sem-versao/kit-infantil-red-bull-leipzig-i-25-26-puma-branco-e-vermelho/back.webp",
+      "hash": "d28c0371dc2fa48f2378fa58fbe2185496a41f763ee5d90f38cd91994f00737a",
+      "width": 480,
+      "height": 480,
+      "size": 4506,
+      "createdAt": "2026-07-09T17:32:40Z",
+      "updatedAt": "2026-07-09T17:32:40Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-inglaterra-i-25-26-nike-branco-e-azul",
+  "createdAt": "2026-07-09T17:32:43Z",
+  "updatedAt": "2026-07-09T17:32:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/25-26/sem-versao/kit-infantil-selecao-inglaterra-i-25-26-nike-branco-e-azul/front.webp",
+      "hash": "3c89bc727f8f3fbbd282b73cb3a874fbc4ce546bf5347e7f76a0332753c723c5",
+      "width": 480,
+      "height": 480,
+      "size": 5672,
+      "createdAt": "2026-07-09T17:32:43Z",
+      "updatedAt": "2026-07-09T17:32:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/25-26/sem-versao/kit-infantil-selecao-inglaterra-i-25-26-nike-branco-e-azul/back.webp",
+      "hash": "4abbc16986c705a15e930bea3d7576cd22ca7a624a8828b20b7c5fec76c0a2c4",
+      "width": 480,
+      "height": 480,
+      "size": 3296,
+      "createdAt": "2026-07-09T17:32:43Z",
+      "updatedAt": "2026-07-09T17:32:43Z"
+    }
+  ]
+}
