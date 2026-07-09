@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2000-2001-vermelha-umbro",
+  "createdAt": "2026-07-09T16:39:47Z",
+  "updatedAt": "2026-07-09T16:39:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/front.webp",
+      "hash": "aef1ed60c30b6520f7a71b1fc70d3c57ede0e0ff616af1379ee57f4acb43f65f",
+      "width": 480,
+      "height": 480,
+      "size": 14004,
+      "createdAt": "2026-07-09T16:39:46Z",
+      "updatedAt": "2026-07-09T16:39:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/back.webp",
+      "hash": "e67dc279e7f7a9b70ae9b94e4549c113effa187548409f94951c8e776c158ee3",
+      "width": 480,
+      "height": 480,
+      "size": 8602,
+      "createdAt": "2026-07-09T16:39:46Z",
+      "updatedAt": "2026-07-09T16:39:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/detail-1.webp",
+      "hash": "bcdbd153acac704e143858d63e873e384c33d69241f6eee68a005cffd8a1e6ae",
+      "width": 480,
+      "height": 480,
+      "size": 39860,
+      "createdAt": "2026-07-09T16:39:46Z",
+      "updatedAt": "2026-07-09T16:39:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/detail-2.webp",
+      "hash": "7f73a5c8f9081d544e148c29dbd0efd1828e44cbfeb243e3da0e672a2ab6cccd",
+      "width": 480,
+      "height": 480,
+      "size": 34884,
+      "createdAt": "2026-07-09T16:39:46Z",
+      "updatedAt": "2026-07-09T16:39:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/detail-3.webp",
+      "hash": "1d75e1c700692fd1b64515016240db0cabb04968eb1084f4ae59e3300ce566a2",
+      "width": 480,
+      "height": 480,
+      "size": 70890,
+      "createdAt": "2026-07-09T16:39:46Z",
+      "updatedAt": "2026-07-09T16:39:46Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/detail-4.webp",
+      "hash": "870633f3eb1c99a64fdac7a3aa9a5cdd567cc7aa67d711db37c93e5b114feb85",
+      "width": 480,
+      "height": 480,
+      "size": 71108,
+      "createdAt": "2026-07-09T16:39:47Z",
+      "updatedAt": "2026-07-09T16:39:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2001/sem-versao/camisa-manchester-united-retro-2000-2001-vermelha-umbro/detail-5.webp",
+      "hash": "a2a003a5551da5b0f905f0ef0ff1ef23d00e948bedfbde61c40458001b2a62fa",
+      "width": 480,
+      "height": 480,
+      "size": 71082,
+      "createdAt": "2026-07-09T16:39:47Z",
+      "updatedAt": "2026-07-09T16:39:47Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca",
+  "createdAt": "2026-07-09T16:41:56Z",
+  "updatedAt": "2026-07-09T16:41:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/front.webp",
+      "hash": "e59caac0317152dea62534a9c8c4f4b958000ea0c38f87eeb928365b5fcae3b0",
+      "width": 480,
+      "height": 480,
+      "size": 13346,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/back.webp",
+      "hash": "00dc4222b5c574374ba66dadb8a98d38b9683d25317c4915c5f71ab9129cba2a",
+      "width": 480,
+      "height": 480,
+      "size": 8334,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/detail-1.webp",
+      "hash": "4098e8367ce1868eddd83c9268090de1109a6334a81411188ef2713d63e7e60a",
+      "width": 480,
+      "height": 480,
+      "size": 23004,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/detail-2.webp",
+      "hash": "e2fd8f66a37494d629ed229cac16dfa9d5d291407246a9c4c83f77c8cb4bf61e",
+      "width": 480,
+      "height": 480,
+      "size": 20876,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/detail-3.webp",
+      "hash": "5434804e36b1ecf84b441e91aa1564e445a3b2a87edd838a0f56121f50158abe",
+      "width": 480,
+      "height": 480,
+      "size": 48374,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/detail-4.webp",
+      "hash": "6470ae93d14dff67f5e04c217b1f08213c8d0a5ba5e46a6d923c21eaf417e71c",
+      "width": 480,
+      "height": 480,
+      "size": 56746,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/2001-2002/sem-versao/camisa-retro-juventus-i-2001-2002-masculina-lotto-preta-e-branca/detail-5.webp",
+      "hash": "80769b67cdb04f970bc1a79d353212af4ffd6e205cc748bb6e9adf465ed23e34",
+      "width": 480,
+      "height": 480,
+      "size": 29476,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    }
+  ]
+}

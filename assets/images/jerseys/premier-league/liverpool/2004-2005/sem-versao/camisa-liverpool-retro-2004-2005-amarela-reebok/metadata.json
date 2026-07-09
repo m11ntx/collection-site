@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-retro-2004-2005-amarela-reebok",
+  "createdAt": "2026-07-09T16:39:09Z",
+  "updatedAt": "2026-07-09T16:39:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/front.webp",
+      "hash": "99614b205ec5076b9abc3216ae3bae7d9ce62e0849537ec6364684fc1749cf5b",
+      "width": 480,
+      "height": 480,
+      "size": 19034,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/back.webp",
+      "hash": "19d130e711a57b72d3fbdc54ad9859ad7b2a43efebc4e1707b272db54e27171f",
+      "width": 480,
+      "height": 480,
+      "size": 7306,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/detail-1.webp",
+      "hash": "b66542c498e3d7be5da378ea1619ab47835588ca7a017cde22ff1cf030b50e3f",
+      "width": 480,
+      "height": 480,
+      "size": 32162,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/detail-2.webp",
+      "hash": "c51d69ed263df9c1b21e840c1f0be713738a960ff350272e2b652144021d80e7",
+      "width": 480,
+      "height": 480,
+      "size": 31588,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/detail-3.webp",
+      "hash": "382a099f1b034ebd50efb497af5fd68f6bb1e4a12d516c845fdfa65952e7f1e4",
+      "width": 480,
+      "height": 480,
+      "size": 41230,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/detail-4.webp",
+      "hash": "74c94fe534bcf7fc6ffab0c175b1d7f0eb6de9ef1b1e2582832cc131f74bd475",
+      "width": 480,
+      "height": 480,
+      "size": 30352,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/2004-2005/sem-versao/camisa-liverpool-retro-2004-2005-amarela-reebok/detail-5.webp",
+      "hash": "3f78b699380441ea36a361f95a96ffc3fa39ea9fa931a0d267e0c9c16e6de84c",
+      "width": 480,
+      "height": 480,
+      "size": 33234,
+      "createdAt": "2026-07-09T16:39:09Z",
+      "updatedAt": "2026-07-09T16:39:09Z"
+    }
+  ]
+}

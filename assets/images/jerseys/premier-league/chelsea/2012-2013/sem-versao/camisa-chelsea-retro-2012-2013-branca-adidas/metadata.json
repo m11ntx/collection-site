@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chelsea-retro-2012-2013-branca-adidas",
+  "createdAt": "2026-07-09T16:36:41Z",
+  "updatedAt": "2026-07-09T16:36:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/front.webp",
+      "hash": "359d2b9ed600de5b156f164201d30f88f5175a27a63c441858db285970a5a596",
+      "width": 480,
+      "height": 480,
+      "size": 10168,
+      "createdAt": "2026-07-09T16:36:40Z",
+      "updatedAt": "2026-07-09T16:36:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/back.webp",
+      "hash": "f673463a3dcc11f00964e4fef7fc88cf7cd37555689842445a8d3ba0d6bceb30",
+      "width": 480,
+      "height": 480,
+      "size": 4926,
+      "createdAt": "2026-07-09T16:36:40Z",
+      "updatedAt": "2026-07-09T16:36:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/detail-1.webp",
+      "hash": "d534034199ef43956ddac2ec42e152788d8802bf9d67178a155a4bcc51c10a42",
+      "width": 480,
+      "height": 480,
+      "size": 22102,
+      "createdAt": "2026-07-09T16:36:40Z",
+      "updatedAt": "2026-07-09T16:36:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/detail-2.webp",
+      "hash": "954d4d34504db53a03fccb29a889bfb8b905a1571b266d1154cb7dfbc84fdb0c",
+      "width": 480,
+      "height": 480,
+      "size": 18836,
+      "createdAt": "2026-07-09T16:36:41Z",
+      "updatedAt": "2026-07-09T16:36:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/detail-3.webp",
+      "hash": "adec49611c954d52439dfaf808dee41c7f13f43e2c247f18e83c9ccafddee8e9",
+      "width": 480,
+      "height": 480,
+      "size": 18474,
+      "createdAt": "2026-07-09T16:36:41Z",
+      "updatedAt": "2026-07-09T16:36:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/detail-4.webp",
+      "hash": "427d9462e0d9b5dec0492ade6f2cff532fea104441485d6bdb45dc864642c3be",
+      "width": 480,
+      "height": 480,
+      "size": 38782,
+      "createdAt": "2026-07-09T16:36:41Z",
+      "updatedAt": "2026-07-09T16:36:41Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/chelsea/2012-2013/sem-versao/camisa-chelsea-retro-2012-2013-branca-adidas/detail-5.webp",
+      "hash": "fd3769bf1c38de8fffa506fc33c4ed7c7e842b7891cebbac9078c8f92fde013e",
+      "width": 480,
+      "height": 480,
+      "size": 9312,
+      "createdAt": "2026-07-09T16:36:41Z",
+      "updatedAt": "2026-07-09T16:36:41Z"
+    }
+  ]
+}

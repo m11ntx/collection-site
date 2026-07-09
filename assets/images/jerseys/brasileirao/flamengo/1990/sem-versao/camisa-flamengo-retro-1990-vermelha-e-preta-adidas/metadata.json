@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-flamengo-retro-1990-vermelha-e-preta-adidas",
+  "createdAt": "2026-07-09T16:38:22Z",
+  "updatedAt": "2026-07-09T16:38:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/front.webp",
+      "hash": "1e688072fa804bc2019e52224271f0763666e8596d53b68e7db7eb264c246f8a",
+      "width": 480,
+      "height": 480,
+      "size": 12932,
+      "createdAt": "2026-07-09T16:38:21Z",
+      "updatedAt": "2026-07-09T16:38:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/back.webp",
+      "hash": "8dac1b51adac92aacd567878e988fe968da849985bc220a9f7195d8e600a7f73",
+      "width": 480,
+      "height": 480,
+      "size": 10448,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/detail-1.webp",
+      "hash": "8d4fc9063194501b6cedd67b287b872985a99c41b62838d899677a52f55734d2",
+      "width": 480,
+      "height": 480,
+      "size": 23378,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/detail-2.webp",
+      "hash": "5207fb9a983e693d6019bf4bde6db7d0170179cb3b0f7505d4cf3a4ae992e50a",
+      "width": 480,
+      "height": 480,
+      "size": 36260,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/detail-3.webp",
+      "hash": "ab16595406eded990712baa73a1c09167f9bc974a7a8b5a21265d45712843b66",
+      "width": 480,
+      "height": 480,
+      "size": 20884,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1990/sem-versao/camisa-flamengo-retro-1990-vermelha-e-preta-adidas/detail-4.webp",
+      "hash": "83e5d80960d29e5978acddffab21f7e4df86a84515387ebf17e3576aa4b41696",
+      "width": 480,
+      "height": 480,
+      "size": 15984,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    }
+  ]
+}

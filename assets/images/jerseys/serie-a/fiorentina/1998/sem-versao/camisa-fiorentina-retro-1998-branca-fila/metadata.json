@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-fiorentina-retro-1998-branca-fila",
+  "createdAt": "2026-07-09T16:38:17Z",
+  "updatedAt": "2026-07-09T16:38:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/front.webp",
+      "hash": "bfe2652708fc0b6dc71db022544a438a5beb09c2bc28d60fdf3ef5ae1285a705",
+      "width": 480,
+      "height": 480,
+      "size": 8744,
+      "createdAt": "2026-07-09T16:38:16Z",
+      "updatedAt": "2026-07-09T16:38:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/back.webp",
+      "hash": "68d02339c3e02de8002dd5ede9023ce5a4aa27ac486b282ad885de026f4ca8fd",
+      "width": 480,
+      "height": 480,
+      "size": 5816,
+      "createdAt": "2026-07-09T16:38:16Z",
+      "updatedAt": "2026-07-09T16:38:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/detail-1.webp",
+      "hash": "efa811394fee0d9086eb4ce7402a1ccbbc7233806d1c790ea4cd2c4530a49474",
+      "width": 480,
+      "height": 480,
+      "size": 37678,
+      "createdAt": "2026-07-09T16:38:16Z",
+      "updatedAt": "2026-07-09T16:38:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/detail-2.webp",
+      "hash": "68779ce249a510769bdbacf41af7c6b03b3a511c575d7158e34be219131ac382",
+      "width": 480,
+      "height": 480,
+      "size": 44852,
+      "createdAt": "2026-07-09T16:38:17Z",
+      "updatedAt": "2026-07-09T16:38:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/detail-3.webp",
+      "hash": "aca83d29eb253ad7e14de1ce15cb560054abd2542ee2c3f5de370fc0a11a9014",
+      "width": 480,
+      "height": 480,
+      "size": 18008,
+      "createdAt": "2026-07-09T16:38:17Z",
+      "updatedAt": "2026-07-09T16:38:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1998/sem-versao/camisa-fiorentina-retro-1998-branca-fila/detail-4.webp",
+      "hash": "53a2e4f2b24788a67522cdadd6f3bc3cfaa269019e24fc6c165585f96731cf2a",
+      "width": 480,
+      "height": 480,
+      "size": 19052,
+      "createdAt": "2026-07-09T16:38:17Z",
+      "updatedAt": "2026-07-09T16:38:17Z"
+    }
+  ]
+}

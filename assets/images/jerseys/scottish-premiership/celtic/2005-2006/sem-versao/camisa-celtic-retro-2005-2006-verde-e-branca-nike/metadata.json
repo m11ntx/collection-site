@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-2005-2006-verde-e-branca-nike",
+  "createdAt": "2026-07-09T16:36:34Z",
+  "updatedAt": "2026-07-09T16:36:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/front.webp",
+      "hash": "15561f1c0a8f18e6eb18f62b59a843702230997f2deb5fc6ce8f084a86586cf0",
+      "width": 480,
+      "height": 480,
+      "size": 16258,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/back.webp",
+      "hash": "c25575d01679045bc0d59467d185d501835d520729b2e64d744dbce846485304",
+      "width": 480,
+      "height": 480,
+      "size": 10688,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/detail-1.webp",
+      "hash": "5799568a4a07a0b2a600264500bee53338197ad70d4258dcdb69cce9b4c4f81c",
+      "width": 480,
+      "height": 480,
+      "size": 24034,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/detail-2.webp",
+      "hash": "e8f75e5e67a8f6df97696fbd9a82fbe45b180400823ee1b2ead5d93884aae7ff",
+      "width": 480,
+      "height": 480,
+      "size": 21724,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/detail-3.webp",
+      "hash": "52a1471ba848671b3d042037cd88870298036553209652239b5afa891f6bb50e",
+      "width": 480,
+      "height": 480,
+      "size": 22996,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/detail-4.webp",
+      "hash": "a29c339cec283c1ec6228d496d6e62c7069a5263c004604452780dfc97b9c386",
+      "width": 480,
+      "height": 480,
+      "size": 13052,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2005-2006/sem-versao/camisa-celtic-retro-2005-2006-verde-e-branca-nike/detail-5.webp",
+      "hash": "997ef80123c00d4bd4998a241af2a6d016ab7d762f8a7eb25b46f4fcee2554ce",
+      "width": 480,
+      "height": 480,
+      "size": 37430,
+      "createdAt": "2026-07-09T16:36:34Z",
+      "updatedAt": "2026-07-09T16:36:34Z"
+    }
+  ]
+}

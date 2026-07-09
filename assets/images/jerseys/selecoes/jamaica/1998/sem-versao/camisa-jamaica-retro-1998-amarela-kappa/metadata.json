@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-jamaica-retro-1998-amarela-kappa",
+  "createdAt": "2026-07-09T16:38:53Z",
+  "updatedAt": "2026-07-09T16:38:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/front.webp",
+      "hash": "2294ef9a42d668a8ddb7af46efc6a91f87501e97860c4479eb468ead33f93b5b",
+      "width": 480,
+      "height": 480,
+      "size": 17098,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/back.webp",
+      "hash": "975acbe96774775aa68885705b3e442aea906f03bae6ebf5ac661c18ad63bc0b",
+      "width": 480,
+      "height": 480,
+      "size": 11902,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/detail-1.webp",
+      "hash": "57bb799aabd407adde0618d52514e0a35982ea195590cc24ef5e10ad4009c77c",
+      "width": 480,
+      "height": 480,
+      "size": 27098,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/detail-2.webp",
+      "hash": "94b81dda4beed7a2aad83c098c20182bba83add823102298ab2977062cda6f8f",
+      "width": 480,
+      "height": 480,
+      "size": 19678,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/detail-3.webp",
+      "hash": "497b2e4ab9fd36320f368059c0ae8c2a10c72264befeca0e204d27680741f231",
+      "width": 480,
+      "height": 480,
+      "size": 24098,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/detail-4.webp",
+      "hash": "d0796cf4a668fc9eb14b7bbf556414cff3427a696102c42432aff8349574154f",
+      "width": 480,
+      "height": 480,
+      "size": 48204,
+      "createdAt": "2026-07-09T16:38:53Z",
+      "updatedAt": "2026-07-09T16:38:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/jamaica/1998/sem-versao/camisa-jamaica-retro-1998-amarela-kappa/detail-5.webp",
+      "hash": "b36494432f899e8af0c6cf08681a9e01476d9c76fe66147f2608d6e62fd31df1",
+      "width": 480,
+      "height": 480,
+      "size": 10932,
+      "createdAt": "2026-07-09T16:38:53Z",
+      "updatedAt": "2026-07-09T16:38:53Z"
+    }
+  ]
+}

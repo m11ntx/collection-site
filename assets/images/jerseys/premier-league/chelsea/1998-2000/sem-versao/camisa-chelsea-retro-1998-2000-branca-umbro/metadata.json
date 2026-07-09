@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chelsea-retro-1998-2000-branca-umbro",
+  "createdAt": "2026-07-09T16:36:39Z",
+  "updatedAt": "2026-07-09T16:36:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/front.webp",
+      "hash": "fd537384767717e25f7c6bfc6399008383c284fe9f99f1b400342ef51d571e1b",
+      "width": 480,
+      "height": 480,
+      "size": 8736,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/back.webp",
+      "hash": "1c5eba41059252d3553332ef2285ed35b4376ebff89e96d77144c05114399b4d",
+      "width": 480,
+      "height": 480,
+      "size": 3946,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/detail-1.webp",
+      "hash": "fbdc9a5be9fa566630ca8e0c03c3671c18a1d96b6a4288f0e64402c54dc2af30",
+      "width": 480,
+      "height": 480,
+      "size": 24254,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/detail-2.webp",
+      "hash": "0f3a2b447e368b186f02b8e4651a59a954e5da6c7063b0f467463ca2611d47c7",
+      "width": 480,
+      "height": 480,
+      "size": 18760,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/detail-3.webp",
+      "hash": "4c50308366a114fcf59f433964b21b54f6b732a86495b4c876cbf0092737a7de",
+      "width": 480,
+      "height": 480,
+      "size": 37566,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/detail-4.webp",
+      "hash": "bec399ba26d6539179b4e016b27e92533ebd34098aaf0a081136bd19480ec645",
+      "width": 480,
+      "height": 480,
+      "size": 24292,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/chelsea/1998-2000/sem-versao/camisa-chelsea-retro-1998-2000-branca-umbro/detail-5.webp",
+      "hash": "a73ac89fb78239bb4c3efbacc680dbb25e043f2065b5ee4d0a5e9db8d766607f",
+      "width": 480,
+      "height": 480,
+      "size": 13068,
+      "createdAt": "2026-07-09T16:36:38Z",
+      "updatedAt": "2026-07-09T16:36:38Z"
+    }
+  ]
+}

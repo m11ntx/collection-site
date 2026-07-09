@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azul-e-braqnco",
+  "createdAt": "2026-07-09T16:39:22Z",
+  "updatedAt": "2026-07-09T16:39:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/front.webp",
+      "hash": "17e1ac9ed7fe5850229b41434635e2ce0577a8115b2cbf5c08d5495fe4c0f6aa",
+      "width": 480,
+      "height": 480,
+      "size": 36662,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/back.webp",
+      "hash": "201b094892634c522f367349c7f773098a79691dc79e39e671c4b2fe9e8766eb",
+      "width": 480,
+      "height": 480,
+      "size": 36690,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/detail-1.webp",
+      "hash": "0bf466a136424d0ff43cfbb11d91662ad4011beb9175ecdf89e1edea8bd39f66",
+      "width": 480,
+      "height": 480,
+      "size": 59712,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/detail-2.webp",
+      "hash": "83d055ec7a03fae82356968fa00e7bff28ac87fc0955c41693afae30cf541ffb",
+      "width": 480,
+      "height": 480,
+      "size": 55932,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/detail-3.webp",
+      "hash": "7702243fc54e3767f936cccd3232bc7d17c31fdc438624a1469194bd6f0ab4ce",
+      "width": 480,
+      "height": 480,
+      "size": 35890,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/detail-4.webp",
+      "hash": "cca7f51e4ad8a350e53f08888f797550584f9fda2ec2370e862c84b9cdb8cca0",
+      "width": 480,
+      "height": 480,
+      "size": 57838,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/91-93/fan/camisa-manchester-united-away-retro-91-93-torcedor-adidas-masculina-azu-7fdee297/detail-5.webp",
+      "hash": "01df042e5e7df85365e531587fd65f5d4ce913d271a3ace61ca255f1d08fe4aa",
+      "width": 480,
+      "height": 480,
+      "size": 56882,
+      "createdAt": "2026-07-09T16:39:22Z",
+      "updatedAt": "2026-07-09T16:39:22Z"
+    }
+  ]
+}

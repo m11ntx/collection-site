@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja",
+  "createdAt": "2026-07-09T16:42:54Z",
+  "updatedAt": "2026-07-09T16:42:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/front.webp",
+      "hash": "9a165073de6185352891a583b1eb56cc670d6228dcadc7b5e5f07220d752f723",
+      "width": 480,
+      "height": 480,
+      "size": 8802,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/back.webp",
+      "hash": "d188c5e1e5f0371f6cfedf5345dbdaf35fa164222a3d847da34549e0a67c55f3",
+      "width": 480,
+      "height": 480,
+      "size": 6028,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/detail-1.webp",
+      "hash": "aebd64235ab6512210fef841dbfeddd78417c5f6e09e0aa69d0883f84a3797c4",
+      "width": 480,
+      "height": 480,
+      "size": 9406,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/detail-2.webp",
+      "hash": "fac77b5d82ae85d417ba18ab9716099f7b93eed6e61b97c924c28ba6980e7acb",
+      "width": 480,
+      "height": 480,
+      "size": 17080,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/detail-3.webp",
+      "hash": "a864ba1040148d3de70984d2a327252bd216dc8c2558d16f651ffa08c446c506",
+      "width": 480,
+      "height": 480,
+      "size": 15106,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/detail-4.webp",
+      "hash": "59ce6057600ddb14ed56b17fb1d19dc6fdceec5645e3f1c1b702126efb0095c3",
+      "width": 480,
+      "height": 480,
+      "size": 36818,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/2010/sem-versao/camisa-retro-selecao-da-holanda-i-2010-nike-masculina-laranja/detail-5.webp",
+      "hash": "0ef27e698b794d49c26882edb1dbca2b3d442b9df35f550bed9d4389ecbf1534",
+      "width": 480,
+      "height": 480,
+      "size": 34084,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    }
+  ]
+}

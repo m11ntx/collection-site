@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-retro-2015-16-preto-e-branco",
+  "createdAt": "2026-07-09T16:36:52Z",
+  "updatedAt": "2026-07-09T16:36:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2015-16/fan/camisa-corinthians-retro-2015-16-preto-e-branco/front.webp",
+      "hash": "e0c6e511137cfd9ecf3fded0d2a14a627cf468432d043c0e0e8f5c361708603c",
+      "width": 480,
+      "height": 480,
+      "size": 12146,
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2015-16/fan/camisa-corinthians-retro-2015-16-preto-e-branco/back.webp",
+      "hash": "74a37cb583b9a6c624f527d86703be14c540bfe0c158308c47f38fa7d003f0ee",
+      "width": 480,
+      "height": 480,
+      "size": 7334,
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detalhes-em-laranja",
+  "createdAt": "2026-07-09T16:42:53Z",
+  "updatedAt": "2026-07-09T16:42:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/front.webp",
+      "hash": "82307b4e89b4baa8f2bec47c26c0af4e0656ee661dcb7647133e55ce81d50169",
+      "width": 480,
+      "height": 480,
+      "size": 6376,
+      "createdAt": "2026-07-09T16:42:52Z",
+      "updatedAt": "2026-07-09T16:42:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/back.webp",
+      "hash": "57d8fc5e029cd0a7f87897d22d97ef02d036885446b1887cdc661027da1ef1b4",
+      "width": 480,
+      "height": 480,
+      "size": 10558,
+      "createdAt": "2026-07-09T16:42:52Z",
+      "updatedAt": "2026-07-09T16:42:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/detail-1.webp",
+      "hash": "cc31ba7be57002fc417dd2868c2ac8865aa9e0d248ec6959c6f95a81cc6af07a",
+      "width": 480,
+      "height": 480,
+      "size": 6354,
+      "createdAt": "2026-07-09T16:42:52Z",
+      "updatedAt": "2026-07-09T16:42:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/detail-2.webp",
+      "hash": "a90935e015a411247563d1d3411c6f0e36aafd1ca5d93954a68dd1324c07632f",
+      "width": 480,
+      "height": 480,
+      "size": 22628,
+      "createdAt": "2026-07-09T16:42:52Z",
+      "updatedAt": "2026-07-09T16:42:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/detail-3.webp",
+      "hash": "261f2f90dc57996aa7c158c11d27f30f5d7a1b6305aebf26167e7310b63122c6",
+      "width": 480,
+      "height": 480,
+      "size": 29462,
+      "createdAt": "2026-07-09T16:42:52Z",
+      "updatedAt": "2026-07-09T16:42:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/detail-4.webp",
+      "hash": "c36d490e9abed1b3661eea9084fcf75711b502c7857f661d87620cc03a4fdff1",
+      "width": 480,
+      "height": 480,
+      "size": 19000,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-ii-2004-masculina-nike-branca-com-detal-d658cad6/detail-5.webp",
+      "hash": "eb4ba3d94a583e07d518adafd77e10061f90d9fc3c46da986965ec0961e5151f",
+      "width": 480,
+      "height": 480,
+      "size": 9790,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    }
+  ]
+}

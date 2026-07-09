@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-corinthians-retro-mundial-2000-branca",
+  "createdAt": "2026-07-09T16:36:53Z",
+  "updatedAt": "2026-07-09T16:36:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-branca/front.webp",
+      "hash": "56864a480463285bd4d35e2dfca4635b7673db0a53b462b739995f8324dafb10",
+      "width": 480,
+      "height": 480,
+      "size": 9090,
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-branca/back.webp",
+      "hash": "c2b7dd3affabd886d5b8c2f4ea0412d102e4fd6b0487e2f26683c1c5952b04c0",
+      "width": 480,
+      "height": 480,
+      "size": 4920,
+      "createdAt": "2026-07-09T16:36:53Z",
+      "updatedAt": "2026-07-09T16:36:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-branca/detail-1.webp",
+      "hash": "875e8234b0eacaafec104a7a1d5345d53dcf8f9bf1f570c21b935c2a1994ba79",
+      "width": 480,
+      "height": 480,
+      "size": 26972,
+      "createdAt": "2026-07-09T16:36:53Z",
+      "updatedAt": "2026-07-09T16:36:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-branca/detail-2.webp",
+      "hash": "72a32cf2665513562415d40ba37c2a58cd8a8fdd3b97bacf7f9aa2a61e2ba4dd",
+      "width": 480,
+      "height": 480,
+      "size": 25390,
+      "createdAt": "2026-07-09T16:36:53Z",
+      "updatedAt": "2026-07-09T16:36:53Z"
+    }
+  ]
+}

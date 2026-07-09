@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-croacia-i-26-27-torcedor-nike-masculina-branca-e-vermelha",
+  "createdAt": "2026-07-09T16:43:14Z",
+  "updatedAt": "2026-07-09T16:43:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/croacia/26-27/fan/camisa-selecao-croacia-i-26-27-torcedor-nike-masculina-branca-e-vermelha/front.webp",
+      "hash": "ee356a6cc655e826742bbb0c95273ab43cc37527891b10b59dae47c59ac64ee7",
+      "width": 480,
+      "height": 480,
+      "size": 14326,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/croacia/26-27/fan/camisa-selecao-croacia-i-26-27-torcedor-nike-masculina-branca-e-vermelha/back.webp",
+      "hash": "7394651e6c5c4fc2552a873de63164ba58915f2e794d44964bf083d55c8b04cf",
+      "width": 480,
+      "height": 480,
+      "size": 9190,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    }
+  ]
+}

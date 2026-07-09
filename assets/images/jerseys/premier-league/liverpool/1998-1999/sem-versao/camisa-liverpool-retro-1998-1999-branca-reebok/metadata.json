@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-retro-1998-1999-branca-reebok",
+  "createdAt": "2026-07-09T16:43:22Z",
+  "updatedAt": "2026-07-09T16:43:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/front.webp",
+      "hash": "9f2a7b79e6cfc8db35e83fa4dde85ab2993986495b29e5cfdc557aae69057aa4",
+      "width": 480,
+      "height": 480,
+      "size": 10186,
+      "createdAt": "2026-07-09T16:43:21Z",
+      "updatedAt": "2026-07-09T16:43:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/back.webp",
+      "hash": "1f66f28d06f21e8c9a8772f1fe0ef5828571b521a7237c496d0e7fcf084be138",
+      "width": 480,
+      "height": 480,
+      "size": 6716,
+      "createdAt": "2026-07-09T16:43:21Z",
+      "updatedAt": "2026-07-09T16:43:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/detail-1.webp",
+      "hash": "34383a85692979e0d1ca36b47aadd5ef9f975c5e9ea9ec3af09b62915e4e74aa",
+      "width": 480,
+      "height": 480,
+      "size": 52662,
+      "createdAt": "2026-07-09T16:43:21Z",
+      "updatedAt": "2026-07-09T16:43:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/detail-2.webp",
+      "hash": "62dc1f258ff94e5eb36660a5e5f7457b0637100cd0a4591a833b798a20752e57",
+      "width": 480,
+      "height": 480,
+      "size": 24156,
+      "createdAt": "2026-07-09T16:43:21Z",
+      "updatedAt": "2026-07-09T16:43:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/detail-3.webp",
+      "hash": "84d967357962bbba3dba1aa87f77dc4bacbc6f9d6c0d84596129fc1e042f1bae",
+      "width": 480,
+      "height": 480,
+      "size": 81128,
+      "createdAt": "2026-07-09T16:43:21Z",
+      "updatedAt": "2026-07-09T16:43:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/detail-4.webp",
+      "hash": "aef2a0cbaebd11bf6a4d8bbe3ff5339b589012e2d49fd4420987d6632dc6e5ba",
+      "width": 480,
+      "height": 480,
+      "size": 69448,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/1998-1999/sem-versao/camisa-liverpool-retro-1998-1999-branca-reebok/detail-5.webp",
+      "hash": "dd4dbae3a1dd02641c685cdb13b0053062bd4e439dc0b989eec2fe702a26a1a8",
+      "width": 480,
+      "height": 480,
+      "size": 46808,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    }
+  ]
+}

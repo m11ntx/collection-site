@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-lazio-1998-2000-puma-masculina-branca",
+  "createdAt": "2026-07-09T16:42:03Z",
+  "updatedAt": "2026-07-09T16:42:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/front.webp",
+      "hash": "b6109df36199a18a823ccfacac6eb569561ee9e257818dc05d0f6661b7c02cb8",
+      "width": 480,
+      "height": 480,
+      "size": 13684,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/back.webp",
+      "hash": "f2420abc454a264728bc2c095e87bac32030f16dcb9846514984602b5ab532d8",
+      "width": 480,
+      "height": 480,
+      "size": 6458,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/detail-1.webp",
+      "hash": "5fd8e78fe8c3813e8f617245281644a6b468c980697d92660803ce4ed66c7f6e",
+      "width": 480,
+      "height": 480,
+      "size": 41722,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/detail-2.webp",
+      "hash": "cac8d34b3ba3782a9501ba2e3a78e3df64dcccc2bca4f79c35a918cdd8f72263",
+      "width": 480,
+      "height": 480,
+      "size": 37040,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/detail-3.webp",
+      "hash": "b89806f7fa2b7e07ff3bcba3f0682094d2d8c13de4d09ad59545af089c21424e",
+      "width": 480,
+      "height": 480,
+      "size": 47072,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/detail-4.webp",
+      "hash": "c99cdbe753dfdc72f94fbd8c920e14e1ec04aa2ada243f00d776a70b2feb46cf",
+      "width": 480,
+      "height": 480,
+      "size": 42702,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/lazio/1998-2000/sem-versao/camisa-retro-lazio-1998-2000-puma-masculina-branca/detail-5.webp",
+      "hash": "c558b5c0f6566455b250d01ef2d70d8ae3c6516723bcc466c80151eedfc401d8",
+      "width": 480,
+      "height": 480,
+      "size": 29660,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    }
+  ]
+}

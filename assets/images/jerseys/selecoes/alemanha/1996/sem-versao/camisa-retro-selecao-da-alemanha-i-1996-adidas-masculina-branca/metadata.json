@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca",
+  "createdAt": "2026-07-09T16:35:26Z",
+  "updatedAt": "2026-07-09T16:35:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/front.webp",
+      "hash": "0b2d499e068b441b8aff0ae884ddc04e727d8d0f9dc83a4d2a1b036fdac59c85",
+      "width": 480,
+      "height": 480,
+      "size": 8934,
+      "createdAt": "2026-07-09T16:35:25Z",
+      "updatedAt": "2026-07-09T16:35:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/back.webp",
+      "hash": "555f22fba14f709a14d25b3794672bd4180d82b1de0b7ef44f34bf24fbce6eb1",
+      "width": 480,
+      "height": 480,
+      "size": 4426,
+      "createdAt": "2026-07-09T16:35:25Z",
+      "updatedAt": "2026-07-09T16:35:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/detail-1.webp",
+      "hash": "09bb7ecb87edb2207b544759edccdf72fb931dd6e13e7cf758d4902259b22607",
+      "width": 480,
+      "height": 480,
+      "size": 18864,
+      "createdAt": "2026-07-09T16:35:25Z",
+      "updatedAt": "2026-07-09T16:35:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/detail-2.webp",
+      "hash": "5a751c33ea7e2faa606b2dd4edad9fff5aa2f7ed8390e4093c3fc3a797ee3ed0",
+      "width": 480,
+      "height": 480,
+      "size": 26584,
+      "createdAt": "2026-07-09T16:35:25Z",
+      "updatedAt": "2026-07-09T16:35:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/detail-3.webp",
+      "hash": "cc4e94bc3f8828da737efce7969a693f3b7dcbc3ff8e6a16ef13b5afa1e1e7ab",
+      "width": 480,
+      "height": 480,
+      "size": 18470,
+      "createdAt": "2026-07-09T16:35:25Z",
+      "updatedAt": "2026-07-09T16:35:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/detail-4.webp",
+      "hash": "60a35b108312ff137ff51289169108a185b956078ace636d76e3e8709169e046",
+      "width": 480,
+      "height": 480,
+      "size": 17028,
+      "createdAt": "2026-07-09T16:35:26Z",
+      "updatedAt": "2026-07-09T16:35:26Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-i-1996-adidas-masculina-branca/detail-5.webp",
+      "hash": "bc745b605b10f61f806bd04affadd033a36e551c43bc5f8ef353bb90e1f57545",
+      "width": 480,
+      "height": 480,
+      "size": 18264,
+      "createdAt": "2026-07-09T16:35:26Z",
+      "updatedAt": "2026-07-09T16:35:26Z"
+    }
+  ]
+}

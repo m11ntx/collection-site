@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T16:41:42Z",
+  "updatedAt": "2026-07-09T16:41:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/front.webp",
+      "hash": "b486a32e1e765eb668fb352e46c3321b35076308590cb12a8d63338cfc30112d",
+      "width": 480,
+      "height": 480,
+      "size": 8620,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/back.webp",
+      "hash": "883e37f9bd03ae479af8b8d7f8651d03c0cb37f2f26a47173d96efe45f6ac397",
+      "width": 480,
+      "height": 480,
+      "size": 4130,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/detail-1.webp",
+      "hash": "f6a28cfdfd8f611ce659c1ecacf024cab86aca5e749f54aeae8daebfb8e5c6e9",
+      "width": 480,
+      "height": 480,
+      "size": 13230,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/detail-2.webp",
+      "hash": "e26c1b5767ea6d12852b8460aca8d4ff80e8ef1804be7a8db97ef4160b68eda1",
+      "width": 480,
+      "height": 480,
+      "size": 20958,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/detail-3.webp",
+      "hash": "a5ec4fc551e54dce6dccccfa5dc4ca44847fcbdefa4b2610a5906f12af2e36f5",
+      "width": 480,
+      "height": 480,
+      "size": 6892,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/detail-4.webp",
+      "hash": "fd4afbaf4fc5ff02f8756fa0238d4e2bafc7a2cf65dfaf3125d626ca9f30e205",
+      "width": 480,
+      "height": 480,
+      "size": 12708,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-masculina-umbro-branca-com-de-9c1e574d/detail-5.webp",
+      "hash": "95259f7b0df8988e2f88cdb97b8ae8efdf8e5e90f92f519a5d150d01a8ce8da1",
+      "width": 480,
+      "height": 480,
+      "size": 13450,
+      "createdAt": "2026-07-09T16:41:42Z",
+      "updatedAt": "2026-07-09T16:41:42Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila",
+  "createdAt": "2026-07-09T16:38:19Z",
+  "updatedAt": "2026-07-09T16:38:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/front.webp",
+      "hash": "1f391737fdea1da705b9dfdd4079cc7d5d0a98c0d4c04bf6f3b06f1ec79d2d7d",
+      "width": 480,
+      "height": 480,
+      "size": 13272,
+      "createdAt": "2026-07-09T16:38:18Z",
+      "updatedAt": "2026-07-09T16:38:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/back.webp",
+      "hash": "cf546163e5506228c14d6fdf233aa8bbf1d65f92f91661ae55e7e95d3a6141c3",
+      "width": 480,
+      "height": 480,
+      "size": 10294,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/detail-1.webp",
+      "hash": "f53ea274f8db234b2bfad467578b0e1bcdf0964707905fa8b65c5513ed24f0ba",
+      "width": 480,
+      "height": 480,
+      "size": 59178,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/detail-2.webp",
+      "hash": "133136a418ecd8b31de3d149ba79c5f1b0f8cae240192a550e960e7fa53d57be",
+      "width": 480,
+      "height": 480,
+      "size": 54022,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/detail-3.webp",
+      "hash": "947c48bb9857a2c5f61f2402613a9ba8b9cda270886b25d00703c2f994a87aa7",
+      "width": 480,
+      "height": 480,
+      "size": 33502,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/detail-4.webp",
+      "hash": "9d14adfd75ff3c57707897dd9a6fb41dadc3be3bd1d925ca414f15a77d633291",
+      "width": 480,
+      "height": 480,
+      "size": 21422,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1999-2000/sem-versao/camisa-fiorentina-retro-1999-2000-roxa-e-branca-fila/detail-5.webp",
+      "hash": "8ec3f3be7474d39423947e7c675d57b9e1ad777180fd29a2a2645909c220eb5f",
+      "width": 480,
+      "height": 480,
+      "size": 32540,
+      "createdAt": "2026-07-09T16:38:19Z",
+      "updatedAt": "2026-07-09T16:38:19Z"
+    }
+  ]
+}

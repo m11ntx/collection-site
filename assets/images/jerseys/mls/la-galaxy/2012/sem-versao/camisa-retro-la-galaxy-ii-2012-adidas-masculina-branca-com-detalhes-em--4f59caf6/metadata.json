@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em-azul-com-todos-os-patrocinios",
+  "createdAt": "2026-07-09T16:42:02Z",
+  "updatedAt": "2026-07-09T16:42:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/front.webp",
+      "hash": "9c7a350dc60feef4f4a02c8fff393155a5302b93515ca5c4060a6a1e0d046441",
+      "width": 480,
+      "height": 480,
+      "size": 10704,
+      "createdAt": "2026-07-09T16:42:01Z",
+      "updatedAt": "2026-07-09T16:42:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/back.webp",
+      "hash": "1dc95d47d9ebf74c1e970add940d8cd47d4b327d514c5e73282caab07402d4f9",
+      "width": 480,
+      "height": 480,
+      "size": 18074,
+      "createdAt": "2026-07-09T16:42:01Z",
+      "updatedAt": "2026-07-09T16:42:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/detail-1.webp",
+      "hash": "42fe856a51ec05e15d53bd326def3107c5f801d5be7e511ca7244306a7d8a976",
+      "width": 480,
+      "height": 480,
+      "size": 3862,
+      "createdAt": "2026-07-09T16:42:01Z",
+      "updatedAt": "2026-07-09T16:42:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/detail-2.webp",
+      "hash": "9278f8e6bde30acd83a3bfdee74a3dd83ab147839998f4f6a52a6ef336fcfb32",
+      "width": 480,
+      "height": 480,
+      "size": 18322,
+      "createdAt": "2026-07-09T16:42:01Z",
+      "updatedAt": "2026-07-09T16:42:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/detail-3.webp",
+      "hash": "4900d22d1f6f34deb35f88b900f806893f1ef22d1abf181d56307bee9e5e15bb",
+      "width": 480,
+      "height": 480,
+      "size": 37344,
+      "createdAt": "2026-07-09T16:42:01Z",
+      "updatedAt": "2026-07-09T16:42:01Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/detail-4.webp",
+      "hash": "59d6162429f736ee5bdf66a9196cd23eb36582c2ec82e1f6e04e83a7807b967d",
+      "width": 480,
+      "height": 480,
+      "size": 15978,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/mls/la-galaxy/2012/sem-versao/camisa-retro-la-galaxy-ii-2012-adidas-masculina-branca-com-detalhes-em--4f59caf6/detail-5.webp",
+      "hash": "17bf99cdaf41d31e41d9933b581d77b57084c3cd1692b3e63121bb9be01695f9",
+      "width": 480,
+      "height": 480,
+      "size": 7176,
+      "createdAt": "2026-07-09T16:42:02Z",
+      "updatedAt": "2026-07-09T16:42:02Z"
+    }
+  ]
+}

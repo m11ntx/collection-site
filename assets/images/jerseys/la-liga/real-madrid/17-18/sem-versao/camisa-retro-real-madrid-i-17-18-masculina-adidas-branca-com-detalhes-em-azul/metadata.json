@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:44:24Z",
+  "updatedAt": "2026-07-09T16:44:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/front.webp",
+      "hash": "ca68cf6baceea284a4864169e5de19e62c8dfb470cb51ed17fdd099f97977ef9",
+      "width": 480,
+      "height": 480,
+      "size": 6892,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/back.webp",
+      "hash": "279324bc7299acd830f704329de2bbd78fdd184c76fbe0c997dd06b65b0341d6",
+      "width": 480,
+      "height": 480,
+      "size": 3034,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "1be2a3933fbfb8b8fbdd125fb2d071e00c588644d55beadf98ad7a3ff200bd0b",
+      "width": 480,
+      "height": 480,
+      "size": 14356,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "5357743c3f136fdf3f1b68b9bf2e2c37f9ebb00eb8bdb28966d0591c354a1b99",
+      "width": 480,
+      "height": 480,
+      "size": 51090,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/detail-3.webp",
+      "hash": "52919ec19808e232f1dcd22c2a0dc862dffcd5c0a2245b4cca344c54eef1e1d2",
+      "width": 480,
+      "height": 480,
+      "size": 63224,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-branca-com-detalhes-em-azul/detail-4.webp",
+      "hash": "c45d5bd0b0c211d0a0852e108a4b273b37a775da1d143fea8af23068b4ba0aea",
+      "width": 480,
+      "height": 480,
+      "size": 15824,
+      "createdAt": "2026-07-09T16:44:24Z",
+      "updatedAt": "2026-07-09T16:44:24Z"
+    }
+  ]
+}

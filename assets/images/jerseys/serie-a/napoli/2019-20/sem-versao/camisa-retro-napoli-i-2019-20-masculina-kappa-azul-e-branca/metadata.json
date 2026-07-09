@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-napoli-i-2019-20-masculina-kappa-azul-e-branca",
+  "createdAt": "2026-07-09T16:42:16Z",
+  "updatedAt": "2026-07-09T16:42:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/2019-20/sem-versao/camisa-retro-napoli-i-2019-20-masculina-kappa-azul-e-branca/front.webp",
+      "hash": "811e03dbf20bca6d58e9a1da83fe12ff21e164b2eb1c38bee93ad21290f4459c",
+      "width": 480,
+      "height": 480,
+      "size": 20966,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/2019-20/sem-versao/camisa-retro-napoli-i-2019-20-masculina-kappa-azul-e-branca/back.webp",
+      "hash": "ea6f3f0bef43aa8c83c77de8bf30f7b3f4cee8ce129cea2751e031c1f2abecb5",
+      "width": 480,
+      "height": 480,
+      "size": 7790,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    }
+  ]
+}

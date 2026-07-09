@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul",
+  "createdAt": "2026-07-09T16:42:56Z",
+  "updatedAt": "2026-07-09T16:42:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/front.webp",
+      "hash": "b2a730640df0e4be9966b76585083ee2d12a5d859b821dde2e62552221e0fafc",
+      "width": 480,
+      "height": 480,
+      "size": 34926,
+      "createdAt": "2026-07-09T16:42:55Z",
+      "updatedAt": "2026-07-09T16:42:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/back.webp",
+      "hash": "ce8610d13b3b3511a0c4d9406ff327e587d45c9dfe05a42ceb5585611e09b848",
+      "width": 480,
+      "height": 480,
+      "size": 34548,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/detail-1.webp",
+      "hash": "211f2a1e344e284566d6ca31328d59a2ba77a0b20abdc329958876247b75f1db",
+      "width": 480,
+      "height": 480,
+      "size": 64138,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/detail-2.webp",
+      "hash": "47ad66f3fac54795172967b82b090c751930dfe5e8561dd0f9baac5db1ea2954",
+      "width": 480,
+      "height": 480,
+      "size": 57336,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/detail-3.webp",
+      "hash": "169a5453e611238e10db92cc9d469c73e65889b781cc9d6cf697e64e2a5bc2b2",
+      "width": 480,
+      "height": 480,
+      "size": 77568,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/detail-4.webp",
+      "hash": "04176c36da756ed850ebf758f1616e93c10a508591a1d8b646964c538fe64d79",
+      "width": 480,
+      "height": 480,
+      "size": 69496,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-ii-1988-adidas-masculina-azul/detail-5.webp",
+      "hash": "5f9757be936117522a83b7558b9c5a10194e05c8b867cf0196cf219f0058939b",
+      "width": 480,
+      "height": 480,
+      "size": 46342,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-ajax-retro-1990-azul-umbro",
+  "createdAt": "2026-07-09T16:35:18Z",
+  "updatedAt": "2026-07-09T16:35:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/front.webp",
+      "hash": "55ff6b2bbf89d91fb5f8109bec4bfa211f5667455b5d961daebe662d3b66e8a7",
+      "width": 480,
+      "height": 480,
+      "size": 26478,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/back.webp",
+      "hash": "6a0ac9740de5e0a582d63f8003b9f97c4e1f72566ffd54f8e915f0236d0a0c06",
+      "width": 480,
+      "height": 480,
+      "size": 23210,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/detail-1.webp",
+      "hash": "0a4f0bdc1e0173b128e42db457435c270e3cf9d55c2272282330f38ed34dea3a",
+      "width": 480,
+      "height": 480,
+      "size": 34232,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/detail-2.webp",
+      "hash": "eea172ce829e99e9f4aa1a2c9f5e16ebdbc3576f34aa8f1f753d4a6e2b632e49",
+      "width": 480,
+      "height": 480,
+      "size": 36312,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/detail-3.webp",
+      "hash": "4975275edded67eeefb3c4fb4a3fd9b65a47ca2387133b76056ee8eb53bd4aab",
+      "width": 480,
+      "height": 480,
+      "size": 21344,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/detail-4.webp",
+      "hash": "ef657a6f6c9f2e3e228aabe61db553b23f95f1681811fa613aaccc21953b8b8e",
+      "width": 480,
+      "height": 480,
+      "size": 47014,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/eredivisie/ajax/1990/sem-versao/camisa-ajax-retro-1990-azul-umbro/detail-5.webp",
+      "hash": "e8e2adf0a8507a33df203502e2683412b406b9c15cd15287432cd7b42290c4d8",
+      "width": 480,
+      "height": 480,
+      "size": 41416,
+      "createdAt": "2026-07-09T16:35:18Z",
+      "updatedAt": "2026-07-09T16:35:18Z"
+    }
+  ]
+}

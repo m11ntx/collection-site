@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalhes-em-verde-e-laranja",
+  "createdAt": "2026-07-09T16:43:32Z",
+  "updatedAt": "2026-07-09T16:43:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/front.webp",
+      "hash": "eacbce7e973122cba4c7c429eccfa1a8bcfebaef1defdceb30fdece9276dc78b",
+      "width": 480,
+      "height": 480,
+      "size": 8578,
+      "createdAt": "2026-07-09T16:43:31Z",
+      "updatedAt": "2026-07-09T16:43:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/back.webp",
+      "hash": "eef74ed1093052c5c5fc3ed046b693e55ea2af453aed3bc6328cb6f24f0f45d3",
+      "width": 480,
+      "height": 480,
+      "size": 5070,
+      "createdAt": "2026-07-09T16:43:31Z",
+      "updatedAt": "2026-07-09T16:43:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/detail-1.webp",
+      "hash": "7567c7274c6d859b4a102c0da3e09dfa6bdd7b9f9e0e230ed8419d63363a6f1f",
+      "width": 480,
+      "height": 480,
+      "size": 17352,
+      "createdAt": "2026-07-09T16:43:31Z",
+      "updatedAt": "2026-07-09T16:43:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/detail-2.webp",
+      "hash": "b10a82a69e5e2c4a42166468afcba298b9f445d208af20ac1aa87b81db355bdc",
+      "width": 480,
+      "height": 480,
+      "size": 32788,
+      "createdAt": "2026-07-09T16:43:31Z",
+      "updatedAt": "2026-07-09T16:43:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/detail-3.webp",
+      "hash": "0911f368e5186ff737dc053f7efee8eb31452591c43c71b9d097d5656a0c4aa3",
+      "width": 480,
+      "height": 480,
+      "size": 67910,
+      "createdAt": "2026-07-09T16:43:31Z",
+      "updatedAt": "2026-07-09T16:43:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/97-98/sem-versao/camisa-newcastle-united-ii-retro-97-98-adidas-masculina-azul-com-detalh-99288f7a/detail-4.webp",
+      "hash": "a16c4a4e3276c6dd2757b7e3b8c762b016610eac3a9e46e0efd5176cea42721e",
+      "width": 480,
+      "height": 480,
+      "size": 17610,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    }
+  ]
+}

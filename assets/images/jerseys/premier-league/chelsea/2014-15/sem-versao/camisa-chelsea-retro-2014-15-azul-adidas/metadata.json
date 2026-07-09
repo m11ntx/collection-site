@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-chelsea-retro-2014-15-azul-adidas",
+  "createdAt": "2026-07-09T16:36:43Z",
+  "updatedAt": "2026-07-09T16:36:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/2014-15/sem-versao/camisa-chelsea-retro-2014-15-azul-adidas/front.webp",
+      "hash": "e3fc2f962bedd8daf414afdeba82e0a327bc2152a3e83f128ae28ab11554ac8b",
+      "width": 480,
+      "height": 480,
+      "size": 12690,
+      "createdAt": "2026-07-09T16:36:42Z",
+      "updatedAt": "2026-07-09T16:36:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/2014-15/sem-versao/camisa-chelsea-retro-2014-15-azul-adidas/back.webp",
+      "hash": "1479c7aab2a39b1942a2cc91fe03523aabfb550d465be9f5706ad649f05218c9",
+      "width": 480,
+      "height": 480,
+      "size": 5604,
+      "createdAt": "2026-07-09T16:36:42Z",
+      "updatedAt": "2026-07-09T16:36:42Z"
+    }
+  ]
+}

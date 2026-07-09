@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T16:44:08Z",
+  "updatedAt": "2026-07-09T16:44:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/front.webp",
+      "hash": "3cca3c93634ac0b0b2ea019614ef6248a7baa5e49a2744752a9bd51c95f165c1",
+      "width": 480,
+      "height": 480,
+      "size": 8160,
+      "createdAt": "2026-07-09T16:44:07Z",
+      "updatedAt": "2026-07-09T16:44:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/back.webp",
+      "hash": "f827a430ba31628e82626cc0c6d03544fac3169ce8b640b8330b73525bf4891e",
+      "width": 480,
+      "height": 480,
+      "size": 5246,
+      "createdAt": "2026-07-09T16:44:07Z",
+      "updatedAt": "2026-07-09T16:44:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "283cf585c40065a5dc1516ec24b8117726b11f6b955c6b50c563e8887e9f5305",
+      "width": 480,
+      "height": 480,
+      "size": 14534,
+      "createdAt": "2026-07-09T16:44:07Z",
+      "updatedAt": "2026-07-09T16:44:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "61b52746985a4cdacccb47f8d4d23e9799cb695e0b045dca28797d4f4525124b",
+      "width": 480,
+      "height": 480,
+      "size": 60976,
+      "createdAt": "2026-07-09T16:44:07Z",
+      "updatedAt": "2026-07-09T16:44:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "ee90027a1bb49b790dd3c2fa5ecfd505ee52f33a231a7913c662d8a628da5e7c",
+      "width": 480,
+      "height": 480,
+      "size": 70234,
+      "createdAt": "2026-07-09T16:44:07Z",
+      "updatedAt": "2026-07-09T16:44:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/detail-4.webp",
+      "hash": "80141634db081a94e57e885ec395d52b29eb99870c240f0a8975de4eccea5fdc",
+      "width": 480,
+      "height": 480,
+      "size": 15482,
+      "createdAt": "2026-07-09T16:44:08Z",
+      "updatedAt": "2026-07-09T16:44:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-masculina-adidas-laranja-com-detalhes-em-cinza/detail-5.webp",
+      "hash": "300eb92d4dfcbc6a7e31b5122fdf209413192787dec6608b94d9af572b144186",
+      "width": 480,
+      "height": 480,
+      "size": 13588,
+      "createdAt": "2026-07-09T16:44:08Z",
+      "updatedAt": "2026-07-09T16:44:08Z"
+    }
+  ]
+}

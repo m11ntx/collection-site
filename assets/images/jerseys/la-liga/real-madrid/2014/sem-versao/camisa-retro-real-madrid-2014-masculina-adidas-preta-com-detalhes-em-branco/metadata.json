@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:44:02Z",
+  "updatedAt": "2026-07-09T16:44:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/front.webp",
+      "hash": "01649bbb29842aa929339243fa669b40594f75064f72b37a7080332ac148e8e3",
+      "width": 480,
+      "height": 480,
+      "size": 15462,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/back.webp",
+      "hash": "b6426ec3845e146d34f8403357ec658f679f05a3776ab840fb91d0627c779b53",
+      "width": 480,
+      "height": 480,
+      "size": 6970,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/detail-1.webp",
+      "hash": "0b8577304acc6416e47c7728c3751e0bdec04c905ac2396d6db985a97dddb711",
+      "width": 480,
+      "height": 480,
+      "size": 24190,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/detail-2.webp",
+      "hash": "b32817c0d4d00efd9957cac81110189ed076e530fd2f709e2d7cbc06ee795aea",
+      "width": 480,
+      "height": 480,
+      "size": 64506,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/detail-3.webp",
+      "hash": "b9f42650aaa406de3dcc58198dfaf2d1e115f60c7135d53cd9a46db30386ae18",
+      "width": 480,
+      "height": 480,
+      "size": 50628,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/detail-4.webp",
+      "hash": "550cb15b5264edb8219bb925b0749877702c0ad3cea321d85e25cd3271cdd772",
+      "width": 480,
+      "height": 480,
+      "size": 14232,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2014/sem-versao/camisa-retro-real-madrid-2014-masculina-adidas-preta-com-detalhes-em-branco/detail-5.webp",
+      "hash": "ee24f8790c4110d90113dfb25da6f3c1d99e3bfb05faae7d37e2c91a35b50d1b",
+      "width": 480,
+      "height": 480,
+      "size": 11974,
+      "createdAt": "2026-07-09T16:44:02Z",
+      "updatedAt": "2026-07-09T16:44:02Z"
+    }
+  ]
+}

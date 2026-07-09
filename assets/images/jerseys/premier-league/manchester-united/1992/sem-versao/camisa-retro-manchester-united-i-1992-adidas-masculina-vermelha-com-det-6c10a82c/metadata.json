@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:39:31Z",
+  "updatedAt": "2026-07-09T16:39:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/front.webp",
+      "hash": "1d3b8dbb6846e6a9fc70017a4737319a4ab1d7bee3d79f7f07b26dc857b65656",
+      "width": 480,
+      "height": 480,
+      "size": 19568,
+      "createdAt": "2026-07-09T16:39:30Z",
+      "updatedAt": "2026-07-09T16:39:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/back.webp",
+      "hash": "00267ffed209251ad3adc64032775adc571c5c5af7ab3668c7391a35341ba120",
+      "width": 480,
+      "height": 480,
+      "size": 17846,
+      "createdAt": "2026-07-09T16:39:30Z",
+      "updatedAt": "2026-07-09T16:39:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/detail-1.webp",
+      "hash": "ad8439f5c3b612a380cb044ea7ff3b0b1b07b5788a56f2c44abfef83600764c0",
+      "width": 480,
+      "height": 480,
+      "size": 38818,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/detail-2.webp",
+      "hash": "5676a4d89d6d773517a3f17d9c2edcd9a42e7aaa0d5fdca9ecbc6aa56659cade",
+      "width": 480,
+      "height": 480,
+      "size": 40590,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/detail-3.webp",
+      "hash": "6aff87c5307960556ab197f37a3775e675253ad5b1853f1ed6872380a6c77540",
+      "width": 480,
+      "height": 480,
+      "size": 29110,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/detail-4.webp",
+      "hash": "a630f99253439ac9aa56b138e49df398b720f65919ebe4dc3ac23d25a6f0c7de",
+      "width": 480,
+      "height": 480,
+      "size": 20994,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1992/sem-versao/camisa-retro-manchester-united-i-1992-adidas-masculina-vermelha-com-det-6c10a82c/detail-5.webp",
+      "hash": "ebd5aa18323c5401f48db23f4a5019945647bb2c2e83164822559257c22083e8",
+      "width": 480,
+      "height": 480,
+      "size": 32296,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    }
+  ]
+}

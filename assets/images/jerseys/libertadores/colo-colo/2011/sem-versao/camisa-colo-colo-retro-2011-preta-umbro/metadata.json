@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-colo-colo-retro-2011-preta-umbro",
+  "createdAt": "2026-07-09T16:36:51Z",
+  "updatedAt": "2026-07-09T16:36:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/front.webp",
+      "hash": "c7ce0dbbe195526b30c99c44fa59d81602dfeaef72a9b5c448cd59f34be48658",
+      "width": 480,
+      "height": 480,
+      "size": 13246,
+      "createdAt": "2026-07-09T16:36:50Z",
+      "updatedAt": "2026-07-09T16:36:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/back.webp",
+      "hash": "0f5cb8756d0175bc631ad7b80ab3ebb9e91e16ce73bbce05ae6ba1a16e6fb590",
+      "width": 480,
+      "height": 480,
+      "size": 12340,
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/detail-1.webp",
+      "hash": "183be8ad8d5c0ac0a3f08dabe042d2853ce07d18f20544658b5a2f20c5964ba1",
+      "width": 480,
+      "height": 480,
+      "size": 32484,
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/detail-2.webp",
+      "hash": "64483ed2cf474cdbf9784ddb69c3ee8a81b015cd3fca93a18050969d7d64def7",
+      "width": 480,
+      "height": 480,
+      "size": 24952,
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/detail-3.webp",
+      "hash": "bf9c69221ab1cfdffa6d39494c5b1611867796e9305f09aeffca96c148c1dfd2",
+      "width": 480,
+      "height": 480,
+      "size": 58052,
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2011/sem-versao/camisa-colo-colo-retro-2011-preta-umbro/detail-4.webp",
+      "hash": "ed729f6146e6fc358583a192b39ae837b3e0b547c031de64db144dff66b23199",
+      "width": 480,
+      "height": 480,
+      "size": 25304,
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
+    }
+  ]
+}

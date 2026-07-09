@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta",
+  "createdAt": "2026-07-09T16:40:43Z",
+  "updatedAt": "2026-07-09T16:40:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/front.webp",
+      "hash": "b11db5ded74a46e1f5ce185c63837f217a566cb8c7ee6544f3b39f568fde161f",
+      "width": 480,
+      "height": 480,
+      "size": 11152,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/back.webp",
+      "hash": "a2b53475c50ded6202e18119cc6355e7638df68802994cd89a83e9eaf70e3608",
+      "width": 480,
+      "height": 480,
+      "size": 7212,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/detail-1.webp",
+      "hash": "2db68714db7ccf1dcab44db50087bf1c6df754bed2a863da80545d75f8f6904b",
+      "width": 480,
+      "height": 480,
+      "size": 21278,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/detail-2.webp",
+      "hash": "d7aaec05d5cce8455eb9ce7b280a44b9703821c7770054c6d997eb1569ec66d4",
+      "width": 480,
+      "height": 480,
+      "size": 24036,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/detail-3.webp",
+      "hash": "adc863905c404dd80838a5a4fbb1af668777005b1cde55131d62ee79e1ab7420",
+      "width": 480,
+      "height": 480,
+      "size": 44622,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/detail-4.webp",
+      "hash": "bd5a05d022c670da47b77835f81488a2e0eea8bbd37af801d694a022db35f0f3",
+      "width": 480,
+      "height": 480,
+      "size": 56894,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-2013-2014-masculina-adidas-vermelha-e-preta/detail-5.webp",
+      "hash": "49a7fe8fece194bdcfc78fa02ba308f76254c2b9633a6c81e7d066f8de02ee4e",
+      "width": 480,
+      "height": 480,
+      "size": 22920,
+      "createdAt": "2026-07-09T16:40:43Z",
+      "updatedAt": "2026-07-09T16:40:43Z"
+    }
+  ]
+}

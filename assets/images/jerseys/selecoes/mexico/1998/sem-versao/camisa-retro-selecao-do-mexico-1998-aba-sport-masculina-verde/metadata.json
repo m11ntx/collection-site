@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde",
+  "createdAt": "2026-07-09T16:40:10Z",
+  "updatedAt": "2026-07-09T16:40:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/front.webp",
+      "hash": "ec67f888b95a479946cc56f5d74b8c31a8ba0e429c1c8c24cff902233325844a",
+      "width": 480,
+      "height": 480,
+      "size": 24144,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/back.webp",
+      "hash": "d8a05c7ed88d816105cc975825c25e0ef799a32290e0788b9cb8d222a26599ff",
+      "width": 480,
+      "height": 480,
+      "size": 24072,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/detail-1.webp",
+      "hash": "1ae13e585c62a5ef2b7c0f04c4cf93ee8f3f8845c0d175dae8a6ca1ea0117123",
+      "width": 480,
+      "height": 480,
+      "size": 27522,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/detail-2.webp",
+      "hash": "d414698efef1d93327504672c812907f2e8d5ef4b52c2b4d91938aaac8d69d69",
+      "width": 480,
+      "height": 480,
+      "size": 28728,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/detail-3.webp",
+      "hash": "0976d30850565e8b73f7aa8f319d02d1c49772632d18e95c52337935e8de184e",
+      "width": 480,
+      "height": 480,
+      "size": 29240,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/detail-4.webp",
+      "hash": "dd5af3cc07374ff1693e7bc7f4cf1d4eb20c115e0cbfa656de9d329873cf09a6",
+      "width": 480,
+      "height": 480,
+      "size": 18940,
+      "createdAt": "2026-07-09T16:40:09Z",
+      "updatedAt": "2026-07-09T16:40:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/1998/sem-versao/camisa-retro-selecao-do-mexico-1998-aba-sport-masculina-verde/detail-5.webp",
+      "hash": "8ea4d1f5311ffc9ef58010a91b89ea05996083012980e46a35cb228dc3dd6156",
+      "width": 480,
+      "height": 480,
+      "size": 35270,
+      "createdAt": "2026-07-09T16:40:10Z",
+      "updatedAt": "2026-07-09T16:40:10Z"
+    }
+  ]
+}

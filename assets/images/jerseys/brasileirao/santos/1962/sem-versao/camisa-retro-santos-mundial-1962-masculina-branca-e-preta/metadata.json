@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-retro-santos-mundial-1962-masculina-branca-e-preta",
+  "createdAt": "2026-07-09T16:42:34Z",
+  "updatedAt": "2026-07-09T16:42:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/1962/sem-versao/camisa-retro-santos-mundial-1962-masculina-branca-e-preta/front.webp",
+      "hash": "de6c55884089ead4dc8c5d9b2703b5fd5d8fd8608ef8790cbb5bad3890843e78",
+      "width": 480,
+      "height": 480,
+      "size": 12836,
+      "createdAt": "2026-07-09T16:42:34Z",
+      "updatedAt": "2026-07-09T16:42:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/1962/sem-versao/camisa-retro-santos-mundial-1962-masculina-branca-e-preta/back.webp",
+      "hash": "2466f76118a78e70874c600ef2bb69e639aa913cebb200ebf1f01dbd2b3305fd",
+      "width": 480,
+      "height": 480,
+      "size": 7620,
+      "createdAt": "2026-07-09T16:42:34Z",
+      "updatedAt": "2026-07-09T16:42:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/1962/sem-versao/camisa-retro-santos-mundial-1962-masculina-branca-e-preta/detail-1.webp",
+      "hash": "d5d9e5588481370df9c2fe7f327c572e691ab0c08b8b1e44d4d93c692186d2d5",
+      "width": 480,
+      "height": 480,
+      "size": 19014,
+      "createdAt": "2026-07-09T16:42:34Z",
+      "updatedAt": "2026-07-09T16:42:34Z"
+    }
+  ]
+}

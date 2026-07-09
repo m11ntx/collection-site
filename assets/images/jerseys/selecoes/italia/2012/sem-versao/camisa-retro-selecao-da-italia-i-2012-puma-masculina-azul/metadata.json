@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul",
+  "createdAt": "2026-07-09T16:43:05Z",
+  "updatedAt": "2026-07-09T16:43:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/front.webp",
+      "hash": "b7e527182d9a33c6824ae19dc73eba1cdc948c6ad0bdaffdc40941ef514b4e21",
+      "width": 480,
+      "height": 480,
+      "size": 7580,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/back.webp",
+      "hash": "60d73107e56db66ddafb70a05ffed10572df8dd4843af79ac396522658a067e0",
+      "width": 480,
+      "height": 480,
+      "size": 13504,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/detail-1.webp",
+      "hash": "165e9e70c4429059ebcd4f69d0669faaa48f1358b0c0d114b8490d9ec9813c8a",
+      "width": 480,
+      "height": 480,
+      "size": 5910,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/detail-2.webp",
+      "hash": "07c014feae0577d782baab00fb3bdfa8b36b5426252afd24700ce910051f4957",
+      "width": 480,
+      "height": 480,
+      "size": 63040,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/detail-3.webp",
+      "hash": "6c555115864dc636cbabf135c73dbcaadc128f61be582e0072ef483092a12695",
+      "width": 480,
+      "height": 480,
+      "size": 60822,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/detail-4.webp",
+      "hash": "570521d8dcfea7963c59851166f4e0938b1fbc528ebbc8d398dcf89b51e1a9cc",
+      "width": 480,
+      "height": 480,
+      "size": 13710,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/italia/2012/sem-versao/camisa-retro-selecao-da-italia-i-2012-puma-masculina-azul/detail-5.webp",
+      "hash": "123930c2a9807ca4b1e03b40ddba8e7072fc07df1e6962f06622a9c18782021f",
+      "width": 480,
+      "height": 480,
+      "size": 17754,
+      "createdAt": "2026-07-09T16:43:05Z",
+      "updatedAt": "2026-07-09T16:43:05Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1991-branca-adidas",
+  "createdAt": "2026-07-09T16:39:32Z",
+  "updatedAt": "2026-07-09T16:39:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/front.webp",
+      "hash": "7b82b074be34240f33845ffef9219d983a9271bace93855656d34adc68ebbc91",
+      "width": 480,
+      "height": 480,
+      "size": 15790,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/back.webp",
+      "hash": "a954f1e7aa9c2e653410eb4f8ebc83fd42c46a48953e58598065562b43f17909",
+      "width": 480,
+      "height": 480,
+      "size": 9802,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/detail-1.webp",
+      "hash": "ba5cc9ef1c6a96917632cffb1d05b695e7d1d128f9d9fc7b6e81c057f9024f85",
+      "width": 480,
+      "height": 480,
+      "size": 31810,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/detail-2.webp",
+      "hash": "c433a0ae00c7500c250e03f7e6a45204b4be9427ab358d17be121094a0c4ca44",
+      "width": 480,
+      "height": 480,
+      "size": 28738,
+      "createdAt": "2026-07-09T16:39:31Z",
+      "updatedAt": "2026-07-09T16:39:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/detail-3.webp",
+      "hash": "be9e166b84a3b0c0160659ca8ec35479d69917de69af8ed89fb2ad73316289df",
+      "width": 480,
+      "height": 480,
+      "size": 46350,
+      "createdAt": "2026-07-09T16:39:32Z",
+      "updatedAt": "2026-07-09T16:39:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/detail-4.webp",
+      "hash": "a65415bf6bc6cc6ed3f4ef4cbf88a7ceeaebe0337456e19cb1be6166e4f6e7bd",
+      "width": 480,
+      "height": 480,
+      "size": 61508,
+      "createdAt": "2026-07-09T16:39:32Z",
+      "updatedAt": "2026-07-09T16:39:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1991/sem-versao/camisa-manchester-united-retro-1991-branca-adidas/detail-5.webp",
+      "hash": "2f706ee1d48c61e48c396b43035619e041d8877bac6c2e095b5f6c19063f19c4",
+      "width": 480,
+      "height": 480,
+      "size": 22798,
+      "createdAt": "2026-07-09T16:39:32Z",
+      "updatedAt": "2026-07-09T16:39:32Z"
+    }
+  ]
+}

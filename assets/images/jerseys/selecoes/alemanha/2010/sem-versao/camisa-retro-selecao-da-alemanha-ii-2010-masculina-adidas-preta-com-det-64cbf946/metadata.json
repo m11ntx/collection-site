@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-detalhes-em-vermelho-e-dourado",
+  "createdAt": "2026-07-09T16:40:53Z",
+  "updatedAt": "2026-07-09T16:40:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/front.webp",
+      "hash": "89af930978b2d905527845bb2e367c487484a28587fffd58d3921a0665632c06",
+      "width": 480,
+      "height": 480,
+      "size": 8850,
+      "createdAt": "2026-07-09T16:40:52Z",
+      "updatedAt": "2026-07-09T16:40:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/back.webp",
+      "hash": "046a314250660cfbf5e41f5e3d5702ad50698fcd3f67ac7835a346b6569936f9",
+      "width": 480,
+      "height": 480,
+      "size": 5398,
+      "createdAt": "2026-07-09T16:40:52Z",
+      "updatedAt": "2026-07-09T16:40:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/detail-1.webp",
+      "hash": "9086ffdae4d755f22d14bb4a129d5846846f5edf7e2f49ea0dfec3d7d906fcf8",
+      "width": 480,
+      "height": 480,
+      "size": 15406,
+      "createdAt": "2026-07-09T16:40:52Z",
+      "updatedAt": "2026-07-09T16:40:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/detail-2.webp",
+      "hash": "c8a7b6c469451d595040b3fefca10f4ad844e494128bee4f370684371da702e0",
+      "width": 480,
+      "height": 480,
+      "size": 66262,
+      "createdAt": "2026-07-09T16:40:52Z",
+      "updatedAt": "2026-07-09T16:40:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/detail-3.webp",
+      "hash": "acab361cdcf92827b4e841a2cbf95cde39df4c3331be9f6d2f03e0caf8919409",
+      "width": 480,
+      "height": 480,
+      "size": 41302,
+      "createdAt": "2026-07-09T16:40:53Z",
+      "updatedAt": "2026-07-09T16:40:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/detail-4.webp",
+      "hash": "b816917c604dd9c55015d048270f82b081fb3716784476be51007793d88dbd1f",
+      "width": 480,
+      "height": 480,
+      "size": 12908,
+      "createdAt": "2026-07-09T16:40:53Z",
+      "updatedAt": "2026-07-09T16:40:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/2010/sem-versao/camisa-retro-selecao-da-alemanha-ii-2010-masculina-adidas-preta-com-det-64cbf946/detail-5.webp",
+      "hash": "4d034f2f7ad42e797db879a2dcdcd894a6d3dcd4cfc4af0ed65ac95c611088d5",
+      "width": 480,
+      "height": 480,
+      "size": 16220,
+      "createdAt": "2026-07-09T16:40:53Z",
+      "updatedAt": "2026-07-09T16:40:53Z"
+    }
+  ]
+}

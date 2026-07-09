@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:42:29Z",
+  "updatedAt": "2026-07-09T16:42:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/front.webp",
+      "hash": "1cb253dff4759d46fd4731934742aa4035f844771a52b0d21ca6aa4bdf46dedb",
+      "width": 480,
+      "height": 480,
+      "size": 13422,
+      "createdAt": "2026-07-09T16:42:28Z",
+      "updatedAt": "2026-07-09T16:42:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/back.webp",
+      "hash": "89c245b8d7768c0a9007a7bf384f89ccab42d9950709ef59eaf9ac8402e1c70b",
+      "width": 480,
+      "height": 480,
+      "size": 24304,
+      "createdAt": "2026-07-09T16:42:28Z",
+      "updatedAt": "2026-07-09T16:42:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/detail-1.webp",
+      "hash": "e87117658df79d2aea462249a578b907249eb99a7eee3efab0d8a36c66e870c6",
+      "width": 480,
+      "height": 480,
+      "size": 8802,
+      "createdAt": "2026-07-09T16:42:28Z",
+      "updatedAt": "2026-07-09T16:42:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/detail-2.webp",
+      "hash": "94b7afd4ea550d944d6c1db1e41183f1332cd6d09e56714b5c11ba1a68aefbb0",
+      "width": 480,
+      "height": 480,
+      "size": 46442,
+      "createdAt": "2026-07-09T16:42:28Z",
+      "updatedAt": "2026-07-09T16:42:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/detail-3.webp",
+      "hash": "8f897036b65c8944f12243e2981bd6d6d7b4ac3d878b980b25d02d4f89bd21d9",
+      "width": 480,
+      "height": 480,
+      "size": 62996,
+      "createdAt": "2026-07-09T16:42:29Z",
+      "updatedAt": "2026-07-09T16:42:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/detail-4.webp",
+      "hash": "d28f9c2b0952aa8eb49600b11ee551706914754915b6e84fba8b45c86b8992e8",
+      "width": 480,
+      "height": 480,
+      "size": 20678,
+      "createdAt": "2026-07-09T16:42:29Z",
+      "updatedAt": "2026-07-09T16:42:29Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/1997-1999/sem-versao/camisa-retro-porto-ii-1997-1999-kappa-masculina-laranja-com-detalhes-em-azul/detail-5.webp",
+      "hash": "8394e062567433469a0bd45b2ec1a432b2d984fc77e0080c8a2a00cd4ad94fe2",
+      "width": 480,
+      "height": 480,
+      "size": 14480,
+      "createdAt": "2026-07-09T16:42:29Z",
+      "updatedAt": "2026-07-09T16:42:29Z"
+    }
+  ]
+}

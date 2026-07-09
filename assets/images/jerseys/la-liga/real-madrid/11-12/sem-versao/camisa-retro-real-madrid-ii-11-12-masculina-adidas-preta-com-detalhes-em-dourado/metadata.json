@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T16:44:06Z",
+  "updatedAt": "2026-07-09T16:44:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/front.webp",
+      "hash": "3eb8297cf7cc290da8152f09889739969f7472f09418f7164dd32a9a7e786541",
+      "width": 480,
+      "height": 480,
+      "size": 9432,
+      "createdAt": "2026-07-09T16:44:05Z",
+      "updatedAt": "2026-07-09T16:44:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/back.webp",
+      "hash": "8fa946308b0f734171388b6076aaf243743e3ee497a3a0826cf0e5b687bc2069",
+      "width": 480,
+      "height": 480,
+      "size": 6018,
+      "createdAt": "2026-07-09T16:44:05Z",
+      "updatedAt": "2026-07-09T16:44:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/detail-1.webp",
+      "hash": "48f5bbe3cbc31d2eabb970fcc7f68235fbb7f69a70cc9a7c2519cbb608ea9aca",
+      "width": 480,
+      "height": 480,
+      "size": 17024,
+      "createdAt": "2026-07-09T16:44:05Z",
+      "updatedAt": "2026-07-09T16:44:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/detail-2.webp",
+      "hash": "4b8949cabc340307f9ead2021ae60bc9fe874835c6c3163f799010b60794a5df",
+      "width": 480,
+      "height": 480,
+      "size": 66688,
+      "createdAt": "2026-07-09T16:44:06Z",
+      "updatedAt": "2026-07-09T16:44:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/detail-3.webp",
+      "hash": "7850e6da038378397afe8980cd5d566fa833c97d29d8385b64213bed5901e1d3",
+      "width": 480,
+      "height": 480,
+      "size": 54644,
+      "createdAt": "2026-07-09T16:44:06Z",
+      "updatedAt": "2026-07-09T16:44:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/detail-4.webp",
+      "hash": "2e126e3d626b8dda9df9ef34d55f15ef2c44cd06f98395f2a17b87597421d90b",
+      "width": 480,
+      "height": 480,
+      "size": 27710,
+      "createdAt": "2026-07-09T16:44:06Z",
+      "updatedAt": "2026-07-09T16:44:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/11-12/sem-versao/camisa-retro-real-madrid-ii-11-12-masculina-adidas-preta-com-detalhes-em-dourado/detail-5.webp",
+      "hash": "57478d48ebe62ad4d86d739c8da7f64afb2161057ba711365d1bb4608b2b97b4",
+      "width": 480,
+      "height": 480,
+      "size": 27096,
+      "createdAt": "2026-07-09T16:44:06Z",
+      "updatedAt": "2026-07-09T16:44:06Z"
+    }
+  ]
+}

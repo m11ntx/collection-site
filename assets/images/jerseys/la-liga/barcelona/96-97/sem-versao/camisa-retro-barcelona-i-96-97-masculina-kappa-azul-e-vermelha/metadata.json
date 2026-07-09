@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha",
+  "createdAt": "2026-07-09T16:41:13Z",
+  "updatedAt": "2026-07-09T16:41:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/front.webp",
+      "hash": "aae95c0bb7961b1b990ff0601cd4b7977195ad234c2fe09d10f81b4d57d11345",
+      "width": 480,
+      "height": 480,
+      "size": 11242,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/back.webp",
+      "hash": "92b59d7a9bb89f04598d84dc29a1c40787afecca48b92f640283d75895ddb961",
+      "width": 480,
+      "height": 480,
+      "size": 12426,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/detail-1.webp",
+      "hash": "a562d7445c3db06fcbddec40c42a0cd7bc49453484b69023c59e656663ce65e5",
+      "width": 480,
+      "height": 480,
+      "size": 21662,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/detail-2.webp",
+      "hash": "30bbea56f2bac2fe3d5817f6ac56ec3e91bb01e5327e58b4d7173144f3508ee6",
+      "width": 480,
+      "height": 480,
+      "size": 65482,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/detail-3.webp",
+      "hash": "378d3c399cc9187a370d3ff06f3c08e154e1149b1b3cfb42614b71a6a5c5c3d5",
+      "width": 480,
+      "height": 480,
+      "size": 76976,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/detail-4.webp",
+      "hash": "edaee01bf43044793b7112f819e779bf0ad0c2cb3004a694b98b98e2b1cecb68",
+      "width": 480,
+      "height": 480,
+      "size": 14198,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/96-97/sem-versao/camisa-retro-barcelona-i-96-97-masculina-kappa-azul-e-vermelha/detail-5.webp",
+      "hash": "f577eb358bbde3132410ad7bc9bf83070b683393d56f2ba0cdafa003ab478a9c",
+      "width": 480,
+      "height": 480,
+      "size": 30550,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    }
+  ]
+}

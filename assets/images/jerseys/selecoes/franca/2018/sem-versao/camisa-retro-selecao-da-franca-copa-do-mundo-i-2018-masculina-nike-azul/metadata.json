@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul",
+  "createdAt": "2026-07-09T16:42:45Z",
+  "updatedAt": "2026-07-09T16:42:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/front.webp",
+      "hash": "4bb2059e82b580093e8963735c21b6eea36f496e73abe6f8f5b0739a920fbea7",
+      "width": 480,
+      "height": 480,
+      "size": 5916,
+      "createdAt": "2026-07-09T16:42:44Z",
+      "updatedAt": "2026-07-09T16:42:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/back.webp",
+      "hash": "4e05d737af986fc7d7300e7e5b02a69895ac9f1c689fd74bfbea6862966afa34",
+      "width": 480,
+      "height": 480,
+      "size": 13622,
+      "createdAt": "2026-07-09T16:42:44Z",
+      "updatedAt": "2026-07-09T16:42:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/detail-1.webp",
+      "hash": "3367f2bf5726c7ad7328dea127c83afacd78d0a3471b47f16d4e24a7fb15201f",
+      "width": 480,
+      "height": 480,
+      "size": 5078,
+      "createdAt": "2026-07-09T16:42:44Z",
+      "updatedAt": "2026-07-09T16:42:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/detail-2.webp",
+      "hash": "6bf8313d9b5006be612f0a3be067dfc6ecb7a86eab7ed0e5c16f094738197081",
+      "width": 480,
+      "height": 480,
+      "size": 33578,
+      "createdAt": "2026-07-09T16:42:45Z",
+      "updatedAt": "2026-07-09T16:42:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/detail-3.webp",
+      "hash": "06ae4b52f0290aa3dda2220697ba41cbce6efa6588801f9d166ee8fb3c202dd8",
+      "width": 480,
+      "height": 480,
+      "size": 37946,
+      "createdAt": "2026-07-09T16:42:45Z",
+      "updatedAt": "2026-07-09T16:42:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/detail-4.webp",
+      "hash": "7198d683f792754f314dd5245292103a2578bed9db1b111a59ddfc3e46b4a08b",
+      "width": 480,
+      "height": 480,
+      "size": 16334,
+      "createdAt": "2026-07-09T16:42:45Z",
+      "updatedAt": "2026-07-09T16:42:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/franca/2018/sem-versao/camisa-retro-selecao-da-franca-copa-do-mundo-i-2018-masculina-nike-azul/detail-5.webp",
+      "hash": "055d54273a1d04047d6d278815d6c50369a0857fcace77fdd9ddd2fd05b3bb01",
+      "width": 480,
+      "height": 480,
+      "size": 26180,
+      "createdAt": "2026-07-09T16:42:45Z",
+      "updatedAt": "2026-07-09T16:42:45Z"
+    }
+  ]
+}

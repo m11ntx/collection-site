@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca",
+  "createdAt": "2026-07-09T16:41:25Z",
+  "updatedAt": "2026-07-09T16:41:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/front.webp",
+      "hash": "c90f13036a5ff3b1d2f4c33ad2fa1b86d3bbfb89361a9f5f906561f4f4a4ce5d",
+      "width": 480,
+      "height": 480,
+      "size": 14122,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/back.webp",
+      "hash": "57222272198141d8b404a9099090b2ae9e1c3292c9d024c513dcdfc6af5c646b",
+      "width": 480,
+      "height": 480,
+      "size": 7660,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/detail-1.webp",
+      "hash": "c1b6c21c6172a3adc060d680c391045811ad784b8091f7d9230827d5850b1ebe",
+      "width": 480,
+      "height": 480,
+      "size": 56688,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/detail-2.webp",
+      "hash": "05517432512711ee8dc80da03d98577a3966ef931ccd9b6721da6a974c91ef8f",
+      "width": 480,
+      "height": 480,
+      "size": 58720,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/detail-3.webp",
+      "hash": "1650553ed92376a8672ffe36bedfec78a093442a317bf3b53e09fca9c8ab42a7",
+      "width": 480,
+      "height": 480,
+      "size": 24854,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/detail-4.webp",
+      "hash": "3b482fb415127b7fa3d7be492100766226c21931705b06088f9838b742eef528",
+      "width": 480,
+      "height": 480,
+      "size": 43288,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2010-2011/sem-versao/camisa-retro-bayern-de-munique-2010-2011-masculina-adidas-vermelha-e-branca/detail-5.webp",
+      "hash": "0edecb2f8ef77d451862581559303a05e891593aad8c233aad1abf9822067db6",
+      "width": 480,
+      "height": 480,
+      "size": 28730,
+      "createdAt": "2026-07-09T16:41:25Z",
+      "updatedAt": "2026-07-09T16:41:25Z"
+    }
+  ]
+}

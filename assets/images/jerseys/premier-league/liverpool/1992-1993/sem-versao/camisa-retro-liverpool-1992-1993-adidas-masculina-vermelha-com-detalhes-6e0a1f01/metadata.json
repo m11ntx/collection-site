@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:43:22Z",
+  "updatedAt": "2026-07-09T16:43:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/front.webp",
+      "hash": "3f4828bcef237b44c3c5331a744ed2d43416083111627c5c1c092e614ceac4e1",
+      "width": 480,
+      "height": 480,
+      "size": 6556,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/back.webp",
+      "hash": "e668c9a91b169f376161c4268b71816e490ea7f3fc6ac98c0377a9e3f6173e46",
+      "width": 480,
+      "height": 480,
+      "size": 4998,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/detail-1.webp",
+      "hash": "69e8a4900495bfceec1658b5cfff85376b6e604e27521b48b7fbf8772bc72eef",
+      "width": 480,
+      "height": 480,
+      "size": 9514,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/detail-2.webp",
+      "hash": "5347b62c2ad0da9d4e2849aa275ae151e6bb335247988a5a1e117c55a1e20a9f",
+      "width": 480,
+      "height": 480,
+      "size": 53112,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/detail-3.webp",
+      "hash": "36dd5c22b8a750c5faf8c1e4f273b3deee3afd339df8a56b38fd047a9d85c2ad",
+      "width": 480,
+      "height": 480,
+      "size": 15130,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1992-1993/sem-versao/camisa-retro-liverpool-1992-1993-adidas-masculina-vermelha-com-detalhes-6e0a1f01/detail-4.webp",
+      "hash": "65f84dc3dcf1697603f35e8eae6d779ce8307003ec6da66e4d195f9ec00e060c",
+      "width": 480,
+      "height": 480,
+      "size": 7816,
+      "createdAt": "2026-07-09T16:43:22Z",
+      "updatedAt": "2026-07-09T16:43:22Z"
+    }
+  ]
+}

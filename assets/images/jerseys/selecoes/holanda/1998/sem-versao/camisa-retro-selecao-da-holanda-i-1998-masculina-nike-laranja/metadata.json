@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja",
+  "createdAt": "2026-07-09T16:42:51Z",
+  "updatedAt": "2026-07-09T16:42:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/front.webp",
+      "hash": "5b1ad60d7bba53aae4b241cb1b4b269be14be15e4831c7be197a122d7cddb343",
+      "width": 480,
+      "height": 480,
+      "size": 11308,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/back.webp",
+      "hash": "2935966d55ac5e230eaeed92c386ecda07b0d3d1b7b208bfda21a47c1771d4e5",
+      "width": 480,
+      "height": 480,
+      "size": 8736,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/detail-1.webp",
+      "hash": "f7e5c81ba53ce03a4b917e9f79e843fa1b7051b22c18036c1bb754d0de44b98a",
+      "width": 480,
+      "height": 480,
+      "size": 25104,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/detail-2.webp",
+      "hash": "5e0d5b462e6577356a08e6d7e68f8ade10c58a3eba691df77b097bfd18b1465f",
+      "width": 480,
+      "height": 480,
+      "size": 28712,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/detail-3.webp",
+      "hash": "8d39ffae95de0d44f0aa6e00fe60477569f17ca09cf2ebaaa8e04251859e7f12",
+      "width": 480,
+      "height": 480,
+      "size": 15754,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/detail-4.webp",
+      "hash": "83ae26d585f16f6bea45fb382a2f78ae43e0f198f2fdbdb3d15099ea1ced423b",
+      "width": 480,
+      "height": 480,
+      "size": 19756,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/1998/sem-versao/camisa-retro-selecao-da-holanda-i-1998-masculina-nike-laranja/detail-5.webp",
+      "hash": "1ee2b65743dd3751aa290102461007f25d5417d70cb984c4e056b5012188effd",
+      "width": 480,
+      "height": 480,
+      "size": 25656,
+      "createdAt": "2026-07-09T16:42:51Z",
+      "updatedAt": "2026-07-09T16:42:51Z"
+    }
+  ]
+}

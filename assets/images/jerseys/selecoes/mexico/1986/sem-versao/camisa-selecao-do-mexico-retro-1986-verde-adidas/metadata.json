@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-retro-1986-verde-adidas",
+  "createdAt": "2026-07-09T16:40:07Z",
+  "updatedAt": "2026-07-09T16:40:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/front.webp",
+      "hash": "902e344fffa18c7f228282e0eb913912041b351514c6d18e97c4500843d1e986",
+      "width": 480,
+      "height": 480,
+      "size": 9394,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/back.webp",
+      "hash": "b4ef8c79f35aeceb25fa78d1cac7845f515cf44dbcfcd8628493b13e82557607",
+      "width": 480,
+      "height": 480,
+      "size": 5952,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/detail-1.webp",
+      "hash": "48abf15efeb62546785890bf80322be484b1179d7de6fa531d16c7567ec7e8ab",
+      "width": 480,
+      "height": 480,
+      "size": 17644,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/detail-2.webp",
+      "hash": "88e80900f6aba9d8d0a8e59a93345d1b7e24a46e1c85b1fa290093692104a071",
+      "width": 480,
+      "height": 480,
+      "size": 17360,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/detail-3.webp",
+      "hash": "74c7f0d386094eee9069f7787a807f9e7abd7296f14d055d0dca77c2207b3d70",
+      "width": 480,
+      "height": 480,
+      "size": 44098,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/detail-4.webp",
+      "hash": "7848a0aa60c8e687ad41faf2faed404083ec0e4036b4d6cb67877c20072ea81d",
+      "width": 480,
+      "height": 480,
+      "size": 49212,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/1986/sem-versao/camisa-selecao-do-mexico-retro-1986-verde-adidas/detail-5.webp",
+      "hash": "370c08c55d17c361ec52d7f88c52323aea085498d7684c2390a7e2831c5f93d9",
+      "width": 480,
+      "height": 480,
+      "size": 27550,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    }
+  ]
+}

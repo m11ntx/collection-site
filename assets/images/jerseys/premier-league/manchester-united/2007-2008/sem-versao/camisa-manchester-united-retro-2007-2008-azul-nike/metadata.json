@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2007-2008-azul-nike",
+  "createdAt": "2026-07-09T16:39:51Z",
+  "updatedAt": "2026-07-09T16:39:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/front.webp",
+      "hash": "a32bdac29e75aeb63eb5afb41d9b9c6e8f40a98827ca2c28fd39afd9f41a2f46",
+      "width": 480,
+      "height": 480,
+      "size": 12178,
+      "createdAt": "2026-07-09T16:39:50Z",
+      "updatedAt": "2026-07-09T16:39:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/back.webp",
+      "hash": "dd8d4a9eebe9eebe75e3a0b0df57a01da53611bb14d58f15cb8d07172d5fa3aa",
+      "width": 480,
+      "height": 480,
+      "size": 9894,
+      "createdAt": "2026-07-09T16:39:50Z",
+      "updatedAt": "2026-07-09T16:39:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/detail-1.webp",
+      "hash": "6c8ead95fccf13d4fb5826fd3c04ea3e04ad91e79c1fde062312e3a4a4d3516a",
+      "width": 480,
+      "height": 480,
+      "size": 47792,
+      "createdAt": "2026-07-09T16:39:50Z",
+      "updatedAt": "2026-07-09T16:39:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/detail-2.webp",
+      "hash": "3340e3ee5a200a056aab6cc7f73d9cc3e4eec04ac6b080ef0fee5e47e9c0d42a",
+      "width": 480,
+      "height": 480,
+      "size": 83576,
+      "createdAt": "2026-07-09T16:39:50Z",
+      "updatedAt": "2026-07-09T16:39:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/detail-3.webp",
+      "hash": "09814d2aab5161ddf6aef7138ca4fd3559446fd317cf9a44bafff48822e4e65d",
+      "width": 480,
+      "height": 480,
+      "size": 65568,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/detail-4.webp",
+      "hash": "938a474496eff2efd15cbc63169a7a0039cab643e86b5d02e489df3c9bf29223",
+      "width": 480,
+      "height": 480,
+      "size": 71930,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-azul-nike/detail-5.webp",
+      "hash": "79dd5a8812d944ea7ecad379db02431f2cbeddeca4eb72fba493d6cd3e5b1866",
+      "width": 480,
+      "height": 480,
+      "size": 87632,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    }
+  ]
+}

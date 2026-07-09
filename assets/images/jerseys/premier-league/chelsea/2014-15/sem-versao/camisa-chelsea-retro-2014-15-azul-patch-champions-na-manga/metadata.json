@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-chelsea-retro-2014-15-azul-patch-champions-na-manga",
+  "createdAt": "2026-07-09T16:36:43Z",
+  "updatedAt": "2026-07-09T16:36:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/2014-15/sem-versao/camisa-chelsea-retro-2014-15-azul-patch-champions-na-manga/front.webp",
+      "hash": "43121343901330b889752a55284f39b0d8cabf09e8ffa1db8ea104b74c26b6b6",
+      "width": 480,
+      "height": 480,
+      "size": 14542,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/2014-15/sem-versao/camisa-chelsea-retro-2014-15-azul-patch-champions-na-manga/back.webp",
+      "hash": "1479c7aab2a39b1942a2cc91fe03523aabfb550d465be9f5706ad649f05218c9",
+      "width": 480,
+      "height": 480,
+      "size": 5604,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    }
+  ]
+}

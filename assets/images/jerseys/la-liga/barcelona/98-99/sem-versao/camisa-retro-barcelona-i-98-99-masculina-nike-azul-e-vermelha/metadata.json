@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha",
+  "createdAt": "2026-07-09T16:41:14Z",
+  "updatedAt": "2026-07-09T16:41:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/front.webp",
+      "hash": "75635c80f5d7b1278fa8e258efddff44900f03a17922b1951c80b82ec6223552",
+      "width": 480,
+      "height": 480,
+      "size": 9158,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/back.webp",
+      "hash": "b60dfa45f394f310b8039e72fa9cac013fc26f92ce208cc37dc1cc39b5293f4d",
+      "width": 480,
+      "height": 480,
+      "size": 6972,
+      "createdAt": "2026-07-09T16:41:13Z",
+      "updatedAt": "2026-07-09T16:41:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/detail-1.webp",
+      "hash": "f9040e6e4a832750d3e4838048a8e9998574be9d64d293b1b2d2d979efc1a68d",
+      "width": 480,
+      "height": 480,
+      "size": 15052,
+      "createdAt": "2026-07-09T16:41:14Z",
+      "updatedAt": "2026-07-09T16:41:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/detail-2.webp",
+      "hash": "f150966c2ff0edf098c33229d40298092337d2c64b667d7267d280b1cf2b9a4b",
+      "width": 480,
+      "height": 480,
+      "size": 77454,
+      "createdAt": "2026-07-09T16:41:14Z",
+      "updatedAt": "2026-07-09T16:41:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/detail-3.webp",
+      "hash": "4ec83d2c722561c7e965e38922e1d3bf7767506ae56a4221fa9ab81f010abf02",
+      "width": 480,
+      "height": 480,
+      "size": 29994,
+      "createdAt": "2026-07-09T16:41:14Z",
+      "updatedAt": "2026-07-09T16:41:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/detail-4.webp",
+      "hash": "11c573b3980f30101f31368c416abd1df41f00d5aae38ce2df13570cf2755e82",
+      "width": 480,
+      "height": 480,
+      "size": 25872,
+      "createdAt": "2026-07-09T16:41:14Z",
+      "updatedAt": "2026-07-09T16:41:14Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-barcelona-i-98-99-masculina-nike-azul-e-vermelha/detail-5.webp",
+      "hash": "110a6a65f6d16a09026f0f2a05e8a469029e6230e62a0ccb0333e16f3d6ac945",
+      "width": 480,
+      "height": 480,
+      "size": 32858,
+      "createdAt": "2026-07-09T16:41:14Z",
+      "updatedAt": "2026-07-09T16:41:14Z"
+    }
+  ]
+}

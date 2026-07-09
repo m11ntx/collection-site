@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza",
+  "createdAt": "2026-07-09T16:41:51Z",
+  "updatedAt": "2026-07-09T16:41:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/front.webp",
+      "hash": "21472d4e049cb4dc7d45354b325152c83ce04642cdb2b1b194855c870513db60",
+      "width": 480,
+      "height": 480,
+      "size": 8894,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/back.webp",
+      "hash": "cbd92835ba079e29dc3f80c2bcbdc1d26f976105dd9c5fa0df5e7fd6409a3b1f",
+      "width": 480,
+      "height": 480,
+      "size": 25650,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/detail-1.webp",
+      "hash": "c412bfabd9f191859bd74cadd27e8808ff1f9597c716af4491e9aa2d8246b533",
+      "width": 480,
+      "height": 480,
+      "size": 5380,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/detail-2.webp",
+      "hash": "6158ceefca135bba774abce522717cebe5f87c15861f5979c3cc420e741c731b",
+      "width": 480,
+      "height": 480,
+      "size": 78104,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/detail-3.webp",
+      "hash": "6e3c6c1ba7a3dcaf18066b403ba1263cf240305321bb758bb3e2d9425eab47fc",
+      "width": 480,
+      "height": 480,
+      "size": 77852,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/detail-4.webp",
+      "hash": "2a1947ca50408c08a7a75a1b5deddd5a766b5c04d7ff3cf5826d99a3991663b8",
+      "width": 480,
+      "height": 480,
+      "size": 33074,
+      "createdAt": "2026-07-09T16:41:50Z",
+      "updatedAt": "2026-07-09T16:41:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1994-1995/sem-versao/camisa-retro-inter-de-milao-treino-1994-1995-masculina-umbro-marrom-e-cinza/detail-5.webp",
+      "hash": "e05b45b41ad2ea21e3de89cab21515ac0f6ac7dad5d56e2ce9bb0c04980277f8",
+      "width": 480,
+      "height": 480,
+      "size": 17640,
+      "createdAt": "2026-07-09T16:41:51Z",
+      "updatedAt": "2026-07-09T16:41:51Z"
+    }
+  ]
+}

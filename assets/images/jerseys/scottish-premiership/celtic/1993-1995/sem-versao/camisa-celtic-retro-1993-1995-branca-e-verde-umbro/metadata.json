@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-1993-1995-branca-e-verde-umbro",
+  "createdAt": "2026-07-09T16:36:28Z",
+  "updatedAt": "2026-07-09T16:36:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/front.webp",
+      "hash": "dd4caf7d865f159e32efc3b1c8fd7cb9bf8ca4e226bf4ea059316121ae3e5f15",
+      "width": 480,
+      "height": 480,
+      "size": 17704,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/back.webp",
+      "hash": "fc62f460a2c1e94913643b4f9ee7251ada8c0d13a0a0a214c4fc77296349e222",
+      "width": 480,
+      "height": 480,
+      "size": 39932,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/detail-1.webp",
+      "hash": "5d0e1c7b6b512e9c00096f2726d9d939fc6f29b1019f8bea410ddc8f7bbbddc6",
+      "width": 480,
+      "height": 480,
+      "size": 33024,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/detail-2.webp",
+      "hash": "c74d08034507d8b8ef0110cb847446b05e623270b4a4cc2910e1e6a1ffb3a8e6",
+      "width": 480,
+      "height": 480,
+      "size": 49962,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/detail-3.webp",
+      "hash": "76a3ee3a7f05bdfd991d06c8f2e208452b43a290369a31e632b96fc7b85d73f4",
+      "width": 480,
+      "height": 480,
+      "size": 42058,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/detail-4.webp",
+      "hash": "8cb4ebe2edb3ac171767b7cea4e54c0397ad8da383242f5cf65733b10b1f943f",
+      "width": 480,
+      "height": 480,
+      "size": 29946,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1993-1995/sem-versao/camisa-celtic-retro-1993-1995-branca-e-verde-umbro/detail-5.webp",
+      "hash": "74e0cb5f22d2cb3cb5f4155e4094a184a591d188e3caba6bc165324f25064312",
+      "width": 480,
+      "height": 480,
+      "size": 44260,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    }
+  ]
+}

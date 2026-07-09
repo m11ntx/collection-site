@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada",
+  "createdAt": "2026-07-09T16:43:43Z",
+  "updatedAt": "2026-07-09T16:43:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/front.webp",
+      "hash": "914bf842516f33b46cad3f2b574c6a16ddccdd1be3a56c171190b50f63dd6443",
+      "width": 480,
+      "height": 480,
+      "size": 9814,
+      "createdAt": "2026-07-09T16:43:42Z",
+      "updatedAt": "2026-07-09T16:43:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/back.webp",
+      "hash": "46b1cfddcdbfe71825ded190edfc9dd72b7e48e67f9d5abd114e4eab9271fadc",
+      "width": 480,
+      "height": 480,
+      "size": 8216,
+      "createdAt": "2026-07-09T16:43:42Z",
+      "updatedAt": "2026-07-09T16:43:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/detail-1.webp",
+      "hash": "2f5b406de877a7e98141204438b9442ec77732694c1bc5e9bffa62a01c534577",
+      "width": 480,
+      "height": 480,
+      "size": 17622,
+      "createdAt": "2026-07-09T16:43:42Z",
+      "updatedAt": "2026-07-09T16:43:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/detail-2.webp",
+      "hash": "5f6ef353f497d15afabb1dc238da7017b2ab8f3d6d02085381197e3cff69808c",
+      "width": 480,
+      "height": 480,
+      "size": 42376,
+      "createdAt": "2026-07-09T16:43:42Z",
+      "updatedAt": "2026-07-09T16:43:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/detail-3.webp",
+      "hash": "46313c01cbbaf6b39c2d69ceb93ced31fbbe588baa233b109cdfe776050522fc",
+      "width": 480,
+      "height": 480,
+      "size": 70110,
+      "createdAt": "2026-07-09T16:43:43Z",
+      "updatedAt": "2026-07-09T16:43:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/detail-4.webp",
+      "hash": "9d78c389eef3ee24eb7de935be849de203872d2ec9c353a4773acfbc004a1949",
+      "width": 480,
+      "height": 480,
+      "size": 19242,
+      "createdAt": "2026-07-09T16:43:43Z",
+      "updatedAt": "2026-07-09T16:43:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2004-2005/sem-versao/camisa-retro-bayern-de-munique-ii-2004-2005-masculina-adidas-dourada/detail-5.webp",
+      "hash": "9e5e02306b7163504c29424659c1896f9aab03719dabdc950228f4601687ba9e",
+      "width": 480,
+      "height": 480,
+      "size": 15682,
+      "createdAt": "2026-07-09T16:43:43Z",
+      "updatedAt": "2026-07-09T16:43:43Z"
+    }
+  ]
+}

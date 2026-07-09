@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza",
+  "createdAt": "2026-07-09T16:38:38Z",
+  "updatedAt": "2026-07-09T16:38:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/front.webp",
+      "hash": "4c4520b679f011423868535bf7a7bb4b0d5416d62f0af4504751030e34eb726f",
+      "width": 480,
+      "height": 480,
+      "size": 15588,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/back.webp",
+      "hash": "7c2055416881bd5fc764895e997d4bb80e2dc8a8f225e5001264f68326585f90",
+      "width": 480,
+      "height": 480,
+      "size": 12684,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/detail-1.webp",
+      "hash": "ad35dc6bb2fcc4fb528ea668578883b9138dbd867c8d1521d73f344ded2e57cd",
+      "width": 480,
+      "height": 480,
+      "size": 59502,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/detail-2.webp",
+      "hash": "2732e5de26eab1fd80e29e78589e7910a7912689068e2057a77a614aad2023d3",
+      "width": 480,
+      "height": 480,
+      "size": 32732,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/detail-3.webp",
+      "hash": "dec51e363ee2fa8ad6e6f55ac5b0370099b991d653ebdd06981f47b922f294e8",
+      "width": 480,
+      "height": 480,
+      "size": 75150,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/detail-4.webp",
+      "hash": "9582b1cb43b0796d6192f01f46a076f34bc034c82226d1a9216b6bd1cb99e31d",
+      "width": 480,
+      "height": 480,
+      "size": 49050,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1996/sem-versao/camisa-retro-selecao-da-inglaterra-1996-umbro-masculina-cinza/detail-5.webp",
+      "hash": "d2e3afb1b7b39daf917a3269d8ef38909b8a6d0853395f2cafffaf2c0a09e491",
+      "width": 480,
+      "height": 480,
+      "size": 29708,
+      "createdAt": "2026-07-09T16:38:37Z",
+      "updatedAt": "2026-07-09T16:38:37Z"
+    }
+  ]
+}

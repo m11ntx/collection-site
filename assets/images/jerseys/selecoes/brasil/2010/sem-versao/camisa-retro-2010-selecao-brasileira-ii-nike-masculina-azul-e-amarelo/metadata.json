@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo",
+  "createdAt": "2026-07-09T16:40:40Z",
+  "updatedAt": "2026-07-09T16:40:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/front.webp",
+      "hash": "31e3a99ee6e225173dffdaadfd222ccfab266490b465c57094d59f6f1db69a75",
+      "width": 480,
+      "height": 480,
+      "size": 24418,
+      "createdAt": "2026-07-09T16:40:39Z",
+      "updatedAt": "2026-07-09T16:40:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/back.webp",
+      "hash": "e7e77d4216df5f08a956b021a3b8b783df7acde41722a4549304ccd85c1623dd",
+      "width": 480,
+      "height": 480,
+      "size": 6284,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/detail-1.webp",
+      "hash": "1ed6da40c8e295817efa1e5c9ea2126f78daf458a4406d6b5aeddb2c0d58dc14",
+      "width": 480,
+      "height": 480,
+      "size": 31182,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/detail-2.webp",
+      "hash": "0c303bde6f5f08d0fb51c299e09a5d3c2a0ea35ce094ea3b71cc5338e7769ecb",
+      "width": 480,
+      "height": 480,
+      "size": 43730,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/detail-3.webp",
+      "hash": "a0e6367e7e036a1f778beec26d91bd1849b15f1a2418c8a63fce6878b3178209",
+      "width": 480,
+      "height": 480,
+      "size": 21210,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/detail-4.webp",
+      "hash": "d1315d0228301dca21438210b0f74e0cdedc95b1309a491ef050f6cd9dd4a169",
+      "width": 480,
+      "height": 480,
+      "size": 62412,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2010/sem-versao/camisa-retro-2010-selecao-brasileira-ii-nike-masculina-azul-e-amarelo/detail-5.webp",
+      "hash": "38b727f33fe3a10f71bafe4eb3e0c64ba1abf475cf85c7cb268c7d1dae70683d",
+      "width": 480,
+      "height": 480,
+      "size": 65444,
+      "createdAt": "2026-07-09T16:40:40Z",
+      "updatedAt": "2026-07-09T16:40:40Z"
+    }
+  ]
+}

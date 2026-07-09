@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde",
+  "createdAt": "2026-07-09T16:41:12Z",
+  "updatedAt": "2026-07-09T16:41:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/front.webp",
+      "hash": "a16436d558322834a5929800d73726d70030d3f67d21786f9588e3b218aed90a",
+      "width": 480,
+      "height": 480,
+      "size": 18684,
+      "createdAt": "2026-07-09T16:41:11Z",
+      "updatedAt": "2026-07-09T16:41:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/back.webp",
+      "hash": "8b5b4f0639cbf15d06e20b8848554cdf7afa42e6157188cdbfcc3e2a9642c4ce",
+      "width": 480,
+      "height": 480,
+      "size": 17698,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/detail-1.webp",
+      "hash": "f72c85aba1402f715a7c8f34c0720bd623ffe89202c617f89299461ad9d91484",
+      "width": 480,
+      "height": 480,
+      "size": 24618,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/detail-2.webp",
+      "hash": "bbbcacc53a70255f8fd76887c407a1521c6fd8f0dd0c5922a87ed7d0cf304d75",
+      "width": 480,
+      "height": 480,
+      "size": 58384,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/detail-3.webp",
+      "hash": "b4fe1b19b414f2ae462e97c5824570bfb5ad8dd0220904b1f362518d5d2a8ffc",
+      "width": 480,
+      "height": 480,
+      "size": 64394,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/detail-4.webp",
+      "hash": "9b5c79f0915206dc99cd462af9e3fbe2ca0197aebb08f6d56a449b8848fbbb2a",
+      "width": 480,
+      "height": 480,
+      "size": 22758,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-nike-masculina-azul-e-verde/detail-5.webp",
+      "hash": "7df86672981790851a1b3d521023eda66561f009e8867721fbd8cf2c01033f15",
+      "width": 480,
+      "height": 480,
+      "size": 23376,
+      "createdAt": "2026-07-09T16:41:12Z",
+      "updatedAt": "2026-07-09T16:41:12Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca",
+  "createdAt": "2026-07-09T16:38:38Z",
+  "updatedAt": "2026-07-09T16:38:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/front.webp",
+      "hash": "33b7bf9d472a11ebfdd349bd0fa6f7bdacef56af28546c61f387a5fd0afbd379",
+      "width": 480,
+      "height": 480,
+      "size": 7162,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/back.webp",
+      "hash": "827ae846ef4fea6b76d64924759ef17d2a0e611a3667ca1f2bdddf57f21d56d5",
+      "width": 480,
+      "height": 480,
+      "size": 3796,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/detail-1.webp",
+      "hash": "5de08ee4d77520cc669cb6083db085cc4c7eff9d63ba765321e37e47bd398597",
+      "width": 480,
+      "height": 480,
+      "size": 27052,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/detail-2.webp",
+      "hash": "86ae424b49908d05417ffe3384fd1f51287a8eebd35de4eb08368350f667443f",
+      "width": 480,
+      "height": 480,
+      "size": 43348,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/detail-3.webp",
+      "hash": "9d79648f4e83a15b8ec6b2c02e312810bbaf77e7602b072776c307762c8255bd",
+      "width": 480,
+      "height": 480,
+      "size": 19550,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/detail-4.webp",
+      "hash": "5d7679bdc9761e5737a96312a144d6e2d3fc7a360ccb52008a9b4afa6df7cc90",
+      "width": 480,
+      "height": 480,
+      "size": 14988,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2006/sem-versao/camisa-retro-selecao-da-inglaterra-2006-umbro-masculina-branca/detail-5.webp",
+      "hash": "a32dc177e1a406a8e51330f06072f0d3ecb339b503d3c1b12c4c52e9e37d7573",
+      "width": 480,
+      "height": 480,
+      "size": 15648,
+      "createdAt": "2026-07-09T16:38:38Z",
+      "updatedAt": "2026-07-09T16:38:38Z"
+    }
+  ]
+}

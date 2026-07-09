@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha",
+  "createdAt": "2026-07-09T16:41:07Z",
+  "updatedAt": "2026-07-09T16:41:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/front.webp",
+      "hash": "95c287a362a400e01893484d7c02d02fdda8ec91cb8d9de157b8daa8a3fa89db",
+      "width": 480,
+      "height": 480,
+      "size": 12896,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/back.webp",
+      "hash": "5da4f04836583f7843b7248a120b91fa0b1940133036ccb8824bccd0da28652a",
+      "width": 480,
+      "height": 480,
+      "size": 9222,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/detail-1.webp",
+      "hash": "4b1ed3bc7971cb7706bc2776bbe8c7c629f6c7d0dbee52ebddbc846b31581200",
+      "width": 480,
+      "height": 480,
+      "size": 19470,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/detail-2.webp",
+      "hash": "52201fb71e84d9a2150c722eaba1f07ec05d4a60878ce3d8be3ab48293459c3b",
+      "width": 480,
+      "height": 480,
+      "size": 70934,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/detail-3.webp",
+      "hash": "fe0a25b18ffede68b80410acc789403def1f299e756b8ca6bafdabd52f35fb62",
+      "width": 480,
+      "height": 480,
+      "size": 61092,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/detail-4.webp",
+      "hash": "177af6d5752dfd33086f9b20ad1843a69ee5896d94566d9a550f75f06ef594aa",
+      "width": 480,
+      "height": 480,
+      "size": 28696,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/14-15/sem-versao/camisa-retro-barcelona-i-14-15-masculina-nike-azul-e-vermelha/detail-5.webp",
+      "hash": "ce10e04a641ce2acdf54c9e8ed85d0c79d20bcf207b405f41073f0c2d781f235",
+      "width": 480,
+      "height": 480,
+      "size": 30608,
+      "createdAt": "2026-07-09T16:41:07Z",
+      "updatedAt": "2026-07-09T16:41:07Z"
+    }
+  ]
+}

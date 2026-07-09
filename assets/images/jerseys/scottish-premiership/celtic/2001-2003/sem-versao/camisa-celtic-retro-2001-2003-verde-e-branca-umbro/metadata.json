@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-2001-2003-verde-e-branca-umbro",
+  "createdAt": "2026-07-09T16:36:33Z",
+  "updatedAt": "2026-07-09T16:36:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/front.webp",
+      "hash": "96852ec7bbb6c0626d599eda40890bd7225da9157c59fc9880ed9b3b6b03812a",
+      "width": 480,
+      "height": 480,
+      "size": 13928,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/back.webp",
+      "hash": "158715cded50dff3561f5280662d0d1f17cb8efa9b8c7ae0a7837629aeda1ba2",
+      "width": 480,
+      "height": 480,
+      "size": 12170,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/detail-1.webp",
+      "hash": "51a438765ba7a4a587a74e381e49f1c3a3580ee1e2069e3229c3b5f5ab2afd2a",
+      "width": 480,
+      "height": 480,
+      "size": 27848,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/detail-2.webp",
+      "hash": "b0fb2c550321a5c3e1dd95b5bef3c5c18f74c423fa318bd84a2f951543bdedcf",
+      "width": 480,
+      "height": 480,
+      "size": 24332,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/detail-3.webp",
+      "hash": "e4ca9f5aeae577930817a9560b82184f3d1f7c7565892daa8b22815399cb97fd",
+      "width": 480,
+      "height": 480,
+      "size": 23766,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/detail-4.webp",
+      "hash": "e4a50cf7b74d2898d86e339d364d4ca356a40daf77975e6ebc80f46c07dfbdd9",
+      "width": 480,
+      "height": 480,
+      "size": 50932,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-verde-e-branca-umbro/detail-5.webp",
+      "hash": "5d485c5eb8ca4ae090f41c1299fb8392802dcf8300bdcc2f6a76a39312a63765",
+      "width": 480,
+      "height": 480,
+      "size": 59600,
+      "createdAt": "2026-07-09T16:36:33Z",
+      "updatedAt": "2026-07-09T16:36:33Z"
+    }
+  ]
+}

@@ -400,6 +400,16 @@
     "image": null
   },
   {
+    "id": "america-mexico",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "america-mexico",
+    "name": "América de México",
+    "country": "Mexico",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "boca-juniors",
     "leagueId": "libertadores",
     "regionId": null,
@@ -416,6 +426,16 @@
     "slug": "cerro-portenho",
     "name": "Cerro Porteño",
     "country": "Paraguay",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "chivas",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "chivas",
+    "name": "Chivas Guadalajara",
+    "country": "Mexico",
     "badge": null,
     "image": null
   },
@@ -546,6 +566,16 @@
     "slug": "lyon",
     "name": "Olympique Lyonnais",
     "country": "France",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "marseille",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "marseille",
+    "name": "Marseille",
+    "country": null,
     "badge": null,
     "image": null
   },
@@ -960,6 +990,16 @@
     "image": null
   },
   {
+    "id": "rangers",
+    "leagueId": "scottish-premiership",
+    "regionId": null,
+    "slug": "rangers",
+    "name": "Rangers",
+    "country": "Scotland",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "alemanha",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1070,6 +1110,16 @@
     "image": null
   },
   {
+    "id": "dinamarca",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "dinamarca",
+    "name": "Dinamarca",
+    "country": "Denmark",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "emirados-arabes-unidos",
     "leagueId": "selecoes",
     "regionId": "asia",
@@ -1160,12 +1210,32 @@
     "image": null
   },
   {
+    "id": "irlanda",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "irlanda",
+    "name": "Irlanda",
+    "country": "Ireland",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "italia",
     "leagueId": "selecoes",
     "regionId": "europa",
     "slug": "italia",
     "name": "Itália",
     "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "iugoslavia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "iugoslavia",
+    "name": "Iugoslávia",
+    "country": null,
     "badge": null,
     "image": null
   },
@@ -1186,6 +1256,16 @@
     "slug": "japao",
     "name": "Japão",
     "country": "Japan",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "marrocos",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "marrocos",
+    "name": "Marrocos",
+    "country": null,
     "badge": null,
     "image": null
   },
@@ -1326,6 +1406,26 @@
     "slug": "as-roma",
     "name": "AS Roma",
     "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "atalanta",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "atalanta",
+    "name": "Atalanta",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "fiorentina",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "fiorentina",
+    "name": "Fiorentina",
+    "country": null,
     "badge": null,
     "image": null
   },

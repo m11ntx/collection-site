@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-home-retro-1999-preta-adidas",
+  "createdAt": "2026-07-09T16:40:31Z",
+  "updatedAt": "2026-07-09T16:40:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/1999/sem-versao/camisa-real-madrid-home-retro-1999-preta-adidas/front.webp",
+      "hash": "fce41ac65e7bc8cd5546bec55522941e957b5781a6f0f484b6a80274cad6e915",
+      "width": 480,
+      "height": 480,
+      "size": 20668,
+      "createdAt": "2026-07-09T16:40:31Z",
+      "updatedAt": "2026-07-09T16:40:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/1999/sem-versao/camisa-real-madrid-home-retro-1999-preta-adidas/back.webp",
+      "hash": "f96dba38326cf88fe57e4c56604ccba634f989b80cbb0d330384ddf8249ff48b",
+      "width": 480,
+      "height": 480,
+      "size": 13438,
+      "createdAt": "2026-07-09T16:40:31Z",
+      "updatedAt": "2026-07-09T16:40:31Z"
+    }
+  ]
+}

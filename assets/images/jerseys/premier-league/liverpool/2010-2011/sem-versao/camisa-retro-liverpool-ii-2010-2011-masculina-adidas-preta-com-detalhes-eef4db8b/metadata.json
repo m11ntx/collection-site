@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T16:42:09Z",
+  "updatedAt": "2026-07-09T16:42:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/front.webp",
+      "hash": "3c1210e245e748cd093617b65a1b1bc569c57360622b93d50a6339ee527b9fc7",
+      "width": 480,
+      "height": 480,
+      "size": 7440,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/back.webp",
+      "hash": "607153d643cfe8f4356bcea9161269667ab41234320ef63d7e26202ed5a13ef1",
+      "width": 480,
+      "height": 480,
+      "size": 13242,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/detail-1.webp",
+      "hash": "00e784436039ad98daf55998fc383424b2f192cfa54e522879bfbacc0fb8767d",
+      "width": 480,
+      "height": 480,
+      "size": 4878,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/detail-2.webp",
+      "hash": "162ebe9515acc95c152e078415f244e7e05ab553010f88b5401a5c1077c80064",
+      "width": 480,
+      "height": 480,
+      "size": 40160,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/detail-3.webp",
+      "hash": "5b1ddae3df2cdb84aaba91a1a5a7061dbfc2e1e9669d4829602c89a98435805c",
+      "width": 480,
+      "height": 480,
+      "size": 56080,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/detail-4.webp",
+      "hash": "e8afdb4cd9cf2e9b736048ccd4c36b8ad711420b96bf2a75866ff68677a9b3a5",
+      "width": 480,
+      "height": 480,
+      "size": 10936,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/2010-2011/sem-versao/camisa-retro-liverpool-ii-2010-2011-masculina-adidas-preta-com-detalhes-eef4db8b/detail-5.webp",
+      "hash": "908a93b059de08d9579cef8805bff1b40650b1793431d22617df541e227e46fb",
+      "width": 480,
+      "height": 480,
+      "size": 13870,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    }
+  ]
+}

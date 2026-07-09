@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-palmeiras-1999-edicao-especial",
+  "createdAt": "2026-07-09T16:42:19Z",
+  "updatedAt": "2026-07-09T16:42:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/sem-versao/camisa-retro-palmeiras-1999-edicao-especial/front.webp",
+      "hash": "e0600d1916d1a1a26e38e3a4d779e3edc939832a854beec7ee469c5d58f47142",
+      "width": 480,
+      "height": 480,
+      "size": 15774,
+      "createdAt": "2026-07-09T16:42:19Z",
+      "updatedAt": "2026-07-09T16:42:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1999/sem-versao/camisa-retro-palmeiras-1999-edicao-especial/back.webp",
+      "hash": "a778b75d8703120e23af75d63ffee1fbb9c04fbc85cbb309cf663fe9154a81bd",
+      "width": 480,
+      "height": 480,
+      "size": 14896,
+      "createdAt": "2026-07-09T16:42:19Z",
+      "updatedAt": "2026-07-09T16:42:19Z"
+    }
+  ]
+}

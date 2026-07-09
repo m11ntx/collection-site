@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-napoli-i-retro-1987-1988-ennere-masculina-azul",
+  "createdAt": "2026-07-09T16:43:25Z",
+  "updatedAt": "2026-07-09T16:43:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/front.webp",
+      "hash": "cba4178b69c3707c7f9327123ad9efd7e43197913832aa723c85339a25dbb35c",
+      "width": 480,
+      "height": 480,
+      "size": 7236,
+      "createdAt": "2026-07-09T16:43:24Z",
+      "updatedAt": "2026-07-09T16:43:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/back.webp",
+      "hash": "234ed6c4b95cf8ce70dff98c8b29d481377cc25a82d673379d5c2494158fa192",
+      "width": 480,
+      "height": 480,
+      "size": 4612,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/detail-1.webp",
+      "hash": "ee11d30b220c5408748a1b3f22cc28eda32675b403a7525a602c530de6cb9679",
+      "width": 480,
+      "height": 480,
+      "size": 17844,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/detail-2.webp",
+      "hash": "951fc87bbc04d4fcae08b97674d38e47cee6ead014d3ca3110079497c1374bf6",
+      "width": 480,
+      "height": 480,
+      "size": 33696,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/detail-3.webp",
+      "hash": "a18d45d119fb69019ff0ccfb7263eeafac968ad8a7df15c0853622430fe168f4",
+      "width": 480,
+      "height": 480,
+      "size": 14960,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/detail-4.webp",
+      "hash": "83b3737e7f677f0d33ba57c473eeb45d458c245fba9aaa7c3076ba33ea7327de",
+      "width": 480,
+      "height": 480,
+      "size": 24932,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/napoli/1987-1988/sem-versao/camisa-napoli-i-retro-1987-1988-ennere-masculina-azul/detail-5.webp",
+      "hash": "420ddee77bc97c03a6ce986dbbbab45d99a553ccc7b2816673c3ff2ed2593f25",
+      "width": 480,
+      "height": 480,
+      "size": 23364,
+      "createdAt": "2026-07-09T16:43:25Z",
+      "updatedAt": "2026-07-09T16:43:25Z"
+    }
+  ]
+}

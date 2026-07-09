@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca",
+  "createdAt": "2026-07-09T16:41:49Z",
+  "updatedAt": "2026-07-09T16:41:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/front.webp",
+      "hash": "d9a5e7182475b885f35c71330f591601b1fe5185a50d0c593f9e8251e20961d3",
+      "width": 480,
+      "height": 480,
+      "size": 5260,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/back.webp",
+      "hash": "8a1ba6f169fca9dcfb285404754bcfe4607216567ee64c5587b529e384a247d3",
+      "width": 480,
+      "height": 480,
+      "size": 8006,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/detail-1.webp",
+      "hash": "5e27fb40bda38c068d22947244ee679a2ab2c135e25de3036f57f04e082e124d",
+      "width": 480,
+      "height": 480,
+      "size": 3784,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/detail-2.webp",
+      "hash": "d4625e263e041bb8619991a1f8fdb45aaa10d72ff2d27be78ae530d83bb5ffc1",
+      "width": 480,
+      "height": 480,
+      "size": 36380,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/detail-3.webp",
+      "hash": "507f8b8ec20f40419e1f7e6581584042e9734e136f615ded33b51025916cd9ea",
+      "width": 480,
+      "height": 480,
+      "size": 34114,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/detail-4.webp",
+      "hash": "a45a53e480597c908e074410342730c1ebc06b561702c30c658928de1dff3e0b",
+      "width": 480,
+      "height": 480,
+      "size": 15664,
+      "createdAt": "2026-07-09T16:41:48Z",
+      "updatedAt": "2026-07-09T16:41:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/2007-2008/sem-versao/camisa-retro-inter-de-milao-ii-2007-2008-masculina-nike-branca/detail-5.webp",
+      "hash": "b20db8dc9f8c1835e91e7cf953ffe09a3ca64436c0f87ff9ee8e713b56a63454",
+      "width": 480,
+      "height": 480,
+      "size": 14438,
+      "createdAt": "2026-07-09T16:41:49Z",
+      "updatedAt": "2026-07-09T16:41:49Z"
+    }
+  ]
+}

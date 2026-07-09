@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-retro-mundial-2000-batavo",
+  "createdAt": "2026-07-09T16:36:52Z",
+  "updatedAt": "2026-07-09T16:36:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-batavo/front.webp",
+      "hash": "df64039771779f48f386ab1ecffdd33404045ca4e544bd4beb341a793384045c",
+      "width": 480,
+      "height": 480,
+      "size": 9640,
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2000/fan/camisa-corinthians-retro-mundial-2000-batavo/back.webp",
+      "hash": "5d682601183493b7c3e85cc1f0f23eca1dbc3cb05dd1afc5a813d088f2c9fb76",
+      "width": 480,
+      "height": 480,
+      "size": 5326,
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
+    }
+  ]
+}

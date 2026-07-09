@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:42:09Z",
+  "updatedAt": "2026-07-09T16:42:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/front.webp",
+      "hash": "c142edfa9f302287516d7f6ff0ea3bc9c3cdec7dc473e7b521153693161902b0",
+      "width": 480,
+      "height": 480,
+      "size": 9700,
+      "createdAt": "2026-07-09T16:42:08Z",
+      "updatedAt": "2026-07-09T16:42:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/back.webp",
+      "hash": "fe623b0b1cbc65a68963b9cc99700dfaf27c919ad404080b01ee0022cf417c8d",
+      "width": 480,
+      "height": 480,
+      "size": 14714,
+      "createdAt": "2026-07-09T16:42:08Z",
+      "updatedAt": "2026-07-09T16:42:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/detail-1.webp",
+      "hash": "2c789fbe56037dc43f68278148391cfd0758f1fd444f7c7af27c0e7138587e74",
+      "width": 480,
+      "height": 480,
+      "size": 6930,
+      "createdAt": "2026-07-09T16:42:08Z",
+      "updatedAt": "2026-07-09T16:42:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/detail-2.webp",
+      "hash": "084727180c159b50414f38bcab5607b288bb9d3f1db1840a8490aed1d4db5054",
+      "width": 480,
+      "height": 480,
+      "size": 51650,
+      "createdAt": "2026-07-09T16:42:08Z",
+      "updatedAt": "2026-07-09T16:42:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/detail-3.webp",
+      "hash": "d145966fd83e72b52fe989157755c5ed93e2f38b5d9150a5c88c622e30166170",
+      "width": 480,
+      "height": 480,
+      "size": 59210,
+      "createdAt": "2026-07-09T16:42:08Z",
+      "updatedAt": "2026-07-09T16:42:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/detail-4.webp",
+      "hash": "85f0b7030a02bd7a960d376a822c1a0a08ad18942b920aab13c9a4a536f0e36a",
+      "width": 480,
+      "height": 480,
+      "size": 15810,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-i-2006-2007-masculina-adidas-vermelha-com-detalh-904fd7dd/detail-5.webp",
+      "hash": "cb8e8e0b1d1d623594f95dbd90921e68139b3adb2aca22fd2822dc9f5cf78a6c",
+      "width": 480,
+      "height": 480,
+      "size": 11026,
+      "createdAt": "2026-07-09T16:42:09Z",
+      "updatedAt": "2026-07-09T16:42:09Z"
+    }
+  ]
+}

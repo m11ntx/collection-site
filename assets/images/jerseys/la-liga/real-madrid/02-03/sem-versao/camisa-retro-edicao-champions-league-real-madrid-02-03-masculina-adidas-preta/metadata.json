@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta",
+  "createdAt": "2026-07-09T16:43:49Z",
+  "updatedAt": "2026-07-09T16:43:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/front.webp",
+      "hash": "5e1c63fc6ee0c6008f54ab79e8d77b6c0e3f952450c08d90c13d24e6b9ee6204",
+      "width": 480,
+      "height": 480,
+      "size": 5392,
+      "createdAt": "2026-07-09T16:43:48Z",
+      "updatedAt": "2026-07-09T16:43:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/back.webp",
+      "hash": "d3db2afb66867121a57fec90152669a89188a4ddb630c01a588e2a8ea7c02aee",
+      "width": 480,
+      "height": 480,
+      "size": 3922,
+      "createdAt": "2026-07-09T16:43:48Z",
+      "updatedAt": "2026-07-09T16:43:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/detail-1.webp",
+      "hash": "a770cde365e96d6b781cbc65d7a8ad6594b5d721be0548bb98767405f45d2672",
+      "width": 480,
+      "height": 480,
+      "size": 9124,
+      "createdAt": "2026-07-09T16:43:48Z",
+      "updatedAt": "2026-07-09T16:43:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/detail-2.webp",
+      "hash": "5893481e2e240af880a28b54bc7a2c4643ea098592dde29ffb2f6999241e3d3f",
+      "width": 480,
+      "height": 480,
+      "size": 35510,
+      "createdAt": "2026-07-09T16:43:49Z",
+      "updatedAt": "2026-07-09T16:43:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/detail-3.webp",
+      "hash": "1d7b3cb9e5552c0815d434ab6a40e274a40596eefdde7319db3d7ecda6debe58",
+      "width": 480,
+      "height": 480,
+      "size": 37770,
+      "createdAt": "2026-07-09T16:43:49Z",
+      "updatedAt": "2026-07-09T16:43:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/02-03/sem-versao/camisa-retro-edicao-champions-league-real-madrid-02-03-masculina-adidas-preta/detail-4.webp",
+      "hash": "a489fda989297a13c4c0020d3afe545efc65bac03a29adbcfbcbc853786f899d",
+      "width": 480,
+      "height": 480,
+      "size": 12726,
+      "createdAt": "2026-07-09T16:43:49Z",
+      "updatedAt": "2026-07-09T16:43:49Z"
+    }
+  ]
+}

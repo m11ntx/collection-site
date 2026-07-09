@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-away-04-05-adidas",
+  "createdAt": "2026-07-09T16:42:30Z",
+  "updatedAt": "2026-07-09T16:42:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/front.webp",
+      "hash": "1156655eb436d07105e7de7cf2ec88744dcec20a3d1daa302939dc7fdefa9417",
+      "width": 480,
+      "height": 480,
+      "size": 9462,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/back.webp",
+      "hash": "7a8cd9950a04d950eba2131d96d199926430c48dba70c63b68606920efa3c981",
+      "width": 480,
+      "height": 480,
+      "size": 29202,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/detail-1.webp",
+      "hash": "82951e17b219e3efb844ecee9572c69c00a9d7bd2e8df0d8c025d9074d9f563c",
+      "width": 480,
+      "height": 480,
+      "size": 6106,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/detail-2.webp",
+      "hash": "2d513e4134d68380100fcaea62162a47009c23ca5fc3df5a2a7d6d31b29268ae",
+      "width": 480,
+      "height": 480,
+      "size": 13932,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/detail-3.webp",
+      "hash": "115eb7c193c4fa9d7fe34bab15cab76055f63ba4fe191532710a250a96f6f395",
+      "width": 480,
+      "height": 480,
+      "size": 29480,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/detail-4.webp",
+      "hash": "45b5a6ff8dcd41c313f77b74e33be7a5adb4c214b5fb027b751af4a585918751",
+      "width": 480,
+      "height": 480,
+      "size": 5594,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/04-05/sem-versao/camisa-retro-real-madrid-away-04-05-adidas/detail-5.webp",
+      "hash": "d67391127c3077a429db587527263531594fc21e7b674b62c817db1836cdb57b",
+      "width": 480,
+      "height": 480,
+      "size": 15190,
+      "createdAt": "2026-07-09T16:42:30Z",
+      "updatedAt": "2026-07-09T16:42:30Z"
+    }
+  ]
+}

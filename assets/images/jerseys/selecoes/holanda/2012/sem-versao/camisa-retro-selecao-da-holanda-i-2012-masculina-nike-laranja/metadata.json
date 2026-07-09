@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja",
+  "createdAt": "2026-07-09T16:42:55Z",
+  "updatedAt": "2026-07-09T16:42:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/front.webp",
+      "hash": "c578a4587bcdc938c415f74b238192e6618b9fb438ff370029da834cfc13b1b9",
+      "width": 480,
+      "height": 480,
+      "size": 9442,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/back.webp",
+      "hash": "1cd7edde6dff2aa3902671b6601531d43b615de11af8c053f56f11ff8c900d8b",
+      "width": 480,
+      "height": 480,
+      "size": 6794,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/detail-1.webp",
+      "hash": "4e73efc419d7bbf583926b8f85ddf443a5fdd56736fd27c3f8eab85609c8ce80",
+      "width": 480,
+      "height": 480,
+      "size": 25624,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/detail-2.webp",
+      "hash": "f275993fb451889912be995fccaf3a18a91d80fd0319bea6ba66b03cc17abdf5",
+      "width": 480,
+      "height": 480,
+      "size": 20096,
+      "createdAt": "2026-07-09T16:42:54Z",
+      "updatedAt": "2026-07-09T16:42:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/detail-3.webp",
+      "hash": "1aefbd3df20709ee21bfa11b5bbdbbcc1728cdf962e2ea5216ba8f18c360516e",
+      "width": 480,
+      "height": 480,
+      "size": 50672,
+      "createdAt": "2026-07-09T16:42:55Z",
+      "updatedAt": "2026-07-09T16:42:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/detail-4.webp",
+      "hash": "95d9dea6ae049fde2281a212bfea073c9adcd72c4871852c6b83cb7bdd0ea6e4",
+      "width": 480,
+      "height": 480,
+      "size": 49810,
+      "createdAt": "2026-07-09T16:42:55Z",
+      "updatedAt": "2026-07-09T16:42:55Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-i-2012-masculina-nike-laranja/detail-5.webp",
+      "hash": "ab0475612efbc93fa27e484b2f8454fcf74df7c4980a5bdb0e97bbfb0a19388d",
+      "width": 480,
+      "height": 480,
+      "size": 24760,
+      "createdAt": "2026-07-09T16:42:55Z",
+      "updatedAt": "2026-07-09T16:42:55Z"
+    }
+  ]
+}

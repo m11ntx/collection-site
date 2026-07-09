@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-colo-colo-retro-2006-branca-umbro",
+  "createdAt": "2026-07-09T16:36:49Z",
+  "updatedAt": "2026-07-09T16:36:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/front.webp",
+      "hash": "c0e3e65586a5e6524ac8d5f2d8f51b32d86988dae5efca52c1d9696ac4bc355d",
+      "width": 480,
+      "height": 480,
+      "size": 9722,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/back.webp",
+      "hash": "ae40e3221ea835078baab2b7ae319377a87fd8a9913024c8705685643019c570",
+      "width": 480,
+      "height": 480,
+      "size": 7704,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/detail-1.webp",
+      "hash": "63226c0896b807de8dff8a56bff7764bc63d20d599d5b4507feace38f00a1638",
+      "width": 480,
+      "height": 480,
+      "size": 18472,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/detail-2.webp",
+      "hash": "58a9c3b6e38e477d108f00baad0e31aa294292321acbe92f5786d7b558321427",
+      "width": 480,
+      "height": 480,
+      "size": 17168,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/detail-3.webp",
+      "hash": "fbd557c077417d45046bc1bd7846de55635241bf609b14d419e031c2b3fa92a0",
+      "width": 480,
+      "height": 480,
+      "size": 44504,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/detail-4.webp",
+      "hash": "7b99ceaa510dbbd1c2a25d32aac40f99705bb2f6a1c84653d1ca5d2cd911ab5c",
+      "width": 480,
+      "height": 480,
+      "size": 41912,
+      "createdAt": "2026-07-09T16:36:48Z",
+      "updatedAt": "2026-07-09T16:36:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/colo-colo/2006/sem-versao/camisa-colo-colo-retro-2006-branca-umbro/detail-5.webp",
+      "hash": "7dd559859e06ab806f7ed76c967ab4855b3710c77265640fe2a7b472d3f861a4",
+      "width": 480,
+      "height": 480,
+      "size": 11820,
+      "createdAt": "2026-07-09T16:36:49Z",
+      "updatedAt": "2026-07-09T16:36:49Z"
+    }
+  ]
+}

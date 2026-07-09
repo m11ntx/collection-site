@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalhes-branco-com-patrocinio-parmalat",
+  "createdAt": "2026-07-09T16:44:55Z",
+  "updatedAt": "2026-07-09T16:44:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/front.webp",
+      "hash": "f4fc9eb992c206628c283e20d1159d538b7b4eba04cb598600367d8fc575d23d",
+      "width": 480,
+      "height": 480,
+      "size": 12470,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/back.webp",
+      "hash": "691490efe1327391dbd0f4cef27369dfc5e222e6bf7b03506ec831fc15fc0a1b",
+      "width": 480,
+      "height": 480,
+      "size": 25692,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/detail-1.webp",
+      "hash": "1de91609eb14813f2c991c06cf071089f113bb19f07252af03f3ba65ec29db5c",
+      "width": 480,
+      "height": 480,
+      "size": 10998,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/detail-2.webp",
+      "hash": "47a561df5bedd5c614fc64a0df077c13f6e3031f3c006cb9895fc6e110d8295a",
+      "width": 480,
+      "height": 480,
+      "size": 67088,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/detail-3.webp",
+      "hash": "42aa01493df285a2cd5aec811a16ef8f3beb8390e1653752005758565de80c4f",
+      "width": 480,
+      "height": 480,
+      "size": 76560,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/detail-4.webp",
+      "hash": "53c274263b6de9dda28c281e54d4f47486bdf34fb64879c149899dcdd2525ccd",
+      "width": 480,
+      "height": 480,
+      "size": 33884,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/1996/fan/camisa-retro-palmeiras-1996-torcedor-rhumell-masculina-verde-com-detalh-71859cc1/detail-5.webp",
+      "hash": "58645fd5ae124d737ccdb69a9c6d13a61559a445c8feaad36f926082b459952e",
+      "width": 480,
+      "height": 480,
+      "size": 31440,
+      "createdAt": "2026-07-09T16:44:55Z",
+      "updatedAt": "2026-07-09T16:44:55Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T16:43:10Z",
+  "updatedAt": "2026-07-09T16:43:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/front.webp",
+      "hash": "b7e420ca81f3e4aa5c2c034b82591295da24716c873a237cd426cf8155b26a7d",
+      "width": 480,
+      "height": 480,
+      "size": 7466,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/back.webp",
+      "hash": "605f16d947405197af6b40bc1f5bdb6c97eb319f1826e4a4d85a68c2b3f6b778",
+      "width": 480,
+      "height": 480,
+      "size": 5698,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/detail-1.webp",
+      "hash": "9658fadc9a7a3d97a93bf1999c73862afb7a64f98fa6c6594a6b10f7cfec7c8a",
+      "width": 480,
+      "height": 480,
+      "size": 10822,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/detail-2.webp",
+      "hash": "08f6b0fc44812595c6db42e63fa1c3822d3b0f9e7a83c5da1efbf60651345b00",
+      "width": 480,
+      "height": 480,
+      "size": 75120,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/detail-3.webp",
+      "hash": "ad47271a261f587b0a738c556d6d5b3f81d43c62221e92c1c0462c10cf21ae23",
+      "width": 480,
+      "height": 480,
+      "size": 73564,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/detail-4.webp",
+      "hash": "4a72161b7a3b74898d66619554315df4a9cff23784da1625726565aa13f93831",
+      "width": 480,
+      "height": 480,
+      "size": 10582,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/portugal/2010/sem-versao/camisa-retro-selecao-de-portugal-i-2010-nike-masculina-vermelha-com-det-ee066358/detail-5.webp",
+      "hash": "f1ba332dec063965c06d1221aafccd569ce578ff39d74100d0b3ea225fb5a437",
+      "width": 480,
+      "height": 480,
+      "size": 17274,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    }
+  ]
+}

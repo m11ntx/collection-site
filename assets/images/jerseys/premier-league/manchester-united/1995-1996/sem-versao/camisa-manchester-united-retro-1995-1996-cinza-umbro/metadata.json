@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1995-1996-cinza-umbro",
+  "createdAt": "2026-07-09T16:39:39Z",
+  "updatedAt": "2026-07-09T16:39:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/front.webp",
+      "hash": "780b61a007a73d14406b7640a1668e11d1fdb7a17bf40caed3821fff6edc19bc",
+      "width": 480,
+      "height": 480,
+      "size": 29388,
+      "createdAt": "2026-07-09T16:39:38Z",
+      "updatedAt": "2026-07-09T16:39:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/back.webp",
+      "hash": "fa9d28171edb3d49ac17ff08661faf620e1192e93b9f7348cfc1f95d2d49ef1e",
+      "width": 480,
+      "height": 480,
+      "size": 44362,
+      "createdAt": "2026-07-09T16:39:38Z",
+      "updatedAt": "2026-07-09T16:39:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/detail-1.webp",
+      "hash": "d7de5c5539664459620ef8a2a725db2c3deec891c767afcf93ad1bff44c96743",
+      "width": 480,
+      "height": 480,
+      "size": 103514,
+      "createdAt": "2026-07-09T16:39:38Z",
+      "updatedAt": "2026-07-09T16:39:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/detail-2.webp",
+      "hash": "e919f0eb200d9d806a90ddd7a9dccfbf5ee289d72b9dc281fd601b8a5dcdd61e",
+      "width": 480,
+      "height": 480,
+      "size": 67190,
+      "createdAt": "2026-07-09T16:39:38Z",
+      "updatedAt": "2026-07-09T16:39:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/detail-3.webp",
+      "hash": "c1c36c8ae617d887622e481e3d000b092573d5561d236a45d97947ad91329100",
+      "width": 480,
+      "height": 480,
+      "size": 95966,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/detail-4.webp",
+      "hash": "c9d1e73cf63bfae9c1364088b286e1238298add083444c7f962772196746933b",
+      "width": 480,
+      "height": 480,
+      "size": 112048,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1995-1996/sem-versao/camisa-manchester-united-retro-1995-1996-cinza-umbro/detail-5.webp",
+      "hash": "93c4286a846c6a9664fd9cc934426d3cb75573b61f950adfa9d8b88b71d13c08",
+      "width": 480,
+      "height": 480,
+      "size": 61608,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    }
+  ]
+}

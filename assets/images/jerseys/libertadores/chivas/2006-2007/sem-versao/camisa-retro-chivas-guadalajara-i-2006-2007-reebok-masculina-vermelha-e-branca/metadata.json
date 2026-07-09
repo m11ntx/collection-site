@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca",
+  "createdAt": "2026-07-09T16:36:47Z",
+  "updatedAt": "2026-07-09T16:36:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/front.webp",
+      "hash": "dc299ea0e0c4d9ffb24170b9344ea07e629a6fa0b4597c0724194ee8b3d139b2",
+      "width": 480,
+      "height": 480,
+      "size": 16928,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/back.webp",
+      "hash": "7e483c9f1a3fd4f6b1ed9760f40d6193495af328cfd3f6cc5c4aad000816fc63",
+      "width": 480,
+      "height": 480,
+      "size": 11388,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/detail-1.webp",
+      "hash": "3f2d88adfe3f89da0313ad368178970b00568416a8d823532e8ecd735f151913",
+      "width": 480,
+      "height": 480,
+      "size": 26554,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/detail-2.webp",
+      "hash": "44280e59a8d9fe67ba7e6feb9afd17849ae5e3005367afd4aecfc2a2abe883b5",
+      "width": 480,
+      "height": 480,
+      "size": 23962,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/detail-3.webp",
+      "hash": "a1e2ea850ea223a6e89b475b1a4bf08754cdbf8f26faf9312a21dc3ad9e54298",
+      "width": 480,
+      "height": 480,
+      "size": 81290,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/detail-4.webp",
+      "hash": "e608fb3a7dc641a499220e6600a498f315a43584f4b53d5e53e3655f2ec420b6",
+      "width": 480,
+      "height": 480,
+      "size": 14448,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-retro-chivas-guadalajara-i-2006-2007-reebok-masculina-vermelha-e-branca/detail-5.webp",
+      "hash": "a618d0c612785af28a9a8b1b1f549fe31a76cc14b441c194e0f7e9d151f85bd4",
+      "width": 480,
+      "height": 480,
+      "size": 26468,
+      "createdAt": "2026-07-09T16:36:47Z",
+      "updatedAt": "2026-07-09T16:36:47Z"
+    }
+  ]
+}

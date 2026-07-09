@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-milan-de-06-07-pacth-champions",
+  "createdAt": "2026-07-09T16:42:16Z",
+  "updatedAt": "2026-07-09T16:42:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/06-07/sem-versao/camisa-retro-milan-de-06-07-pacth-champions/front.webp",
+      "hash": "0c563e21b8b4c8faba7fe25ff992b5b87d8cfb376a598dd985200bb88dfdb711",
+      "width": 480,
+      "height": 480,
+      "size": 15476,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/06-07/sem-versao/camisa-retro-milan-de-06-07-pacth-champions/back.webp",
+      "hash": "4de927908d4bca60bc06b727fd3fdf95276b65eb42a2e5533983af952aa2f37f",
+      "width": 480,
+      "height": 480,
+      "size": 7860,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    }
+  ]
+}

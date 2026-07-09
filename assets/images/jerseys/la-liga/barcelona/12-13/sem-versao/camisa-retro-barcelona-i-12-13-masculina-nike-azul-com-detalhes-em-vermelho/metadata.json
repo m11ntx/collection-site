@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T16:41:07Z",
+  "updatedAt": "2026-07-09T16:41:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/front.webp",
+      "hash": "813a3659539c783780b64fcdc1041403878766891020c76e13766b047c90d4f6",
+      "width": 480,
+      "height": 480,
+      "size": 15278,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/back.webp",
+      "hash": "ae8f43193f4de3bcf432e73452e861094e1cc47b818840b02807bed0c4a99826",
+      "width": 480,
+      "height": 480,
+      "size": 13834,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "31be379dff618fa628f0508dc9752ee28b503e67ad2e2c98fc19023375f41e85",
+      "width": 480,
+      "height": 480,
+      "size": 34304,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "7e5acb3cac349c7e882074d463c0bb36142f9d04acd79c07c418eafbd38224d6",
+      "width": 480,
+      "height": 480,
+      "size": 78152,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "5e6d2599f4f8fca6b4c5400bfe802b28d4d48747fcf4e7130ac39e5325021c84",
+      "width": 480,
+      "height": 480,
+      "size": 73852,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "d22f2885858a81beef71348032197c7f6d41a37877cbc57a85754a281e64debf",
+      "width": 480,
+      "height": 480,
+      "size": 37116,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/12-13/sem-versao/camisa-retro-barcelona-i-12-13-masculina-nike-azul-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "28247f11a7aec329a55b4e69c46d1da0aee9921c503283d48bf13c2d59d4d343",
+      "width": 480,
+      "height": 480,
+      "size": 42130,
+      "createdAt": "2026-07-09T16:41:06Z",
+      "updatedAt": "2026-07-09T16:41:06Z"
+    }
+  ]
+}

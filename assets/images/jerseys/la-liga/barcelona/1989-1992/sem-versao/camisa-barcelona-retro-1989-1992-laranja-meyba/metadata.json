@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-barcelona-retro-1989-1992-laranja-meyba",
+  "createdAt": "2026-07-09T16:35:51Z",
+  "updatedAt": "2026-07-09T16:35:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/front.webp",
+      "hash": "ae1cd5191f659dc09f3f39971fe879a0f32c64cfa99cae37eb595793c2c0bfd0",
+      "width": 480,
+      "height": 480,
+      "size": 10832,
+      "createdAt": "2026-07-09T16:35:50Z",
+      "updatedAt": "2026-07-09T16:35:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/back.webp",
+      "hash": "a062bac89a6738d56c41d0f9f544f7e80e47b4d3759356d2a1b630e37af43a1a",
+      "width": 480,
+      "height": 480,
+      "size": 8708,
+      "createdAt": "2026-07-09T16:35:50Z",
+      "updatedAt": "2026-07-09T16:35:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/detail-1.webp",
+      "hash": "5da4a783926a174037801e1b5a5dcc88d13b2b6674dbe585347f4d4be7071685",
+      "width": 480,
+      "height": 480,
+      "size": 23386,
+      "createdAt": "2026-07-09T16:35:50Z",
+      "updatedAt": "2026-07-09T16:35:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/detail-2.webp",
+      "hash": "c58a67c060fedbad83a77f2fc6bb6c3d68482b34676a2cc0dbddc41e1a552a04",
+      "width": 480,
+      "height": 480,
+      "size": 17208,
+      "createdAt": "2026-07-09T16:35:51Z",
+      "updatedAt": "2026-07-09T16:35:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/detail-3.webp",
+      "hash": "6193b7a99f36a451ee3429e2155dcdf882e36c0857c772ea0a1a06d4636e9228",
+      "width": 480,
+      "height": 480,
+      "size": 41116,
+      "createdAt": "2026-07-09T16:35:51Z",
+      "updatedAt": "2026-07-09T16:35:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/detail-4.webp",
+      "hash": "8266e37af4a1c40378a3afff0b81729e015940c04e36e87f6879e476dc9636a8",
+      "width": 480,
+      "height": 480,
+      "size": 40664,
+      "createdAt": "2026-07-09T16:35:51Z",
+      "updatedAt": "2026-07-09T16:35:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/1989-1992/sem-versao/camisa-barcelona-retro-1989-1992-laranja-meyba/detail-5.webp",
+      "hash": "25368eca8af97a2c4e702108a3aa439eefed03b9931498c137f4471e56da9dcf",
+      "width": 480,
+      "height": 480,
+      "size": 25844,
+      "createdAt": "2026-07-09T16:35:51Z",
+      "updatedAt": "2026-07-09T16:35:51Z"
+    }
+  ]
+}

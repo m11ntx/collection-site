@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica",
+  "createdAt": "2026-07-09T16:36:45Z",
+  "updatedAt": "2026-07-09T16:36:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/front.webp",
+      "hash": "5d11ef3423986ed10e8b9477a0943cd994d63bdbc86fa4d69b0601a53a3c2cd8",
+      "width": 480,
+      "height": 480,
+      "size": 18708,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/back.webp",
+      "hash": "17b505f159ace0846786125909a2a7d6808619b074a947c6836f5f516b669c6f",
+      "width": 480,
+      "height": 480,
+      "size": 16058,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/detail-1.webp",
+      "hash": "720ef219532cce428a4a02162cdf673d1eb4dee3249b9a6c7b7b12647d7e8169",
+      "width": 480,
+      "height": 480,
+      "size": 27496,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/detail-2.webp",
+      "hash": "ef759681c5ccf42b0a1ebea198dc2e8c183901ef22523f0ea06b51658a01f4a5",
+      "width": 480,
+      "height": 480,
+      "size": 29998,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/detail-3.webp",
+      "hash": "d95502ff75519ac0aa4183f400c49293eecfdf163922aa38c7d969c9bf416fd4",
+      "width": 480,
+      "height": 480,
+      "size": 55458,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/detail-4.webp",
+      "hash": "ed32d3477a17d63a7ffd9b0700ad2793bd12f1995dc157535917bf0c0ed967d0",
+      "width": 480,
+      "height": 480,
+      "size": 47728,
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/chivas/1998-1999/sem-versao/camisa-chivas-retro-1998-1999-vermelha-e-branca-atletica/detail-5.webp",
+      "hash": "1b7a9a7d98ab49c719d258cc7591584612e579737086b4d34999f757ae9f8a6a",
+      "width": 480,
+      "height": 480,
+      "size": 19246,
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
+    }
+  ]
+}

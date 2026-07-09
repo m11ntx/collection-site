@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-adidas-japao-edicao-especial-100-anos-masculina",
+  "createdAt": "2026-07-09T16:40:47Z",
+  "updatedAt": "2026-07-09T16:40:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/sem-temporada/sem-versao/camisa-retro-adidas-japao-edicao-especial-100-anos-masculina/front.webp",
+      "hash": "089d7ee8d60a0248bcb84749b9d50e628f0e5adf8b4ad1c3132a0543d7cc0460",
+      "width": 480,
+      "height": 480,
+      "size": 4316,
+      "createdAt": "2026-07-09T16:40:47Z",
+      "updatedAt": "2026-07-09T16:40:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/sem-temporada/sem-versao/camisa-retro-adidas-japao-edicao-especial-100-anos-masculina/back.webp",
+      "hash": "d3bf9e7a3aee649d9e0ee4090f9a6b01e29da37e2aa4e5053f806f88c1fc7f5e",
+      "width": 480,
+      "height": 480,
+      "size": 3058,
+      "createdAt": "2026-07-09T16:40:47Z",
+      "updatedAt": "2026-07-09T16:40:47Z"
+    }
+  ]
+}

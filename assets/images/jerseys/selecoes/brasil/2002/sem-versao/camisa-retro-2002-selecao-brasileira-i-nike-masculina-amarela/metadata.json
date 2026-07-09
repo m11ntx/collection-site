@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela",
+  "createdAt": "2026-07-09T16:40:36Z",
+  "updatedAt": "2026-07-09T16:40:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/front.webp",
+      "hash": "2aef4d17030373257cd5340657c9c466500b9a83ac7ef2aabb875db4f15434f7",
+      "width": 480,
+      "height": 480,
+      "size": 12810,
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/back.webp",
+      "hash": "1b05a851abfb6fc1c4c6645c3f826fec8b49ce3b93730e38be633f0156eaeec3",
+      "width": 480,
+      "height": 480,
+      "size": 7798,
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/detail-1.webp",
+      "hash": "f704f2bdffd6fd0732a57257f54f64f84c537ebab207fdea33fdaa133454a307",
+      "width": 480,
+      "height": 480,
+      "size": 16924,
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/detail-2.webp",
+      "hash": "25f9629da1515e7298733944310c36a0238e8c34db3403c74445f6f16e5e95d0",
+      "width": 480,
+      "height": 480,
+      "size": 19004,
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/detail-3.webp",
+      "hash": "e27ee264ee0a40564319399d83673c90d83dabad38f281ad9395f37cd81276dd",
+      "width": 480,
+      "height": 480,
+      "size": 12206,
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/detail-4.webp",
+      "hash": "e48e61a3054ddc82601517d96353cb40eccf172cf937daedfa3aba2d91b3f1b7",
+      "width": 480,
+      "height": 480,
+      "size": 27936,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-i-nike-masculina-amarela/detail-5.webp",
+      "hash": "a73637711ac2e0cd5fa1d807967aeec65748e4e3815e3722a23ab76bd400dea3",
+      "width": 480,
+      "height": 480,
+      "size": 37858,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    }
+  ]
+}

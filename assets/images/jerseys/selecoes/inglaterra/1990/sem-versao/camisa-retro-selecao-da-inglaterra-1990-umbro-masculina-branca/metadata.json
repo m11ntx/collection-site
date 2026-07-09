@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca",
+  "createdAt": "2026-07-09T16:38:34Z",
+  "updatedAt": "2026-07-09T16:38:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/front.webp",
+      "hash": "391cb28860faed02cc7f51a36bf9ce749288466e52e8f7a094c145a338e15aae",
+      "width": 480,
+      "height": 480,
+      "size": 9158,
+      "createdAt": "2026-07-09T16:38:33Z",
+      "updatedAt": "2026-07-09T16:38:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/back.webp",
+      "hash": "55312ab6db40ab54c836c954eb326a27dd8250526fd84040db60df701dd7b053",
+      "width": 480,
+      "height": 480,
+      "size": 7410,
+      "createdAt": "2026-07-09T16:38:33Z",
+      "updatedAt": "2026-07-09T16:38:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/detail-1.webp",
+      "hash": "0a43b2bd4e21ff88b1cb6e3e33893066563ecc341318f40a75209597b6a0d2d7",
+      "width": 480,
+      "height": 480,
+      "size": 45576,
+      "createdAt": "2026-07-09T16:38:33Z",
+      "updatedAt": "2026-07-09T16:38:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/detail-2.webp",
+      "hash": "0ee26bcf331c34c886c78548e1b5530cae3108b9056ef657811742ca49622e40",
+      "width": 480,
+      "height": 480,
+      "size": 53126,
+      "createdAt": "2026-07-09T16:38:33Z",
+      "updatedAt": "2026-07-09T16:38:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/detail-3.webp",
+      "hash": "f806931985cf9c1f0f54bf3a515eff87c8d17ecb8409c9a0ba95048a414f9cdb",
+      "width": 480,
+      "height": 480,
+      "size": 15960,
+      "createdAt": "2026-07-09T16:38:34Z",
+      "updatedAt": "2026-07-09T16:38:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/detail-4.webp",
+      "hash": "72e694a593cbb70d5808b5cd8ad987f50e332c154f282eacd3ea87a19bf548f0",
+      "width": 480,
+      "height": 480,
+      "size": 22288,
+      "createdAt": "2026-07-09T16:38:34Z",
+      "updatedAt": "2026-07-09T16:38:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1990/sem-versao/camisa-retro-selecao-da-inglaterra-1990-umbro-masculina-branca/detail-5.webp",
+      "hash": "de8df3ca87a3a62afceafd2902d7929c9afee7bb67aef7d61ca384bb4c573c3e",
+      "width": 480,
+      "height": 480,
+      "size": 18980,
+      "createdAt": "2026-07-09T16:38:34Z",
+      "updatedAt": "2026-07-09T16:38:34Z"
+    }
+  ]
+}

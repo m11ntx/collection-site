@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:40:51Z",
+  "updatedAt": "2026-07-09T16:40:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/front.webp",
+      "hash": "c5366d8f2d36e563c8d0d0b572a49500fff08afea4838510e551f6773c0685bc",
+      "width": 480,
+      "height": 480,
+      "size": 12132,
+      "createdAt": "2026-07-09T16:40:50Z",
+      "updatedAt": "2026-07-09T16:40:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/back.webp",
+      "hash": "12b671ac835fb9fdb1db78f1af048d606072426a6fa20bda700d2af070539cca",
+      "width": 480,
+      "height": 480,
+      "size": 8176,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/detail-1.webp",
+      "hash": "b953f22313542746f9f9b0fbd620d38b629897478ae213b901a4b7398a16be9c",
+      "width": 480,
+      "height": 480,
+      "size": 14722,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/detail-2.webp",
+      "hash": "1b4571f7da4596376ff7dc20c06cfb2c46c1d51fb4c295f75ee37fe6cfade090",
+      "width": 480,
+      "height": 480,
+      "size": 76460,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/detail-3.webp",
+      "hash": "c7b249cedee3293e8401faa2f9e3099ed36e22f2dce2d5677fac5de1964ebc2e",
+      "width": 480,
+      "height": 480,
+      "size": 61134,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/detail-4.webp",
+      "hash": "49d98c88a1aef5940f91cc2bdc911522c5871cdb5ea2c3b5bb4bf5d78fdb39fc",
+      "width": 480,
+      "height": 480,
+      "size": 32392,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/camisa-retro-selecao-da-alemanha-ii-1996-masculina-adidas-verde-com-det-ce020df5/detail-5.webp",
+      "hash": "5915a205286f16c5779d4e92790baabe929dc5f456cbbb061e22476e423acdc7",
+      "width": 480,
+      "height": 480,
+      "size": 15052,
+      "createdAt": "2026-07-09T16:40:51Z",
+      "updatedAt": "2026-07-09T16:40:51Z"
+    }
+  ]
+}

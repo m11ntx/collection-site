@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-arsenal-retro-1998-vermelha-e-branca-nike",
+  "createdAt": "2026-07-09T16:35:36Z",
+  "updatedAt": "2026-07-09T16:35:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/front.webp",
+      "hash": "605a9e0adcf4a6cbed61f5e0dd008288705b2fbb2d857eb18d5024ac32ebaedc",
+      "width": 480,
+      "height": 640,
+      "size": 14792,
+      "createdAt": "2026-07-09T16:35:35Z",
+      "updatedAt": "2026-07-09T16:35:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/back.webp",
+      "hash": "7db43709681c5986b967e3056a379ba7cb186a35c2ae0647b6aef3e789c31484",
+      "width": 480,
+      "height": 640,
+      "size": 10886,
+      "createdAt": "2026-07-09T16:35:35Z",
+      "updatedAt": "2026-07-09T16:35:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/detail-1.webp",
+      "hash": "b73b6b4b063301c85059b3a5621d9a1d44c4cce55a5bfb24b78cf73be6edb0fe",
+      "width": 480,
+      "height": 640,
+      "size": 59126,
+      "createdAt": "2026-07-09T16:35:35Z",
+      "updatedAt": "2026-07-09T16:35:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/detail-2.webp",
+      "hash": "df9d7c5804102fa349e274b84381fe69182f51dc32085f31649d53d9761dae9d",
+      "width": 480,
+      "height": 640,
+      "size": 84368,
+      "createdAt": "2026-07-09T16:35:36Z",
+      "updatedAt": "2026-07-09T16:35:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/detail-3.webp",
+      "hash": "6d9285f9fcaa658e62b419bf1167b732d67b86fae4ca89c0cb6f749ba162e801",
+      "width": 480,
+      "height": 640,
+      "size": 31882,
+      "createdAt": "2026-07-09T16:35:36Z",
+      "updatedAt": "2026-07-09T16:35:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/detail-4.webp",
+      "hash": "02afd1cdb9c197955c07c6d66b2314129d1d4bdb182392a71b9a5a4aedca1dea",
+      "width": 480,
+      "height": 640,
+      "size": 27102,
+      "createdAt": "2026-07-09T16:35:36Z",
+      "updatedAt": "2026-07-09T16:35:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/1998/sem-versao/camisa-arsenal-retro-1998-vermelha-e-branca-nike/detail-5.webp",
+      "hash": "e544919d8acb3abab46d5f81daa98ea248e3ea05291f4cc53fb5442553c818ea",
+      "width": 480,
+      "height": 640,
+      "size": 71024,
+      "createdAt": "2026-07-09T16:35:36Z",
+      "updatedAt": "2026-07-09T16:35:36Z"
+    }
+  ]
+}

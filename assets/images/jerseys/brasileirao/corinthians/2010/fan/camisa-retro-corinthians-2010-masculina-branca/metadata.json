@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-corinthians-2010-masculina-branca",
+  "createdAt": "2026-07-09T16:41:31Z",
+  "updatedAt": "2026-07-09T16:41:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2010/fan/camisa-retro-corinthians-2010-masculina-branca/front.webp",
+      "hash": "31d1853e097b7f7c402651751e3ee4af7a2c27f2f014eb1c63a0d9d8459e9041",
+      "width": 480,
+      "height": 480,
+      "size": 11924,
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2010/fan/camisa-retro-corinthians-2010-masculina-branca/back.webp",
+      "hash": "00dfff2ff98adfb244d1812c7f9316a5c4d20f8e1902fe9cddd0d1ac6c5c23eb",
+      "width": 480,
+      "height": 480,
+      "size": 8758,
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
+    }
+  ]
+}

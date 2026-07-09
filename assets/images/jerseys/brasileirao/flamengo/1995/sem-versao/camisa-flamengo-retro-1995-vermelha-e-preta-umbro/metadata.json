@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-retro-1995-vermelha-e-preta-umbro",
+  "createdAt": "2026-07-09T16:38:23Z",
+  "updatedAt": "2026-07-09T16:38:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/front.webp",
+      "hash": "3a9aba484245648f3edbb5d8242bab18927011c92d9dbac0db582a1460b84382",
+      "width": 480,
+      "height": 480,
+      "size": 20514,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/back.webp",
+      "hash": "04f388961ccb33479e2e07559a21283e2a9b6f5c7a131e6eaa408394f709d4e9",
+      "width": 480,
+      "height": 480,
+      "size": 17360,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/detail-1.webp",
+      "hash": "464951a300536dddda8dec1d753b754e8860db2db40a6d376bbc8a2e6f89a1de",
+      "width": 480,
+      "height": 480,
+      "size": 55384,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/detail-2.webp",
+      "hash": "873ac5056799ea9b366234f3a2e34a6fc086d675965d9eb7ae154b19b00d1f2c",
+      "width": 480,
+      "height": 480,
+      "size": 40322,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/detail-3.webp",
+      "hash": "1fee0001a32281a6f0876368012d38320f5ac28e22efb802a2b4343b25106c3e",
+      "width": 480,
+      "height": 480,
+      "size": 13500,
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/detail-4.webp",
+      "hash": "c76c1b785b948a3d460307faeaf1b6eb59b9e84695a9cc94ca71e0a00dcbf3f2",
+      "width": 480,
+      "height": 480,
+      "size": 31132,
+      "createdAt": "2026-07-09T16:38:23Z",
+      "updatedAt": "2026-07-09T16:38:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1995/sem-versao/camisa-flamengo-retro-1995-vermelha-e-preta-umbro/detail-5.webp",
+      "hash": "d49fdd7af0780bb7a0bbc5bf74d78c60977734229ab9eae4a534ae9d78fff9a9",
+      "width": 480,
+      "height": 480,
+      "size": 20650,
+      "createdAt": "2026-07-09T16:38:23Z",
+      "updatedAt": "2026-07-09T16:38:23Z"
+    }
+  ]
+}

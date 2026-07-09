@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca",
+  "createdAt": "2026-07-09T16:42:49Z",
+  "updatedAt": "2026-07-09T16:42:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/front.webp",
+      "hash": "7d301bd7edcba671813760c6a98df517d69bf305d27b4174b4d757592dab9897",
+      "width": 480,
+      "height": 640,
+      "size": 16284,
+      "createdAt": "2026-07-09T16:42:48Z",
+      "updatedAt": "2026-07-09T16:42:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/back.webp",
+      "hash": "2cf86b44126db9bc50b2802b3312ad6fd2a2760e544c4c6c6285c3aad7a00edb",
+      "width": 480,
+      "height": 640,
+      "size": 10710,
+      "createdAt": "2026-07-09T16:42:48Z",
+      "updatedAt": "2026-07-09T16:42:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/detail-1.webp",
+      "hash": "136339d881afab4aff12bc74a228daa692c249366fb4fb473332943dca03321a",
+      "width": 480,
+      "height": 640,
+      "size": 73964,
+      "createdAt": "2026-07-09T16:42:48Z",
+      "updatedAt": "2026-07-09T16:42:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/detail-2.webp",
+      "hash": "d09f7b0970cfc0f403ff83c013f908a1e79bc3106211728b3b22fadfe3f5d866",
+      "width": 480,
+      "height": 640,
+      "size": 40816,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/detail-3.webp",
+      "hash": "63f704dd39b4348f10e7d2625549361d3af0e484c871a56577092eb63dd356cf",
+      "width": 480,
+      "height": 640,
+      "size": 40796,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/detail-4.webp",
+      "hash": "20a03dda49f11781a9afb7f5ca7edf23cbaaf2edc23d9244d90462845b4c7d4e",
+      "width": 480,
+      "height": 640,
+      "size": 40768,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/franca/2006/sem-versao/camisa-retro-selecao-da-franca-ii-2006-adidas-masculina-branca/detail-5.webp",
+      "hash": "0b40f9e7a5244fe8cd1a529e54a9bd1abbc00458fd7232530f143da5d861bf6d",
+      "width": 480,
+      "height": 640,
+      "size": 28772,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    }
+  ]
+}

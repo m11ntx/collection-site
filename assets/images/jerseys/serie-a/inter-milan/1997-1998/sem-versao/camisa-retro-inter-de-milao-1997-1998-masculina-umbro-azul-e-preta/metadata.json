@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta",
+  "createdAt": "2026-07-09T16:41:44Z",
+  "updatedAt": "2026-07-09T16:41:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/front.webp",
+      "hash": "e29ed200e676521f69f99a4fac89d3848a4648e1caad547de74de2b6620e6599",
+      "width": 480,
+      "height": 480,
+      "size": 18844,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/back.webp",
+      "hash": "50105fdd70beaae55c7a251e9cbdbdaa621706529f2ca5854ab145c0c284e6e1",
+      "width": 480,
+      "height": 480,
+      "size": 16498,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/detail-1.webp",
+      "hash": "a974d02e17a7bcf69334dd16623afff6d9d8d30c5515bddb518c9cc6067e57a2",
+      "width": 480,
+      "height": 480,
+      "size": 64942,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/detail-2.webp",
+      "hash": "274d456e8c0b1e5d0240a282533cf35cd2b9f13b8c4e50b48efa5e419251dc5d",
+      "width": 480,
+      "height": 480,
+      "size": 55530,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/detail-3.webp",
+      "hash": "96f2ecca58f233ddbed566e68feff599f8765e11364f9f18ed1f30545b870cfa",
+      "width": 480,
+      "height": 480,
+      "size": 90180,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/detail-4.webp",
+      "hash": "fed442594ca5d92df1ba2ff86aa8a5366d1b6e395269ab5c2301695e699dee25",
+      "width": 480,
+      "height": 480,
+      "size": 54894,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1997-1998/sem-versao/camisa-retro-inter-de-milao-1997-1998-masculina-umbro-azul-e-preta/detail-5.webp",
+      "hash": "e5e494a98c009bbdbeff0c0ed8e9d14a7c90ac21ca20040e01c8bb9adfa37d8a",
+      "width": 480,
+      "height": 480,
+      "size": 63050,
+      "createdAt": "2026-07-09T16:41:43Z",
+      "updatedAt": "2026-07-09T16:41:43Z"
+    }
+  ]
+}

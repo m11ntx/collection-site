@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca",
+  "createdAt": "2026-07-09T16:40:45Z",
+  "updatedAt": "2026-07-09T16:40:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/front.webp",
+      "hash": "a25b0717771d4d9a4ea938281b21de7321c8588a8559debd1872c8670b2804c7",
+      "width": 480,
+      "height": 480,
+      "size": 7264,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/back.webp",
+      "hash": "19d973f54422f4c81d68b7460958e2de2d094f3ff82a184d79a38bd1fac89bdf",
+      "width": 480,
+      "height": 480,
+      "size": 11976,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/detail-1.webp",
+      "hash": "db454d543dee54fe4102870df543a6bd841edfb3cf67c43aa2accc87b150861e",
+      "width": 480,
+      "height": 480,
+      "size": 4504,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/detail-2.webp",
+      "hash": "45da647bce7fea55ece944e1f65c7d16524431fe9b836d4279e0294124301ff8",
+      "width": 480,
+      "height": 480,
+      "size": 21292,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/detail-3.webp",
+      "hash": "dd14a37718fe6dc36dc57f0705c1fc593fe3a5750901c2de9d243146155647a1",
+      "width": 480,
+      "height": 480,
+      "size": 21102,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/detail-4.webp",
+      "hash": "444e0452ebdb3c0c3c4698cd7cd21e58f758e569f0cd9f6477e8a1e0ad1d0db1",
+      "width": 480,
+      "height": 480,
+      "size": 10240,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2009-2010/sem-versao/camisa-retro-ac-milan-ii-2009-2010-masculina-adidas-branca/detail-5.webp",
+      "hash": "aba6b1e81848d2f95c42b06a291c1c5ec0a9f100949aa01ed2d6e2063cc37523",
+      "width": 480,
+      "height": 480,
+      "size": 10154,
+      "createdAt": "2026-07-09T16:40:45Z",
+      "updatedAt": "2026-07-09T16:40:45Z"
+    }
+  ]
+}

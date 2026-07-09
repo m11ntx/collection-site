@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta",
+  "createdAt": "2026-07-09T16:38:32Z",
+  "updatedAt": "2026-07-09T16:38:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/front.webp",
+      "hash": "9b1d827cba49868d0cff62473933c17161c4bde20e219edaceac036284ae6b43",
+      "width": 480,
+      "height": 480,
+      "size": 17402,
+      "createdAt": "2026-07-09T16:38:31Z",
+      "updatedAt": "2026-07-09T16:38:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/back.webp",
+      "hash": "d80738fc6f5dc0156555ce31c4753e27ebccfc9028f1f4354f20e8aac6d965cb",
+      "width": 480,
+      "height": 480,
+      "size": 13924,
+      "createdAt": "2026-07-09T16:38:31Z",
+      "updatedAt": "2026-07-09T16:38:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/detail-1.webp",
+      "hash": "3480b703c5bedcab09af0a50907bedb568d81272876f78d886b56152c788e8fd",
+      "width": 480,
+      "height": 480,
+      "size": 23804,
+      "createdAt": "2026-07-09T16:38:32Z",
+      "updatedAt": "2026-07-09T16:38:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/detail-2.webp",
+      "hash": "e4c84d25b81a1e6b6ab1b980c4e2919156556d3f52f6a04218b449f9e578a951",
+      "width": 480,
+      "height": 480,
+      "size": 27834,
+      "createdAt": "2026-07-09T16:38:32Z",
+      "updatedAt": "2026-07-09T16:38:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/detail-3.webp",
+      "hash": "002420684e70aabd3cb3be607df5eea853dda7a3e9d10d060fa36c4bf073345b",
+      "width": 480,
+      "height": 480,
+      "size": 20472,
+      "createdAt": "2026-07-09T16:38:32Z",
+      "updatedAt": "2026-07-09T16:38:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/detail-4.webp",
+      "hash": "d9096a085e3afa2a74c107daa8211994d89fc6fbeaef18b6ac7fefd773c0a615",
+      "width": 480,
+      "height": 480,
+      "size": 44668,
+      "createdAt": "2026-07-09T16:38:32Z",
+      "updatedAt": "2026-07-09T16:38:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/gremio/2000/sem-versao/camisa-retro-gremio-i-2000-masculina-kappa-azul-e-preta/detail-5.webp",
+      "hash": "7ffba3820f51d2c7c5c1c406c8d08da04a14eae52df1b7947ff05d6641a3d809",
+      "width": 480,
+      "height": 480,
+      "size": 16842,
+      "createdAt": "2026-07-09T16:38:32Z",
+      "updatedAt": "2026-07-09T16:38:32Z"
+    }
+  ]
+}

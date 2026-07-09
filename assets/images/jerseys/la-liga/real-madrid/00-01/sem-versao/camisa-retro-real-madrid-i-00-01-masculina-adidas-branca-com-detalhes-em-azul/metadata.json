@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:44:16Z",
+  "updatedAt": "2026-07-09T16:44:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/front.webp",
+      "hash": "82ea0e84264aac3c5ce96e02141df8b3e03f9dfc179843e6ded633d665187b0e",
+      "width": 480,
+      "height": 480,
+      "size": 9168,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/back.webp",
+      "hash": "b6ea51bf0ceb4f17df4265879c11ee4df82c1c35a7a35fedb8b408ca764b6757",
+      "width": 480,
+      "height": 480,
+      "size": 5108,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "fe0892f51fa87961f161ece992c7d17064ef3e78d1a05f91351e165a912c9cb2",
+      "width": 480,
+      "height": 480,
+      "size": 12538,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "216594f6c5dd4d47bb93b914a61026af6b0051b6bad7b9883464ab1a097fa277",
+      "width": 480,
+      "height": 480,
+      "size": 24754,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/detail-3.webp",
+      "hash": "d0852831504f32d5c9745f29e52e976e5d6a5deaa7d3aa7a1000a00998c7e512",
+      "width": 480,
+      "height": 480,
+      "size": 37568,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/detail-4.webp",
+      "hash": "32987dde33c7ebdc678c86451f35edb99cb271d0a0db0f797919bd08d83ee293",
+      "width": 480,
+      "height": 480,
+      "size": 15816,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/00-01/sem-versao/camisa-retro-real-madrid-i-00-01-masculina-adidas-branca-com-detalhes-em-azul/detail-5.webp",
+      "hash": "712be396cd3ea626215a9c439a2b83f1c09249351931cd2970fd2064a8c3e66f",
+      "width": 480,
+      "height": 480,
+      "size": 11518,
+      "createdAt": "2026-07-09T16:44:16Z",
+      "updatedAt": "2026-07-09T16:44:16Z"
+    }
+  ]
+}

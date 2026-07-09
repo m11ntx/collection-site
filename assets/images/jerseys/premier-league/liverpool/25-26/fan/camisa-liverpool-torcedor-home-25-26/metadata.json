@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-torcedor-home-25-26",
+  "createdAt": "2026-07-09T16:39:13Z",
+  "updatedAt": "2026-07-09T16:39:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-torcedor-home-25-26/front.webp",
+      "hash": "10814d65c8ffd6811a0f39b16d43a101668bd262eabcb260ddeb4fca414c1921",
+      "width": 480,
+      "height": 480,
+      "size": 14854,
+      "createdAt": "2026-07-09T16:39:13Z",
+      "updatedAt": "2026-07-09T16:39:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-torcedor-home-25-26/back.webp",
+      "hash": "018100154752fbe57e4a493043a66ef2f47c26d731631430ee26f9140758acf0",
+      "width": 480,
+      "height": 480,
+      "size": 8858,
+      "createdAt": "2026-07-09T16:39:13Z",
+      "updatedAt": "2026-07-09T16:39:13Z"
+    }
+  ]
+}

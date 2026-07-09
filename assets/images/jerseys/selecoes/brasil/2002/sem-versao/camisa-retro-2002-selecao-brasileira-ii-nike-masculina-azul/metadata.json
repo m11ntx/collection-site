@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul",
+  "createdAt": "2026-07-09T16:40:37Z",
+  "updatedAt": "2026-07-09T16:40:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/front.webp",
+      "hash": "1f65554429b559c71fb7a718928cbca500e9297425f2dcfdc3e4d4af1a08b35c",
+      "width": 480,
+      "height": 480,
+      "size": 11018,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/back.webp",
+      "hash": "250b1bb650f9935cd248d5a7f8988f9a739b8b332db9a8d6923f93f728559c3e",
+      "width": 480,
+      "height": 480,
+      "size": 8376,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/detail-1.webp",
+      "hash": "860977a69fb1cb1e8915a03c955d2a703bb7ab893b172eebe591e2465b12d840",
+      "width": 480,
+      "height": 480,
+      "size": 17296,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/detail-2.webp",
+      "hash": "7593d9e2ec2a13a2c7e63bb53b994b62d3d29cefa876afe84064477b0b174123",
+      "width": 480,
+      "height": 480,
+      "size": 34100,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/detail-3.webp",
+      "hash": "d240f35e6bf14e35159a7a314204b53da8cd92d3f77b7540cd2c982468918e06",
+      "width": 480,
+      "height": 480,
+      "size": 20648,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/detail-4.webp",
+      "hash": "4a538cfdd327054f1cd4c6dde92dce21337b365b21f3aa3075425c7e3fec55c0",
+      "width": 480,
+      "height": 480,
+      "size": 65050,
+      "createdAt": "2026-07-09T16:40:36Z",
+      "updatedAt": "2026-07-09T16:40:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/camisa-retro-2002-selecao-brasileira-ii-nike-masculina-azul/detail-5.webp",
+      "hash": "98ee083010def3d4a592a5c002f0e9c849c2503e0e70d7da511c892137a2d198",
+      "width": 480,
+      "height": 480,
+      "size": 34808,
+      "createdAt": "2026-07-09T16:40:37Z",
+      "updatedAt": "2026-07-09T16:40:37Z"
+    }
+  ]
+}

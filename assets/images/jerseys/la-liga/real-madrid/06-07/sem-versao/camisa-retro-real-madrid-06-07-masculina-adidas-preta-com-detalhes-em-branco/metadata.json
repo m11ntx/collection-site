@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:43:58Z",
+  "updatedAt": "2026-07-09T16:43:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/front.webp",
+      "hash": "9730f1b1e1cc0e12006b5c76b1755d45fdde5bbe9e2da836c45f1f5b6ae0accb",
+      "width": 480,
+      "height": 480,
+      "size": 10852,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/back.webp",
+      "hash": "9f9c3f12fb871d69d824c6d5861ae2c2ea0742a079bf7938433d689af3307276",
+      "width": 480,
+      "height": 480,
+      "size": 6830,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/detail-1.webp",
+      "hash": "1fa8d48d5a15ea4d5f15eaca4e1466fb8b5c846ebd33a4088fbc01fde5045641",
+      "width": 480,
+      "height": 480,
+      "size": 13016,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/detail-2.webp",
+      "hash": "495616e161d21363635eac68504b60b06aa4fe3434a8424ba659bffcfeda76e3",
+      "width": 480,
+      "height": 480,
+      "size": 45642,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/detail-3.webp",
+      "hash": "f312e78bdb6b61747e16423528ab5befdbba487fcdf8b6a123f64aee5a12a182",
+      "width": 480,
+      "height": 480,
+      "size": 67550,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/detail-4.webp",
+      "hash": "f894333420ab966e1bd4a4bfe1454979b285e46917e6e38357d50eb0bdf28e8e",
+      "width": 480,
+      "height": 480,
+      "size": 15226,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/06-07/sem-versao/camisa-retro-real-madrid-06-07-masculina-adidas-preta-com-detalhes-em-branco/detail-5.webp",
+      "hash": "6545f89190fedd8fb053cec5b112ff4dbbcd73a0ce2500d126c53942a57a4616",
+      "width": 480,
+      "height": 480,
+      "size": 18122,
+      "createdAt": "2026-07-09T16:43:58Z",
+      "updatedAt": "2026-07-09T16:43:58Z"
+    }
+  ]
+}

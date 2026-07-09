@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-em-verde-amarelo-e-azul",
+  "createdAt": "2026-07-09T16:44:38Z",
+  "updatedAt": "2026-07-09T16:44:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/front.webp",
+      "hash": "7e3e1cde061b0d416486ade96b39ec5994f574a7cae076ea1f12d1dc34543404",
+      "width": 480,
+      "height": 480,
+      "size": 10104,
+      "createdAt": "2026-07-09T16:44:37Z",
+      "updatedAt": "2026-07-09T16:44:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/back.webp",
+      "hash": "8e15a75dd5ae2ee6929c045157e010e986064a9da3d2bb99ddaff252b3324053",
+      "width": 480,
+      "height": 480,
+      "size": 12790,
+      "createdAt": "2026-07-09T16:44:37Z",
+      "updatedAt": "2026-07-09T16:44:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/detail-1.webp",
+      "hash": "00a6801fe06804cef5f6b93119f78c3a39ba0ab29ff10a1fa77742415f3d544a",
+      "width": 480,
+      "height": 480,
+      "size": 7930,
+      "createdAt": "2026-07-09T16:44:37Z",
+      "updatedAt": "2026-07-09T16:44:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/detail-2.webp",
+      "hash": "619594a2445065542d0eb9562878b6584c3431ef90295930783f865b43b6dee0",
+      "width": 480,
+      "height": 480,
+      "size": 16778,
+      "createdAt": "2026-07-09T16:44:37Z",
+      "updatedAt": "2026-07-09T16:44:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/detail-3.webp",
+      "hash": "985486398eb274affb9f70776511d2f936f096a800ef64660b5ae84f04f5530b",
+      "width": 480,
+      "height": 480,
+      "size": 65812,
+      "createdAt": "2026-07-09T16:44:37Z",
+      "updatedAt": "2026-07-09T16:44:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/detail-4.webp",
+      "hash": "b4957a196c65afcaf9216a6cf9955aa280b63f6f9c41f1892607016dd5b551d0",
+      "width": 480,
+      "height": 480,
+      "size": 80524,
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/91-94/fan/camisa-selecao-brasileira-retro-91-94-umbro-torcedor-masculina-detalhes-703f6124/detail-5.webp",
+      "hash": "ea570034e43230a23c62bc73a514c9c89e56c90bc483b6315244f46e18389cc3",
+      "width": 480,
+      "height": 480,
+      "size": 23036,
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
+    }
+  ]
+}

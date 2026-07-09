@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro",
+  "createdAt": "2026-07-09T16:35:21Z",
+  "updatedAt": "2026-07-09T16:35:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/front.webp",
+      "hash": "e78ceeabd2e002d15cf22fea99ce787dde597dc230a4e90a3b22c21e6560dd23",
+      "width": 480,
+      "height": 480,
+      "size": 14962,
+      "createdAt": "2026-07-09T16:35:20Z",
+      "updatedAt": "2026-07-09T16:35:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/back.webp",
+      "hash": "c8b78d9b43b3b7b69757bf0279e21ab368dcb1de3ce501b63b53745e46b4823e",
+      "width": 480,
+      "height": 480,
+      "size": 8400,
+      "createdAt": "2026-07-09T16:35:20Z",
+      "updatedAt": "2026-07-09T16:35:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/detail-1.webp",
+      "hash": "0f2c1fd8608e6553fec8b1ae5503aee1202a91bc16bdb1f823f825b10c5a01a0",
+      "width": 480,
+      "height": 480,
+      "size": 22820,
+      "createdAt": "2026-07-09T16:35:20Z",
+      "updatedAt": "2026-07-09T16:35:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/detail-2.webp",
+      "hash": "cc5506a7b79a39c42ddde4ac70446f44367c36e77a13ca06283ddb640fc5290c",
+      "width": 480,
+      "height": 480,
+      "size": 22784,
+      "createdAt": "2026-07-09T16:35:21Z",
+      "updatedAt": "2026-07-09T16:35:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/detail-3.webp",
+      "hash": "da5befdbbbe67782bc092202d37b3c9f0954e869f683f2fa3338e6706cc46866",
+      "width": 480,
+      "height": 480,
+      "size": 17618,
+      "createdAt": "2026-07-09T16:35:21Z",
+      "updatedAt": "2026-07-09T16:35:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/detail-4.webp",
+      "hash": "825edb9325f4eef84a456c02582e6dc3ff3a85d452aad9277750292c4d2449a5",
+      "width": 480,
+      "height": 480,
+      "size": 30002,
+      "createdAt": "2026-07-09T16:35:21Z",
+      "updatedAt": "2026-07-09T16:35:21Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/eredivisie/ajax/1997-1998/sem-versao/camisa-ajax-retro-1997-1998-vermelha-e-branca-umbro/detail-5.webp",
+      "hash": "264fcd89fff59b68f59b7632faedb17f6b0130247cf8716a27e2b428658a2355",
+      "width": 480,
+      "height": 480,
+      "size": 17562,
+      "createdAt": "2026-07-09T16:35:21Z",
+      "updatedAt": "2026-07-09T16:35:21Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T16:43:39Z",
+  "updatedAt": "2026-07-09T16:43:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/front.webp",
+      "hash": "78f37077dcf3b98c30e0565b0af858950ad1088b538ba5174e65073dbe03e0aa",
+      "width": 480,
+      "height": 480,
+      "size": 14902,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/back.webp",
+      "hash": "51223565c08ba3dbbe0d737276fae015377ad23d0f7670ccaaba94e76b0d3b56",
+      "width": 480,
+      "height": 480,
+      "size": 8970,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/detail-1.webp",
+      "hash": "73da92ee39d953bfc27c7c6126084191ccd4783efbf76aa673348ba877f4626d",
+      "width": 480,
+      "height": 480,
+      "size": 25272,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/detail-2.webp",
+      "hash": "1c5157d6aa54cc92788c6613c5f638f538d7d24e5c693f24c3b5af64beaee2dc",
+      "width": 480,
+      "height": 480,
+      "size": 73220,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/detail-3.webp",
+      "hash": "845d9565acafb20865ba03ba4b49ed2004d022c5202fd412644941a6f4b8ac51",
+      "width": 480,
+      "height": 480,
+      "size": 26900,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/detail-4.webp",
+      "hash": "d218a198fb35c3a3844e8340ea30ed96847fbc3025b7f8b75e69d03d0dc4dc88",
+      "width": 480,
+      "height": 480,
+      "size": 26550,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2013-2014/sem-versao/camisa-retro-ac-milan-iii-2013-2014-masculina-adidas-dourada-com-detalh-c2c00611/detail-5.webp",
+      "hash": "f77d9a6b183fd61e84e2a9d7c0813aebea4712406196604114572e7fab02c6d6",
+      "width": 480,
+      "height": 480,
+      "size": 16680,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    }
+  ]
+}

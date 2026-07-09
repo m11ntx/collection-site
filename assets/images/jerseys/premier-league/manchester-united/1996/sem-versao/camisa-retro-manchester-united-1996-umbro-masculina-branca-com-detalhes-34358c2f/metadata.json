@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-em-preto-e-vermelho-e-amarelo",
+  "createdAt": "2026-07-09T16:39:42Z",
+  "updatedAt": "2026-07-09T16:39:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/front.webp",
+      "hash": "31f890ebc37ee2212f00bd63d30b705186051eaff02d60f2d58e86f13b751dcc",
+      "width": 480,
+      "height": 480,
+      "size": 7792,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/back.webp",
+      "hash": "a9d371f808d29a2ad0ece5e692cfaf9f4cf1ba3955f1fabb1f91a134a4821f44",
+      "width": 480,
+      "height": 480,
+      "size": 12492,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/detail-1.webp",
+      "hash": "21155b17a8fb57f5034f8916d518fa5c5f4bee38b79e2b13311144c4ad037776",
+      "width": 480,
+      "height": 480,
+      "size": 4264,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/detail-2.webp",
+      "hash": "f9fbe6b0929e9aa00c9ae404a8542689723908026881c925c899255b262b31fe",
+      "width": 480,
+      "height": 480,
+      "size": 29240,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/detail-3.webp",
+      "hash": "6142af55be1e12f8baaea60cb407800b21b892635dcb501ffe0b9bbd714bff3d",
+      "width": 480,
+      "height": 480,
+      "size": 37498,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/detail-4.webp",
+      "hash": "44766984e8dca035368a9ec25cdb0097ad5ec9b629d5ed11ae76665f8f5031c0",
+      "width": 480,
+      "height": 480,
+      "size": 22476,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-1996-umbro-masculina-branca-com-detalhes-34358c2f/detail-5.webp",
+      "hash": "4e269a57d34e12a9a8a0ac836e7e68eaa944fd6719a92c72fcb27fb2a5891689",
+      "width": 480,
+      "height": 480,
+      "size": 10720,
+      "createdAt": "2026-07-09T16:39:41Z",
+      "updatedAt": "2026-07-09T16:39:41Z"
+    }
+  ]
+}

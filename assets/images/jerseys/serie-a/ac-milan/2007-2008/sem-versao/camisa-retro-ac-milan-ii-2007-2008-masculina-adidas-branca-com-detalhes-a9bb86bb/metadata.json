@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-09T16:43:35Z",
+  "updatedAt": "2026-07-09T16:43:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/front.webp",
+      "hash": "f3541c2d4cf756bf9658384d3360ee2b29dfff1e12fc4130436e7bc87a8dcf76",
+      "width": 480,
+      "height": 480,
+      "size": 9656,
+      "createdAt": "2026-07-09T16:43:34Z",
+      "updatedAt": "2026-07-09T16:43:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/back.webp",
+      "hash": "9f748134f0e48f1efc2594814cb49721b69a13a701e3a27cfbb527af44afa504",
+      "width": 480,
+      "height": 480,
+      "size": 5812,
+      "createdAt": "2026-07-09T16:43:34Z",
+      "updatedAt": "2026-07-09T16:43:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/detail-1.webp",
+      "hash": "6bf09b11dde2fba9abe11a85ed17ff6eff507485fe3a68da7d588354291b2024",
+      "width": 480,
+      "height": 480,
+      "size": 14190,
+      "createdAt": "2026-07-09T16:43:34Z",
+      "updatedAt": "2026-07-09T16:43:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/detail-2.webp",
+      "hash": "5ac0d2da2fdc00ec196fd413e17064c8688458483b11588e0cb6ca1c4c10c794",
+      "width": 480,
+      "height": 480,
+      "size": 15430,
+      "createdAt": "2026-07-09T16:43:34Z",
+      "updatedAt": "2026-07-09T16:43:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/detail-3.webp",
+      "hash": "95f505d9818420e1e34b3aa3fbec420c535ae134f95b07aa3f4ac06d885e8758",
+      "width": 480,
+      "height": 480,
+      "size": 23232,
+      "createdAt": "2026-07-09T16:43:34Z",
+      "updatedAt": "2026-07-09T16:43:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/detail-4.webp",
+      "hash": "c93fc5914a47a9e2182d2e5708c63c451e9e01e2e14eb46cf3af8c84503d18b4",
+      "width": 480,
+      "height": 480,
+      "size": 11436,
+      "createdAt": "2026-07-09T16:43:35Z",
+      "updatedAt": "2026-07-09T16:43:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-ii-2007-2008-masculina-adidas-branca-com-detalhes-a9bb86bb/detail-5.webp",
+      "hash": "17648f246a5b79d63976b5aa03a892514cebfc4295b3e0449007f0f63695202f",
+      "width": 480,
+      "height": 480,
+      "size": 10870,
+      "createdAt": "2026-07-09T16:43:35Z",
+      "updatedAt": "2026-07-09T16:43:35Z"
+    }
+  ]
+}

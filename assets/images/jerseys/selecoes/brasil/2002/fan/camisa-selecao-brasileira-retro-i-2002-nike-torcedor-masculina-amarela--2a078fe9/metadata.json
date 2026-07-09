@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T16:44:45Z",
+  "updatedAt": "2026-07-09T16:44:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/front.webp",
+      "hash": "58ac3ac72a1592ea8d9c48d3d9fcaf94f5b6ff89c8727af5996c0a7868abc84e",
+      "width": 480,
+      "height": 480,
+      "size": 9630,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/back.webp",
+      "hash": "78ad72ab510f17a436f55932b1695cddee421ba6e58344c6256098b9402f8e02",
+      "width": 480,
+      "height": 480,
+      "size": 12528,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/detail-1.webp",
+      "hash": "796a7d038951f552a11b107dba68c23aca37501cf9668588baa3ff69536086ff",
+      "width": 480,
+      "height": 480,
+      "size": 5990,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/detail-2.webp",
+      "hash": "b1f1c6b0dc51f6ee0c46f62f59d1e042055e5f7ee2315989b1c66af174eed229",
+      "width": 480,
+      "height": 480,
+      "size": 16602,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/detail-3.webp",
+      "hash": "cbe2c2a7f33331bb5bf740caf22fe759f8100bba224608ae7a63f441a88e4d57",
+      "width": 480,
+      "height": 480,
+      "size": 54456,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/detail-4.webp",
+      "hash": "46df348c8c6d562b0d15b542b522ade94d072a504f86223e7c066c0a2ad2c3c3",
+      "width": 480,
+      "height": 480,
+      "size": 62964,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-i-2002-nike-torcedor-masculina-amarela--2a078fe9/detail-5.webp",
+      "hash": "d73e99e3a6457c0eedf729d3ff09fdebe408b56c94b3e03b0953d6185ebc5d5c",
+      "width": 480,
+      "height": 480,
+      "size": 17824,
+      "createdAt": "2026-07-09T16:44:45Z",
+      "updatedAt": "2026-07-09T16:44:45Z"
+    }
+  ]
+}

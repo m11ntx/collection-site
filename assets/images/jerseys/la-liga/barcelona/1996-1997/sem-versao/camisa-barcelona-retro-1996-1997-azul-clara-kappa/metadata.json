@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-barcelona-retro-1996-1997-azul-clara-kappa",
+  "createdAt": "2026-07-09T16:35:54Z",
+  "updatedAt": "2026-07-09T16:35:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/front.webp",
+      "hash": "8144f51a8340193e81c8c33ecdc68422dac0232a3bd99ab0ed8cf0eed8185408",
+      "width": 480,
+      "height": 480,
+      "size": 20566,
+      "createdAt": "2026-07-09T16:35:53Z",
+      "updatedAt": "2026-07-09T16:35:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/back.webp",
+      "hash": "28ab38926f689be33cc8843bd0b9abb8ebcae94aef895c81782124a95581e8d2",
+      "width": 480,
+      "height": 480,
+      "size": 18172,
+      "createdAt": "2026-07-09T16:35:53Z",
+      "updatedAt": "2026-07-09T16:35:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/detail-1.webp",
+      "hash": "a5fbb636cd373c5f14d82c26b1bb36c8169d4028954fb96ff9add18bad107e93",
+      "width": 480,
+      "height": 480,
+      "size": 32586,
+      "createdAt": "2026-07-09T16:35:53Z",
+      "updatedAt": "2026-07-09T16:35:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/detail-2.webp",
+      "hash": "3785e169127bc53cabd1b3c5f74fa499beff4f4a77a24a5d605d4a6c2920741c",
+      "width": 480,
+      "height": 480,
+      "size": 25946,
+      "createdAt": "2026-07-09T16:35:53Z",
+      "updatedAt": "2026-07-09T16:35:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/detail-3.webp",
+      "hash": "1534302f5379691239ef6300c4025d1786cb820ddb461099ebb3ca754785308e",
+      "width": 480,
+      "height": 480,
+      "size": 46942,
+      "createdAt": "2026-07-09T16:35:54Z",
+      "updatedAt": "2026-07-09T16:35:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/detail-4.webp",
+      "hash": "d95c541f9906772fbecf9ec277fe01ad2369ee0c750545f89ebea32c08d8fadb",
+      "width": 480,
+      "height": 480,
+      "size": 66438,
+      "createdAt": "2026-07-09T16:35:54Z",
+      "updatedAt": "2026-07-09T16:35:54Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/1996-1997/sem-versao/camisa-barcelona-retro-1996-1997-azul-clara-kappa/detail-5.webp",
+      "hash": "bf244e224b73bdf3f80bb686e9730ce174cc14e085bdad0503c763a7b82e10b6",
+      "width": 480,
+      "height": 480,
+      "size": 36562,
+      "createdAt": "2026-07-09T16:35:54Z",
+      "updatedAt": "2026-07-09T16:35:54Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-barcelona-retro-92-95-kappa-azul-e-grena",
+  "createdAt": "2026-07-09T16:36:04Z",
+  "updatedAt": "2026-07-09T16:36:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/92-95/sem-versao/camisa-barcelona-retro-92-95-kappa-azul-e-grena/front.webp",
+      "hash": "527615729e8750727bea8698b60a2f04cfa27f7357a4e102c70100cd65e2c954",
+      "width": 480,
+      "height": 480,
+      "size": 13142,
+      "createdAt": "2026-07-09T16:36:03Z",
+      "updatedAt": "2026-07-09T16:36:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/92-95/sem-versao/camisa-barcelona-retro-92-95-kappa-azul-e-grena/back.webp",
+      "hash": "87ebba4b1581b6b472b0dd6fde2e2244188549543df0e48a59ad80013260c1e2",
+      "width": 480,
+      "height": 480,
+      "size": 11754,
+      "createdAt": "2026-07-09T16:36:03Z",
+      "updatedAt": "2026-07-09T16:36:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/92-95/sem-versao/camisa-barcelona-retro-92-95-kappa-azul-e-grena/detail-1.webp",
+      "hash": "224c4348a56bd531fce1447061dcb8f69579f3b8c6bae0143a484bdc55c015f0",
+      "width": 480,
+      "height": 480,
+      "size": 23896,
+      "createdAt": "2026-07-09T16:36:03Z",
+      "updatedAt": "2026-07-09T16:36:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/92-95/sem-versao/camisa-barcelona-retro-92-95-kappa-azul-e-grena/detail-2.webp",
+      "hash": "da2fc0c47cd2bfb894d7871eaaa8704c956ed551eb738876cad5e43458a55d70",
+      "width": 480,
+      "height": 480,
+      "size": 55956,
+      "createdAt": "2026-07-09T16:36:03Z",
+      "updatedAt": "2026-07-09T16:36:03Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/92-95/sem-versao/camisa-barcelona-retro-92-95-kappa-azul-e-grena/detail-3.webp",
+      "hash": "63fdf0c916fa9e500f6c7104b2cc5f28ed6d78d88864620bff4720421d8b1852",
+      "width": 480,
+      "height": 480,
+      "size": 27194,
+      "createdAt": "2026-07-09T16:36:04Z",
+      "updatedAt": "2026-07-09T16:36:04Z"
+    }
+  ]
+}

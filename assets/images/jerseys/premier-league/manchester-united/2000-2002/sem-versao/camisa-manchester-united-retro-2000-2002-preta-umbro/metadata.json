@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2000-2002-preta-umbro",
+  "createdAt": "2026-07-09T16:39:48Z",
+  "updatedAt": "2026-07-09T16:39:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/front.webp",
+      "hash": "ff0e64e8b4b4360b9c94d093a7e1dc689f8681846004b6d9dcc318b5360e0ec0",
+      "width": 480,
+      "height": 480,
+      "size": 9334,
+      "createdAt": "2026-07-09T16:39:47Z",
+      "updatedAt": "2026-07-09T16:39:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/back.webp",
+      "hash": "d5b6e716a120d96ce6a173f99be470c7da752579920eaea836b8c293a96920bb",
+      "width": 480,
+      "height": 480,
+      "size": 5872,
+      "createdAt": "2026-07-09T16:39:47Z",
+      "updatedAt": "2026-07-09T16:39:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/detail-1.webp",
+      "hash": "274db9e23789f35382a6c9803db0e2f4e560945675d829e5f925f17d87ef5ced",
+      "width": 480,
+      "height": 480,
+      "size": 55228,
+      "createdAt": "2026-07-09T16:39:47Z",
+      "updatedAt": "2026-07-09T16:39:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/detail-2.webp",
+      "hash": "f3c6253812cf449756afccb709d8c6514a1a2c8dc6326d34478f49d924d1fa31",
+      "width": 480,
+      "height": 480,
+      "size": 55688,
+      "createdAt": "2026-07-09T16:39:48Z",
+      "updatedAt": "2026-07-09T16:39:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/detail-3.webp",
+      "hash": "82fa4c069b18ca02a6a2a40bae4197e8fc19fe77b92a90aeb97671a737048733",
+      "width": 480,
+      "height": 480,
+      "size": 12678,
+      "createdAt": "2026-07-09T16:39:48Z",
+      "updatedAt": "2026-07-09T16:39:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/detail-4.webp",
+      "hash": "fa8dce1f435a015a678e8ad02f5990c8e3c20f41285b04e8d6e9910110101123",
+      "width": 480,
+      "height": 480,
+      "size": 16444,
+      "createdAt": "2026-07-09T16:39:48Z",
+      "updatedAt": "2026-07-09T16:39:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2000-2002/sem-versao/camisa-manchester-united-retro-2000-2002-preta-umbro/detail-5.webp",
+      "hash": "7aa3a53b54edbd4044338089b37f88dba3ad9990aa28fb11eb43e4efc197f7cd",
+      "width": 480,
+      "height": 480,
+      "size": 9358,
+      "createdAt": "2026-07-09T16:39:48Z",
+      "updatedAt": "2026-07-09T16:39:48Z"
+    }
+  ]
+}

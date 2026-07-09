@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes-em-branco-com-patrocinio-lubrax",
+  "createdAt": "2026-07-09T16:44:53Z",
+  "updatedAt": "2026-07-09T16:44:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/front.webp",
+      "hash": "6ce947aecb22010ef2370e16cea6cf49ab7b0f61695e47dd6aa3f6aa1bf55e42",
+      "width": 480,
+      "height": 480,
+      "size": 9900,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/back.webp",
+      "hash": "ac71300ed3bfea470b0c6ce7dc2baba5d032718030a4f62d638a893218855d0c",
+      "width": 480,
+      "height": 480,
+      "size": 12108,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/detail-1.webp",
+      "hash": "aac93d8bc55e027a4f4433ce1587cee2e56fdd299c7e9eda27c9a2bd19cb45dd",
+      "width": 480,
+      "height": 480,
+      "size": 7316,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/detail-2.webp",
+      "hash": "f8d440476f0a022bb9b348914ead550a926ba747622deb0af01d25ddd6c9bbe7",
+      "width": 480,
+      "height": 480,
+      "size": 16598,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/detail-3.webp",
+      "hash": "717443e6c7a5f692bfc67af4290983ba9c5781fc5d6874af31f923895eb3c857",
+      "width": 480,
+      "height": 480,
+      "size": 46374,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/detail-4.webp",
+      "hash": "acd2e1e09279408e5ea44e44a339f77d552264b4c451099a543cc0eecec66032",
+      "width": 480,
+      "height": 480,
+      "size": 38322,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/92-93/fan/camisa-flamengo-i-retro-92-93-torcedor-masculina-vermelha-com-detalhes--905806c8/detail-5.webp",
+      "hash": "86539ae05a3b1296a1d61bffadd5fb63feec6b033780c4c4a86b76b89f71569c",
+      "width": 480,
+      "height": 480,
+      "size": 27068,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "productId": "source-camisa-cruzeiro-retro-1993-1994-azul",
+  "createdAt": "2026-07-09T16:37:41Z",
+  "updatedAt": "2026-07-09T16:37:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/front.webp",
+      "hash": "218cc899e8fe1dff81739af93052e013a1a5862f1e4c56570ba9b667a599d1b3",
+      "width": 480,
+      "height": 480,
+      "size": 23658,
+      "createdAt": "2026-07-09T16:36:54Z",
+      "updatedAt": "2026-07-09T16:36:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/back.webp",
+      "hash": "1120a91896c51fb560fc4f63a32c8da5d1777c5dfc89c19f04c5c8d84ba74515",
+      "width": 480,
+      "height": 480,
+      "size": 32488,
+      "createdAt": "2026-07-09T16:37:00Z",
+      "updatedAt": "2026-07-09T16:37:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-1.webp",
+      "hash": "d1fc2753412a0a0fece03422d0a4cf31e659fe7945369e8ffb3492cfe7b10e20",
+      "width": 480,
+      "height": 480,
+      "size": 36366,
+      "createdAt": "2026-07-09T16:37:05Z",
+      "updatedAt": "2026-07-09T16:37:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-2.webp",
+      "hash": "129caa13288c1c11152c77d5ff12dc168387511c17a30723603678a12e0e3547",
+      "width": 480,
+      "height": 480,
+      "size": 29626,
+      "createdAt": "2026-07-09T16:37:12Z",
+      "updatedAt": "2026-07-09T16:37:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-3.webp",
+      "hash": "436ae76eb67c1af60b853359d32c08b49ba53b6a2e4c05184343b17d7dbfb3bc",
+      "width": 480,
+      "height": 480,
+      "size": 65386,
+      "createdAt": "2026-07-09T16:37:18Z",
+      "updatedAt": "2026-07-09T16:37:18Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-4.webp",
+      "hash": "c66ada135bcc88f09c56e7fe771dc85283fb5acbf993905c9c43dc779353ce4d",
+      "width": 480,
+      "height": 480,
+      "size": 76036,
+      "createdAt": "2026-07-09T16:37:18Z",
+      "updatedAt": "2026-07-09T16:37:18Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-5.webp",
+      "hash": "43d78859a0ba586a90636cff0c33710d5f8d521ed2498647eb9a16a51e50bd5d",
+      "width": 480,
+      "height": 480,
+      "size": 36164,
+      "createdAt": "2026-07-09T16:37:18Z",
+      "updatedAt": "2026-07-09T16:37:18Z"
+    },
+    {
+      "view": "detail-6",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-6.webp",
+      "hash": "aa207db23d3f2756fb054917493e3fae5c7758dbbd3dec7eb5d85290a1dfc278",
+      "width": 480,
+      "height": 480,
+      "size": 38320,
+      "createdAt": "2026-07-09T16:37:24Z",
+      "updatedAt": "2026-07-09T16:37:24Z"
+    },
+    {
+      "view": "detail-7",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-7.webp",
+      "hash": "9808104a56b377fbecae781822181094ab799fd55bc832d0f81c92800199e1f0",
+      "width": 480,
+      "height": 480,
+      "size": 35994,
+      "createdAt": "2026-07-09T16:37:30Z",
+      "updatedAt": "2026-07-09T16:37:30Z"
+    },
+    {
+      "view": "detail-8",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/1993-1994/sem-versao/camisa-cruzeiro-retro-1993-1994-azul/detail-8.webp",
+      "hash": "c520dd5e15226d78d4d41f18771b14de6639ed7ae72219e006ca5de3497d489b",
+      "width": 480,
+      "height": 480,
+      "size": 25846,
+      "createdAt": "2026-07-09T16:37:35Z",
+      "updatedAt": "2026-07-09T16:37:35Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul",
+  "createdAt": "2026-07-09T16:42:47Z",
+  "updatedAt": "2026-07-09T16:42:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/front.webp",
+      "hash": "60f3024040d1dd4cb9d25d36be9d1262dafcc1a85acf16243f502398f9947fbf",
+      "width": 480,
+      "height": 480,
+      "size": 13922,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/back.webp",
+      "hash": "29a96627ab088bad5ddb32cf127e9dec55245083d68e378259d2e3f7560805f3",
+      "width": 480,
+      "height": 480,
+      "size": 10116,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/detail-1.webp",
+      "hash": "1c7d707104834c6e08f607d21f215641817a6fd8738fa90ae41fdc1b0fd008c4",
+      "width": 480,
+      "height": 480,
+      "size": 34310,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/detail-2.webp",
+      "hash": "caeff7c1acb9f277a1cf99a1d7dbda56e164062ce355a351d3a0008d04e42b05",
+      "width": 480,
+      "height": 480,
+      "size": 22734,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/detail-3.webp",
+      "hash": "e40505dc349406963794fb4023959740afe585106197a4f74840c098596e3f04",
+      "width": 480,
+      "height": 480,
+      "size": 23232,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/detail-4.webp",
+      "hash": "4f4e8c38403e4fb626ae0dc12fad79b8d95765c3182dedfacb6248cae42ea1a9",
+      "width": 480,
+      "height": 480,
+      "size": 17158,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/franca/1998/sem-versao/camisa-retro-selecao-da-franca-i-1998-masculina-adidas-azul/detail-5.webp",
+      "hash": "d87f5a359e470a54c5fa0641a726e5fd65bc49812fb243073a73e8b395eaade7",
+      "width": 480,
+      "height": 480,
+      "size": 25412,
+      "createdAt": "2026-07-09T16:42:47Z",
+      "updatedAt": "2026-07-09T16:42:47Z"
+    }
+  ]
+}

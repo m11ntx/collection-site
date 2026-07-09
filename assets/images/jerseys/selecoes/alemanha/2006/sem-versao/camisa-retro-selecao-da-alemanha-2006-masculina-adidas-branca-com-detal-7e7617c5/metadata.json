@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T16:40:49Z",
+  "updatedAt": "2026-07-09T16:40:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/front.webp",
+      "hash": "2493b2db07d2a3ba1f10617845dcd927edaea0d686eb2cf049f0c7594d5a57ea",
+      "width": 480,
+      "height": 480,
+      "size": 8948,
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/back.webp",
+      "hash": "1c0c7addca5fa211c30912dedbaf9e122a044d70bfba3d1ba76346bd623fe286",
+      "width": 480,
+      "height": 480,
+      "size": 7148,
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/detail-1.webp",
+      "hash": "c2cd053856abe77c384d94fa58f04feea9841a317fc297eec58713d24febfb08",
+      "width": 480,
+      "height": 480,
+      "size": 12034,
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/detail-2.webp",
+      "hash": "d5237655ef838ea9b9ddd504a45873f1b983d7d2cead872ca9bbbd181d7ce189",
+      "width": 480,
+      "height": 480,
+      "size": 19204,
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/detail-3.webp",
+      "hash": "32ecaff715b259d1a73a863520088267cdec12674469439ae665ff312d0390f9",
+      "width": 480,
+      "height": 480,
+      "size": 35092,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/detail-4.webp",
+      "hash": "e66faac41a6176bfde72cd86e785955d02e493d017eaf9b6473eeed7ef9e4844",
+      "width": 480,
+      "height": 480,
+      "size": 14400,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/2006/sem-versao/camisa-retro-selecao-da-alemanha-2006-masculina-adidas-branca-com-detal-7e7617c5/detail-5.webp",
+      "hash": "bd2e52cdcab220e3f8ef44f1e71299723824d05b4aca87e75127203a855d447f",
+      "width": 480,
+      "height": 480,
+      "size": 9754,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    }
+  ]
+}

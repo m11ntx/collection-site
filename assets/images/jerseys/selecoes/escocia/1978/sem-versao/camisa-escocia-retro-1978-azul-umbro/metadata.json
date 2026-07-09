@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-escocia-retro-1978-azul-umbro",
+  "createdAt": "2026-07-09T16:38:00Z",
+  "updatedAt": "2026-07-09T16:38:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/front.webp",
+      "hash": "391c572b1fb1701f9614e6fbc5f20370ae6b970aadb8d69594a0d825b901d186",
+      "width": 480,
+      "height": 480,
+      "size": 8000,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/back.webp",
+      "hash": "8fbeb5ca3ebddddeef6191c165de5c4252fc45804bb26c52b6df42a6caafcaf8",
+      "width": 480,
+      "height": 480,
+      "size": 5226,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/detail-1.webp",
+      "hash": "7cce6a3ffb11c5eaa4b2612cad608793c25b14aa486e60538bb434b6dae3fb18",
+      "width": 480,
+      "height": 480,
+      "size": 16928,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/detail-2.webp",
+      "hash": "e6501e76bca93949865ec1bf54b429a716844cc0f987c550aec997fe243e1993",
+      "width": 480,
+      "height": 480,
+      "size": 15452,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/detail-3.webp",
+      "hash": "a6e69969439f865e89ec37e4933599c3a268ce67a0a30f424be5734c2f364063",
+      "width": 480,
+      "height": 480,
+      "size": 39384,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/detail-4.webp",
+      "hash": "d8584cacd33d3dc7a58d4a22d594b66f621efcb9a3d8c2926a520fb587580b1d",
+      "width": 480,
+      "height": 480,
+      "size": 31754,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/escocia/1978/sem-versao/camisa-escocia-retro-1978-azul-umbro/detail-5.webp",
+      "hash": "01b08abeea10f6214adccc6d52f058dabebf8a378e1b54c4612c4a7bdfe846fe",
+      "width": 480,
+      "height": 480,
+      "size": 20820,
+      "createdAt": "2026-07-09T16:37:59Z",
+      "updatedAt": "2026-07-09T16:37:59Z"
+    }
+  ]
+}

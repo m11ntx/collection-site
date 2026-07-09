@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T16:42:06Z",
+  "updatedAt": "2026-07-09T16:42:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/front.webp",
+      "hash": "5d581d7efae682565beb5fbf377d3fdaceb0727b4352d26c1a8060a5b07a8b51",
+      "width": 480,
+      "height": 480,
+      "size": 10066,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/back.webp",
+      "hash": "c530d4ccd30cfc1fc1a2dedb3481b3b6a997c0bcd0dfb9e2556ef7cbd1d39670",
+      "width": 480,
+      "height": 480,
+      "size": 5930,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/detail-1.webp",
+      "hash": "f23c0877182010a59d3410b3c42d232e38030132878448b7b94503ee4ca2b4fe",
+      "width": 480,
+      "height": 480,
+      "size": 32432,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/detail-2.webp",
+      "hash": "d9a3c6c44583b5d24bf56e165b56d3736f0aa8d174e4812ec2f1984f29565108",
+      "width": 480,
+      "height": 480,
+      "size": 21656,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/detail-3.webp",
+      "hash": "7decee774607721fd9b6ff785041941b2743db0d3086d631074393a10cbd8045",
+      "width": 480,
+      "height": 480,
+      "size": 30922,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/detail-4.webp",
+      "hash": "b119182d787067f7b713f1baae207af0b3a6851f72744b756e092da5461f5ccc",
+      "width": 480,
+      "height": 480,
+      "size": 22772,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/1996-1997/fan/camisa-retro-liverpool-ii-1996-1997-torcedor-reebok-masculina-bege-com--28e4dba3/detail-5.webp",
+      "hash": "fcc24453c944b8f7192984f175eab1d9796ca83ad39f07688893412b9cb2f791",
+      "width": 480,
+      "height": 480,
+      "size": 30918,
+      "createdAt": "2026-07-09T16:42:05Z",
+      "updatedAt": "2026-07-09T16:42:05Z"
+    }
+  ]
+}

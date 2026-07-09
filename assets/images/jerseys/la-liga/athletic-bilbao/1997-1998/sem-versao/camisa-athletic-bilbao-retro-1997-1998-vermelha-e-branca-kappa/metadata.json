@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa",
+  "createdAt": "2026-07-09T16:35:43Z",
+  "updatedAt": "2026-07-09T16:35:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/front.webp",
+      "hash": "5dd3c5ff9ceb4c4d7fb8901754576c157f28191d1ff1b2b69507395db258b04e",
+      "width": 480,
+      "height": 480,
+      "size": 12746,
+      "createdAt": "2026-07-09T16:35:42Z",
+      "updatedAt": "2026-07-09T16:35:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/back.webp",
+      "hash": "f693f261431509bbbfbcd2df86601ca0f5b6a28fe58bc319a0267f6500c34477",
+      "width": 480,
+      "height": 480,
+      "size": 10206,
+      "createdAt": "2026-07-09T16:35:42Z",
+      "updatedAt": "2026-07-09T16:35:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/detail-1.webp",
+      "hash": "90aebdd50f828773eb22dea24a08e9d0f8a4f3d8e2be1242bed3b7360a6f7e5f",
+      "width": 480,
+      "height": 480,
+      "size": 59922,
+      "createdAt": "2026-07-09T16:35:43Z",
+      "updatedAt": "2026-07-09T16:35:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/detail-2.webp",
+      "hash": "0fbf6de65e5f3422aa98c5514f02c83e9144d112cd14f0ac6315e758cc1d9fef",
+      "width": 480,
+      "height": 480,
+      "size": 19636,
+      "createdAt": "2026-07-09T16:35:43Z",
+      "updatedAt": "2026-07-09T16:35:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/detail-3.webp",
+      "hash": "21c86f6b5c0339c56e2ef2b2a9e3ef143efedca9a53a1ec2c6f8bd29adbb6efb",
+      "width": 480,
+      "height": 480,
+      "size": 20148,
+      "createdAt": "2026-07-09T16:35:43Z",
+      "updatedAt": "2026-07-09T16:35:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/detail-4.webp",
+      "hash": "71ef44ae631bd19af649e6d6803c8d7e28c64ed5a3d13b21e5679dee2ae416ba",
+      "width": 480,
+      "height": 480,
+      "size": 21166,
+      "createdAt": "2026-07-09T16:35:43Z",
+      "updatedAt": "2026-07-09T16:35:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/athletic-bilbao/1997-1998/sem-versao/camisa-athletic-bilbao-retro-1997-1998-vermelha-e-branca-kappa/detail-5.webp",
+      "hash": "b31afc5ef9a0ceb152b543b7f1cfd5e07ee7df0712fb9e26755c3a0c612497d9",
+      "width": 480,
+      "height": 480,
+      "size": 24660,
+      "createdAt": "2026-07-09T16:35:43Z",
+      "updatedAt": "2026-07-09T16:35:43Z"
+    }
+  ]
+}

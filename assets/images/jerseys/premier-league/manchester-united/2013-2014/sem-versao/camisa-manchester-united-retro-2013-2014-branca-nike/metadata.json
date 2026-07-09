@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2013-2014-branca-nike",
+  "createdAt": "2026-07-09T16:39:59Z",
+  "updatedAt": "2026-07-09T16:39:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/front.webp",
+      "hash": "ab2bd53fd1249a5de226c8c1ad14d1d95e441da19c04666a00ddc9e6e6e7ec6e",
+      "width": 480,
+      "height": 480,
+      "size": 6978,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/back.webp",
+      "hash": "69d253d2d43ea7067f2ae6762f537b03a41a419980de39974becaef928e9e145",
+      "width": 480,
+      "height": 480,
+      "size": 3708,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/detail-1.webp",
+      "hash": "2917b7051a3a9594f974cc400abe1bec50058153321387b5ecd844ac4706ad42",
+      "width": 480,
+      "height": 480,
+      "size": 26326,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/detail-2.webp",
+      "hash": "37ff67e0a53ca74aa64a3f914e248ad4fc93f573a2a643f7dd17f01367e5044d",
+      "width": 480,
+      "height": 480,
+      "size": 13736,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/detail-3.webp",
+      "hash": "db07d234f78a4677eb49a5578f05594b6512fbc81a571a76754745ebf11efa68",
+      "width": 480,
+      "height": 480,
+      "size": 53320,
+      "createdAt": "2026-07-09T16:39:59Z",
+      "updatedAt": "2026-07-09T16:39:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/detail-4.webp",
+      "hash": "c476c6269793ddbdb8512b3c274029c58bf4c1619b7c0a0c5b09d9c851b35e97",
+      "width": 480,
+      "height": 480,
+      "size": 68296,
+      "createdAt": "2026-07-09T16:39:59Z",
+      "updatedAt": "2026-07-09T16:39:59Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-branca-nike/detail-5.webp",
+      "hash": "3387ab6244678e177ce19d4e7d94626376bb24abb3e385dc3d0c78031e5e914e",
+      "width": 480,
+      "height": 480,
+      "size": 26422,
+      "createdAt": "2026-07-09T16:39:59Z",
+      "updatedAt": "2026-07-09T16:39:59Z"
+    }
+  ]
+}

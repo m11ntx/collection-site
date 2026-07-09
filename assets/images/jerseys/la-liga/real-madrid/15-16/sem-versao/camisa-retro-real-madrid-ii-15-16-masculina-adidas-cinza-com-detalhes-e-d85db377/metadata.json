@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-em-verde-limao",
+  "createdAt": "2026-07-09T16:44:10Z",
+  "updatedAt": "2026-07-09T16:44:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/front.webp",
+      "hash": "1b64fe07c1aca595666da0a472b0273390ae6fbc486c1894d87e62a8c04005f1",
+      "width": 480,
+      "height": 480,
+      "size": 14196,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/back.webp",
+      "hash": "9e0cbc3ae6438f134240704027e572e375afc021a57db43c666328fc84b1e587",
+      "width": 480,
+      "height": 480,
+      "size": 10578,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/detail-1.webp",
+      "hash": "ae1a9769937f62999dd745bdb5ca20eba293a28a6f72104b6357f5b93ab4d9dd",
+      "width": 480,
+      "height": 480,
+      "size": 19758,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/detail-2.webp",
+      "hash": "edd9a8c1934f4d6692d23527fc4cc7180a5b89e4ff973cd60616bdb030b735e0",
+      "width": 480,
+      "height": 480,
+      "size": 73420,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/detail-3.webp",
+      "hash": "51b0ad5e4df13a2c9f9c94f243551242444650439324d1a41212aa679e76a953",
+      "width": 480,
+      "height": 480,
+      "size": 75418,
+      "createdAt": "2026-07-09T16:44:10Z",
+      "updatedAt": "2026-07-09T16:44:10Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/detail-4.webp",
+      "hash": "ead8913f156b6078879b02387e53a8f5fff4f077bf839ba7c5454377062f6d7f",
+      "width": 480,
+      "height": 480,
+      "size": 18700,
+      "createdAt": "2026-07-09T16:44:10Z",
+      "updatedAt": "2026-07-09T16:44:10Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-ii-15-16-masculina-adidas-cinza-com-detalhes-e-d85db377/detail-5.webp",
+      "hash": "118049d9c530a59c982fbb36adb1fce7a9ed71e5a3ad2db2b293fad574bfb4a7",
+      "width": 480,
+      "height": 480,
+      "size": 25996,
+      "createdAt": "2026-07-09T16:44:10Z",
+      "updatedAt": "2026-07-09T16:44:10Z"
+    }
+  ]
+}

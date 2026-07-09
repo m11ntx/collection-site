@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T16:40:24Z",
+  "updatedAt": "2026-07-09T16:40:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/front.webp",
+      "hash": "b0ce6c12050f49f63c2c417be50a8a3deee507e7618d7e67c480ca0ffb4fa500",
+      "width": 480,
+      "height": 480,
+      "size": 10702,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/back.webp",
+      "hash": "9f8b777eff21b0eb8bc50ddb1086c7505fa472542570f7e4d8e7738fb51c851e",
+      "width": 480,
+      "height": 480,
+      "size": 13776,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/detail-1.webp",
+      "hash": "09b0d455fdf2dc82a57aaf057efed79b8f4f3d9e35d7a30d73ffa0375ffadca2",
+      "width": 480,
+      "height": 480,
+      "size": 7726,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/detail-2.webp",
+      "hash": "3b44224cfd0bd901ab432be879603864cf91eebac7ac77f1ea950dd596250dc6",
+      "width": 480,
+      "height": 480,
+      "size": 19806,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/detail-3.webp",
+      "hash": "a79eba7b8411f3bbc10e0d7eefff4798007ccff5924221c50ec31f20f520a65f",
+      "width": 480,
+      "height": 480,
+      "size": 71320,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/detail-4.webp",
+      "hash": "33a01875bef8f43ffae52bdcdc7d285f5c670323025b7da1dc60216a3a3503e2",
+      "width": 480,
+      "height": 480,
+      "size": 79322,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2015/sem-versao/camisa-retro-palmeiras-iii-2015-masculina-puma-cinza-com-detalhes-em-verde/detail-5.webp",
+      "hash": "d6290bbaa378bd2762ea8a7f4e76dc42056f53b64b5dcfe775947e6cdc4cc6fd",
+      "width": 480,
+      "height": 480,
+      "size": 79506,
+      "createdAt": "2026-07-09T16:40:24Z",
+      "updatedAt": "2026-07-09T16:40:24Z"
+    }
+  ]
+}

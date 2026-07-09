@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:42:53Z",
+  "updatedAt": "2026-07-09T16:42:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/front.webp",
+      "hash": "3af8cec58e18d5da2687abe12408ea8db5650b5640210fbf20588d14fe9b08b4",
+      "width": 480,
+      "height": 480,
+      "size": 7728,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/back.webp",
+      "hash": "fbd6711d02dce1f75f19798cd6548d07f087bb804f83a198a85675ee8103ea01",
+      "width": 480,
+      "height": 480,
+      "size": 11654,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/detail-1.webp",
+      "hash": "839a6a24c1e852604d35cf34ec16eb6a761003c57a285cc7629fb5e3a14d64b0",
+      "width": 480,
+      "height": 480,
+      "size": 7768,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/detail-2.webp",
+      "hash": "371390e0cfa9c1a0bcf8eec9a922ca4d7899b3c46b007edbc289dc76184ca9d3",
+      "width": 480,
+      "height": 480,
+      "size": 41604,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/detail-3.webp",
+      "hash": "6542553f028029428963708e8ba77b9b7f0951eceac0a784614823655b1a62af",
+      "width": 480,
+      "height": 480,
+      "size": 43412,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/detail-4.webp",
+      "hash": "64efd1974e2d9a52108b7a1d5932d1e02354aa8b9e855871f73e384b2d09202c",
+      "width": 480,
+      "height": 480,
+      "size": 15674,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/2004/sem-versao/camisa-retro-selecao-da-holanda-i-2004-masculina-nike-laranja-com-detal-28275823/detail-5.webp",
+      "hash": "da137263835fb29a2e53585a80b6296b17de45dcdf550d110104353323ba96da",
+      "width": 480,
+      "height": 480,
+      "size": 21934,
+      "createdAt": "2026-07-09T16:42:53Z",
+      "updatedAt": "2026-07-09T16:42:53Z"
+    }
+  ]
+}

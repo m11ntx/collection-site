@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha",
+  "createdAt": "2026-07-09T16:41:21Z",
+  "updatedAt": "2026-07-09T16:41:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/front.webp",
+      "hash": "848d7224c3422481b569ba06d131691c2492a192aed336cfcb45a003b74d8589",
+      "width": 480,
+      "height": 480,
+      "size": 15646,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/back.webp",
+      "hash": "065e15ef9309a76c35af9f6e85c367540fcd7eb888089ba39d38c1c71f1210fc",
+      "width": 480,
+      "height": 480,
+      "size": 14696,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/detail-1.webp",
+      "hash": "e22a565201e8309520662a33f32478dbeb1429b43989e4f89d6b6aa9a9415f0a",
+      "width": 480,
+      "height": 480,
+      "size": 26952,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/detail-2.webp",
+      "hash": "aaa0603910c4ea8be6ee4a4687d4671c79104e7ca2c5782458f9d9588b8a425c",
+      "width": 480,
+      "height": 480,
+      "size": 27258,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/detail-3.webp",
+      "hash": "2b292bdf531eb11105dcdb66b6d676d96e8cb309cbb7d1854ac7fa7c8116b07d",
+      "width": 480,
+      "height": 480,
+      "size": 34490,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/detail-4.webp",
+      "hash": "578f50ae62bff14073f253a34a94c5e386357aa0640c7b5a7b5021cc4884da9c",
+      "width": 480,
+      "height": 480,
+      "size": 54596,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1995-1997/sem-versao/camisa-retro-bayern-de-munique-1995-1997-masculina-adidas-azul-e-vermelha/detail-5.webp",
+      "hash": "aab35228fcb2e0b41b809b2623a1613039b772d2472105b31001317e736c3cac",
+      "width": 480,
+      "height": 480,
+      "size": 31398,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    }
+  ]
+}

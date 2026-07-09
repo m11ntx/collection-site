@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro",
+  "createdAt": "2026-07-09T16:39:37Z",
+  "updatedAt": "2026-07-09T16:39:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/front.webp",
+      "hash": "4ee07bcb59d24bd82160dfd12074174b1e02f69f95bbe7f166ca7bbbad08f016",
+      "width": 480,
+      "height": 480,
+      "size": 23672,
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/back.webp",
+      "hash": "90513e64087b37c47512431a773db97beee0bbf44655de4402c6fadac6f43d8d",
+      "width": 480,
+      "height": 480,
+      "size": 17344,
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/detail-1.webp",
+      "hash": "c4e1bb24ec3449c0356dddfd698897d943b5bd1992c93bb00d3c34de0e87e91c",
+      "width": 480,
+      "height": 480,
+      "size": 40148,
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/detail-2.webp",
+      "hash": "94c4590e566b7855e0ea00ba328572d038e4282fb81192d49cfc4a0b5650c186",
+      "width": 480,
+      "height": 480,
+      "size": 29054,
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/detail-3.webp",
+      "hash": "3870e56343f268f2b8021591bfff98f0d56d6e04bdad03d10fecb5fa6c828989",
+      "width": 480,
+      "height": 480,
+      "size": 52192,
+      "createdAt": "2026-07-09T16:39:37Z",
+      "updatedAt": "2026-07-09T16:39:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/detail-4.webp",
+      "hash": "e9e4fde2f9dd8777111720bccf81b4831c987d51a59ddd7d02231c43c827c3c9",
+      "width": 480,
+      "height": 480,
+      "size": 59648,
+      "createdAt": "2026-07-09T16:39:37Z",
+      "updatedAt": "2026-07-09T16:39:37Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1994-1996/sem-versao/camisa-manchester-united-retro-1994-1996-azul-e-branca-umbro/detail-5.webp",
+      "hash": "848bde6cbf66bb57ff25156479e88a0b19a0ea044d624ae1b7d59e76e8db8bf5",
+      "width": 480,
+      "height": 480,
+      "size": 23474,
+      "createdAt": "2026-07-09T16:39:37Z",
+      "updatedAt": "2026-07-09T16:39:37Z"
+    }
+  ]
+}

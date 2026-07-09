@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-detalhes-em-vermelho-e-azul-com-todos-os-patrocinios",
+  "createdAt": "2026-07-09T16:41:29Z",
+  "updatedAt": "2026-07-09T16:41:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/front.webp",
+      "hash": "7649a3ee2c8e613dbed134db93ed25eaa7c16c14de741c48a39676c1fd1fd712",
+      "width": 480,
+      "height": 480,
+      "size": 18664,
+      "createdAt": "2026-07-09T16:41:28Z",
+      "updatedAt": "2026-07-09T16:41:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/back.webp",
+      "hash": "84374e7fa7e0bb8297322a2e7a1a93c5fb053b268218e23d768e405555b32e72",
+      "width": 480,
+      "height": 480,
+      "size": 20294,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/detail-1.webp",
+      "hash": "5fd5948369ff1081c2aff1ed79bd05a268e46e83d03553a2cb2401cb2089155a",
+      "width": 480,
+      "height": 480,
+      "size": 30982,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/detail-2.webp",
+      "hash": "e0637592e8f9f8e3ee240b7b63f778c759dfffc2020daf74caadf2991649e206",
+      "width": 480,
+      "height": 480,
+      "size": 31434,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/detail-3.webp",
+      "hash": "aee5b2882350d2d387221b499f1461a5d679cdcc876ae9419ba7ef06979a07fc",
+      "width": 480,
+      "height": 480,
+      "size": 49066,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/detail-4.webp",
+      "hash": "19b3b7da4f0677b988a2b1936ea467a63856b90e7a61981173acd843a0d6b418",
+      "width": 480,
+      "height": 480,
+      "size": 58042,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/chivas/1999-2000/sem-versao/camisa-retro-chivas-guadalajara-1999-2000-masculina-atletica-branca-com-0bdeb098/detail-5.webp",
+      "hash": "359df0d6a41485247f492d5a9e86c3d1ee2296da81cd9a3016cee6b196ec1ea9",
+      "width": 480,
+      "height": 480,
+      "size": 42290,
+      "createdAt": "2026-07-09T16:41:29Z",
+      "updatedAt": "2026-07-09T16:41:29Z"
+    }
+  ]
+}

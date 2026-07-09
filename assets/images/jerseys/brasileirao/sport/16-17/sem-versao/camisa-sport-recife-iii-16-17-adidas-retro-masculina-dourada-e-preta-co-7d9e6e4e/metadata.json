@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-com-patrocinio",
+  "createdAt": "2026-07-09T16:43:15Z",
+  "updatedAt": "2026-07-09T16:43:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/front.webp",
+      "hash": "9222f3ef9dd338322731b565a36888b3a8583debaf8ea4c859767c41d58f281e",
+      "width": 480,
+      "height": 480,
+      "size": 10370,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/back.webp",
+      "hash": "3286811cc890dfee00cecb00ef88864007abba5026a2174187649f474386437f",
+      "width": 480,
+      "height": 480,
+      "size": 6528,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/detail-1.webp",
+      "hash": "f6168a0c80de23323d057630f79aea1b90033a9669d8f57b4f6b479153dadea3",
+      "width": 480,
+      "height": 480,
+      "size": 14158,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/detail-2.webp",
+      "hash": "ba95b31cdc1363f9500220290afeb17b583581a5b58c612aaa09f9204d307c03",
+      "width": 480,
+      "height": 480,
+      "size": 21098,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/detail-3.webp",
+      "hash": "7de9009ce7b08496fea13afcdd00584ab38b7745a18296028b8a5cefe79deacc",
+      "width": 480,
+      "height": 480,
+      "size": 69214,
+      "createdAt": "2026-07-09T16:43:14Z",
+      "updatedAt": "2026-07-09T16:43:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/detail-4.webp",
+      "hash": "1f6eb95b679046db24efbc46991b87892e6fb56978528eb33533021882da4a46",
+      "width": 480,
+      "height": 480,
+      "size": 74916,
+      "createdAt": "2026-07-09T16:43:15Z",
+      "updatedAt": "2026-07-09T16:43:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/sport/16-17/sem-versao/camisa-sport-recife-iii-16-17-adidas-retro-masculina-dourada-e-preta-co-7d9e6e4e/detail-5.webp",
+      "hash": "6c7f4458e87fb40e95d9ef30183eef1e477bd36320f2b84d3b8fd07bacccdc49",
+      "width": 480,
+      "height": 480,
+      "size": 17208,
+      "createdAt": "2026-07-09T16:43:15Z",
+      "updatedAt": "2026-07-09T16:43:15Z"
+    }
+  ]
+}

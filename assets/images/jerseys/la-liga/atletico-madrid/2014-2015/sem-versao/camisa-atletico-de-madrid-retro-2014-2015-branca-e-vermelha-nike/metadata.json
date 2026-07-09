@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike",
+  "createdAt": "2026-07-09T16:35:48Z",
+  "updatedAt": "2026-07-09T16:35:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/front.webp",
+      "hash": "55d48115087be9b1b4e0d8752124a27dfa513e199b37f742436bd3e66f84981b",
+      "width": 480,
+      "height": 480,
+      "size": 12464,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/back.webp",
+      "hash": "37a25e26a27ee8dfb19d93f7962e21e81f41fb62f3915156399e1e3277a9e999",
+      "width": 480,
+      "height": 480,
+      "size": 8520,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/detail-1.webp",
+      "hash": "f3feaacc4a7fb55c7e1c84869fe38e8f363c7a8c032516104706902e14a358a4",
+      "width": 480,
+      "height": 480,
+      "size": 21660,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/detail-2.webp",
+      "hash": "22d4185daec552daa5f8b1a4a639b99e9c5ee5ee24afa66b4c270b517f72e309",
+      "width": 480,
+      "height": 480,
+      "size": 21006,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/detail-3.webp",
+      "hash": "1ae2f8287e9a885fda1f07d1adc3490631e68e22517d068ca54d7d711984d8b4",
+      "width": 480,
+      "height": 480,
+      "size": 32560,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/detail-4.webp",
+      "hash": "f25a89a036645cbfa38ba8d4d27fd0f824ce85738a3ab8dd2d401d2c9148c93d",
+      "width": 480,
+      "height": 480,
+      "size": 22568,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/2014-2015/sem-versao/camisa-atletico-de-madrid-retro-2014-2015-branca-e-vermelha-nike/detail-5.webp",
+      "hash": "d2dc0f982d90d31c41bb020b101578388eb005d3cbbf4bff3d74ccfd4d34bd5b",
+      "width": 480,
+      "height": 480,
+      "size": 18748,
+      "createdAt": "2026-07-09T16:35:48Z",
+      "updatedAt": "2026-07-09T16:35:48Z"
+    }
+  ]
+}

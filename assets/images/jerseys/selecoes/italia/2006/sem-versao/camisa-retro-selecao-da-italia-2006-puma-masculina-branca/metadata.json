@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-italia-2006-puma-masculina-branca",
+  "createdAt": "2026-07-09T16:43:00Z",
+  "updatedAt": "2026-07-09T16:43:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/front.webp",
+      "hash": "49d4abeeb3d6411c4ad09106d2e96d22c272d08c970a776613f519b38e352b72",
+      "width": 480,
+      "height": 480,
+      "size": 6084,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/back.webp",
+      "hash": "173173919ef59b6c58f14a492e08d1ac2788bdf5c062f1a682bf19de7c0fe95e",
+      "width": 480,
+      "height": 480,
+      "size": 4660,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/detail-1.webp",
+      "hash": "54a40857b76cf3585fc2abf87f2e453c9c735777481a33de97c8e2a1ec20afa4",
+      "width": 480,
+      "height": 480,
+      "size": 6954,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/detail-2.webp",
+      "hash": "fc11e63782201fef7fe210373c357f04dda81c889a6a92d8def92e26a0029887",
+      "width": 480,
+      "height": 480,
+      "size": 7660,
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/detail-3.webp",
+      "hash": "de6c60bf4f255bdf65907b5818fdbece80397340b76343ec2be746e06c351e43",
+      "width": 480,
+      "height": 480,
+      "size": 34854,
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/detail-4.webp",
+      "hash": "6fc220bbfd06642733aa379ace7e0fbb60d78b7f05d790c85b25129e51313fde",
+      "width": 480,
+      "height": 480,
+      "size": 17248,
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/italia/2006/sem-versao/camisa-retro-selecao-da-italia-2006-puma-masculina-branca/detail-5.webp",
+      "hash": "34b384b6fca04f3c5775bfa09465536be3308bbaca7adbcf322ee4165cbb94e8",
+      "width": 480,
+      "height": 480,
+      "size": 52260,
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
+    }
+  ]
+}

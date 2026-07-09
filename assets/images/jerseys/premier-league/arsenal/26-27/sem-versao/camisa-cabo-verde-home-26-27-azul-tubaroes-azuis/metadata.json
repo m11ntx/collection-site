@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-cabo-verde-home-26-27-azul-tubaroes-azuis",
+  "createdAt": "2026-07-09T16:36:20Z",
+  "updatedAt": "2026-07-09T16:36:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/sem-versao/camisa-cabo-verde-home-26-27-azul-tubaroes-azuis/front.webp",
+      "hash": "2be2113186088c3db873babf7bf3881d8f7e5f20ebb2a34c6606d241c1307058",
+      "width": 480,
+      "height": 480,
+      "size": 14992,
+      "createdAt": "2026-07-09T16:36:20Z",
+      "updatedAt": "2026-07-09T16:36:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/sem-versao/camisa-cabo-verde-home-26-27-azul-tubaroes-azuis/back.webp",
+      "hash": "051682956be616b0b23576856d7b65f08ea7aa98b6c9a158ba1f50eb92751e9a",
+      "width": 480,
+      "height": 480,
+      "size": 14326,
+      "createdAt": "2026-07-09T16:36:20Z",
+      "updatedAt": "2026-07-09T16:36:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/sem-versao/camisa-cabo-verde-home-26-27-azul-tubaroes-azuis/detail-1.webp",
+      "hash": "941195bda8a747db900dd1b0f9f3122ccde55166e44612f3da1112db704de393",
+      "width": 480,
+      "height": 480,
+      "size": 34996,
+      "createdAt": "2026-07-09T16:36:20Z",
+      "updatedAt": "2026-07-09T16:36:20Z"
+    }
+  ]
+}

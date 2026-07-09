@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-vermelho-e-amarelo",
+  "createdAt": "2026-07-09T16:41:17Z",
+  "updatedAt": "2026-07-09T16:41:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/front.webp",
+      "hash": "f75fc4852f573ed09c33a0439b1b69377a5180028d570a0e9a99e494338bc86f",
+      "width": 480,
+      "height": 480,
+      "size": 11950,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/back.webp",
+      "hash": "3acaee730a0d394f80704f109631567edef8f41d45f7433fa35636ada1a8fc3a",
+      "width": 480,
+      "height": 480,
+      "size": 8968,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/detail-1.webp",
+      "hash": "13c3788b933c13098832cb2318ec324a2ad8dfdf752f53d917e5662fb4670a03",
+      "width": 480,
+      "height": 480,
+      "size": 20506,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/detail-2.webp",
+      "hash": "cb0810165f80ccd5038819ab27c6b14ab3d5f9d86280c682702122060bde22d6",
+      "width": 480,
+      "height": 480,
+      "size": 50246,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/detail-3.webp",
+      "hash": "97afe3b26620b06cd2ed4f79ea40b3f051f1242a50ff0d5937427af38a40328d",
+      "width": 480,
+      "height": 480,
+      "size": 62956,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/detail-4.webp",
+      "hash": "d80090699f732424bd36e92d45270af5af9432dc36a543349e3813b50da21e21",
+      "width": 480,
+      "height": 480,
+      "size": 27736,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/15-16/sem-versao/camisa-retro-barcelona-i-15-16-masculina-nike-azul-com-detalhes-em-verm-62818031/detail-5.webp",
+      "hash": "6a4e2c0e77bbe4df8bd25803c065d1c2443b7523c9e9080c1e53c8f882e3039d",
+      "width": 480,
+      "height": 480,
+      "size": 31218,
+      "createdAt": "2026-07-09T16:41:17Z",
+      "updatedAt": "2026-07-09T16:41:17Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-santos-pele-retro-mil-gols-edicao-limitada-masculina-s-n-branco",
+  "createdAt": "2026-07-09T16:43:13Z",
+  "updatedAt": "2026-07-09T16:43:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/sem-versao/camisa-santos-pele-retro-mil-gols-edicao-limitada-masculina-s-n-branco/front.webp",
+      "hash": "662dce04bcf35c42a8a6873e27ed1d74508198a368ad1ed40945df2f6c9a698c",
+      "width": 480,
+      "height": 480,
+      "size": 3596,
+      "createdAt": "2026-07-09T16:43:13Z",
+      "updatedAt": "2026-07-09T16:43:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/sem-versao/camisa-santos-pele-retro-mil-gols-edicao-limitada-masculina-s-n-branco/back.webp",
+      "hash": "b12306d785250f52c9e2a7820fea08267fa7aec0e27255c27693140d5506738c",
+      "width": 480,
+      "height": 480,
+      "size": 3586,
+      "createdAt": "2026-07-09T16:43:13Z",
+      "updatedAt": "2026-07-09T16:43:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/sem-temporada/sem-versao/camisa-santos-pele-retro-mil-gols-edicao-limitada-masculina-s-n-branco/detail-1.webp",
+      "hash": "b66c158417cff31ea3e2ea4753345e392fe1fc2c0b8c439d57855cace3284ccc",
+      "width": 480,
+      "height": 480,
+      "size": 8074,
+      "createdAt": "2026-07-09T16:43:13Z",
+      "updatedAt": "2026-07-09T16:43:13Z"
+    }
+  ]
+}

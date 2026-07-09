@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:44:09Z",
+  "updatedAt": "2026-07-09T16:44:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/front.webp",
+      "hash": "30684b1345cfdc7236e8d600e71c8fda022c0d279d305f5be97070e0d70dbc69",
+      "width": 480,
+      "height": 480,
+      "size": 8736,
+      "createdAt": "2026-07-09T16:44:08Z",
+      "updatedAt": "2026-07-09T16:44:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/back.webp",
+      "hash": "b3668d2e2d4f1a77e755be3173362191cdc26353177e89f6d93bd5e015483b6f",
+      "width": 480,
+      "height": 480,
+      "size": 5670,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/detail-1.webp",
+      "hash": "2080c09d66969f9215b6f1bc7c3e4bfb883047a6894635b9ae25411539b84c0d",
+      "width": 480,
+      "height": 480,
+      "size": 16254,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/detail-2.webp",
+      "hash": "31e7e7615285fc496ca17529cdde7eb50275d05884db15114b9880ecb962e5ea",
+      "width": 480,
+      "height": 480,
+      "size": 62000,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/detail-3.webp",
+      "hash": "ea158614ef4e7a65ac5066656fbfc3475d6733df2543dc29b682c3b4bbfccea1",
+      "width": 480,
+      "height": 480,
+      "size": 63638,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/detail-4.webp",
+      "hash": "ac5faa0494dc5ee51aa680c214b3eac2a2e0cb4cf8bb7ad1fd96c0258ca6ab64",
+      "width": 480,
+      "height": 480,
+      "size": 13706,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-masculina-adidas-rosa-com-detalhes-em-branco/detail-5.webp",
+      "hash": "b47461ade8c69a0589dedd5d15b4c452acb992290beafeea4156ff8967103578",
+      "width": 480,
+      "height": 480,
+      "size": 11880,
+      "createdAt": "2026-07-09T16:44:09Z",
+      "updatedAt": "2026-07-09T16:44:09Z"
+    }
+  ]
+}

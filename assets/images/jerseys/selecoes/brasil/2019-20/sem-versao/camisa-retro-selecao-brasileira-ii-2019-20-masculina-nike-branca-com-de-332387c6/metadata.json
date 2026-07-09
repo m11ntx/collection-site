@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:42:35Z",
+  "updatedAt": "2026-07-09T16:42:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/front.webp",
+      "hash": "462e00410538b6e017d6ee541f037fa33f3f34937ec432f29b1082836daa204b",
+      "width": 480,
+      "height": 480,
+      "size": 5708,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/back.webp",
+      "hash": "fd576a201e7f220586b0abe38a36520895331b3875aef42a4436e6bd3bf9bed2",
+      "width": 480,
+      "height": 480,
+      "size": 3672,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/detail-1.webp",
+      "hash": "1646817b770f6271164bc0f41977e84a4fa67ae81be8286cd6c1a7347d6be52b",
+      "width": 480,
+      "height": 480,
+      "size": 24888,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/detail-2.webp",
+      "hash": "1ee52ed434101b208de7a80e2aadaa0c8c5f4943711314e1271f568b05f9862d",
+      "width": 480,
+      "height": 480,
+      "size": 16044,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/detail-3.webp",
+      "hash": "5cca80025adcc7b9e283f6a74dc0aee709511579552888f0310c614cff2b4c80",
+      "width": 480,
+      "height": 480,
+      "size": 8836,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2019-20/sem-versao/camisa-retro-selecao-brasileira-ii-2019-20-masculina-nike-branca-com-de-332387c6/detail-4.webp",
+      "hash": "01255a5a1d3c6cf2ac53df6c412891a205e26b61137cc85fdd8f8a23a83c292c",
+      "width": 480,
+      "height": 480,
+      "size": 32248,
+      "createdAt": "2026-07-09T16:42:35Z",
+      "updatedAt": "2026-07-09T16:42:35Z"
+    }
+  ]
+}

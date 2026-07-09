@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em-vermelho-e-branco",
+  "createdAt": "2026-07-09T16:41:35Z",
+  "updatedAt": "2026-07-09T16:41:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/front.webp",
+      "hash": "e640b532e213b2169cb31496644865379bf4fbf2230e7acb8c308b87d16bced6",
+      "width": 480,
+      "height": 480,
+      "size": 9642,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/back.webp",
+      "hash": "3f2c9753a38f551449530a98fba975bcf57b6707fbe92840a0cb622b11f89a51",
+      "width": 480,
+      "height": 480,
+      "size": 14630,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/detail-1.webp",
+      "hash": "31c767b69c4e8a0256721cd1433951c8d424fd4a605f97cdfb5b3c8cffbdd280",
+      "width": 480,
+      "height": 480,
+      "size": 6226,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/detail-2.webp",
+      "hash": "fb613569c78ef35ef55db886bef7be3a8063ba5fbcc220ec35b9a84b5df8c6b7",
+      "width": 480,
+      "height": 480,
+      "size": 30978,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/detail-3.webp",
+      "hash": "f4a9676a8a564430b236ef5ee1a619c4cf2466e9e77efde01f76b57c68cbb5c3",
+      "width": 480,
+      "height": 480,
+      "size": 44052,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/detail-4.webp",
+      "hash": "3eeb61c21c0a400e2487092a216cfde70f8fca45a7dfcef19226d03576412d16",
+      "width": 480,
+      "height": 480,
+      "size": 15434,
+      "createdAt": "2026-07-09T16:41:34Z",
+      "updatedAt": "2026-07-09T16:41:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/escocia/1996-1998/sem-versao/camisa-retro-escocia-ii-1996-1998-masculina-umbro-azul-com-detalhes-em--33cb2cf0/detail-5.webp",
+      "hash": "61a1fdf55eaedb458e69a09f978f0c23e20098361d222217c14f898bb509044c",
+      "width": 480,
+      "height": 480,
+      "size": 13044,
+      "createdAt": "2026-07-09T16:41:35Z",
+      "updatedAt": "2026-07-09T16:41:35Z"
+    }
+  ]
+}

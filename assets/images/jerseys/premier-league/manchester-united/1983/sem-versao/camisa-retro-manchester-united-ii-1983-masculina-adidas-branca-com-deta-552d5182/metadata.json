@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-09T16:43:56Z",
+  "updatedAt": "2026-07-09T16:43:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/front.webp",
+      "hash": "34e1636ac3944acbc211dcf4777e5e5bc5ad23400fac837ca625145e19c39cee",
+      "width": 480,
+      "height": 480,
+      "size": 12336,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/back.webp",
+      "hash": "38eb7d8199ef6b614e4ccd63b7d8d24d0911bdb13e3e24c2d053e9aa5945e54d",
+      "width": 480,
+      "height": 480,
+      "size": 9152,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/detail-1.webp",
+      "hash": "49fa2a34da1736e9feef5acf8e4edc8e3c3ec70b9ef74614e77d0cf6fdcd1a85",
+      "width": 480,
+      "height": 480,
+      "size": 21032,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/detail-2.webp",
+      "hash": "c48f7db0ca9d620535c271bc40a6a0931d2db82552cb39ce6374d35759a05f6a",
+      "width": 480,
+      "height": 480,
+      "size": 50904,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/detail-3.webp",
+      "hash": "1a82218f236a59b629f03930dfc3c6bc88c1660edc351c905b368e800b46b4d0",
+      "width": 480,
+      "height": 480,
+      "size": 55756,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/detail-4.webp",
+      "hash": "6520ba4386cbcdd0e9b0aa9688f6b230ca0fcc7bb28b3107e853e5d994d9aa84",
+      "width": 480,
+      "height": 480,
+      "size": 17204,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1983/sem-versao/camisa-retro-manchester-united-ii-1983-masculina-adidas-branca-com-deta-552d5182/detail-5.webp",
+      "hash": "40a4c39cae6e9a0d6903c0ca2892120d042aea423db65aea39ef1e60872be83b",
+      "width": 480,
+      "height": 480,
+      "size": 18638,
+      "createdAt": "2026-07-09T16:43:56Z",
+      "updatedAt": "2026-07-09T16:43:56Z"
+    }
+  ]
+}

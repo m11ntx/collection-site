@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T16:43:11Z",
+  "updatedAt": "2026-07-09T16:43:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/front.webp",
+      "hash": "7df7dfbf3da82ce40c48393648d1f5b0fa48d36865fc2bcdc01a71dbae0ff9d5",
+      "width": 480,
+      "height": 480,
+      "size": 6728,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/back.webp",
+      "hash": "dbb4118b5bb36bb47a298fdca05ecdd66c511505dac7cc43ce9aa9594c5e7935",
+      "width": 480,
+      "height": 480,
+      "size": 13560,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/detail-1.webp",
+      "hash": "a0159397a6cf217a8888e48fbc09450b270af317941fb5ca51ef1e13e204b45b",
+      "width": 480,
+      "height": 480,
+      "size": 5392,
+      "createdAt": "2026-07-09T16:43:10Z",
+      "updatedAt": "2026-07-09T16:43:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/detail-2.webp",
+      "hash": "812e2cab14dd3bc5bb6036673abfa98b949f3806e068a756089ebf9dcdeed1c2",
+      "width": 480,
+      "height": 480,
+      "size": 66152,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/detail-3.webp",
+      "hash": "bc2fe763e49ac9ec24e69e2e0c8b917318b58b12abfc24e9aeb80ce89680e15a",
+      "width": 480,
+      "height": 480,
+      "size": 68596,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/2016/sem-versao/camisa-retro-selecao-de-portugal-i-2016-nike-masculina-vermelha-com-det-8d3ad25a/detail-4.webp",
+      "hash": "4005a47f6d5c2d7c2a7b480a1cc1c8657b093f680d1517bc9c6b0f0a307cfac5",
+      "width": 480,
+      "height": 480,
+      "size": 31628,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    }
+  ]
+}

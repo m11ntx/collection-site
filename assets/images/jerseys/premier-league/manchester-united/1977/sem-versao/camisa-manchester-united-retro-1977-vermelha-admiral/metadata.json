@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1977-vermelha-admiral",
+  "createdAt": "2026-07-09T16:39:25Z",
+  "updatedAt": "2026-07-09T16:39:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/front.webp",
+      "hash": "6f8eaa5291ffd14010a929abbb120bdacb79daf1f8ec2703359b598567b4e878",
+      "width": 480,
+      "height": 480,
+      "size": 9628,
+      "createdAt": "2026-07-09T16:39:24Z",
+      "updatedAt": "2026-07-09T16:39:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/back.webp",
+      "hash": "1ffb5dd46eda113c35946f8bab65271fd15e57c149b548ad5567179cdd1b76d6",
+      "width": 480,
+      "height": 480,
+      "size": 6978,
+      "createdAt": "2026-07-09T16:39:24Z",
+      "updatedAt": "2026-07-09T16:39:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/detail-1.webp",
+      "hash": "f39fed489ab6c46be1062a6deb939a9c50f2859b964255f7e5ec9860e12aef5e",
+      "width": 480,
+      "height": 480,
+      "size": 19584,
+      "createdAt": "2026-07-09T16:39:24Z",
+      "updatedAt": "2026-07-09T16:39:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/detail-2.webp",
+      "hash": "8634b4b1a934ecf1037950d3c34884694455a71586a9d15ac2e8ab6ad41b9e06",
+      "width": 480,
+      "height": 480,
+      "size": 15890,
+      "createdAt": "2026-07-09T16:39:24Z",
+      "updatedAt": "2026-07-09T16:39:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/detail-3.webp",
+      "hash": "577000dda29b344414d18ce9594ef6fc7187bfb5153f8e3ca287911d8ea58499",
+      "width": 480,
+      "height": 480,
+      "size": 38566,
+      "createdAt": "2026-07-09T16:39:24Z",
+      "updatedAt": "2026-07-09T16:39:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/detail-4.webp",
+      "hash": "80bab892e0ab396b3d6ad68d9b2be0869ec6ffa16eaa54c53fff91ceab67e6fb",
+      "width": 480,
+      "height": 480,
+      "size": 55840,
+      "createdAt": "2026-07-09T16:39:25Z",
+      "updatedAt": "2026-07-09T16:39:25Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1977/sem-versao/camisa-manchester-united-retro-1977-vermelha-admiral/detail-5.webp",
+      "hash": "b9171e153d1ea7ecfd33f3f7af262ee6f37654089a84dceed20884d21d2cbc08",
+      "width": 480,
+      "height": 480,
+      "size": 26408,
+      "createdAt": "2026-07-09T16:39:25Z",
+      "updatedAt": "2026-07-09T16:39:25Z"
+    }
+  ]
+}

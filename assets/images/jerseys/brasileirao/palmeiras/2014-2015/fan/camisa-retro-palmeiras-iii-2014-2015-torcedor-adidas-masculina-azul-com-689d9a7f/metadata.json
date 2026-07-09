@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-detalhes-dourados",
+  "createdAt": "2026-07-09T16:40:28Z",
+  "updatedAt": "2026-07-09T16:40:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/front.webp",
+      "hash": "5679a10235d2a5981d8af5c83ee5b05264edf0f19f0ef4c36c9eee46255dde62",
+      "width": 480,
+      "height": 480,
+      "size": 8082,
+      "createdAt": "2026-07-09T16:40:27Z",
+      "updatedAt": "2026-07-09T16:40:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/back.webp",
+      "hash": "2bb9671a97732afab73fcac6ac5d0315ee7fad2d72a6c136b5d4f7ca67fca70b",
+      "width": 480,
+      "height": 480,
+      "size": 12340,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/detail-1.webp",
+      "hash": "a50b6bd5b53588fd778ed5291635f7fd49e916a1e022297d285af9969054fd0f",
+      "width": 480,
+      "height": 480,
+      "size": 6950,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/detail-2.webp",
+      "hash": "102f2d55e7229b34594d78602751a8b488a5a4e9d307227b742b0d983bb57834",
+      "width": 480,
+      "height": 480,
+      "size": 19784,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/detail-3.webp",
+      "hash": "7e59016bf9e4435a4f9f25da9732dbfec2cd9ca8a7fdc63c215d138cd35efbb2",
+      "width": 480,
+      "height": 480,
+      "size": 15564,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/detail-4.webp",
+      "hash": "d42e26c535071ba147054dcb19cee45298f342a9daf831a5a74c7caadd5d3901",
+      "width": 480,
+      "height": 480,
+      "size": 18070,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014-2015/fan/camisa-retro-palmeiras-iii-2014-2015-torcedor-adidas-masculina-azul-com-689d9a7f/detail-5.webp",
+      "hash": "075364c387bf4fef1ae881f691976b59b100432828c4601f8782fee964e92c84",
+      "width": 480,
+      "height": 480,
+      "size": 15050,
+      "createdAt": "2026-07-09T16:40:28Z",
+      "updatedAt": "2026-07-09T16:40:28Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-iugoslavia-retro-1990-azul-adidas",
+  "createdAt": "2026-07-09T16:38:52Z",
+  "updatedAt": "2026-07-09T16:38:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/front.webp",
+      "hash": "a9627557cc40bf73549bdd66961beadf2e00aec929e89482b1d6887604922b7f",
+      "width": 480,
+      "height": 480,
+      "size": 13054,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/back.webp",
+      "hash": "b4c63804bc7b7753934318b74c9f82be4745903da7b7eaa50967e7f2d51f807c",
+      "width": 480,
+      "height": 480,
+      "size": 11398,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/detail-1.webp",
+      "hash": "759bb014cf90b0bb494f2980c8f3c75c0b7faebb29ea3bad4187e72a0028e50b",
+      "width": 480,
+      "height": 480,
+      "size": 20846,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/detail-2.webp",
+      "hash": "1f46641a10e2c833c5f26b4ff5c281579ea0fe1e9fdc23acb9d2b02e3a9b2609",
+      "width": 480,
+      "height": 480,
+      "size": 18286,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/detail-3.webp",
+      "hash": "4c43b7181d3f3c34afc6e56e1fe22b9e05ff6386a015e2e5be39b5a4454ce6a9",
+      "width": 480,
+      "height": 480,
+      "size": 27986,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/detail-4.webp",
+      "hash": "993b59de3b86f8497820221bb483c8ef7d24f2feb2d3cb058d62e22bc7f6cec6",
+      "width": 480,
+      "height": 480,
+      "size": 44676,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/iugoslavia/1990/sem-versao/camisa-iugoslavia-retro-1990-azul-adidas/detail-5.webp",
+      "hash": "378255b1a5c010e29aa2a884477b4d297396b2d2a1922b10b29c4bc67e6d82c7",
+      "width": 480,
+      "height": 480,
+      "size": 23316,
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
+    }
+  ]
+}

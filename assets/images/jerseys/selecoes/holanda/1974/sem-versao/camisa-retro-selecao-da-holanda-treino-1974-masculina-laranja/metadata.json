@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja",
+  "createdAt": "2026-07-09T16:42:58Z",
+  "updatedAt": "2026-07-09T16:42:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/front.webp",
+      "hash": "b83d7de876f8f8f7275865efbc7cb933cb3a5866bf7c9d0d8ebe08e587d541b7",
+      "width": 480,
+      "height": 480,
+      "size": 8604,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/back.webp",
+      "hash": "9492ea43391d2d9d8cf8128e05b9e584943e85ca2c221c6fb571faceba81f4b0",
+      "width": 480,
+      "height": 480,
+      "size": 5974,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/detail-1.webp",
+      "hash": "caebbcca8d9af71e351fd516611b45b8142cb976ef0d1c6b24fe0b913eeefeb0",
+      "width": 480,
+      "height": 480,
+      "size": 22758,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/detail-2.webp",
+      "hash": "84b9603e4a7d1a56b3b489e60d1a49105673227a72b6e2107842e4c58972bcb3",
+      "width": 480,
+      "height": 480,
+      "size": 14212,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/detail-3.webp",
+      "hash": "b9303925e1735d41913171b3b43c8453ab0741cdd33427255aedbd30a4184ea4",
+      "width": 480,
+      "height": 480,
+      "size": 44626,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/1974/sem-versao/camisa-retro-selecao-da-holanda-treino-1974-masculina-laranja/detail-4.webp",
+      "hash": "7a23a6dc86300db0465999c1ccad913af9f2228771c7dd4ecaee2da39cbf2896",
+      "width": 480,
+      "height": 480,
+      "size": 18568,
+      "createdAt": "2026-07-09T16:42:58Z",
+      "updatedAt": "2026-07-09T16:42:58Z"
+    }
+  ]
+}

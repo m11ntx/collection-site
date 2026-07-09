@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-barcelona-i-25-26-torcedor-nike-masculina-azul-e-vermelha",
+  "createdAt": "2026-07-09T16:35:50Z",
+  "updatedAt": "2026-07-09T16:35:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/fan/camisa-barcelona-i-25-26-torcedor-nike-masculina-azul-e-vermelha/front.webp",
+      "hash": "b659bfa2c855ac981dd96aaa3ae2a9c201f84df649b2c4b930ad9122a93ae2cf",
+      "width": 480,
+      "height": 480,
+      "size": 11404,
+      "createdAt": "2026-07-09T16:35:49Z",
+      "updatedAt": "2026-07-09T16:35:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/fan/camisa-barcelona-i-25-26-torcedor-nike-masculina-azul-e-vermelha/back.webp",
+      "hash": "b709356701ba31815f408c7d1c346b4bbc760005a39f18a1c88443a195bcd006",
+      "width": 480,
+      "height": 480,
+      "size": 32164,
+      "createdAt": "2026-07-09T16:35:50Z",
+      "updatedAt": "2026-07-09T16:35:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/fan/camisa-barcelona-i-25-26-torcedor-nike-masculina-azul-e-vermelha/detail-1.webp",
+      "hash": "393db79d5f1f61c7968157d5db1a5c46939284074f6c2d84e12d5efd25796990",
+      "width": 480,
+      "height": 480,
+      "size": 38966,
+      "createdAt": "2026-07-09T16:35:50Z",
+      "updatedAt": "2026-07-09T16:35:50Z"
+    }
+  ]
+}

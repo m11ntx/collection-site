@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2007-2008-preta-nike",
+  "createdAt": "2026-07-09T16:39:53Z",
+  "updatedAt": "2026-07-09T16:39:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/front.webp",
+      "hash": "a2ce6332fef0478489f0dfda313f9505c157a514811ec65c2ee77e68daf8dafd",
+      "width": 480,
+      "height": 480,
+      "size": 12198,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/back.webp",
+      "hash": "52addfd321b6df4e58e86bd270d8f8e449983cdb10d5300955714a00a6b9de00",
+      "width": 480,
+      "height": 480,
+      "size": 8448,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/detail-1.webp",
+      "hash": "d30b4b2ff4b9c9c853a91f15d53c397ec4df153f34d33effbf5466cf6afb7c8d",
+      "width": 480,
+      "height": 480,
+      "size": 19218,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/detail-2.webp",
+      "hash": "421cebfb7f9dc15af7e06af8d9fda4ca4e92d555f98d70e80f4da2202da0c905",
+      "width": 480,
+      "height": 480,
+      "size": 49638,
+      "createdAt": "2026-07-09T16:39:51Z",
+      "updatedAt": "2026-07-09T16:39:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/detail-3.webp",
+      "hash": "e8010b1b73987596031f17534ef0faba9c941f09d962c498508ca8bce8bea091",
+      "width": 480,
+      "height": 480,
+      "size": 45256,
+      "createdAt": "2026-07-09T16:39:53Z",
+      "updatedAt": "2026-07-09T16:39:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/detail-4.webp",
+      "hash": "d285486cbbff76dad277e21353113912257eadb26a80f3b7fbca99a90b7fa9f1",
+      "width": 480,
+      "height": 480,
+      "size": 40612,
+      "createdAt": "2026-07-09T16:39:53Z",
+      "updatedAt": "2026-07-09T16:39:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-manchester-united-retro-2007-2008-preta-nike/detail-5.webp",
+      "hash": "8ba21951f645af77a881c17f847382e8c2ef5bee3b39e949dadd77db4e3f73c2",
+      "width": 480,
+      "height": 480,
+      "size": 14658,
+      "createdAt": "2026-07-09T16:39:53Z",
+      "updatedAt": "2026-07-09T16:39:53Z"
+    }
+  ]
+}

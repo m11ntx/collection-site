@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-marseille-retro-1998-1999-branca-adidas",
+  "createdAt": "2026-07-09T16:40:06Z",
+  "updatedAt": "2026-07-09T16:40:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/front.webp",
+      "hash": "f92d559181286844fa27aa0d257bbce2747e37979178132977a8107c077d5199",
+      "width": 480,
+      "height": 480,
+      "size": 11732,
+      "createdAt": "2026-07-09T16:40:05Z",
+      "updatedAt": "2026-07-09T16:40:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/back.webp",
+      "hash": "f282aba85fc6c6ecc4ea41943200e5aaa30e8fb24fe47c63f28dd67ac27ac343",
+      "width": 480,
+      "height": 480,
+      "size": 7348,
+      "createdAt": "2026-07-09T16:40:05Z",
+      "updatedAt": "2026-07-09T16:40:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/detail-1.webp",
+      "hash": "1929998603db3b1a85db5716a0d50e0b4c9dca691a8141c4f8036aae4f78e073",
+      "width": 480,
+      "height": 480,
+      "size": 67128,
+      "createdAt": "2026-07-09T16:40:05Z",
+      "updatedAt": "2026-07-09T16:40:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/detail-2.webp",
+      "hash": "a990e4a3534a8b48188666935c5df3d294d9a3c4f9a90baca6a80b2af2a3b9f9",
+      "width": 480,
+      "height": 480,
+      "size": 60664,
+      "createdAt": "2026-07-09T16:40:05Z",
+      "updatedAt": "2026-07-09T16:40:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/detail-3.webp",
+      "hash": "a11737b72f65278b754101d369e523ffbdbd39c61ecdb7a716e33c9da139c424",
+      "width": 480,
+      "height": 480,
+      "size": 27958,
+      "createdAt": "2026-07-09T16:40:05Z",
+      "updatedAt": "2026-07-09T16:40:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/detail-4.webp",
+      "hash": "c6dd4c5711fcf805a98035d8e1b337e2bdf3bbd76dfe0808097c4a0e14bb7356",
+      "width": 480,
+      "height": 480,
+      "size": 33182,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/ligue-1/marseille/1998-1999/sem-versao/camisa-marseille-retro-1998-1999-branca-adidas/detail-5.webp",
+      "hash": "836e775ff342c9f9e23be97b2cf4bb9ef236f4a45d3e117aa79726da0c15f741",
+      "width": 480,
+      "height": 480,
+      "size": 20818,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    }
+  ]
+}

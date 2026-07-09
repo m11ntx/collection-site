@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul",
+  "createdAt": "2026-07-09T16:39:15Z",
+  "updatedAt": "2026-07-09T16:39:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/front.webp",
+      "hash": "1ad74d1eda5fc7925479ab7efae2a5034962876188fec2ff8092d72434c33e85",
+      "width": 480,
+      "height": 480,
+      "size": 12558,
+      "createdAt": "2026-07-09T16:39:14Z",
+      "updatedAt": "2026-07-09T16:39:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/back.webp",
+      "hash": "4bc99f713af8ba29265eaf7cf5d3607a8976e42c98e716a9be54002012056832",
+      "width": 480,
+      "height": 480,
+      "size": 8450,
+      "createdAt": "2026-07-09T16:39:14Z",
+      "updatedAt": "2026-07-09T16:39:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/detail-1.webp",
+      "hash": "62e3ce1bff9cc89ee9840ee22cd5e1b20a1c3ea8c42d09121e52e901c9e86960",
+      "width": 480,
+      "height": 480,
+      "size": 30076,
+      "createdAt": "2026-07-09T16:39:14Z",
+      "updatedAt": "2026-07-09T16:39:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/detail-2.webp",
+      "hash": "100fb939d8fdef6823b1168995b0a8fadd17025e0c9ac54b638e958bebbb2bcd",
+      "width": 480,
+      "height": 480,
+      "size": 21562,
+      "createdAt": "2026-07-09T16:39:15Z",
+      "updatedAt": "2026-07-09T16:39:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/detail-3.webp",
+      "hash": "0bec54f7e3156d225c8be8513a8db4a3d1a7bd8a4e94a764bf67a855704bd289",
+      "width": 480,
+      "height": 480,
+      "size": 18538,
+      "createdAt": "2026-07-09T16:39:15Z",
+      "updatedAt": "2026-07-09T16:39:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-city/97-99/fan/camisa-manchester-city-home-retro-97-99-torcedor-masculina-azul/detail-4.webp",
+      "hash": "4706dec0a2e0b194ccde38e9fa9a527fa18a5f76abf3c3a084df50c1589a0740",
+      "width": 480,
+      "height": 480,
+      "size": 60552,
+      "createdAt": "2026-07-09T16:39:15Z",
+      "updatedAt": "2026-07-09T16:39:15Z"
+    }
+  ]
+}

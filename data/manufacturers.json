@@ -91,6 +91,13 @@
     "country": null
   },
   {
+    "id": "penalty",
+    "slug": "penalty",
+    "name": "Penalty",
+    "logo": null,
+    "country": null
+  },
+  {
     "id": "puma",
     "slug": "puma",
     "name": "Puma",

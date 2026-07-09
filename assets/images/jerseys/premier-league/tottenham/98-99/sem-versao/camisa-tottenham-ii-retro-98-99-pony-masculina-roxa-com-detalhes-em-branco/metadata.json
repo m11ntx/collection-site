@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:44:34Z",
+  "updatedAt": "2026-07-09T16:44:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/front.webp",
+      "hash": "dc3a701f39a27e9886e6e0ec9519aa4f09f3dcf7a610bd27459b302e8c35c83f",
+      "width": 480,
+      "height": 480,
+      "size": 7850,
+      "createdAt": "2026-07-09T16:44:33Z",
+      "updatedAt": "2026-07-09T16:44:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/back.webp",
+      "hash": "34559a023ba8e3c8dd9efd48f9f7ec429aad9ecc490b38a789ff86627e3188b3",
+      "width": 480,
+      "height": 480,
+      "size": 4858,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/detail-1.webp",
+      "hash": "428f3d34728f5a60cdbe7b8027f65c3a818361f660cecbae7bed9984d0c754a6",
+      "width": 480,
+      "height": 480,
+      "size": 16800,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/detail-2.webp",
+      "hash": "b5bf0ff97235513dc2b5f9d55ce4b0285b05b4b9c556852018c232164df7de0b",
+      "width": 480,
+      "height": 480,
+      "size": 77110,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/detail-3.webp",
+      "hash": "2ff97a08dbc479b1a7192958232b1ff20798f77ea1d20dd52f70fe877d2ea8c6",
+      "width": 480,
+      "height": 480,
+      "size": 76274,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/detail-4.webp",
+      "hash": "29c882eff05a486a97281626f452745642fae30177c4e0b04c58087248a7f775",
+      "width": 480,
+      "height": 480,
+      "size": 24536,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/tottenham/98-99/sem-versao/camisa-tottenham-ii-retro-98-99-pony-masculina-roxa-com-detalhes-em-branco/detail-5.webp",
+      "hash": "f15afc7b2105b6dee829df888b628f4c26a42be46b5d6686967776fab1b164d7",
+      "width": 480,
+      "height": 480,
+      "size": 25192,
+      "createdAt": "2026-07-09T16:44:34Z",
+      "updatedAt": "2026-07-09T16:44:34Z"
+    }
+  ]
+}

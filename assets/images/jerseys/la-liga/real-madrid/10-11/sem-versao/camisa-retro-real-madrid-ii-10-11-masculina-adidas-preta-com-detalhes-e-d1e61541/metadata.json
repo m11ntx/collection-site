@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-em-branco-e-verde-limao",
+  "createdAt": "2026-07-09T16:44:05Z",
+  "updatedAt": "2026-07-09T16:44:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/front.webp",
+      "hash": "36fd9314fb57cf9d68e54d72fc6e93c84e73d3b9d61db0d94ccb7a2b519b7e0f",
+      "width": 480,
+      "height": 480,
+      "size": 8540,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/back.webp",
+      "hash": "699d819787a3ff11a72610207ba609a00021d679814c9d67ad6222223ea2045f",
+      "width": 480,
+      "height": 480,
+      "size": 5042,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/detail-1.webp",
+      "hash": "937d779744118c4b2571db20a89db3caaa9ab5a6c636751a4bbb4f70ace6790e",
+      "width": 480,
+      "height": 480,
+      "size": 13710,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/detail-2.webp",
+      "hash": "36830ee407b6fdd36880501746fe9388b7dee334c2e20c12597f1fa8c65fe175",
+      "width": 480,
+      "height": 480,
+      "size": 64742,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/detail-3.webp",
+      "hash": "bdb82cd0b51be6690dc78a0b43b3f08c00a0a3dc2a85eebeda568141a8ddcac3",
+      "width": 480,
+      "height": 480,
+      "size": 36026,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/detail-4.webp",
+      "hash": "148c26aaeef7b0d78f26bf15fda4e3a618620a11675c59c185dacc6018b5d347",
+      "width": 480,
+      "height": 480,
+      "size": 13916,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-ii-10-11-masculina-adidas-preta-com-detalhes-e-d1e61541/detail-5.webp",
+      "hash": "c05376581e9eda65671ef76247bb299e200c5d067494f98487d1ef7b713a003d",
+      "width": 480,
+      "height": 480,
+      "size": 10904,
+      "createdAt": "2026-07-09T16:44:04Z",
+      "updatedAt": "2026-07-09T16:44:04Z"
+    }
+  ]
+}

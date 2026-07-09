@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T16:40:26Z",
+  "updatedAt": "2026-07-09T16:40:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/front.webp",
+      "hash": "b91892544f6852eaf3328a73861460ec9d8d9a723be6dbc904823fb365daa28f",
+      "width": 480,
+      "height": 480,
+      "size": 8862,
+      "createdAt": "2026-07-09T16:40:25Z",
+      "updatedAt": "2026-07-09T16:40:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/back.webp",
+      "hash": "7e5ec5ed2c2679f8eeaa1a983a24aee33fc3f5b7844a325bb1ea467659151f11",
+      "width": 480,
+      "height": 480,
+      "size": 11780,
+      "createdAt": "2026-07-09T16:40:25Z",
+      "updatedAt": "2026-07-09T16:40:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/detail-1.webp",
+      "hash": "879166196c793feb27ace7f66f65d7851c33929e4db5d4145222b964fe976b5a",
+      "width": 480,
+      "height": 480,
+      "size": 5480,
+      "createdAt": "2026-07-09T16:40:25Z",
+      "updatedAt": "2026-07-09T16:40:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/detail-2.webp",
+      "hash": "a6242150cf18057140cc2868cdab1a9cf885d91dfc786a63a3fb2bee2ebd3b70",
+      "width": 480,
+      "height": 480,
+      "size": 15700,
+      "createdAt": "2026-07-09T16:40:25Z",
+      "updatedAt": "2026-07-09T16:40:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/detail-3.webp",
+      "hash": "ce33d72658422b6b0a943b7f913a8e84fdd33e38ce54faf307a20decef9493c2",
+      "width": 480,
+      "height": 480,
+      "size": 23766,
+      "createdAt": "2026-07-09T16:40:25Z",
+      "updatedAt": "2026-07-09T16:40:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/detail-4.webp",
+      "hash": "0ab14dd3c53e4f7f39c65a014f5b81cf58ae099ab059fd5db9566c8080bcb1d9",
+      "width": 480,
+      "height": 480,
+      "size": 26418,
+      "createdAt": "2026-07-09T16:40:26Z",
+      "updatedAt": "2026-07-09T16:40:26Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/2014/fan/camisa-retro-palmeiras-2014-torcedor-adidas-masculina-amarela-com-detal-b3bec4f2/detail-5.webp",
+      "hash": "9cdeb284bc40aff4f21966b5c9b261854403ada79400cd62e121219a68b1a56c",
+      "width": 480,
+      "height": 480,
+      "size": 15840,
+      "createdAt": "2026-07-09T16:40:26Z",
+      "updatedAt": "2026-07-09T16:40:26Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-brasil-retro-copa-do-mundo-2020",
+  "createdAt": "2026-07-09T16:37:44Z",
+  "updatedAt": "2026-07-09T16:37:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2020/sem-versao/camisa-do-brasil-retro-copa-do-mundo-2020/front.webp",
+      "hash": "6ccd4e58cee7c4dedeb753aa9ef04650fa370a01ccae374eb6cedf39110f52ef",
+      "width": 480,
+      "height": 480,
+      "size": 8962,
+      "createdAt": "2026-07-09T16:37:43Z",
+      "updatedAt": "2026-07-09T16:37:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2020/sem-versao/camisa-do-brasil-retro-copa-do-mundo-2020/back.webp",
+      "hash": "a35358ac8643e69358925f4e17658d5b7adfaa523d4a2048470bbdebce7c31d8",
+      "width": 480,
+      "height": 480,
+      "size": 7348,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    }
+  ]
+}

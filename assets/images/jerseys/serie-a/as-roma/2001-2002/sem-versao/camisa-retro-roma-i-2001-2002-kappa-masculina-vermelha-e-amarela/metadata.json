@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela",
+  "createdAt": "2026-07-09T16:42:32Z",
+  "updatedAt": "2026-07-09T16:42:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/front.webp",
+      "hash": "373df70cef2d0b589301076c410364bb9d9791f559a4cd85c46f896187ce4c5d",
+      "width": 480,
+      "height": 480,
+      "size": 9054,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/back.webp",
+      "hash": "4df85d7cd9c3d263b58ee3bf3211447c9455c64157c9b8c350af358b27cbeb16",
+      "width": 480,
+      "height": 480,
+      "size": 15462,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/detail-1.webp",
+      "hash": "bf25cdf3bf90eebc8357bf88f08b50247d31de20bb64359147db5c742cc5f844",
+      "width": 480,
+      "height": 480,
+      "size": 6904,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/detail-2.webp",
+      "hash": "81a67242bba27e8d0450d15299b0c7f8d2beed98cb1010f1e8c5ae715f81ac86",
+      "width": 480,
+      "height": 480,
+      "size": 48528,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/detail-3.webp",
+      "hash": "d7b1f3d2b75a0703390157726dd2cf6ad99d1526efa8f087ae77062887f4a175",
+      "width": 480,
+      "height": 480,
+      "size": 47078,
+      "createdAt": "2026-07-09T16:42:32Z",
+      "updatedAt": "2026-07-09T16:42:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/detail-4.webp",
+      "hash": "ba9c9605a97c4ced60849ba8b1e11a19d95892cbe1333ff2378d48db5f91b348",
+      "width": 480,
+      "height": 480,
+      "size": 10966,
+      "createdAt": "2026-07-09T16:42:32Z",
+      "updatedAt": "2026-07-09T16:42:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/as-roma/2001-2002/sem-versao/camisa-retro-roma-i-2001-2002-kappa-masculina-vermelha-e-amarela/detail-5.webp",
+      "hash": "6a858d7a6abe96a0080d4d45c6b00336ff5ae89e23ac51afe2a2bb84457e6167",
+      "width": 480,
+      "height": 480,
+      "size": 10602,
+      "createdAt": "2026-07-09T16:42:32Z",
+      "updatedAt": "2026-07-09T16:42:32Z"
+    }
+  ]
+}

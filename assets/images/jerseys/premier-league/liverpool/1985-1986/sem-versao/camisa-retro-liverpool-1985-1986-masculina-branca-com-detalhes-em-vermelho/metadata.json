@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T16:39:02Z",
+  "updatedAt": "2026-07-09T16:39:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/front.webp",
+      "hash": "dbcc334439f667e0c9f7589bbdfca628b150d9329d6a9eb6fea43b9beaf7c1f6",
+      "width": 480,
+      "height": 480,
+      "size": 9354,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/back.webp",
+      "hash": "872bed53781c0016c430d4048b48d10b797349bfbed1fb786160622dfe3f4fa4",
+      "width": 480,
+      "height": 480,
+      "size": 5514,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "12446cfa3fdabda1bf6cbee1d061ea3f1edde0da2b671ac1f4592be86622b050",
+      "width": 480,
+      "height": 480,
+      "size": 20826,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "d062c5535840ee3ef57196b508400113125f46716f755645cd3d35988875d0c6",
+      "width": 480,
+      "height": 480,
+      "size": 42796,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "f8e894b71db7eb5b63a56ac3a115ae1c7f53b21c5911d21367f1c43492fcbd06",
+      "width": 480,
+      "height": 480,
+      "size": 41830,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/detail-4.webp",
+      "hash": "ffde8cd3308ebe76820fd0ee08fc47d89ea816032b74b0a4878dd5819afc7fea",
+      "width": 480,
+      "height": 480,
+      "size": 19338,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/1985-1986/sem-versao/camisa-retro-liverpool-1985-1986-masculina-branca-com-detalhes-em-vermelho/detail-5.webp",
+      "hash": "51cced8487d57f79ae6dcc5b6534f98f1a9b86b02295da9078332954b10a1593",
+      "width": 480,
+      "height": 480,
+      "size": 21034,
+      "createdAt": "2026-07-09T16:39:02Z",
+      "updatedAt": "2026-07-09T16:39:02Z"
+    }
+  ]
+}

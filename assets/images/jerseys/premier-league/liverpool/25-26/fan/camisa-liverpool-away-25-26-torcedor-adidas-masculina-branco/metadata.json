@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-away-25-26-torcedor-adidas-masculina-branco",
+  "createdAt": "2026-07-09T16:38:58Z",
+  "updatedAt": "2026-07-09T16:38:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-away-25-26-torcedor-adidas-masculina-branco/front.webp",
+      "hash": "7ee45b675639e2227f3385aec73db7b07ea5bd9acb537878333eb77088832993",
+      "width": 480,
+      "height": 480,
+      "size": 10534,
+      "createdAt": "2026-07-09T16:38:58Z",
+      "updatedAt": "2026-07-09T16:38:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/fan/camisa-liverpool-away-25-26-torcedor-adidas-masculina-branco/back.webp",
+      "hash": "b1a9c893471d010fe779703eff222d95cd8f3975a993a1f59e511ce4cb0db39b",
+      "width": 480,
+      "height": 480,
+      "size": 5290,
+      "createdAt": "2026-07-09T16:38:58Z",
+      "updatedAt": "2026-07-09T16:38:58Z"
+    }
+  ]
+}

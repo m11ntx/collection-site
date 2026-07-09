@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-1994-1996-preta-umbro",
+  "createdAt": "2026-07-09T16:36:29Z",
+  "updatedAt": "2026-07-09T16:36:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/front.webp",
+      "hash": "790fd2c49b805623660bfe64d694bbb7e4e19420763a272e923ffa2c69fe5025",
+      "width": 480,
+      "height": 480,
+      "size": 13146,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/back.webp",
+      "hash": "0939c6acdbb8186b234edc3d9778a10aa243a059df0e65f45ac2ea8a6f5b107d",
+      "width": 480,
+      "height": 480,
+      "size": 5552,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/detail-1.webp",
+      "hash": "d82a2f271a3242d9a7f5022b3efe3ba68653ba03cf7b82b9ea552579cc10acc2",
+      "width": 480,
+      "height": 480,
+      "size": 40248,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/detail-2.webp",
+      "hash": "fbdc32d496dc1144191b2e9e55bdbe82cf547ce7653f1258a87a6fbd0dd0c7aa",
+      "width": 480,
+      "height": 480,
+      "size": 29612,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/detail-3.webp",
+      "hash": "650f64a2c79b376644dee6e06c664661d98e99482ff9b54c53ff7bb24b6d5f88",
+      "width": 480,
+      "height": 480,
+      "size": 52588,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/detail-4.webp",
+      "hash": "5cfd540791ab1706be7faa4d31f5635b1fb2f45bff6cbae765307107e5e4baa1",
+      "width": 480,
+      "height": 480,
+      "size": 54792,
+      "createdAt": "2026-07-09T16:36:28Z",
+      "updatedAt": "2026-07-09T16:36:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1994-1996/sem-versao/camisa-celtic-retro-1994-1996-preta-umbro/detail-5.webp",
+      "hash": "44e3d2a8154303e31bfd638ca9886ad2f5542b625601f1e2b724aa46f1b9daae",
+      "width": 480,
+      "height": 480,
+      "size": 15568,
+      "createdAt": "2026-07-09T16:36:29Z",
+      "updatedAt": "2026-07-09T16:36:29Z"
+    }
+  ]
+}

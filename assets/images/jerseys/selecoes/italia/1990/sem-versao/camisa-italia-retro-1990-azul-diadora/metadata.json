@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-italia-retro-1990-azul-diadora",
+  "createdAt": "2026-07-09T16:38:51Z",
+  "updatedAt": "2026-07-09T16:38:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/front.webp",
+      "hash": "f36935901775fb99626471dbf63f263d07f3abf1b1b625eec33843c59f61e29c",
+      "width": 480,
+      "height": 480,
+      "size": 9682,
+      "createdAt": "2026-07-09T16:38:50Z",
+      "updatedAt": "2026-07-09T16:38:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/back.webp",
+      "hash": "2716fa6a7ab59e7ed90abcf25a51e5e9f36d08a06175a392d19175b6a2e4fd14",
+      "width": 480,
+      "height": 480,
+      "size": 6852,
+      "createdAt": "2026-07-09T16:38:50Z",
+      "updatedAt": "2026-07-09T16:38:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/detail-1.webp",
+      "hash": "80c02a5fa3e59372b808870d42b0b597fad2c2b4e566663e238b7193ccd8ecc2",
+      "width": 480,
+      "height": 480,
+      "size": 53784,
+      "createdAt": "2026-07-09T16:38:50Z",
+      "updatedAt": "2026-07-09T16:38:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/detail-2.webp",
+      "hash": "13b88177bf94031387a8ab5d1bcdf675af025a38f0c9a745546281bd78c1a5ef",
+      "width": 480,
+      "height": 480,
+      "size": 43674,
+      "createdAt": "2026-07-09T16:38:50Z",
+      "updatedAt": "2026-07-09T16:38:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/detail-3.webp",
+      "hash": "d279ff47ae671143f8157fca9697a4fe4b6cd8ad158eaf127fff144f0169a44b",
+      "width": 480,
+      "height": 480,
+      "size": 20870,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/detail-4.webp",
+      "hash": "99917aa465b13899ee1b564eceed6c143942dcfccee3797f0e2d21c0770ccacb",
+      "width": 480,
+      "height": 480,
+      "size": 18816,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/italia/1990/sem-versao/camisa-italia-retro-1990-azul-diadora/detail-5.webp",
+      "hash": "2a9a67575a8aa0fff4307ebc7441780b49ffc0f48d6c1e9c9c4cbbebcea852e0",
+      "width": 480,
+      "height": 480,
+      "size": 19074,
+      "createdAt": "2026-07-09T16:38:51Z",
+      "updatedAt": "2026-07-09T16:38:51Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca",
+  "createdAt": "2026-07-09T16:41:56Z",
+  "updatedAt": "2026-07-09T16:41:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/front.webp",
+      "hash": "a9e55e1df64614126102e0165ed64ed0daf25d346630521fb96cd4fff59662d0",
+      "width": 480,
+      "height": 480,
+      "size": 12186,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/back.webp",
+      "hash": "a812ba93803db437e892a31954de3c4dffa30e682f08d81d634386ce617e73aa",
+      "width": 480,
+      "height": 480,
+      "size": 7874,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/detail-1.webp",
+      "hash": "1228521c044d2198d313654ce5283a6929186c64b6b464f24a8024f80dbd459e",
+      "width": 480,
+      "height": 480,
+      "size": 13812,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/detail-2.webp",
+      "hash": "1d5387fe2d26860211574fcc162bdeb2eaa9e0203fc486107bf84d6a5d0fa840",
+      "width": 480,
+      "height": 480,
+      "size": 22474,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/detail-3.webp",
+      "hash": "92cf7fd9fbd3912129e199bf424bdfff9bdbae2f4e21c9bd800dfe2c2db5e402",
+      "width": 480,
+      "height": 480,
+      "size": 19004,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/detail-4.webp",
+      "hash": "4b51226fa1fa20d32de6d14612007a8bd38b0ed70b116593648a02e97140fd4a",
+      "width": 480,
+      "height": 480,
+      "size": 10354,
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-kappa-masculina-preta-e-branca/detail-5.webp",
+      "hash": "a3162742f549952d309bfbda240064b384b7d0b0ac6a541cff0ea009965937c1",
+      "width": 480,
+      "height": 480,
+      "size": 6656,
+      "createdAt": "2026-07-09T16:41:56Z",
+      "updatedAt": "2026-07-09T16:41:56Z"
+    }
+  ]
+}

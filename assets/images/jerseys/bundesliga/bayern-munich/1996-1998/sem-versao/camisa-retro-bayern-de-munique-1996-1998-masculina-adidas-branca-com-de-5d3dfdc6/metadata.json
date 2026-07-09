@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-detalhes-em-azul-e-vermelho-e-preto",
+  "createdAt": "2026-07-09T16:41:22Z",
+  "updatedAt": "2026-07-09T16:41:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/front.webp",
+      "hash": "0944535091ed41d2cd668fa8a3f661250b15723343695c4566794445b1794ede",
+      "width": 480,
+      "height": 480,
+      "size": 8892,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/back.webp",
+      "hash": "80e92aa39efb9f94ce841fc125ba728027d68e654e13e6a917ed454dbbda5914",
+      "width": 480,
+      "height": 480,
+      "size": 13086,
+      "createdAt": "2026-07-09T16:41:21Z",
+      "updatedAt": "2026-07-09T16:41:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/detail-1.webp",
+      "hash": "d021f0e0c1074a6f722b83ef18131c59f9d06932eb6a8fe44ff0ea4d08641174",
+      "width": 480,
+      "height": 480,
+      "size": 5054,
+      "createdAt": "2026-07-09T16:41:22Z",
+      "updatedAt": "2026-07-09T16:41:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/detail-2.webp",
+      "hash": "4c12c99faccf63560319321f0bd76134c673b8fe6ce00bbb233e186b4f1e82b9",
+      "width": 480,
+      "height": 480,
+      "size": 23214,
+      "createdAt": "2026-07-09T16:41:22Z",
+      "updatedAt": "2026-07-09T16:41:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/detail-3.webp",
+      "hash": "ae5ec3c25292398b3b64e5937d40e7114203d65145df7f0240efb3d0b976980d",
+      "width": 480,
+      "height": 480,
+      "size": 34842,
+      "createdAt": "2026-07-09T16:41:22Z",
+      "updatedAt": "2026-07-09T16:41:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/detail-4.webp",
+      "hash": "efb05fcd31dc5c6766323548cae1e00a89eda612ede6697a56103ecea0277fdb",
+      "width": 480,
+      "height": 480,
+      "size": 12500,
+      "createdAt": "2026-07-09T16:41:22Z",
+      "updatedAt": "2026-07-09T16:41:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/1996-1998/sem-versao/camisa-retro-bayern-de-munique-1996-1998-masculina-adidas-branca-com-de-5d3dfdc6/detail-5.webp",
+      "hash": "82d0aec2b8f898e9a3341ef37d58268475bc892c5875354530b627826db941eb",
+      "width": 480,
+      "height": 480,
+      "size": 13440,
+      "createdAt": "2026-07-09T16:41:22Z",
+      "updatedAt": "2026-07-09T16:41:22Z"
+    }
+  ]
+}

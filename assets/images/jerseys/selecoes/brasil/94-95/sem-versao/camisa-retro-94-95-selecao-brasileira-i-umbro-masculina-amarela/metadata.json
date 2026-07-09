@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela",
+  "createdAt": "2026-07-09T16:40:42Z",
+  "updatedAt": "2026-07-09T16:40:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/front.webp",
+      "hash": "66ac41d562784ffaf18ecf2e3b2c31c7aa27b255232e12df92104c6e404c227b",
+      "width": 480,
+      "height": 480,
+      "size": 12120,
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/back.webp",
+      "hash": "279a09aedd4b88a2096fc4c05ef628d4f0f26ef0995988e4bb6c0f6a6c158dd5",
+      "width": 480,
+      "height": 480,
+      "size": 6162,
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/detail-1.webp",
+      "hash": "0f201897ded8c7e9530af7e07c36689153652f1f4842cd16cc7b2acb1c309ba2",
+      "width": 480,
+      "height": 480,
+      "size": 21412,
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/detail-2.webp",
+      "hash": "63281416721c9e2d367bcd655f547ce5c2f516ae635e7163dd25f1ee995dca33",
+      "width": 480,
+      "height": 480,
+      "size": 17726,
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/detail-3.webp",
+      "hash": "9bc3579e2b06bf136ddd92f496cf669d4a8822dca9f834b3687a7c7075aa7758",
+      "width": 480,
+      "height": 480,
+      "size": 26962,
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/detail-4.webp",
+      "hash": "31364d777d75cccf86e360611c5e4aeb6180473fda42ef6e5108492cf2794d89",
+      "width": 480,
+      "height": 480,
+      "size": 26700,
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/94-95/sem-versao/camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela/detail-5.webp",
+      "hash": "7e9dbd05df40a9335b935a4e235f0c78ca13fbc30090c22b99edd2430f5d4aa1",
+      "width": 480,
+      "height": 480,
+      "size": 11362,
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
+    }
+  ]
+}

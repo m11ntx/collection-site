@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-detalhes-em-azul-e-preto",
+  "createdAt": "2026-07-09T16:41:47Z",
+  "updatedAt": "2026-07-09T16:41:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/front.webp",
+      "hash": "cfaa6ea04cea39f1dfcc8a8ed647e7eb7a53bda5baa1a2d0bc4dc7d40794f4c6",
+      "width": 480,
+      "height": 480,
+      "size": 8792,
+      "createdAt": "2026-07-09T16:41:46Z",
+      "updatedAt": "2026-07-09T16:41:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/back.webp",
+      "hash": "84d77cca487da081079f9fbfd9273d310921eac026a81b190cfc59a0ad883877",
+      "width": 480,
+      "height": 480,
+      "size": 18580,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/detail-1.webp",
+      "hash": "9ceee43868093f8aa4f5283d9473a7bba4208881e0ae52a06b48f5e23003e4ce",
+      "width": 480,
+      "height": 480,
+      "size": 7044,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/detail-2.webp",
+      "hash": "ba350a3af362ee141663c25f305292f4947a308502bc71b49a3beb914681bd53",
+      "width": 480,
+      "height": 480,
+      "size": 50890,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/detail-3.webp",
+      "hash": "8b6dd51b6c3bfd50cd714dc04c11ca68dd3e8db0e76d2ebbfd2d21dcef80bb00",
+      "width": 480,
+      "height": 480,
+      "size": 44992,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/detail-4.webp",
+      "hash": "2b2b35bb4af18114cb3b5abf83b94b88e85fb1a5c7dbbfeacbb8afadb8910ca0",
+      "width": 480,
+      "height": 480,
+      "size": 14996,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1992-1993/sem-versao/camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-det-a31e9eda/detail-5.webp",
+      "hash": "8f9b5ef3b5c6fcf924d29a10d15ecbe1a1bba965bda3de81af8107c4a00ee272",
+      "width": 480,
+      "height": 480,
+      "size": 13950,
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
+    }
+  ]
+}

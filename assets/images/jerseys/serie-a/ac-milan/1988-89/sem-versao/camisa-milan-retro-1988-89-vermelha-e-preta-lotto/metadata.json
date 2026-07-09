@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-milan-retro-1988-89-vermelha-e-preta-lotto",
+  "createdAt": "2026-07-09T16:40:12Z",
+  "updatedAt": "2026-07-09T16:40:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/front.webp",
+      "hash": "a216499c451075c856bf8cad7d9608c2e5018f00886d350586993c0e421e5c46",
+      "width": 480,
+      "height": 480,
+      "size": 12696,
+      "createdAt": "2026-07-09T16:40:11Z",
+      "updatedAt": "2026-07-09T16:40:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/back.webp",
+      "hash": "067d9bea767e82983edb3b1e005b3188ef8795681e50d01fc6e7b5cb108fd4ff",
+      "width": 480,
+      "height": 480,
+      "size": 9134,
+      "createdAt": "2026-07-09T16:40:11Z",
+      "updatedAt": "2026-07-09T16:40:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/detail-1.webp",
+      "hash": "278b4eedc2c3a6495d9a90c8d91bf949ff065cc43dc99030901f7d20b13b5573",
+      "width": 480,
+      "height": 480,
+      "size": 12092,
+      "createdAt": "2026-07-09T16:40:11Z",
+      "updatedAt": "2026-07-09T16:40:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/detail-2.webp",
+      "hash": "7802cc9011dd3442f259ad51644143c1d457a977be94358a7eb19944eb0e3afb",
+      "width": 480,
+      "height": 480,
+      "size": 15842,
+      "createdAt": "2026-07-09T16:40:11Z",
+      "updatedAt": "2026-07-09T16:40:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/detail-3.webp",
+      "hash": "6893c135a90940bbff0ee061a56354884d16577771c6f8d9d8c95f7c056188ff",
+      "width": 480,
+      "height": 480,
+      "size": 18800,
+      "createdAt": "2026-07-09T16:40:12Z",
+      "updatedAt": "2026-07-09T16:40:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/detail-4.webp",
+      "hash": "06c8e567420d5e971a5200af46e0117bb6438e216cb1db4c28ea192cdc720b94",
+      "width": 480,
+      "height": 480,
+      "size": 9334,
+      "createdAt": "2026-07-09T16:40:12Z",
+      "updatedAt": "2026-07-09T16:40:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1988-89/sem-versao/camisa-milan-retro-1988-89-vermelha-e-preta-lotto/detail-5.webp",
+      "hash": "64206d9a0b69a2ac158dad7a2d0f8ec1effb42e8f686ffd23c2b98c8d033fee4",
+      "width": 480,
+      "height": 480,
+      "size": 11130,
+      "createdAt": "2026-07-09T16:40:12Z",
+      "updatedAt": "2026-07-09T16:40:12Z"
+    }
+  ]
+}

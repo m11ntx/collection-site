@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chivas-retro-2006-2007-azul-reebok",
+  "createdAt": "2026-07-09T16:36:47Z",
+  "updatedAt": "2026-07-09T16:36:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/front.webp",
+      "hash": "e14d4b03c026d2f01726a1f8a7664e4a622363d00ba7923f5e2cd11081b50137",
+      "width": 480,
+      "height": 480,
+      "size": 15838,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/back.webp",
+      "hash": "29df11acd427e602b09f24dd16f29ac77117784c4f749ba722bc11e754cb88ab",
+      "width": 480,
+      "height": 480,
+      "size": 10694,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/detail-1.webp",
+      "hash": "5b4d92b27c62f4db535d67c754fdc5ecc6987bbcde2022c9cb32e1e59bfe9504",
+      "width": 480,
+      "height": 480,
+      "size": 29358,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/detail-2.webp",
+      "hash": "d5697608807807ea766797b5132ee240e0714f8e506c7ed567ac3e386f68562b",
+      "width": 480,
+      "height": 480,
+      "size": 22472,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/detail-3.webp",
+      "hash": "fb7bfb5686179182c309aa608f188e369a379845c1f10831acde87ca64b4eea3",
+      "width": 480,
+      "height": 480,
+      "size": 65656,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/detail-4.webp",
+      "hash": "0605e44942577e00b154b2a64a749166dad94cfb1c5f647f8fa411d5eb01eddc",
+      "width": 480,
+      "height": 480,
+      "size": 29304,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/chivas/2006-2007/sem-versao/camisa-chivas-retro-2006-2007-azul-reebok/detail-5.webp",
+      "hash": "bc0b582fdcaa2ed38a7135f56bad7d64b72400bbaf632d66137fc00ae384d8f8",
+      "width": 480,
+      "height": 480,
+      "size": 33386,
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
+    }
+  ]
+}

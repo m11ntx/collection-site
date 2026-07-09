@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja",
+  "createdAt": "2026-07-09T16:42:50Z",
+  "updatedAt": "2026-07-09T16:42:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/front.webp",
+      "hash": "9e1dfd0b10006b6fac2f66cab483ce2fee6b4d3c84dc8b49262eca3c8528bd9b",
+      "width": 480,
+      "height": 480,
+      "size": 17144,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/back.webp",
+      "hash": "e9ebbbbe08fd88935e0733a3d8b9cd211639517cf17baaf4f93a9084fce5b1cc",
+      "width": 480,
+      "height": 480,
+      "size": 14696,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/detail-1.webp",
+      "hash": "2b4a35f45749ff1e1ee8979864d7033504f99afa8375d406169e1ac7ca7d96ce",
+      "width": 480,
+      "height": 480,
+      "size": 20566,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/detail-2.webp",
+      "hash": "96e4ca71ed24b241daefdd95a7eb27719b4b298fbe2177e032f5e7c6fc93a0ef",
+      "width": 480,
+      "height": 480,
+      "size": 23012,
+      "createdAt": "2026-07-09T16:42:49Z",
+      "updatedAt": "2026-07-09T16:42:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/detail-3.webp",
+      "hash": "068968eb33fdc3bc24fab441516ecf99db39ec61e881910fc06b059b4a4e7f4f",
+      "width": 480,
+      "height": 480,
+      "size": 24798,
+      "createdAt": "2026-07-09T16:42:50Z",
+      "updatedAt": "2026-07-09T16:42:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/detail-4.webp",
+      "hash": "fee3d9b97437b9ec7aa1b66a56c6de9476c6cb6c6301796fdfe38923e9eeb0fc",
+      "width": 480,
+      "height": 480,
+      "size": 20002,
+      "createdAt": "2026-07-09T16:42:50Z",
+      "updatedAt": "2026-07-09T16:42:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/1988/sem-versao/camisa-retro-selecao-da-holanda-i-1988-adidas-masculina-laranja/detail-5.webp",
+      "hash": "8b7fba9ba7170e23f93ea0f95e487fe86cbbb8d622446eaea81102e373ac855f",
+      "width": 480,
+      "height": 480,
+      "size": 12016,
+      "createdAt": "2026-07-09T16:42:50Z",
+      "updatedAt": "2026-07-09T16:42:50Z"
+    }
+  ]
+}

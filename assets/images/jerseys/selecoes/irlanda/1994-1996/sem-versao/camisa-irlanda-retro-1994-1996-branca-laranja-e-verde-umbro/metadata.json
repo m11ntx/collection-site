@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro",
+  "createdAt": "2026-07-09T16:38:49Z",
+  "updatedAt": "2026-07-09T16:38:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/front.webp",
+      "hash": "bc41458f000ad8658b847b8bff6041ddcae2c9ea5bd53b37e58d63cceeafaf6b",
+      "width": 480,
+      "height": 480,
+      "size": 11276,
+      "createdAt": "2026-07-09T16:38:48Z",
+      "updatedAt": "2026-07-09T16:38:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/back.webp",
+      "hash": "4e196654501ee15ddc3e4e65ae77aac593972b47ab4fd5d0e4fa134b371fbddb",
+      "width": 480,
+      "height": 480,
+      "size": 8628,
+      "createdAt": "2026-07-09T16:38:48Z",
+      "updatedAt": "2026-07-09T16:38:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/detail-1.webp",
+      "hash": "3385f4aa135b1daf885367fa1225f4103bbe9d6f2f496f5a49072ca6e41c19a5",
+      "width": 480,
+      "height": 480,
+      "size": 36190,
+      "createdAt": "2026-07-09T16:38:48Z",
+      "updatedAt": "2026-07-09T16:38:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/detail-2.webp",
+      "hash": "a397dc30ca997e6b1b41c42e0703247324e4790dd463130f21bbe6420af14142",
+      "width": 480,
+      "height": 480,
+      "size": 19378,
+      "createdAt": "2026-07-09T16:38:49Z",
+      "updatedAt": "2026-07-09T16:38:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/detail-3.webp",
+      "hash": "085b84b0fca781b942e8b7ccf83411bfdb7fc7782e58031a2ec20284a9fa5185",
+      "width": 480,
+      "height": 480,
+      "size": 57276,
+      "createdAt": "2026-07-09T16:38:49Z",
+      "updatedAt": "2026-07-09T16:38:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/detail-4.webp",
+      "hash": "5facbdf53d871c55c465dac0c2b41c8ea75b8030a0f68606c74fc45cde9baab8",
+      "width": 480,
+      "height": 480,
+      "size": 69572,
+      "createdAt": "2026-07-09T16:38:49Z",
+      "updatedAt": "2026-07-09T16:38:49Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/irlanda/1994-1996/sem-versao/camisa-irlanda-retro-1994-1996-branca-laranja-e-verde-umbro/detail-5.webp",
+      "hash": "e845ac647535934db083be8f0a4fe880e17e3e04e607fd397d579afccc9f4efd",
+      "width": 480,
+      "height": 480,
+      "size": 32356,
+      "createdAt": "2026-07-09T16:38:49Z",
+      "updatedAt": "2026-07-09T16:38:49Z"
+    }
+  ]
+}

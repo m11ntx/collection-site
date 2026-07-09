@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-retro-2006-azul-adidas",
+  "createdAt": "2026-07-09T16:38:55Z",
+  "updatedAt": "2026-07-09T16:38:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/front.webp",
+      "hash": "8db7f4502dc150b09d1332c8b9d998ddad756064ea634fa05590a9525fb919b8",
+      "width": 480,
+      "height": 480,
+      "size": 20746,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/back.webp",
+      "hash": "f883510983543444aa8ea6f1a57162c785fa9697da1f173d3e902d2eff5440cd",
+      "width": 480,
+      "height": 480,
+      "size": 12328,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/detail-1.webp",
+      "hash": "0c4b7e7ca0166d18078ca0c985007d4d2078ce3d0ba112edfba1638c71ac36df",
+      "width": 480,
+      "height": 480,
+      "size": 28444,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/detail-2.webp",
+      "hash": "e540ce1a87e88db1832e52f4ffc2123c976b50892a68a661b0aab828b8156c5e",
+      "width": 480,
+      "height": 480,
+      "size": 17722,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/detail-3.webp",
+      "hash": "8ee0310eac3e909e280a59f0fa5258b158f7c023a3bd18c28ff896cad6df4f76",
+      "width": 480,
+      "height": 480,
+      "size": 17822,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/detail-4.webp",
+      "hash": "aae88ae39ed4e7aa5db3df7728094a0b8f056615c6e5abcf07b781fda22bcbea",
+      "width": 480,
+      "height": 480,
+      "size": 20902,
+      "createdAt": "2026-07-09T16:38:54Z",
+      "updatedAt": "2026-07-09T16:38:54Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/2006/sem-versao/camisa-japao-retro-2006-azul-adidas/detail-5.webp",
+      "hash": "bb61afebb69d7f2a93b0d0cfef6896e4f5cbe74eea22e4392dd7ab1d4749ef76",
+      "width": 480,
+      "height": 480,
+      "size": 36402,
+      "createdAt": "2026-07-09T16:38:55Z",
+      "updatedAt": "2026-07-09T16:38:55Z"
+    }
+  ]
+}

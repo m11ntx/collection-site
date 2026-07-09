@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1996-1997-azul-umbro",
+  "createdAt": "2026-07-09T16:39:40Z",
+  "updatedAt": "2026-07-09T16:39:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/front.webp",
+      "hash": "56191ef6bc3a58bcd2b7a1831721e2e08837e0d76b9b7f963910a9748231227f",
+      "width": 480,
+      "height": 480,
+      "size": 17170,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/back.webp",
+      "hash": "5a84cc56d21bdf3e17f3cdcfd04344bb3800d699c23df43a9e31fcf0b72d4606",
+      "width": 480,
+      "height": 480,
+      "size": 9724,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/detail-1.webp",
+      "hash": "792f44d9191564c01979d945efecdfd1ac5fd7f996ae56e516be578766ca9e0f",
+      "width": 480,
+      "height": 480,
+      "size": 38962,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/detail-2.webp",
+      "hash": "20f517bdc6c50c4639dbbc9baa1ab0048b6ba922c21be2573e9212b484b16792",
+      "width": 480,
+      "height": 480,
+      "size": 33102,
+      "createdAt": "2026-07-09T16:39:39Z",
+      "updatedAt": "2026-07-09T16:39:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/detail-3.webp",
+      "hash": "b8771154c885ad3873685927eebdedaeadc9baa6b1c93193e113baf97b24f28f",
+      "width": 480,
+      "height": 480,
+      "size": 51582,
+      "createdAt": "2026-07-09T16:39:40Z",
+      "updatedAt": "2026-07-09T16:39:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/detail-4.webp",
+      "hash": "00f4d8128befbe953cea72ba019291d0fc7d9ad1bde9408e9bda37b41fc33067",
+      "width": 480,
+      "height": 480,
+      "size": 14298,
+      "createdAt": "2026-07-09T16:39:40Z",
+      "updatedAt": "2026-07-09T16:39:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996-1997/sem-versao/camisa-manchester-united-retro-1996-1997-azul-umbro/detail-5.webp",
+      "hash": "418688f439492ece3d1a6789b75ca9c94d4156e158fb7a6347ffa13f59aba5e7",
+      "width": 480,
+      "height": 480,
+      "size": 17284,
+      "createdAt": "2026-07-09T16:39:40Z",
+      "updatedAt": "2026-07-09T16:39:40Z"
+    }
+  ]
+}

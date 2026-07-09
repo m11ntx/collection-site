@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T16:44:44Z",
+  "updatedAt": "2026-07-09T16:44:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/front.webp",
+      "hash": "cc716ebbc126ab031b318e297a798d1f3ec98f224d8290c8e87c21957894253b",
+      "width": 480,
+      "height": 480,
+      "size": 9014,
+      "createdAt": "2026-07-09T16:44:43Z",
+      "updatedAt": "2026-07-09T16:44:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/back.webp",
+      "hash": "43785637b1d179fe07a32598f9a1ec259795d32eaa2e2b46af7b335e9c61fd50",
+      "width": 480,
+      "height": 480,
+      "size": 12844,
+      "createdAt": "2026-07-09T16:44:43Z",
+      "updatedAt": "2026-07-09T16:44:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/detail-1.webp",
+      "hash": "32118c66bcb90af01ecc4f7dbe6803c1812d484452e33680c87f81225f71e576",
+      "width": 480,
+      "height": 480,
+      "size": 6890,
+      "createdAt": "2026-07-09T16:44:43Z",
+      "updatedAt": "2026-07-09T16:44:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/detail-2.webp",
+      "hash": "292300c3fb3e969f7962f3fab1626d895198ed0f309ca3bcaaf660fabee336bc",
+      "width": 480,
+      "height": 480,
+      "size": 17044,
+      "createdAt": "2026-07-09T16:44:43Z",
+      "updatedAt": "2026-07-09T16:44:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/detail-3.webp",
+      "hash": "8a86d4a26cffd6606cfebcce02e1fd17c5a85e064b8215b3b110644e71e8cf0e",
+      "width": 480,
+      "height": 480,
+      "size": 74254,
+      "createdAt": "2026-07-09T16:44:44Z",
+      "updatedAt": "2026-07-09T16:44:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/detail-4.webp",
+      "hash": "d9bca983310aec7d36c9368e4cc68621c4859657798ea1bdd9413517018175ab",
+      "width": 480,
+      "height": 480,
+      "size": 82074,
+      "createdAt": "2026-07-09T16:44:44Z",
+      "updatedAt": "2026-07-09T16:44:44Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/fan/camisa-selecao-brasileira-retro-ii-2002-nike-torcedor-masculina-azul-co-636b5faf/detail-5.webp",
+      "hash": "0c84795532e22a56636b3ce61b2a65e38c57f3805e4885392c2c5bcd71ece3d7",
+      "width": 480,
+      "height": 480,
+      "size": 36366,
+      "createdAt": "2026-07-09T16:44:44Z",
+      "updatedAt": "2026-07-09T16:44:44Z"
+    }
+  ]
+}

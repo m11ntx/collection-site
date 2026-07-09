@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-barcelona-retro-2006-2007-azul-e-grena-nike",
+  "createdAt": "2026-07-09T16:35:58Z",
+  "updatedAt": "2026-07-09T16:35:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/front.webp",
+      "hash": "4d6af1ce008d74318b6ab3c7bbd93dd07a886cdb58dd7f92ac67c20a6dce5f95",
+      "width": 480,
+      "height": 480,
+      "size": 11234,
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/back.webp",
+      "hash": "380a3302e14270fe0031d5764b9e0f3258a154bcaad8b21bae6347a649b0d695",
+      "width": 480,
+      "height": 480,
+      "size": 10976,
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/detail-1.webp",
+      "hash": "0816bd36cc5ca26d1e84cd795e650f68d81839fce1b3aec575e5fbfb7324bc24",
+      "width": 480,
+      "height": 480,
+      "size": 48948,
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/detail-2.webp",
+      "hash": "9fac04cb173171f98b1e31f513356a35bdb418dd8fa86b02ce683399d15a8090",
+      "width": 480,
+      "height": 480,
+      "size": 20762,
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/detail-3.webp",
+      "hash": "9fd5bc2024d2c794154fae728d56bfe7e88ca1d7efc9be53022cb65be7593ebf",
+      "width": 480,
+      "height": 480,
+      "size": 74204,
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/detail-4.webp",
+      "hash": "42b63514caca59884a97c0eb5d26f281bd028ceafb35d214ac6ac14d2fd928bd",
+      "width": 480,
+      "height": 480,
+      "size": 70458,
+      "createdAt": "2026-07-09T16:35:58Z",
+      "updatedAt": "2026-07-09T16:35:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2006-2007/sem-versao/camisa-barcelona-retro-2006-2007-azul-e-grena-nike/detail-5.webp",
+      "hash": "7ed606f5670f598049d360ce7f53da0f97bfa2fc203fd91f005d7fd26ad584c5",
+      "width": 480,
+      "height": 480,
+      "size": 37544,
+      "createdAt": "2026-07-09T16:35:58Z",
+      "updatedAt": "2026-07-09T16:35:58Z"
+    }
+  ]
+}

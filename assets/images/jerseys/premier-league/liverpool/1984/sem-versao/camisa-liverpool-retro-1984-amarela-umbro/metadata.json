@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-liverpool-retro-1984-amarela-umbro",
+  "createdAt": "2026-07-09T16:39:00Z",
+  "updatedAt": "2026-07-09T16:39:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/front.webp",
+      "hash": "d38cdac54d269d8e61f9261883ede6cac1715ae0de745b97834849c79a487613",
+      "width": 480,
+      "height": 480,
+      "size": 14342,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/back.webp",
+      "hash": "bc7bb6e729ace7bcd769f7ca5e4fd433f2d514c4dedd4eea6cdfd5ee25d1df34",
+      "width": 480,
+      "height": 480,
+      "size": 9294,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/detail-1.webp",
+      "hash": "c799e22c70b6116da319748157f6784ec75ceb501c17fd05fb61d639e26b2a0b",
+      "width": 480,
+      "height": 480,
+      "size": 23326,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/detail-2.webp",
+      "hash": "f7aeb3f965bc4ccbaca52fa2d3bacccfe0bacf743a027737b022fc11024789bd",
+      "width": 480,
+      "height": 480,
+      "size": 24524,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/detail-3.webp",
+      "hash": "156d3823d2fa5430ae4097740ef0b75983f51877061c1c83730967faa5546420",
+      "width": 480,
+      "height": 480,
+      "size": 24110,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/detail-4.webp",
+      "hash": "11d91f1b828a6f8a943724ffaede0f831f241cf513bdab086261ae356b97650b",
+      "width": 480,
+      "height": 480,
+      "size": 22670,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/1984/sem-versao/camisa-liverpool-retro-1984-amarela-umbro/detail-5.webp",
+      "hash": "aed7fa56412dbb276666a37bacf0bab44e7c2b8b7b0edb1301515e586f8ced7b",
+      "width": 480,
+      "height": 480,
+      "size": 35752,
+      "createdAt": "2026-07-09T16:39:00Z",
+      "updatedAt": "2026-07-09T16:39:00Z"
+    }
+  ]
+}

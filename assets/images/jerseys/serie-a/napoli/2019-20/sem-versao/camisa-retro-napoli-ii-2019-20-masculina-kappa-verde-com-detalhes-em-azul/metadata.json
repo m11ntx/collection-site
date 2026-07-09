@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-napoli-ii-2019-20-masculina-kappa-verde-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:42:17Z",
+  "updatedAt": "2026-07-09T16:42:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/2019-20/sem-versao/camisa-retro-napoli-ii-2019-20-masculina-kappa-verde-com-detalhes-em-azul/front.webp",
+      "hash": "0c3673a47a8069d52e55bc14ad72c08a3242365ed64ad13699ce3b2dbf228dfb",
+      "width": 480,
+      "height": 480,
+      "size": 21128,
+      "createdAt": "2026-07-09T16:42:17Z",
+      "updatedAt": "2026-07-09T16:42:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/2019-20/sem-versao/camisa-retro-napoli-ii-2019-20-masculina-kappa-verde-com-detalhes-em-azul/back.webp",
+      "hash": "b5405e050143699e39d101a513553f0545e68c10ddb66bdb180a07d92bb08873",
+      "width": 480,
+      "height": 480,
+      "size": 7498,
+      "createdAt": "2026-07-09T16:42:17Z",
+      "updatedAt": "2026-07-09T16:42:17Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca",
+  "createdAt": "2026-07-09T16:42:57Z",
+  "updatedAt": "2026-07-09T16:42:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/front.webp",
+      "hash": "0ab65ecbfe1da67bce00fdd312ba6156c0e6431c7119eab82d18c59a84bcf768",
+      "width": 480,
+      "height": 480,
+      "size": 8362,
+      "createdAt": "2026-07-09T16:42:56Z",
+      "updatedAt": "2026-07-09T16:42:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/back.webp",
+      "hash": "cd1d104a3d965cb8fbb8f14c9e51e0dfd3b3464a531b2fcebb260383bbb8eafc",
+      "width": 480,
+      "height": 480,
+      "size": 4370,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/detail-1.webp",
+      "hash": "d11bab6b02d295a7675c9e343d9c83d01bfd67b969012c4f9ca6c5d26c43fce7",
+      "width": 480,
+      "height": 480,
+      "size": 9110,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/detail-2.webp",
+      "hash": "a7fa44eb79c76a5ebc90dd9adb35fa5390256e2fee4a17e60651b969127c5f36",
+      "width": 480,
+      "height": 480,
+      "size": 24710,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/detail-3.webp",
+      "hash": "97dc2edc75338af5d3579e7a7cc83dfb8c0bea086538759d8ea8b12490d0f003",
+      "width": 480,
+      "height": 480,
+      "size": 16688,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/detail-4.webp",
+      "hash": "ef0071d0907357db9586b2176a609d16d532d9d2ece78d5783f1c705be034bcf",
+      "width": 480,
+      "height": 480,
+      "size": 40952,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/2012/sem-versao/camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca/detail-5.webp",
+      "hash": "671f2b7ffac62a4b57246c11f20fd830b8e77b4653bda8e015d1f4c3f74dc69c",
+      "width": 480,
+      "height": 480,
+      "size": 42690,
+      "createdAt": "2026-07-09T16:42:57Z",
+      "updatedAt": "2026-07-09T16:42:57Z"
+    }
+  ]
+}

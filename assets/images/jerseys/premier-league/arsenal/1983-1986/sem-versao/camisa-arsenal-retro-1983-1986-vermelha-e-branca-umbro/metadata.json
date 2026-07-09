@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro",
+  "createdAt": "2026-07-09T16:35:33Z",
+  "updatedAt": "2026-07-09T16:35:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/front.webp",
+      "hash": "01aeaa7b27dd48be60a8a81243e4cd0f10f2d92e1dc3c8a81b8b9505381733ff",
+      "width": 480,
+      "height": 480,
+      "size": 8358,
+      "createdAt": "2026-07-09T16:35:32Z",
+      "updatedAt": "2026-07-09T16:35:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/back.webp",
+      "hash": "07db1deb435c389e1cb9a5ea1d8d4421c84ce711e62a4739584fcc4cb3ceeb6f",
+      "width": 480,
+      "height": 480,
+      "size": 6866,
+      "createdAt": "2026-07-09T16:35:32Z",
+      "updatedAt": "2026-07-09T16:35:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/detail-1.webp",
+      "hash": "8fd47f7b722cf9a7fc1a09b8c7b3e2a2a92c97537834e64facee809050f11d12",
+      "width": 480,
+      "height": 480,
+      "size": 13988,
+      "createdAt": "2026-07-09T16:35:33Z",
+      "updatedAt": "2026-07-09T16:35:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/detail-2.webp",
+      "hash": "9932cc7138c86c0da5051f353629ed33664dcc48c3b2bec3bd5d54c21f9ff19e",
+      "width": 480,
+      "height": 480,
+      "size": 19062,
+      "createdAt": "2026-07-09T16:35:33Z",
+      "updatedAt": "2026-07-09T16:35:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/detail-3.webp",
+      "hash": "0c6b7c7f40b536b8a15e96dad22c6217933d745005ae42bbf070f7e95070d0b5",
+      "width": 480,
+      "height": 480,
+      "size": 63284,
+      "createdAt": "2026-07-09T16:35:33Z",
+      "updatedAt": "2026-07-09T16:35:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/detail-4.webp",
+      "hash": "9597ad37236b14d7b42bf08919a0563ff88dd589ec73171310d3ac9592b2406d",
+      "width": 480,
+      "height": 480,
+      "size": 59568,
+      "createdAt": "2026-07-09T16:35:33Z",
+      "updatedAt": "2026-07-09T16:35:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/1983-1986/sem-versao/camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro/detail-5.webp",
+      "hash": "1b46c396e57091788a88d3ff0ef71eb92822166127eed13661ec653a4caf69ac",
+      "width": 480,
+      "height": 480,
+      "size": 20802,
+      "createdAt": "2026-07-09T16:35:33Z",
+      "updatedAt": "2026-07-09T16:35:33Z"
+    }
+  ]
+}

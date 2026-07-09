@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T16:43:45Z",
+  "updatedAt": "2026-07-09T16:43:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/front.webp",
+      "hash": "5a7cc3779b005b6fd56f3a10a8694151dbfec9e624b8000e7ea7560034cbb297",
+      "width": 480,
+      "height": 480,
+      "size": 22494,
+      "createdAt": "2026-07-09T16:43:44Z",
+      "updatedAt": "2026-07-09T16:43:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/back.webp",
+      "hash": "df8c36c46ec6ad3daa33d76dcb3786a1fbc7086d9a3477f5252e2b389d99bb90",
+      "width": 480,
+      "height": 480,
+      "size": 9602,
+      "createdAt": "2026-07-09T16:43:44Z",
+      "updatedAt": "2026-07-09T16:43:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/detail-1.webp",
+      "hash": "4ba8f9ff7b47f74bb696703be393da2e7b84c21ae45ef0011abd174a34025ac0",
+      "width": 480,
+      "height": 480,
+      "size": 30992,
+      "createdAt": "2026-07-09T16:43:44Z",
+      "updatedAt": "2026-07-09T16:43:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/detail-2.webp",
+      "hash": "cc9a917e708f9351c4d1a47d5a9702a01e7910d4a8064dc6aa83c813f2944e5e",
+      "width": 480,
+      "height": 480,
+      "size": 29918,
+      "createdAt": "2026-07-09T16:43:45Z",
+      "updatedAt": "2026-07-09T16:43:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/detail-3.webp",
+      "hash": "ba210226b6e995c555b3dc85258cde10eae55706c85633840e3d8bc46be21314",
+      "width": 480,
+      "height": 480,
+      "size": 37334,
+      "createdAt": "2026-07-09T16:43:45Z",
+      "updatedAt": "2026-07-09T16:43:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/detail-4.webp",
+      "hash": "adbee92b69b4efb4e969e84efd6fd63c264560b81cc75bbc7d017865d30f8fad",
+      "width": 480,
+      "height": 480,
+      "size": 16796,
+      "createdAt": "2026-07-09T16:43:45Z",
+      "updatedAt": "2026-07-09T16:43:45Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/11-12/sem-versao/camisa-retro-borussia-dortmund-i-11-12-masculina-kappa-amarela-com-deta-cadbb181/detail-5.webp",
+      "hash": "d11dbf6a817bdee863b19bcd85c451985ce21bab620d925a6332fdce9a34d58a",
+      "width": 480,
+      "height": 480,
+      "size": 8772,
+      "createdAt": "2026-07-09T16:43:45Z",
+      "updatedAt": "2026-07-09T16:43:45Z"
+    }
+  ]
+}

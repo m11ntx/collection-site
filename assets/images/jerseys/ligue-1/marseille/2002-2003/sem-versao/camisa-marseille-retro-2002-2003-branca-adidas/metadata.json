@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-marseille-retro-2002-2003-branca-adidas",
+  "createdAt": "2026-07-09T16:40:07Z",
+  "updatedAt": "2026-07-09T16:40:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/front.webp",
+      "hash": "4de9fc78e51bfcd8fdb0f61ea84fe8d28e04cfb4cccb9986f5426dd386ad9b8d",
+      "width": 480,
+      "height": 480,
+      "size": 7424,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/back.webp",
+      "hash": "f11943a93c7112302c3c9d65f1af2410f382b62a5753b6a1919a2e1acb403765",
+      "width": 480,
+      "height": 480,
+      "size": 3886,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/detail-1.webp",
+      "hash": "e460c1ec84f59f0525354d0690998985c9f453a19f21a8d5b8c28a0dc7c205b3",
+      "width": 480,
+      "height": 480,
+      "size": 14268,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/detail-2.webp",
+      "hash": "2dbcbccd3f82d879ef313c5080ba0788d35b27eacf431724d5659e94ed9d7595",
+      "width": 480,
+      "height": 480,
+      "size": 15238,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/detail-3.webp",
+      "hash": "32f5d966e858f28c8cab3bc5fcea57f5df3cfff6d2f9f964df9201731e933f2d",
+      "width": 480,
+      "height": 480,
+      "size": 76886,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/detail-4.webp",
+      "hash": "55ea682f76e8f46fbacec5239b84f512a5f13c53a988ef2d12e59a4e5a2c22ae",
+      "width": 480,
+      "height": 480,
+      "size": 84324,
+      "createdAt": "2026-07-09T16:40:06Z",
+      "updatedAt": "2026-07-09T16:40:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/ligue-1/marseille/2002-2003/sem-versao/camisa-marseille-retro-2002-2003-branca-adidas/detail-5.webp",
+      "hash": "248e983a93981d2eac269609b043c4bbf70beda15fb2ec819082ad69d44d61af",
+      "width": 480,
+      "height": 480,
+      "size": 14414,
+      "createdAt": "2026-07-09T16:40:07Z",
+      "updatedAt": "2026-07-09T16:40:07Z"
+    }
+  ]
+}

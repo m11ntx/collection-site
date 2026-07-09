@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-corinthians-iii-1999-masculina-preta-com-detalhes-em-amarelo-e-cinza",
+  "createdAt": "2026-07-09T16:41:33Z",
+  "updatedAt": "2026-07-09T16:41:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/camisa-retro-corinthians-iii-1999-masculina-preta-com-detalhes-em-amare-d386c91f/front.webp",
+      "hash": "fdd1154ece8ae57e4ce5bf811fa9c45ec939126b79354e6836cc61d605792a24",
+      "width": 480,
+      "height": 480,
+      "size": 13132,
+      "createdAt": "2026-07-09T16:41:33Z",
+      "updatedAt": "2026-07-09T16:41:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/camisa-retro-corinthians-iii-1999-masculina-preta-com-detalhes-em-amare-d386c91f/back.webp",
+      "hash": "0ebe57cff76adda3468f2d4d114b7f30d41338b6e2888bb63a521bd9158ec8aa",
+      "width": 480,
+      "height": 480,
+      "size": 6352,
+      "createdAt": "2026-07-09T16:41:33Z",
+      "updatedAt": "2026-07-09T16:41:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/camisa-retro-corinthians-iii-1999-masculina-preta-com-detalhes-em-amare-d386c91f/detail-1.webp",
+      "hash": "25f92247b052b3623e45f4cb69ddcdc894d57a6132a8f94c975b8381e3df5957",
+      "width": 480,
+      "height": 480,
+      "size": 27556,
+      "createdAt": "2026-07-09T16:41:33Z",
+      "updatedAt": "2026-07-09T16:41:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/1999/fan/camisa-retro-corinthians-iii-1999-masculina-preta-com-detalhes-em-amare-d386c91f/detail-2.webp",
+      "hash": "c927e44d1a7e569f5c927cf5a25bb4b9f8a54c4cf99d9e8f4d7fa015df7b04fc",
+      "width": 480,
+      "height": 480,
+      "size": 27892,
+      "createdAt": "2026-07-09T16:41:33Z",
+      "updatedAt": "2026-07-09T16:41:33Z"
+    }
+  ]
+}

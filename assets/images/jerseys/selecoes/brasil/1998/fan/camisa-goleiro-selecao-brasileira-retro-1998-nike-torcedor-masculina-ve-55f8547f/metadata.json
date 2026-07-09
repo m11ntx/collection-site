@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-verde-escuro-com-detalhes-em-branco-e-amarelo",
+  "createdAt": "2026-07-09T16:44:40Z",
+  "updatedAt": "2026-07-09T16:44:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/front.webp",
+      "hash": "b11fc024c4e7c09d67485ccd65755b62b05090d248660648f71fb4e46e76d7d2",
+      "width": 480,
+      "height": 480,
+      "size": 9108,
+      "createdAt": "2026-07-09T16:44:39Z",
+      "updatedAt": "2026-07-09T16:44:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/back.webp",
+      "hash": "70b36b7a97e4a01c0361809d17a027573d5f7fbb17cb998afbe10e084862e6a6",
+      "width": 480,
+      "height": 480,
+      "size": 12184,
+      "createdAt": "2026-07-09T16:44:39Z",
+      "updatedAt": "2026-07-09T16:44:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/detail-1.webp",
+      "hash": "e19f6415007a034f47120d8c356d7bdbdbac612f12d72ed7229163f5efe5220e",
+      "width": 480,
+      "height": 480,
+      "size": 6644,
+      "createdAt": "2026-07-09T16:44:40Z",
+      "updatedAt": "2026-07-09T16:44:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/detail-2.webp",
+      "hash": "498ac2b420e0ba200fdbf1415e8237ccfa3b22d20ad67fe3ae165e56530c3a24",
+      "width": 480,
+      "height": 480,
+      "size": 17768,
+      "createdAt": "2026-07-09T16:44:40Z",
+      "updatedAt": "2026-07-09T16:44:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/detail-3.webp",
+      "hash": "0a0beaca41726efbfaf6db9819e4aa8d48b187639dcede714726f1a3a2a95741",
+      "width": 480,
+      "height": 480,
+      "size": 69838,
+      "createdAt": "2026-07-09T16:44:40Z",
+      "updatedAt": "2026-07-09T16:44:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/detail-4.webp",
+      "hash": "c06197158045a314834291d0e6bb71f94215ef676bddd5760b35e30577012182",
+      "width": 480,
+      "height": 480,
+      "size": 59828,
+      "createdAt": "2026-07-09T16:44:40Z",
+      "updatedAt": "2026-07-09T16:44:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/fan/camisa-goleiro-selecao-brasileira-retro-1998-nike-torcedor-masculina-ve-55f8547f/detail-5.webp",
+      "hash": "6681ec9e0e59ce006aceba4526161ddb13b48d7ea1681e77a126bd90c2db7b25",
+      "width": 480,
+      "height": 480,
+      "size": 21072,
+      "createdAt": "2026-07-09T16:44:40Z",
+      "updatedAt": "2026-07-09T16:44:40Z"
+    }
+  ]
+}

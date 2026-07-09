@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-azul-e-cinza",
+  "createdAt": "2026-07-09T16:43:17Z",
+  "updatedAt": "2026-07-09T16:43:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/front.webp",
+      "hash": "3853ef6276fb57e0586805c7bf19c55b325ed6d2e7e379d86566ebde23b2198c",
+      "width": 480,
+      "height": 480,
+      "size": 9860,
+      "createdAt": "2026-07-09T16:43:16Z",
+      "updatedAt": "2026-07-09T16:43:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/back.webp",
+      "hash": "fbf66e8b3e04c4a57a3250066e555b192053d3357043aea5539927d3038483a2",
+      "width": 480,
+      "height": 480,
+      "size": 7082,
+      "createdAt": "2026-07-09T16:43:16Z",
+      "updatedAt": "2026-07-09T16:43:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/detail-1.webp",
+      "hash": "be9fd3212bbc80b4409b3fe3c4be3da8a012caa4eaec82793378fe341ba21015",
+      "width": 480,
+      "height": 480,
+      "size": 23894,
+      "createdAt": "2026-07-09T16:43:16Z",
+      "updatedAt": "2026-07-09T16:43:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/detail-2.webp",
+      "hash": "732f124f99661ffa4459ba269bc89e62855bd80f1a3c45881d8e7846ab79cd3d",
+      "width": 480,
+      "height": 480,
+      "size": 62034,
+      "createdAt": "2026-07-09T16:43:16Z",
+      "updatedAt": "2026-07-09T16:43:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/detail-3.webp",
+      "hash": "a0a2ab5d758439d449ae615e00bdbf22196b40817c8a68c49e37554bcf4c5d96",
+      "width": 480,
+      "height": 480,
+      "size": 64540,
+      "createdAt": "2026-07-09T16:43:17Z",
+      "updatedAt": "2026-07-09T16:43:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/detail-4.webp",
+      "hash": "037da90648bc22b6acaa3c78d85bb57e327d1fe6932108668d8a81c59cb248c4",
+      "width": 480,
+      "height": 480,
+      "size": 17534,
+      "createdAt": "2026-07-09T16:43:17Z",
+      "updatedAt": "2026-07-09T16:43:17Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/tottenham/92-94/sem-versao/camisa-tottenham-ii-retro-92-94-umbro-masculina-amarela-com-detalhes-em-64d6d810/detail-5.webp",
+      "hash": "c02a6a9676c30fd707aa32c8f9631095f3d649c8f4b179bb6c83e7e67d5c85e2",
+      "width": 480,
+      "height": 480,
+      "size": 12768,
+      "createdAt": "2026-07-09T16:43:17Z",
+      "updatedAt": "2026-07-09T16:43:17Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-retro-santos-1969-milesimo-gol-pele-masculina-branca",
+  "createdAt": "2026-07-09T16:42:33Z",
+  "updatedAt": "2026-07-09T16:42:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/1969/sem-versao/camisa-retro-santos-1969-milesimo-gol-pele-masculina-branca/front.webp",
+      "hash": "063e72f7f0a889e11cd24f25002e94dcac7e526b1fbc7e0f923686e43af27f71",
+      "width": 480,
+      "height": 480,
+      "size": 5492,
+      "createdAt": "2026-07-09T16:42:33Z",
+      "updatedAt": "2026-07-09T16:42:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/1969/sem-versao/camisa-retro-santos-1969-milesimo-gol-pele-masculina-branca/back.webp",
+      "hash": "b51648962a762af82a280cd62c16232cb7169be6e906df84ed41e4bfea5e9900",
+      "width": 480,
+      "height": 480,
+      "size": 4508,
+      "createdAt": "2026-07-09T16:42:33Z",
+      "updatedAt": "2026-07-09T16:42:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/santos/1969/sem-versao/camisa-retro-santos-1969-milesimo-gol-pele-masculina-branca/detail-1.webp",
+      "hash": "4ee74dee3a46b0e9075f03ca7d09c237ef37c12a53efb3637709b49746c02df7",
+      "width": 480,
+      "height": 480,
+      "size": 13390,
+      "createdAt": "2026-07-09T16:42:33Z",
+      "updatedAt": "2026-07-09T16:42:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/santos/1969/sem-versao/camisa-retro-santos-1969-milesimo-gol-pele-masculina-branca/detail-2.webp",
+      "hash": "b528d6fc0c223a36892fe6dec09fa25da27110281de4cc1612e8d624b4e59591",
+      "width": 480,
+      "height": 480,
+      "size": 18284,
+      "createdAt": "2026-07-09T16:42:33Z",
+      "updatedAt": "2026-07-09T16:42:33Z"
+    }
+  ]
+}

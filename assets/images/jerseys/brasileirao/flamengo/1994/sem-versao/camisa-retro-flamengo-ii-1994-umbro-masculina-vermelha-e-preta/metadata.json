@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta",
+  "createdAt": "2026-07-09T16:35:13Z",
+  "updatedAt": "2026-07-09T16:35:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta/front.webp",
+      "hash": "5aa7cbfa92c4a260bfe235ce58655e43e09d385311c459c623e6f763cf4371a3",
+      "width": 480,
+      "height": 480,
+      "size": 9734,
+      "createdAt": "2026-07-09T16:35:13Z",
+      "updatedAt": "2026-07-09T16:35:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta/back.webp",
+      "hash": "5438b5a3a498d672fa0e1dd4a855c9d52992ddcaf53fc66e6621609073bc65a0",
+      "width": 480,
+      "height": 480,
+      "size": 12900,
+      "createdAt": "2026-07-09T16:35:13Z",
+      "updatedAt": "2026-07-09T16:35:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta/detail-1.webp",
+      "hash": "429846e91f854a07e219f35fc24fc8650aeb1eb7e1d433ee882387917f72d451",
+      "width": 480,
+      "height": 480,
+      "size": 23718,
+      "createdAt": "2026-07-09T16:35:13Z",
+      "updatedAt": "2026-07-09T16:35:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta/detail-2.webp",
+      "hash": "86e6b121c5bc2234c67b404b02d0458e511fc608a0e62b5bcb39f0aef29498cc",
+      "width": 480,
+      "height": 480,
+      "size": 42956,
+      "createdAt": "2026-07-09T16:35:13Z",
+      "updatedAt": "2026-07-09T16:35:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994/sem-versao/camisa-retro-flamengo-ii-1994-umbro-masculina-vermelha-e-preta/detail-3.webp",
+      "hash": "acd695b57ca93299a5cdb9dbc48b8a64b7758c327d6b5385fa665d2eb68b3ad6",
+      "width": 480,
+      "height": 480,
+      "size": 47168,
+      "createdAt": "2026-07-09T16:35:13Z",
+      "updatedAt": "2026-07-09T16:35:13Z"
+    }
+  ]
+}

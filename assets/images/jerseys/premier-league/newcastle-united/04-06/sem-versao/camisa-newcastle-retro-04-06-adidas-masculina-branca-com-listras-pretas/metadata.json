@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas",
+  "createdAt": "2026-07-09T16:43:28Z",
+  "updatedAt": "2026-07-09T16:43:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/front.webp",
+      "hash": "6a9ef0fc486d7d77292bf8029aa0678bc49fe6e768fd25242080a3886e83823c",
+      "width": 480,
+      "height": 480,
+      "size": 8552,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/back.webp",
+      "hash": "fd5ddd4f4ad2b3a37dcb03e5b492b5a30b3c4dc9a0b9dd53a73c5cd2486ddd46",
+      "width": 480,
+      "height": 480,
+      "size": 4326,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/detail-1.webp",
+      "hash": "475f3d3c93cfc5b69c484fc341b70d787ca0774152cc8ca881845b75900b8415",
+      "width": 480,
+      "height": 480,
+      "size": 13658,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/detail-2.webp",
+      "hash": "cb18722c31ccdbd282b4b08f62c483218d217a619176ef8483c095c17c2c0496",
+      "width": 480,
+      "height": 480,
+      "size": 52060,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/detail-3.webp",
+      "hash": "153b8188028f567ea4dc0c4aab2b4aa18062b4b2eccbd26b09785d5dd3f96593",
+      "width": 480,
+      "height": 480,
+      "size": 36638,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/detail-4.webp",
+      "hash": "67806d5a55eb388c6465712d402eb3e0bc877d97bd93b7c32cf93933e7f348f9",
+      "width": 480,
+      "height": 480,
+      "size": 9150,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/04-06/sem-versao/camisa-newcastle-retro-04-06-adidas-masculina-branca-com-listras-pretas/detail-5.webp",
+      "hash": "5c7a8277dfe0c5370774a54d2c5ec73335241aa256af03fefd801e7a7bbec34f",
+      "width": 480,
+      "height": 480,
+      "size": 6870,
+      "createdAt": "2026-07-09T16:43:28Z",
+      "updatedAt": "2026-07-09T16:43:28Z"
+    }
+  ]
+}

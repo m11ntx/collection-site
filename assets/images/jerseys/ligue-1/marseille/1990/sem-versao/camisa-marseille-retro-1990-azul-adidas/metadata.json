@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-marseille-retro-1990-azul-adidas",
+  "createdAt": "2026-07-09T16:40:02Z",
+  "updatedAt": "2026-07-09T16:40:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/front.webp",
+      "hash": "f3c378f405cf1eea23ba7b12615388d0a305d58dedd2e67364167618026d20be",
+      "width": 480,
+      "height": 480,
+      "size": 17190,
+      "createdAt": "2026-07-09T16:40:01Z",
+      "updatedAt": "2026-07-09T16:40:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/back.webp",
+      "hash": "41f6c58933608a0d3e038ce8ba6a380a34350ca8526cb2e129a934953272da06",
+      "width": 480,
+      "height": 480,
+      "size": 11598,
+      "createdAt": "2026-07-09T16:40:01Z",
+      "updatedAt": "2026-07-09T16:40:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/detail-1.webp",
+      "hash": "9801503db958a3caa99094c687e4a0ab1dc6eb736c7a6c47d170549f1b7e8b96",
+      "width": 480,
+      "height": 480,
+      "size": 44876,
+      "createdAt": "2026-07-09T16:40:02Z",
+      "updatedAt": "2026-07-09T16:40:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/detail-2.webp",
+      "hash": "8a7e44b85893f77dab1184b2248f30c2a16bc42c8262b2e79a835c945473cde7",
+      "width": 480,
+      "height": 480,
+      "size": 26776,
+      "createdAt": "2026-07-09T16:40:02Z",
+      "updatedAt": "2026-07-09T16:40:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/detail-3.webp",
+      "hash": "b6d65982f7f24f7491b24d445eaf628f567af5c3673b2d77c5441a6e38f234f4",
+      "width": 480,
+      "height": 480,
+      "size": 66314,
+      "createdAt": "2026-07-09T16:40:02Z",
+      "updatedAt": "2026-07-09T16:40:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/detail-4.webp",
+      "hash": "df1958067a54cece50077b754ec7fb2c97812cf3298a26920978170ec17452cb",
+      "width": 480,
+      "height": 480,
+      "size": 73630,
+      "createdAt": "2026-07-09T16:40:02Z",
+      "updatedAt": "2026-07-09T16:40:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/ligue-1/marseille/1990/sem-versao/camisa-marseille-retro-1990-azul-adidas/detail-5.webp",
+      "hash": "313b063d857dd425f37d7f04211521bccbfc19e5e9557c2bc3ee7db2800ecf79",
+      "width": 480,
+      "height": 480,
+      "size": 44928,
+      "createdAt": "2026-07-09T16:40:02Z",
+      "updatedAt": "2026-07-09T16:40:02Z"
+    }
+  ]
+}

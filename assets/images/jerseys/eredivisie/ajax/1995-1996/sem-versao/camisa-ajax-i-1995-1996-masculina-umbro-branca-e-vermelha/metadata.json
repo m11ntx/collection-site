@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha",
+  "createdAt": "2026-07-09T16:35:17Z",
+  "updatedAt": "2026-07-09T16:35:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/front.webp",
+      "hash": "3c4e931cb1d32423222b63d4440a9298bc8a70d4669f67fb3ebf739cd29314a7",
+      "width": 480,
+      "height": 480,
+      "size": 14136,
+      "createdAt": "2026-07-09T16:35:16Z",
+      "updatedAt": "2026-07-09T16:35:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/back.webp",
+      "hash": "27722c15fb1f9f4a0960df8585180f26eda86ae9394e799f5fd4b60a6812a055",
+      "width": 480,
+      "height": 480,
+      "size": 8482,
+      "createdAt": "2026-07-09T16:35:16Z",
+      "updatedAt": "2026-07-09T16:35:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/detail-1.webp",
+      "hash": "32eeb1bba06c92fab2f19cf055d306af08009a26313d06fa834d9dc0c83c43f7",
+      "width": 480,
+      "height": 480,
+      "size": 33272,
+      "createdAt": "2026-07-09T16:35:16Z",
+      "updatedAt": "2026-07-09T16:35:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/detail-2.webp",
+      "hash": "12748ef30de9b8896bdae5c0803cd9a6a21799b7be7d0f5cda7f6b38ede72bbb",
+      "width": 480,
+      "height": 480,
+      "size": 24374,
+      "createdAt": "2026-07-09T16:35:16Z",
+      "updatedAt": "2026-07-09T16:35:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/detail-3.webp",
+      "hash": "9842e3a5b26494cc6c44f5a5f65f2950673440a831f84c93148dd358189d3e87",
+      "width": 480,
+      "height": 480,
+      "size": 61120,
+      "createdAt": "2026-07-09T16:35:16Z",
+      "updatedAt": "2026-07-09T16:35:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/eredivisie/ajax/1995-1996/sem-versao/camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha/detail-4.webp",
+      "hash": "9a34f97214247a3cc05c6bc177c127ff000ba88434eb0ea11884f67cf09d2593",
+      "width": 480,
+      "height": 480,
+      "size": 23428,
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
+    }
+  ]
+}

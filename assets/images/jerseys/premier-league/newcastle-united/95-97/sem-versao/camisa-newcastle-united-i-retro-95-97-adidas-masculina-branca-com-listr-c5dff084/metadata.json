@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listras-pretas-e-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T16:43:32Z",
+  "updatedAt": "2026-07-09T16:43:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/95-97/sem-versao/camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listr-c5dff084/front.webp",
+      "hash": "b88a518c82d8dc8abae29272bc6124a76ca8d8f732e6afbeac3c04b5a9326e4d",
+      "width": 480,
+      "height": 480,
+      "size": 10102,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/95-97/sem-versao/camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listr-c5dff084/back.webp",
+      "hash": "f761b2d008ddaec8fc2769b8bdc37bb41ceaabaf6dc0a276a49119d2a798c524",
+      "width": 480,
+      "height": 480,
+      "size": 8814,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/95-97/sem-versao/camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listr-c5dff084/detail-1.webp",
+      "hash": "9ed75e16630e0a5cb6cbff1aac8c411d252ee27f48681a2eff46cbbd455a054e",
+      "width": 480,
+      "height": 480,
+      "size": 18378,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/95-97/sem-versao/camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listr-c5dff084/detail-2.webp",
+      "hash": "84f51f3c393abb2dc3496695d336d67ca51600c13d2116f3b89765151010469f",
+      "width": 480,
+      "height": 480,
+      "size": 54454,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/95-97/sem-versao/camisa-newcastle-united-i-retro-95-97-adidas-masculina-branca-com-listr-c5dff084/detail-3.webp",
+      "hash": "e4e99b19e3c813aeeb45a2f71196f85b5d5748bc8818a8748954f7eff3788649",
+      "width": 480,
+      "height": 480,
+      "size": 15698,
+      "createdAt": "2026-07-09T16:43:32Z",
+      "updatedAt": "2026-07-09T16:43:32Z"
+    }
+  ]
+}

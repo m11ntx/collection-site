@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-milan-retro-2011-2012-vermelha-e-preta-adidas",
+  "createdAt": "2026-07-09T16:40:23Z",
+  "updatedAt": "2026-07-09T16:40:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/front.webp",
+      "hash": "8981f0a5f5c2985c7e3132aa50a4f3d88368b663065b3be415cec5d489dc88ce",
+      "width": 480,
+      "height": 480,
+      "size": 15206,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/back.webp",
+      "hash": "d68ed17dcc3ec7f81b6c4b6d6f34394c55c4951acdd3aff773b232b36d92d14b",
+      "width": 480,
+      "height": 480,
+      "size": 11592,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/detail-1.webp",
+      "hash": "e19c9097a93fcbe65c51f16f11c6b00cf14d68992056770a0d26261b6ef624cb",
+      "width": 480,
+      "height": 480,
+      "size": 24178,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/detail-2.webp",
+      "hash": "8bf43a7fd640e9ab8d559d40118b0c2deaa9086ba53ff4e75af441fa512e3d6c",
+      "width": 480,
+      "height": 480,
+      "size": 27406,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/detail-3.webp",
+      "hash": "ea34e84074950636e95e2fc3a7db9490be91b3601ba6a728de8ee37f575a29f3",
+      "width": 480,
+      "height": 480,
+      "size": 25196,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/detail-4.webp",
+      "hash": "c6a4182977412c1ad6878ce163deff615d60321998393c2936ad9193003137fe",
+      "width": 480,
+      "height": 480,
+      "size": 15368,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2011-2012/sem-versao/camisa-milan-retro-2011-2012-vermelha-e-preta-adidas/detail-5.webp",
+      "hash": "991d3c7956143852300193e013d60e2dd89a0865af28cb28245753311cff6cf6",
+      "width": 480,
+      "height": 480,
+      "size": 37086,
+      "createdAt": "2026-07-09T16:40:22Z",
+      "updatedAt": "2026-07-09T16:40:22Z"
+    }
+  ]
+}

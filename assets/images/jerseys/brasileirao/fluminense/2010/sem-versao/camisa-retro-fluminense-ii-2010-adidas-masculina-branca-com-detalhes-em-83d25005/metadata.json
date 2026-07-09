@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-verde-e-vermelho",
+  "createdAt": "2026-07-09T16:41:41Z",
+  "updatedAt": "2026-07-09T16:41:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/front.webp",
+      "hash": "b82523ac2f606767d3d999796566d3ac1d23a706a854df2196d49213c533cb31",
+      "width": 480,
+      "height": 480,
+      "size": 9474,
+      "createdAt": "2026-07-09T16:41:40Z",
+      "updatedAt": "2026-07-09T16:41:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/back.webp",
+      "hash": "3e353cf0a20c302a269ae6a59cbd2062ed34966c11df3e5662005cca892ac84c",
+      "width": 480,
+      "height": 480,
+      "size": 13274,
+      "createdAt": "2026-07-09T16:41:40Z",
+      "updatedAt": "2026-07-09T16:41:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/detail-1.webp",
+      "hash": "0dc8d3e266c9461c38591046343ac9a60e7f7249f7540a884377403a687f967d",
+      "width": 480,
+      "height": 480,
+      "size": 5566,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/detail-2.webp",
+      "hash": "90f9924650e034d37caa19195d1bb9fd48087cc00e0b148899f541377a733cb3",
+      "width": 480,
+      "height": 480,
+      "size": 37104,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/detail-3.webp",
+      "hash": "afbc58fb16baee6f0bf8b9b75e3c95fed4058543adcafe33b219f4dbe5a14688",
+      "width": 480,
+      "height": 480,
+      "size": 32894,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/detail-4.webp",
+      "hash": "ccd143a2705b61cedd9d7289d3ef2acf46f1e9447fe249e9b62106222905c530",
+      "width": 480,
+      "height": 480,
+      "size": 29010,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/fluminense/2010/sem-versao/camisa-retro-fluminense-ii-2010-adidas-masculina-branca-com-detalhes-em-83d25005/detail-5.webp",
+      "hash": "1029761ea20226ba881197d5e1bbe1848653bde84406a20982095e48d30e780f",
+      "width": 480,
+      "height": 480,
+      "size": 8598,
+      "createdAt": "2026-07-09T16:41:41Z",
+      "updatedAt": "2026-07-09T16:41:41Z"
+    }
+  ]
+}

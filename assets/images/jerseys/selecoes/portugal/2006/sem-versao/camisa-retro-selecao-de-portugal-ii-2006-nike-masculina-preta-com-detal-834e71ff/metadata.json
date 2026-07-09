@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T16:43:12Z",
+  "updatedAt": "2026-07-09T16:43:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/front.webp",
+      "hash": "f6e0abeb9267034d29ea7b6dcba1b3ef6a6235db93379c75513d24632f53d730",
+      "width": 480,
+      "height": 480,
+      "size": 5428,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/back.webp",
+      "hash": "d5df425fd358838a1e40d67f9f07f7a3d1be79430673fed725df31f091744c47",
+      "width": 480,
+      "height": 480,
+      "size": 9828,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/detail-1.webp",
+      "hash": "047d6947047984cae0a3f9202d9309b4dfe786264922f3e751c00b137c6581a2",
+      "width": 480,
+      "height": 480,
+      "size": 4804,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/detail-2.webp",
+      "hash": "58a59b95b3eb8519e42f7eb2341416293875dcc1ccae61effeaaa8669bac614d",
+      "width": 480,
+      "height": 480,
+      "size": 40162,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/detail-3.webp",
+      "hash": "ed5eb990af84f40652fb086603153b57b39764231e5dea28608d081b42e02799",
+      "width": 480,
+      "height": 480,
+      "size": 33780,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/detail-4.webp",
+      "hash": "e559f99616dc974c64d8f7936d8eb4627ccd7cc2881aef0fd9891e0668208112",
+      "width": 480,
+      "height": 480,
+      "size": 15330,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/portugal/2006/sem-versao/camisa-retro-selecao-de-portugal-ii-2006-nike-masculina-preta-com-detal-834e71ff/detail-5.webp",
+      "hash": "3c1c26d7fed5fe428387831d06f38c3f12b7356dd446aa158358d43df06b6079",
+      "width": 480,
+      "height": 480,
+      "size": 12144,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    }
+  ]
+}

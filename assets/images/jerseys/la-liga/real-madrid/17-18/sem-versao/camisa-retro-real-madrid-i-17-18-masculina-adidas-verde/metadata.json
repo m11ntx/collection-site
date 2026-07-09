@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-17-18-masculina-adidas-verde",
+  "createdAt": "2026-07-09T16:44:25Z",
+  "updatedAt": "2026-07-09T16:44:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/front.webp",
+      "hash": "9df04a8093784541c9b10534b55c910b9605a6d801b4122847ab1f674221f62d",
+      "width": 480,
+      "height": 480,
+      "size": 8592,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/back.webp",
+      "hash": "a0398a3c23b631666bd164154e4e37fcf9fc85c74475bd913c4896790bbf4a11",
+      "width": 480,
+      "height": 480,
+      "size": 4598,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/detail-1.webp",
+      "hash": "67e062f7a6c715a66041e9417eb53ebb2bc3b6d11565710e766eed8848d83d0f",
+      "width": 480,
+      "height": 480,
+      "size": 17404,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/detail-2.webp",
+      "hash": "d5645c38c06d5e882ee3a789f475e632d3663728c0fcf509492a33bf625bc942",
+      "width": 480,
+      "height": 480,
+      "size": 78372,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/detail-3.webp",
+      "hash": "b6b158c1ad9dacfc05b4c9561db7888c8383aca40ed49255a452c31a0cd75d26",
+      "width": 480,
+      "height": 480,
+      "size": 16382,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/17-18/sem-versao/camisa-retro-real-madrid-i-17-18-masculina-adidas-verde/detail-4.webp",
+      "hash": "1c26b2c5dfd12fe4cb74b53142a21e2f01cceb02ad955fa385db58dfd057cffd",
+      "width": 480,
+      "height": 480,
+      "size": 16284,
+      "createdAt": "2026-07-09T16:44:25Z",
+      "updatedAt": "2026-07-09T16:44:25Z"
+    }
+  ]
+}

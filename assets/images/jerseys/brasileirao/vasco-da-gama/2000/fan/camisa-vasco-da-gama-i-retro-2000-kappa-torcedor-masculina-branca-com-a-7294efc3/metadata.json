@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-faixa-em-preto-e-detalhes-em-amarelo-e-vermelho",
+  "createdAt": "2026-07-09T16:44:42Z",
+  "updatedAt": "2026-07-09T16:44:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/front.webp",
+      "hash": "f8cf3bcb32e73a5ef523ae7a0880294bf27456ed916899da3b789b1cc8b93493",
+      "width": 480,
+      "height": 480,
+      "size": 10468,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/back.webp",
+      "hash": "7fc77966107134de6fce1a11486e03ab5af51b1a946b891b73cc4c31821891fa",
+      "width": 480,
+      "height": 480,
+      "size": 12014,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/detail-1.webp",
+      "hash": "734a0a9907b9e7fadd4eb0a9a6e5415c6f5f8116f530e3890d13479afadb7288",
+      "width": 480,
+      "height": 480,
+      "size": 7664,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/detail-2.webp",
+      "hash": "35573036ff68cb66ca88540fd533dcd377b56e1d7d3d1ef69d46092ea1d77d8d",
+      "width": 480,
+      "height": 480,
+      "size": 23404,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/detail-3.webp",
+      "hash": "04ab30b779fdb7e34a9dc829a136f0be017f740603297299de481d93e9f58a5d",
+      "width": 480,
+      "height": 480,
+      "size": 48998,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/detail-4.webp",
+      "hash": "919cf405ae9ad3e81f42a62e7063a7d362a1cda0da33d481a1b19ca8e1dad28b",
+      "width": 480,
+      "height": 480,
+      "size": 55984,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2000/fan/camisa-vasco-da-gama-i-retro-2000-kappa-torcedor-masculina-branca-com-a-7294efc3/detail-5.webp",
+      "hash": "1c14eff040f13ed7abb0493e2f91ef47e67f9b1461780cf5033feaf326be61a8",
+      "width": 480,
+      "height": 480,
+      "size": 44434,
+      "createdAt": "2026-07-09T16:44:42Z",
+      "updatedAt": "2026-07-09T16:44:42Z"
+    }
+  ]
+}

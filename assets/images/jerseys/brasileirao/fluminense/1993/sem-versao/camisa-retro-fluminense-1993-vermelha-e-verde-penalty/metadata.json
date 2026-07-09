@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-fluminense-1993-vermelha-e-verde-penalty",
+  "createdAt": "2026-07-09T16:38:27Z",
+  "updatedAt": "2026-07-09T16:38:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/front.webp",
+      "hash": "fc9d4b926c5d797991a20dd4757e524c5127cb2b7cbaca723002d3f690d1d638",
+      "width": 480,
+      "height": 480,
+      "size": 14860,
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/back.webp",
+      "hash": "d44778f70aedcb56534409be1c9c633ebaecf3e55f886fa03b72d1e73e17380f",
+      "width": 480,
+      "height": 480,
+      "size": 11080,
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/detail-1.webp",
+      "hash": "aaaecd27b1d8570178b4187c46761ca3b5d1ac3e40af02d24222ccd1fc7dc932",
+      "width": 480,
+      "height": 480,
+      "size": 16712,
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/detail-2.webp",
+      "hash": "836d163b6fbb26478767dd3e92058437336d391fe64aef4e3db6b84949ce92ae",
+      "width": 480,
+      "height": 480,
+      "size": 19168,
+      "createdAt": "2026-07-09T16:38:27Z",
+      "updatedAt": "2026-07-09T16:38:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/detail-3.webp",
+      "hash": "37b4936d9405349f55c4387f76d7728ae932009548e3d0e838368ff7490234ec",
+      "width": 480,
+      "height": 480,
+      "size": 22760,
+      "createdAt": "2026-07-09T16:38:27Z",
+      "updatedAt": "2026-07-09T16:38:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/detail-4.webp",
+      "hash": "90bba802e39c8bfcf9f8e358e8d4a2b8b742b5f0cf4be0408888bc267ee5005e",
+      "width": 480,
+      "height": 480,
+      "size": 16310,
+      "createdAt": "2026-07-09T16:38:27Z",
+      "updatedAt": "2026-07-09T16:38:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/fluminense/1993/sem-versao/camisa-retro-fluminense-1993-vermelha-e-verde-penalty/detail-5.webp",
+      "hash": "c807d72246935332bd8738572cae6fbf9014dd5367724f0803cb8ab12b71d417",
+      "width": 480,
+      "height": 480,
+      "size": 13926,
+      "createdAt": "2026-07-09T16:38:27Z",
+      "updatedAt": "2026-07-09T16:38:27Z"
+    }
+  ]
+}

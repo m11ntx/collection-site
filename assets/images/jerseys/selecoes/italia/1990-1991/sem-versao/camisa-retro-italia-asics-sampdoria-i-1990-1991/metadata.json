@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-italia-asics-sampdoria-i-1990-1991",
+  "createdAt": "2026-07-09T16:43:13Z",
+  "updatedAt": "2026-07-09T16:43:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/1990-1991/sem-versao/camisa-retro-italia-asics-sampdoria-i-1990-1991/front.webp",
+      "hash": "b146973c18b8c85abb85f40ea8df33b401d199cfefe8f6f45e292b1cd7c321b0",
+      "width": 480,
+      "height": 360,
+      "size": 14916,
+      "createdAt": "2026-07-09T16:43:13Z",
+      "updatedAt": "2026-07-09T16:43:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/1990-1991/sem-versao/camisa-retro-italia-asics-sampdoria-i-1990-1991/back.webp",
+      "hash": "fcc101e25555a40a7f10c571af44f89e207c974f6066af9e650c53c60f8016c4",
+      "width": 480,
+      "height": 360,
+      "size": 9482,
+      "createdAt": "2026-07-09T16:43:13Z",
+      "updatedAt": "2026-07-09T16:43:13Z"
+    }
+  ]
+}

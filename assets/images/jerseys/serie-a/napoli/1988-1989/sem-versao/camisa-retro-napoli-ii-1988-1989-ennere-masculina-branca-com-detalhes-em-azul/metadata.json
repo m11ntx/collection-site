@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T16:43:24Z",
+  "updatedAt": "2026-07-09T16:43:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/front.webp",
+      "hash": "79c1be15be0fcbd62b8ee4fd48083a7d8e53c2d98a2a58f17f2152410b2b947c",
+      "width": 480,
+      "height": 480,
+      "size": 9258,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/back.webp",
+      "hash": "2fa7074d09644883bb51936c7c973a5fc9a60ec7a9c4981efebfbf0baf30552d",
+      "width": 480,
+      "height": 480,
+      "size": 4262,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/detail-1.webp",
+      "hash": "64f81058594ceb1a340ecd03bff9f6946b8f7b84f9a7ec60ba19d291e2e6a969",
+      "width": 480,
+      "height": 480,
+      "size": 6638,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/detail-2.webp",
+      "hash": "1f6440310b3efe629c189ab2b23c54e04bd88949c2ba10a4a2375a1b323c0c6f",
+      "width": 480,
+      "height": 480,
+      "size": 19546,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/detail-3.webp",
+      "hash": "338753259162f698b579249aa160acca292be1d27a66de31e9803fa82d34eb70",
+      "width": 480,
+      "height": 480,
+      "size": 13022,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/detail-4.webp",
+      "hash": "9e6dbab837f822519b738d62df4fbfb4c8681b954db525457df7dd911e0f9efb",
+      "width": 480,
+      "height": 480,
+      "size": 17120,
+      "createdAt": "2026-07-09T16:43:23Z",
+      "updatedAt": "2026-07-09T16:43:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/napoli/1988-1989/sem-versao/camisa-retro-napoli-ii-1988-1989-ennere-masculina-branca-com-detalhes-em-azul/detail-5.webp",
+      "hash": "489a67dd3dc3c1f48c66c8b7701cb1760d8bebc36133dc719db2ecae6033febc",
+      "width": 480,
+      "height": 480,
+      "size": 20936,
+      "createdAt": "2026-07-09T16:43:24Z",
+      "updatedAt": "2026-07-09T16:43:24Z"
+    }
+  ]
+}

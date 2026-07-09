@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha",
+  "createdAt": "2026-07-09T16:38:39Z",
+  "updatedAt": "2026-07-09T16:38:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/front.webp",
+      "hash": "1eec4814331c5685aac467c93c1d537e219a5e8f70792f623dbbdc51a3d3cb1a",
+      "width": 480,
+      "height": 480,
+      "size": 9652,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/back.webp",
+      "hash": "434a77a91c348f16a5271a98c3ce7caa3725dc519f30a7d884bba914e854d75b",
+      "width": 480,
+      "height": 480,
+      "size": 7684,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/detail-1.webp",
+      "hash": "28280dd0a61ed9e7f6363db89ade603a2cb990dacc343b5afaa7ce7a0c752026",
+      "width": 480,
+      "height": 480,
+      "size": 33620,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/detail-2.webp",
+      "hash": "a7e994889c29df070c21db1712f7d32cc67adb434d25d88acd817700db34825c",
+      "width": 480,
+      "height": 480,
+      "size": 19410,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/detail-3.webp",
+      "hash": "ed99c584b610352282a538608651d9360b67e5ea3848462f735490e14dea6b48",
+      "width": 480,
+      "height": 480,
+      "size": 31528,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/detail-4.webp",
+      "hash": "8e41a3ef9b5be635f6965dab558f2ad3a9e875e9a563aaae6b5384b4cc81c3b9",
+      "width": 480,
+      "height": 480,
+      "size": 50620,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/2008-2009/sem-versao/camisa-retro-selecao-da-inglaterra-2008-2009-umbro-masculina-vermelha/detail-5.webp",
+      "hash": "cfc6f4c48014d5a6131949726580407aceb38ffa8323bf7700b8b77bcc3fe8a7",
+      "width": 480,
+      "height": 480,
+      "size": 16892,
+      "createdAt": "2026-07-09T16:38:39Z",
+      "updatedAt": "2026-07-09T16:38:39Z"
+    }
+  ]
+}

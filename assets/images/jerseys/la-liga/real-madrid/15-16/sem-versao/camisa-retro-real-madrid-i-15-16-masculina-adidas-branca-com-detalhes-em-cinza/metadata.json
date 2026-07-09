@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T16:44:24Z",
+  "updatedAt": "2026-07-09T16:44:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/front.webp",
+      "hash": "8d5e9bc72c0e68e0c62b79de2c6f9d537c534d16a721e2a25f162540ef0a66af",
+      "width": 480,
+      "height": 480,
+      "size": 7182,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/back.webp",
+      "hash": "ed50df4f6872597c677fdb7ac33fa179743f546ad11719af78bc3d2da5a19a76",
+      "width": 480,
+      "height": 480,
+      "size": 3354,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/detail-1.webp",
+      "hash": "af833858698cc5a2857127532ad33aafa52be16545cad7f03a2104ac59547a29",
+      "width": 480,
+      "height": 480,
+      "size": 14112,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/detail-2.webp",
+      "hash": "97e52345f5fc486563a03774b85ebbb398644bdb05977723bd3effcb41e2d36f",
+      "width": 480,
+      "height": 480,
+      "size": 40390,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/detail-3.webp",
+      "hash": "dd9dfc324a5350b2dadbf610914f77bec10b9bac1507e6b120d97b9f9d240338",
+      "width": 480,
+      "height": 480,
+      "size": 42030,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/detail-4.webp",
+      "hash": "e948c3ac2ebf015da5310f127497faba6626a41e88c4197c35474b02fc2e3fa2",
+      "width": 480,
+      "height": 480,
+      "size": 16718,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/15-16/sem-versao/camisa-retro-real-madrid-i-15-16-masculina-adidas-branca-com-detalhes-em-cinza/detail-5.webp",
+      "hash": "1c354e0c28bdcc7e1698e135ceaee1f434b656c7511395c4e79a95134aeac33d",
+      "width": 480,
+      "height": 480,
+      "size": 17002,
+      "createdAt": "2026-07-09T16:44:23Z",
+      "updatedAt": "2026-07-09T16:44:23Z"
+    }
+  ]
+}

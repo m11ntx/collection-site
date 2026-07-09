@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T16:43:51Z",
+  "updatedAt": "2026-07-09T16:43:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/front.webp",
+      "hash": "9cc93454b1f71288fa7b6511d03b583422d30885667ee0ce46600c0b806de5c2",
+      "width": 480,
+      "height": 480,
+      "size": 7892,
+      "createdAt": "2026-07-09T16:43:50Z",
+      "updatedAt": "2026-07-09T16:43:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/back.webp",
+      "hash": "8392e01fd852aed4c8384ba1c43d062c44ac1027509d875f4e76402f87b473c6",
+      "width": 480,
+      "height": 480,
+      "size": 13908,
+      "createdAt": "2026-07-09T16:43:50Z",
+      "updatedAt": "2026-07-09T16:43:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/detail-1.webp",
+      "hash": "424ccdd1c84b461d0de957adf903268e316a37bfba9e270974005885a1c8b3d6",
+      "width": 480,
+      "height": 480,
+      "size": 5868,
+      "createdAt": "2026-07-09T16:43:50Z",
+      "updatedAt": "2026-07-09T16:43:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/detail-2.webp",
+      "hash": "e0c2578d981fc0a817aefe40df6913c75c2c5f018485163d039382976d933eed",
+      "width": 480,
+      "height": 480,
+      "size": 45424,
+      "createdAt": "2026-07-09T16:43:50Z",
+      "updatedAt": "2026-07-09T16:43:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/detail-3.webp",
+      "hash": "c602e049c53dc4e3dab343f4a4bad021cc9dc99076077a6e5d11a55514db7ef5",
+      "width": 480,
+      "height": 480,
+      "size": 40154,
+      "createdAt": "2026-07-09T16:43:51Z",
+      "updatedAt": "2026-07-09T16:43:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/detail-4.webp",
+      "hash": "8f15b19476eb2b04c6c9ad7468dd1d9177274121b3bedb2c583ac482d60e3992",
+      "width": 480,
+      "height": 480,
+      "size": 13100,
+      "createdAt": "2026-07-09T16:43:51Z",
+      "updatedAt": "2026-07-09T16:43:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/1995-1997/sem-versao/camisa-retro-juventus-i-1995-1997-kappa-masculina-preta-com-detalhes-em-amarelo/detail-5.webp",
+      "hash": "aa0953bc92532ed7900d512009dc186d77ccd71d4d7c516ea34fcc069ab95ed8",
+      "width": 480,
+      "height": 480,
+      "size": 19248,
+      "createdAt": "2026-07-09T16:43:51Z",
+      "updatedAt": "2026-07-09T16:43:51Z"
+    }
+  ]
+}

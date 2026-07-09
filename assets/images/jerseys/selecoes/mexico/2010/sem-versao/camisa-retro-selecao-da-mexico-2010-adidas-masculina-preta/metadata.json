@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta",
+  "createdAt": "2026-07-09T16:43:07Z",
+  "updatedAt": "2026-07-09T16:43:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/front.webp",
+      "hash": "5050e5c7c5f2e9ace2577d62efe8cf1861f00e4376b2566b244d278e6c197f03",
+      "width": 480,
+      "height": 480,
+      "size": 7542,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/back.webp",
+      "hash": "21818a332a9c40395482dc4df4d5c16de8f4f16499586f9f4fca7e69ba9d59db",
+      "width": 480,
+      "height": 480,
+      "size": 16076,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/detail-1.webp",
+      "hash": "8fe0e339de95a295a1077616fa50b7b9a01b794e42bff30fb33492d019fa7bd5",
+      "width": 480,
+      "height": 480,
+      "size": 5810,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/detail-2.webp",
+      "hash": "7def59152b4a4086c432fa8cede8bee365f8716d891881df12e42830702d6334",
+      "width": 480,
+      "height": 480,
+      "size": 48200,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/detail-3.webp",
+      "hash": "f2cc78749ff7a43aad0c809b8149b2fe7f52a596ae815b086ccfcfc7a0e48655",
+      "width": 480,
+      "height": 480,
+      "size": 36012,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/detail-4.webp",
+      "hash": "00767fccd7a05b6d5d7cc3da4e98f12327b9804d0532dae90c123f96782b50fa",
+      "width": 480,
+      "height": 480,
+      "size": 20350,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/2010/sem-versao/camisa-retro-selecao-da-mexico-2010-adidas-masculina-preta/detail-5.webp",
+      "hash": "228022cbb3536f958a383ff8a997bda535dc46323810bbc5a5c14e15a5e83f52",
+      "width": 480,
+      "height": 480,
+      "size": 62240,
+      "createdAt": "2026-07-09T16:43:07Z",
+      "updatedAt": "2026-07-09T16:43:07Z"
+    }
+  ]
+}

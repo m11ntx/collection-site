@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta",
+  "createdAt": "2026-07-09T16:43:36Z",
+  "updatedAt": "2026-07-09T16:43:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/front.webp",
+      "hash": "15d738e1f2e7c2c91b70b0ff422c560e781b654137acfb30f1a09e58f963375e",
+      "width": 480,
+      "height": 480,
+      "size": 12476,
+      "createdAt": "2026-07-09T16:43:35Z",
+      "updatedAt": "2026-07-09T16:43:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/back.webp",
+      "hash": "90d27127aeb55c959c2a993a75d672fd52ac348a96c239f430dfa6daae6276cc",
+      "width": 480,
+      "height": 480,
+      "size": 9126,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/detail-1.webp",
+      "hash": "e50d8eb5ce8c9e2a26e295075b024685bab1acedc7b2086e254a07a1b12df5aa",
+      "width": 480,
+      "height": 480,
+      "size": 18500,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/detail-2.webp",
+      "hash": "c4786f523d908b024e0397574a60faa19f2f5dbbe88114e9ccfb16a8230b1998",
+      "width": 480,
+      "height": 480,
+      "size": 60972,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/detail-3.webp",
+      "hash": "86854da096b8e88aef79361ebe4f1a7534603cf66d1c4083dd512df079853828",
+      "width": 480,
+      "height": 480,
+      "size": 61840,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/detail-4.webp",
+      "hash": "f95a3488d4b1b3a452366145e44e8725b09408083877b2de8b19e021581bd5e8",
+      "width": 480,
+      "height": 480,
+      "size": 19214,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/2007-2008/sem-versao/camisa-retro-ac-milan-i-2007-2008-masculina-adidas-vermelha-e-preta/detail-5.webp",
+      "hash": "5ad1449be2b4216346180cf9e6081c464a3d0863f5d83f2355e3b39cbee94013",
+      "width": 480,
+      "height": 480,
+      "size": 13384,
+      "createdAt": "2026-07-09T16:43:36Z",
+      "updatedAt": "2026-07-09T16:43:36Z"
+    }
+  ]
+}

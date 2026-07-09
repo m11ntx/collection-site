@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-12-13-masculina-adidas-verde",
+  "createdAt": "2026-07-09T16:44:00Z",
+  "updatedAt": "2026-07-09T16:44:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/front.webp",
+      "hash": "391df7e3b530d98d77a996ca838c6c3fff41cb62f53ffddf56648561d3dba566",
+      "width": 480,
+      "height": 480,
+      "size": 10174,
+      "createdAt": "2026-07-09T16:43:59Z",
+      "updatedAt": "2026-07-09T16:43:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/back.webp",
+      "hash": "1fd03ee7d61a30cea5a6bffba1b3579a5cadbc63b6b113f8d34eb9155f56c801",
+      "width": 480,
+      "height": 480,
+      "size": 5844,
+      "createdAt": "2026-07-09T16:43:59Z",
+      "updatedAt": "2026-07-09T16:43:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/detail-1.webp",
+      "hash": "9d2266a57280264b5889e120aef9570492e288c204310b08caf58ffeadd7bb71",
+      "width": 480,
+      "height": 480,
+      "size": 21722,
+      "createdAt": "2026-07-09T16:43:59Z",
+      "updatedAt": "2026-07-09T16:43:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/detail-2.webp",
+      "hash": "b550c79a9e6c0b4d2b817eda4b88d754d3405623be7fbd39b59c1e72edacd3fe",
+      "width": 480,
+      "height": 480,
+      "size": 18612,
+      "createdAt": "2026-07-09T16:43:59Z",
+      "updatedAt": "2026-07-09T16:43:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/detail-3.webp",
+      "hash": "41b02253961062b9628fbeeac79a2aa8046d0c938bdf89cffca440a452cd0df3",
+      "width": 480,
+      "height": 480,
+      "size": 82608,
+      "createdAt": "2026-07-09T16:43:59Z",
+      "updatedAt": "2026-07-09T16:43:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/detail-4.webp",
+      "hash": "d7cde4399e1cb271f41debf97258f85220c082f5f13d285abdc3e2d25b4099c6",
+      "width": 480,
+      "height": 480,
+      "size": 83648,
+      "createdAt": "2026-07-09T16:44:00Z",
+      "updatedAt": "2026-07-09T16:44:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/12-13/sem-versao/camisa-retro-real-madrid-12-13-masculina-adidas-verde/detail-5.webp",
+      "hash": "0673e087a01f7208b46ce99117424d83372c7f7cc660aa69d8816f32a9b45a21",
+      "width": 480,
+      "height": 480,
+      "size": 25978,
+      "createdAt": "2026-07-09T16:44:00Z",
+      "updatedAt": "2026-07-09T16:44:00Z"
+    }
+  ]
+}

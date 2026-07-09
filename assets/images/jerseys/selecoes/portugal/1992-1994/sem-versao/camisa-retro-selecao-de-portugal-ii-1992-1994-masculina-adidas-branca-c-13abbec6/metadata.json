@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-com-detalhes-em-verde-e-amarelo-e-vermelho",
+  "createdAt": "2026-07-09T16:43:12Z",
+  "updatedAt": "2026-07-09T16:43:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/front.webp",
+      "hash": "58fc54d842991d464e281452d3bff0f295ec7bfff472354f7856faa256b5d0ed",
+      "width": 480,
+      "height": 480,
+      "size": 6870,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/back.webp",
+      "hash": "4002970fd8c34b2bfd61dadce15ee2742a0741fbb23b7a84a05a4882af1bcbc5",
+      "width": 480,
+      "height": 480,
+      "size": 12504,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/detail-1.webp",
+      "hash": "76bd4b7b5cf8de2e0105f16543ab129c4f3122c2524acda9a6a60882cc847b92",
+      "width": 480,
+      "height": 480,
+      "size": 5466,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/detail-2.webp",
+      "hash": "a0fe0341ac44c6bd0729fec7bb3ebafde1e436227f930994512665591fe26d9c",
+      "width": 480,
+      "height": 480,
+      "size": 44670,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/detail-3.webp",
+      "hash": "a992e34f924ae1d05484f19770e79f5878cbc9bcdaa95f51a8c1e61db1d20e5e",
+      "width": 480,
+      "height": 480,
+      "size": 16374,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/1992-1994/sem-versao/camisa-retro-selecao-de-portugal-ii-1992-1994-masculina-adidas-branca-c-13abbec6/detail-4.webp",
+      "hash": "192ed763cda7dc216db999ab7ab034e2d845c11b2d37f48d9ac2ba2f3b5da1e7",
+      "width": 480,
+      "height": 480,
+      "size": 11134,
+      "createdAt": "2026-07-09T16:43:11Z",
+      "updatedAt": "2026-07-09T16:43:11Z"
+    }
+  ]
+}

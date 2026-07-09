@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T16:42:41Z",
+  "updatedAt": "2026-07-09T16:42:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/front.webp",
+      "hash": "d001ddaca3de89b4a42457ce546682cab4612adddef3b5d2dea5340292af8617",
+      "width": 480,
+      "height": 480,
+      "size": 9222,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/back.webp",
+      "hash": "1f7ed8751623ddf4a81e4157975c30d8e708d2699f5b917716e79620ca23383f",
+      "width": 480,
+      "height": 480,
+      "size": 6492,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/detail-1.webp",
+      "hash": "3f9c24dd7c6d88b697724d1001d5fb7159e2159b008f53209744e2c85f8c577e",
+      "width": 480,
+      "height": 480,
+      "size": 10320,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/detail-2.webp",
+      "hash": "697619ae30dbe188e95a30e6a2a47c29bab09076f2453e8ca4cb66f976281e9b",
+      "width": 480,
+      "height": 480,
+      "size": 16738,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/detail-3.webp",
+      "hash": "dd4f25e014d222a2c2f7ace8b3306eb6e68df2907a0301474524092957280cbb",
+      "width": 480,
+      "height": 480,
+      "size": 8636,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/detail-4.webp",
+      "hash": "f03482a35c73e47277b84e5a177b3c9dcedef94cb6a9016bfa388b721f00cbd9",
+      "width": 480,
+      "height": 480,
+      "size": 7830,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/espanha/2012/sem-versao/camisa-retro-selecao-da-espanha-i-2012-adidas-masculina-vermelha-com-de-e9d70fe2/detail-5.webp",
+      "hash": "1f4dfd741b229dfe9b3a8f185e3f6b3a8b76f4275e8df8a022ceb5c6b6d4f612",
+      "width": 480,
+      "height": 480,
+      "size": 10214,
+      "createdAt": "2026-07-09T16:42:41Z",
+      "updatedAt": "2026-07-09T16:42:41Z"
+    }
+  ]
+}

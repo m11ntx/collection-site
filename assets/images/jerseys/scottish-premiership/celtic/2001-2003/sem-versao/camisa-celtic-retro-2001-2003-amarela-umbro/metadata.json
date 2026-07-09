@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-2001-2003-amarela-umbro",
+  "createdAt": "2026-07-09T16:36:32Z",
+  "updatedAt": "2026-07-09T16:36:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/front.webp",
+      "hash": "ecf3bb4aed4b48e8176341f831397b6e0861870efbec4ea34246c19c695e2269",
+      "width": 480,
+      "height": 480,
+      "size": 14638,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/back.webp",
+      "hash": "5f3d704052c71ffc1db5e6a54066e974110bd4d7c42730f9266bafda9ddfecb8",
+      "width": 480,
+      "height": 480,
+      "size": 9142,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/detail-1.webp",
+      "hash": "5268fbadd4d2fa37faf5cb655f5412707b567977a66623ab853ba4168063730d",
+      "width": 480,
+      "height": 480,
+      "size": 25114,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/detail-2.webp",
+      "hash": "b264354d906b231a7efd51ab6ca0ca4e5174ce2a3a72744a9cddba9551ccc2c4",
+      "width": 480,
+      "height": 480,
+      "size": 25888,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/detail-3.webp",
+      "hash": "4ba0580231967452b8b9873360f3d92f7edc299e18fec6e016c8711ea66e67cc",
+      "width": 480,
+      "height": 480,
+      "size": 75844,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/detail-4.webp",
+      "hash": "54094d2dd0468088f2ac13c710a239132ce062ebfd8d5cdd544e6eb4b9c284a0",
+      "width": 480,
+      "height": 480,
+      "size": 79570,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/2001-2003/sem-versao/camisa-celtic-retro-2001-2003-amarela-umbro/detail-5.webp",
+      "hash": "47405cf5fa59f3683ee03292356cc1dc164da257b93bf94ebb76bbc2998a11cf",
+      "width": 480,
+      "height": 480,
+      "size": 19778,
+      "createdAt": "2026-07-09T16:36:32Z",
+      "updatedAt": "2026-07-09T16:36:32Z"
+    }
+  ]
+}

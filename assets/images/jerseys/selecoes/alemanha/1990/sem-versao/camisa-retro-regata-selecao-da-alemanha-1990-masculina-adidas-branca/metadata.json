@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca",
+  "createdAt": "2026-07-09T16:42:31Z",
+  "updatedAt": "2026-07-09T16:42:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/front.webp",
+      "hash": "a94f33a0f3cee3d9bba6b613c90bd2e2dfd82a08b5210d331d551a83b3bd796d",
+      "width": 480,
+      "height": 480,
+      "size": 7744,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/back.webp",
+      "hash": "84babcc5b2e5ebcf35f361009d9789cf1fe15061573122408f705fe5fa5e1f93",
+      "width": 480,
+      "height": 480,
+      "size": 4172,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/detail-1.webp",
+      "hash": "85206705a0c997f76f74187df560b73f68ee58dd2fdd5e2bd333e80c033a4482",
+      "width": 480,
+      "height": 480,
+      "size": 11382,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/detail-2.webp",
+      "hash": "23de274541a764e9cff765c666182227339df9a72a0ac7bfa7e03c3ac949b9b3",
+      "width": 480,
+      "height": 480,
+      "size": 35334,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/detail-3.webp",
+      "hash": "3df98945a39e03eca230655af48788e74674c611e55da0a6188c135f3e3913c3",
+      "width": 480,
+      "height": 480,
+      "size": 28690,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/detail-4.webp",
+      "hash": "56fb8977dd827700ed12aa17e4ad23b629d893d35b6f108bf9276cf764d08098",
+      "width": 480,
+      "height": 480,
+      "size": 10194,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1990/sem-versao/camisa-retro-regata-selecao-da-alemanha-1990-masculina-adidas-branca/detail-5.webp",
+      "hash": "95df65fe5effc119a2cc539495ece7959ff8a7283202377496124b4b8c35506a",
+      "width": 480,
+      "height": 480,
+      "size": 6276,
+      "createdAt": "2026-07-09T16:42:31Z",
+      "updatedAt": "2026-07-09T16:42:31Z"
+    }
+  ]
+}

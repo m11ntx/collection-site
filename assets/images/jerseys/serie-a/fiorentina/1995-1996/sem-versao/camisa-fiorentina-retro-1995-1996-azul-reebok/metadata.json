@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-fiorentina-retro-1995-1996-azul-reebok",
+  "createdAt": "2026-07-09T16:38:15Z",
+  "updatedAt": "2026-07-09T16:38:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/front.webp",
+      "hash": "029cf40491411eb3579a3aa45be91ab0e4494e388735006f98b51dea98165836",
+      "width": 480,
+      "height": 480,
+      "size": 11290,
+      "createdAt": "2026-07-09T16:38:14Z",
+      "updatedAt": "2026-07-09T16:38:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/back.webp",
+      "hash": "485d6c494346a3b50bfcc07d19559d731e69609f8ec68e2c63d3f2ce23887891",
+      "width": 480,
+      "height": 480,
+      "size": 6450,
+      "createdAt": "2026-07-09T16:38:14Z",
+      "updatedAt": "2026-07-09T16:38:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/detail-1.webp",
+      "hash": "d9bc0b924c31075bb58eabb3603cde9caba9c0cd8058c16f575789f32d6abd99",
+      "width": 480,
+      "height": 480,
+      "size": 24022,
+      "createdAt": "2026-07-09T16:38:15Z",
+      "updatedAt": "2026-07-09T16:38:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/detail-2.webp",
+      "hash": "36a56eae3838dee5362e9829f38ae685ce49d43ff05de44d6f185470ec2757d4",
+      "width": 480,
+      "height": 480,
+      "size": 20264,
+      "createdAt": "2026-07-09T16:38:15Z",
+      "updatedAt": "2026-07-09T16:38:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/detail-3.webp",
+      "hash": "9e99084ff451f70472b2276fc436f11b96724c3cdd5df3512e451b65f73acc72",
+      "width": 480,
+      "height": 480,
+      "size": 29246,
+      "createdAt": "2026-07-09T16:38:15Z",
+      "updatedAt": "2026-07-09T16:38:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/detail-4.webp",
+      "hash": "b0c3d91913801c6c2f44a249c4b49753be95315f5cb73833970e5143b5b5662a",
+      "width": 480,
+      "height": 480,
+      "size": 25832,
+      "createdAt": "2026-07-09T16:38:15Z",
+      "updatedAt": "2026-07-09T16:38:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/fiorentina/1995-1996/sem-versao/camisa-fiorentina-retro-1995-1996-azul-reebok/detail-5.webp",
+      "hash": "0a48970e7b0eaaa38e7546bf00fbed8c0991d86cfd6ad95e0578e4722ea24780",
+      "width": 480,
+      "height": 480,
+      "size": 20934,
+      "createdAt": "2026-07-09T16:38:15Z",
+      "updatedAt": "2026-07-09T16:38:15Z"
+    }
+  ]
+}

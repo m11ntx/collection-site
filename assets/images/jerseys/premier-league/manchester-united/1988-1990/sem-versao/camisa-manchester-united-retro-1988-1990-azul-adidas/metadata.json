@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-1988-1990-azul-adidas",
+  "createdAt": "2026-07-09T16:39:29Z",
+  "updatedAt": "2026-07-09T16:39:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/front.webp",
+      "hash": "0c19997452e38a1240b55603b3bca0a27e79af0118c5fddb8e2e2ab11898573e",
+      "width": 480,
+      "height": 480,
+      "size": 14464,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/back.webp",
+      "hash": "85b8e1b65363928ce8771bfbcfe22dfc1f1ddb771b40e261367dc472575895b1",
+      "width": 480,
+      "height": 480,
+      "size": 9216,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/detail-1.webp",
+      "hash": "90eb39ed94ab3907994a9e3c919027b246f8d849cb90b25ca7fac758dd10f642",
+      "width": 480,
+      "height": 480,
+      "size": 57876,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/detail-2.webp",
+      "hash": "f787ec58814ee968c7851a55e9ad5e82fdda7174f333e056a6a6a14044c1c2f3",
+      "width": 480,
+      "height": 480,
+      "size": 52204,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/detail-3.webp",
+      "hash": "17faaa00b2f4473f463233917326dadc9c864946dff2bd2df3dbfbcef8a86841",
+      "width": 480,
+      "height": 480,
+      "size": 27466,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/detail-4.webp",
+      "hash": "5dfee102b945ae8245b4fd65f4d02c6b5a68d8a594a7680b5e82c5d493041387",
+      "width": 480,
+      "height": 480,
+      "size": 22150,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1988-1990/sem-versao/camisa-manchester-united-retro-1988-1990-azul-adidas/detail-5.webp",
+      "hash": "01e6ea25d486cc472e1991b2292e12cda5acb8b73ed6a962f86d1c6a4917eac5",
+      "width": 480,
+      "height": 480,
+      "size": 29608,
+      "createdAt": "2026-07-09T16:39:29Z",
+      "updatedAt": "2026-07-09T16:39:29Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-manchester-united-retro-2013-2014-azul-marinho-nike",
+  "createdAt": "2026-07-09T16:39:58Z",
+  "updatedAt": "2026-07-09T16:39:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/front.webp",
+      "hash": "bd53bee26e74576401c588f0707cee01ac457b10fab4b7048d165e474a780379",
+      "width": 480,
+      "height": 480,
+      "size": 15208,
+      "createdAt": "2026-07-09T16:39:57Z",
+      "updatedAt": "2026-07-09T16:39:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/back.webp",
+      "hash": "d2f494be9b73ba3a93733624d1327dc88c1c3569ea49f9d833d550ad6babef89",
+      "width": 480,
+      "height": 480,
+      "size": 13388,
+      "createdAt": "2026-07-09T16:39:57Z",
+      "updatedAt": "2026-07-09T16:39:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/detail-1.webp",
+      "hash": "b04aea0f8b21547dcbc5c999e06fb5bcb1400f10a77b4c43352cfd8c29fee0b9",
+      "width": 480,
+      "height": 480,
+      "size": 39820,
+      "createdAt": "2026-07-09T16:39:57Z",
+      "updatedAt": "2026-07-09T16:39:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/detail-2.webp",
+      "hash": "04954015df4349e8d54c82285e4a0550a0f2414ea862b555beab95137f52f2e3",
+      "width": 480,
+      "height": 480,
+      "size": 36160,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/detail-3.webp",
+      "hash": "90f301eb87de20036d3d5b7cb4df03a7f13278eb42025a2f53998e8fe5feef06",
+      "width": 480,
+      "height": 480,
+      "size": 66548,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/detail-4.webp",
+      "hash": "5726d6923392d6178018e76714895af97af9283c9ff59a5c4b630d0d39fce1ba",
+      "width": 480,
+      "height": 480,
+      "size": 67440,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2013-2014/sem-versao/camisa-manchester-united-retro-2013-2014-azul-marinho-nike/detail-5.webp",
+      "hash": "c4f0f587078345de610d43223e0ea41433f41b4055d2a28ef9df0171fa335d6b",
+      "width": 480,
+      "height": 480,
+      "size": 45622,
+      "createdAt": "2026-07-09T16:39:58Z",
+      "updatedAt": "2026-07-09T16:39:58Z"
+    }
+  ]
+}

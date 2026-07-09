@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho",
+  "createdAt": "2026-07-09T16:37:44Z",
+  "updatedAt": "2026-07-09T16:37:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/front.webp",
+      "hash": "ad32f9f3e55fd3f1287b1906fe0b315de86b184afccfaf883b4027472c16d8c6",
+      "width": 480,
+      "height": 480,
+      "size": 10544,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/back.webp",
+      "hash": "d88a3e990ba64ebe45da6f407fdb10e9aa0d9a3cd17dd7aace30623eedf40c94",
+      "width": 480,
+      "height": 480,
+      "size": 13274,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/detail-1.webp",
+      "hash": "2e237408e7dda2e80c7472fb51746bb98923b2969be6d785f12b07f2e12e6660",
+      "width": 480,
+      "height": 480,
+      "size": 7654,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/detail-2.webp",
+      "hash": "176067519a6855678928fdd4b519fdd698788a24eb6c49112ddba4ec9be35107",
+      "width": 480,
+      "height": 480,
+      "size": 73982,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/detail-3.webp",
+      "hash": "de0b6989689b89aeba72b2782dfd54961473f8ec9aece75e9e0e4d1ae7506700",
+      "width": 480,
+      "height": 480,
+      "size": 20232,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/detail-4.webp",
+      "hash": "f87369d4e9536291ab457bd1a52f9db2e3963a54b5a74508d3185272c0ce495f",
+      "width": 480,
+      "height": 480,
+      "size": 55612,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/2017-2018/sem-versao/camisa-do-flamengo-retro-2017-2018-masculina-adidas-preto-e-vermelho/detail-5.webp",
+      "hash": "771864e863ebf9b903d215089c8fed8bf6ff3d84db8ff1050e0e369377faed9a",
+      "width": 480,
+      "height": 480,
+      "size": 27814,
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
+    }
+  ]
+}

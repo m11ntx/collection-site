@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-celtic-retro-1992-1993-preta-e-verde-umbro",
+  "createdAt": "2026-07-09T16:36:27Z",
+  "updatedAt": "2026-07-09T16:36:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/front.webp",
+      "hash": "fdf5050ce0745f177a4c5440238708b4416730f05c632b321be28e5d580dfd8b",
+      "width": 480,
+      "height": 480,
+      "size": 20510,
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/back.webp",
+      "hash": "2c01ed7cccb711cbdb9527cc0c3e6c4e922fa6cffe00b5a03f48e3771926ad97",
+      "width": 480,
+      "height": 480,
+      "size": 19138,
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/detail-1.webp",
+      "hash": "fe80c0118600352f25561a33eeeab1deb6c1bd6584ec19891eb0d1186a36c343",
+      "width": 480,
+      "height": 480,
+      "size": 34470,
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/detail-2.webp",
+      "hash": "07cb35c5d1e1f555a4ed1f8915cc1e606fd181c9f589c3d40dcdee15379a574e",
+      "width": 480,
+      "height": 480,
+      "size": 57834,
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/detail-3.webp",
+      "hash": "2ef459b88ed926211a6beb0797be106017cff27e9d46cb3d1b99eb023665f8ae",
+      "width": 480,
+      "height": 480,
+      "size": 62518,
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1992-1993/sem-versao/camisa-celtic-retro-1992-1993-preta-e-verde-umbro/detail-4.webp",
+      "hash": "34d21f581015fd94299cd7c3945dc8cad434107d711ba6823420e523c6f1f263",
+      "width": 480,
+      "height": 480,
+      "size": 46568,
+      "createdAt": "2026-07-09T16:36:27Z",
+      "updatedAt": "2026-07-09T16:36:27Z"
+    }
+  ]
+}

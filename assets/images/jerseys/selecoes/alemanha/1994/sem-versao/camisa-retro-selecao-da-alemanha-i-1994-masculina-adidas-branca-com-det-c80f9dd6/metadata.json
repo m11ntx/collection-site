@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-detalhes-em-amarelo-e-vermelho",
+  "createdAt": "2026-07-09T16:40:50Z",
+  "updatedAt": "2026-07-09T16:40:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/front.webp",
+      "hash": "a0b6373d3e16ade0d48cb8d4f048f22409be5e98f0498f324e27109250dee837",
+      "width": 480,
+      "height": 480,
+      "size": 12284,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/back.webp",
+      "hash": "e40fde4e8bedd024f05437f8682a151e01d8c2845bcc0ea804c6a186d4f80ce8",
+      "width": 480,
+      "height": 480,
+      "size": 4764,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/detail-1.webp",
+      "hash": "1b9f5db864151cb9d6052b7ab8d9e5572e1d417007385e2d71fed597fef12a5d",
+      "width": 480,
+      "height": 480,
+      "size": 26548,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/detail-2.webp",
+      "hash": "78280dddaf745010f629bd5e7e502bcbc422fa0a3df536b9fc48caeadcc92e6b",
+      "width": 480,
+      "height": 480,
+      "size": 31234,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/detail-3.webp",
+      "hash": "ab496ff09b66c95a5b13cf2fcc91cf3830081ddb859e320995ac53610c640c41",
+      "width": 480,
+      "height": 480,
+      "size": 38398,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/detail-4.webp",
+      "hash": "b5c813bb928ad54afca3474e8c57e11fafab15811ff4a0a72293d69d92e1ea4f",
+      "width": 480,
+      "height": 480,
+      "size": 15282,
+      "createdAt": "2026-07-09T16:40:49Z",
+      "updatedAt": "2026-07-09T16:40:49Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1994/sem-versao/camisa-retro-selecao-da-alemanha-i-1994-masculina-adidas-branca-com-det-c80f9dd6/detail-5.webp",
+      "hash": "ab5277899e7ebc98635ee02d37f088dcf0394fe3b563b61558fd1ea7f5caeac9",
+      "width": 480,
+      "height": 480,
+      "size": 21044,
+      "createdAt": "2026-07-09T16:40:50Z",
+      "updatedAt": "2026-07-09T16:40:50Z"
+    }
+  ]
+}

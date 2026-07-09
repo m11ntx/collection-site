@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-italia-1996-nike-masculina-branca",
+  "createdAt": "2026-07-09T16:42:59Z",
+  "updatedAt": "2026-07-09T16:42:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/front.webp",
+      "hash": "776ed80d10dd2d90872800e82dcec905f1f7a124819239591a6068913077398b",
+      "width": 480,
+      "height": 480,
+      "size": 7702,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/back.webp",
+      "hash": "c6129ec17531b801509e273f9029ea969c34356a332eb3260104227405e4fd07",
+      "width": 480,
+      "height": 480,
+      "size": 5914,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/detail-1.webp",
+      "hash": "65af7bc44c7250ec58fbd1b2e4bd95f1409c598347947282b3f131c3b7c0d71a",
+      "width": 480,
+      "height": 480,
+      "size": 14814,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/detail-2.webp",
+      "hash": "6a72255357f0cb7947af8cab409be3b777b089cbf312470a6e22fbc6ac147a9d",
+      "width": 480,
+      "height": 480,
+      "size": 34472,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/detail-3.webp",
+      "hash": "aa39d45c8f8f459e6f69d8d74a82afc434d87243bf4457a54d184de6b93f5288",
+      "width": 480,
+      "height": 480,
+      "size": 42078,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/detail-4.webp",
+      "hash": "652f861523f5e2f1f0fdd96cf451278ef112d26525120fbcf752538b115c8dbc",
+      "width": 480,
+      "height": 480,
+      "size": 18034,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/italia/1996/sem-versao/camisa-retro-selecao-da-italia-1996-nike-masculina-branca/detail-5.webp",
+      "hash": "b120528eb7ddcf8dadf6ba593bc82056744eb4667128a6e5eb9a07d2fa8da741",
+      "width": 480,
+      "height": 480,
+      "size": 28438,
+      "createdAt": "2026-07-09T16:42:59Z",
+      "updatedAt": "2026-07-09T16:42:59Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-napoli-i-2018-19-masculina-kappa-azul",
+  "createdAt": "2026-07-09T16:42:16Z",
+  "updatedAt": "2026-07-09T16:42:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/2018-19/sem-versao/camisa-retro-napoli-i-2018-19-masculina-kappa-azul/front.webp",
+      "hash": "ac5f790eee2ff123fc107fe48f674ad5df2827eae6665a943cb560e927d8229d",
+      "width": 480,
+      "height": 480,
+      "size": 15286,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/2018-19/sem-versao/camisa-retro-napoli-i-2018-19-masculina-kappa-azul/back.webp",
+      "hash": "1dab8875373fb6c8763dcf9041bf251f52fb441e2f43c4b4e449e16dcd1e9511",
+      "width": 480,
+      "height": 480,
+      "size": 8120,
+      "createdAt": "2026-07-09T16:42:16Z",
+      "updatedAt": "2026-07-09T16:42:16Z"
+    }
+  ]
+}

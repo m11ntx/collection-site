@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-selecao-de-portugal-ii-2012-nike-masculina",
+  "createdAt": "2026-07-09T16:43:12Z",
+  "updatedAt": "2026-07-09T16:43:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/2012/sem-versao/camisa-retro-selecao-de-portugal-ii-2012-nike-masculina/front.webp",
+      "hash": "39c3da067d43a377067a2c7acfbdafec3ef8a0b75e23370b276accf04c3f828a",
+      "width": 480,
+      "height": 480,
+      "size": 9930,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/2012/sem-versao/camisa-retro-selecao-de-portugal-ii-2012-nike-masculina/back.webp",
+      "hash": "5426e5cc8786bec10b9e8384e20c71508de73abf635564a9754a2a0c9144db76",
+      "width": 480,
+      "height": 480,
+      "size": 48282,
+      "createdAt": "2026-07-09T16:43:12Z",
+      "updatedAt": "2026-07-09T16:43:12Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T16:43:40Z",
+  "updatedAt": "2026-07-09T16:43:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/front.webp",
+      "hash": "896b08699596db1d4af7ebfd8185076b47b739083511c8854ec64fa045d15091",
+      "width": 480,
+      "height": 480,
+      "size": 12486,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/back.webp",
+      "hash": "321d44423ec9486006201acafb9a1f40912ae83d8eabaec60001cd55f5f6e4d2",
+      "width": 480,
+      "height": 480,
+      "size": 8220,
+      "createdAt": "2026-07-09T16:43:39Z",
+      "updatedAt": "2026-07-09T16:43:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/detail-1.webp",
+      "hash": "247f2884d777c447876128755a6a8444488ac331d48d139d69f09479597ddde5",
+      "width": 480,
+      "height": 480,
+      "size": 14668,
+      "createdAt": "2026-07-09T16:43:40Z",
+      "updatedAt": "2026-07-09T16:43:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/detail-2.webp",
+      "hash": "555722ba383c8133226455e9e03eaa2a9e9197ee050c3b5a4c8a6e556136f13e",
+      "width": 480,
+      "height": 480,
+      "size": 66540,
+      "createdAt": "2026-07-09T16:43:40Z",
+      "updatedAt": "2026-07-09T16:43:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/detail-3.webp",
+      "hash": "1a9d705afea3bb00c2e0a50f647bdd043bb0839f29dce867035170c448d87c4c",
+      "width": 480,
+      "height": 480,
+      "size": 67454,
+      "createdAt": "2026-07-09T16:43:40Z",
+      "updatedAt": "2026-07-09T16:43:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/detail-4.webp",
+      "hash": "caabce757eb07a914fe8369d7d9b4dfc84ed03567c628efca573b466b374b544",
+      "width": 480,
+      "height": 480,
+      "size": 28230,
+      "createdAt": "2026-07-09T16:43:40Z",
+      "updatedAt": "2026-07-09T16:43:40Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/ac-milan/1998-1999/sem-versao/camisa-retro-ac-milan-iii-1998-1999-masculina-adidas-preta-com-detalhes-1efe581f/detail-5.webp",
+      "hash": "4890b31bad104acdf1c425d1d96405ec29ff326fb2d4e23e58cebc8c57447637",
+      "width": 480,
+      "height": 480,
+      "size": 33228,
+      "createdAt": "2026-07-09T16:43:40Z",
+      "updatedAt": "2026-07-09T16:43:40Z"
+    }
+  ]
+}

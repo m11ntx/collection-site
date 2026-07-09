@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca",
+  "createdAt": "2026-07-09T16:41:58Z",
+  "updatedAt": "2026-07-09T16:41:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/front.webp",
+      "hash": "739c959c700dded1aef300b70ba0a87b3db8b969a58062072b50f1b9f2b25773",
+      "width": 480,
+      "height": 480,
+      "size": 11170,
+      "createdAt": "2026-07-09T16:41:57Z",
+      "updatedAt": "2026-07-09T16:41:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/back.webp",
+      "hash": "8277a0699b27c44c18927d4806e201441ee66e2c7fb43df1002460e8a3dd2a0e",
+      "width": 480,
+      "height": 480,
+      "size": 9324,
+      "createdAt": "2026-07-09T16:41:57Z",
+      "updatedAt": "2026-07-09T16:41:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/detail-1.webp",
+      "hash": "15de2b897e70b369c130f25ff7fe88de59d9a0c8679f38f2991c0cd2731026da",
+      "width": 480,
+      "height": 480,
+      "size": 22922,
+      "createdAt": "2026-07-09T16:41:57Z",
+      "updatedAt": "2026-07-09T16:41:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/detail-2.webp",
+      "hash": "8f62ac72c978de3a2480bc8b7471dff015e9eedf605efbb78d9ea81bfa4b45d4",
+      "width": 480,
+      "height": 480,
+      "size": 18544,
+      "createdAt": "2026-07-09T16:41:57Z",
+      "updatedAt": "2026-07-09T16:41:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/detail-3.webp",
+      "hash": "b3c679c00759e4235cae9bc96356cd818e80559cb53d05d29b880cc1cfdd7fab",
+      "width": 480,
+      "height": 480,
+      "size": 47542,
+      "createdAt": "2026-07-09T16:41:57Z",
+      "updatedAt": "2026-07-09T16:41:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/detail-4.webp",
+      "hash": "2ca9a7066d6d303fdac228a6b9857a96fe9cad25faf4fa70081e08b7c1ec7bf8",
+      "width": 480,
+      "height": 480,
+      "size": 58498,
+      "createdAt": "2026-07-09T16:41:58Z",
+      "updatedAt": "2026-07-09T16:41:58Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/2014-2015/sem-versao/camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca/detail-5.webp",
+      "hash": "6445d2e09dacfa2ec56b49baaa334886c8bc8780423c6f5dc613f479869f502a",
+      "width": 480,
+      "height": 480,
+      "size": 50650,
+      "createdAt": "2026-07-09T16:41:58Z",
+      "updatedAt": "2026-07-09T16:41:58Z"
+    }
+  ]
+}

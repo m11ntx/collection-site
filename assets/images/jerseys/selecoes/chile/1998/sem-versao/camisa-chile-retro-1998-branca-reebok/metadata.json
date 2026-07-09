@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chile-retro-1998-branca-reebok",
+  "createdAt": "2026-07-09T16:36:44Z",
+  "updatedAt": "2026-07-09T16:36:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/front.webp",
+      "hash": "7b2b73553e3e0ac02d1fbbad5f18cc4c528d35ca2eccd80f8118dc2f02def8b9",
+      "width": 480,
+      "height": 480,
+      "size": 9534,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/back.webp",
+      "hash": "98d30e5a33430c4ddbb62adfdb87db5bb2f60923ee1974428ef955ca2b94d42a",
+      "width": 480,
+      "height": 480,
+      "size": 4368,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/detail-1.webp",
+      "hash": "8a795e5c528afcee3d4dd9ede2f47e183136d6494e6e62a0f6325316fc90c1a7",
+      "width": 480,
+      "height": 480,
+      "size": 19580,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/detail-2.webp",
+      "hash": "ad7d12e8acc223e1536367e6bab14bc1beeffb9fd72c094a1d125c22dcfea8bd",
+      "width": 480,
+      "height": 480,
+      "size": 17120,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/detail-3.webp",
+      "hash": "043af9ebe863a5d325ca19a8ceb6dac357ce2e237f6a785ef42197a2f01c9062",
+      "width": 480,
+      "height": 480,
+      "size": 17604,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/detail-4.webp",
+      "hash": "ff1230000790ca348a2d8491b72c80b37dcdfa1b9fcd7a170104b66200918bcc",
+      "width": 480,
+      "height": 480,
+      "size": 28092,
+      "createdAt": "2026-07-09T16:36:43Z",
+      "updatedAt": "2026-07-09T16:36:43Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/chile/1998/sem-versao/camisa-chile-retro-1998-branca-reebok/detail-5.webp",
+      "hash": "8daeed3abdc888c6bbdaa16fb578eb21c8fab05e28c19de3d646080b78146b09",
+      "width": 480,
+      "height": 480,
+      "size": 11990,
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-celtic-retro-1998-1999-verde-e-branca-umbro",
+  "createdAt": "2026-07-09T16:36:31Z",
+  "updatedAt": "2026-07-09T16:36:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/front.webp",
+      "hash": "f39ad539a76664f11cec894e11d1cf9b43c36925587ea89253dcef3598afd0f4",
+      "width": 480,
+      "height": 480,
+      "size": 19772,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/back.webp",
+      "hash": "707c9529d777d10e7aba79118aaf1d5ea50558e8752c8bed62ab0fea7da52362",
+      "width": 480,
+      "height": 480,
+      "size": 14800,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/detail-1.webp",
+      "hash": "30f791403291e45535c2f4cab5081c9edd51de15012a3703c47bb49eb2f9ed88",
+      "width": 480,
+      "height": 480,
+      "size": 29570,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/detail-2.webp",
+      "hash": "c7dcd3a1e1346437fe5b0126c731de9b284d5090012d783a3554dd21e38b4d70",
+      "width": 480,
+      "height": 480,
+      "size": 32726,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/detail-3.webp",
+      "hash": "1e211dcd92c74c1941d8a117e4d308a248421fb9ccf58da2469bbca0238e96e4",
+      "width": 480,
+      "height": 480,
+      "size": 40358,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/detail-4.webp",
+      "hash": "af0dd267c2f4d0517b92d2fd4f604c1e4b0b8b131a17d7a1218ae891744c6a08",
+      "width": 480,
+      "height": 480,
+      "size": 35930,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/scottish-premiership/celtic/1998-1999/sem-versao/camisa-celtic-retro-1998-1999-verde-e-branca-umbro/detail-5.webp",
+      "hash": "39f19582c7b0d8682c6d75c6eaad69af5da648b00e2d2c94b67079a9aa484f97",
+      "width": 480,
+      "height": 480,
+      "size": 20496,
+      "createdAt": "2026-07-09T16:36:30Z",
+      "updatedAt": "2026-07-09T16:36:30Z"
+    }
+  ]
+}

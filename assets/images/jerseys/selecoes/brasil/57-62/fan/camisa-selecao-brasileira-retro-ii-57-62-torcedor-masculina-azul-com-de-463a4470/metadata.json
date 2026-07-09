@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-detalhes-no-brasao-da-cbd",
+  "createdAt": "2026-07-09T16:44:50Z",
+  "updatedAt": "2026-07-09T16:44:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/front.webp",
+      "hash": "f29dac71256223e81f684a8e4a2efd397b27a9157a04cb9a2417bac2474f83b3",
+      "width": 480,
+      "height": 480,
+      "size": 7774,
+      "createdAt": "2026-07-09T16:44:49Z",
+      "updatedAt": "2026-07-09T16:44:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/back.webp",
+      "hash": "5735eef36bd9e68d23cf6b21187ddd0836310191d1b23f37e58a4fa790b21154",
+      "width": 480,
+      "height": 480,
+      "size": 10276,
+      "createdAt": "2026-07-09T16:44:49Z",
+      "updatedAt": "2026-07-09T16:44:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/detail-1.webp",
+      "hash": "4e1ac1dc50df1b9a74d7f49d1782756e16aea9897cd365f3447607eeffd6931a",
+      "width": 480,
+      "height": 480,
+      "size": 5628,
+      "createdAt": "2026-07-09T16:44:49Z",
+      "updatedAt": "2026-07-09T16:44:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/detail-2.webp",
+      "hash": "6d617cdf73e2a8d35e4d42074f12325b4bff49fb8a9ca2bd7a3e4f2d9e5e5d82",
+      "width": 480,
+      "height": 480,
+      "size": 15840,
+      "createdAt": "2026-07-09T16:44:49Z",
+      "updatedAt": "2026-07-09T16:44:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/detail-3.webp",
+      "hash": "0d3f538430a1463a9362d599b42a01e85f6430657acf05e4b19280597662c66c",
+      "width": 480,
+      "height": 480,
+      "size": 72174,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/detail-4.webp",
+      "hash": "ff743f2ab644bce74e24121dbe43392afa027e03faa3bb276146aa2ec7369fdd",
+      "width": 480,
+      "height": 480,
+      "size": 19328,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/57-62/fan/camisa-selecao-brasileira-retro-ii-57-62-torcedor-masculina-azul-com-de-463a4470/detail-5.webp",
+      "hash": "893fd56563cc74b6398ea68acd852a870122536c3049afe64759fd2065985983",
+      "width": 480,
+      "height": 480,
+      "size": 14834,
+      "createdAt": "2026-07-09T16:44:50Z",
+      "updatedAt": "2026-07-09T16:44:50Z"
+    }
+  ]
+}
