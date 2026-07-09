@@ -1,0 +1,57 @@
+{
+  "productId": "source-shorts-milan-24-25-masculino-puma-preto",
+  "createdAt": "2026-07-09T20:44:24Z",
+  "updatedAt": "2026-07-09T20:44:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-milan-24-25-masculino-puma-preto/front.webp",
+      "hash": "e156f9f363cc0d127dc73c5e7c62556106eb673a8bc1beca716dd0715aa73673",
+      "width": 480,
+      "height": 480,
+      "size": 4942,
+      "createdAt": "2026-07-09T20:44:24Z",
+      "updatedAt": "2026-07-09T20:44:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-milan-24-25-masculino-puma-preto/back.webp",
+      "hash": "28fede74d4e5606e8cd87a3db6b92c14edb086a4e4d172f59e27c45a3ca36ead",
+      "width": 480,
+      "height": 480,
+      "size": 4808,
+      "createdAt": "2026-07-09T20:44:24Z",
+      "updatedAt": "2026-07-09T20:44:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-milan-24-25-masculino-puma-preto/detail-1.webp",
+      "hash": "ef45b45760a90747bda638c61bd20d73430cd9bd229874285f8a55cb80ca8dac",
+      "width": 480,
+      "height": 480,
+      "size": 21416,
+      "createdAt": "2026-07-09T20:44:24Z",
+      "updatedAt": "2026-07-09T20:44:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-milan-24-25-masculino-puma-preto/detail-2.webp",
+      "hash": "7860b034879a939d88e195c3d75e2d48f7da8c57c076de303bcb55d50b4adf79",
+      "width": 480,
+      "height": 480,
+      "size": 14452,
+      "createdAt": "2026-07-09T20:44:24Z",
+      "updatedAt": "2026-07-09T20:44:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-milan-24-25-masculino-puma-preto/detail-3.webp",
+      "hash": "30516f7cfc464d2b8bba24c42235a9aac631c4e398dab619bb0f4f1e3b539dc5",
+      "width": 480,
+      "height": 480,
+      "size": 15974,
+      "createdAt": "2026-07-09T20:44:24Z",
+      "updatedAt": "2026-07-09T20:44:24Z"
+    }
+  ]
+}

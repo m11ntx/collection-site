@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-espanha-adidas-24-25-azul-com-detalhes-em-vermelho-e-laranja",
+  "createdAt": "2026-07-09T20:45:04Z",
+  "updatedAt": "2026-07-09T20:45:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-espanha-adidas-24-25-azul-com-f349a7eb/front.webp",
+      "hash": "d960a1372f1573ed9a2c38bf5d90d544ede0617a60728376b70fcad618247be9",
+      "width": 480,
+      "height": 480,
+      "size": 8294,
+      "createdAt": "2026-07-09T20:45:03Z",
+      "updatedAt": "2026-07-09T20:45:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-espanha-adidas-24-25-azul-com-f349a7eb/back.webp",
+      "hash": "cd5b42712a5819cce0e3aff030c97049f59b565df02d93ceba00e048dc1813f6",
+      "width": 480,
+      "height": 480,
+      "size": 9456,
+      "createdAt": "2026-07-09T20:45:03Z",
+      "updatedAt": "2026-07-09T20:45:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-espanha-adidas-24-25-azul-com-f349a7eb/detail-1.webp",
+      "hash": "c0f26ccd81add02112c2522a1e6cc90df97e573c0bb654a243226fb68b472925",
+      "width": 480,
+      "height": 480,
+      "size": 5188,
+      "createdAt": "2026-07-09T20:45:04Z",
+      "updatedAt": "2026-07-09T20:45:04Z"
+    }
+  ]
+}

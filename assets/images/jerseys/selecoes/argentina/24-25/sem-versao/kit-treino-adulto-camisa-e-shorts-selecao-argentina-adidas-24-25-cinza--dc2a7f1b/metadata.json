@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-cinza-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:45:02Z",
+  "updatedAt": "2026-07-09T20:45:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-cinza--dc2a7f1b/front.webp",
+      "hash": "4f82bed9928dac6ccce27de3d1ed05d7d3ff1e9ec961e06b684384ebb395672f",
+      "width": 480,
+      "height": 480,
+      "size": 8674,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-cinza--dc2a7f1b/back.webp",
+      "hash": "9ebf797eb0ba4393e863ecbba29da82b90fca3f5896dc4ad1217587f249ea50d",
+      "width": 480,
+      "height": 480,
+      "size": 9340,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-cinza--dc2a7f1b/detail-1.webp",
+      "hash": "92198febf00b2188ccaeaf8f694cc8210e4ef8676909bba010096fcb0f80a928",
+      "width": 480,
+      "height": 480,
+      "size": 5530,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    }
+  ]
+}

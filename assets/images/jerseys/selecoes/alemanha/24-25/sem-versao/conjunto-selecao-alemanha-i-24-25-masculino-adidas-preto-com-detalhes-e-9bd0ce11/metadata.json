@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-selecao-alemanha-i-24-25-masculino-adidas-preto-com-detalhes-em-amarelo-e-vermelho",
+  "createdAt": "2026-07-09T20:44:53Z",
+  "updatedAt": "2026-07-09T20:44:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/conjunto-selecao-alemanha-i-24-25-masculino-adidas-preto-com-detalhes-e-9bd0ce11/front.webp",
+      "hash": "2bddc1fd7cd08cb5a84d34fb687c812da772eaeecf6b2e8cf687444960217689",
+      "width": 480,
+      "height": 480,
+      "size": 10808,
+      "createdAt": "2026-07-09T20:44:53Z",
+      "updatedAt": "2026-07-09T20:44:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/conjunto-selecao-alemanha-i-24-25-masculino-adidas-preto-com-detalhes-e-9bd0ce11/back.webp",
+      "hash": "4e094d60ae4fac6323cd375c9fef5831bc4e7dd6f5c037b11e176bb545a6fa40",
+      "width": 480,
+      "height": 480,
+      "size": 7820,
+      "createdAt": "2026-07-09T20:44:53Z",
+      "updatedAt": "2026-07-09T20:44:53Z"
+    }
+  ]
+}

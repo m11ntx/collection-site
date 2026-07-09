@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-ii-manga-longa-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-amarelo-e-azul",
+  "createdAt": "2026-07-09T20:44:04Z",
+  "updatedAt": "2026-07-09T20:44:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-ii-manga-longa-24-25-torcedor-adidas-masculina-bran-209f81a2/front.webp",
+      "hash": "a8183086f98a316ec08b7308c2b2a9485e7645e77aa4b27e6074a14ab38c20c1",
+      "width": 480,
+      "height": 480,
+      "size": 10512,
+      "createdAt": "2026-07-09T20:44:04Z",
+      "updatedAt": "2026-07-09T20:44:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-ii-manga-longa-24-25-torcedor-adidas-masculina-bran-209f81a2/back.webp",
+      "hash": "0947970e2813568bfc71e0b42967c47dbfd19153bdfa861c5a2eaf5b989e026c",
+      "width": 480,
+      "height": 480,
+      "size": 4062,
+      "createdAt": "2026-07-09T20:44:04Z",
+      "updatedAt": "2026-07-09T20:44:04Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-alemanha-ii-24-25-masculina-adidas-roxa-e-rosa",
+  "createdAt": "2026-07-09T20:45:14Z",
+  "updatedAt": "2026-07-09T20:45:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/jaqueta-corta-vento-selecao-alemanha-ii-24-25-masculina-adidas-roxa-e-rosa/front.webp",
+      "hash": "64cd15da0faea6f8e783c6ed76e40cb8f0db3bf2c22df980ef4b62768030e7b7",
+      "width": 480,
+      "height": 480,
+      "size": 15528,
+      "createdAt": "2026-07-09T20:45:14Z",
+      "updatedAt": "2026-07-09T20:45:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/jaqueta-corta-vento-selecao-alemanha-ii-24-25-masculina-adidas-roxa-e-rosa/back.webp",
+      "hash": "021b2dfedeeb47dd207f6b54e68831f92e44cf1d43ac58613b0d71800889fb6b",
+      "width": 480,
+      "height": 480,
+      "size": 9036,
+      "createdAt": "2026-07-09T20:45:14Z",
+      "updatedAt": "2026-07-09T20:45:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/jaqueta-corta-vento-selecao-alemanha-ii-24-25-masculina-adidas-roxa-e-rosa/detail-1.webp",
+      "hash": "c4596047a08e934b14ac716fa922ce1f3eff40a86fd864d13d3650fd89bd48de",
+      "width": 480,
+      "height": 480,
+      "size": 20216,
+      "createdAt": "2026-07-09T20:45:14Z",
+      "updatedAt": "2026-07-09T20:45:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/jaqueta-corta-vento-selecao-alemanha-ii-24-25-masculina-adidas-roxa-e-rosa/detail-2.webp",
+      "hash": "363a3a4874f257f1abf534aca15224bacfed57dd15d427b8e9e433b6944e51fd",
+      "width": 480,
+      "height": 480,
+      "size": 26760,
+      "createdAt": "2026-07-09T20:45:14Z",
+      "updatedAt": "2026-07-09T20:45:14Z"
+    }
+  ]
+}

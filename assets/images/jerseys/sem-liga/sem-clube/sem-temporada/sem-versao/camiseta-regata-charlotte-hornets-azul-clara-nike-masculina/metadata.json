@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-charlotte-hornets-azul-clara-nike-masculina",
+  "createdAt": "2026-07-09T20:43:41Z",
+  "updatedAt": "2026-07-09T20:43:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/front.webp",
+      "hash": "75c7271810a9d71ca3e0620916ab15c39d0bffba58ae2892a617bf9366c23a92",
+      "width": 480,
+      "height": 480,
+      "size": 14382,
+      "createdAt": "2026-07-09T20:43:40Z",
+      "updatedAt": "2026-07-09T20:43:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/back.webp",
+      "hash": "fb57a587db948b7eaf573a623908c21889770398a40766fdd52de648193e65ad",
+      "width": 480,
+      "height": 480,
+      "size": 16266,
+      "createdAt": "2026-07-09T20:43:40Z",
+      "updatedAt": "2026-07-09T20:43:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/detail-1.webp",
+      "hash": "bfeb93aa010399a5ba1045144491f82c14fd0138faab371707533dff73693463",
+      "width": 480,
+      "height": 480,
+      "size": 26084,
+      "createdAt": "2026-07-09T20:43:40Z",
+      "updatedAt": "2026-07-09T20:43:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/detail-2.webp",
+      "hash": "6da42ac598b3a274f45863b3207502f28aea2d8e5bbd8b148a976e25c69da366",
+      "width": 480,
+      "height": 480,
+      "size": 29600,
+      "createdAt": "2026-07-09T20:43:40Z",
+      "updatedAt": "2026-07-09T20:43:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/detail-3.webp",
+      "hash": "2b495157dceaf8765d146c8e6e7a0639d363a0d937e5801d5d8f823a846f91aa",
+      "width": 480,
+      "height": 480,
+      "size": 30318,
+      "createdAt": "2026-07-09T20:43:40Z",
+      "updatedAt": "2026-07-09T20:43:40Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-azul-clara-nike-masculina/detail-4.webp",
+      "hash": "31197e6c7cfbcd2f1e2b07467381c296b501afe55423bfaebb9e17bcf2d799fd",
+      "width": 480,
+      "height": 480,
+      "size": 42418,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    }
+  ]
+}

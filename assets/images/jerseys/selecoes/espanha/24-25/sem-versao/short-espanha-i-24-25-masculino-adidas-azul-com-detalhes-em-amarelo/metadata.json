@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-espanha-i-24-25-masculino-adidas-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T20:44:19Z",
+  "updatedAt": "2026-07-09T20:44:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/short-espanha-i-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "d1a907ae8cac21de38eb4dbe9b4756b8dad269dbbee75d3dfbabd800ad4fc9da",
+      "width": 480,
+      "height": 480,
+      "size": 12102,
+      "createdAt": "2026-07-09T20:44:18Z",
+      "updatedAt": "2026-07-09T20:44:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/short-espanha-i-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "d7af85b329c3fed12329d84620f3bd6e696ff94e9a59a3fa4d62f8a9b36ca5f8",
+      "width": 480,
+      "height": 480,
+      "size": 9944,
+      "createdAt": "2026-07-09T20:44:19Z",
+      "updatedAt": "2026-07-09T20:44:19Z"
+    }
+  ]
+}

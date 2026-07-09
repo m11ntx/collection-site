@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-espanha-ii-24-25-masculina-puma-amarela-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T20:45:16Z",
+  "updatedAt": "2026-07-09T20:45:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/jaqueta-corta-vento-selecao-espanha-ii-24-25-masculina-puma-amarela-com-e17694d9/front.webp",
+      "hash": "aceb5d840fd1e79f29dc1dd6366ed328a229f88be5e1d29d573a9c4779a2f249",
+      "width": 480,
+      "height": 480,
+      "size": 7918,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/jaqueta-corta-vento-selecao-espanha-ii-24-25-masculina-puma-amarela-com-e17694d9/back.webp",
+      "hash": "1739eb87a98d70823e5559139322e6d9580447ef5d55db924209eee300233c4c",
+      "width": 480,
+      "height": 480,
+      "size": 7506,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/jaqueta-corta-vento-selecao-espanha-ii-24-25-masculina-puma-amarela-com-e17694d9/detail-1.webp",
+      "hash": "02c9e57d5bcdb501a9f6663a85645fc20c89e1b5e8490de097ee667c2fa9d187",
+      "width": 480,
+      "height": 480,
+      "size": 12462,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/jaqueta-corta-vento-selecao-espanha-ii-24-25-masculina-puma-amarela-com-e17694d9/detail-2.webp",
+      "hash": "daeec0e70461dded54a7d598801d2b04d8f93266039df9fbb61996a2d842b0fd",
+      "width": 480,
+      "height": 480,
+      "size": 22624,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T20:44:12Z",
+  "updatedAt": "2026-07-09T20:44:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalh-52573c6c/front.webp",
+      "hash": "2b5c4a1f247df3ab51932132fc4918e725ce7bc973f986fb5ad79c1333577fb8",
+      "width": 480,
+      "height": 480,
+      "size": 7976,
+      "createdAt": "2026-07-09T20:44:12Z",
+      "updatedAt": "2026-07-09T20:44:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalh-52573c6c/back.webp",
+      "hash": "4dbbb901b2025cd71bdd14e08f270fbaf33191fcbd76514ec3204c46292a10f6",
+      "width": 480,
+      "height": 480,
+      "size": 6110,
+      "createdAt": "2026-07-09T20:44:12Z",
+      "updatedAt": "2026-07-09T20:44:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalh-52573c6c/detail-1.webp",
+      "hash": "d2d66e1ef54a2679220ed97e645e59575640d2f8789002b1fbc0aee580140be4",
+      "width": 480,
+      "height": 480,
+      "size": 14422,
+      "createdAt": "2026-07-09T20:44:12Z",
+      "updatedAt": "2026-07-09T20:44:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalh-52573c6c/detail-2.webp",
+      "hash": "170f1ff0aa8fa89ffdc8d112f1b2ce34915ddd64ff89d12d9edc8f3c64aeead4",
+      "width": 480,
+      "height": 480,
+      "size": 17434,
+      "createdAt": "2026-07-09T20:44:12Z",
+      "updatedAt": "2026-07-09T20:44:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/jaqueta-corta-vento-inter-miami-24-25-masculina-adidas-preta-com-detalh-52573c6c/detail-3.webp",
+      "hash": "2549bf64b0c5b22e166f7f09fcc6e6d8c50af4505bef976ec191f50dfb26196b",
+      "width": 480,
+      "height": 480,
+      "size": 10730,
+      "createdAt": "2026-07-09T20:44:12Z",
+      "updatedAt": "2026-07-09T20:44:12Z"
+    }
+  ]
+}

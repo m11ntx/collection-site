@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T20:44:35Z",
+  "updatedAt": "2026-07-09T20:44:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/front.webp",
+      "hash": "da23ef85e5bbe90a8338a7b1fba871979e2f03f387c9f7b365787390ba06fc46",
+      "width": 480,
+      "height": 480,
+      "size": 11368,
+      "createdAt": "2026-07-09T20:44:33Z",
+      "updatedAt": "2026-07-09T20:44:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/back.webp",
+      "hash": "c3b408fe9af101ffd5f5169567e1df96ce4b5322abeae68d3f57c985a968347e",
+      "width": 480,
+      "height": 480,
+      "size": 5674,
+      "createdAt": "2026-07-09T20:44:33Z",
+      "updatedAt": "2026-07-09T20:44:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/detail-1.webp",
+      "hash": "a9d9b04cbef6e73ab12ae78b7099a5bb7aa8e03ca3df466e498a6ed84ad7e636",
+      "width": 480,
+      "height": 480,
+      "size": 14594,
+      "createdAt": "2026-07-09T20:44:34Z",
+      "updatedAt": "2026-07-09T20:44:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/detail-2.webp",
+      "hash": "99aefe60f19680403f5575440acb86bcfabf32d007c0e1c8e5a9e2f7da5eb497",
+      "width": 480,
+      "height": 480,
+      "size": 23248,
+      "createdAt": "2026-07-09T20:44:34Z",
+      "updatedAt": "2026-07-09T20:44:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/detail-3.webp",
+      "hash": "0a60bef0c13b51ab2d2354736ba38e2d682060d7e870ff04aad9dd699c0a4956",
+      "width": 480,
+      "height": 480,
+      "size": 9338,
+      "createdAt": "2026-07-09T20:44:34Z",
+      "updatedAt": "2026-07-09T20:44:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/detail-4.webp",
+      "hash": "09762a26c9c8b77599950f7b5a7b39dae3aa43970c672d816c3f25a3af3e2deb",
+      "width": 480,
+      "height": 480,
+      "size": 12616,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/inglaterra/1998/sem-versao/camisa-retro-selecao-da-inglaterra-i-1998-manga-longa-masculina-umbro-b-5892f2c9/detail-5.webp",
+      "hash": "d9c2415c0c7fd896060ddc17096094ea8feae799c33ada693984207d17774a35",
+      "width": 480,
+      "height": 480,
+      "size": 8284,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    }
+  ]
+}

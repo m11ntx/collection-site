@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-paris-saint-german-24-25-masculino-jordan-branco-e-preto",
+  "createdAt": "2026-07-09T20:44:50Z",
+  "updatedAt": "2026-07-09T20:44:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-24-25-masculino-jordan-branco-e-preto/front.webp",
+      "hash": "bb02853deaa72fb04955cb8b24345e6c6b17ff63bc544bf8d9954a9a6d9ea794",
+      "width": 480,
+      "height": 480,
+      "size": 9266,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-24-25-masculino-jordan-branco-e-preto/back.webp",
+      "hash": "1a8da746c3c56700034ca9a49b3b6223dd21f7c67351da9eecacec97a864f429",
+      "width": 480,
+      "height": 480,
+      "size": 5994,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    }
+  ]
+}

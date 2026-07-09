@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-selecao-alemanha-treino-24-25-masculino-adidas-branco-e-preto-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T20:44:53Z",
+  "updatedAt": "2026-07-09T20:44:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/conjunto-selecao-alemanha-treino-24-25-masculino-adidas-branco-e-preto--54a1f5d2/front.webp",
+      "hash": "f37ce43c7b1fd95d1019384a6c82cc76d3d8d9584098b579db7c596e5530d0eb",
+      "width": 480,
+      "height": 480,
+      "size": 13908,
+      "createdAt": "2026-07-09T20:44:53Z",
+      "updatedAt": "2026-07-09T20:44:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/sem-versao/conjunto-selecao-alemanha-treino-24-25-masculino-adidas-branco-e-preto--54a1f5d2/back.webp",
+      "hash": "2c8bba255e5193b346499089313aeed10520e06e16a52714dbeaab09383d2e06",
+      "width": 480,
+      "height": 480,
+      "size": 7988,
+      "createdAt": "2026-07-09T20:44:53Z",
+      "updatedAt": "2026-07-09T20:44:53Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-italia-i-24-25-masculina-adidas-azul",
+  "createdAt": "2026-07-09T20:45:19Z",
+  "updatedAt": "2026-07-09T20:45:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-italia-i-24-25-masculina-adidas-azul/front.webp",
+      "hash": "6a09e3c34f42431887377d2dd5ecbb5858fa625914349fcbf95eeb9dc17fd7d2",
+      "width": 480,
+      "height": 480,
+      "size": 13408,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-italia-i-24-25-masculina-adidas-azul/back.webp",
+      "hash": "d2123dcf920d57c7f5133fb155580af8ff81ab3ce304861b38678447be66eb14",
+      "width": 480,
+      "height": 480,
+      "size": 8596,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    }
+  ]
+}

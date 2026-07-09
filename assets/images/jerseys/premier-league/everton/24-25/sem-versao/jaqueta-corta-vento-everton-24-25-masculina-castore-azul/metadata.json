@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-everton-24-25-masculina-castore-azul",
+  "createdAt": "2026-07-09T20:44:11Z",
+  "updatedAt": "2026-07-09T20:44:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/sem-versao/jaqueta-corta-vento-everton-24-25-masculina-castore-azul/front.webp",
+      "hash": "42544aafc7f7da0046598245db99c5ad68c78377d5be0aaf87e39f116ff275c2",
+      "width": 480,
+      "height": 480,
+      "size": 8418,
+      "createdAt": "2026-07-09T20:44:11Z",
+      "updatedAt": "2026-07-09T20:44:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/sem-versao/jaqueta-corta-vento-everton-24-25-masculina-castore-azul/back.webp",
+      "hash": "10707067b8bd7b92439c07e18558497c22b4676c234cab934b403dc3a28467b7",
+      "width": 480,
+      "height": 480,
+      "size": 5734,
+      "createdAt": "2026-07-09T20:44:11Z",
+      "updatedAt": "2026-07-09T20:44:11Z"
+    }
+  ]
+}

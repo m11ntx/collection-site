@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina-vinho-com-detalhes-em-verde-e-branco",
+  "createdAt": "2026-07-09T20:45:11Z",
+  "updatedAt": "2026-07-09T20:45:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/front.webp",
+      "hash": "4d936d1ff31261744668dad2f7a0e9ab179314655824263bb6d5df277f144bcb",
+      "width": 480,
+      "height": 480,
+      "size": 15494,
+      "createdAt": "2026-07-09T20:45:10Z",
+      "updatedAt": "2026-07-09T20:45:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/back.webp",
+      "hash": "701e43733f7e08088e428eab6eb6c012339f7e455959f9b40260cbc9744d4fd0",
+      "width": 480,
+      "height": 480,
+      "size": 12844,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/detail-1.webp",
+      "hash": "13ce8f9674e0e39aa921a64e4557b3456ff0a9863b6928113467b8fa8440e754",
+      "width": 480,
+      "height": 480,
+      "size": 58010,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/detail-2.webp",
+      "hash": "7040fdd9e9d12297e0a697a0e311d04859a5cc97ff64f2f043fc0b9ed9124733",
+      "width": 480,
+      "height": 480,
+      "size": 64610,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/detail-3.webp",
+      "hash": "5e1bfb6f4c293d0f95aabdd28064b34a1f6d4d95b14238b8679f1dfe79905190",
+      "width": 480,
+      "height": 480,
+      "size": 18012,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/detail-4.webp",
+      "hash": "3e746192be838f4b68163fea7761ba7dc6c95498205c0782d68267410de2a937",
+      "width": 480,
+      "height": 480,
+      "size": 25902,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/fan/camisa-selecao-do-mexico-i-24-25-manga-longa-torcedor-adidas-masculina--888e1721/detail-5.webp",
+      "hash": "0006654c7c4b4ed70da6419f0d61936ab6cf4302cbe3b5c41605849b9f3de371",
+      "width": 480,
+      "height": 480,
+      "size": 22966,
+      "createdAt": "2026-07-09T20:45:11Z",
+      "updatedAt": "2026-07-09T20:45:11Z"
+    }
+  ]
+}

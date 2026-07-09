@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-selecao-inglaterra-treino-24-25-masculino-nike-azul-com-detalhes-em-vinho",
+  "createdAt": "2026-07-09T20:44:54Z",
+  "updatedAt": "2026-07-09T20:44:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/conjunto-selecao-inglaterra-treino-24-25-masculino-nike-azul-com-detalh-58a578ff/front.webp",
+      "hash": "2b2920e8def1ed4e77c1df63b8b504616e4c42af2301be8cf6fe453e2ec85041",
+      "width": 480,
+      "height": 480,
+      "size": 9848,
+      "createdAt": "2026-07-09T20:44:54Z",
+      "updatedAt": "2026-07-09T20:44:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/conjunto-selecao-inglaterra-treino-24-25-masculino-nike-azul-com-detalh-58a578ff/back.webp",
+      "hash": "f054a31773e52a4b70e26f497cb0fd099d72b1aa246fc208f36623c55aaa700b",
+      "width": 480,
+      "height": 480,
+      "size": 8128,
+      "createdAt": "2026-07-09T20:44:54Z",
+      "updatedAt": "2026-07-09T20:44:54Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-conjunto-paris-saint-german-treino-24-25-masculino-nike-azul-e-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T20:44:52Z",
+  "updatedAt": "2026-07-09T20:44:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-nike-azul-e-preto-co-7e595d5b/front.webp",
+      "hash": "8872c3c5be15ef83de2438b65fc5a1aafc951ac7976de3eb040ae462d56e0adb",
+      "width": 480,
+      "height": 480,
+      "size": 10838,
+      "createdAt": "2026-07-09T20:44:52Z",
+      "updatedAt": "2026-07-09T20:44:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-nike-azul-e-preto-co-7e595d5b/back.webp",
+      "hash": "fc172e0b4e96d6a819f71ac678280db857a22f3dae31bd48a6ed48514a19535f",
+      "width": 480,
+      "height": 480,
+      "size": 9094,
+      "createdAt": "2026-07-09T20:44:52Z",
+      "updatedAt": "2026-07-09T20:44:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-nike-azul-e-preto-co-7e595d5b/detail-1.webp",
+      "hash": "a405c3c904f3da8dcc79778995cc17210141d4fd974c5f4fa0dae4e6c41c840a",
+      "width": 480,
+      "height": 320,
+      "size": 9448,
+      "createdAt": "2026-07-09T20:44:52Z",
+      "updatedAt": "2026-07-09T20:44:52Z"
+    }
+  ]
+}

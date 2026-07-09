@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-vermelho-e-preto-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T20:45:09Z",
+  "updatedAt": "2026-07-09T20:45:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-vermelho--3167854a/front.webp",
+      "hash": "2fbfc8d81254e0e872e762d0b522afe1ec03983a652bbee26ca90687f13d5f8b",
+      "width": 480,
+      "height": 480,
+      "size": 8300,
+      "createdAt": "2026-07-09T20:45:08Z",
+      "updatedAt": "2026-07-09T20:45:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-vermelho--3167854a/back.webp",
+      "hash": "3dcba281a06219af6902d2ade554a600cbe73a5e71af2172e7100445bb6a21b6",
+      "width": 480,
+      "height": 480,
+      "size": 8828,
+      "createdAt": "2026-07-09T20:45:08Z",
+      "updatedAt": "2026-07-09T20:45:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-vermelho--3167854a/detail-1.webp",
+      "hash": "69bc6ac3b005e47f6a7b8fb493aaeedeedea2fe095156959ed925686f569e0fd",
+      "width": 480,
+      "height": 480,
+      "size": 5912,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    }
+  ]
+}

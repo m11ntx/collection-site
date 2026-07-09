@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-boca-juniors-24-25-masculino-adidas-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T20:44:27Z",
+  "updatedAt": "2026-07-09T20:44:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/conjunto-boca-juniors-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "20720c517a0c5c65a1de0361a08055378081cc1bc82ca84000240fc928dd8e40",
+      "width": 480,
+      "height": 480,
+      "size": 11758,
+      "createdAt": "2026-07-09T20:44:27Z",
+      "updatedAt": "2026-07-09T20:44:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/conjunto-boca-juniors-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "b514b9d25ad96ed402d5dbcc1af3d73455c254c4e03718faed84a2767099835c",
+      "width": 480,
+      "height": 480,
+      "size": 9464,
+      "createdAt": "2026-07-09T20:44:27Z",
+      "updatedAt": "2026-07-09T20:44:27Z"
+    }
+  ]
+}

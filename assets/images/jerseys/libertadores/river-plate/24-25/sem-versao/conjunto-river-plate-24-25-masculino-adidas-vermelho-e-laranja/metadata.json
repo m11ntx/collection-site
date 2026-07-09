@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-river-plate-24-25-masculino-adidas-vermelho-e-laranja",
+  "createdAt": "2026-07-09T20:44:28Z",
+  "updatedAt": "2026-07-09T20:44:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/conjunto-river-plate-24-25-masculino-adidas-vermelho-e-laranja/front.webp",
+      "hash": "e5917a4b4a35d4afa56fb7616e30fc96d0e29cb652fdf64d573c59f2094267d2",
+      "width": 480,
+      "height": 480,
+      "size": 11492,
+      "createdAt": "2026-07-09T20:44:28Z",
+      "updatedAt": "2026-07-09T20:44:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/conjunto-river-plate-24-25-masculino-adidas-vermelho-e-laranja/back.webp",
+      "hash": "4696d1ab1ece87035e0a8092acd033773bfb77dd2d5f2c79e444f8f23df02cba",
+      "width": 480,
+      "height": 480,
+      "size": 8276,
+      "createdAt": "2026-07-09T20:44:28Z",
+      "updatedAt": "2026-07-09T20:44:28Z"
+    }
+  ]
+}

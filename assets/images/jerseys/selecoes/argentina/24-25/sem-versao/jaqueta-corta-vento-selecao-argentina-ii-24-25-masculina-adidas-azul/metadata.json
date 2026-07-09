@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-argentina-ii-24-25-masculina-adidas-azul",
+  "createdAt": "2026-07-09T20:45:15Z",
+  "updatedAt": "2026-07-09T20:45:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/jaqueta-corta-vento-selecao-argentina-ii-24-25-masculina-adidas-azul/front.webp",
+      "hash": "e0e6997dfce1ac1bf2f40e84ed2447b2c453ae684d211d4e2b2f461011629f45",
+      "width": 480,
+      "height": 578,
+      "size": 20142,
+      "createdAt": "2026-07-09T20:45:14Z",
+      "updatedAt": "2026-07-09T20:45:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/jaqueta-corta-vento-selecao-argentina-ii-24-25-masculina-adidas-azul/back.webp",
+      "hash": "0afd0e94d58178a2f54f1c68ab26da3770e20658a94e9ada881c2a141ef91a11",
+      "width": 480,
+      "height": 538,
+      "size": 13130,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/jaqueta-corta-vento-selecao-argentina-ii-24-25-masculina-adidas-azul/detail-1.webp",
+      "hash": "c5e29a4fd5eb45145377f06726859fbe50b604caa6efa14dc8fc6304cdf5c014",
+      "width": 480,
+      "height": 480,
+      "size": 8656,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/jaqueta-corta-vento-selecao-argentina-ii-24-25-masculina-adidas-azul/detail-2.webp",
+      "hash": "1cfcb06445431810053e1c117b8793c20669610c6a65dc2ca5a6f2161dc828bc",
+      "width": 480,
+      "height": 480,
+      "size": 19792,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    }
+  ]
+}

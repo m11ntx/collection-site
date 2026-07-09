@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-selecao-argentina-treino-24-25-masculino-adidas-bege",
+  "createdAt": "2026-07-09T20:45:13Z",
+  "updatedAt": "2026-07-09T20:45:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/conjunto-selecao-argentina-treino-24-25-masculino-adidas-bege/front.webp",
+      "hash": "89debcd2a82bd40f718dfa7b3d7c397076758ea57202bcd13695a1c7deb4010a",
+      "width": 480,
+      "height": 480,
+      "size": 12904,
+      "createdAt": "2026-07-09T20:45:13Z",
+      "updatedAt": "2026-07-09T20:45:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/conjunto-selecao-argentina-treino-24-25-masculino-adidas-bege/back.webp",
+      "hash": "fc1513428cbf69850efc2ea261e6fd08fb8fcbb10366abd755e87c0d697f71c9",
+      "width": 480,
+      "height": 480,
+      "size": 6948,
+      "createdAt": "2026-07-09T20:45:13Z",
+      "updatedAt": "2026-07-09T20:45:13Z"
+    }
+  ]
+}

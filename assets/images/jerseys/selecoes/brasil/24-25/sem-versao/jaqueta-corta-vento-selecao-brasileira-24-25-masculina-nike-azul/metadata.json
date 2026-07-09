@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-brasileira-24-25-masculina-nike-azul",
+  "createdAt": "2026-07-09T20:44:29Z",
+  "updatedAt": "2026-07-09T20:44:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-24-25-masculina-nike-azul/front.webp",
+      "hash": "65aeff045008549083c0699607452f4a3158cecc6bbc2bfc02eadc408b9877c3",
+      "width": 480,
+      "height": 480,
+      "size": 17896,
+      "createdAt": "2026-07-09T20:44:29Z",
+      "updatedAt": "2026-07-09T20:44:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-24-25-masculina-nike-azul/back.webp",
+      "hash": "7975f558dadee73ce4d1116f33db08f18a80474c35e63b4ca1013be83147a1cc",
+      "width": 480,
+      "height": 480,
+      "size": 20226,
+      "createdAt": "2026-07-09T20:44:29Z",
+      "updatedAt": "2026-07-09T20:44:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-24-25-masculina-nike-azul/detail-1.webp",
+      "hash": "0dbef7da52ab5ae5f1cd18e9b96b6442a57c6a9c32cedb27d741537e12224de2",
+      "width": 480,
+      "height": 480,
+      "size": 26912,
+      "createdAt": "2026-07-09T20:44:29Z",
+      "updatedAt": "2026-07-09T20:44:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-24-25-masculina-nike-azul/detail-2.webp",
+      "hash": "6ada2013dd436fa1ab2cf00cc6fb9ddf57d2c34c8cf5a9a0fb6dcf4587446d71",
+      "width": 480,
+      "height": 480,
+      "size": 17154,
+      "createdAt": "2026-07-09T20:44:29Z",
+      "updatedAt": "2026-07-09T20:44:29Z"
+    }
+  ]
+}

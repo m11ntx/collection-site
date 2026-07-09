@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-longa-masculina-jordan-preta-com-detalhes-em-branco-e-vermelho",
+  "createdAt": "2026-07-09T20:44:41Z",
+  "updatedAt": "2026-07-09T20:44:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/front.webp",
+      "hash": "be47c573048e3c152ff32cd3bcb8210bced1301d6b4e1b4b76c4afcce2fbdf78",
+      "width": 480,
+      "height": 480,
+      "size": 6490,
+      "createdAt": "2026-07-09T20:44:40Z",
+      "updatedAt": "2026-07-09T20:44:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/back.webp",
+      "hash": "bebe93e7aa086a48f01f81d1b76ddf6fbb8430748604e31533611a79af161fee",
+      "width": 480,
+      "height": 480,
+      "size": 15898,
+      "createdAt": "2026-07-09T20:44:40Z",
+      "updatedAt": "2026-07-09T20:44:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/detail-1.webp",
+      "hash": "3cba357d316541c254763c1c41e17fea1664d1bebcc244f5984c9d603522db5a",
+      "width": 480,
+      "height": 480,
+      "size": 3972,
+      "createdAt": "2026-07-09T20:44:40Z",
+      "updatedAt": "2026-07-09T20:44:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/detail-2.webp",
+      "hash": "0c464589982479551fb133b33378a01c6f06ba68f76c291744fc054c52893ecd",
+      "width": 480,
+      "height": 480,
+      "size": 75956,
+      "createdAt": "2026-07-09T20:44:41Z",
+      "updatedAt": "2026-07-09T20:44:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/detail-3.webp",
+      "hash": "a838071cfaa47d002a05e6c22c8f191dc96ac01aae6336be2822efb785ce747b",
+      "width": 480,
+      "height": 480,
+      "size": 37698,
+      "createdAt": "2026-07-09T20:44:41Z",
+      "updatedAt": "2026-07-09T20:44:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/2018-2019/sem-versao/camisa-retro-paris-saint-german-edicao-champions-league-2018-2019-manga-dde61517/detail-4.webp",
+      "hash": "524152bf9e2d89e2162d7b6b8fcee15c0c0951a703d84430856d2229412c2c1f",
+      "width": 480,
+      "height": 480,
+      "size": 37960,
+      "createdAt": "2026-07-09T20:44:41Z",
+      "updatedAt": "2026-07-09T20:44:41Z"
+    }
+  ]
+}

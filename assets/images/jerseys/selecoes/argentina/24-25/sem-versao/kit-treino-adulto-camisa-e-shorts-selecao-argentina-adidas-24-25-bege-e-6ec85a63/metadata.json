@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-bege-e-preto-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:45:02Z",
+  "updatedAt": "2026-07-09T20:45:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-bege-e-6ec85a63/front.webp",
+      "hash": "f0b37f5da325f623a0231afcc5a0a089672c22763bb4c2afa81338a4714ddef7",
+      "width": 480,
+      "height": 480,
+      "size": 8174,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-bege-e-6ec85a63/back.webp",
+      "hash": "79b9d2193dd152b924381428e124fd4f798e81d6decc4ebfffa4a7314f99b6fc",
+      "width": 480,
+      "height": 480,
+      "size": 8928,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-argentina-adidas-24-25-bege-e-6ec85a63/detail-1.webp",
+      "hash": "ff1036ccafc303a6724bc9634704228fef48aebfba7e5816cf04e777cbf1e45d",
+      "width": 480,
+      "height": 480,
+      "size": 5438,
+      "createdAt": "2026-07-09T20:45:02Z",
+      "updatedAt": "2026-07-09T20:45:02Z"
+    }
+  ]
+}

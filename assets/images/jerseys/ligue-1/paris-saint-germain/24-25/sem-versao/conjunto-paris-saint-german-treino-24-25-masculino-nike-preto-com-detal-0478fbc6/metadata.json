@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-paris-saint-german-treino-24-25-masculino-nike-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T20:44:52Z",
+  "updatedAt": "2026-07-09T20:44:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-nike-preto-com-detal-0478fbc6/front.webp",
+      "hash": "838741ec8ea88920fcbe1e5a20263b301e777d818b7a4f7f501ca54e69056dbb",
+      "width": 480,
+      "height": 480,
+      "size": 10208,
+      "createdAt": "2026-07-09T20:44:52Z",
+      "updatedAt": "2026-07-09T20:44:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-nike-preto-com-detal-0478fbc6/back.webp",
+      "hash": "dc6743d002e21ff1ce54f21648eeb3c1c868454996e5b5d1c4407ae3cb075cfd",
+      "width": 480,
+      "height": 480,
+      "size": 6790,
+      "createdAt": "2026-07-09T20:44:52Z",
+      "updatedAt": "2026-07-09T20:44:52Z"
+    }
+  ]
+}

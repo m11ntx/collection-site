@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-al-nassr-i-24-25-manga-longa-jogador-adidas-masculina-amarela-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:44:02Z",
+  "updatedAt": "2026-07-09T20:44:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/player/camisa-al-nassr-i-24-25-manga-longa-jogador-adidas-masculina-amarela-co-2d01588c/front.webp",
+      "hash": "872d84a4b32cf3aa8795cee22bcddabaa6d5fe63c1b2b9fd763c8ff0b767a1fa",
+      "width": 480,
+      "height": 480,
+      "size": 19528,
+      "createdAt": "2026-07-09T20:44:02Z",
+      "updatedAt": "2026-07-09T20:44:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/player/camisa-al-nassr-i-24-25-manga-longa-jogador-adidas-masculina-amarela-co-2d01588c/back.webp",
+      "hash": "3c0a2c0071ce576850a53838bf4e3b4999b751f3b154f803b8373fc5c0cf60c0",
+      "width": 480,
+      "height": 480,
+      "size": 15920,
+      "createdAt": "2026-07-09T20:44:02Z",
+      "updatedAt": "2026-07-09T20:44:02Z"
+    }
+  ]
+}

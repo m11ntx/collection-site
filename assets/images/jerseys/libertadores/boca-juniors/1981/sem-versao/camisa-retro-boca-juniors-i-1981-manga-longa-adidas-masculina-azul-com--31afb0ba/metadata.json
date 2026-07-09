@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T20:44:00Z",
+  "updatedAt": "2026-07-09T20:44:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/front.webp",
+      "hash": "53823ec9ed9d3e8221eea6d5203248d3a006f454fcddff7f3d70c10a91cc6508",
+      "width": 480,
+      "height": 480,
+      "size": 10908,
+      "createdAt": "2026-07-09T20:43:59Z",
+      "updatedAt": "2026-07-09T20:43:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/back.webp",
+      "hash": "7a05d527b001973dd158827fdc9a7503eb3a1d8b17bc81f3dd3efb8a70d34f8b",
+      "width": 480,
+      "height": 480,
+      "size": 8232,
+      "createdAt": "2026-07-09T20:43:59Z",
+      "updatedAt": "2026-07-09T20:43:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/detail-1.webp",
+      "hash": "612b2ef9ebe343f26653aff8e5343f06537abb65b8f2bb903eb41faa3cef00a9",
+      "width": 480,
+      "height": 480,
+      "size": 32370,
+      "createdAt": "2026-07-09T20:43:59Z",
+      "updatedAt": "2026-07-09T20:43:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/detail-2.webp",
+      "hash": "6dbc78553c531efe9a4bb1d34b48068956eae4209f2a19e919793093dc952dcb",
+      "width": 480,
+      "height": 480,
+      "size": 43682,
+      "createdAt": "2026-07-09T20:44:00Z",
+      "updatedAt": "2026-07-09T20:44:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/detail-3.webp",
+      "hash": "4b051cff604cdf516c220ca85fcf87767b15c51313cab3b5c493d2ed0aad0e3c",
+      "width": 480,
+      "height": 480,
+      "size": 21144,
+      "createdAt": "2026-07-09T20:44:00Z",
+      "updatedAt": "2026-07-09T20:44:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/detail-4.webp",
+      "hash": "20c60f29ec10164931e044b5d7320dfc51655879f22fa281b9f110cbeaa2cd98",
+      "width": 480,
+      "height": 480,
+      "size": 20158,
+      "createdAt": "2026-07-09T20:44:00Z",
+      "updatedAt": "2026-07-09T20:44:00Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/1981/sem-versao/camisa-retro-boca-juniors-i-1981-manga-longa-adidas-masculina-azul-com--31afb0ba/detail-5.webp",
+      "hash": "a203c543f9de0f0b344fe9dc540d41831c9bf9280c8d10137a8c0aca144d113d",
+      "width": 480,
+      "height": 480,
+      "size": 6532,
+      "createdAt": "2026-07-09T20:44:00Z",
+      "updatedAt": "2026-07-09T20:44:00Z"
+    }
+  ]
+}

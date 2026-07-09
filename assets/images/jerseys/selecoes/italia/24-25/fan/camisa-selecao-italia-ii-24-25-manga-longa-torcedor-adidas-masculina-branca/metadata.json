@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-italia-ii-24-25-manga-longa-torcedor-adidas-masculina-branca",
+  "createdAt": "2026-07-09T20:44:50Z",
+  "updatedAt": "2026-07-09T20:44:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-italia-ii-24-25-manga-longa-torcedor-adidas-masculina-branca/front.webp",
+      "hash": "520234f02969130abe47fb1a51223401d88d318e5d7a74ecce3cf9a5d9381d12",
+      "width": 480,
+      "height": 480,
+      "size": 10044,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-italia-ii-24-25-manga-longa-torcedor-adidas-masculina-branca/back.webp",
+      "hash": "36af031342296efbb40de07642cc6db528de2012c1bbd1018c7c716ff16b6929",
+      "width": 480,
+      "height": 480,
+      "size": 5806,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-da-alemanha-ii-24-25-manga-longa-jogador-adidas-masculina-rosa-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T20:44:43Z",
+  "updatedAt": "2026-07-09T20:44:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-ii-24-25-manga-longa-jogador-adidas-masculin-fdaac092/front.webp",
+      "hash": "6a5c78a9fc22e14d3d7888a21f71ef116d88fa0a6b417e606ebb3cf451a5ba13",
+      "width": 480,
+      "height": 480,
+      "size": 13980,
+      "createdAt": "2026-07-09T20:44:43Z",
+      "updatedAt": "2026-07-09T20:44:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-ii-24-25-manga-longa-jogador-adidas-masculin-fdaac092/back.webp",
+      "hash": "11c7cafa09995b65a2d6c2438e8b01570317415121942314e01a179f8d075f43",
+      "width": 480,
+      "height": 480,
+      "size": 13666,
+      "createdAt": "2026-07-09T20:44:43Z",
+      "updatedAt": "2026-07-09T20:44:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/player/camisa-selecao-da-alemanha-ii-24-25-manga-longa-jogador-adidas-masculin-fdaac092/detail-1.webp",
+      "hash": "3f6ea79008c79f9b7918a331d89d6757d46bf0cb84c95925309dbe5e9981364d",
+      "width": 480,
+      "height": 480,
+      "size": 12854,
+      "createdAt": "2026-07-09T20:44:43Z",
+      "updatedAt": "2026-07-09T20:44:43Z"
+    }
+  ]
+}

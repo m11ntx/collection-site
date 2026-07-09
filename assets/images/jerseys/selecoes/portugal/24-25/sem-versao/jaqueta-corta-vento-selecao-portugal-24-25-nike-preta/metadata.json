@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-portugal-24-25-nike-preta",
+  "createdAt": "2026-07-09T20:45:19Z",
+  "updatedAt": "2026-07-09T20:45:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-preta/front.webp",
+      "hash": "e2f91d6cd305486a90e1037793dbea2078e3b4e3bd9cebbee9af1d64ba781b8a",
+      "width": 480,
+      "height": 480,
+      "size": 13970,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-preta/back.webp",
+      "hash": "6259c2ca128da474bbe039f2c960829f7d57e86eee3ef4a3f5446c075e849357",
+      "width": 480,
+      "height": 480,
+      "size": 11160,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    }
+  ]
+}

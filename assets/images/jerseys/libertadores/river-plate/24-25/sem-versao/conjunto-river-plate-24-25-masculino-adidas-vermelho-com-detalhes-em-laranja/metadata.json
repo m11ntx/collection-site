@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-river-plate-24-25-masculino-adidas-vermelho-com-detalhes-em-laranja",
+  "createdAt": "2026-07-09T20:44:28Z",
+  "updatedAt": "2026-07-09T20:44:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/conjunto-river-plate-24-25-masculino-adidas-vermelho-com-detalhes-em-laranja/front.webp",
+      "hash": "1c16aea8c0f8a050d5075b9fe0424fc33197152fd46b9305d54c6adcd07f7cdc",
+      "width": 480,
+      "height": 480,
+      "size": 9398,
+      "createdAt": "2026-07-09T20:44:28Z",
+      "updatedAt": "2026-07-09T20:44:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/conjunto-river-plate-24-25-masculino-adidas-vermelho-com-detalhes-em-laranja/back.webp",
+      "hash": "a6849901efc4c97c5ea1d46e59a22a4fa9df07ea7b2ed0d8f7ab333470a878ca",
+      "width": 480,
+      "height": 480,
+      "size": 7130,
+      "createdAt": "2026-07-09T20:44:28Z",
+      "updatedAt": "2026-07-09T20:44:28Z"
+    }
+  ]
+}

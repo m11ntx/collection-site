@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-brasileira-treino-24-25-masculina-nike-verde",
+  "createdAt": "2026-07-09T20:44:30Z",
+  "updatedAt": "2026-07-09T20:44:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-treino-24-25-masculina-nike-verde/front.webp",
+      "hash": "66d32be557d8c9464a7cd779b3906c07162de1a16da37ca841371f217c749e00",
+      "width": 480,
+      "height": 588,
+      "size": 13620,
+      "createdAt": "2026-07-09T20:44:29Z",
+      "updatedAt": "2026-07-09T20:44:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/jaqueta-corta-vento-selecao-brasileira-treino-24-25-masculina-nike-verde/back.webp",
+      "hash": "671cb72212a56ff9a42e6d8b0468335d1af4797b4cce412649aa65718b577fcb",
+      "width": 480,
+      "height": 558,
+      "size": 9400,
+      "createdAt": "2026-07-09T20:44:30Z",
+      "updatedAt": "2026-07-09T20:44:30Z"
+    }
+  ]
+}

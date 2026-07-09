@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-brasil-selecao-brasileira-branca-jogador-retro-1998",
+  "createdAt": "2026-07-09T20:45:09Z",
+  "updatedAt": "2026-07-09T20:45:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/player/camisa-brasil-selecao-brasileira-branca-jogador-retro-1998/front.webp",
+      "hash": "23497ea391b2929c5d3fdec528350c899bba2be61f7ee2f2ed5822f723f8aaff",
+      "width": 480,
+      "height": 480,
+      "size": 10710,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/1998/player/camisa-brasil-selecao-brasileira-branca-jogador-retro-1998/back.webp",
+      "hash": "78f39063222308111a4256367ab01a72e5d28d610eef09e1d11f9684619d0aa3",
+      "width": 480,
+      "height": 480,
+      "size": 7134,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    }
+  ]
+}

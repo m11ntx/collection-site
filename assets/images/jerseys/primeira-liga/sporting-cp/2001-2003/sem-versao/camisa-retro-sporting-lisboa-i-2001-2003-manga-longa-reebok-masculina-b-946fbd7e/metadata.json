@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-branca-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T20:44:36Z",
+  "updatedAt": "2026-07-09T20:44:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/front.webp",
+      "hash": "ab25892bdfb0e0ce60ec5709044620644941aa6d113c2a9972b603770b5db048",
+      "width": 480,
+      "height": 480,
+      "size": 9336,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/back.webp",
+      "hash": "fc157c09d4039ae215ef0d7a236434e593c45ac5d49766cd931be0b44469e139",
+      "width": 480,
+      "height": 480,
+      "size": 14406,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/detail-1.webp",
+      "hash": "599982f417a938f159c212de1922203f4d61b92b6831450b5742cc9cb475a9c2",
+      "width": 480,
+      "height": 480,
+      "size": 7892,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/detail-2.webp",
+      "hash": "5f371dbc3d8ec42696615caf1dc7b469d5a494de9f46655e00a7be88bcbfc212",
+      "width": 480,
+      "height": 480,
+      "size": 26096,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/detail-3.webp",
+      "hash": "fa412260fe5c0273dc4d64de0d549a3e81c70114836069d7f591a3e195cacc8d",
+      "width": 480,
+      "height": 480,
+      "size": 46944,
+      "createdAt": "2026-07-09T20:44:35Z",
+      "updatedAt": "2026-07-09T20:44:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/2001-2003/sem-versao/camisa-retro-sporting-lisboa-i-2001-2003-manga-longa-reebok-masculina-b-946fbd7e/detail-4.webp",
+      "hash": "2be7f1682507c6e24e88a65d05ff16ffb01de2d51895d1e9182f7e13a12a8a26",
+      "width": 480,
+      "height": 480,
+      "size": 15774,
+      "createdAt": "2026-07-09T20:44:36Z",
+      "updatedAt": "2026-07-09T20:44:36Z"
+    }
+  ]
+}

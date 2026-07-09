@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-river-plate-iii-24-25-manga-longa-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-09T20:44:06Z",
+  "updatedAt": "2026-07-09T20:44:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-iii-24-25-manga-longa-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "b756de8f944b6ed61590c57576e88d03bc40b4274dbfa5006f815712a243faa2",
+      "width": 480,
+      "height": 480,
+      "size": 10674,
+      "createdAt": "2026-07-09T20:44:06Z",
+      "updatedAt": "2026-07-09T20:44:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/fan/camisa-river-plate-iii-24-25-manga-longa-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "a8b5161bd263d94eabb021206e6e264123e0424e43119c4246554ac8845aba04",
+      "width": 480,
+      "height": 480,
+      "size": 6038,
+      "createdAt": "2026-07-09T20:44:06Z",
+      "updatedAt": "2026-07-09T20:44:06Z"
+    }
+  ]
+}

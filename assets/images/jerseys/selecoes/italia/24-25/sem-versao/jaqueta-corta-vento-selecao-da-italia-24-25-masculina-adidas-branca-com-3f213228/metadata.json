@@ -1,0 +1,57 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:45:16Z",
+  "updatedAt": "2026-07-09T20:45:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-3f213228/front.webp",
+      "hash": "7637e7aa91f1a7d9db975c3dc91847c32c7a5062271053e46f55cb9e97cec9ea",
+      "width": 480,
+      "height": 480,
+      "size": 12934,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-3f213228/back.webp",
+      "hash": "5c6e1af95112e2ca241b05bc0f24149ea7574de569b6d2b9a90ab4e6cec69ede",
+      "width": 480,
+      "height": 480,
+      "size": 10250,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-3f213228/detail-1.webp",
+      "hash": "9663bfae59b681180bc38b408d72d6c275d92372b0b61f9b353a55ca3c275ab2",
+      "width": 480,
+      "height": 480,
+      "size": 30192,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-3f213228/detail-2.webp",
+      "hash": "3a1361508fc759e7bbabefe92f6a28191398ae9691d9912def99968e086a75e0",
+      "width": 480,
+      "height": 480,
+      "size": 19718,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/jaqueta-corta-vento-selecao-da-italia-24-25-masculina-adidas-branca-com-3f213228/detail-3.webp",
+      "hash": "80071ce54bd5744747ea3b1f572c0be10f47b4dab84c7287d70af32a6784d3cf",
+      "width": 480,
+      "height": 480,
+      "size": 14802,
+      "createdAt": "2026-07-09T20:45:15Z",
+      "updatedAt": "2026-07-09T20:45:15Z"
+    }
+  ]
+}

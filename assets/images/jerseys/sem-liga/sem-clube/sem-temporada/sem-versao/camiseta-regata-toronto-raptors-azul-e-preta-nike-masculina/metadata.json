@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:43:53Z",
+  "updatedAt": "2026-07-09T20:43:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/front.webp",
+      "hash": "900a6a5bb8f2eb7e5fa4e2d5ad61f719f66f445d60a15f3acd2edac4e728074e",
+      "width": 480,
+      "height": 480,
+      "size": 9410,
+      "createdAt": "2026-07-09T20:43:52Z",
+      "updatedAt": "2026-07-09T20:43:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/back.webp",
+      "hash": "35480c272c48e7b0be0ed218b7f7ed11fd6b49acf0bf79552c6405325a64689c",
+      "width": 480,
+      "height": 480,
+      "size": 11258,
+      "createdAt": "2026-07-09T20:43:52Z",
+      "updatedAt": "2026-07-09T20:43:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/detail-1.webp",
+      "hash": "7d6c4afad8595dba7c328eb8c1d2bca6db4db7c954f42c3346ebd358f8e35035",
+      "width": 480,
+      "height": 480,
+      "size": 14370,
+      "createdAt": "2026-07-09T20:43:52Z",
+      "updatedAt": "2026-07-09T20:43:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/detail-2.webp",
+      "hash": "014680ef221fe05b879c692e6e861f14800b8f14229ee58d818d65b35f9abc74",
+      "width": 480,
+      "height": 480,
+      "size": 20108,
+      "createdAt": "2026-07-09T20:43:52Z",
+      "updatedAt": "2026-07-09T20:43:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/detail-3.webp",
+      "hash": "bbc3289629fbd063cef7d1018a0b5833d06c69a6c7c6ab4ed20fe983cd3f8d23",
+      "width": 480,
+      "height": 480,
+      "size": 12940,
+      "createdAt": "2026-07-09T20:43:53Z",
+      "updatedAt": "2026-07-09T20:43:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina/detail-4.webp",
+      "hash": "263bb21ac0b533ad07946546195ab2ebd4bfe2bc9cec81955471bb5dc03c75b4",
+      "width": 480,
+      "height": 480,
+      "size": 30764,
+      "createdAt": "2026-07-09T20:43:53Z",
+      "updatedAt": "2026-07-09T20:43:53Z"
+    }
+  ]
+}

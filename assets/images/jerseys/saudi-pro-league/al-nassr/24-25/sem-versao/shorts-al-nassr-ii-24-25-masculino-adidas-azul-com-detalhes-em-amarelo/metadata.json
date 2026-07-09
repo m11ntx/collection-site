@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-al-nassr-ii-24-25-masculino-adidas-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T20:44:22Z",
+  "updatedAt": "2026-07-09T20:44:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/shorts-al-nassr-ii-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "3db80d025aa7d3b18744e7c660ee4783b41f0c29c9758d189b0a75cde9456290",
+      "width": 480,
+      "height": 480,
+      "size": 8008,
+      "createdAt": "2026-07-09T20:44:22Z",
+      "updatedAt": "2026-07-09T20:44:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/shorts-al-nassr-ii-24-25-masculino-adidas-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "e4f3a30f3d07d1baa1099232a174f31492dd42a59fea536697d3418714de9049",
+      "width": 480,
+      "height": 480,
+      "size": 8422,
+      "createdAt": "2026-07-09T20:44:22Z",
+      "updatedAt": "2026-07-09T20:44:22Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-charlotte-hornets-roxa-nike-masculina",
+  "createdAt": "2026-07-09T20:43:42Z",
+  "updatedAt": "2026-07-09T20:43:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/front.webp",
+      "hash": "a91beea7832a0e691471d7112eaa5c496e18ba74d0c051e5ef5a2cc4a851603b",
+      "width": 480,
+      "height": 480,
+      "size": 11904,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/back.webp",
+      "hash": "e6488546bd16498f02200ed8a7b311fda72a3f8c833501298ae5abcc6bc81f04",
+      "width": 480,
+      "height": 480,
+      "size": 11300,
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/detail-1.webp",
+      "hash": "c757b2063d87c594e0ada7795d92223b05f0dd5b43e8ed0c9242ff853614aed2",
+      "width": 480,
+      "height": 480,
+      "size": 17814,
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/detail-2.webp",
+      "hash": "3564952160b3d95432b08ae8d503fdb35296f68f5f85040de654deefe17b4e02",
+      "width": 480,
+      "height": 480,
+      "size": 33202,
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/detail-3.webp",
+      "hash": "cee27a205680a11c796a50180f4013865ca3a7b40b0b0e41492d2d0656fcd189",
+      "width": 480,
+      "height": 480,
+      "size": 22530,
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-roxa-nike-masculina/detail-4.webp",
+      "hash": "21946d9d30064c2fff5d1d27d4c0e335e9ac9fb787df11b95cac78f95b04605a",
+      "width": 480,
+      "height": 480,
+      "size": 36460,
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
+    }
+  ]
+}

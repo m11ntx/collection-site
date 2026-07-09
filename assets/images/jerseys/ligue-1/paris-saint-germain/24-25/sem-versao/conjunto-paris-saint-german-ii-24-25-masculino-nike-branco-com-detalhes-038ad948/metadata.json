@@ -1,0 +1,37 @@
+{
+  "productId": "source-conjunto-paris-saint-german-ii-24-25-masculino-nike-branco-com-detalhes-em-vermelho-e-azul",
+  "createdAt": "2026-07-09T20:44:51Z",
+  "updatedAt": "2026-07-09T20:44:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-ii-24-25-masculino-nike-branco-com-detalhes-038ad948/front.webp",
+      "hash": "ca84e6f89fe7d731431475b295c27e967b93c96e25e0d34312dad065e736afba",
+      "width": 480,
+      "height": 480,
+      "size": 14464,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-ii-24-25-masculino-nike-branco-com-detalhes-038ad948/back.webp",
+      "hash": "d7962927048903742b93ebd92d940213e9ab63286b7961d6abe0cf4c8a3291f5",
+      "width": 480,
+      "height": 480,
+      "size": 14478,
+      "createdAt": "2026-07-09T20:44:50Z",
+      "updatedAt": "2026-07-09T20:44:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-ii-24-25-masculino-nike-branco-com-detalhes-038ad948/detail-1.webp",
+      "hash": "92aa79cb23773740f431a6860507989f19ce2055d2f5641f602efb9d1deb8e13",
+      "width": 480,
+      "height": 320,
+      "size": 15506,
+      "createdAt": "2026-07-09T20:44:51Z",
+      "updatedAt": "2026-07-09T20:44:51Z"
+    }
+  ]
+}

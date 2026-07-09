@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-azul-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T20:45:07Z",
+  "updatedAt": "2026-07-09T20:45:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-azul-com--cb9666ce/front.webp",
+      "hash": "9bf22b65943c5048aa06afbbd46f0afa4272f1099df6ca41227009890402b28c",
+      "width": 480,
+      "height": 480,
+      "size": 8084,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-azul-com--cb9666ce/back.webp",
+      "hash": "7fd519258dd91fe24a588f9afd3a9aab924d1048061f357e51f0af6c8ab22717",
+      "width": 480,
+      "height": 480,
+      "size": 6046,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    }
+  ]
+}

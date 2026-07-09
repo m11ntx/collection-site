@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-franca-ii-24-25-manga-longa-jogador-nike-masculina-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T20:44:42Z",
+  "updatedAt": "2026-07-09T20:44:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/player/camisa-franca-ii-24-25-manga-longa-jogador-nike-masculina-branca-com-de-fd4eb1d7/front.webp",
+      "hash": "36365e52ed6fd79d55516bcdae8c8a19bd9a57ebdde4f65ed6aa40320bf1d07c",
+      "width": 480,
+      "height": 480,
+      "size": 20578,
+      "createdAt": "2026-07-09T20:44:41Z",
+      "updatedAt": "2026-07-09T20:44:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/player/camisa-franca-ii-24-25-manga-longa-jogador-nike-masculina-branca-com-de-fd4eb1d7/back.webp",
+      "hash": "cca5f934745b6877a011e489e5395508441254a5267b095f6337eb4dc82ac057",
+      "width": 480,
+      "height": 480,
+      "size": 21978,
+      "createdAt": "2026-07-09T20:44:41Z",
+      "updatedAt": "2026-07-09T20:44:41Z"
+    }
+  ]
+}

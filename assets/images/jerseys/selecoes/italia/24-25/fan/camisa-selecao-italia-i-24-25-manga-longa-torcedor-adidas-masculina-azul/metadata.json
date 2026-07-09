@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-italia-i-24-25-manga-longa-torcedor-adidas-masculina-azul",
+  "createdAt": "2026-07-09T20:44:50Z",
+  "updatedAt": "2026-07-09T20:44:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-italia-i-24-25-manga-longa-torcedor-adidas-masculina-azul/front.webp",
+      "hash": "d02a33388e4ab132e7e0ff03c4f22dbe2d50dd8a8a9f23657bd74b05d985dadf",
+      "width": 480,
+      "height": 480,
+      "size": 12650,
+      "createdAt": "2026-07-09T20:44:49Z",
+      "updatedAt": "2026-07-09T20:44:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-italia-i-24-25-manga-longa-torcedor-adidas-masculina-azul/back.webp",
+      "hash": "2483150d5d97af1fe62f2e3ab9d553810dd33fcf9112a9598e9c83ef492af236",
+      "width": 480,
+      "height": 480,
+      "size": 7852,
+      "createdAt": "2026-07-09T20:44:49Z",
+      "updatedAt": "2026-07-09T20:44:49Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-conjunto-paris-saint-german-treino-24-25-masculino-jordan-bege-e-preto-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T20:44:51Z",
+  "updatedAt": "2026-07-09T20:44:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-jordan-bege-e-preto--e35cfb63/front.webp",
+      "hash": "3e87189cc9626a14beace39eaa4487d53ded4df9e49d6d796ab983fa77bedeee",
+      "width": 480,
+      "height": 480,
+      "size": 8086,
+      "createdAt": "2026-07-09T20:44:51Z",
+      "updatedAt": "2026-07-09T20:44:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-jordan-bege-e-preto--e35cfb63/back.webp",
+      "hash": "edc93fd73691b70634422c603067de72682bbe2e7cd452fa8aa718a8fb392a34",
+      "width": 480,
+      "height": 480,
+      "size": 6082,
+      "createdAt": "2026-07-09T20:44:51Z",
+      "updatedAt": "2026-07-09T20:44:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/conjunto-paris-saint-german-treino-24-25-masculino-jordan-bege-e-preto--e35cfb63/detail-1.webp",
+      "hash": "e320683277158c699742d56c7214c3be7f7a535927326008a9d87080d8d1f5a6",
+      "width": 480,
+      "height": 320,
+      "size": 7700,
+      "createdAt": "2026-07-09T20:44:51Z",
+      "updatedAt": "2026-07-09T20:44:51Z"
+    }
+  ]
+}

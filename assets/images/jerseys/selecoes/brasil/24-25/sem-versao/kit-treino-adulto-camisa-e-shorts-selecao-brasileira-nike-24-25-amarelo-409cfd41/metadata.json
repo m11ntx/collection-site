@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-brasileira-nike-24-25-amarelo-e-azul-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T20:45:20Z",
+  "updatedAt": "2026-07-09T20:45:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-brasileira-nike-24-25-amarelo-409cfd41/front.webp",
+      "hash": "39f1d499c592962d413924b580df86708eb00ffd56c43e0b990215730a485718",
+      "width": 480,
+      "height": 480,
+      "size": 9036,
+      "createdAt": "2026-07-09T20:45:20Z",
+      "updatedAt": "2026-07-09T20:45:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-brasileira-nike-24-25-amarelo-409cfd41/back.webp",
+      "hash": "eb6414b8df4232b69a437c5ef99d1a5c58eec500c2291ed111a1e50df3f29630",
+      "width": 480,
+      "height": 480,
+      "size": 6586,
+      "createdAt": "2026-07-09T20:45:20Z",
+      "updatedAt": "2026-07-09T20:45:20Z"
+    }
+  ]
+}

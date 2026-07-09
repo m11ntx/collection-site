@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-italia-adidas-24-25-azul",
+  "createdAt": "2026-07-09T20:45:07Z",
+  "updatedAt": "2026-07-09T20:45:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-italia-adidas-24-25-azul/front.webp",
+      "hash": "d616f59bd906106da258225625f4888950a900fb9b7ae8217ab96c5638c5986a",
+      "width": 480,
+      "height": 480,
+      "size": 7504,
+      "createdAt": "2026-07-09T20:45:06Z",
+      "updatedAt": "2026-07-09T20:45:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-italia-adidas-24-25-azul/back.webp",
+      "hash": "a5346a9dd381b77f949b5e7323cee07ef1fcc695f878987df479d214728674c8",
+      "width": 480,
+      "height": 480,
+      "size": 9106,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-italia-adidas-24-25-azul/detail-1.webp",
+      "hash": "16d926796b538ca711d99baed77bc200e7d4ad112c2309ede13404151594bc29",
+      "width": 480,
+      "height": 480,
+      "size": 5642,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T20:44:21Z",
+  "updatedAt": "2026-07-09T20:44:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/front.webp",
+      "hash": "7e6c0c1f4afecc2282edc5992b17878bdc3c2ed07fe8a3c0fbf299cbe4b68a0d",
+      "width": 480,
+      "height": 480,
+      "size": 12494,
+      "createdAt": "2026-07-09T20:44:20Z",
+      "updatedAt": "2026-07-09T20:44:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/back.webp",
+      "hash": "1a0eaf057dcf93231e218aa435d60899ecb40f0b4dfa77bc2d6ca284976af9de",
+      "width": 480,
+      "height": 480,
+      "size": 11094,
+      "createdAt": "2026-07-09T20:44:20Z",
+      "updatedAt": "2026-07-09T20:44:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/detail-1.webp",
+      "hash": "1b572df323c0eae494a43fb2c275765017cae22bf9c81e06124d9bd62ff18451",
+      "width": 480,
+      "height": 480,
+      "size": 15758,
+      "createdAt": "2026-07-09T20:44:20Z",
+      "updatedAt": "2026-07-09T20:44:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/detail-2.webp",
+      "hash": "2f50c17319921e0695c9a2bb978e5fdb006ee5a70b9d545ef1b6d3038a82dcee",
+      "width": 480,
+      "height": 480,
+      "size": 15246,
+      "createdAt": "2026-07-09T20:44:21Z",
+      "updatedAt": "2026-07-09T20:44:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/detail-3.webp",
+      "hash": "5741a101979d3d6e04c138d2600c1f3929befcb653bec05731d9531a14fe3f27",
+      "width": 480,
+      "height": 480,
+      "size": 11434,
+      "createdAt": "2026-07-09T20:44:21Z",
+      "updatedAt": "2026-07-09T20:44:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/short-inter-miami-24-25-masculino-adidas-rosa-com-detalhes-em-preto/detail-4.webp",
+      "hash": "c98a0d5894aa2b0b64391413768edeb60f2de1afae71bcacf4742044f6558029",
+      "width": 480,
+      "height": 480,
+      "size": 17250,
+      "createdAt": "2026-07-09T20:44:21Z",
+      "updatedAt": "2026-07-09T20:44:21Z"
+    }
+  ]
+}

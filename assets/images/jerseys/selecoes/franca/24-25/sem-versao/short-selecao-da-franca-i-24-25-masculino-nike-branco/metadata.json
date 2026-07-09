@@ -1,0 +1,47 @@
+{
+  "productId": "source-short-selecao-da-franca-i-24-25-masculino-nike-branco",
+  "createdAt": "2026-07-09T20:45:57Z",
+  "updatedAt": "2026-07-09T20:45:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/short-selecao-da-franca-i-24-25-masculino-nike-branco/front.webp",
+      "hash": "bd2f77bee43c59c77c12225edfc35599ae0a60b8fac5e83515e597dcc5d11d58",
+      "width": 480,
+      "height": 480,
+      "size": 5774,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/short-selecao-da-franca-i-24-25-masculino-nike-branco/back.webp",
+      "hash": "573dde25f782d01ed4daeac06581f9236010427a4e99db894fa8a120038a3312",
+      "width": 480,
+      "height": 480,
+      "size": 5506,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/short-selecao-da-franca-i-24-25-masculino-nike-branco/detail-1.webp",
+      "hash": "184390439b6244a2d36c5068b2c1c0c01e78e9ac5d7025c4e12d5d802f77b911",
+      "width": 480,
+      "height": 480,
+      "size": 16610,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/short-selecao-da-franca-i-24-25-masculino-nike-branco/detail-2.webp",
+      "hash": "0b4ab44e8709d0cfd90eb923f1ad7f5364a1a75f3aaa15154616cbe9a318d8c2",
+      "width": 480,
+      "height": 480,
+      "size": 21042,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    }
+  ]
+}

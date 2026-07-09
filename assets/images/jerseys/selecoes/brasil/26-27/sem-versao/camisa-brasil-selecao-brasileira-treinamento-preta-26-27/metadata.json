@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-brasil-selecao-brasileira-treinamento-preta-26-27",
+  "createdAt": "2026-07-09T20:46:00Z",
+  "updatedAt": "2026-07-09T20:46:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/26-27/sem-versao/camisa-brasil-selecao-brasileira-treinamento-preta-26-27/front.webp",
+      "hash": "5cf8fc8d4178b537791924c6616b6580aaa43e1aa15cfe2ce614fbb329470d9f",
+      "width": 480,
+      "height": 413,
+      "size": 6276,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/26-27/sem-versao/camisa-brasil-selecao-brasileira-treinamento-preta-26-27/back.webp",
+      "hash": "9b57eba573695a95ba20bfceff9e379391ce5ca754afe912dbd806eb2688d48e",
+      "width": 480,
+      "height": 413,
+      "size": 4372,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/26-27/sem-versao/camisa-brasil-selecao-brasileira-treinamento-preta-26-27/detail-1.webp",
+      "hash": "ece9203194a3a0a483dd3987b8a95510376280589e61671175456711d0afeed4",
+      "width": 480,
+      "height": 413,
+      "size": 8712,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:45:56Z",
+  "updatedAt": "2026-07-09T20:45:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/front.webp",
+      "hash": "efe1ea91721429ede29e5d1917fb8040bb3ebf1b53c305599ccbb621790fbd97",
+      "width": 480,
+      "height": 480,
+      "size": 5938,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/back.webp",
+      "hash": "e7904982676700a43d18236eb763042d18aca1aac0d3a307e2cf1085fe56aae8",
+      "width": 480,
+      "height": 480,
+      "size": 5832,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/detail-1.webp",
+      "hash": "1776271f6f9251814fa91b32510de9b9cc167e5c1c124310b886ec118061983b",
+      "width": 480,
+      "height": 480,
+      "size": 8920,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/detail-2.webp",
+      "hash": "4b5b7b0be871d0ca379a898217ffe97f38843d534b8a6167929edadb503c3638",
+      "width": 480,
+      "height": 480,
+      "size": 22030,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/detail-3.webp",
+      "hash": "ba1a2d7bf5be8189cf3749d55459e418789eec2d7c470806690c304cc8427214",
+      "width": 480,
+      "height": 480,
+      "size": 10930,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-i-24-25-masculino-adidas-preto-com-detalhes-em-azul/detail-4.webp",
+      "hash": "147655004c9fae58cdab775b3aedeb002619e81caea2331f345abb3c9b467fd0",
+      "width": 480,
+      "height": 480,
+      "size": 11452,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    }
+  ]
+}

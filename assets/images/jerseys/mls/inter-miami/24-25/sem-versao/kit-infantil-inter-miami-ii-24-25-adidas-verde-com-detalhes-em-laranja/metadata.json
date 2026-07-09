@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-inter-miami-ii-24-25-adidas-verde-com-detalhes-em-laranja",
+  "createdAt": "2026-07-09T20:44:58Z",
+  "updatedAt": "2026-07-09T20:44:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/kit-infantil-inter-miami-ii-24-25-adidas-verde-com-detalhes-em-laranja/front.webp",
+      "hash": "c7f319fdb1a96c28524c77a83fcfcb1b49d782638b6a1f78d05e99370a01cf29",
+      "width": 480,
+      "height": 480,
+      "size": 6912,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/sem-versao/kit-infantil-inter-miami-ii-24-25-adidas-verde-com-detalhes-em-laranja/back.webp",
+      "hash": "255851461e7168e035a35d472d4277548b687bf643f6fda813fc73a1fd3d3e15",
+      "width": 480,
+      "height": 480,
+      "size": 13566,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    }
+  ]
+}

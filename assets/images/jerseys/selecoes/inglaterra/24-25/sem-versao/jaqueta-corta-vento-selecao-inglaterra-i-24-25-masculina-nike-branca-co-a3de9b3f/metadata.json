@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-inglaterra-i-24-25-masculina-nike-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T20:45:17Z",
+  "updatedAt": "2026-07-09T20:45:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/jaqueta-corta-vento-selecao-inglaterra-i-24-25-masculina-nike-branca-co-a3de9b3f/front.webp",
+      "hash": "ff30f2fd9c1679ef3e9c95b550bb1db8fb7eb55f0b9ac0fe245485e6632f90ea",
+      "width": 480,
+      "height": 480,
+      "size": 11330,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/jaqueta-corta-vento-selecao-inglaterra-i-24-25-masculina-nike-branca-co-a3de9b3f/back.webp",
+      "hash": "463fbeb4866a89979378b2977e463d1c681ecb26cc86d7a007aba2cef8593418",
+      "width": 480,
+      "height": 480,
+      "size": 10510,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/jaqueta-corta-vento-selecao-inglaterra-i-24-25-masculina-nike-branca-co-a3de9b3f/detail-1.webp",
+      "hash": "6d38408870da4cebd92f0932dba36cadb6ef1d0e3a2665c5ee817234b12a059f",
+      "width": 480,
+      "height": 480,
+      "size": 17580,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/jaqueta-corta-vento-selecao-inglaterra-i-24-25-masculina-nike-branca-co-a3de9b3f/detail-2.webp",
+      "hash": "0208903e24ae7297c0687397eaef670653d32e2dc52afe1bc946b2114a09aad5",
+      "width": 480,
+      "height": 480,
+      "size": 19698,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-infantil-ajax-i-24-25-adidas-vermelho-e-branco",
+  "createdAt": "2026-07-09T20:44:56Z",
+  "updatedAt": "2026-07-09T20:44:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/sem-versao/kit-infantil-ajax-i-24-25-adidas-vermelho-e-branco/front.webp",
+      "hash": "bdaa837d067fc744c9db4e2d463722e023651f38ce4647f1a2717cd2bf06c5a7",
+      "width": 480,
+      "height": 480,
+      "size": 5960,
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/sem-versao/kit-infantil-ajax-i-24-25-adidas-vermelho-e-branco/back.webp",
+      "hash": "a53b76def24d6dc9ac45cd11977f2eccc5ab65ee707f80d87d72d05911dd1555",
+      "width": 480,
+      "height": 480,
+      "size": 5148,
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/eredivisie/ajax/24-25/sem-versao/kit-infantil-ajax-i-24-25-adidas-vermelho-e-branco/detail-1.webp",
+      "hash": "ce632f3834e23c741057793bc5b7e2bee2a5b4b5126d3d948ca005a44861fce1",
+      "width": 480,
+      "height": 480,
+      "size": 2636,
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-al-nassr-iii-24-25-masculino-adidas-branco-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T20:44:23Z",
+  "updatedAt": "2026-07-09T20:44:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/shorts-al-nassr-iii-24-25-masculino-adidas-branco-com-detalhes-em-dourado/front.webp",
+      "hash": "5cb3147d18b31be5fad65c88935cd5e9b02e1567bd879e9bf6be848744ea36d3",
+      "width": 480,
+      "height": 480,
+      "size": 5250,
+      "createdAt": "2026-07-09T20:44:22Z",
+      "updatedAt": "2026-07-09T20:44:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/shorts-al-nassr-iii-24-25-masculino-adidas-branco-com-detalhes-em-dourado/back.webp",
+      "hash": "3b3c261c9cb645aee4eaf64eec75baf5a341fff75b8b6e1c2619a1332f9e4609",
+      "width": 480,
+      "height": 480,
+      "size": 4544,
+      "createdAt": "2026-07-09T20:44:22Z",
+      "updatedAt": "2026-07-09T20:44:22Z"
+    }
+  ]
+}

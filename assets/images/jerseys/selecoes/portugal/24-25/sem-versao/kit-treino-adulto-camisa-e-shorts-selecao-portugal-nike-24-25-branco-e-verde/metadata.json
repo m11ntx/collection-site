@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-branco-e-verde",
+  "createdAt": "2026-07-09T20:45:08Z",
+  "updatedAt": "2026-07-09T20:45:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-branco-e-verde/front.webp",
+      "hash": "8735ef6610c6880b5d1104685bbde635fcc46575c235930bc8365b1efea45734",
+      "width": 480,
+      "height": 480,
+      "size": 6034,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-branco-e-verde/back.webp",
+      "hash": "eb8e038dbde3f4803691920ae3fe44bc18abee2fe35f17d1b79a413d1632b470",
+      "width": 480,
+      "height": 480,
+      "size": 6130,
+      "createdAt": "2026-07-09T20:45:07Z",
+      "updatedAt": "2026-07-09T20:45:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-portugal-nike-24-25-branco-e-verde/detail-1.webp",
+      "hash": "5c3607bc97b8d485bde58a2136d1456e9ec4871e996c9d7402a5d5d0b161d65b",
+      "width": 480,
+      "height": 480,
+      "size": 3842,
+      "createdAt": "2026-07-09T20:45:08Z",
+      "updatedAt": "2026-07-09T20:45:08Z"
+    }
+  ]
+}

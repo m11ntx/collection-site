@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-roma-24-25-masculina-adidas-vinho",
+  "createdAt": "2026-07-09T20:44:18Z",
+  "updatedAt": "2026-07-09T20:44:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/as-roma/24-25/sem-versao/jaqueta-corta-vento-roma-24-25-masculina-adidas-vinho/front.webp",
+      "hash": "ca30f0cb883162ae0a7ff6828282ddb162c2a2e50d3d2f151f3b90d5af814b6d",
+      "width": 480,
+      "height": 480,
+      "size": 7968,
+      "createdAt": "2026-07-09T20:44:17Z",
+      "updatedAt": "2026-07-09T20:44:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/as-roma/24-25/sem-versao/jaqueta-corta-vento-roma-24-25-masculina-adidas-vinho/back.webp",
+      "hash": "67285e2b360114d9505345fe25127f3a84fe9e4f79ff0073d8473f6ab229e7a0",
+      "width": 480,
+      "height": 480,
+      "size": 8922,
+      "createdAt": "2026-07-09T20:44:17Z",
+      "updatedAt": "2026-07-09T20:44:17Z"
+    }
+  ]
+}

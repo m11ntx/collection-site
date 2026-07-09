@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-portugal-24-25-nike-vermelha",
+  "createdAt": "2026-07-09T20:45:20Z",
+  "updatedAt": "2026-07-09T20:45:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-vermelha/front.webp",
+      "hash": "f4dfb7144127291a8a6b47a6349b2c0eae2066bc072b22bc07ed9e7624b03ee6",
+      "width": 480,
+      "height": 480,
+      "size": 10916,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-vermelha/back.webp",
+      "hash": "cfa15540ebaacc98b29edb1b655886983a552dbec38c85f9fd1d97d867690663",
+      "width": 480,
+      "height": 480,
+      "size": 9586,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-vermelha/detail-1.webp",
+      "hash": "1ab890159afaf85a5ea106f91f48b5143f80cadd19a84847a0bad284a0f457f9",
+      "width": 480,
+      "height": 480,
+      "size": 5720,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/jaqueta-corta-vento-selecao-portugal-24-25-nike-vermelha/detail-2.webp",
+      "hash": "eb71266a3194e4d0a29c1ff928de091da6f01c619ef33f8a1a382ac8253b4d12",
+      "width": 480,
+      "height": 480,
+      "size": 11674,
+      "createdAt": "2026-07-09T20:45:19Z",
+      "updatedAt": "2026-07-09T20:45:19Z"
+    }
+  ]
+}

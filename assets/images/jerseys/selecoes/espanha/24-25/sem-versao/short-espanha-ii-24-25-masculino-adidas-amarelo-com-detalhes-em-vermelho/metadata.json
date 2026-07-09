@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-espanha-ii-24-25-masculino-adidas-amarelo-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T20:44:19Z",
+  "updatedAt": "2026-07-09T20:44:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/short-espanha-ii-24-25-masculino-adidas-amarelo-com-detalhes-em-vermelho/front.webp",
+      "hash": "fb419813aba8cca1b2c23e69e27657ec994ae0d4ac6a54b42eea01711f745258",
+      "width": 480,
+      "height": 480,
+      "size": 7792,
+      "createdAt": "2026-07-09T20:44:19Z",
+      "updatedAt": "2026-07-09T20:44:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/short-espanha-ii-24-25-masculino-adidas-amarelo-com-detalhes-em-vermelho/back.webp",
+      "hash": "66a89d57a589f81b032a77f80515676275ee0e4a5b4299b76d43bb28492355f4",
+      "width": 480,
+      "height": 480,
+      "size": 6508,
+      "createdAt": "2026-07-09T20:44:19Z",
+      "updatedAt": "2026-07-09T20:44:19Z"
+    }
+  ]
+}

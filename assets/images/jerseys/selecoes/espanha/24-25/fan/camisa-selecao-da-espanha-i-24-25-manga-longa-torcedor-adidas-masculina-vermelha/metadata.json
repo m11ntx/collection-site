@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-da-espanha-i-24-25-manga-longa-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-09T20:44:43Z",
+  "updatedAt": "2026-07-09T20:44:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-manga-longa-torcedor-adidas-masculina-vermelha/front.webp",
+      "hash": "15644f3d30669765a75dcd587eafe287a4a13c113a832661e766473c007740d0",
+      "width": 480,
+      "height": 480,
+      "size": 14764,
+      "createdAt": "2026-07-09T20:44:43Z",
+      "updatedAt": "2026-07-09T20:44:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/fan/camisa-selecao-da-espanha-i-24-25-manga-longa-torcedor-adidas-masculina-vermelha/back.webp",
+      "hash": "87a1714acba165a9f6b4cef9aef50b67f233815adf4259642a16c01290aed48d",
+      "width": 480,
+      "height": 480,
+      "size": 10016,
+      "createdAt": "2026-07-09T20:44:43Z",
+      "updatedAt": "2026-07-09T20:44:43Z"
+    }
+  ]
+}

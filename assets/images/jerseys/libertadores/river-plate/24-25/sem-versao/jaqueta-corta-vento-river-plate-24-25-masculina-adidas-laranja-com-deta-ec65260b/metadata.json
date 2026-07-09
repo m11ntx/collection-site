@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-river-plate-24-25-masculina-adidas-laranja-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T20:44:16Z",
+  "updatedAt": "2026-07-09T20:44:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/jaqueta-corta-vento-river-plate-24-25-masculina-adidas-laranja-com-deta-ec65260b/front.webp",
+      "hash": "f3f529b7deb25f62cdc37fd22eebd64107069abc4e755c649020b9b94044ea5c",
+      "width": 480,
+      "height": 480,
+      "size": 8692,
+      "createdAt": "2026-07-09T20:44:16Z",
+      "updatedAt": "2026-07-09T20:44:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/jaqueta-corta-vento-river-plate-24-25-masculina-adidas-laranja-com-deta-ec65260b/back.webp",
+      "hash": "04054be056e0bcde3dae9532ecc3a69985a09ccadae3e884d86e0d075e3a34fa",
+      "width": 480,
+      "height": 480,
+      "size": 5296,
+      "createdAt": "2026-07-09T20:44:16Z",
+      "updatedAt": "2026-07-09T20:44:16Z"
+    }
+  ]
+}

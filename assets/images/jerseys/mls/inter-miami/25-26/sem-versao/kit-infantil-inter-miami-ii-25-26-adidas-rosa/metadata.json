@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-infantil-inter-miami-ii-25-26-adidas-rosa",
+  "createdAt": "2026-07-09T20:45:09Z",
+  "updatedAt": "2026-07-09T20:45:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/25-26/sem-versao/kit-infantil-inter-miami-ii-25-26-adidas-rosa/front.webp",
+      "hash": "0010d6b0a4adab11574f4479b4aebcc1a573bb2823d1ad3723bbea42a20619cc",
+      "width": 480,
+      "height": 480,
+      "size": 7090,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/25-26/sem-versao/kit-infantil-inter-miami-ii-25-26-adidas-rosa/back.webp",
+      "hash": "96be749a710c2c4acc73ada5cbed86d01b7022c189d3d1a643850561f2be8f19",
+      "width": 480,
+      "height": 480,
+      "size": 21894,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/25-26/sem-versao/kit-infantil-inter-miami-ii-25-26-adidas-rosa/detail-1.webp",
+      "hash": "10275c0fc8576c0b2e6c53eeebd63213b2b3e8fa0b582938ec8d8d5f98f2f0cb",
+      "width": 480,
+      "height": 480,
+      "size": 6546,
+      "createdAt": "2026-07-09T20:45:09Z",
+      "updatedAt": "2026-07-09T20:45:09Z"
+    }
+  ]
+}

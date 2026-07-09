@@ -1,0 +1,67 @@
+{
+  "productId": "source-short-selecao-da-argentina-ii-24-25-masculino-adidas-azul",
+  "createdAt": "2026-07-09T20:45:57Z",
+  "updatedAt": "2026-07-09T20:45:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/front.webp",
+      "hash": "e37e7b8cd450988ae967e8dd1f8819ab10cce667ebad5c2d506d16733108558f",
+      "width": 480,
+      "height": 480,
+      "size": 6872,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/back.webp",
+      "hash": "78cb3d0eb48e1aa7f02f5c84c0d972acb369ceec521f743a497dc8a5e7e6e956",
+      "width": 480,
+      "height": 480,
+      "size": 7728,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/detail-1.webp",
+      "hash": "4a4ea0b37bf1dec62503594e2007017a54c04f3a4db87d3202dce48d9fca019f",
+      "width": 480,
+      "height": 480,
+      "size": 38132,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/detail-2.webp",
+      "hash": "42fac13e4999bfcf8b433fd05e6049808e573a0aec3ff094297ff242b3f9f2e3",
+      "width": 480,
+      "height": 480,
+      "size": 28682,
+      "createdAt": "2026-07-09T20:45:56Z",
+      "updatedAt": "2026-07-09T20:45:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/detail-3.webp",
+      "hash": "3abbea1e3829c36519c15b1af2fb3a555fd023476f2d74f5c8da9e0b96f9d779",
+      "width": 480,
+      "height": 480,
+      "size": 33046,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/short-selecao-da-argentina-ii-24-25-masculino-adidas-azul/detail-4.webp",
+      "hash": "a6e6c308f2ad9a0eaad8ee3bd8de352cc9027788e9460926b738a093593ec287",
+      "width": 480,
+      "height": 480,
+      "size": 15734,
+      "createdAt": "2026-07-09T20:45:57Z",
+      "updatedAt": "2026-07-09T20:45:57Z"
+    }
+  ]
+}

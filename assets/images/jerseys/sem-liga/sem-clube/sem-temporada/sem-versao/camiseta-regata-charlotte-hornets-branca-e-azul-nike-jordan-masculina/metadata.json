@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina",
+  "createdAt": "2026-07-09T20:43:41Z",
+  "updatedAt": "2026-07-09T20:43:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/front.webp",
+      "hash": "6caf8782563e2ed645bee16a3005b4685853c5c08ba2697621940f00d50369cb",
+      "width": 480,
+      "height": 480,
+      "size": 13318,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/back.webp",
+      "hash": "ac368c90343b456e5529b07a042bd4c62f24b5ca400e35b77961db5e7e95f7fd",
+      "width": 480,
+      "height": 480,
+      "size": 24020,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/detail-1.webp",
+      "hash": "5b3d9d5a029feb87ff7a8d95e40efd13c8fe2d30593ac97a44c2c94feee8c984",
+      "width": 480,
+      "height": 480,
+      "size": 17478,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/detail-2.webp",
+      "hash": "5e1e7f29b10b7941e34df898965c92ab18413e8bfd94ecd2c19955f8a57c27b8",
+      "width": 480,
+      "height": 480,
+      "size": 28626,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/detail-3.webp",
+      "hash": "210e1005f1c0381151153b60f61986bcd3736b18c167866b31e438c7645cb11c",
+      "width": 480,
+      "height": 480,
+      "size": 26586,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-charlotte-hornets-branca-e-azul-nike-jordan-masculina/detail-4.webp",
+      "hash": "19843cc2a4bc146972be73374e8456c51244bfbee42985aed29801341585e97c",
+      "width": 480,
+      "height": 480,
+      "size": 14110,
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
+    }
+  ]
+}

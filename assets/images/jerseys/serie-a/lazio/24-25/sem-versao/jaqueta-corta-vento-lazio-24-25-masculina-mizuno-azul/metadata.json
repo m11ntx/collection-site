@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-lazio-24-25-masculina-mizuno-azul",
+  "createdAt": "2026-07-09T20:44:13Z",
+  "updatedAt": "2026-07-09T20:44:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/jaqueta-corta-vento-lazio-24-25-masculina-mizuno-azul/front.webp",
+      "hash": "a89a3e0f3f2672fa7180ef9c4d1ef4c65288bdba4d9a6958df2271b2d392b419",
+      "width": 480,
+      "height": 480,
+      "size": 8840,
+      "createdAt": "2026-07-09T20:44:13Z",
+      "updatedAt": "2026-07-09T20:44:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/jaqueta-corta-vento-lazio-24-25-masculina-mizuno-azul/back.webp",
+      "hash": "cf17351ca8b39bae76f68bf067dff1b8f7a470e4cf702aa8d0a8429a8e04f1ee",
+      "width": 480,
+      "height": 480,
+      "size": 4842,
+      "createdAt": "2026-07-09T20:44:13Z",
+      "updatedAt": "2026-07-09T20:44:13Z"
+    }
+  ]
+}

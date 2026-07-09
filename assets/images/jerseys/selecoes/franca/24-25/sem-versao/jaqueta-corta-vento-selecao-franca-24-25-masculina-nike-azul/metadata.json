@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul",
+  "createdAt": "2026-07-09T20:45:17Z",
+  "updatedAt": "2026-07-09T20:45:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul/front.webp",
+      "hash": "ea087123da3c96370f1e1389c2c5988400a9620687e86ed225210a72fc906a1f",
+      "width": 480,
+      "height": 480,
+      "size": 13180,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul/back.webp",
+      "hash": "7c0c70faae23bd1719e52f4d0c87c2d9118244fa9a044da649edfab13212e5af",
+      "width": 480,
+      "height": 480,
+      "size": 9736,
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul/detail-1.webp",
+      "hash": "2f1bc097d36415a7af3a6ff8956e4ccfc1e56ef960c68b424826534ab0e7ffde",
+      "width": 480,
+      "height": 480,
+      "size": 26072,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul/detail-2.webp",
+      "hash": "d91ca46530e5c5fc03d2110707c38cb8190ca20d9aa39ebd084d662fb05f4526",
+      "width": 480,
+      "height": 480,
+      "size": 30468,
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
+    }
+  ]
+}

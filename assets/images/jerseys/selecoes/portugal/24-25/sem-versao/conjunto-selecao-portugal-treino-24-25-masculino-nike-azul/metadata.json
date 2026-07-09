@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-selecao-portugal-treino-24-25-masculino-nike-azul",
+  "createdAt": "2026-07-09T20:44:55Z",
+  "updatedAt": "2026-07-09T20:44:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/conjunto-selecao-portugal-treino-24-25-masculino-nike-azul/front.webp",
+      "hash": "395a71b76997849addd0ba3437bfa77bb69b66c15d9a0f2d8d6641b2430d98e7",
+      "width": 480,
+      "height": 480,
+      "size": 10604,
+      "createdAt": "2026-07-09T20:44:55Z",
+      "updatedAt": "2026-07-09T20:44:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/conjunto-selecao-portugal-treino-24-25-masculino-nike-azul/back.webp",
+      "hash": "8e95809f9f3f4dcffd3bdba0e3cae84e83ca78a5c56bc615ba9224993e0646da",
+      "width": 480,
+      "height": 480,
+      "size": 8700,
+      "createdAt": "2026-07-09T20:44:55Z",
+      "updatedAt": "2026-07-09T20:44:55Z"
+    }
+  ]
+}

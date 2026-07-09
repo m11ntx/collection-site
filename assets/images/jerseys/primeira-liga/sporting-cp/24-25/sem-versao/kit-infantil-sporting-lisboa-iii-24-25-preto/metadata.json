@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-sporting-lisboa-iii-24-25-preto",
+  "createdAt": "2026-07-09T20:44:59Z",
+  "updatedAt": "2026-07-09T20:44:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/front.webp",
+      "hash": "86df745f557a48196c1c741b4af05bbe41572e1064abf1abc190410d76e44403",
+      "width": 480,
+      "height": 480,
+      "size": 5326,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/back.webp",
+      "hash": "ddf83b8dc2c40ef2043b3cbd536a42eed3cb563f48c185d3236f4d50b93d954e",
+      "width": 480,
+      "height": 480,
+      "size": 7834,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/detail-1.webp",
+      "hash": "bdae0568b134190ac894c48923b7bd69cabca270fcdab0fb6b05a1b86ec2c683",
+      "width": 480,
+      "height": 480,
+      "size": 4384,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/detail-2.webp",
+      "hash": "a5cee2b39cfa8bfc66e446098283284aab026db67164100c12e4a7ca8fb4b50e",
+      "width": 480,
+      "height": 480,
+      "size": 24076,
+      "createdAt": "2026-07-09T20:44:58Z",
+      "updatedAt": "2026-07-09T20:44:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/detail-3.webp",
+      "hash": "2c9cb6141a65a272ebfd15fc03e48546efcdc883271f1dbe8e6203811f2697c9",
+      "width": 480,
+      "height": 480,
+      "size": 39630,
+      "createdAt": "2026-07-09T20:44:59Z",
+      "updatedAt": "2026-07-09T20:44:59Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/detail-4.webp",
+      "hash": "6b094bb4c407205584d9bb1fd66094617fff6d58daddac2ab2b16663b09a1556",
+      "width": 480,
+      "height": 480,
+      "size": 17776,
+      "createdAt": "2026-07-09T20:44:59Z",
+      "updatedAt": "2026-07-09T20:44:59Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/primeira-liga/sporting-cp/24-25/sem-versao/kit-infantil-sporting-lisboa-iii-24-25-preto/detail-5.webp",
+      "hash": "28f49312d32fd1d6b4dde365ec75a3310f59545e2c5d3a5413c3323c00d85a3d",
+      "width": 480,
+      "height": 480,
+      "size": 16024,
+      "createdAt": "2026-07-09T20:44:59Z",
+      "updatedAt": "2026-07-09T20:44:59Z"
+    }
+  ]
+}

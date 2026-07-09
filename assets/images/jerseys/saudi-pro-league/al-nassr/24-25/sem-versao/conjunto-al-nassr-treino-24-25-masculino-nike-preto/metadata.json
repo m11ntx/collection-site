@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-al-nassr-treino-24-25-masculino-nike-preto",
+  "createdAt": "2026-07-09T20:44:09Z",
+  "updatedAt": "2026-07-09T20:44:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/conjunto-al-nassr-treino-24-25-masculino-nike-preto/front.webp",
+      "hash": "a6d9862f2893998dac8703420835562accc8df1dfa3a8e81c7dc88ee482a8b96",
+      "width": 480,
+      "height": 480,
+      "size": 8814,
+      "createdAt": "2026-07-09T20:44:09Z",
+      "updatedAt": "2026-07-09T20:44:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/conjunto-al-nassr-treino-24-25-masculino-nike-preto/back.webp",
+      "hash": "2d561d9166712b8e34eaebd3fbf38d7bc5facabe73e3d2a803ee6429fb93a002",
+      "width": 480,
+      "height": 480,
+      "size": 6974,
+      "createdAt": "2026-07-09T20:44:09Z",
+      "updatedAt": "2026-07-09T20:44:09Z"
+    }
+  ]
+}

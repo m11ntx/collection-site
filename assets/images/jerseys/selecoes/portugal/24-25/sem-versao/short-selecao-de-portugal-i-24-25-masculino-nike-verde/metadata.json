@@ -1,0 +1,47 @@
+{
+  "productId": "source-short-selecao-de-portugal-i-24-25-masculino-nike-verde",
+  "createdAt": "2026-07-09T20:46:00Z",
+  "updatedAt": "2026-07-09T20:46:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/short-selecao-de-portugal-i-24-25-masculino-nike-verde/front.webp",
+      "hash": "ecf6b4f098be711a8bf383f3146c693d66e062e4d6fee8ff5dc24fe5788c9c15",
+      "width": 480,
+      "height": 480,
+      "size": 7686,
+      "createdAt": "2026-07-09T20:45:59Z",
+      "updatedAt": "2026-07-09T20:45:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/short-selecao-de-portugal-i-24-25-masculino-nike-verde/back.webp",
+      "hash": "d510da0c4a14134e572a3c23a98bcd2bd8e2520d2804466e30f7050563296b68",
+      "width": 480,
+      "height": 480,
+      "size": 7220,
+      "createdAt": "2026-07-09T20:45:59Z",
+      "updatedAt": "2026-07-09T20:45:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/short-selecao-de-portugal-i-24-25-masculino-nike-verde/detail-1.webp",
+      "hash": "91c3fd59f77ba4545469ca5134ee09799e52b9e1cd8ff99337ca0e5aff94f6b2",
+      "width": 480,
+      "height": 480,
+      "size": 41020,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/sem-versao/short-selecao-de-portugal-i-24-25-masculino-nike-verde/detail-2.webp",
+      "hash": "bb5b52bc81faa9ae29a7f94a5e72532edc45e9d8bf8f517d4762a295b8e842af",
+      "width": 480,
+      "height": 480,
+      "size": 55864,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    }
+  ]
+}

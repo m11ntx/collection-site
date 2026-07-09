@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T20:44:05Z",
+  "updatedAt": "2026-07-09T20:44:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/front.webp",
+      "hash": "98e13b0faace0702322386f5013173df7b78d80b6828d1b42fa5601d7cc4b28b",
+      "width": 480,
+      "height": 480,
+      "size": 13664,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/back.webp",
+      "hash": "d2e82236309c936c8fbd96f32f5c8f4903b7f14be4bd573f1ebcbc916e281f4f",
+      "width": 480,
+      "height": 480,
+      "size": 16578,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/detail-1.webp",
+      "hash": "b2de0f7a05992710bc15501f555adee45db372b9cf0dd14ea1cae9b459f249b5",
+      "width": 480,
+      "height": 480,
+      "size": 13100,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/detail-2.webp",
+      "hash": "b53124d5d04a703b476aac4a66a7b5a4efd3d293e49ef43b1d1c36b6254364e0",
+      "width": 480,
+      "height": 480,
+      "size": 14978,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/detail-3.webp",
+      "hash": "c09d14552a7d9e522763f8c655e0465d4f983688a172152d8e42e8a1a509915d",
+      "width": 480,
+      "height": 480,
+      "size": 12126,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/player/camisa-inter-miami-iii-24-25-manga-longa-jogador-adidas-masculina-verde-d3d12549/detail-4.webp",
+      "hash": "8242d2bc2885ebfca28bd1e966bd24b0fdb74433a61674b8c690801ab6c392ab",
+      "width": 480,
+      "height": 480,
+      "size": 23880,
+      "createdAt": "2026-07-09T20:44:05Z",
+      "updatedAt": "2026-07-09T20:44:05Z"
+    }
+  ]
+}

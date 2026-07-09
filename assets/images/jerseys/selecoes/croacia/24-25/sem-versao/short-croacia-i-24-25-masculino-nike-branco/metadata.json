@@ -1,0 +1,47 @@
+{
+  "productId": "source-short-croacia-i-24-25-masculino-nike-branco",
+  "createdAt": "2026-07-09T20:44:18Z",
+  "updatedAt": "2026-07-09T20:44:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/sem-versao/short-croacia-i-24-25-masculino-nike-branco/front.webp",
+      "hash": "cd36c86b2eadf3caf0a17af3e245b8ef64b12e8ee57d80edd6c11cec92e25920",
+      "width": 480,
+      "height": 480,
+      "size": 4342,
+      "createdAt": "2026-07-09T20:44:18Z",
+      "updatedAt": "2026-07-09T20:44:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/sem-versao/short-croacia-i-24-25-masculino-nike-branco/back.webp",
+      "hash": "524031db63e4530dd8d3b8bfc000fbcdab089ec14276e16f69ea79ed7a7c7e61",
+      "width": 480,
+      "height": 480,
+      "size": 4078,
+      "createdAt": "2026-07-09T20:44:18Z",
+      "updatedAt": "2026-07-09T20:44:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/sem-versao/short-croacia-i-24-25-masculino-nike-branco/detail-1.webp",
+      "hash": "c1e3b439c2a3d6777f1c531f0ec835f6abb979361b29115e291ba1c9a04a6703",
+      "width": 480,
+      "height": 480,
+      "size": 13006,
+      "createdAt": "2026-07-09T20:44:18Z",
+      "updatedAt": "2026-07-09T20:44:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/sem-versao/short-croacia-i-24-25-masculino-nike-branco/detail-2.webp",
+      "hash": "5936237682c17015866cddfde42d8166d3f0bb83d3aaac7476d6b55b84ccc5ff",
+      "width": 480,
+      "height": 480,
+      "size": 26358,
+      "createdAt": "2026-07-09T20:44:18Z",
+      "updatedAt": "2026-07-09T20:44:18Z"
+    }
+  ]
+}

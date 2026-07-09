@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:44:49Z",
+  "updatedAt": "2026-07-09T20:44:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/front.webp",
+      "hash": "c9b32778ece4804ab1a1dac9db83732192510d99d318d20d705683ab8eec0ad3",
+      "width": 480,
+      "height": 480,
+      "size": 26524,
+      "createdAt": "2026-07-09T20:44:47Z",
+      "updatedAt": "2026-07-09T20:44:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/back.webp",
+      "hash": "67c1d6b6ddbfee6a882eba7e9c476bdbd0d51b0a0ecc058734b73bed98ffe1fb",
+      "width": 480,
+      "height": 480,
+      "size": 25154,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/detail-1.webp",
+      "hash": "529dc8649df8591daabb9e1a83297400c8267293e297d3f1daf8fab3b7a12671",
+      "width": 480,
+      "height": 480,
+      "size": 34348,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/detail-2.webp",
+      "hash": "85f7bd538889fbd23f0dc2043eeac55ea845d75abd2bf0ee8e8eb5cea9af0491",
+      "width": 480,
+      "height": 480,
+      "size": 61126,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/detail-3.webp",
+      "hash": "f1849150af3ca9a5f8bb7b7a0e42339c73fe440cf538f813f5c3d22b57841047",
+      "width": 480,
+      "height": 480,
+      "size": 62676,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/detail-4.webp",
+      "hash": "2940b71613822f5c731e465895c9b3bd7853cc71c0f226d2f6585ad94634942a",
+      "width": 480,
+      "height": 480,
+      "size": 23780,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-ii-24-25-manga-longa-torcedor-nike-masculina-990a7a9b/detail-5.webp",
+      "hash": "a8162b3de97b6e6405ee014228aef0049d05e588a5da89c74eb9213bfbc212c6",
+      "width": 480,
+      "height": 480,
+      "size": 25494,
+      "createdAt": "2026-07-09T20:44:48Z",
+      "updatedAt": "2026-07-09T20:44:48Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-selecao-da-tunisia-i-24-25-masculino-kappa-vermelho",
+  "createdAt": "2026-07-09T20:46:00Z",
+  "updatedAt": "2026-07-09T20:46:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/tunisia/24-25/sem-versao/shorts-selecao-da-tunisia-i-24-25-masculino-kappa-vermelho/front.webp",
+      "hash": "f4cf85d777b6fdfde60d8294ffd5a885665969e005e45f978f0f864f60f03746",
+      "width": 480,
+      "height": 480,
+      "size": 14222,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/tunisia/24-25/sem-versao/shorts-selecao-da-tunisia-i-24-25-masculino-kappa-vermelho/back.webp",
+      "hash": "4cee891dfc95065471ad007008d8a9275baec775b6fc375e19381bfdc3a2b097",
+      "width": 480,
+      "height": 480,
+      "size": 11058,
+      "createdAt": "2026-07-09T20:46:00Z",
+      "updatedAt": "2026-07-09T20:46:00Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-newcastle-24-25-masculina-adidas-vermelha",
+  "createdAt": "2026-07-09T20:44:16Z",
+  "updatedAt": "2026-07-09T20:44:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/sem-versao/jaqueta-corta-vento-newcastle-24-25-masculina-adidas-vermelha/front.webp",
+      "hash": "9c6567fb47fe29112e285150c64ed0cd7c7b492508eebdea1d9747c1ba061d87",
+      "width": 480,
+      "height": 480,
+      "size": 10260,
+      "createdAt": "2026-07-09T20:44:16Z",
+      "updatedAt": "2026-07-09T20:44:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/sem-versao/jaqueta-corta-vento-newcastle-24-25-masculina-adidas-vermelha/back.webp",
+      "hash": "1f0f67cf64142d1bf7bd27e4ee6e915f3b9629dc2b8014c4303937d988e2cd82",
+      "width": 480,
+      "height": 480,
+      "size": 7272,
+      "createdAt": "2026-07-09T20:44:16Z",
+      "updatedAt": "2026-07-09T20:44:16Z"
+    }
+  ]
+}
