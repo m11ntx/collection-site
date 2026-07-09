@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto",
+  "createdAt": "2026-07-09T20:31:41Z",
+  "updatedAt": "2026-07-09T20:31:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto/front.webp",
+      "hash": "f4c6c2464a68c62b6dee8be9d3a41e43b7f0eb403d8ffe5e0030b721ef80aaa4",
+      "width": 480,
+      "height": 480,
+      "size": 11900,
+      "createdAt": "2026-07-09T20:31:41Z",
+      "updatedAt": "2026-07-09T20:31:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto/back.webp",
+      "hash": "f09a333201f74a6c945907c1e5930935ac0e81551e998f6fcce6eb826c361e1c",
+      "width": 480,
+      "height": 480,
+      "size": 32898,
+      "createdAt": "2026-07-09T20:31:41Z",
+      "updatedAt": "2026-07-09T20:31:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto/detail-1.webp",
+      "hash": "c22940e147e7f5ddeb630415ded9e59318ec958ef79e27999f2c18c87a12d8c5",
+      "width": 480,
+      "height": 480,
+      "size": 28868,
+      "createdAt": "2026-07-09T20:31:41Z",
+      "updatedAt": "2026-07-09T20:31:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto/detail-2.webp",
+      "hash": "20c7fdefeb5489b3319fc8ac180d9f1e8e079a152914daf84b17335d8aea0356",
+      "width": 480,
+      "height": 480,
+      "size": 37684,
+      "createdAt": "2026-07-09T20:31:41Z",
+      "updatedAt": "2026-07-09T20:31:41Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-branca-com-detalhes-no-preto/detail-3.webp",
+      "hash": "09440eae8b5a23fbfa45ee92373a9041e609bc719911a2342cd9f4a91b4d48ee",
+      "width": 480,
+      "height": 480,
+      "size": 24652,
+      "createdAt": "2026-07-09T20:31:41Z",
+      "updatedAt": "2026-07-09T20:31:41Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-09T20:32:15Z",
+  "updatedAt": "2026-07-09T20:32:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/front.webp",
+      "hash": "8d3c841854d8fa346a817447580d8c43597a1324b15579e00f396185a624d8c3",
+      "width": 480,
+      "height": 480,
+      "size": 8928,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/back.webp",
+      "hash": "1008a4fe43b18635216f2d739f79c33528279e17c7216fe369ebb627a1de4712",
+      "width": 480,
+      "height": 480,
+      "size": 12746,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/detail-1.webp",
+      "hash": "a14b0760d7c17dfc230799b38b13dcdd976cf8d156ae02709461b62e5dba2546",
+      "width": 480,
+      "height": 480,
+      "size": 7738,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/detail-2.webp",
+      "hash": "8d4deae11616286e5d92faf57815acb7ae1133c5150e8f01c64301e240b38268",
+      "width": 480,
+      "height": 480,
+      "size": 55760,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/detail-3.webp",
+      "hash": "6bd0402726ee225db866987955812638ec2b955caa22a93987a176c5bfffc9db",
+      "width": 480,
+      "height": 480,
+      "size": 48170,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/detail-4.webp",
+      "hash": "f4b08e02e64cb00e7bb1732940b1c5ff3298c1aa6b555d71face5fd1be48b7b2",
+      "width": 480,
+      "height": 480,
+      "size": 13250,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-edicao-especial-24-25-jogador-nike-masculina-branca/detail-5.webp",
+      "hash": "f1c437e24779116a126256828fb34eb60df218b3379195bb818031219a44c3d8",
+      "width": 480,
+      "height": 480,
+      "size": 18904,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    }
+  ]
+}

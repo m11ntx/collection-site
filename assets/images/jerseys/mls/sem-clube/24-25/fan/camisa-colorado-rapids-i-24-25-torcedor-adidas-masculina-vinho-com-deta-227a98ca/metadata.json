@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-colorado-rapids-i-24-25-torcedor-adidas-masculina-vinho-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T20:32:09Z",
+  "updatedAt": "2026-07-09T20:32:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-colorado-rapids-i-24-25-torcedor-adidas-masculina-vinho-com-deta-227a98ca/front.webp",
+      "hash": "d014c346c8a9648690cd1e763242866617f0d9ac8b60d4628cabf7a086929cd6",
+      "width": 480,
+      "height": 480,
+      "size": 19450,
+      "createdAt": "2026-07-09T20:32:09Z",
+      "updatedAt": "2026-07-09T20:32:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-colorado-rapids-i-24-25-torcedor-adidas-masculina-vinho-com-deta-227a98ca/back.webp",
+      "hash": "b67b12af35bf7aef2f6e9ff3d00de7c96dcbe9e84b0d9e7d4922f8b2785f87d6",
+      "width": 480,
+      "height": 480,
+      "size": 10546,
+      "createdAt": "2026-07-09T20:32:09Z",
+      "updatedAt": "2026-07-09T20:32:09Z"
+    }
+  ]
+}

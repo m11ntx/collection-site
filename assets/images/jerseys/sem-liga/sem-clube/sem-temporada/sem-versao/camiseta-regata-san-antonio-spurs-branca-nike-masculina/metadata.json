@@ -1,0 +1,57 @@
+{
+  "productId": "source-camiseta-regata-san-antonio-spurs-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:31:18Z",
+  "updatedAt": "2026-07-09T20:31:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-san-antonio-spurs-branca-nike-masculina/front.webp",
+      "hash": "ad54d5de7aeeb4e89f7f73d5d1d2712d372b926017f68a4b3fb81cbf2c5bb46a",
+      "width": 480,
+      "height": 480,
+      "size": 11898,
+      "createdAt": "2026-07-09T20:31:18Z",
+      "updatedAt": "2026-07-09T20:31:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-san-antonio-spurs-branca-nike-masculina/back.webp",
+      "hash": "aeb6d816155497e4ebf72d652df420c494072084767e9cd286686bc6d4409857",
+      "width": 480,
+      "height": 480,
+      "size": 11642,
+      "createdAt": "2026-07-09T20:31:18Z",
+      "updatedAt": "2026-07-09T20:31:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-san-antonio-spurs-branca-nike-masculina/detail-1.webp",
+      "hash": "1fa7f657a26608a4b56aa5a1bbdde618012086a8709fa866fc74452efc72b48e",
+      "width": 480,
+      "height": 480,
+      "size": 19340,
+      "createdAt": "2026-07-09T20:31:18Z",
+      "updatedAt": "2026-07-09T20:31:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-san-antonio-spurs-branca-nike-masculina/detail-2.webp",
+      "hash": "eda7e907e87f9351bbf7c61c06a290f3917d437b2e8fa4635d965d1e63bb2c1b",
+      "width": 480,
+      "height": 480,
+      "size": 25524,
+      "createdAt": "2026-07-09T20:31:18Z",
+      "updatedAt": "2026-07-09T20:31:18Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-san-antonio-spurs-branca-nike-masculina/detail-3.webp",
+      "hash": "ca7bb952d228436538720486b521751abdbb6813fef74c89e8880fd7ccc9a5a3",
+      "width": 480,
+      "height": 480,
+      "size": 41696,
+      "createdAt": "2026-07-09T20:31:18Z",
+      "updatedAt": "2026-07-09T20:31:18Z"
+    }
+  ]
+}

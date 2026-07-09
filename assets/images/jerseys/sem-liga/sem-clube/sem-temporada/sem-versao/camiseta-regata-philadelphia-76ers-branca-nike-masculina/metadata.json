@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-philadelphia-76ers-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:31:11Z",
+  "updatedAt": "2026-07-09T20:31:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/front.webp",
+      "hash": "1460cebe095ec6a5517532ce94e7753ee18da2165b4869c7ab488fe769241187",
+      "width": 480,
+      "height": 480,
+      "size": 12396,
+      "createdAt": "2026-07-09T20:31:10Z",
+      "updatedAt": "2026-07-09T20:31:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/back.webp",
+      "hash": "9a6a86fe42d1e80dccf44d5fa7fb99cfd3d4b8861f80922d2501f2f9cdb5d0a7",
+      "width": 480,
+      "height": 480,
+      "size": 15762,
+      "createdAt": "2026-07-09T20:31:10Z",
+      "updatedAt": "2026-07-09T20:31:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/detail-1.webp",
+      "hash": "a81fcfd83d926ed2130bcdfea2162fd2f6c737e29da713dfc9d9b1373ffa09a6",
+      "width": 480,
+      "height": 480,
+      "size": 17732,
+      "createdAt": "2026-07-09T20:31:10Z",
+      "updatedAt": "2026-07-09T20:31:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/detail-2.webp",
+      "hash": "cf4cc953b76d3fc06b319288d740d5dbdca25b538afe3cf9347483a0c963c1a0",
+      "width": 480,
+      "height": 480,
+      "size": 22270,
+      "createdAt": "2026-07-09T20:31:11Z",
+      "updatedAt": "2026-07-09T20:31:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/detail-3.webp",
+      "hash": "60d20d4f86ab1fb13960a7be7001e0b6a296ed6121c6933a31fbac2417ce94a5",
+      "width": 480,
+      "height": 480,
+      "size": 16246,
+      "createdAt": "2026-07-09T20:31:11Z",
+      "updatedAt": "2026-07-09T20:31:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-philadelphia-76ers-branca-nike-masculina/detail-4.webp",
+      "hash": "b972e927a1444463a900463b64585bfe6948379ed4fad973ab4b9f3e32ef1013",
+      "width": 480,
+      "height": 480,
+      "size": 36820,
+      "createdAt": "2026-07-09T20:31:11Z",
+      "updatedAt": "2026-07-09T20:31:11Z"
+    }
+  ]
+}

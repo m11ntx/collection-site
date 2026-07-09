@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao",
+  "createdAt": "2026-07-09T20:31:29Z",
+  "updatedAt": "2026-07-09T20:31:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao/front.webp",
+      "hash": "1c5f378e5b33f9a570e9d3e61098fb5aa7bf6c0d532a71601f99c7cc88512490",
+      "width": 480,
+      "height": 480,
+      "size": 21278,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao/back.webp",
+      "hash": "4247f72859ce3d241abd5989c1f415f64ef77a464a3cd372d58dcd847dcbba46",
+      "width": 480,
+      "height": 480,
+      "size": 39590,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao/detail-1.webp",
+      "hash": "28ca05660214a49a916cf01e595aaa12103f25437753e9feb2616ad6880a430b",
+      "width": 480,
+      "height": 480,
+      "size": 29600,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao/detail-2.webp",
+      "hash": "066bd7bdab7606466b8941afc9a76d2f1322aebfd9648dcbb193e6cd362ff678",
+      "width": 480,
+      "height": 480,
+      "size": 43936,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-cinza-com-detalhes-em-verde-limao/detail-3.webp",
+      "hash": "dc8fd9b08f110a060f31f58302de837264674180da16bd5d521947aa7e67ac43",
+      "width": 480,
+      "height": 480,
+      "size": 49772,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    }
+  ]
+}

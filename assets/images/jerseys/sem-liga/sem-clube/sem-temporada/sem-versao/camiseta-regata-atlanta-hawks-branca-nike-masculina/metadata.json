@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-atlanta-hawks-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:30:17Z",
+  "updatedAt": "2026-07-09T20:30:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/front.webp",
+      "hash": "90cad1adec32f7e8647a8ec3c4374315341b49406efe1ea43b7f3d65f551f474",
+      "width": 480,
+      "height": 480,
+      "size": 12680,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/back.webp",
+      "hash": "cac82ab5d6cf5a4b29acba1e011148ec90016735681da4b79e55f05518069e2f",
+      "width": 480,
+      "height": 480,
+      "size": 13032,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/detail-1.webp",
+      "hash": "650f12a1109a47f3dfec5c9d72b4a997436d31cc6a325fcdaa45408266e90018",
+      "width": 480,
+      "height": 480,
+      "size": 14394,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/detail-2.webp",
+      "hash": "a8093f05cc423b4bad5cec0f56babc81be6311b1763e810d18c94d1722f01a41",
+      "width": 480,
+      "height": 480,
+      "size": 19044,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/detail-3.webp",
+      "hash": "55ea3d3f910b6812d0ecfb1e06aea8f036f19bb923d84da375c8857c1296f00f",
+      "width": 480,
+      "height": 480,
+      "size": 13470,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-atlanta-hawks-branca-nike-masculina/detail-4.webp",
+      "hash": "61a90b0e40fbf2e818dc43a8d1dbb37e928170c1dbef067433af2f995a1e5698",
+      "width": 480,
+      "height": 480,
+      "size": 27394,
+      "createdAt": "2026-07-09T20:30:16Z",
+      "updatedAt": "2026-07-09T20:30:16Z"
+    }
+  ]
+}

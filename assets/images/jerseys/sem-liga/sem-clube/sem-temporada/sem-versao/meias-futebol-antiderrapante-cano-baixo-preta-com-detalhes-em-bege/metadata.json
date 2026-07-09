@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege",
+  "createdAt": "2026-07-09T20:31:46Z",
+  "updatedAt": "2026-07-09T20:31:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege/front.webp",
+      "hash": "2dacd602f0564cdbcf3d92de3003423432d10c0b0befb0b83471451d9cfc01a3",
+      "width": 480,
+      "height": 480,
+      "size": 11920,
+      "createdAt": "2026-07-09T20:31:45Z",
+      "updatedAt": "2026-07-09T20:31:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege/back.webp",
+      "hash": "48dd40218b721b07672649a052df7d686b258930bb1cfe273216fdee4173ec88",
+      "width": 480,
+      "height": 480,
+      "size": 38630,
+      "createdAt": "2026-07-09T20:31:46Z",
+      "updatedAt": "2026-07-09T20:31:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege/detail-1.webp",
+      "hash": "e78065354f1e87666cb1285eed5ad0a66fbd6ff9d6039c3b3574c41adcee3105",
+      "width": 480,
+      "height": 480,
+      "size": 41422,
+      "createdAt": "2026-07-09T20:31:46Z",
+      "updatedAt": "2026-07-09T20:31:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege/detail-2.webp",
+      "hash": "afe91e9382f0c18b8dd5ef4ab6f816698e3afa7cf0c2d6945cff72f29b20ee3a",
+      "width": 480,
+      "height": 480,
+      "size": 31640,
+      "createdAt": "2026-07-09T20:31:46Z",
+      "updatedAt": "2026-07-09T20:31:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-preta-com-detalhes-em-bege/detail-3.webp",
+      "hash": "7225f19ddd71f53403dff3875b8d88a036f55f26093adc3bd55eee5fe010907b",
+      "width": 480,
+      "height": 480,
+      "size": 34918,
+      "createdAt": "2026-07-09T20:31:46Z",
+      "updatedAt": "2026-07-09T20:31:46Z"
+    }
+  ]
+}

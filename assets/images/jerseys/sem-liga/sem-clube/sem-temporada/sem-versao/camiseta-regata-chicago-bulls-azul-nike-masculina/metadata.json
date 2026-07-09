@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-chicago-bulls-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:30:26Z",
+  "updatedAt": "2026-07-09T20:30:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/front.webp",
+      "hash": "fafee6526fcfeba725ca1d93f6c0e19f4368c4b435e1ff971fd3ec5bfaaa932b",
+      "width": 480,
+      "height": 480,
+      "size": 12608,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/back.webp",
+      "hash": "ea8cb3dd11e2deac2d416cec75ea16b0813ba32f1b0a3193a4e7316d825b6538",
+      "width": 480,
+      "height": 480,
+      "size": 27458,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/detail-1.webp",
+      "hash": "2540693b89fe4a52241089ca12d1024d4b7d46668bb30588989e1cdea708ce84",
+      "width": 480,
+      "height": 480,
+      "size": 76914,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/detail-2.webp",
+      "hash": "bbfeb4ef871bb9da1f0fbfe884ccd131dcb1049119b8cdb943ad278dccc636a8",
+      "width": 480,
+      "height": 480,
+      "size": 12060,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/detail-3.webp",
+      "hash": "2c716ccb7f40ba92af5bf374e9f09e5467ef6dc0b680653333ffe6205afd1d40",
+      "width": 480,
+      "height": 480,
+      "size": 18434,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-azul-nike-masculina/detail-4.webp",
+      "hash": "ece2de286e0dc0eb62658f1db070ac604da4ea8c9da46b45bbe5609da4c25901",
+      "width": 480,
+      "height": 480,
+      "size": 54236,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    }
+  ]
+}

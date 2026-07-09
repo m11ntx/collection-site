@@ -1,0 +1,57 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina",
+  "createdAt": "2026-07-09T20:30:53Z",
+  "updatedAt": "2026-07-09T20:30:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina/front.webp",
+      "hash": "4393ef9c33d6048ab95ccf4a95c550b974d234228e8be3cfdb6e3c901fd8e6d1",
+      "width": 480,
+      "height": 480,
+      "size": 10622,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina/back.webp",
+      "hash": "cf7464a81bf5605481f3af80622fd1d9c0252f35a5473b100921a5d310a85eb6",
+      "width": 480,
+      "height": 480,
+      "size": 23862,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina/detail-1.webp",
+      "hash": "5d5dec816577bf58356532418239dc9e4ce28675c4d4bc4b6ec4a5443a3c46a3",
+      "width": 480,
+      "height": 480,
+      "size": 18470,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina/detail-2.webp",
+      "hash": "509a0431a97ee8c46e34898e1257bd93ca4f339816e1bc673c7221cb7c3cdd84",
+      "width": 480,
+      "height": 480,
+      "size": 19832,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina/detail-3.webp",
+      "hash": "9e44ff938f7f72582c93d62006c9d7ea4510b83b5af8755fb754a008885ba84a",
+      "width": 480,
+      "height": 480,
+      "size": 12196,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    }
+  ]
+}

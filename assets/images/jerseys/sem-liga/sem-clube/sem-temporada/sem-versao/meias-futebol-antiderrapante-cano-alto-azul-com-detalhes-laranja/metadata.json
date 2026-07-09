@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja",
+  "createdAt": "2026-07-09T20:31:27Z",
+  "updatedAt": "2026-07-09T20:31:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja/front.webp",
+      "hash": "2f5d2c91c971c5c2c5ecb440299460456e20af51a3ba6c760877c55158d8be7a",
+      "width": 480,
+      "height": 480,
+      "size": 16836,
+      "createdAt": "2026-07-09T20:31:26Z",
+      "updatedAt": "2026-07-09T20:31:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja/back.webp",
+      "hash": "e2fa9d4c6e087b0f2bd72981add853d286e89acaf711018251b2d5d07fe616fa",
+      "width": 480,
+      "height": 480,
+      "size": 30022,
+      "createdAt": "2026-07-09T20:31:26Z",
+      "updatedAt": "2026-07-09T20:31:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja/detail-1.webp",
+      "hash": "defd023823bd0bdc718fcda3b28900bde144d83fbfdae59af5e0f995be5ce713",
+      "width": 480,
+      "height": 480,
+      "size": 40020,
+      "createdAt": "2026-07-09T20:31:26Z",
+      "updatedAt": "2026-07-09T20:31:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja/detail-2.webp",
+      "hash": "3f7d0f772bc9bb4860bd89b35fe18500d4c9c54f64b1973008fbb5ff3ae0d839",
+      "width": 480,
+      "height": 480,
+      "size": 50566,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-com-detalhes-laranja/detail-3.webp",
+      "hash": "bfe7c9a50fef44ba7376ab8dc14b4d57c7561e359257e27d3c75d149a6d0ec89",
+      "width": 480,
+      "height": 480,
+      "size": 55516,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-amarela-nike-masculina",
+  "createdAt": "2026-07-09T20:30:49Z",
+  "updatedAt": "2026-07-09T20:30:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/front.webp",
+      "hash": "e8c904330aed7fd7c78879b2cf045581fb832e209f334463aa36607f10a6fee6",
+      "width": 480,
+      "height": 480,
+      "size": 15542,
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/back.webp",
+      "hash": "97b984f2706dba949e00268b59b99877a104cea9c8e372ec724abb8cffd74691",
+      "width": 480,
+      "height": 480,
+      "size": 24426,
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/detail-1.webp",
+      "hash": "0efd8defc29030f09560d277013c58ffc23c6ed7125de7828f35405989d61292",
+      "width": 480,
+      "height": 480,
+      "size": 26510,
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/detail-2.webp",
+      "hash": "dc65d1979fa03b4b93e822c25b0d8a87b4c4f66946ae87789884e4bbdf0a1f98",
+      "width": 480,
+      "height": 480,
+      "size": 28048,
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/detail-3.webp",
+      "hash": "a8a38d95bdbaeacdd1961428196a2731fc141659f9e00845cb4b13ca3d4c3d8c",
+      "width": 480,
+      "height": 480,
+      "size": 24346,
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-amarela-nike-masculina/detail-4.webp",
+      "hash": "34e2e20c3ed17e088cbf3d7349140fa3beea8c37f8c5df116dec91f71c8d16af",
+      "width": 480,
+      "height": 480,
+      "size": 26378,
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
+    }
+  ]
+}

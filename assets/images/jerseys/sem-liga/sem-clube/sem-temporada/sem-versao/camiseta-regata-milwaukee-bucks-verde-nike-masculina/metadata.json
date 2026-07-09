@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-milwaukee-bucks-verde-nike-masculina",
+  "createdAt": "2026-07-09T20:31:05Z",
+  "updatedAt": "2026-07-09T20:31:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/front.webp",
+      "hash": "f5cc38f289cf94968545bae7e3b8ccaebff0b896e4dfc87973a23137933a45c0",
+      "width": 480,
+      "height": 480,
+      "size": 12958,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/back.webp",
+      "hash": "be5666d1d3b9eb6d6f70e35542b466d518095efd26427f94be6103ee2809bd2d",
+      "width": 480,
+      "height": 480,
+      "size": 26370,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/detail-1.webp",
+      "hash": "95a8e5fb4bd810c58daefb246edc58ec5dc601798aa5ae325a912978c6f77f6a",
+      "width": 480,
+      "height": 480,
+      "size": 22474,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/detail-2.webp",
+      "hash": "a9b5886c87c0c5c7400adc56efd546ff478757b2f68c549b771dc767b2cec86f",
+      "width": 480,
+      "height": 480,
+      "size": 46286,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/detail-3.webp",
+      "hash": "54907a4d7fb9ec2a65ca924e25f374fb46a4b53097c1fc0db409c6648299832a",
+      "width": 480,
+      "height": 480,
+      "size": 32852,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-verde-nike-masculina/detail-4.webp",
+      "hash": "ff726ec5e4593447450048d8b3b1915ef7d20c26d29d6cfe463fd6c54d350fb2",
+      "width": 480,
+      "height": 480,
+      "size": 24410,
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
+    }
+  ]
+}

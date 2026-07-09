@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-utah-jazz-laranja-nike-masculina",
+  "createdAt": "2026-07-09T20:31:19Z",
+  "updatedAt": "2026-07-09T20:31:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/front.webp",
+      "hash": "00e386d837927f153f2a3f3d96986e48c2128a3f37cce922f6264093d4c4dea4",
+      "width": 480,
+      "height": 480,
+      "size": 12498,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/back.webp",
+      "hash": "208999c984a9c87bfbb198763bd23c7416be10b8d00073a29d4112b67583dcba",
+      "width": 480,
+      "height": 480,
+      "size": 15320,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/detail-1.webp",
+      "hash": "3f10550ea9cbe4e02e5fa33998abc9e7d9fd47a1ffb1f67cc875893e9e67b8b6",
+      "width": 480,
+      "height": 480,
+      "size": 20202,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/detail-2.webp",
+      "hash": "99bc6085b68b06cb24b49843c110e23f029daca69527287375e38d2ee72986e4",
+      "width": 480,
+      "height": 480,
+      "size": 23380,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/detail-3.webp",
+      "hash": "958de71b77d6975ddb91654bd7f8cb47ce3a86b756770df81cac122578fa648c",
+      "width": 480,
+      "height": 480,
+      "size": 20128,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-laranja-nike-masculina/detail-4.webp",
+      "hash": "cb769632abd9a06288a9ab043213a50cffaf2689bc7ee86f03f844f7dfa95d0d",
+      "width": 480,
+      "height": 480,
+      "size": 22118,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    }
+  ]
+}

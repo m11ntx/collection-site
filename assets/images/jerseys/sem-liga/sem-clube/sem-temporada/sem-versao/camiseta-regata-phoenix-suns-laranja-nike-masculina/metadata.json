@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-phoenix-suns-laranja-nike-masculina",
+  "createdAt": "2026-07-09T20:31:12Z",
+  "updatedAt": "2026-07-09T20:31:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/front.webp",
+      "hash": "a5e09fb9d7f7d59a051000fb9d2b1e90b4f6f3b1f60a6b4a59f064c4f31ae79b",
+      "width": 480,
+      "height": 480,
+      "size": 10014,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/back.webp",
+      "hash": "7db554a42b2588f0befc270b6ee274f989b59fb219b244222ca3dfce40698dea",
+      "width": 480,
+      "height": 480,
+      "size": 12798,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/detail-1.webp",
+      "hash": "c1cd369a5f48833db87d5d32d6ca0e9f897c07194dc9873900e3422864f3d7ec",
+      "width": 480,
+      "height": 480,
+      "size": 16958,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/detail-2.webp",
+      "hash": "23c8b187d42ab5ed827fd578e3ffcf5d851bd7e750d3b46bfc9491f1b7f52ded",
+      "width": 480,
+      "height": 480,
+      "size": 19926,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/detail-3.webp",
+      "hash": "e3878e22fe1b9771123a2509a6195deab824d10ef0d5996c1a16c9ed96e0d1ed",
+      "width": 480,
+      "height": 480,
+      "size": 12526,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-laranja-nike-masculina/detail-4.webp",
+      "hash": "7f753e1a47642fb0c460d70b8ede3f58ecf62f23a1a9bc136da8ff3717b64445",
+      "width": 480,
+      "height": 480,
+      "size": 26932,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    }
+  ]
+}

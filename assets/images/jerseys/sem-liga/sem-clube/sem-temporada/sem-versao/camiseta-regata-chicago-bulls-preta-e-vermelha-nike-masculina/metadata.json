@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina",
+  "createdAt": "2026-07-09T20:30:28Z",
+  "updatedAt": "2026-07-09T20:30:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/front.webp",
+      "hash": "6c53b226a9b97f70c3e1331f6f0a02ae3a4f017aae9ebfb04392b8fdb2c0e532",
+      "width": 480,
+      "height": 480,
+      "size": 15470,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/back.webp",
+      "hash": "7d79732719ce2bdf5876ae74f68ed74a68da47bc95b2c084d35d34c2d5f99a54",
+      "width": 480,
+      "height": 480,
+      "size": 29226,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/detail-1.webp",
+      "hash": "d33768929659f55a007cf476b98fdfdc7d7e7ba6a2cff7367d5a09af0738a46c",
+      "width": 480,
+      "height": 480,
+      "size": 33510,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/detail-2.webp",
+      "hash": "bbde60ef8401fe9eab39e5ed6fd570d9ba41e2eb2fa5ad5accfd3b3d247145f8",
+      "width": 480,
+      "height": 480,
+      "size": 14884,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/detail-3.webp",
+      "hash": "5d36d8521e911c71d71c39b91ca1017cefd77188948ee48c6e7bc6414722aad2",
+      "width": 480,
+      "height": 480,
+      "size": 22004,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-vermelha-nike-masculina/detail-4.webp",
+      "hash": "9cfc96dc90d9767657873c96f7491c3d15c9591e990c89c4d8a13ca838810efd",
+      "width": 480,
+      "height": 480,
+      "size": 13696,
+      "createdAt": "2026-07-09T20:30:28Z",
+      "updatedAt": "2026-07-09T20:30:28Z"
+    }
+  ]
+}

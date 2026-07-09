@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-dallas-mavericks-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:30:34Z",
+  "updatedAt": "2026-07-09T20:30:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/front.webp",
+      "hash": "dcc2aca1946aca8460e0d7694bd5090f7327620ed4416c720984bd6f72a13a66",
+      "width": 480,
+      "height": 480,
+      "size": 13318,
+      "createdAt": "2026-07-09T20:30:33Z",
+      "updatedAt": "2026-07-09T20:30:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/back.webp",
+      "hash": "f595cd5f4c2c9fcaa5e8d77f6c854e57601a970df8e47fcc2184680e83bb55b2",
+      "width": 480,
+      "height": 480,
+      "size": 13964,
+      "createdAt": "2026-07-09T20:30:33Z",
+      "updatedAt": "2026-07-09T20:30:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/detail-1.webp",
+      "hash": "f07900f61a0ddaf89ed5cfc1cc96a0d443c568138b8fb4e0538c7ace6ab2997a",
+      "width": 480,
+      "height": 480,
+      "size": 11258,
+      "createdAt": "2026-07-09T20:30:33Z",
+      "updatedAt": "2026-07-09T20:30:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/detail-2.webp",
+      "hash": "b2effce44e7baf815c5e8c13aee0188c57fc4fda50ad19fe498471c2a42dbf2f",
+      "width": 480,
+      "height": 480,
+      "size": 27478,
+      "createdAt": "2026-07-09T20:30:33Z",
+      "updatedAt": "2026-07-09T20:30:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/detail-3.webp",
+      "hash": "698b347b129942aee00e74f273bf174468d26fe67ed5985e275109d70bf324df",
+      "width": 480,
+      "height": 480,
+      "size": 20298,
+      "createdAt": "2026-07-09T20:30:33Z",
+      "updatedAt": "2026-07-09T20:30:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-preta-nike-masculina/detail-4.webp",
+      "hash": "f4a5fb8cf25fb3051f8f6f63263f6c137d17f9102b8d63a8ec6dfa4126cc3004",
+      "width": 480,
+      "height": 480,
+      "size": 24210,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    }
+  ]
+}

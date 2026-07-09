@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-brooklyn-nets-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:30:21Z",
+  "updatedAt": "2026-07-09T20:30:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/front.webp",
+      "hash": "6f49d723f387c56aa28a8ca89fb9b902f75c5b901f3bf82dabcc03c208762019",
+      "width": 480,
+      "height": 480,
+      "size": 11318,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/back.webp",
+      "hash": "4213e370a8f9bb1aedda038f520f42153e0c191b572487d9e74f551f363f40d5",
+      "width": 480,
+      "height": 480,
+      "size": 10474,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/detail-1.webp",
+      "hash": "ad21568080afc1bed822455594132c00605c681e6cbe467afca0b2c277d90fc1",
+      "width": 480,
+      "height": 480,
+      "size": 22414,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/detail-2.webp",
+      "hash": "01f1af5547db88f22b28f0eaf06a0904038672fede7c43b4b77abda703bcd624",
+      "width": 480,
+      "height": 480,
+      "size": 22364,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/detail-3.webp",
+      "hash": "6b2a36d730c67ba0372667a9b2617fef91043fc4f2c4ff33c3ee96d88e8f9110",
+      "width": 480,
+      "height": 480,
+      "size": 24906,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-branca-nike-masculina/detail-4.webp",
+      "hash": "7d896897d5bec597df4c469cd58364156d75317df7d8435b0047b3ce728173ca",
+      "width": 480,
+      "height": 480,
+      "size": 18416,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    }
+  ]
+}

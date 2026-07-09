@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-detroit-pistons-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:30:37Z",
+  "updatedAt": "2026-07-09T20:30:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/front.webp",
+      "hash": "e1a6895f5f7d25257803a34f8288c15eee54332655f9f9064b53d3eeb14c39b3",
+      "width": 480,
+      "height": 480,
+      "size": 12934,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/back.webp",
+      "hash": "567934dcc019a0da123d678170212604d87947c366e9bcc5aefb999458315281",
+      "width": 480,
+      "height": 480,
+      "size": 14412,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/detail-1.webp",
+      "hash": "bc0958ae9e40e19983c65be8202278820da23aac86219145d00bcf773e66b209",
+      "width": 480,
+      "height": 480,
+      "size": 22276,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/detail-2.webp",
+      "hash": "3c34e1dbb5d8be9175fa6874a34b38213ae56b54812c8d47b155c812a3765d0f",
+      "width": 480,
+      "height": 480,
+      "size": 29016,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/detail-3.webp",
+      "hash": "261e03493335ed2f141d85f6c28e1983f8c2e00f9cc578a7b2ecfa705cef84b7",
+      "width": 480,
+      "height": 480,
+      "size": 28426,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-detroit-pistons-azul-nike-masculina/detail-4.webp",
+      "hash": "82074d93027ae914f0cc1982952c62980b6d58caf1534ff068313205aab18c6b",
+      "width": 480,
+      "height": 480,
+      "size": 35056,
+      "createdAt": "2026-07-09T20:30:37Z",
+      "updatedAt": "2026-07-09T20:30:37Z"
+    }
+  ]
+}

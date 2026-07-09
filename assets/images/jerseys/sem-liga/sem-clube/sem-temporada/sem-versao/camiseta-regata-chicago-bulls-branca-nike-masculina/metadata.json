@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-chicago-bulls-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:30:27Z",
+  "updatedAt": "2026-07-09T20:30:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/front.webp",
+      "hash": "86845391db5b3704cad554137e82b181045e687209268648efba1e7d5c41533b",
+      "width": 480,
+      "height": 480,
+      "size": 12724,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/back.webp",
+      "hash": "1f1f6853f69f45d190e83e374b1cbdc9faa6a6fdeaac469c26537dc0eea5f115",
+      "width": 480,
+      "height": 480,
+      "size": 28552,
+      "createdAt": "2026-07-09T20:30:26Z",
+      "updatedAt": "2026-07-09T20:30:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/detail-1.webp",
+      "hash": "cbdd38568ee169789b9f8c1cf3544a26798388a9242903a037b1f1d99186f300",
+      "width": 480,
+      "height": 480,
+      "size": 18964,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/detail-2.webp",
+      "hash": "028671a7ab1714afd340b37115fd8b2f6ea1892ca58f9cff2594c87bdd760068",
+      "width": 480,
+      "height": 480,
+      "size": 24310,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/detail-3.webp",
+      "hash": "0eeb22663f09e1d9696cae088bf31d8a98ce2cf8fbb8e26bc8b9b247b76bd6c4",
+      "width": 480,
+      "height": 480,
+      "size": 12376,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-branca-nike-masculina/detail-4.webp",
+      "hash": "df94842188307b931db1ae9bd4a22837c9eed1cfe3983b7e260d8d0298fb9382",
+      "width": 480,
+      "height": 480,
+      "size": 25768,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    }
+  ]
+}

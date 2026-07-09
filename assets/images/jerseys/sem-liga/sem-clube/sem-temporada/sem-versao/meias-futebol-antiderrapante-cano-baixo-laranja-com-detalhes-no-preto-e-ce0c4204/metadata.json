@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-no-branco",
+  "createdAt": "2026-07-09T20:31:45Z",
+  "updatedAt": "2026-07-09T20:31:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-ce0c4204/front.webp",
+      "hash": "13d22ba013fe3a94c9a85eeb491b8e3b91f8dd59ea4dd1c0d663b0ecc555ca7b",
+      "width": 480,
+      "height": 480,
+      "size": 12912,
+      "createdAt": "2026-07-09T20:31:44Z",
+      "updatedAt": "2026-07-09T20:31:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-ce0c4204/back.webp",
+      "hash": "90858b75f3f2236fc17519420275abb0ccc4ff5d9b60bd393bc48f5980f2c12d",
+      "width": 480,
+      "height": 480,
+      "size": 35482,
+      "createdAt": "2026-07-09T20:31:45Z",
+      "updatedAt": "2026-07-09T20:31:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-ce0c4204/detail-1.webp",
+      "hash": "91e5788a60dd1a6d8ae8ac855e18254aa038914d49ff7d00f5f413094ebb490f",
+      "width": 480,
+      "height": 480,
+      "size": 39482,
+      "createdAt": "2026-07-09T20:31:45Z",
+      "updatedAt": "2026-07-09T20:31:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-ce0c4204/detail-2.webp",
+      "hash": "d46ff45772a2eec586530e13ac1275bc6945d9442acde6247bfb9eb2f524b514",
+      "width": 480,
+      "height": 480,
+      "size": 32136,
+      "createdAt": "2026-07-09T20:31:45Z",
+      "updatedAt": "2026-07-09T20:31:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-laranja-com-detalhes-no-preto-e-ce0c4204/detail-3.webp",
+      "hash": "435b1212da513817641e4190a39e63a5ca283efde05d4b66e64fca7234d83635",
+      "width": 480,
+      "height": 480,
+      "size": 23288,
+      "createdAt": "2026-07-09T20:31:45Z",
+      "updatedAt": "2026-07-09T20:31:45Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v",
+  "createdAt": "2026-07-09T20:30:57Z",
+  "updatedAt": "2026-07-09T20:30:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/front.webp",
+      "hash": "24a07cf575c820bd3b41d614f94a4e6e6ffbc60d93c74ab388e15d4b8025e2b4",
+      "width": 480,
+      "height": 480,
+      "size": 14492,
+      "createdAt": "2026-07-09T20:30:56Z",
+      "updatedAt": "2026-07-09T20:30:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/back.webp",
+      "hash": "8346afe7ac5126c5c56f22ade932053f5fe482c986095f5186689886823eee9f",
+      "width": 480,
+      "height": 480,
+      "size": 27878,
+      "createdAt": "2026-07-09T20:30:56Z",
+      "updatedAt": "2026-07-09T20:30:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/detail-1.webp",
+      "hash": "6d43140be33123f992d9a77ebe3268237604781dd374998c2ceceae2027130fb",
+      "width": 480,
+      "height": 480,
+      "size": 21022,
+      "createdAt": "2026-07-09T20:30:56Z",
+      "updatedAt": "2026-07-09T20:30:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/detail-2.webp",
+      "hash": "b01339124e0cb1209141d514517123e5bf06f885857ca4c7c8e32d85e7f2403f",
+      "width": 480,
+      "height": 480,
+      "size": 22432,
+      "createdAt": "2026-07-09T20:30:56Z",
+      "updatedAt": "2026-07-09T20:30:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/detail-3.webp",
+      "hash": "fd62a26cbf10ab47381fdb97337843759e816f475fbf9f2ed7d343ed2957117f",
+      "width": 480,
+      "height": 480,
+      "size": 17322,
+      "createdAt": "2026-07-09T20:30:56Z",
+      "updatedAt": "2026-07-09T20:30:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-roxa-nike-masculina-gola-v/detail-4.webp",
+      "hash": "f852eef3e14f551c3361749739d69105a00db7fc17fbc5b2b824b606976e029a",
+      "width": 480,
+      "height": 480,
+      "size": 26030,
+      "createdAt": "2026-07-09T20:30:57Z",
+      "updatedAt": "2026-07-09T20:30:57Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camiseta-regata-nba-chicago-bulls-masculina-nike-preta",
+  "createdAt": "2026-07-09T20:31:05Z",
+  "updatedAt": "2026-07-09T20:31:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-nba-chicago-bulls-masculina-nike-preta/front.webp",
+      "hash": "024d1afc2fc0ef64eadb4b71f125efa87b6bf1c251103431f9986607545af5fe",
+      "width": 480,
+      "height": 480,
+      "size": 8200,
+      "createdAt": "2026-07-09T20:31:05Z",
+      "updatedAt": "2026-07-09T20:31:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-nba-chicago-bulls-masculina-nike-preta/back.webp",
+      "hash": "656469906d744cb691bc58911f0e98e5325619c3cd51dfd1c28b25faf520ed93",
+      "width": 480,
+      "height": 480,
+      "size": 7618,
+      "createdAt": "2026-07-09T20:31:05Z",
+      "updatedAt": "2026-07-09T20:31:05Z"
+    }
+  ]
+}

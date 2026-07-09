@@ -1,0 +1,27 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-bibigo-amarela",
+  "createdAt": "2026-07-09T20:30:52Z",
+  "updatedAt": "2026-07-09T20:30:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-bibigo-amarela/front.webp",
+      "hash": "6190cd12adcfef15e2aa0e019f8df9a5dfa9773c52eddfbdaca4073f755c8926",
+      "width": 480,
+      "height": 480,
+      "size": 13776,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-bibigo-amarela/back.webp",
+      "hash": "0ed07aec2b7776f6c73a94a91b04b714d20c57a8d22795aa756c5ca338a4b762",
+      "width": 480,
+      "height": 480,
+      "size": 10990,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    }
+  ]
+}

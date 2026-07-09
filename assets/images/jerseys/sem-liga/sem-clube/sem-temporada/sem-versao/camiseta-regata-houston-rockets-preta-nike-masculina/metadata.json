@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-houston-rockets-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:30:46Z",
+  "updatedAt": "2026-07-09T20:30:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/front.webp",
+      "hash": "64589503f75b1df83fb0cd36282f7f1f14c9d0c69e3992ba083d6cafa079fa67",
+      "width": 480,
+      "height": 480,
+      "size": 11310,
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/back.webp",
+      "hash": "70cc925c3970859a6c5c3cfa2ef63d149f70ebf03ad7bfdb883883b31fe62938",
+      "width": 480,
+      "height": 480,
+      "size": 34074,
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/detail-1.webp",
+      "hash": "b5258335ef40f2ee7579f06c6c4d94eae2c5848487c9cc924d2376e25582178d",
+      "width": 480,
+      "height": 480,
+      "size": 26060,
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/detail-2.webp",
+      "hash": "72b11019b20f0be200db2956f4e444d0da302537137c6f165b08a026477d839a",
+      "width": 480,
+      "height": 480,
+      "size": 18836,
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/detail-3.webp",
+      "hash": "80ec53bea8fe88d20d13958a83003b9ae5b10469a0ad618062f6d12f79a2d58d",
+      "width": 480,
+      "height": 480,
+      "size": 12150,
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-houston-rockets-preta-nike-masculina/detail-4.webp",
+      "hash": "6692ebc14276fbc7f8a3d40fc46e171e2a6e297a6342ed4cb6e9231af7d0215b",
+      "width": 480,
+      "height": 480,
+      "size": 17676,
+      "createdAt": "2026-07-09T20:30:46Z",
+      "updatedAt": "2026-07-09T20:30:46Z"
+    }
+  ]
+}

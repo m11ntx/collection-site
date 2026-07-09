@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-miami-heat-rosa-nike-masculina",
+  "createdAt": "2026-07-09T20:31:01Z",
+  "updatedAt": "2026-07-09T20:31:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/front.webp",
+      "hash": "0661ba3ff6892e905961a0fb7c4e8ec2acb4537ac1f0bdae81fb8bd162a068f9",
+      "width": 480,
+      "height": 480,
+      "size": 13778,
+      "createdAt": "2026-07-09T20:31:00Z",
+      "updatedAt": "2026-07-09T20:31:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/back.webp",
+      "hash": "0d71d6b5f8b87318029d9c4db703a3c61fb348f8af134083b260ce73bfebf9dc",
+      "width": 480,
+      "height": 480,
+      "size": 30498,
+      "createdAt": "2026-07-09T20:31:00Z",
+      "updatedAt": "2026-07-09T20:31:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/detail-1.webp",
+      "hash": "53eacae0d8793947ff697d4aa0f8953f7d94e5cd8205c2a682a7c3ad9558dd0b",
+      "width": 480,
+      "height": 480,
+      "size": 31312,
+      "createdAt": "2026-07-09T20:31:01Z",
+      "updatedAt": "2026-07-09T20:31:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/detail-2.webp",
+      "hash": "46f71b5e51d81fdc854b80389923a92ef23db14e109076f2026fb018ae293802",
+      "width": 480,
+      "height": 480,
+      "size": 20608,
+      "createdAt": "2026-07-09T20:31:01Z",
+      "updatedAt": "2026-07-09T20:31:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/detail-3.webp",
+      "hash": "37527c05850295753352a498c7fac216c0c195e1c19c55c4646fed0d2d61a5fb",
+      "width": 480,
+      "height": 480,
+      "size": 38776,
+      "createdAt": "2026-07-09T20:31:01Z",
+      "updatedAt": "2026-07-09T20:31:01Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-miami-heat-rosa-nike-masculina/detail-4.webp",
+      "hash": "5a25296b67dc41741de19690a145ffabd5a6374cf5dd54ac4f1913ff14b19a25",
+      "width": 480,
+      "height": 480,
+      "size": 28806,
+      "createdAt": "2026-07-09T20:31:01Z",
+      "updatedAt": "2026-07-09T20:31:01Z"
+    }
+  ]
+}

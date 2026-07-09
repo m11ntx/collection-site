@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco",
+  "createdAt": "2026-07-09T20:31:37Z",
+  "updatedAt": "2026-07-09T20:31:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco/front.webp",
+      "hash": "9ddbf2d065d6336b81257a7ca392c9ecaa31fbc08f5479c0fdb7edb54ee0f6ef",
+      "width": 480,
+      "height": 480,
+      "size": 12166,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco/back.webp",
+      "hash": "a0c6c55b83d5c9017c56c4f4fa957fb016c5623774db6233002a1007f11b03d2",
+      "width": 480,
+      "height": 480,
+      "size": 32130,
+      "createdAt": "2026-07-09T20:31:37Z",
+      "updatedAt": "2026-07-09T20:31:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco/detail-1.webp",
+      "hash": "e7026ea1b1211be046a4c511bad60c038511dd0a5ef08435b02eca41ce310307",
+      "width": 480,
+      "height": 480,
+      "size": 39804,
+      "createdAt": "2026-07-09T20:31:37Z",
+      "updatedAt": "2026-07-09T20:31:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco/detail-2.webp",
+      "hash": "4d6464bcd05ba02d9e4ac902b6e57c3007d65ef1232fa71fe4b82a7f3d31061f",
+      "width": 480,
+      "height": 480,
+      "size": 29738,
+      "createdAt": "2026-07-09T20:31:37Z",
+      "updatedAt": "2026-07-09T20:31:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco/detail-3.webp",
+      "hash": "6e467a7e612e8a8c679c4ca8c79bf4384760bb49b07deee273a227cf1d443f4d",
+      "width": 480,
+      "height": 480,
+      "size": 20746,
+      "createdAt": "2026-07-09T20:31:37Z",
+      "updatedAt": "2026-07-09T20:31:37Z"
+    }
+  ]
+}

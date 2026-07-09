@@ -1,0 +1,27 @@
+{
+  "productId": "source-camiseta-regata-nba-orlando-magic-city-edition-2024-2025",
+  "createdAt": "2026-07-09T20:32:07Z",
+  "updatedAt": "2026-07-09T20:32:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2024-2025/sem-versao/camiseta-regata-nba-orlando-magic-city-edition-2024-2025/front.webp",
+      "hash": "507198a9a6f24e722f192b213d784bd63ff78638b4f6e804672268c92b94089f",
+      "width": 480,
+      "height": 480,
+      "size": 12118,
+      "createdAt": "2026-07-09T20:32:07Z",
+      "updatedAt": "2026-07-09T20:32:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2024-2025/sem-versao/camiseta-regata-nba-orlando-magic-city-edition-2024-2025/back.webp",
+      "hash": "e82dbef560e19f0a1547a105fca9e733110d9375533f26095f8719175ad4f50f",
+      "width": 480,
+      "height": 480,
+      "size": 14980,
+      "createdAt": "2026-07-09T20:32:07Z",
+      "updatedAt": "2026-07-09T20:32:07Z"
+    }
+  ]
+}

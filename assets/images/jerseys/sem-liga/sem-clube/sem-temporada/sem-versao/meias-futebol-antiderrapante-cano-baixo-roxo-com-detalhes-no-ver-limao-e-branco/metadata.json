@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco",
+  "createdAt": "2026-07-09T20:31:49Z",
+  "updatedAt": "2026-07-09T20:31:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco/front.webp",
+      "hash": "e7fd1603f3d31dcfa58dbe1781d774386a1eb04e1f122a081119021e766f108f",
+      "width": 480,
+      "height": 480,
+      "size": 16216,
+      "createdAt": "2026-07-09T20:31:48Z",
+      "updatedAt": "2026-07-09T20:31:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco/back.webp",
+      "hash": "99175e37257270b72206d532be2b28b9bd7ca06f3e8284ede28c2e6253c2cb03",
+      "width": 480,
+      "height": 480,
+      "size": 51934,
+      "createdAt": "2026-07-09T20:31:49Z",
+      "updatedAt": "2026-07-09T20:31:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco/detail-1.webp",
+      "hash": "a3871500d3e7b7750171aff3ed30036af713ad0c003e246aa6723190c6722ab2",
+      "width": 480,
+      "height": 480,
+      "size": 49348,
+      "createdAt": "2026-07-09T20:31:49Z",
+      "updatedAt": "2026-07-09T20:31:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco/detail-2.webp",
+      "hash": "444ff8a681e13dd9a0e6bf22e01383c2002e99d14dd3fe52dc677e0708569ad1",
+      "width": 480,
+      "height": 480,
+      "size": 30478,
+      "createdAt": "2026-07-09T20:31:49Z",
+      "updatedAt": "2026-07-09T20:31:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-roxo-com-detalhes-no-ver-limao-e-branco/detail-3.webp",
+      "hash": "ae847d9998987c0bb5c8996838f06d502f2aa66012455dad6b535cb4c7ab4275",
+      "width": 480,
+      "height": 480,
+      "size": 44642,
+      "createdAt": "2026-07-09T20:31:49Z",
+      "updatedAt": "2026-07-09T20:31:49Z"
+    }
+  ]
+}

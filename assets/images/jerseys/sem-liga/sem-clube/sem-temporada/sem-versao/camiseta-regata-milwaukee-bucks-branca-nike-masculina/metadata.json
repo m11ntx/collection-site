@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-milwaukee-bucks-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:31:02Z",
+  "updatedAt": "2026-07-09T20:31:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/front.webp",
+      "hash": "528edff638c53d88d10ab3673137907dac57ec90cd40208d34cad3565fa8fb9d",
+      "width": 480,
+      "height": 480,
+      "size": 12134,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/back.webp",
+      "hash": "cea982dc404d1d3889cc07898c3692edff077a8c95ddc20fb78e6f20aa7bc6bc",
+      "width": 480,
+      "height": 480,
+      "size": 13162,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/detail-1.webp",
+      "hash": "4651aa5e84fad70538356e83a53852d9754f7de639325e270d4ced372319e02c",
+      "width": 480,
+      "height": 480,
+      "size": 18726,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/detail-2.webp",
+      "hash": "ccd6eda41ad0e5b41315caab84f64d56e86cf02fc2b89d32a978e0c4c0593251",
+      "width": 480,
+      "height": 480,
+      "size": 20148,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/detail-3.webp",
+      "hash": "9958eaab39bdca2628f9f798dad44bb031930b428fa080c33652770bd268e345",
+      "width": 480,
+      "height": 480,
+      "size": 23384,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-milwaukee-bucks-branca-nike-masculina/detail-4.webp",
+      "hash": "0bbd8a0bf622e421972ee76affa16462f684a3b177156b4f865f5c4e0ee2793b",
+      "width": 480,
+      "height": 480,
+      "size": 34486,
+      "createdAt": "2026-07-09T20:31:02Z",
+      "updatedAt": "2026-07-09T20:31:02Z"
+    }
+  ]
+}

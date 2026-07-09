@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-sacramento-kings-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:31:16Z",
+  "updatedAt": "2026-07-09T20:31:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/front.webp",
+      "hash": "d115c5422eb8f4044341bdb32956feed2b8544009e24fd00bba4b715381c6a1a",
+      "width": 480,
+      "height": 480,
+      "size": 10962,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/back.webp",
+      "hash": "3d34fdd8c62e4965c2657c552efdf49162bacca0f376071b711caf63293ca550",
+      "width": 480,
+      "height": 480,
+      "size": 10166,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/detail-1.webp",
+      "hash": "c63610c8723008cb44576823344c9a20124270e41c80f4f75e382ebec3730340",
+      "width": 480,
+      "height": 480,
+      "size": 18758,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/detail-2.webp",
+      "hash": "d33738ad1667134fbfb3528cf184a82668cb26bbfb50ea9c562883d7b8c1b83e",
+      "width": 480,
+      "height": 480,
+      "size": 17702,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/detail-3.webp",
+      "hash": "3d3d3496a75d525e1f21c1967462f0118fbf7544847ac69cd90c33260768cc16",
+      "width": 480,
+      "height": 480,
+      "size": 21404,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-branca-nike-masculina/detail-4.webp",
+      "hash": "f217fd73bed0e3f2d4b6d3a8c495532324474d44785c096cc9c8648d8aa29335",
+      "width": 480,
+      "height": 480,
+      "size": 22148,
+      "createdAt": "2026-07-09T20:31:16Z",
+      "updatedAt": "2026-07-09T20:31:16Z"
+    }
+  ]
+}

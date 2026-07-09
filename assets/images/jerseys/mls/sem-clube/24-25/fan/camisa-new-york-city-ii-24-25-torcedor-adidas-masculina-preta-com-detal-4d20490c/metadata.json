@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-new-york-city-ii-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-azul-e-laranja",
+  "createdAt": "2026-07-09T20:32:10Z",
+  "updatedAt": "2026-07-09T20:32:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-new-york-city-ii-24-25-torcedor-adidas-masculina-preta-com-detal-4d20490c/front.webp",
+      "hash": "14a5c88a92131fc1ec73e6b30fec922d06f3843688613354d9bf061a193efff8",
+      "width": 480,
+      "height": 480,
+      "size": 12116,
+      "createdAt": "2026-07-09T20:32:10Z",
+      "updatedAt": "2026-07-09T20:32:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-new-york-city-ii-24-25-torcedor-adidas-masculina-preta-com-detal-4d20490c/back.webp",
+      "hash": "b93071f4cba07ef42dcf696ec92836fc00afcf8f8a5280bdfc328b28ccb201d8",
+      "width": 480,
+      "height": 480,
+      "size": 8532,
+      "createdAt": "2026-07-09T20:32:10Z",
+      "updatedAt": "2026-07-09T20:32:10Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-new-york-city-ii-24-25-torcedor-adidas-masculina-preta-com-detal-4d20490c/detail-1.webp",
+      "hash": "b755085fa84a3dc27cce48fd046265f8a233888ed069d956d038222f9da24864",
+      "width": 480,
+      "height": 600,
+      "size": 49186,
+      "createdAt": "2026-07-09T20:32:10Z",
+      "updatedAt": "2026-07-09T20:32:10Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-new-york-city-ii-24-25-torcedor-adidas-masculina-preta-com-detal-4d20490c/detail-2.webp",
+      "hash": "fbb8871cb0dbf89862a3c7bb1d65f392df6df3aae8d84ee08b7b5cd5c86516c7",
+      "width": 480,
+      "height": 600,
+      "size": 45844,
+      "createdAt": "2026-07-09T20:32:10Z",
+      "updatedAt": "2026-07-09T20:32:10Z"
+    }
+  ]
+}

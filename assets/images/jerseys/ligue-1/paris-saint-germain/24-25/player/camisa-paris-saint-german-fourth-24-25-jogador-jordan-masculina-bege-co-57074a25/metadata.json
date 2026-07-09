@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T20:32:16Z",
+  "updatedAt": "2026-07-09T20:32:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/front.webp",
+      "hash": "3ff4568f2bbfa30bed9cfb31a4bcff42270c50783b3774963c309ac4d1e845b9",
+      "width": 480,
+      "height": 480,
+      "size": 11268,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/back.webp",
+      "hash": "3b6bfc70a21e81fda4c7278f03adf977e2a60c4eac49e034208f7fb5d5e03362",
+      "width": 480,
+      "height": 480,
+      "size": 15124,
+      "createdAt": "2026-07-09T20:32:15Z",
+      "updatedAt": "2026-07-09T20:32:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/detail-1.webp",
+      "hash": "f3468a3a21d735cc8f6d7337015a13854eb430e8dfa95dcf5ef96dda25fc6dfe",
+      "width": 480,
+      "height": 480,
+      "size": 11086,
+      "createdAt": "2026-07-09T20:32:16Z",
+      "updatedAt": "2026-07-09T20:32:16Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/detail-2.webp",
+      "hash": "86253b12807b81af97f2a55233c9039d56115eca08487fd751c3e8a07ef14b85",
+      "width": 480,
+      "height": 480,
+      "size": 48920,
+      "createdAt": "2026-07-09T20:32:16Z",
+      "updatedAt": "2026-07-09T20:32:16Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/detail-3.webp",
+      "hash": "3e1f6e32d906bebc34728fe9a79660591ad65eb2fd9b044606df08b30673ccba",
+      "width": 480,
+      "height": 480,
+      "size": 18248,
+      "createdAt": "2026-07-09T20:32:16Z",
+      "updatedAt": "2026-07-09T20:32:16Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-fourth-24-25-jogador-jordan-masculina-bege-co-57074a25/detail-4.webp",
+      "hash": "922aa36866450da89d732c296b6a747157703b3b3b784a5d429a58ea3ba04931",
+      "width": 480,
+      "height": 480,
+      "size": 19612,
+      "createdAt": "2026-07-09T20:32:16Z",
+      "updatedAt": "2026-07-09T20:32:16Z"
+    }
+  ]
+}

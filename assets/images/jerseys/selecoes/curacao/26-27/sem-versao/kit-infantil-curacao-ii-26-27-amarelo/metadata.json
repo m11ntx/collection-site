@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-curacao-ii-26-27-amarelo",
+  "createdAt": "2026-07-09T20:32:15Z",
+  "updatedAt": "2026-07-09T20:32:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/curacao/26-27/sem-versao/kit-infantil-curacao-ii-26-27-amarelo/front.webp",
+      "hash": "33fe082427574fd7fbfc83252ff12ac0ecbad9309e28756587b21f234b2ce416",
+      "width": 480,
+      "height": 447,
+      "size": 10914,
+      "createdAt": "2026-07-09T20:32:14Z",
+      "updatedAt": "2026-07-09T20:32:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/curacao/26-27/sem-versao/kit-infantil-curacao-ii-26-27-amarelo/back.webp",
+      "hash": "debfc03f94a558b9e483f505642c560c6f6122f01eb044ad28aec9c1e88420e3",
+      "width": 480,
+      "height": 461,
+      "size": 8850,
+      "createdAt": "2026-07-09T20:32:14Z",
+      "updatedAt": "2026-07-09T20:32:14Z"
+    }
+  ]
+}

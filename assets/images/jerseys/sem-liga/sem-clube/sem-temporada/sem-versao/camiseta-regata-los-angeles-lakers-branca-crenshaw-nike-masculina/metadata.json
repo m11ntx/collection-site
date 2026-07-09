@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina",
+  "createdAt": "2026-07-09T20:30:53Z",
+  "updatedAt": "2026-07-09T20:30:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/front.webp",
+      "hash": "a1def3ee80b09beba1ad8354eb2940096f31ae99330e669c73d1c3214e78776d",
+      "width": 480,
+      "height": 480,
+      "size": 13472,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/back.webp",
+      "hash": "3a319ad7e3120265b682b9940c9378f75981114653417b0aada9bc2ceea8fe3b",
+      "width": 480,
+      "height": 480,
+      "size": 28212,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/detail-1.webp",
+      "hash": "6b0fd5a5eb2b24dd56eb61b58af6c6357788631558b0d25131ab67586dae6d1b",
+      "width": 480,
+      "height": 480,
+      "size": 20518,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/detail-2.webp",
+      "hash": "1ad6a886ea0736d9319ae4bdf37fe1efae91f7bee20cc32d2b5d45eb7a5bc38b",
+      "width": 480,
+      "height": 480,
+      "size": 37310,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/detail-3.webp",
+      "hash": "520d6c474eff8defb7a3876d73fee20641aabafab156b9a0e0cc7d8b0f40ece2",
+      "width": 480,
+      "height": 480,
+      "size": 19752,
+      "createdAt": "2026-07-09T20:30:52Z",
+      "updatedAt": "2026-07-09T20:30:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-branca-crenshaw-nike-masculina/detail-4.webp",
+      "hash": "2bc9dd457dfecc5c00a7ea15fb9f57f917692b499b2cfa5dff49c9a0a9b46593",
+      "width": 480,
+      "height": 480,
+      "size": 14142,
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
+    }
+  ]
+}

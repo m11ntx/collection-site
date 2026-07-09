@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina",
+  "createdAt": "2026-07-09T20:30:31Z",
+  "updatedAt": "2026-07-09T20:30:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/front.webp",
+      "hash": "934d85743a0882e48b32a58570451206b68c9cc37dbaedc8e497b6dfeac58552",
+      "width": 480,
+      "height": 480,
+      "size": 14038,
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/back.webp",
+      "hash": "c529b4f111c06872b117b28caf84af71b8dda42997dfa70f2547a323a3f47c4a",
+      "width": 480,
+      "height": 480,
+      "size": 16762,
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/detail-1.webp",
+      "hash": "65a1f703cd8cb85ffb1bcbc66aceb421fee99c54f0955ea6eca9f11deb4d8ddd",
+      "width": 480,
+      "height": 480,
+      "size": 21226,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/detail-2.webp",
+      "hash": "52ec2ffaafcf8baa71caa934b5f515b1f5a53ae16b262c674ba05daf52dd1ffd",
+      "width": 480,
+      "height": 480,
+      "size": 27216,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/detail-3.webp",
+      "hash": "d13d3507f148333292d0e9a7ac727b5fbfd0810e823acc440d43850cb99974b3",
+      "width": 480,
+      "height": 480,
+      "size": 26166,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-vermelha-nike-masculina/detail-4.webp",
+      "hash": "5b4cbcc67b5ca7329b0c2b8bb85e626634927dc30025c426cae9968db11a0bee",
+      "width": 480,
+      "height": 480,
+      "size": 32298,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-denver-nuggets-azul-marinho-nike-masculina",
+  "createdAt": "2026-07-09T20:30:35Z",
+  "updatedAt": "2026-07-09T20:30:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/front.webp",
+      "hash": "6a6965078c56fa78c26bae132743efa3786755a92b308864a1ac44e5f9cd95e3",
+      "width": 480,
+      "height": 480,
+      "size": 12652,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/back.webp",
+      "hash": "cb2edda829040fb3ae541761edb73ff888ee75a94a4d33f50e327c5a83f6d971",
+      "width": 480,
+      "height": 480,
+      "size": 13518,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/detail-1.webp",
+      "hash": "c72310dccc486a05974afd34384e9964210d135d1a043bb85ebf65e5c1b1e706",
+      "width": 480,
+      "height": 480,
+      "size": 14746,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/detail-2.webp",
+      "hash": "06bee68ec3fec9f674139d951efe54598f0a3b23a0bc0a04b1b8bd7b26e1f956",
+      "width": 480,
+      "height": 480,
+      "size": 30942,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/detail-3.webp",
+      "hash": "80681e2507a64d02695c631464d8e6c0d9db2e49d2b64ffa658be2a045ca3a77",
+      "width": 480,
+      "height": 480,
+      "size": 21702,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-marinho-nike-masculina/detail-4.webp",
+      "hash": "e735ff602c9bf94f0f4a97f3f037564e638433c0d252e9d9ad8efac598913de7",
+      "width": 480,
+      "height": 480,
+      "size": 20260,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-branco-e-preto",
+  "createdAt": "2026-07-09T20:31:54Z",
+  "updatedAt": "2026-07-09T20:31:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-bra-a9082a85/front.webp",
+      "hash": "1480b5e9e73b4cf12051c9a7576febb0584f832354fcbde4b0ed966ce31eedba",
+      "width": 480,
+      "height": 480,
+      "size": 9224,
+      "createdAt": "2026-07-09T20:31:53Z",
+      "updatedAt": "2026-07-09T20:31:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-bra-a9082a85/back.webp",
+      "hash": "e507717083ac5b7e398ef7291e28527c51f1d825bdcf3fd58bb997f94a140219",
+      "width": 480,
+      "height": 480,
+      "size": 17534,
+      "createdAt": "2026-07-09T20:31:53Z",
+      "updatedAt": "2026-07-09T20:31:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-bra-a9082a85/detail-1.webp",
+      "hash": "5be2e8a7fab9541668b3fccad4c317d002232d50bcc71aa674afb9e98d501dcd",
+      "width": 480,
+      "height": 480,
+      "size": 38708,
+      "createdAt": "2026-07-09T20:31:54Z",
+      "updatedAt": "2026-07-09T20:31:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-bra-a9082a85/detail-2.webp",
+      "hash": "45e00099db5e8c82a05e51807e15fda1de1311fb194d0edbd89818c674896341",
+      "width": 480,
+      "height": 480,
+      "size": 25164,
+      "createdAt": "2026-07-09T20:31:54Z",
+      "updatedAt": "2026-07-09T20:31:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-verde-limao-com-detalhes-em-bra-a9082a85/detail-3.webp",
+      "hash": "2fc51fd31fcab068629d9824b604ffe1d9b0aa0cf849ee160eea5e52803b4d36",
+      "width": 480,
+      "height": 480,
+      "size": 21112,
+      "createdAt": "2026-07-09T20:31:54Z",
+      "updatedAt": "2026-07-09T20:31:54Z"
+    }
+  ]
+}

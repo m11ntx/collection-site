@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina",
+  "createdAt": "2026-07-09T20:30:32Z",
+  "updatedAt": "2026-07-09T20:30:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/front.webp",
+      "hash": "3e7914939c742bb0a40da05cc8fe0c5c4b53118ad1af3474c675df035d35d433",
+      "width": 480,
+      "height": 480,
+      "size": 13798,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/back.webp",
+      "hash": "8a9581918a8fabde636eeb214cc271495918db688fec83c2592581e0ec836c62",
+      "width": 480,
+      "height": 480,
+      "size": 20146,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/detail-1.webp",
+      "hash": "a0b020b958043930534e4e1cc463fceddcc301810dc5fd6ad7c07f494c87ca5a",
+      "width": 480,
+      "height": 480,
+      "size": 24064,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/detail-2.webp",
+      "hash": "265131483712e9ea090890e78635ef0250448af74175c37a1810de4335b20050",
+      "width": 480,
+      "height": 480,
+      "size": 17794,
+      "createdAt": "2026-07-09T20:30:31Z",
+      "updatedAt": "2026-07-09T20:30:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/detail-3.webp",
+      "hash": "fcf70bd08c6290f7e7631d53b803270882b446d5e015a0c0bfae7503469e87ed",
+      "width": 480,
+      "height": 480,
+      "size": 20166,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-e-verde-nike-masculina/detail-4.webp",
+      "hash": "9ff38aff12e084b3c18f57574d1b21fd679657efc65a5ce82f64d025d6b5b940",
+      "width": 480,
+      "height": 480,
+      "size": 25874,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    }
+  ]
+}

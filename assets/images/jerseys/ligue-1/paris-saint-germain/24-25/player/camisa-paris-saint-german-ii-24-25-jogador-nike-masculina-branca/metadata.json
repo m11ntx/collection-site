@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca",
+  "createdAt": "2026-07-09T20:32:18Z",
+  "updatedAt": "2026-07-09T20:32:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca/front.webp",
+      "hash": "dd682d30e86f0a748c043b7aca59920c8221ce9be93d5bdca9325db2ad93328e",
+      "width": 480,
+      "height": 480,
+      "size": 13788,
+      "createdAt": "2026-07-09T20:32:17Z",
+      "updatedAt": "2026-07-09T20:32:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca/back.webp",
+      "hash": "4a258882ee87ec0ef5fc3ba84a6817bf6b6853f0564d0fc720a02b47488b77c6",
+      "width": 480,
+      "height": 480,
+      "size": 8960,
+      "createdAt": "2026-07-09T20:32:17Z",
+      "updatedAt": "2026-07-09T20:32:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca/detail-1.webp",
+      "hash": "1ff86f0d06fff8373cb6e4fb49c55189ce20f23bc2ae3ce3dcdf9459bd645bb1",
+      "width": 480,
+      "height": 480,
+      "size": 18320,
+      "createdAt": "2026-07-09T20:32:17Z",
+      "updatedAt": "2026-07-09T20:32:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca/detail-2.webp",
+      "hash": "300fb40c4f7ef9b626d5a4f99f3de157b6cef0b46b7eb66491aaae1c6f99aeaa",
+      "width": 480,
+      "height": 480,
+      "size": 31674,
+      "createdAt": "2026-07-09T20:32:17Z",
+      "updatedAt": "2026-07-09T20:32:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca/detail-3.webp",
+      "hash": "ddcf5c12185c43bab07ba856a69b1a404e59f3e09499e0af88fcb851c4b2b4d9",
+      "width": 480,
+      "height": 480,
+      "size": 42064,
+      "createdAt": "2026-07-09T20:32:18Z",
+      "updatedAt": "2026-07-09T20:32:18Z"
+    }
+  ]
+}

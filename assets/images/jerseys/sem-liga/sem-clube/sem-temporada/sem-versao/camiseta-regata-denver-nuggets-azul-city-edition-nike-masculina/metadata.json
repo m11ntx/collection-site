@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina",
+  "createdAt": "2026-07-09T20:30:34Z",
+  "updatedAt": "2026-07-09T20:30:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/front.webp",
+      "hash": "05139dc65e6e14ea845c0ee7498e34022c11b292c66d26ce8d205e820a95b57c",
+      "width": 480,
+      "height": 480,
+      "size": 13400,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/back.webp",
+      "hash": "2e78b05c2991305bc43ef734eb40fec3c909320689690d636f63c084398873ae",
+      "width": 480,
+      "height": 480,
+      "size": 24342,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/detail-1.webp",
+      "hash": "38eeff94da756c4c219d43b797d36def62837d8152a0edc6c02cf15fa18658d1",
+      "width": 480,
+      "height": 480,
+      "size": 31346,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/detail-2.webp",
+      "hash": "6c656693784245401511bcc77af7bd26aeb16147971138664ccd8ff696ea8716",
+      "width": 480,
+      "height": 480,
+      "size": 23856,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/detail-3.webp",
+      "hash": "6484e19a7cfdd990ffdcb10842a651212166a52285f88a2fdce5e86edad8c13f",
+      "width": 480,
+      "height": 480,
+      "size": 36228,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-azul-city-edition-nike-masculina/detail-4.webp",
+      "hash": "65d21467174899f1207142f7cabcbf799d90d9ced210d5fb32f14f6688a789bc",
+      "width": 480,
+      "height": 480,
+      "size": 28418,
+      "createdAt": "2026-07-09T20:30:34Z",
+      "updatedAt": "2026-07-09T20:30:34Z"
+    }
+  ]
+}

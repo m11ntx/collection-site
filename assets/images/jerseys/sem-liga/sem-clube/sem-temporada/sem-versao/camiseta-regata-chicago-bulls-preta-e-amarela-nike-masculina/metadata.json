@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina",
+  "createdAt": "2026-07-09T20:30:28Z",
+  "updatedAt": "2026-07-09T20:30:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/front.webp",
+      "hash": "cbd0600ecb2566bda450b46192a36a23cb41b06cfd2853309ef8044fef160abf",
+      "width": 480,
+      "height": 480,
+      "size": 11854,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/back.webp",
+      "hash": "affa3688ff8c09fb9f580c0e63f1f5806574d63c55006ad220a539bc1228f24c",
+      "width": 480,
+      "height": 480,
+      "size": 21488,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/detail-1.webp",
+      "hash": "465031aa1d1486bf83f786f0ef068993a0bcac6dc30c3ef0f0dde50d68272675",
+      "width": 480,
+      "height": 480,
+      "size": 29614,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/detail-2.webp",
+      "hash": "4602d6024bacd8820c35e05cceb1bedd75541974b6f5747e4cfa70ffaa0cc727",
+      "width": 480,
+      "height": 480,
+      "size": 24024,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/detail-3.webp",
+      "hash": "d01b18b4871e1291135f881bfc4d489bb737d395bc3cde3fb48a9c8236a1da64",
+      "width": 480,
+      "height": 480,
+      "size": 16272,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-chicago-bulls-preta-e-amarela-nike-masculina/detail-4.webp",
+      "hash": "2d34b142218c808b139523e4e49c623607bc0bcd4202dddeb39e0dabeea4b04b",
+      "width": 480,
+      "height": 480,
+      "size": 34176,
+      "createdAt": "2026-07-09T20:30:27Z",
+      "updatedAt": "2026-07-09T20:30:27Z"
+    }
+  ]
+}

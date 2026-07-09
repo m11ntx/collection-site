@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-brooklyn-nets-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:30:24Z",
+  "updatedAt": "2026-07-09T20:30:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/front.webp",
+      "hash": "e901495b2a6134fd8eb0b0c272a194dbc1543b26f2ab13914033f339ace12acc",
+      "width": 480,
+      "height": 480,
+      "size": 14482,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/back.webp",
+      "hash": "cb1fe392c70f99eca5e71d7533cb208e50845be74a0708d9601f3bbbba9ba25a",
+      "width": 480,
+      "height": 480,
+      "size": 17552,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/detail-1.webp",
+      "hash": "d09c2e43fa0924b2ee94d701c466ab50257c936b091cdb8a164a76a66ec55aeb",
+      "width": 480,
+      "height": 480,
+      "size": 23596,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/detail-2.webp",
+      "hash": "e829d38b4434ded172fbc81bcd2da52c6ab0c33322f9eb7d97acd3b661b6e712",
+      "width": 480,
+      "height": 480,
+      "size": 17926,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/detail-3.webp",
+      "hash": "29896528558a6b165ea269e5217efb41ee864067b4075641e744050100d9775f",
+      "width": 480,
+      "height": 480,
+      "size": 21288,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-nike-masculina/detail-4.webp",
+      "hash": "003b48a7731ca1fcf1ff385baa54686df8a75d9e48a631fdad249d5d9174ab59",
+      "width": 480,
+      "height": 480,
+      "size": 13558,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    }
+  ]
+}

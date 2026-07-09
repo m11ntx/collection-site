@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-phoenix-suns-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:31:13Z",
+  "updatedAt": "2026-07-09T20:31:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/front.webp",
+      "hash": "dd6a1aaa7d5eaa0639f67c60b12ddbb02994d8c169ac077e23094023ad4e48bd",
+      "width": 480,
+      "height": 480,
+      "size": 12878,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/back.webp",
+      "hash": "47b5c8e1e8fa53dd136c7cb0612f0005fca6c799ecc52bd0bbedb66b69309272",
+      "width": 480,
+      "height": 480,
+      "size": 12916,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/detail-1.webp",
+      "hash": "e00af10b130725722bb0b7cb9bf70cdf02988bbf5e8ed47ea7ebe5045a4276aa",
+      "width": 480,
+      "height": 480,
+      "size": 23784,
+      "createdAt": "2026-07-09T20:31:12Z",
+      "updatedAt": "2026-07-09T20:31:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/detail-2.webp",
+      "hash": "3141cee751a322bcbdc694dba3925956a80d146a451ba183f4105f174bf3051c",
+      "width": 480,
+      "height": 480,
+      "size": 19580,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/detail-3.webp",
+      "hash": "e30c7a2cfa9a06fb311859a3607e603ed2404d41bb195a4b05e5addd1910190e",
+      "width": 480,
+      "height": 480,
+      "size": 39378,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-preta-nike-masculina/detail-4.webp",
+      "hash": "6974230ddfae4cf00caea07e20a32cf6bd82c9e7f3366189ca66c4facefb0934",
+      "width": 480,
+      "height": 480,
+      "size": 16558,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    }
+  ]
+}

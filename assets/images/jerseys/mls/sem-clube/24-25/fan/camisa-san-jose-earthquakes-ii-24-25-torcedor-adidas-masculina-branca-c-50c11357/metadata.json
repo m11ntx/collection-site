@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-09T20:32:12Z",
+  "updatedAt": "2026-07-09T20:32:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/front.webp",
+      "hash": "70ffb1a50b16309eecdb501870af300c62595df4dedf889f13111f140a79d77d",
+      "width": 480,
+      "height": 480,
+      "size": 11076,
+      "createdAt": "2026-07-09T20:32:11Z",
+      "updatedAt": "2026-07-09T20:32:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/back.webp",
+      "hash": "849900c6e120ce22b5255fac78917306724437a7ba6e03ea4f3da6de06828338",
+      "width": 480,
+      "height": 480,
+      "size": 6030,
+      "createdAt": "2026-07-09T20:32:11Z",
+      "updatedAt": "2026-07-09T20:32:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/detail-1.webp",
+      "hash": "c5bd631f0bc4abc5e1c14765f6662c57cb4aef70fb6b0417706da5068eed6eb5",
+      "width": 480,
+      "height": 480,
+      "size": 42082,
+      "createdAt": "2026-07-09T20:32:11Z",
+      "updatedAt": "2026-07-09T20:32:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/detail-2.webp",
+      "hash": "ac147fc6276dd252f67e2a04e7354c11f1c161ec7d0cd2c8130f9a58a9f22f8c",
+      "width": 480,
+      "height": 480,
+      "size": 43308,
+      "createdAt": "2026-07-09T20:32:12Z",
+      "updatedAt": "2026-07-09T20:32:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/detail-3.webp",
+      "hash": "1838318f1ed87b0d338ab92a2f8d1411f3feab8ac39d2cc237257c808fee47fd",
+      "width": 480,
+      "height": 480,
+      "size": 51322,
+      "createdAt": "2026-07-09T20:32:12Z",
+      "updatedAt": "2026-07-09T20:32:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-san-jose-earthquakes-ii-24-25-torcedor-adidas-masculina-branca-c-50c11357/detail-4.webp",
+      "hash": "0d2c690de6e4fc35a8c27e7caee3355d443efa3229c1b7773007b20f8845c82e",
+      "width": 480,
+      "height": 480,
+      "size": 26852,
+      "createdAt": "2026-07-09T20:32:12Z",
+      "updatedAt": "2026-07-09T20:32:12Z"
+    }
+  ]
+}

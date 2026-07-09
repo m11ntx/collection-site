@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-denver-nuggets-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:30:36Z",
+  "updatedAt": "2026-07-09T20:30:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/front.webp",
+      "hash": "aa632f34bad130de5f970be1a0833837220ed919700c977f61c315b3a152debd",
+      "width": 480,
+      "height": 480,
+      "size": 12982,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/back.webp",
+      "hash": "c2e171a98dce294b29b23aeb60d36456b58e71ee2bd9bd37889d08c3f791ef76",
+      "width": 480,
+      "height": 480,
+      "size": 14370,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/detail-1.webp",
+      "hash": "c5536ce7cade905fbff1edc0e3cbf34a8e99414d6f933f07405d8d617e2e913e",
+      "width": 480,
+      "height": 480,
+      "size": 14962,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/detail-2.webp",
+      "hash": "6fd1bddef3d45bf909ea68694289cb3ea2ecf03c45531dd943d8b7e59eca31fd",
+      "width": 480,
+      "height": 480,
+      "size": 26204,
+      "createdAt": "2026-07-09T20:30:35Z",
+      "updatedAt": "2026-07-09T20:30:35Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/detail-3.webp",
+      "hash": "34db80e0cc3bcbd230f620953d99ed56f05379ee1d734fb45c522cb810a239f5",
+      "width": 480,
+      "height": 480,
+      "size": 20810,
+      "createdAt": "2026-07-09T20:30:36Z",
+      "updatedAt": "2026-07-09T20:30:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-denver-nuggets-branca-nike-masculina/detail-4.webp",
+      "hash": "7652cb6b9b1e6c95fc6e6133b5073bb458f326521d2efad660f7584b422f879b",
+      "width": 480,
+      "height": 480,
+      "size": 14954,
+      "createdAt": "2026-07-09T20:30:36Z",
+      "updatedAt": "2026-07-09T20:30:36Z"
+    }
+  ]
+}

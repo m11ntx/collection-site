@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco",
+  "createdAt": "2026-07-09T20:31:33Z",
+  "updatedAt": "2026-07-09T20:31:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco/front.webp",
+      "hash": "9aa8ca5b55c42bf3b07bac0ddce5c029fe89f72cda0aee182a2391b4c8b348f4",
+      "width": 480,
+      "height": 480,
+      "size": 19186,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco/back.webp",
+      "hash": "dbd3aa6d3af0695b0840ddca738438d5c207374a99e097310b14cf2c3b091018",
+      "width": 480,
+      "height": 480,
+      "size": 23856,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco/detail-1.webp",
+      "hash": "78a66b57c73979b491ba4149e0d19923c859f626794c0ff4aa648e4c7510e8f4",
+      "width": 480,
+      "height": 480,
+      "size": 52594,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco/detail-2.webp",
+      "hash": "14377a54bb153952820a338db7a52bce1c29abeabb7db5ed5ddbeba8c08aaef8",
+      "width": 480,
+      "height": 480,
+      "size": 35826,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-rosa-com-detalhes-preto-e-branco/detail-3.webp",
+      "hash": "fcfbe2eecf82bede34a7b68c0d88e2cf08ae5911d91ba138ca9120bcf409419a",
+      "width": 480,
+      "height": 480,
+      "size": 46862,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    }
+  ]
+}

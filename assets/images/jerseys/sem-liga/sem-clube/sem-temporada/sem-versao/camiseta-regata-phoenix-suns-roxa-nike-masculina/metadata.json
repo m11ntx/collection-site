@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-phoenix-suns-roxa-nike-masculina",
+  "createdAt": "2026-07-09T20:31:13Z",
+  "updatedAt": "2026-07-09T20:31:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/front.webp",
+      "hash": "5ce2f3a215f213d0ecc9d93fa084bac9e88a7d53f4a0ac809340384862d1bc72",
+      "width": 480,
+      "height": 480,
+      "size": 13718,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/back.webp",
+      "hash": "0cc91327edd5356a4a8d48a0387f7e9542f264eaa915be0c3dffd6966595da31",
+      "width": 480,
+      "height": 480,
+      "size": 14900,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/detail-1.webp",
+      "hash": "a72196c1cd639fcba8c093578ad71ea1ead67d5ab0fb4312277d542d92dad7ea",
+      "width": 480,
+      "height": 480,
+      "size": 24002,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/detail-2.webp",
+      "hash": "69bd2a659b185174a1b52f00efa53d91cf7c1a611ec3b753e4eb6f9a77b65f18",
+      "width": 480,
+      "height": 480,
+      "size": 21384,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/detail-3.webp",
+      "hash": "8a3b78b49eda06493aa1aeb930886ce08d5b7f2be460ed6db57d72512452a662",
+      "width": 480,
+      "height": 480,
+      "size": 36128,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-phoenix-suns-roxa-nike-masculina/detail-4.webp",
+      "hash": "d63b09b87019585e7624bebe94ceb4fcad35162ab3f3dca6f9c5524bd85745a6",
+      "width": 480,
+      "height": 480,
+      "size": 25434,
+      "createdAt": "2026-07-09T20:31:13Z",
+      "updatedAt": "2026-07-09T20:31:13Z"
+    }
+  ]
+}

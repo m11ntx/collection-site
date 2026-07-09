@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-portland-trail-blazers-vermelha-nike-masculina",
+  "createdAt": "2026-07-09T20:31:15Z",
+  "updatedAt": "2026-07-09T20:31:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/front.webp",
+      "hash": "0e99de7c478d16fe4cef89462c3334a4a813520981f7b796835e08dacd761c94",
+      "width": 480,
+      "height": 480,
+      "size": 15490,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/back.webp",
+      "hash": "448528e5c6df2c6f2eb5063c7ef7ccdfbf841f1154c31d4749ca590249c1938d",
+      "width": 480,
+      "height": 480,
+      "size": 13290,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/detail-1.webp",
+      "hash": "f08b313ab796a7c5bac7d0ab2248b120a26e799ebca845e7dd6364f31324ee29",
+      "width": 480,
+      "height": 480,
+      "size": 15812,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/detail-2.webp",
+      "hash": "d1f8aeec796fe5676aecc00a1687d0ce01b1eebee5937890551e6b8b5cd6ddf1",
+      "width": 480,
+      "height": 480,
+      "size": 31122,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/detail-3.webp",
+      "hash": "4445275a0c1c3de2cc03c08f7ec1ceadf096fbf947c87b2cdda851f201a5d83d",
+      "width": 480,
+      "height": 480,
+      "size": 31308,
+      "createdAt": "2026-07-09T20:31:15Z",
+      "updatedAt": "2026-07-09T20:31:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-vermelha-nike-masculina/detail-4.webp",
+      "hash": "5a1991685b7b1749c98b66343f32b2890897bfbc5b00da7ad2265d331c3e8424",
+      "width": 480,
+      "height": 480,
+      "size": 25912,
+      "createdAt": "2026-07-09T20:31:15Z",
+      "updatedAt": "2026-07-09T20:31:15Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto",
+  "createdAt": "2026-07-09T20:31:29Z",
+  "updatedAt": "2026-07-09T20:31:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto/front.webp",
+      "hash": "31b6c6b0529897605c0a1bae65596252d0f3f02f9a878ff0e27d40f3ce85796c",
+      "width": 480,
+      "height": 480,
+      "size": 14006,
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto/back.webp",
+      "hash": "c41574879ec9fbeb241446bf97f1c8a291d4edc49121b39e955be343e5552e72",
+      "width": 480,
+      "height": 480,
+      "size": 22284,
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto/detail-1.webp",
+      "hash": "23dcd862cdc509d92b0b1e2f79329864b04c8432a450d4037b00814baccbfcc3",
+      "width": 480,
+      "height": 480,
+      "size": 42310,
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto/detail-2.webp",
+      "hash": "78f8f73c15d1ae6e8bfd21a048c20f672aa1506719cd45f517d1ced6e5431d5f",
+      "width": 480,
+      "height": 480,
+      "size": 27040,
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto/detail-3.webp",
+      "hash": "8771e4dc354a949a9f26a4c0e475171de19c6d9ca7feb63517d9b3fa1b0ffbbf",
+      "width": 480,
+      "height": 480,
+      "size": 38984,
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
+    }
+  ]
+}

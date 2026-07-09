@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina",
+  "createdAt": "2026-07-09T20:30:23Z",
+  "updatedAt": "2026-07-09T20:30:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/front.webp",
+      "hash": "4c57c2f589226c7014567b40f7827c4b8b5a6c0791d255f63c99f5e727d5e8e7",
+      "width": 480,
+      "height": 480,
+      "size": 12940,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/back.webp",
+      "hash": "e20a9ffcdbabb416b104458280c3ae0abec352779c4601fc3a260a4300eb183f",
+      "width": 480,
+      "height": 480,
+      "size": 41416,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/detail-1.webp",
+      "hash": "3f5372bb7dbac07f2db5d9e46b82ecb8f99a2e3da5f0ab7f5036c58cf4a7b124",
+      "width": 480,
+      "height": 480,
+      "size": 20894,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/detail-2.webp",
+      "hash": "5adae64c0dff1f7c4b32d569a1ad89573ef77babbf7749c1e93a60d752063f4d",
+      "width": 480,
+      "height": 480,
+      "size": 32156,
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/detail-3.webp",
+      "hash": "939a7e831461bfb166f5c541ac747ce2dbe5c69702f9710775a2ffa8926fb3f3",
+      "width": 480,
+      "height": 480,
+      "size": 22276,
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-preta-city-edition-nike-masculina/detail-4.webp",
+      "hash": "bbef71ddbac6ae89f65070976edcde5f4eae19f87ea6905e1ba8c1777a614f9a",
+      "width": 480,
+      "height": 480,
+      "size": 57356,
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
+    }
+  ]
+}

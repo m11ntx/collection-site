@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao",
+  "createdAt": "2026-07-09T20:31:32Z",
+  "updatedAt": "2026-07-09T20:31:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao/front.webp",
+      "hash": "5348fb5563aaeac5b507aa7103a017f4b432eaba6e6622e59ede27f2a42c9e10",
+      "width": 480,
+      "height": 480,
+      "size": 23616,
+      "createdAt": "2026-07-09T20:31:32Z",
+      "updatedAt": "2026-07-09T20:31:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao/back.webp",
+      "hash": "d6b43ace115f5c54e310f02b4528765df12a157c60e8aaa8d9380b4e5bc24e75",
+      "width": 480,
+      "height": 480,
+      "size": 42636,
+      "createdAt": "2026-07-09T20:31:32Z",
+      "updatedAt": "2026-07-09T20:31:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao/detail-1.webp",
+      "hash": "48cd8b75e0cc7e4270d44c4a1cf518342d31cdb455ba924800f8fe66d62de6c7",
+      "width": 480,
+      "height": 480,
+      "size": 36054,
+      "createdAt": "2026-07-09T20:31:32Z",
+      "updatedAt": "2026-07-09T20:31:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao/detail-2.webp",
+      "hash": "06d6d72f0815bf1abefd15aa621addc538ba9d7580d1569a27b6e52c5d28c045",
+      "width": 480,
+      "height": 480,
+      "size": 30104,
+      "createdAt": "2026-07-09T20:31:32Z",
+      "updatedAt": "2026-07-09T20:31:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-preta-com-detalhes-em-verde-limao/detail-3.webp",
+      "hash": "85971c21cd4ad7eae1c0d3806f9fd2bebb7de330d6ebcf5c4fc452acde272b84",
+      "width": 480,
+      "height": 480,
+      "size": 55448,
+      "createdAt": "2026-07-09T20:31:32Z",
+      "updatedAt": "2026-07-09T20:31:32Z"
+    }
+  ]
+}

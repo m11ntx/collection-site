@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cf-montreal-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T20:32:08Z",
+  "updatedAt": "2026-07-09T20:32:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-cf-montreal-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-branco/front.webp",
+      "hash": "5a7d0d75947a8e53ef55cf3a1648923d99f28a0bab7f71a7284cbf0e2f8102bd",
+      "width": 480,
+      "height": 480,
+      "size": 16346,
+      "createdAt": "2026-07-09T20:32:08Z",
+      "updatedAt": "2026-07-09T20:32:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/sem-clube/24-25/fan/camisa-cf-montreal-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-branco/back.webp",
+      "hash": "a8259ba6d686d4b17667dfc6cf44c281c8b57387f80d8ee3851480896180d63c",
+      "width": 480,
+      "height": 480,
+      "size": 6406,
+      "createdAt": "2026-07-09T20:32:08Z",
+      "updatedAt": "2026-07-09T20:32:08Z"
+    }
+  ]
+}

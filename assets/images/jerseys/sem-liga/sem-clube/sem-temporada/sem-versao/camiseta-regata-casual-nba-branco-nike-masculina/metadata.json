@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-casual-nba-branco-nike-masculina",
+  "createdAt": "2026-07-09T20:30:25Z",
+  "updatedAt": "2026-07-09T20:30:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/front.webp",
+      "hash": "6512658291c7675b120140e4769977ff515ec24ad6de3d537442827de58deb73",
+      "width": 480,
+      "height": 480,
+      "size": 5808,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/back.webp",
+      "hash": "9013b64288cad4c3c4ddf8938e9eca08488b88ba59fcc4ca2d2f47f76af6ccb9",
+      "width": 480,
+      "height": 480,
+      "size": 5818,
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/detail-1.webp",
+      "hash": "2f404743dffe325222b08d6d6c16977e3edec79260541083945e8e73c29ade9b",
+      "width": 480,
+      "height": 480,
+      "size": 7480,
+      "createdAt": "2026-07-09T20:30:25Z",
+      "updatedAt": "2026-07-09T20:30:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/detail-2.webp",
+      "hash": "b00ae799751da76835772b6e7e19285a235e409095c84e184623f5895fa355e8",
+      "width": 480,
+      "height": 480,
+      "size": 6368,
+      "createdAt": "2026-07-09T20:30:25Z",
+      "updatedAt": "2026-07-09T20:30:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/detail-3.webp",
+      "hash": "db5c95e63590f91d6d5dbc8ebadab708a2e72eb441112869339266248409fd27",
+      "width": 480,
+      "height": 480,
+      "size": 15142,
+      "createdAt": "2026-07-09T20:30:25Z",
+      "updatedAt": "2026-07-09T20:30:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-casual-nba-branco-nike-masculina/detail-4.webp",
+      "hash": "eeef1bdd88f75065e2f0bca8013b9b2068c30eb2cf064f8bc681ea43964015e0",
+      "width": 480,
+      "height": 480,
+      "size": 8112,
+      "createdAt": "2026-07-09T20:30:25Z",
+      "updatedAt": "2026-07-09T20:30:25Z"
+    }
+  ]
+}

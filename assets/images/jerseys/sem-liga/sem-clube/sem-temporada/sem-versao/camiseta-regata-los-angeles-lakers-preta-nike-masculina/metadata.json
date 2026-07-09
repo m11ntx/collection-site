@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-preta-nike-masculina",
+  "createdAt": "2026-07-09T20:30:55Z",
+  "updatedAt": "2026-07-09T20:30:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/front.webp",
+      "hash": "c5c2f3c767b286baccfb8d951fb9e76be0bc1be41a6e00119418f28de9bb8441",
+      "width": 480,
+      "height": 480,
+      "size": 13190,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/back.webp",
+      "hash": "5b15aa0f38ba1a39654799303a475d004f6a1ff0db52b3350d156cbe0408ec08",
+      "width": 480,
+      "height": 480,
+      "size": 13760,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/detail-1.webp",
+      "hash": "f036f8d5ba7abaf82dfcc84e2581228fbf6e0f77b4e1bc5a4eb00625c9b01e5a",
+      "width": 480,
+      "height": 480,
+      "size": 27154,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/detail-2.webp",
+      "hash": "b3f572f3c8854a4a140d580b25d419f1029daf5a24ddc28ad06593092c9ef00c",
+      "width": 480,
+      "height": 480,
+      "size": 21864,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/detail-3.webp",
+      "hash": "d572fd19660d7aec13cab945be39a89cc6cbf57cb6f95b2aa65cdf7015fea702",
+      "width": 480,
+      "height": 480,
+      "size": 19844,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-nike-masculina/detail-4.webp",
+      "hash": "17d691a3be23aff75a74f424e54a631bd307838a929e591a4de4ef2fd688e930",
+      "width": 480,
+      "height": 480,
+      "size": 20980,
+      "createdAt": "2026-07-09T20:30:55Z",
+      "updatedAt": "2026-07-09T20:30:55Z"
+    }
+  ]
+}

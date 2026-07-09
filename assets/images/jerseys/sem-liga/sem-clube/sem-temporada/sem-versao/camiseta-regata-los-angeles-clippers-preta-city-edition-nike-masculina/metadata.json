@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina",
+  "createdAt": "2026-07-09T20:30:47Z",
+  "updatedAt": "2026-07-09T20:30:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/front.webp",
+      "hash": "5955e731e0a57cd2796b5444db3e047bfdd47c8d0b88c0eeaa1a4bac11563cc6",
+      "width": 480,
+      "height": 480,
+      "size": 12360,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/back.webp",
+      "hash": "45a8190525d84dfd41e98b15f1fb629fb7acb8bebcc70da83f5136f468a33ec6",
+      "width": 480,
+      "height": 480,
+      "size": 11436,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/detail-1.webp",
+      "hash": "0678011357867356222e5d5e723e13609c1364e473e336376134da1ee4f0a9b9",
+      "width": 480,
+      "height": 480,
+      "size": 19194,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/detail-2.webp",
+      "hash": "8a63435e0d8d206f1e0c3d3f55e009e917a7a714fa4e80ab7b581fa1f841ca73",
+      "width": 480,
+      "height": 480,
+      "size": 20880,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/detail-3.webp",
+      "hash": "dd1bde36ef7b421dca13fc9ffa7eae754a1bc30508176e38334f15c3fe606c73",
+      "width": 480,
+      "height": 480,
+      "size": 30078,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-clippers-preta-city-edition-nike-masculina/detail-4.webp",
+      "hash": "98882e547eccca4b483aefe97c169648b4910d22d1b16e7005080e5467b201aa",
+      "width": 480,
+      "height": 480,
+      "size": 30316,
+      "createdAt": "2026-07-09T20:30:47Z",
+      "updatedAt": "2026-07-09T20:30:47Z"
+    }
+  ]
+}

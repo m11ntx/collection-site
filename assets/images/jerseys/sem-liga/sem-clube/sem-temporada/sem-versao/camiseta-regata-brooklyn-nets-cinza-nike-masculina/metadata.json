@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-brooklyn-nets-cinza-nike-masculina",
+  "createdAt": "2026-07-09T20:30:22Z",
+  "updatedAt": "2026-07-09T20:30:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/front.webp",
+      "hash": "87693f4c523f35b08eced206378d8c09e9bdb80f8a0d7843ed97ae4951aa4118",
+      "width": 480,
+      "height": 480,
+      "size": 10766,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/back.webp",
+      "hash": "1e184c04166be768224e4bb9ae4a41b9bef6cea1bac21725574cc208d85713f3",
+      "width": 480,
+      "height": 480,
+      "size": 10608,
+      "createdAt": "2026-07-09T20:30:21Z",
+      "updatedAt": "2026-07-09T20:30:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/detail-1.webp",
+      "hash": "e1e36fb06890360f3bd936df072962852dc1a1cd3a6b75e463c59a5bfb8d8866",
+      "width": 480,
+      "height": 480,
+      "size": 13426,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/detail-2.webp",
+      "hash": "2ff23b60bacdfb203a07a0ca23621502d8f5f6848857ef97bdc555a4794450c5",
+      "width": 480,
+      "height": 480,
+      "size": 24464,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/detail-3.webp",
+      "hash": "951af0f051fda7c86e47b3d1a69cbaccf17cd3dad9f327410567332fe61f49f8",
+      "width": 480,
+      "height": 480,
+      "size": 25542,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-cinza-nike-masculina/detail-4.webp",
+      "hash": "b697b96da15366bef46bd2e58891ae789e66df7520468893abe5eb46b853bb00",
+      "width": 480,
+      "height": 480,
+      "size": 27458,
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
+    }
+  ]
+}

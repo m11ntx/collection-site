@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-e-no-branco",
+  "createdAt": "2026-07-09T20:31:40Z",
+  "updatedAt": "2026-07-09T20:31:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-2cf31c30/front.webp",
+      "hash": "c08d4194654464be0a4c67ed252a019cc364477fe7dc50965854db97713403c9",
+      "width": 480,
+      "height": 480,
+      "size": 14856,
+      "createdAt": "2026-07-09T20:31:40Z",
+      "updatedAt": "2026-07-09T20:31:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-2cf31c30/back.webp",
+      "hash": "623722947c72e8d974751be0f8859723bb2341d8435542001bae7f2283931886",
+      "width": 480,
+      "height": 480,
+      "size": 42364,
+      "createdAt": "2026-07-09T20:31:40Z",
+      "updatedAt": "2026-07-09T20:31:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-2cf31c30/detail-1.webp",
+      "hash": "85e6c63c0b46275483ed73d3192ceaed2ed256c7a8ffd68224e0e42d560b1934",
+      "width": 480,
+      "height": 480,
+      "size": 45102,
+      "createdAt": "2026-07-09T20:31:40Z",
+      "updatedAt": "2026-07-09T20:31:40Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-2cf31c30/detail-2.webp",
+      "hash": "cdfd9862f4fe96c90c0ed231781e4518d3325a92cd740eb86281e5270bec08e2",
+      "width": 480,
+      "height": 480,
+      "size": 33180,
+      "createdAt": "2026-07-09T20:31:40Z",
+      "updatedAt": "2026-07-09T20:31:40Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-baixo-azul-escuro-com-bolhas-em-preto-2cf31c30/detail-3.webp",
+      "hash": "0c0512382cf2828cf81174d434e31ba561028739bca43e971462768e53532d50",
+      "width": 480,
+      "height": 480,
+      "size": 32636,
+      "createdAt": "2026-07-09T20:31:40Z",
+      "updatedAt": "2026-07-09T20:31:40Z"
+    }
+  ]
+}

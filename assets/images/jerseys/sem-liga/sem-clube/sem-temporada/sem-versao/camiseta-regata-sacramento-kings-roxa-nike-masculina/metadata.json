@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-sacramento-kings-roxa-nike-masculina",
+  "createdAt": "2026-07-09T20:31:18Z",
+  "updatedAt": "2026-07-09T20:31:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/front.webp",
+      "hash": "2416565087116faf88298eabddbc916f05508259588605778fe0b37d327a8916",
+      "width": 480,
+      "height": 480,
+      "size": 11430,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/back.webp",
+      "hash": "7b45c2c5dd70bf5f48a9e180bd57366855a7dacf7e3c01970ce752de129f4154",
+      "width": 480,
+      "height": 480,
+      "size": 10880,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/detail-1.webp",
+      "hash": "021aca114ea6a5b3cc201638c53ec6a4d7816e7627c5e020cfda341bd6b89975",
+      "width": 480,
+      "height": 480,
+      "size": 19498,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/detail-2.webp",
+      "hash": "003440ec3c9d9be2966449e4a5a8586aaf8ce380cc6610b52debfff45dd94823",
+      "width": 480,
+      "height": 480,
+      "size": 25372,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/detail-3.webp",
+      "hash": "40765266884af30d5430c99245f9816bf7ae7eec5e75b8452a9110041aca5884",
+      "width": 480,
+      "height": 480,
+      "size": 16952,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-sacramento-kings-roxa-nike-masculina/detail-4.webp",
+      "hash": "31b4f0cc0568d04ec394cd9b1a7dfffc5ec9f7dc6363cc88e54692f7766369f2",
+      "width": 480,
+      "height": 480,
+      "size": 36222,
+      "createdAt": "2026-07-09T20:31:17Z",
+      "updatedAt": "2026-07-09T20:31:17Z"
+    }
+  ]
+}

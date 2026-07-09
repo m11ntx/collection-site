@@ -1,0 +1,57 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina",
+  "createdAt": "2026-07-09T20:30:55Z",
+  "updatedAt": "2026-07-09T20:30:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina/front.webp",
+      "hash": "72c3421530da874b794ee7cf4d166f949ab6242cfcefb3d29e68ec7ca8e6fbd7",
+      "width": 480,
+      "height": 480,
+      "size": 19424,
+      "createdAt": "2026-07-09T20:30:54Z",
+      "updatedAt": "2026-07-09T20:30:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina/back.webp",
+      "hash": "65792757ef3fbcebef2356e6afca7c8d4b3214a306335a9cfedc84278479bacd",
+      "width": 480,
+      "height": 480,
+      "size": 39964,
+      "createdAt": "2026-07-09T20:30:54Z",
+      "updatedAt": "2026-07-09T20:30:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina/detail-1.webp",
+      "hash": "8dfaa1f1e526cafb0f3f52c64bf391c6831acfd8ae214b5e086e66da79e8735f",
+      "width": 480,
+      "height": 480,
+      "size": 37480,
+      "createdAt": "2026-07-09T20:30:54Z",
+      "updatedAt": "2026-07-09T20:30:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina/detail-2.webp",
+      "hash": "1a7571a52fc228226a31dec9a9c5c92e21980b93439c9fdc8ed38ff2e5d13553",
+      "width": 480,
+      "height": 480,
+      "size": 33166,
+      "createdAt": "2026-07-09T20:30:54Z",
+      "updatedAt": "2026-07-09T20:30:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina/detail-3.webp",
+      "hash": "bdc60e14f277ebafb7036db07c16f54170da340df134d5c542d866cadf10b8ec",
+      "width": 480,
+      "height": 480,
+      "size": 17272,
+      "createdAt": "2026-07-09T20:30:54Z",
+      "updatedAt": "2026-07-09T20:30:54Z"
+    }
+  ]
+}

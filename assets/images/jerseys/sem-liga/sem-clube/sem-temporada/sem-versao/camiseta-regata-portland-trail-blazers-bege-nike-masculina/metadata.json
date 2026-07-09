@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-portland-trail-blazers-bege-nike-masculina",
+  "createdAt": "2026-07-09T20:31:14Z",
+  "updatedAt": "2026-07-09T20:31:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/front.webp",
+      "hash": "28a23a9daf9cb8e631e20915d6d491f68443f62a12baf1b2e3684ba2ddd9f958",
+      "width": 480,
+      "height": 480,
+      "size": 14156,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/back.webp",
+      "hash": "aa38af9cd9668fc0a02ef267094937977be67a1e57f1917c871035ab0c6e0097",
+      "width": 480,
+      "height": 480,
+      "size": 15712,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/detail-1.webp",
+      "hash": "1183a8a0a4b48ee8f2a4889728e59a35094ed368bd46ea7637ef24b4cf9dcd6f",
+      "width": 480,
+      "height": 480,
+      "size": 21518,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/detail-2.webp",
+      "hash": "6a5899907912c986ecb87cbc186789ebc0bf5a6747a23410c781bf673fa6c5c4",
+      "width": 480,
+      "height": 480,
+      "size": 26004,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/detail-3.webp",
+      "hash": "059cd4650451d5a18127a44fcbe4885d3634aa125abeb815c29b8fbb59615c45",
+      "width": 480,
+      "height": 480,
+      "size": 23092,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-portland-trail-blazers-bege-nike-masculina/detail-4.webp",
+      "hash": "4cc1a4a67fcb6307ae9fe5397465c86e4a2d468b144f44fc766129196415b2ee",
+      "width": 480,
+      "height": 480,
+      "size": 27588,
+      "createdAt": "2026-07-09T20:31:14Z",
+      "updatedAt": "2026-07-09T20:31:14Z"
+    }
+  ]
+}

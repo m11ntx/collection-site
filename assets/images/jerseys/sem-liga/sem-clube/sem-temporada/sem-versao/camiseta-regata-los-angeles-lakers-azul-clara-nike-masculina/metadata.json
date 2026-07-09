@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina",
+  "createdAt": "2026-07-09T20:30:50Z",
+  "updatedAt": "2026-07-09T20:30:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/front.webp",
+      "hash": "0ded19589184c1811ed576b7517ef5f833710705cb5f1ee9946f844df00a9338",
+      "width": 480,
+      "height": 480,
+      "size": 12054,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/back.webp",
+      "hash": "6d5bb62ccd98f1cb43ad58b53ea23322eadddbeb1aec3f235c5901cf70e77160",
+      "width": 480,
+      "height": 480,
+      "size": 14730,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/detail-1.webp",
+      "hash": "aac3a3a1c20dd0181fa719548557baff59b7dae2c15576a74a01d96796e9a421",
+      "width": 480,
+      "height": 480,
+      "size": 31658,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/detail-2.webp",
+      "hash": "adbc6d26b2cd688ac0453276662698dfdf36f9499e265678c034592bceaa9280",
+      "width": 480,
+      "height": 480,
+      "size": 24122,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/detail-3.webp",
+      "hash": "6f95d1f7b8a813bf3668c4082f9040ac7cb6c5160031cd6367da7efb574c1bba",
+      "width": 480,
+      "height": 480,
+      "size": 25496,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-los-angeles-lakers-azul-clara-nike-masculina/detail-4.webp",
+      "hash": "41c885f4c661b4e0a4341c31768850e785e5885ba3c775a7b4b2d3847decbb3b",
+      "width": 480,
+      "height": 480,
+      "size": 37082,
+      "createdAt": "2026-07-09T20:30:50Z",
+      "updatedAt": "2026-07-09T20:30:50Z"
+    }
+  ]
+}

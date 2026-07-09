@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas",
+  "createdAt": "2026-07-09T20:31:28Z",
+  "updatedAt": "2026-07-09T20:31:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas/front.webp",
+      "hash": "7bb8430b8251e48c9bbca98c93300bbf0b9adc4f7c39355a2c625c9efd9ad337",
+      "width": 480,
+      "height": 480,
+      "size": 16694,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas/back.webp",
+      "hash": "863686b0c703006801e23e73f351eaee20bb3229d6637ef879ccbdd6b08002d4",
+      "width": 480,
+      "height": 480,
+      "size": 27358,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas/detail-1.webp",
+      "hash": "e054fccdfa94495bf06a62885f9807b5506c09dd81955a060016ad65ae421085",
+      "width": 480,
+      "height": 480,
+      "size": 42602,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas/detail-2.webp",
+      "hash": "db4edd0c258efdde86570fdf76a8d75732eb0580775922238987b159b63dea73",
+      "width": 480,
+      "height": 480,
+      "size": 54020,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-azul-escuro-com-listras-brancas/detail-3.webp",
+      "hash": "c12d949adc3d8d384dd821035d783c27ff27016760fd81919382ae8e12e89647",
+      "width": 480,
+      "height": 480,
+      "size": 59398,
+      "createdAt": "2026-07-09T20:31:27Z",
+      "updatedAt": "2026-07-09T20:31:27Z"
+    }
+  ]
+}

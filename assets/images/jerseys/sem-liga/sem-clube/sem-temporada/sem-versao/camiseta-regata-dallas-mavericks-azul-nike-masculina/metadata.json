@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-dallas-mavericks-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:30:32Z",
+  "updatedAt": "2026-07-09T20:30:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/front.webp",
+      "hash": "fff74dbbfec3c1345f2db8deac418d2acbc59e86c066d7d5a4bc8aeb2eefc4a8",
+      "width": 480,
+      "height": 480,
+      "size": 13468,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/back.webp",
+      "hash": "a78aa68629468ccbebe6877c938a83a7dc48675ab852dd23a6824b3fb75fc26f",
+      "width": 480,
+      "height": 480,
+      "size": 13856,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/detail-1.webp",
+      "hash": "61cb95aac8c4cea351702e4dd19fc4a7c961b24d3d3ceb2e9c1211e42ad6069b",
+      "width": 480,
+      "height": 480,
+      "size": 19740,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/detail-2.webp",
+      "hash": "81f272136f79bf802589f4325ef8e5501ada5fa9a07fa8469be2d5ff79d70d3c",
+      "width": 480,
+      "height": 480,
+      "size": 37574,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/detail-3.webp",
+      "hash": "e12c8eccbc3a0523369bf8b985e555f4ce7cf1b5959329a15170ab3f19c10078",
+      "width": 480,
+      "height": 480,
+      "size": 26574,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-dallas-mavericks-azul-nike-masculina/detail-4.webp",
+      "hash": "65ff5b3cafbe855de3af90116653eb738680f0dd1ecf8c4405314e224708bcc7",
+      "width": 480,
+      "height": 480,
+      "size": 35288,
+      "createdAt": "2026-07-09T20:30:32Z",
+      "updatedAt": "2026-07-09T20:30:32Z"
+    }
+  ]
+}

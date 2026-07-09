@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-brooklyn-nets-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:30:19Z",
+  "updatedAt": "2026-07-09T20:30:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/front.webp",
+      "hash": "7824af467ab88bb025bc8a4ec3d2f579e5c2b06f1e09e842d7fdedc3bebc67cb",
+      "width": 480,
+      "height": 480,
+      "size": 15288,
+      "createdAt": "2026-07-09T20:30:18Z",
+      "updatedAt": "2026-07-09T20:30:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/back.webp",
+      "hash": "1b51de2c78580d7b0c8a6a143ef5b321602f53ab31373e8a524ead31026fa9c7",
+      "width": 480,
+      "height": 480,
+      "size": 15516,
+      "createdAt": "2026-07-09T20:30:18Z",
+      "updatedAt": "2026-07-09T20:30:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/detail-1.webp",
+      "hash": "ea147ae8df7d8f4b5244ad3a4426616daaad0ca8fb63f930fd15ed759ea684a8",
+      "width": 480,
+      "height": 480,
+      "size": 14908,
+      "createdAt": "2026-07-09T20:30:18Z",
+      "updatedAt": "2026-07-09T20:30:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/detail-2.webp",
+      "hash": "06cad93450839364cc9e7aaee2058abae024a1424fea8d1dac389d3108dbc2dc",
+      "width": 480,
+      "height": 480,
+      "size": 29274,
+      "createdAt": "2026-07-09T20:30:19Z",
+      "updatedAt": "2026-07-09T20:30:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/detail-3.webp",
+      "hash": "051f783b2fd28960b991a1047af0ed55a807c69e1df1ced677ae6bd92b44bf58",
+      "width": 480,
+      "height": 480,
+      "size": 18066,
+      "createdAt": "2026-07-09T20:30:19Z",
+      "updatedAt": "2026-07-09T20:30:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-brooklyn-nets-azul-nike-masculina/detail-4.webp",
+      "hash": "afafaacaf807689d05c20cf05c502df69a2e60130caa9ccc3805cd84bd0bcf72",
+      "width": 480,
+      "height": 480,
+      "size": 35612,
+      "createdAt": "2026-07-09T20:30:19Z",
+      "updatedAt": "2026-07-09T20:30:19Z"
+    }
+  ]
+}

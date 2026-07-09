@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-cleveland-cavaliers-branca-nike-masculina",
+  "createdAt": "2026-07-09T20:30:30Z",
+  "updatedAt": "2026-07-09T20:30:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/front.webp",
+      "hash": "1d07f68f26fcd119d9e7d5608be06a18bd6cef923da95d0eb1ceb67a3dce9c80",
+      "width": 480,
+      "height": 480,
+      "size": 12984,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/back.webp",
+      "hash": "2a4625de6a546a5cb49455635dfa150a43fa582ad62494fb475f16e981fe1dd6",
+      "width": 480,
+      "height": 480,
+      "size": 13218,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/detail-1.webp",
+      "hash": "25e46762b6f170934d2fda9d91e4e2f562a3872910b706df3c711d64b07750c3",
+      "width": 480,
+      "height": 480,
+      "size": 15092,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/detail-2.webp",
+      "hash": "d5d9295fc56e1f736df424f1bb54bfedaef46072780978c478d98b4a2d2f0f6a",
+      "width": 480,
+      "height": 480,
+      "size": 27394,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/detail-3.webp",
+      "hash": "0a9b1591c86c70487c32492be9c8fcff11fabdf3ec31abc66a03a77239be1a70",
+      "width": 480,
+      "height": 480,
+      "size": 26280,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-branca-nike-masculina/detail-4.webp",
+      "hash": "666f9f07238e69dc01302abadad6e1173ac694907332f1d77799a450e2123eea",
+      "width": 480,
+      "height": 480,
+      "size": 22448,
+      "createdAt": "2026-07-09T20:30:29Z",
+      "updatedAt": "2026-07-09T20:30:29Z"
+    }
+  ]
+}

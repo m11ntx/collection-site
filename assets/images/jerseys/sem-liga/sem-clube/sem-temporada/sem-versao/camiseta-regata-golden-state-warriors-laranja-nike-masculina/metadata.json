@@ -1,0 +1,57 @@
+{
+  "productId": "source-camiseta-regata-golden-state-warriors-laranja-nike-masculina",
+  "createdAt": "2026-07-09T20:30:44Z",
+  "updatedAt": "2026-07-09T20:30:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-golden-state-warriors-laranja-nike-masculina/front.webp",
+      "hash": "f98253e245f34cf2dd745e839be4c0910eb48f2fa772630954cf1bc04e88bd5f",
+      "width": 480,
+      "height": 480,
+      "size": 14852,
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-golden-state-warriors-laranja-nike-masculina/back.webp",
+      "hash": "71321776443e0c4cfb20d32565934eaa4c11383c9963a8a3d58c6c4b5619d25a",
+      "width": 480,
+      "height": 480,
+      "size": 29320,
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-golden-state-warriors-laranja-nike-masculina/detail-1.webp",
+      "hash": "e2dab19aa99fe4321d6ee37357f17d6ecf8bea74f4b74559383ab3ef9baaebb2",
+      "width": 480,
+      "height": 480,
+      "size": 19210,
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-golden-state-warriors-laranja-nike-masculina/detail-2.webp",
+      "hash": "72ca74b4b49f7802ba29a4b594d7af375ec395a5d6c20227e319a1174b0037d9",
+      "width": 480,
+      "height": 480,
+      "size": 33790,
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-golden-state-warriors-laranja-nike-masculina/detail-3.webp",
+      "hash": "946dc68ba759c789d4154d552455f5cb744b17707fec22dfd1e207c73d189a5e",
+      "width": 480,
+      "height": 480,
+      "size": 37424,
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
+    }
+  ]
+}

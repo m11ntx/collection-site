@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco",
+  "createdAt": "2026-07-09T20:31:36Z",
+  "updatedAt": "2026-07-09T20:31:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco/front.webp",
+      "hash": "f6ee468353358f3f788e2ae7be17c5e208a6fd4ee4ae7176ef3ad7e7fd3066b8",
+      "width": 480,
+      "height": 480,
+      "size": 21052,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco/back.webp",
+      "hash": "48a7b777a0b6e575f2b9bbf3f4fca68f8717bee65a0e20d58691fdb4609938f5",
+      "width": 480,
+      "height": 480,
+      "size": 41940,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco/detail-1.webp",
+      "hash": "77fe4df9e8dd85e9ea5123b08c89316e86e3ebfa0ca1a539c78682f3e3c1935e",
+      "width": 480,
+      "height": 480,
+      "size": 31538,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco/detail-2.webp",
+      "hash": "fcf180bd9b4651e9701008f98feb83ce346d6ad9b23e224e37ac0e0974c0deef",
+      "width": 480,
+      "height": 480,
+      "size": 41800,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-vermelha-com-detalhes-preto-e-branco/detail-3.webp",
+      "hash": "a2e83bd3c4f9fe63d200e174da47f7741fee62c6eb03695ed5117769e4c00903",
+      "width": 480,
+      "height": 480,
+      "size": 37748,
+      "createdAt": "2026-07-09T20:31:36Z",
+      "updatedAt": "2026-07-09T20:31:36Z"
+    }
+  ]
+}

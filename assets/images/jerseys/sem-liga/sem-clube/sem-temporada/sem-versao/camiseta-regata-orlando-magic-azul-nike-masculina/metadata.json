@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-orlando-magic-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:31:08Z",
+  "updatedAt": "2026-07-09T20:31:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/front.webp",
+      "hash": "f627082d8d7f40ee61409a8cf7422ff7da210b511a01d5f81b2fa626cac302b1",
+      "width": 480,
+      "height": 480,
+      "size": 16102,
+      "createdAt": "2026-07-09T20:31:07Z",
+      "updatedAt": "2026-07-09T20:31:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/back.webp",
+      "hash": "2fa4cfa19b8a83bfea5525d3c1db850e8b637c595e0914575c82417887e1c968",
+      "width": 480,
+      "height": 480,
+      "size": 17400,
+      "createdAt": "2026-07-09T20:31:07Z",
+      "updatedAt": "2026-07-09T20:31:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/detail-1.webp",
+      "hash": "d82ea5f7f83832ccd7db574d63ad1a88ac09df767b121442f2f1901c5d97bf08",
+      "width": 480,
+      "height": 480,
+      "size": 20668,
+      "createdAt": "2026-07-09T20:31:08Z",
+      "updatedAt": "2026-07-09T20:31:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/detail-2.webp",
+      "hash": "64ff865de908a681838c13b2339282bc2f81fbf392c06693797ab0f02d5910c1",
+      "width": 480,
+      "height": 480,
+      "size": 24902,
+      "createdAt": "2026-07-09T20:31:08Z",
+      "updatedAt": "2026-07-09T20:31:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/detail-3.webp",
+      "hash": "50d8571c3cd45ee62f649c88b3c4dc64af85caa58b024d3f11305e0b68a6abad",
+      "width": 480,
+      "height": 480,
+      "size": 28378,
+      "createdAt": "2026-07-09T20:31:08Z",
+      "updatedAt": "2026-07-09T20:31:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-orlando-magic-azul-nike-masculina/detail-4.webp",
+      "hash": "d34ff96a342654a0bb2b39370db5190d2a635ab757873ed2f2a934f0250cd6f2",
+      "width": 480,
+      "height": 480,
+      "size": 58910,
+      "createdAt": "2026-07-09T20:31:08Z",
+      "updatedAt": "2026-07-09T20:31:08Z"
+    }
+  ]
+}

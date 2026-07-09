@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas",
+  "createdAt": "2026-07-09T20:31:34Z",
+  "updatedAt": "2026-07-09T20:31:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas/front.webp",
+      "hash": "4884a5b7699fb97835fb69b1eb6fcbbbd7e50e7fa2f4877f6ec656af15c92f38",
+      "width": 480,
+      "height": 480,
+      "size": 26178,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas/back.webp",
+      "hash": "aa3db008747b8098e3dbb520ea2a8327393ac62c8610992b69fc4aa937865f75",
+      "width": 480,
+      "height": 480,
+      "size": 48746,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas/detail-1.webp",
+      "hash": "d42202a3ed0c49fd8ad299db2898c96ee95c8e22f0b90fef22c1d0512bc4094d",
+      "width": 480,
+      "height": 480,
+      "size": 42892,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas/detail-2.webp",
+      "hash": "f6feec6bdcb2e4f68c186dc37d6500dae89c44f2aed4293c1a1b21a8e1d94f71",
+      "width": 480,
+      "height": 480,
+      "size": 31732,
+      "createdAt": "2026-07-09T20:31:33Z",
+      "updatedAt": "2026-07-09T20:31:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-roxo-com-bolhinhas-amarelas/detail-3.webp",
+      "hash": "c98230ade1b163ea5f5e671a91cbb5ed8a8f9de48a8ce832caeca51c96f76d3b",
+      "width": 480,
+      "height": 480,
+      "size": 61698,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    }
+  ]
+}

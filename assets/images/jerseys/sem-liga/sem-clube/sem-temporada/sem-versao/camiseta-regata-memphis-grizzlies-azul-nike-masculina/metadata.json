@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-memphis-grizzlies-azul-nike-masculina",
+  "createdAt": "2026-07-09T20:30:58Z",
+  "updatedAt": "2026-07-09T20:30:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/front.webp",
+      "hash": "3a1174db0c18228153b9e70b496a2702dc41b210e0326b4e3ec4a0ddea5f750c",
+      "width": 480,
+      "height": 480,
+      "size": 16498,
+      "createdAt": "2026-07-09T20:30:57Z",
+      "updatedAt": "2026-07-09T20:30:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/back.webp",
+      "hash": "71861b1d77a8df321bc1ec72c5986cc143d1b992563aca1082f5e41b22287f95",
+      "width": 480,
+      "height": 480,
+      "size": 35176,
+      "createdAt": "2026-07-09T20:30:57Z",
+      "updatedAt": "2026-07-09T20:30:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/detail-1.webp",
+      "hash": "5ebd3c619d2da7be22966642915145cb3a0cf8d78c87f6338ab7d39572c07366",
+      "width": 480,
+      "height": 480,
+      "size": 35514,
+      "createdAt": "2026-07-09T20:30:58Z",
+      "updatedAt": "2026-07-09T20:30:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/detail-2.webp",
+      "hash": "0fa91266e3ab71edc46967d7778895619aceb7653cf4d43c1b86dd3a16885614",
+      "width": 480,
+      "height": 480,
+      "size": 28040,
+      "createdAt": "2026-07-09T20:30:58Z",
+      "updatedAt": "2026-07-09T20:30:58Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/detail-3.webp",
+      "hash": "b69ebbccf60b8aa20d5a4842fa01939eff84ddd1a39534789dd03c820b652648",
+      "width": 480,
+      "height": 480,
+      "size": 34354,
+      "createdAt": "2026-07-09T20:30:58Z",
+      "updatedAt": "2026-07-09T20:30:58Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-memphis-grizzlies-azul-nike-masculina/detail-4.webp",
+      "hash": "b57859f29d9f14de9fa971e6df2b9b19111a7ae0178bd82c8a2db4ca9e07499f",
+      "width": 480,
+      "height": 480,
+      "size": 29120,
+      "createdAt": "2026-07-09T20:30:58Z",
+      "updatedAt": "2026-07-09T20:30:58Z"
+    }
+  ]
+}

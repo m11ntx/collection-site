@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-nova-zelandia-away-26-27-torcedor-masculino-preto",
+  "createdAt": "2026-07-09T20:32:19Z",
+  "updatedAt": "2026-07-09T20:32:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/nova-zelandia/26-27/fan/camisa-nova-zelandia-away-26-27-torcedor-masculino-preto/front.webp",
+      "hash": "b27609bf12bf776c13ee4ddeee3c44fd550409e5c2afb9574604625649bcd123",
+      "width": 480,
+      "height": 480,
+      "size": 11004,
+      "createdAt": "2026-07-09T20:32:18Z",
+      "updatedAt": "2026-07-09T20:32:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/nova-zelandia/26-27/fan/camisa-nova-zelandia-away-26-27-torcedor-masculino-preto/back.webp",
+      "hash": "8d72c21a32a9ea6022d09163429b717c1faf47f95582fbe6c5c4ea6d7819543f",
+      "width": 225,
+      "height": 225,
+      "size": 3854,
+      "createdAt": "2026-07-09T20:32:19Z",
+      "updatedAt": "2026-07-09T20:32:19Z"
+    }
+  ]
+}

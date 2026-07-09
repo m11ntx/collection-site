@@ -1,0 +1,57 @@
+{
+  "productId": "source-meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca",
+  "createdAt": "2026-07-09T20:31:35Z",
+  "updatedAt": "2026-07-09T20:31:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca/front.webp",
+      "hash": "1447db1f6129610be19a3aa56abc9cfe256a368ee61b1f653ad193751bb7c507",
+      "width": 480,
+      "height": 480,
+      "size": 23402,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca/back.webp",
+      "hash": "7e5296f8a865419fd62f5dff31b0b4b476a4b14ef79830e884f7a6b67e159c09",
+      "width": 480,
+      "height": 480,
+      "size": 46264,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca/detail-1.webp",
+      "hash": "80a897ac3a4997b92dee60e3995b4a22658613fb71d6f095ef8c4749f0d5be16",
+      "width": 480,
+      "height": 480,
+      "size": 47328,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca/detail-2.webp",
+      "hash": "5f395e7e6d0afbcf29014c68f651701d2928362ac7c69276ec7be55d1df21449",
+      "width": 480,
+      "height": 480,
+      "size": 34600,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/meias-futebol-antiderrapante-cano-alto-verde-com-bolinhas-preta-e-branca/detail-3.webp",
+      "hash": "835998f124e42ab78f4d6b465a419935573da69a8ca932848e3588fc886c4c3f",
+      "width": 480,
+      "height": 480,
+      "size": 39554,
+      "createdAt": "2026-07-09T20:31:34Z",
+      "updatedAt": "2026-07-09T20:31:34Z"
+    }
+  ]
+}

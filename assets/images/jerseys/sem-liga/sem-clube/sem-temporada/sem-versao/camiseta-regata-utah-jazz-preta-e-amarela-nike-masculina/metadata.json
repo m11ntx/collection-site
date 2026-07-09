@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina",
+  "createdAt": "2026-07-09T20:31:22Z",
+  "updatedAt": "2026-07-09T20:31:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/front.webp",
+      "hash": "68a9559e71cd7c992824b860af9243453dec18e384525894127217a575d89d63",
+      "width": 480,
+      "height": 480,
+      "size": 12848,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/back.webp",
+      "hash": "2f85348804572e51c3bf5bd91e2f8ce7ebe99b1733b6e0cb214098ace368d430",
+      "width": 480,
+      "height": 480,
+      "size": 14486,
+      "createdAt": "2026-07-09T20:31:19Z",
+      "updatedAt": "2026-07-09T20:31:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/detail-1.webp",
+      "hash": "b2a7c49773baf3a504cd208622660a9708712082d6ddf7f3a4a162d1208daca0",
+      "width": 480,
+      "height": 480,
+      "size": 18356,
+      "createdAt": "2026-07-09T20:31:20Z",
+      "updatedAt": "2026-07-09T20:31:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/detail-2.webp",
+      "hash": "1b7c2a7dc8dace294bf784f2783fea71cf9e4170467264afc8042e228bfe327b",
+      "width": 480,
+      "height": 480,
+      "size": 13788,
+      "createdAt": "2026-07-09T20:31:20Z",
+      "updatedAt": "2026-07-09T20:31:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/detail-3.webp",
+      "hash": "15623715d624de7c66936ccf12c060d161bc1dcaf985da1184848c035da720da",
+      "width": 480,
+      "height": 480,
+      "size": 21512,
+      "createdAt": "2026-07-09T20:31:22Z",
+      "updatedAt": "2026-07-09T20:31:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-utah-jazz-preta-e-amarela-nike-masculina/detail-4.webp",
+      "hash": "074e4e810b391553ae6f25743871fff3b4f5c89b1747fcbb162d027defb99ae4",
+      "width": 480,
+      "height": 480,
+      "size": 15812,
+      "createdAt": "2026-07-09T20:31:22Z",
+      "updatedAt": "2026-07-09T20:31:22Z"
+    }
+  ]
+}
