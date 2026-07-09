@@ -435527,6 +435527,230 @@
     }
   },
   {
+    "id": "source-camisa-de-torcedor-da-as-roma-25-26-branca",
+    "externalId": "346681327",
+    "source": "source",
+    "slug": "camisa-de-torcedor-da-as-roma-25-26-branca",
+    "name": "camisa de torcedor da AS Roma 25/26 branca",
+    "collectionId": "europa",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "clubId": "as-roma",
+    "manufacturerId": null,
+    "category": null,
+    "gender": "men",
+    "version": "fan",
+    "season": "25/26",
+    "price": 65.47,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1531906120",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906121",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906124",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906126",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906133",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906137",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906140",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906143",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906145",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.92,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      },
+      {
+        "id": "1531906148",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 174.58,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/serie-a/as-roma/25-26/fan/camisa-de-torcedor-da-as-roma-25-26-branca/front.webp",
+        "alt": "camisa de torcedor da AS Roma 25/26 branca",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/serie-a/as-roma/25-26/fan/camisa-de-torcedor-da-as-roma-25-26-branca/back.webp",
+        "alt": "camisa de torcedor da AS Roma 25/26 branca",
+        "position": 1,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-de-torcedor-da-as-roma-25-26-branca-1cqop/",
+    "createdAt": "2026-07-09T05:59:33Z",
+    "updatedAt": "2026-07-09T05:59:33Z",
+    "isLaunch": false,
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 346681327,
+        "compare_at_price_number": 136.39,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/tmp_b64_da4be055-9b1c-46be-a27e-def6fce3665d_5718418_7890871-5bb6a138e0aaea785f17798282451976-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "manufacturer not identified",
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
     "id": "source-camisa-roma-25-26-home-torcedor-adidas",
     "externalId": "288980627",
     "source": "source",
@@ -512692,6 +512916,302 @@
         "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/1-2f39450490ba3a5f7c17551913547029-640-0.webp"
       },
       "normalizationWarnings": [
+        "category not identified",
+        "currency not found; defaulted to BRL"
+      ]
+    }
+  },
+  {
+    "id": "source-camisa-cropped-selecao-brasileira-2026-feminina",
+    "externalId": "338890955",
+    "source": "source",
+    "slug": "camisa-cropped-selecao-brasileira-2026-feminina",
+    "name": "Camisa Cropped Seleção Brasileira 2026 - Feminina",
+    "collectionId": "selecoes",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "clubId": "brasil",
+    "manufacturerId": null,
+    "category": null,
+    "gender": "women",
+    "version": "fan",
+    "season": "2026",
+    "price": 65.47,
+    "currency": "BRL",
+    "available": true,
+    "inventoryTracked": false,
+    "sizes": [
+      {
+        "size": "P",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "M",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "G",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "GG",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "2XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "3XL",
+        "stock": null,
+        "available": true
+      },
+      {
+        "size": "4XL",
+        "stock": null,
+        "available": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "1506329745",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329774",
+        "sku": "",
+        "size": "P",
+        "options": {
+          "size": "P",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329790",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329806",
+        "sku": "",
+        "size": "M",
+        "options": {
+          "size": "M",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329822",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329841",
+        "sku": "",
+        "size": "G",
+        "options": {
+          "size": "G",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329863",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 65.47,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329889",
+        "sku": "",
+        "size": "GG",
+        "options": {
+          "size": "GG",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 152.76,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329915",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 70.92,
+        "compareAtPrice": 136.39,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329960",
+        "sku": "",
+        "size": "2XL",
+        "options": {
+          "size": "2XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 174.58,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329931",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329975",
+        "sku": "",
+        "size": "3XL",
+        "options": {
+          "size": "3XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329944",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "SEM PERSONALIZAÇÃO"
+        },
+        "price": 76.38,
+        "compareAtPrice": 147.3,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      },
+      {
+        "id": "1506329993",
+        "sku": "",
+        "size": "4XL",
+        "options": {
+          "size": "4XL",
+          "personalization": "COM PERSONALIZAÇÃO"
+        },
+        "price": 81.83,
+        "compareAtPrice": 180.03,
+        "available": true,
+        "stock": null,
+        "image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-1024-1024.webp"
+      }
+    ],
+    "images": [
+      {
+        "url": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/front.webp",
+        "alt": "Camisa Cropped Seleção Brasileira 2026 - Feminina",
+        "position": 0,
+        "primary": true
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/back.webp",
+        "alt": "Camisa Cropped Seleção Brasileira 2026 - Feminina",
+        "position": 1,
+        "primary": false
+      },
+      {
+        "url": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/detail-1.webp",
+        "alt": "Camisa Cropped Seleção Brasileira 2026 - Feminina",
+        "position": 2,
+        "primary": false
+      }
+    ],
+    "buyUrl": "https://fenghao.com.br/produtos/camisa-cropped-selecao-brasileira-2026-feminina-9f6dn/",
+    "createdAt": "2026-07-09T05:59:33Z",
+    "updatedAt": "2026-07-09T05:59:33Z",
+    "isLaunch": false,
+    "metadata": {
+      "personalizations": [
+        "SEM PERSONALIZAÇÃO",
+        "COM PERSONALIZAÇÃO"
+      ],
+      "sourceExtra": {
+        "product_id": 338890955,
+        "compare_at_price_number": 136.39,
+        "has_promotional_price": true,
+        "main_image": "https://acdn-us.mitiendanube.com/stores/005/718/418/products/image-be357f6b5c4a525a1117764636237953-640-0.webp"
+      },
+      "normalizationWarnings": [
+        "manufacturer not identified",
         "category not identified",
         "currency not found; defaulted to BRL"
       ]

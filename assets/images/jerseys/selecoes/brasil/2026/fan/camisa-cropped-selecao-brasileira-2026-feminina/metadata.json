@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-cropped-selecao-brasileira-2026-feminina",
+  "createdAt": "2026-07-09T05:59:34Z",
+  "updatedAt": "2026-07-09T05:59:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/front.webp",
+      "hash": "933b8a6dc5d2253b80320c33da3eedcfa1a9c08a7f58aaabd88901d55b21f74e",
+      "width": 480,
+      "height": 480,
+      "size": 13566,
+      "createdAt": "2026-07-09T05:59:34Z",
+      "updatedAt": "2026-07-09T05:59:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/back.webp",
+      "hash": "507c04fbbf4a519615e48578d8080769f4f93bd765024102df2ee84d2b98fd78",
+      "width": 480,
+      "height": 480,
+      "size": 11312,
+      "createdAt": "2026-07-09T05:59:34Z",
+      "updatedAt": "2026-07-09T05:59:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-cropped-selecao-brasileira-2026-feminina/detail-1.webp",
+      "hash": "fab2754c9127dffc79ef7786672b882869aa85f05b0dd45cd128212e656165ec",
+      "width": 480,
+      "height": 480,
+      "size": 55442,
+      "createdAt": "2026-07-09T05:59:34Z",
+      "updatedAt": "2026-07-09T05:59:34Z"
+    }
+  ]
+}

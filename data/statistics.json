@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2132,
+    "products": 2134,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,7 +8,7 @@
     "manufacturers": 17
   },
   "products": {
-    "available": 2094,
+    "available": 2096,
     "unavailable": 38,
     "inventoryTracked": 0,
     "withManufacturer": 1671
@@ -16,10 +16,10 @@
   "byCollection": {
     "america-do-sul": 51,
     "brasil": 588,
-    "europa": 764,
+    "europa": 765,
     "lancamentos": 1,
     "resto-do-mundo": 74,
-    "selecoes": 374,
+    "selecoes": 375,
     "unknown": 280
   },
   "byLeague": {
@@ -35,14 +35,14 @@
     "primeira-liga": 9,
     "saudi-pro-league": 15,
     "scottish-premiership": 4,
-    "selecoes": 286,
-    "serie-a": 143,
+    "selecoes": 287,
+    "serie-a": 144,
     "super-lig": 1,
     "unknown": 670
   },
   "byRegion": {
     "africa": 7,
-    "americas": 113,
+    "americas": 114,
     "asia": 36,
     "europa": 125,
     "minas-gerais": 66,
@@ -51,7 +51,7 @@
     "rio-de-janeiro": 189,
     "sao-paulo": 148,
     "sul": 65,
-    "unknown": 1314
+    "unknown": 1315
   },
   "byClub": {
     "ac-milan": 23,
@@ -64,7 +64,7 @@
     "argelia": 1,
     "argentina": 24,
     "arsenal": 26,
-    "as-roma": 11,
+    "as-roma": 12,
     "aston-villa": 4,
     "athletic-bilbao": 1,
     "athletico-paranaense": 12,
@@ -83,7 +83,7 @@
     "borussia-dortmund": 20,
     "botafogo": 24,
     "bragantino": 12,
-    "brasil": 41,
+    "brasil": 42,
     "canada": 1,
     "ceara": 1,
     "celtic": 4,
@@ -303,14 +303,14 @@
     "2024/25": 13,
     "2025": 17,
     "2025/26": 30,
-    "2026": 18,
+    "2026": 19,
     "2026/27": 5,
     "21/20": 1,
     "23/24": 1,
     "24/15": 1,
     "24/25": 1076,
     "24/35": 1,
-    "25/26": 217,
+    "25/26": 218,
     "26/27": 195,
     "57/62": 1,
     "88/90": 1,
@@ -329,17 +329,17 @@
     "current": 91,
     "manga-longa": 11,
     "retro": 333,
-    "unknown": 1697
+    "unknown": 1699
   },
   "byVersion": {
-    "fan": 1195,
+    "fan": 1197,
     "player": 260,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1676,
+    "men": 1677,
     "unknown": 209,
-    "women": 168
+    "women": 169
   }
 }
