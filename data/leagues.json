@@ -1,13 +1,5 @@
 [
   {
-    "id": "libertadores",
-    "collectionId": "america-do-sul",
-    "slug": "libertadores",
-    "name": "Libertadores",
-    "country": null,
-    "image": null
-  },
-  {
     "id": "brasileirao",
     "collectionId": "brasil",
     "slug": "brasileirao",
@@ -93,6 +85,14 @@
     "slug": "allsvenskan",
     "name": "Allsvenskan",
     "country": "Sweden",
+    "image": null
+  },
+  {
+    "id": "libertadores",
+    "collectionId": "resto-do-mundo",
+    "slug": "libertadores",
+    "name": "Libertadores",
+    "country": null,
     "image": null
   },
   {

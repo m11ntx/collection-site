@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-curacau-away-26-27-torcedor-masculina",
+  "createdAt": "2026-07-09T19:42:52Z",
+  "updatedAt": "2026-07-09T19:42:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/curacao/26-27/fan/camisa-selecao-curacau-away-26-27-torcedor-masculina/front.webp",
+      "hash": "583fe839383ca4bf05ffddd301661c14e981373b281d917524269609d0002929",
+      "width": 480,
+      "height": 480,
+      "size": 56430,
+      "createdAt": "2026-07-09T19:42:51Z",
+      "updatedAt": "2026-07-09T19:42:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/curacao/26-27/fan/camisa-selecao-curacau-away-26-27-torcedor-masculina/back.webp",
+      "hash": "8315122fd9afafce768c7b9f46f777c49fb697603cbc27507d80280b91d8f523",
+      "width": 480,
+      "height": 480,
+      "size": 63312,
+      "createdAt": "2026-07-09T19:42:51Z",
+      "updatedAt": "2026-07-09T19:42:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/curacao/26-27/fan/camisa-selecao-curacau-away-26-27-torcedor-masculina/detail-1.webp",
+      "hash": "44c3af961b5947fa6ecfb155a447c0602bd29eb6c469b87c7e3028502d8fc07b",
+      "width": 480,
+      "height": 480,
+      "size": 64354,
+      "createdAt": "2026-07-09T19:42:51Z",
+      "updatedAt": "2026-07-09T19:42:51Z"
+    }
+  ]
+}

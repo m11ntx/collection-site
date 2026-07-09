@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto-e-branco",
+  "createdAt": "2026-07-09T19:42:43Z",
+  "updatedAt": "2026-07-09T19:42:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/front.webp",
+      "hash": "2e65dc7108c27d26c55e2e2df7f11865ecb5c9ea1ac75b723b1912804fc9c274",
+      "width": 480,
+      "height": 480,
+      "size": 11180,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/back.webp",
+      "hash": "989d24d9b08e1715d3b9a4c34df52c0cf7703b51be377918b14c9d87a41cdaff",
+      "width": 480,
+      "height": 480,
+      "size": 7530,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/detail-1.webp",
+      "hash": "a9ac85bf4f61920446a35e7b3910e82e3542b64d1af5fd98571e75103b6de2b5",
+      "width": 480,
+      "height": 480,
+      "size": 12744,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/detail-2.webp",
+      "hash": "5a99e924d0bd645478a52a386baeb6ccc945aebc0a4883a21fd337fe0f7cd013",
+      "width": 480,
+      "height": 480,
+      "size": 41752,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/detail-3.webp",
+      "hash": "91417978cf7db3f3f33dbcb2c5c4f1eff3e1c5f8d950405d46f58b88ce7d651f",
+      "width": 480,
+      "height": 480,
+      "size": 65286,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/detail-4.webp",
+      "hash": "b9631a856dcdc7100f4af28a42f6c593fb94e0e53a38be4c1ac93414aa568ce8",
+      "width": 480,
+      "height": 480,
+      "size": 12912,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-ii-24-25-torcedor-adidas-masculina-vermelha-c-8d8ef6d1/detail-5.webp",
+      "hash": "6526cdf6e2615c421aba901c7a354be1c9cf951e7ac1d22ec402253bf0b18e94",
+      "width": 480,
+      "height": 480,
+      "size": 20108,
+      "createdAt": "2026-07-09T19:42:42Z",
+      "updatedAt": "2026-07-09T19:42:42Z"
+    }
+  ]
+}

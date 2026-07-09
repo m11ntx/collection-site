@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-universidad-do-chile-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T19:42:49Z",
+  "updatedAt": "2026-07-09T19:42:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-i-24-25-torcedor-adidas-masculina-azul-com--6969a24b/front.webp",
+      "hash": "b78d968d7eececa6be7bf2f65d7fa6a66fc25433583b579204021e1ed26eacb8",
+      "width": 480,
+      "height": 480,
+      "size": 10474,
+      "createdAt": "2026-07-09T19:42:49Z",
+      "updatedAt": "2026-07-09T19:42:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-i-24-25-torcedor-adidas-masculina-azul-com--6969a24b/back.webp",
+      "hash": "0b9158ed2bcd8a6a8f54a0b50db5e50d0dafd08e93642452427060f078ed2fee",
+      "width": 480,
+      "height": 480,
+      "size": 5426,
+      "createdAt": "2026-07-09T19:42:49Z",
+      "updatedAt": "2026-07-09T19:42:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-i-24-25-torcedor-adidas-masculina-azul-com--6969a24b/detail-1.webp",
+      "hash": "34b2ff4696e8e30b23f6f1c039fcb4cbf7218ddf529d2a87df953f53aebdc4f8",
+      "width": 480,
+      "height": 480,
+      "size": 25068,
+      "createdAt": "2026-07-09T19:42:49Z",
+      "updatedAt": "2026-07-09T19:42:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/universidad-do-chile/24-25/fan/camisa-universidad-do-chile-i-24-25-torcedor-adidas-masculina-azul-com--6969a24b/detail-2.webp",
+      "hash": "8dcfbfc743cdf1fdc76f6d297fd7908f1326430129cff18b2296778409c28a1f",
+      "width": 480,
+      "height": 480,
+      "size": 28860,
+      "createdAt": "2026-07-09T19:42:49Z",
+      "updatedAt": "2026-07-09T19:42:49Z"
+    }
+  ]
+}

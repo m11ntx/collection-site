@@ -78,5 +78,13 @@
     "name": "Europa",
     "country": null,
     "image": null
+  },
+  {
+    "id": "oceania",
+    "leagueId": "selecoes",
+    "slug": "oceania",
+    "name": "Oceania",
+    "country": null,
+    "image": null
   }
 ]

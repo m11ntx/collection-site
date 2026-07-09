@@ -1,10 +1,10 @@
 {
   "totals": {
     "products": 2727,
-    "collections": 6,
+    "collections": 4,
     "leagues": 15,
-    "regions": 10,
-    "clubs": 148,
+    "regions": 11,
+    "clubs": 157,
     "manufacturers": 18
   },
   "products": {
@@ -14,13 +14,11 @@
     "withManufacturer": 2131
   },
   "byCollection": {
-    "america-do-sul": 86,
     "brasil": 720,
     "europa": 1055,
-    "lancamentos": 1,
-    "resto-do-mundo": 85,
-    "selecoes": 545,
-    "unknown": 235
+    "resto-do-mundo": 171,
+    "selecoes": 550,
+    "unknown": 231
   },
   "byLeague": {
     "allsvenskan": 1,
@@ -35,23 +33,24 @@
     "primeira-liga": 17,
     "saudi-pro-league": 23,
     "scottish-premiership": 22,
-    "selecoes": 499,
+    "selecoes": 504,
     "serie-a": 218,
     "super-lig": 1,
-    "unknown": 379
+    "unknown": 374
   },
   "byRegion": {
     "africa": 9,
-    "americas": 192,
-    "asia": 42,
-    "europa": 251,
+    "americas": 195,
+    "asia": 44,
+    "europa": 255,
     "minas-gerais": 80,
     "nordeste": 70,
     "norte": 8,
+    "oceania": 1,
     "rio-de-janeiro": 267,
     "sao-paulo": 205,
     "sul": 78,
-    "unknown": 1525
+    "unknown": 1515
   },
   "byClub": {
     "ac-milan": 55,
@@ -74,6 +73,7 @@
     "atletico-madrid": 24,
     "atletico-mineiro": 37,
     "austin-fc": 2,
+    "austria": 1,
     "avai": 1,
     "bahia": 35,
     "barcelona": 95,
@@ -105,6 +105,7 @@
     "croacia": 7,
     "cruzeiro": 42,
     "crystal-palace": 1,
+    "curacao": 1,
     "desportivo-palestino": 2,
     "dinamarca": 1,
     "eintracht-frankfurt": 1,
@@ -118,6 +119,7 @@
     "fc-dallas": 2,
     "fc-heidenheim": 1,
     "fc-porto": 4,
+    "filipinas": 1,
     "fiorentina": 10,
     "flamengo": 147,
     "fluminense": 45,
@@ -133,6 +135,7 @@
     "inter-milan": 38,
     "internacional": 30,
     "irlanda": 3,
+    "islandia": 1,
     "italia": 34,
     "iugoslavia": 1,
     "jamaica": 3,
@@ -146,6 +149,7 @@
     "lorient": 1,
     "los-angeles-fc": 2,
     "lyon": 3,
+    "malasia": 1,
     "manchester-city": 44,
     "manchester-united": 88,
     "marrocos": 2,
@@ -161,10 +165,12 @@
     "nigeria": 3,
     "noruega": 3,
     "nottingham-forest": 1,
+    "nova-zelandia": 1,
     "olimpia": 4,
     "orlando-city": 2,
     "pais-de-gales": 2,
     "palmeiras": 72,
+    "paraguai": 2,
     "paris-saint-germain": 29,
     "paysandu": 6,
     "penarol": 1,
@@ -179,6 +185,7 @@
     "real-betis": 5,
     "real-madrid": 93,
     "remo": 2,
+    "republica-tcheca": 1,
     "river-plate": 23,
     "san-lorenzo": 2,
     "santa-cruz": 8,
@@ -197,8 +204,9 @@
     "toronto": 2,
     "tottenham": 22,
     "tunisia": 1,
+    "ucrania": 1,
     "universidad-do-chile": 2,
-    "unknown": 400,
+    "unknown": 390,
     "uruguai": 9,
     "vasco-da-gama": 44,
     "vitoria": 5,

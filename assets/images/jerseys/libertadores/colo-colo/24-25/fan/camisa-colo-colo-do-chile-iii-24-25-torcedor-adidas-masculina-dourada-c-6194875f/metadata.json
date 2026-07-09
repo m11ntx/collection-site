@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T19:42:43Z",
+  "updatedAt": "2026-07-09T19:42:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-c-6194875f/front.webp",
+      "hash": "3680648eac2354143c50236a43a037e2f56f9523550b7453d995ce2bc6cbccb5",
+      "width": 480,
+      "height": 480,
+      "size": 7952,
+      "createdAt": "2026-07-09T19:42:43Z",
+      "updatedAt": "2026-07-09T19:42:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-c-6194875f/back.webp",
+      "hash": "4823397f0db1c0898c627d82125389baac25d0409804fc94d8c2e77fcd704e97",
+      "width": 480,
+      "height": 480,
+      "size": 10598,
+      "createdAt": "2026-07-09T19:42:43Z",
+      "updatedAt": "2026-07-09T19:42:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-c-6194875f/detail-1.webp",
+      "hash": "441b9970d947028c60e46deba55b5f80bdcd248e08218e9f6050d74d5490b44c",
+      "width": 480,
+      "height": 480,
+      "size": 4842,
+      "createdAt": "2026-07-09T19:42:43Z",
+      "updatedAt": "2026-07-09T19:42:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-c-6194875f/detail-2.webp",
+      "hash": "9b0cd1105374ad92ae6d192933613c320713dc4260530e5ea9fdf0967c0d0cf3",
+      "width": 480,
+      "height": 480,
+      "size": 20972,
+      "createdAt": "2026-07-09T19:42:43Z",
+      "updatedAt": "2026-07-09T19:42:43Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/colo-colo/24-25/fan/camisa-colo-colo-do-chile-iii-24-25-torcedor-adidas-masculina-dourada-c-6194875f/detail-3.webp",
+      "hash": "1b0862208a72843f861d10e0bdfacde8a4c60fef54b4e4083529680fff3318fa",
+      "width": 480,
+      "height": 684,
+      "size": 40586,
+      "createdAt": "2026-07-09T19:42:43Z",
+      "updatedAt": "2026-07-09T19:42:43Z"
+    }
+  ]
+}

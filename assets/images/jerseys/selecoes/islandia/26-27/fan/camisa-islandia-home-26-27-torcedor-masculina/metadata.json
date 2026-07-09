@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-islandia-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-09T19:42:50Z",
+  "updatedAt": "2026-07-09T19:42:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/islandia/26-27/fan/camisa-islandia-home-26-27-torcedor-masculina/front.webp",
+      "hash": "d5c41a3df82b1cecfde5aa13b4ca3e6b3f8ee308a0152194bf4f464026f794e8",
+      "width": 480,
+      "height": 480,
+      "size": 9990,
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/islandia/26-27/fan/camisa-islandia-home-26-27-torcedor-masculina/back.webp",
+      "hash": "f2971ffb7fa1f3905da372b5e827fb58f31295732c954ac77d509980c598228a",
+      "width": 480,
+      "height": 480,
+      "size": 7196,
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
+    }
+  ]
+}

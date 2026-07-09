@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-republica-tcheca-26-27-torcedor-masculina",
+  "createdAt": "2026-07-09T19:42:52Z",
+  "updatedAt": "2026-07-09T19:42:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/republica-tcheca/26-27/fan/camisa-selecao-republica-tcheca-26-27-torcedor-masculina/front.webp",
+      "hash": "9a2c54e96d846b775f5881672ac237fce04fb9cf1aa028b680ee49d81a67d763",
+      "width": 480,
+      "height": 480,
+      "size": 11000,
+      "createdAt": "2026-07-09T19:42:52Z",
+      "updatedAt": "2026-07-09T19:42:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/republica-tcheca/26-27/fan/camisa-selecao-republica-tcheca-26-27-torcedor-masculina/back.webp",
+      "hash": "976d6a62f67358614d29d7faec698b55090267166b39953d40460e5d05d90b70",
+      "width": 480,
+      "height": 480,
+      "size": 8818,
+      "createdAt": "2026-07-09T19:42:52Z",
+      "updatedAt": "2026-07-09T19:42:52Z"
+    }
+  ]
+}

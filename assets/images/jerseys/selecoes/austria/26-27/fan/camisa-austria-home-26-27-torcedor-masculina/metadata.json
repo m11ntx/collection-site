@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-austria-home-26-27-torcedor-masculina",
+  "createdAt": "2026-07-09T19:42:50Z",
+  "updatedAt": "2026-07-09T19:42:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/austria/26-27/fan/camisa-austria-home-26-27-torcedor-masculina/front.webp",
+      "hash": "27c913610acb0e7a4ed20c57126a7364ba59d256e8ad9a29e9fed12380fa3c7c",
+      "width": 480,
+      "height": 480,
+      "size": 11364,
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/austria/26-27/fan/camisa-austria-home-26-27-torcedor-masculina/back.webp",
+      "hash": "09227e4f83fa98e76c1683db9f9bb73b97af1925eee630de2cbdbc7d5fa2805d",
+      "width": 480,
+      "height": 480,
+      "size": 8414,
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
+    }
+  ]
+}

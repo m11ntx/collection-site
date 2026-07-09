@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarela",
+  "createdAt": "2026-07-09T19:42:37Z",
+  "updatedAt": "2026-07-09T19:42:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-96dc77e7/front.webp",
+      "hash": "0c0e02b6910feb5b40814c76128fcbf00f1d41b28b2579d0686f2b05b01183da",
+      "width": 480,
+      "height": 480,
+      "size": 11884,
+      "createdAt": "2026-07-09T19:42:37Z",
+      "updatedAt": "2026-07-09T19:42:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-96dc77e7/back.webp",
+      "hash": "3dc80fa59675ce7108c245dccc55581a45faaf4843e95e66292bf8e4c538411d",
+      "width": 480,
+      "height": 480,
+      "size": 8978,
+      "createdAt": "2026-07-09T19:42:37Z",
+      "updatedAt": "2026-07-09T19:42:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-96dc77e7/detail-1.webp",
+      "hash": "e408f25cb53499c4cf1c0474e173b8fcd6d9f8774534a85c764183ecd5284fbe",
+      "width": 480,
+      "height": 480,
+      "size": 15176,
+      "createdAt": "2026-07-09T19:42:37Z",
+      "updatedAt": "2026-07-09T19:42:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-96dc77e7/detail-2.webp",
+      "hash": "da3d71f7784a6a19cfb2680944e0141e7f8dee00eeb6e820c386c7f8c8e3dff7",
+      "width": 480,
+      "height": 480,
+      "size": 17946,
+      "createdAt": "2026-07-09T19:42:37Z",
+      "updatedAt": "2026-07-09T19:42:37Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/fan/camisa-boca-juniors-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-96dc77e7/detail-3.webp",
+      "hash": "edf0b15f8c4d16976c496fcb6f3fa0b19bc6478a922a0be7f73046e001df8ea3",
+      "width": 480,
+      "height": 480,
+      "size": 9162,
+      "createdAt": "2026-07-09T19:42:37Z",
+      "updatedAt": "2026-07-09T19:42:37Z"
+    }
+  ]
+}

@@ -1030,6 +1030,16 @@
     "image": null
   },
   {
+    "id": "austria",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "austria",
+    "name": "Áustria",
+    "country": "Austria",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "belgica",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1110,6 +1120,16 @@
     "image": null
   },
   {
+    "id": "curacao",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "curacao",
+    "name": "Curaçau",
+    "country": "Curaçao",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "dinamarca",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1170,6 +1190,16 @@
     "image": null
   },
   {
+    "id": "filipinas",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "filipinas",
+    "name": "Filipinas",
+    "country": "Philippines",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "franca",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1220,6 +1250,16 @@
     "image": null
   },
   {
+    "id": "islandia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "islandia",
+    "name": "Islândia",
+    "country": "Iceland",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "italia",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1256,6 +1296,16 @@
     "slug": "japao",
     "name": "Japão",
     "country": "Japan",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "malasia",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "malasia",
+    "name": "Malásia",
+    "country": "Malaysia",
     "badge": null,
     "image": null
   },
@@ -1300,12 +1350,32 @@
     "image": null
   },
   {
+    "id": "nova-zelandia",
+    "leagueId": "selecoes",
+    "regionId": "oceania",
+    "slug": "nova-zelandia",
+    "name": "Nova Zelândia",
+    "country": "New Zealand",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "pais-de-gales",
     "leagueId": "selecoes",
     "regionId": "europa",
     "slug": "pais-de-gales",
     "name": "País de Gales",
     "country": "Wales",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "paraguai",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "paraguai",
+    "name": "Paraguai",
+    "country": "Paraguay",
     "badge": null,
     "image": null
   },
@@ -1336,6 +1406,16 @@
     "slug": "portugal",
     "name": "Portugal",
     "country": "Portugal",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "republica-tcheca",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "republica-tcheca",
+    "name": "República Tcheca",
+    "country": "Czech Republic",
     "badge": null,
     "image": null
   },
@@ -1376,6 +1456,16 @@
     "slug": "tunisia",
     "name": "Tunísia",
     "country": "Tunisia",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "ucrania",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "ucrania",
+    "name": "Ucrânia",
+    "country": "Ukraine",
     "badge": null,
     "image": null
   },

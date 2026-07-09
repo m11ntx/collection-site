@@ -1,15 +1,5 @@
 [
   {
-    "id": "america-do-sul",
-    "slug": "america-do-sul",
-    "name": "América do Sul",
-    "country": null,
-    "image": null,
-    "description": null,
-    "featured": false,
-    "virtual": false
-  },
-  {
     "id": "brasil",
     "slug": "brasil",
     "name": "Brasil",
@@ -28,16 +18,6 @@
     "description": null,
     "featured": false,
     "virtual": false
-  },
-  {
-    "id": "lancamentos",
-    "slug": "lancamentos",
-    "name": "Lançamentos",
-    "country": null,
-    "image": null,
-    "description": null,
-    "featured": false,
-    "virtual": true
   },
   {
     "id": "resto-do-mundo",

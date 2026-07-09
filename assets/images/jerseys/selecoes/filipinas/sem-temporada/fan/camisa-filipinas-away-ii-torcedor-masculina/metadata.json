@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-filipinas-away-ii-torcedor-masculina",
+  "createdAt": "2026-07-09T19:42:51Z",
+  "updatedAt": "2026-07-09T19:42:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/filipinas/sem-temporada/fan/camisa-filipinas-away-ii-torcedor-masculina/front.webp",
+      "hash": "567870254ca5ec2a236348cd9a7407cc2b14fc742f4aa715234aba4a39d38f78",
+      "width": 480,
+      "height": 480,
+      "size": 15870,
+      "createdAt": "2026-07-09T19:42:51Z",
+      "updatedAt": "2026-07-09T19:42:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/filipinas/sem-temporada/fan/camisa-filipinas-away-ii-torcedor-masculina/back.webp",
+      "hash": "922fee7ebb5db0e33a7e95d3193d88ff2a469810a178e8332ac2995b58b246d9",
+      "width": 480,
+      "height": 480,
+      "size": 6750,
+      "createdAt": "2026-07-09T19:42:51Z",
+      "updatedAt": "2026-07-09T19:42:51Z"
+    }
+  ]
+}
