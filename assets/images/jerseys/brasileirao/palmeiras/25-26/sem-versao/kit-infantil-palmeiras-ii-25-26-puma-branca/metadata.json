@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-infantil-palmeiras-ii-25-26-puma-branca",
+  "createdAt": "2026-07-09T17:18:02Z",
+  "updatedAt": "2026-07-09T17:18:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/sem-versao/kit-infantil-palmeiras-ii-25-26-puma-branca/front.webp",
+      "hash": "82171a33c279c9f97d8c52994330eb562d2d0dad9bb0e2db2044a61d734e429a",
+      "width": 480,
+      "height": 480,
+      "size": 9776,
+      "createdAt": "2026-07-09T17:18:02Z",
+      "updatedAt": "2026-07-09T17:18:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/sem-versao/kit-infantil-palmeiras-ii-25-26-puma-branca/back.webp",
+      "hash": "07e719ab3bb970ae0ea6231cddf17b9c351fe1c142ba8e7a9fa0bbde9d55c33c",
+      "width": 480,
+      "height": 480,
+      "size": 6754,
+      "createdAt": "2026-07-09T17:18:02Z",
+      "updatedAt": "2026-07-09T17:18:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/sem-versao/kit-infantil-palmeiras-ii-25-26-puma-branca/detail-1.webp",
+      "hash": "17b16cb861cb97fb0df17f424a2ceb408e88a4b2b02b581d2e93678fa95bbb07",
+      "width": 480,
+      "height": 480,
+      "size": 62786,
+      "createdAt": "2026-07-09T17:18:02Z",
+      "updatedAt": "2026-07-09T17:18:02Z"
+    }
+  ]
+}

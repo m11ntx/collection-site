@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-infantil-paris-saint-germain-iv-nike-25-26-azul-escuro",
+  "createdAt": "2026-07-09T17:18:05Z",
+  "updatedAt": "2026-07-09T17:18:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/sem-versao/kit-infantil-paris-saint-germain-iv-nike-25-26-azul-escuro/front.webp",
+      "hash": "3e525f4c744fe820f0c5fb65ab72697662af49484960429dfdef22deb0bd8293",
+      "width": 480,
+      "height": 480,
+      "size": 9426,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/sem-versao/kit-infantil-paris-saint-germain-iv-nike-25-26-azul-escuro/back.webp",
+      "hash": "5574ee75333571ffd7c871d7d3932329e8a71f6e2820d438d7b0bb0fae457256",
+      "width": 480,
+      "height": 480,
+      "size": 62038,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/25-26/sem-versao/kit-infantil-paris-saint-germain-iv-nike-25-26-azul-escuro/detail-1.webp",
+      "hash": "a0741ec5b183759428d9cc4779745f39ee8c0e58edf776a0f17f5bee97ccdfab",
+      "width": 480,
+      "height": 480,
+      "size": 35170,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    }
+  ]
+}

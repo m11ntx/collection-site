@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-paris-saint-germain-iii-24-25-jordan-rosa-e-azul",
+  "createdAt": "2026-07-09T17:18:04Z",
+  "updatedAt": "2026-07-09T17:18:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-iii-24-25-jordan-rosa-e-azul/front.webp",
+      "hash": "85547d1b39e857bb235aec70a6cd906e6c97c00cf7a1c2ede2bc714831e15ae4",
+      "width": 480,
+      "height": 480,
+      "size": 7646,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-iii-24-25-jordan-rosa-e-azul/back.webp",
+      "hash": "59c70e93d3e21f2e8985b8a614401a753fec53a411e54809d7515ee1e989c4f1",
+      "width": 480,
+      "height": 480,
+      "size": 4222,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-real-madrid-treino-25-26",
+  "createdAt": "2026-07-09T17:18:10Z",
+  "updatedAt": "2026-07-09T17:18:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-treino-25-26/front.webp",
+      "hash": "fdaf08719c59e2b779d0a061e65ab260d03d0ad641cf86e72bd560e9fa5071ca",
+      "width": 480,
+      "height": 480,
+      "size": 18496,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-treino-25-26/back.webp",
+      "hash": "c358894bcc6e1ef7c35509cf36d2706f7424cea8050183517e44496df0f786ab",
+      "width": 480,
+      "height": 480,
+      "size": 14252,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-treino-25-26/detail-1.webp",
+      "hash": "6ccf7d5f971aa464f8ed8da90074c373302f9cd631f5a25c2f2b56e6fca4b5b5",
+      "width": 480,
+      "height": 480,
+      "size": 34304,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-treino-25-26/detail-2.webp",
+      "hash": "3f032a6616b3ce690714185deabd0a52bd5bb77831e4da8d21a9907c567de7a6",
+      "width": 480,
+      "height": 480,
+      "size": 26884,
+      "createdAt": "2026-07-09T17:18:10Z",
+      "updatedAt": "2026-07-09T17:18:10Z"
+    }
+  ]
+}

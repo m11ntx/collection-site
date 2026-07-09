@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-inglaterra-treino-24-25-nike-roxo",
+  "createdAt": "2026-07-09T17:18:26Z",
+  "updatedAt": "2026-07-09T17:18:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-inglaterra-treino-24-25-nike-roxo/front.webp",
+      "hash": "eddcf59394f3f5f6ba22bae8a0e0babd9ed2e74e8f3fe942bc5ab0b9a0e6a51f",
+      "width": 480,
+      "height": 480,
+      "size": 7394,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-inglaterra-treino-24-25-nike-roxo/back.webp",
+      "hash": "d1e159ff5da38677e9f5b89974fd5a638cbd286b8ad8fd52d3071127df9c8267",
+      "width": 480,
+      "height": 480,
+      "size": 6556,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    }
+  ]
+}

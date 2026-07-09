@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-al-hilal-ii-24-25-puma-branco-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T17:17:31Z",
+  "updatedAt": "2026-07-09T17:17:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/sem-versao/kit-infantil-al-hilal-ii-24-25-puma-branco-com-detalhes-em-azul/front.webp",
+      "hash": "13a27b93c9b738fd6a565c604078930a9cc1b2e23e56a51fedd50d25532d02b7",
+      "width": 480,
+      "height": 480,
+      "size": 9670,
+      "createdAt": "2026-07-09T17:17:31Z",
+      "updatedAt": "2026-07-09T17:17:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-hilal/24-25/sem-versao/kit-infantil-al-hilal-ii-24-25-puma-branco-com-detalhes-em-azul/back.webp",
+      "hash": "58af4ae9a5bb4ae378cc853e6c502fc418425e02ddba72c77539fd2bafcc0152",
+      "width": 480,
+      "height": 480,
+      "size": 4504,
+      "createdAt": "2026-07-09T17:17:31Z",
+      "updatedAt": "2026-07-09T17:17:31Z"
+    }
+  ]
+}

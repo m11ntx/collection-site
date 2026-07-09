@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-vasco-da-gama-ii-24-25-kappa-branco",
+  "createdAt": "2026-07-09T17:18:42Z",
+  "updatedAt": "2026-07-09T17:18:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/front.webp",
+      "hash": "69769c7cb747d3d24cd566c1a46342f968d0ca4700d7cde8f7fe11d4d08d8b45",
+      "width": 480,
+      "height": 480,
+      "size": 6500,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/back.webp",
+      "hash": "1761d75edcbd36154b720c2d0dde290369cd864328bbadff496253dc8f0d8824",
+      "width": 480,
+      "height": 480,
+      "size": 4128,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/detail-1.webp",
+      "hash": "90c6f85ae1a0de8a72ee2cb2ed78fb8b4f3e9d4629ba81cb80219ab0973d0805",
+      "width": 480,
+      "height": 480,
+      "size": 11872,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/detail-2.webp",
+      "hash": "45dd72a25af9f4f96375cdc070cd48fb42fa00a3d7235d6731abf73b1dfe69fa",
+      "width": 480,
+      "height": 480,
+      "size": 31100,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/detail-3.webp",
+      "hash": "7bb86c76b604cf6a4c99c4727791054c1986e507e62b2a65d1fc132486b8cb00",
+      "width": 480,
+      "height": 480,
+      "size": 46536,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/detail-4.webp",
+      "hash": "d5fae70fa942a1670c4ed3168d24f7a926e505e49ead914a887d340705234787",
+      "width": 480,
+      "height": 480,
+      "size": 11386,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-ii-24-25-kappa-branco/detail-5.webp",
+      "hash": "2205d44ce17a444e6b60e615c9dc95ec3c778977d7bdc162c0568b52ecb41d8f",
+      "width": 480,
+      "height": 480,
+      "size": 22276,
+      "createdAt": "2026-07-09T17:18:42Z",
+      "updatedAt": "2026-07-09T17:18:42Z"
+    }
+  ]
+}

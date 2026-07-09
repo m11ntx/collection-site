@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-tottenham-treino-24-25-nike-cinza-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T17:18:28Z",
+  "updatedAt": "2026-07-09T17:18:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-treino-24-25-nike-cinza-com-detalhes-em-azul/front.webp",
+      "hash": "8d42d0342b8777821a7626fc4ef1673d78334102737c258a146e2c419c284c9b",
+      "width": 480,
+      "height": 480,
+      "size": 5186,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-treino-24-25-nike-cinza-com-detalhes-em-azul/back.webp",
+      "hash": "5544f0b2a22d8e4d2fbf82f52b3b53e817150d88f9b7673af7738995cd80b977",
+      "width": 480,
+      "height": 480,
+      "size": 4006,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    }
+  ]
+}

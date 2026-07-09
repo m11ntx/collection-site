@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-marseille-ii-25-26-puma-azul",
+  "createdAt": "2026-07-09T17:17:58Z",
+  "updatedAt": "2026-07-09T17:17:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-marseille-ii-25-26-puma-azul/front.webp",
+      "hash": "64e35f59e49bf53c38502b9f7a21590f94792a887c7d3db063c22f0486762f76",
+      "width": 480,
+      "height": 480,
+      "size": 7400,
+      "createdAt": "2026-07-09T17:17:58Z",
+      "updatedAt": "2026-07-09T17:17:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-marseille-ii-25-26-puma-azul/back.webp",
+      "hash": "2ab554b369a1456922f39a01cb14d946ad3fb71e467707efb93f81dec1b6c5a2",
+      "width": 480,
+      "height": 480,
+      "size": 3084,
+      "createdAt": "2026-07-09T17:17:58Z",
+      "updatedAt": "2026-07-09T17:17:58Z"
+    }
+  ]
+}

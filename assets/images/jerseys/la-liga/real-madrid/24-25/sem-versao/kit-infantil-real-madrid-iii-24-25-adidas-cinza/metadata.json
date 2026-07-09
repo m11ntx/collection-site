@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-real-madrid-iii-24-25-adidas-cinza",
+  "createdAt": "2026-07-09T17:18:09Z",
+  "updatedAt": "2026-07-09T17:18:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-iii-24-25-adidas-cinza/front.webp",
+      "hash": "2674db9a735778d4088ad86d4d81f0b28e486b20c189d952a2e88ab0076cf9a1",
+      "width": 480,
+      "height": 480,
+      "size": 10610,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-iii-24-25-adidas-cinza/back.webp",
+      "hash": "d7fcc0faacd60aefec2ad174f11885680409b0a00c45881367cd12cfd661f1fe",
+      "width": 480,
+      "height": 480,
+      "size": 8802,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-iii-24-25-adidas-cinza/detail-1.webp",
+      "hash": "1b8d22056510aea7dd17e479d1c503342434f6802442b90636bae335d52ecbd3",
+      "width": 480,
+      "height": 480,
+      "size": 13716,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-iii-24-25-adidas-cinza/detail-2.webp",
+      "hash": "61890f9e7f35003e3149c1b86043109cd0f501acc5987021e6841c2dfbb9d0a1",
+      "width": 480,
+      "height": 480,
+      "size": 10254,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    }
+  ]
+}

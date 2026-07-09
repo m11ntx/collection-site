@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-borussia-dortmund-i-24-25-puma-amarelo-e-preto",
+  "createdAt": "2026-07-09T17:17:40Z",
+  "updatedAt": "2026-07-09T17:17:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/kit-infantil-borussia-dortmund-i-24-25-puma-amarelo-e-preto/front.webp",
+      "hash": "70e59503e8034c9973b0a48129d7ddaccea1ae2978322990d01a81f710c5fce6",
+      "width": 480,
+      "height": 480,
+      "size": 8426,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/kit-infantil-borussia-dortmund-i-24-25-puma-amarelo-e-preto/back.webp",
+      "hash": "731883b49cf28cb4ea5bdbc358d809114cbdedb33c08ca1c7353de8f316a90eb",
+      "width": 480,
+      "height": 480,
+      "size": 6254,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    }
+  ]
+}

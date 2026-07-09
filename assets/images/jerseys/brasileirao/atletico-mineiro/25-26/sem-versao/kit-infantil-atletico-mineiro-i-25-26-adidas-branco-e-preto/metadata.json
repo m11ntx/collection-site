@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto",
+  "createdAt": "2026-07-09T17:17:36Z",
+  "updatedAt": "2026-07-09T17:17:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/front.webp",
+      "hash": "7e512f944a765a8af1c4ad021976d8a0c013ca4194746ac9affa8df174260392",
+      "width": 480,
+      "height": 480,
+      "size": 14610,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/back.webp",
+      "hash": "63b524752f4458c7245f0de87069a7ed1af57a644af7b278d4a00f1c6daba19e",
+      "width": 480,
+      "height": 480,
+      "size": 9928,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/detail-1.webp",
+      "hash": "dd2229e8a093b1455817a5083d2a7e36814b698e8ac52c1a1ee1c1ddf34d9ec7",
+      "width": 480,
+      "height": 480,
+      "size": 20726,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/detail-2.webp",
+      "hash": "25a16d4024127658c734e4901511540e0059799dfecb531a61ba1019d9f47acb",
+      "width": 480,
+      "height": 480,
+      "size": 19290,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/detail-3.webp",
+      "hash": "1b2fa0ce26ad822c5d4d6894b4b24c5f090023ad810ee5bb245ea8cb8510de0a",
+      "width": 480,
+      "height": 480,
+      "size": 58666,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/sem-versao/kit-infantil-atletico-mineiro-i-25-26-adidas-branco-e-preto/detail-4.webp",
+      "hash": "5b00b08b6c74831224a45e354ab1b8c8d2649d54024b1c9d99a5d9282333557e",
+      "width": 480,
+      "height": 480,
+      "size": 58938,
+      "createdAt": "2026-07-09T17:17:36Z",
+      "updatedAt": "2026-07-09T17:17:36Z"
+    }
+  ]
+}

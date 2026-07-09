@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T17:18:23Z",
+  "updatedAt": "2026-07-09T17:18:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/front.webp",
+      "hash": "f121a21dc63e6e17b58db484feba6bcc1a5ef10992e77ce10981294ce2eedb5b",
+      "width": 480,
+      "height": 480,
+      "size": 6868,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/back.webp",
+      "hash": "af0c10bd35a1ff61abdd1b0f57d6ee776aa889dcf92d53bc630c0bbf80a3b61a",
+      "width": 480,
+      "height": 480,
+      "size": 10302,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/detail-1.webp",
+      "hash": "399ce1c8237636c4bdfc127b0efda9321a13d32e9473b78e2fd1a5a0151a72de",
+      "width": 480,
+      "height": 480,
+      "size": 5466,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/detail-2.webp",
+      "hash": "0cc5e508485b75ad067683f84d8024e22a9ffce8f4f90607916d28b392aca00b",
+      "width": 480,
+      "height": 480,
+      "size": 70632,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/detail-3.webp",
+      "hash": "78a217764de33436f137ec7e99b7eb8253b0457c480d9db91f21986f75a95245",
+      "width": 480,
+      "height": 480,
+      "size": 64998,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/detail-4.webp",
+      "hash": "050ca4c8ebf07ce9d33e28285794068d885ac9e8d0daf3e87a266791b57f93ee",
+      "width": 480,
+      "height": 480,
+      "size": 20696,
+      "createdAt": "2026-07-09T17:18:22Z",
+      "updatedAt": "2026-07-09T17:18:22Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/holanda/24-25/sem-versao/kit-infantil-selecao-da-holanda-i-24-25-nike-laranja-com-detalhes-em-azul/detail-5.webp",
+      "hash": "0d4bba60232a28a71e1e083f535372a839787e5ed79b69b2903203de6a08f2a5",
+      "width": 480,
+      "height": 480,
+      "size": 12506,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    }
+  ]
+}

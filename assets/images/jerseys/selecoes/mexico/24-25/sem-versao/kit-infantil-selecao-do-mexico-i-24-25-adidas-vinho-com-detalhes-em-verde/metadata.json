@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-selecao-do-mexico-i-24-25-adidas-vinho-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T17:17:59Z",
+  "updatedAt": "2026-07-09T17:17:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-i-24-25-adidas-vinho-com-detalhes-em-verde/front.webp",
+      "hash": "03dcacc32725851e31733116f26ec1e5ac1e8f644ab91fafe31b720e24e8aa7b",
+      "width": 480,
+      "height": 480,
+      "size": 10708,
+      "createdAt": "2026-07-09T17:17:58Z",
+      "updatedAt": "2026-07-09T17:17:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-i-24-25-adidas-vinho-com-detalhes-em-verde/back.webp",
+      "hash": "70d6cd7b869a675dfe29cc35fb15ff82807be45e25188482b04f93a92d2c4e07",
+      "width": 480,
+      "height": 480,
+      "size": 8648,
+      "createdAt": "2026-07-09T17:17:58Z",
+      "updatedAt": "2026-07-09T17:17:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-i-24-25-adidas-vinho-com-detalhes-em-verde/detail-1.webp",
+      "hash": "99104c80a3b69fb1790403a846860f4d173c53830682e814fa026217196ba06b",
+      "width": 480,
+      "height": 480,
+      "size": 35052,
+      "createdAt": "2026-07-09T17:17:58Z",
+      "updatedAt": "2026-07-09T17:17:58Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-i-24-25-adidas-vinho-com-detalhes-em-verde/detail-2.webp",
+      "hash": "93876368b4c6f9b09e6189ebb05b227658507d414259c2db00188a44cbe76352",
+      "width": 480,
+      "height": 480,
+      "size": 48390,
+      "createdAt": "2026-07-09T17:17:59Z",
+      "updatedAt": "2026-07-09T17:17:59Z"
+    }
+  ]
+}

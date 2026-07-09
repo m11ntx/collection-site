@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas",
+  "createdAt": "2026-07-09T17:18:08Z",
+  "updatedAt": "2026-07-09T17:18:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/front.webp",
+      "hash": "dfe755152b3f45dac9018d323bf56ef46ca3b6246c16b0b002df029a7b7c9cda",
+      "width": 480,
+      "height": 480,
+      "size": 8314,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/back.webp",
+      "hash": "1128d6061ffd48a746fcbda30ac0ab55e6426f1a8233a80eac641f2f927f9cc0",
+      "width": 480,
+      "height": 480,
+      "size": 15400,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/detail-1.webp",
+      "hash": "5e7a6383fabbfd45f36be2b1a5e96574b8b14c66f9c914484e5495d8c85484ee",
+      "width": 480,
+      "height": 480,
+      "size": 5396,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/detail-2.webp",
+      "hash": "4159136891275baa6565a5398a52f666d43c910e931c6551692316e1c6c151a8",
+      "width": 480,
+      "height": 480,
+      "size": 62230,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/detail-3.webp",
+      "hash": "19b8e7876fcfbd553039f8f9c87d23b5871f52f6feeba2aca374275a29bd9f17",
+      "width": 480,
+      "height": 480,
+      "size": 54646,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/detail-4.webp",
+      "hash": "c789f63306096c135f8f05f452f685fb82be7cfac909e0454ba57aabfc4db756",
+      "width": 480,
+      "height": 480,
+      "size": 17300,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-roxo-com-desenhos-de-rosas/detail-5.webp",
+      "hash": "aa57e3bc48f9d8581bd8db8383aacfa41b38cc25ccb719e4fa6e81c4c5feca51",
+      "width": 480,
+      "height": 480,
+      "size": 15464,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    }
+  ]
+}

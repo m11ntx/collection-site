@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-athletico-paranaense-ii-24-25-umbro-dourado",
+  "createdAt": "2026-07-09T17:17:34Z",
+  "updatedAt": "2026-07-09T17:17:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/sem-versao/kit-infantil-athletico-paranaense-ii-24-25-umbro-dourado/front.webp",
+      "hash": "4d36f7e26626c2afd63dedeb14fd419e1e6b4db24ef2a9e354b38ff6fd45ff1c",
+      "width": 480,
+      "height": 480,
+      "size": 10750,
+      "createdAt": "2026-07-09T17:17:34Z",
+      "updatedAt": "2026-07-09T17:17:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/sem-versao/kit-infantil-athletico-paranaense-ii-24-25-umbro-dourado/back.webp",
+      "hash": "332141db0c12bbbcdc9cf8504778c83b066f2b060759f7d2b5b155beeff9dd0b",
+      "width": 480,
+      "height": 480,
+      "size": 8000,
+      "createdAt": "2026-07-09T17:17:34Z",
+      "updatedAt": "2026-07-09T17:17:34Z"
+    }
+  ]
+}

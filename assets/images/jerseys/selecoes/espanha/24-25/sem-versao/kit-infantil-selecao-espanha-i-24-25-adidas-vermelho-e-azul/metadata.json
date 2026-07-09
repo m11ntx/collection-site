@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-espanha-i-24-25-adidas-vermelho-e-azul",
+  "createdAt": "2026-07-09T17:18:25Z",
+  "updatedAt": "2026-07-09T17:18:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-infantil-selecao-espanha-i-24-25-adidas-vermelho-e-azul/front.webp",
+      "hash": "0d2b2d602c2183d0762d5003fe37970d653b24e0498e47fd34710820101fe083",
+      "width": 480,
+      "height": 480,
+      "size": 7936,
+      "createdAt": "2026-07-09T17:18:25Z",
+      "updatedAt": "2026-07-09T17:18:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-infantil-selecao-espanha-i-24-25-adidas-vermelho-e-azul/back.webp",
+      "hash": "4bb082c68c67e0fab3e722edda396b48805d7b28d6ef04ce6a8b3cc6cde07717",
+      "width": 480,
+      "height": 480,
+      "size": 6822,
+      "createdAt": "2026-07-09T17:18:25Z",
+      "updatedAt": "2026-07-09T17:18:25Z"
+    }
+  ]
+}

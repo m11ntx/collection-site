@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-real-madrid-ii-24-25-adidas-laranja",
+  "createdAt": "2026-07-09T17:18:08Z",
+  "updatedAt": "2026-07-09T17:18:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-ii-24-25-adidas-laranja/front.webp",
+      "hash": "11ec4801e6b68d82b07063a14b88fa4ea1c129ae55bc557738606d0daf83d0ae",
+      "width": 480,
+      "height": 480,
+      "size": 9542,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-ii-24-25-adidas-laranja/back.webp",
+      "hash": "1bf4d55ef11d3881642ec31326ac4207079ac1e063c3db12405313eb3dd800fd",
+      "width": 480,
+      "height": 480,
+      "size": 5712,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    }
+  ]
+}

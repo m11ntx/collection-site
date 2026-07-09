@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-flamengo-home-25-26-adidas",
+  "createdAt": "2026-07-09T17:17:46Z",
+  "updatedAt": "2026-07-09T17:17:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/kit-infantil-flamengo-home-25-26-adidas/front.webp",
+      "hash": "f146b769381a6eef67a86b318711ee2fc18cab1cc0d6d86c81dcdd89c1272317",
+      "width": 480,
+      "height": 480,
+      "size": 11938,
+      "createdAt": "2026-07-09T17:17:46Z",
+      "updatedAt": "2026-07-09T17:17:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/kit-infantil-flamengo-home-25-26-adidas/back.webp",
+      "hash": "791d9668737795929f6244147ca2b1083032d041679ecd7e51af6469f028ce65",
+      "width": 480,
+      "height": 480,
+      "size": 11534,
+      "createdAt": "2026-07-09T17:17:46Z",
+      "updatedAt": "2026-07-09T17:17:46Z"
+    }
+  ]
+}

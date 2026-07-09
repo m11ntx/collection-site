@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-inter-de-milao-iii-24-25-nike-amarelo-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T17:17:52Z",
+  "updatedAt": "2026-07-09T17:17:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-infantil-inter-de-milao-iii-24-25-nike-amarelo-com-detalhes-em-cinza/front.webp",
+      "hash": "179ca197bbcea7ce2bc746b11be90b8235856e7eba04e30aa8d79ece66ef2f3c",
+      "width": 480,
+      "height": 480,
+      "size": 12268,
+      "createdAt": "2026-07-09T17:17:51Z",
+      "updatedAt": "2026-07-09T17:17:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-infantil-inter-de-milao-iii-24-25-nike-amarelo-com-detalhes-em-cinza/back.webp",
+      "hash": "2c3ded5cefa419f93be9aa99ae600f89e5350cb236245bc8079eba9d6d7b8be2",
+      "width": 480,
+      "height": 480,
+      "size": 8124,
+      "createdAt": "2026-07-09T17:17:51Z",
+      "updatedAt": "2026-07-09T17:17:51Z"
+    }
+  ]
+}

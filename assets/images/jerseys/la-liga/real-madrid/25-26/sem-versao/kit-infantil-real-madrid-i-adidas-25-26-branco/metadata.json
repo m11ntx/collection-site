@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-real-madrid-i-adidas-25-26-branco",
+  "createdAt": "2026-07-09T17:18:08Z",
+  "updatedAt": "2026-07-09T17:18:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-i-adidas-25-26-branco/front.webp",
+      "hash": "8dfbbba6c9a21e35333591b6980691686a87a535202a97c2c87b40355234fc49",
+      "width": 480,
+      "height": 480,
+      "size": 11404,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-i-adidas-25-26-branco/back.webp",
+      "hash": "98eb37ddc6039dc2815f01941097454b860a35348685f2998b63298df84ed610",
+      "width": 480,
+      "height": 480,
+      "size": 18594,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-i-adidas-25-26-branco/detail-1.webp",
+      "hash": "1945789c1e826cb922f62b55fadb3f1fa840e556b6991f8040e9c0c30ffc650e",
+      "width": 480,
+      "height": 480,
+      "size": 6084,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-i-adidas-25-26-branco/detail-2.webp",
+      "hash": "4c623bd665c3dd4a70835ab1fce9def672d0b719cf335c3893fb11b9736871bf",
+      "width": 480,
+      "height": 480,
+      "size": 14906,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-paris-saint-germain-treino-24-25-nike-verde-e-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T17:18:05Z",
+  "updatedAt": "2026-07-09T17:18:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-treino-24-25-nike-verde-e-preto-com-de-1849fa42/front.webp",
+      "hash": "f920069e9e47536e704afebd12de3dbe7527d9044cef5433d57613262ed54559",
+      "width": 480,
+      "height": 480,
+      "size": 6244,
+      "createdAt": "2026-07-09T17:18:05Z",
+      "updatedAt": "2026-07-09T17:18:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-treino-24-25-nike-verde-e-preto-com-de-1849fa42/back.webp",
+      "hash": "59859d7349631d35ef53157ea51404ddd04a7e0e7d92148c6be7ddb5e91bff27",
+      "width": 480,
+      "height": 480,
+      "size": 4080,
+      "createdAt": "2026-07-09T17:18:05Z",
+      "updatedAt": "2026-07-09T17:18:05Z"
+    }
+  ]
+}

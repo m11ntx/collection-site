@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-tottenham-iii-24-25-nike-verde",
+  "createdAt": "2026-07-09T17:18:28Z",
+  "updatedAt": "2026-07-09T17:18:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-iii-24-25-nike-verde/front.webp",
+      "hash": "9bd1660c50959869d96ca44826998bc9338530e12fdda0e904d79828e03023e6",
+      "width": 480,
+      "height": 480,
+      "size": 14466,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-iii-24-25-nike-verde/back.webp",
+      "hash": "464a578f59511b632c8e1278ae23b301835ad0da7940f4cb4dfd14272056f05e",
+      "width": 480,
+      "height": 480,
+      "size": 8892,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-iii-24-25-nike-verde/detail-1.webp",
+      "hash": "3c12ce2854fb7dd1d2f434f14d9907c337c7cbd3862b26ce8360b249f10adb1f",
+      "width": 480,
+      "height": 480,
+      "size": 14952,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-infantil-tottenham-iii-24-25-nike-verde/detail-2.webp",
+      "hash": "a39e6fa637ff796dd8d59f2cff3262172c6a32c756c8e748014f17154a8f1ba5",
+      "width": 480,
+      "height": 600,
+      "size": 130744,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    }
+  ]
+}

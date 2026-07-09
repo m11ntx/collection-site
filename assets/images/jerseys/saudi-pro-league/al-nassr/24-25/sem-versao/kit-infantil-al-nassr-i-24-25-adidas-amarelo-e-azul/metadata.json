@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-al-nassr-i-24-25-adidas-amarelo-e-azul",
+  "createdAt": "2026-07-09T17:17:32Z",
+  "updatedAt": "2026-07-09T17:17:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/kit-infantil-al-nassr-i-24-25-adidas-amarelo-e-azul/front.webp",
+      "hash": "5d2b5759ca47363865366689a061ac382b8a66304ed4c6608031a8bd4ae2639c",
+      "width": 480,
+      "height": 480,
+      "size": 10196,
+      "createdAt": "2026-07-09T17:17:32Z",
+      "updatedAt": "2026-07-09T17:17:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/saudi-pro-league/al-nassr/24-25/sem-versao/kit-infantil-al-nassr-i-24-25-adidas-amarelo-e-azul/back.webp",
+      "hash": "b81699001c0f065d2ca9072182f0c4eb78c184bc8e59c9774b6d509052003bb7",
+      "width": 480,
+      "height": 480,
+      "size": 13232,
+      "createdAt": "2026-07-09T17:17:32Z",
+      "updatedAt": "2026-07-09T17:17:32Z"
+    }
+  ]
+}

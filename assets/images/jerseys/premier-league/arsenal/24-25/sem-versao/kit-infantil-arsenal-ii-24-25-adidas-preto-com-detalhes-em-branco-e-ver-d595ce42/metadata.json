@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-arsenal-ii-24-25-adidas-preto-com-detalhes-em-branco-e-verde-e-vermelho",
+  "createdAt": "2026-07-09T17:17:34Z",
+  "updatedAt": "2026-07-09T17:17:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-infantil-arsenal-ii-24-25-adidas-preto-com-detalhes-em-branco-e-ver-d595ce42/front.webp",
+      "hash": "47458427c280484175d0818844625523e438a5592de2a53f81ada9d8ecf6faed",
+      "width": 480,
+      "height": 480,
+      "size": 9358,
+      "createdAt": "2026-07-09T17:17:34Z",
+      "updatedAt": "2026-07-09T17:17:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-infantil-arsenal-ii-24-25-adidas-preto-com-detalhes-em-branco-e-ver-d595ce42/back.webp",
+      "hash": "c5d8e73bba9b80c2bbb9c0d868cd43475b1fb159cc5eed1b7c453482208870ea",
+      "width": 480,
+      "height": 480,
+      "size": 6786,
+      "createdAt": "2026-07-09T17:17:34Z",
+      "updatedAt": "2026-07-09T17:17:34Z"
+    }
+  ]
+}

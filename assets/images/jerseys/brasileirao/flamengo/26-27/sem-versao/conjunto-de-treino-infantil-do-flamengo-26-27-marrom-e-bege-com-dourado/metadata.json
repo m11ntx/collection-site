@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-de-treino-infantil-do-flamengo-26-27-marrom-e-bege-com-dourado",
+  "createdAt": "2026-07-09T17:17:30Z",
+  "updatedAt": "2026-07-09T17:17:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/sem-versao/conjunto-de-treino-infantil-do-flamengo-26-27-marrom-e-bege-com-dourado/front.webp",
+      "hash": "e27bddfa3440f58b9469492e728c03b80c227b38dd471fc52fda96f5fba80a80",
+      "width": 480,
+      "height": 480,
+      "size": 17730,
+      "createdAt": "2026-07-09T17:17:30Z",
+      "updatedAt": "2026-07-09T17:17:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/sem-versao/conjunto-de-treino-infantil-do-flamengo-26-27-marrom-e-bege-com-dourado/back.webp",
+      "hash": "e3943312b9ca4532ff1ad9c420c21d6d938d3ac898935b566318a5bda6e124c9",
+      "width": 480,
+      "height": 480,
+      "size": 13074,
+      "createdAt": "2026-07-09T17:17:30Z",
+      "updatedAt": "2026-07-09T17:17:30Z"
+    }
+  ]
+}

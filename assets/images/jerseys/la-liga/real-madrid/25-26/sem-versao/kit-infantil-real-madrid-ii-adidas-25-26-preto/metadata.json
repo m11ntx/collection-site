@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-real-madrid-ii-adidas-25-26-preto",
+  "createdAt": "2026-07-09T17:18:09Z",
+  "updatedAt": "2026-07-09T17:18:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-ii-adidas-25-26-preto/front.webp",
+      "hash": "e7db9c965d605e75870e9ecac8772dd49e65338b708e39dc04a0493f6fbb26f9",
+      "width": 480,
+      "height": 480,
+      "size": 26580,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-ii-adidas-25-26-preto/back.webp",
+      "hash": "a03b1473a14cefbc67ce571fc124dc6ccf6b43d01df1a35be21f558e8b689dfb",
+      "width": 480,
+      "height": 480,
+      "size": 20618,
+      "createdAt": "2026-07-09T17:18:08Z",
+      "updatedAt": "2026-07-09T17:18:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-ii-adidas-25-26-preto/detail-1.webp",
+      "hash": "96c8b224b3af49c7e2e0d9f3d9af72fd24bd13e619039af4f15af629dd6624b0",
+      "width": 480,
+      "height": 480,
+      "size": 56250,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/25-26/sem-versao/kit-infantil-real-madrid-ii-adidas-25-26-preto/detail-2.webp",
+      "hash": "19f92a230535640df97cd59b13c593b7eed383376df9a9d552c26b17ad2b3c36",
+      "width": 480,
+      "height": 480,
+      "size": 47420,
+      "createdAt": "2026-07-09T17:18:09Z",
+      "updatedAt": "2026-07-09T17:18:09Z"
+    }
+  ]
+}

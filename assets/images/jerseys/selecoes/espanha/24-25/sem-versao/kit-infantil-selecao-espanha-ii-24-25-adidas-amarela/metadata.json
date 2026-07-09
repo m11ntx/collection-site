@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-espanha-ii-24-25-adidas-amarela",
+  "createdAt": "2026-07-09T17:18:26Z",
+  "updatedAt": "2026-07-09T17:18:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-infantil-selecao-espanha-ii-24-25-adidas-amarela/front.webp",
+      "hash": "3901f8cf07e31e0b6f038b1e76a03c19cbdd332de0e8b1bd8deb309e0a7e5266",
+      "width": 480,
+      "height": 480,
+      "size": 4780,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/24-25/sem-versao/kit-infantil-selecao-espanha-ii-24-25-adidas-amarela/back.webp",
+      "hash": "14b4c92ec0ffffa968b9dda48ea04c7be9a42128c8d9e8efaea6157ac293e06b",
+      "width": 480,
+      "height": 480,
+      "size": 4502,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    }
+  ]
+}

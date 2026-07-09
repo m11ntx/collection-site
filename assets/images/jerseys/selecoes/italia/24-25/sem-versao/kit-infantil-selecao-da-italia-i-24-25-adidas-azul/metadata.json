@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-da-italia-i-24-25-adidas-azul",
+  "createdAt": "2026-07-09T17:17:30Z",
+  "updatedAt": "2026-07-09T17:17:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/kit-infantil-selecao-da-italia-i-24-25-adidas-azul/front.webp",
+      "hash": "91ef76722ab09c67831603e2cf504f590ab920a37535b389b9e54bfcc0da796a",
+      "width": 480,
+      "height": 480,
+      "size": 10052,
+      "createdAt": "2026-07-09T17:17:30Z",
+      "updatedAt": "2026-07-09T17:17:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/sem-versao/kit-infantil-selecao-da-italia-i-24-25-adidas-azul/back.webp",
+      "hash": "a1060f7a6094cb238b81254b70bb6f6bc86871ffc9e6f88ccaf005f4ce8708b2",
+      "width": 480,
+      "height": 480,
+      "size": 7604,
+      "createdAt": "2026-07-09T17:17:30Z",
+      "updatedAt": "2026-07-09T17:17:30Z"
+    }
+  ]
+}

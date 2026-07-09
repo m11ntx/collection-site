@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-paris-saint-germain-ii-24-25-nike-branco",
+  "createdAt": "2026-07-09T17:18:04Z",
+  "updatedAt": "2026-07-09T17:18:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-ii-24-25-nike-branco/front.webp",
+      "hash": "a5f4fa00e4f1ad6324ab2ed1cb968e58b9899d4c74cd8c603c68ed6b02775679",
+      "width": 480,
+      "height": 480,
+      "size": 8844,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-ii-24-25-nike-branco/back.webp",
+      "hash": "c24309c0b95e6130ef5e930b30a07619f0c005cf38224db5b830e6425681e62d",
+      "width": 480,
+      "height": 480,
+      "size": 4252,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-ii-24-25-nike-branco/detail-1.webp",
+      "hash": "facbcab68da0f48104591608c7e07c1209a8ffd2d6f3fddea6be27bae26341cd",
+      "width": 480,
+      "height": 480,
+      "size": 50814,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-infantil-paris-saint-germain-ii-24-25-nike-branco/detail-2.webp",
+      "hash": "07911e385ccb77478e2b90c021192f749b94308c76e2f5641df00eb03c0af7eb",
+      "width": 480,
+      "height": 480,
+      "size": 32168,
+      "createdAt": "2026-07-09T17:18:04Z",
+      "updatedAt": "2026-07-09T17:18:04Z"
+    }
+  ]
+}

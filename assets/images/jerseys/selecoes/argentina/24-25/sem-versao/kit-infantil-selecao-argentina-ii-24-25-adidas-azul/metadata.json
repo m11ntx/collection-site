@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-argentina-ii-24-25-adidas-azul",
+  "createdAt": "2026-07-09T17:18:13Z",
+  "updatedAt": "2026-07-09T17:18:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-infantil-selecao-argentina-ii-24-25-adidas-azul/front.webp",
+      "hash": "92d830c09531dd60c03c273f9ec8151682821f6c6ea389eb919d89b93c9888af",
+      "width": 480,
+      "height": 480,
+      "size": 8346,
+      "createdAt": "2026-07-09T17:18:13Z",
+      "updatedAt": "2026-07-09T17:18:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/sem-versao/kit-infantil-selecao-argentina-ii-24-25-adidas-azul/back.webp",
+      "hash": "720294e95a2b5db0fa9dc67bf771ee9bc5208c91486c2260ad8e95453a713cb5",
+      "width": 480,
+      "height": 480,
+      "size": 5968,
+      "createdAt": "2026-07-09T17:18:13Z",
+      "updatedAt": "2026-07-09T17:18:13Z"
+    }
+  ]
+}

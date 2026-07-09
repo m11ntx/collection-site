@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-newcastle-i-24-25-adidas-branco-e-preto",
+  "createdAt": "2026-07-09T17:18:00Z",
+  "updatedAt": "2026-07-09T17:18:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/sem-versao/kit-infantil-newcastle-i-24-25-adidas-branco-e-preto/front.webp",
+      "hash": "e13a64c4388946d265d90652ddb412b0502388e8bda5d18f0a491e5ea7a9a666",
+      "width": 480,
+      "height": 480,
+      "size": 9290,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/sem-versao/kit-infantil-newcastle-i-24-25-adidas-branco-e-preto/back.webp",
+      "hash": "cec9ece8ab02d003e110e981b022c0799f2bccf0c2bbff528d54e936bdc97b5e",
+      "width": 480,
+      "height": 480,
+      "size": 5436,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    }
+  ]
+}

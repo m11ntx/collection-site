@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-bayern-de-munique-goleiro-24-25-adidas-preto",
+  "createdAt": "2026-07-09T17:17:39Z",
+  "updatedAt": "2026-07-09T17:17:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/kit-infantil-bayern-de-munique-goleiro-24-25-adidas-preto/front.webp",
+      "hash": "7f0089fe8f2f40ad3ca299964b971fd38d174c9e11833b8ce32338b9d1766b3c",
+      "width": 480,
+      "height": 480,
+      "size": 10552,
+      "createdAt": "2026-07-09T17:17:39Z",
+      "updatedAt": "2026-07-09T17:17:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/kit-infantil-bayern-de-munique-goleiro-24-25-adidas-preto/back.webp",
+      "hash": "671deb3800a4796f010bab1627b28b9ef185bae65779c45374e18b8f2d6e5a0d",
+      "width": 480,
+      "height": 480,
+      "size": 8286,
+      "createdAt": "2026-07-09T17:17:39Z",
+      "updatedAt": "2026-07-09T17:17:39Z"
+    }
+  ]
+}

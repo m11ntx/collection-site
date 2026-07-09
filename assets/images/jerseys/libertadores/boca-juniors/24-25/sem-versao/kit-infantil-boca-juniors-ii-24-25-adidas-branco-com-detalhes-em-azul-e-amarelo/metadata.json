@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-boca-juniors-ii-24-25-adidas-branco-com-detalhes-em-azul-e-amarelo",
+  "createdAt": "2026-07-09T17:17:40Z",
+  "updatedAt": "2026-07-09T17:17:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/kit-infantil-boca-juniors-ii-24-25-adidas-branco-com-detalhes-em-azul-e-amarelo/front.webp",
+      "hash": "90227b87428fc0ed5ab852dd94cd921b025c0b62c769e15ddf6da342b9e14821",
+      "width": 480,
+      "height": 480,
+      "size": 6564,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/kit-infantil-boca-juniors-ii-24-25-adidas-branco-com-detalhes-em-azul-e-amarelo/back.webp",
+      "hash": "9e54d2846285782cfced135e9f9714bb4e403e31c753f4b665f0b06601d91d9d",
+      "width": 480,
+      "height": 480,
+      "size": 5248,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    }
+  ]
+}

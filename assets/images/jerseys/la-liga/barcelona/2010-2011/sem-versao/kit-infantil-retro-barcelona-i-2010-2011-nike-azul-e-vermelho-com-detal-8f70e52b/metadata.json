@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T17:18:32Z",
+  "updatedAt": "2026-07-09T17:18:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/front.webp",
+      "hash": "d8123da8f4b694bd8b3066afa35fd857abdccc4da8e0b9b18716a93d68443520",
+      "width": 480,
+      "height": 480,
+      "size": 6720,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/back.webp",
+      "hash": "1440707b2fc470c2af3c157a229cd9332bf48e76e628cb38229d19173be99a1e",
+      "width": 480,
+      "height": 480,
+      "size": 5406,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/detail-1.webp",
+      "hash": "3d4aabeca7679fae01f9f27103006a749c89903027bd59ef2d65aa36517d015a",
+      "width": 480,
+      "height": 480,
+      "size": 11412,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/detail-2.webp",
+      "hash": "61b8760e31147fe26a16c6337f461687631793e3c1e8e731117bef4fb3228379",
+      "width": 480,
+      "height": 480,
+      "size": 40424,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/detail-3.webp",
+      "hash": "3ab35f7a89e29d40465b0663f41f34329e9dbd3a72077229344c0bf438307c8f",
+      "width": 480,
+      "height": 480,
+      "size": 45820,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/detail-4.webp",
+      "hash": "342dfe1d9ed5b8c396e962313e84e626c7faba4a16d68740dad78744b32fd598",
+      "width": 480,
+      "height": 480,
+      "size": 11646,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2010-2011/sem-versao/kit-infantil-retro-barcelona-i-2010-2011-nike-azul-e-vermelho-com-detal-8f70e52b/detail-5.webp",
+      "hash": "7e282a04ef1a442c7b8b7724a403370e74d017f34ecd0e65692225dd2d362063",
+      "width": 480,
+      "height": 480,
+      "size": 11664,
+      "createdAt": "2026-07-09T17:18:32Z",
+      "updatedAt": "2026-07-09T17:18:32Z"
+    }
+  ]
+}

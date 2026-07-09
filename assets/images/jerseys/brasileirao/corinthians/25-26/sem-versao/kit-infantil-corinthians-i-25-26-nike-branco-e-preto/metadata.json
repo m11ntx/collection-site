@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-corinthians-i-25-26-nike-branco-e-preto",
+  "createdAt": "2026-07-09T17:17:43Z",
+  "updatedAt": "2026-07-09T17:17:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/kit-infantil-corinthians-i-25-26-nike-branco-e-preto/front.webp",
+      "hash": "0ac9af37b39003c12be24a5b86e449666bbc6b534cad088db6adac7cf0066c54",
+      "width": 480,
+      "height": 480,
+      "size": 4358,
+      "createdAt": "2026-07-09T17:17:43Z",
+      "updatedAt": "2026-07-09T17:17:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/kit-infantil-corinthians-i-25-26-nike-branco-e-preto/back.webp",
+      "hash": "e6e64a13c522855853395961033849ba75573f20d3ff8d65973f89590a4c7ea3",
+      "width": 480,
+      "height": 480,
+      "size": 3184,
+      "createdAt": "2026-07-09T17:17:43Z",
+      "updatedAt": "2026-07-09T17:17:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/kit-infantil-corinthians-i-25-26-nike-branco-e-preto/detail-1.webp",
+      "hash": "137cbb461a3885954237dac7f9258d6f91cabcabc2c7db68424617f7b697d9fd",
+      "width": 480,
+      "height": 480,
+      "size": 9962,
+      "createdAt": "2026-07-09T17:17:43Z",
+      "updatedAt": "2026-07-09T17:17:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/sem-versao/kit-infantil-corinthians-i-25-26-nike-branco-e-preto/detail-2.webp",
+      "hash": "299951fca5295a44ac2a99c7796d2b7fc4b8b3547422da3260809eca9cb54bc4",
+      "width": 480,
+      "height": 480,
+      "size": 59092,
+      "createdAt": "2026-07-09T17:17:43Z",
+      "updatedAt": "2026-07-09T17:17:43Z"
+    }
+  ]
+}

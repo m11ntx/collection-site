@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-brasil-retro-1994-umbro-amarelo",
+  "createdAt": "2026-07-09T17:18:34Z",
+  "updatedAt": "2026-07-09T17:18:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/front.webp",
+      "hash": "2896e8d63fc02936ad3204bb2bffe24f85e91d4fb5517deb92c315721c5e4d55",
+      "width": 480,
+      "height": 480,
+      "size": 7594,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/back.webp",
+      "hash": "7fda406ff463d39c530e8fe101a85c9c3efaa8eca66b7d9ddc02ba75b26a67b6",
+      "width": 480,
+      "height": 480,
+      "size": 4612,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/detail-1.webp",
+      "hash": "2f5a52d6acd0906f66accf937c5c59a31a76d4296b46388f3ad2cb8adeb08179",
+      "width": 480,
+      "height": 480,
+      "size": 11214,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/detail-2.webp",
+      "hash": "2eb89fbb2775fe9b6bd379336e2aa482c63e20233511d187fdc4208c6b81257c",
+      "width": 480,
+      "height": 480,
+      "size": 44064,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/detail-3.webp",
+      "hash": "43c68ffc5af55ed3aca94ad4e0fb579e35b69f0ee2f0e388936d5f7fefb98246",
+      "width": 480,
+      "height": 480,
+      "size": 39202,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/detail-4.webp",
+      "hash": "a4dfdd9477efa6387e0c6789e2e763255d82851fa7bfa935c5cdd468fb7c3913",
+      "width": 480,
+      "height": 480,
+      "size": 11490,
+      "createdAt": "2026-07-09T17:18:33Z",
+      "updatedAt": "2026-07-09T17:18:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/brasil/1994/sem-versao/kit-infantil-brasil-retro-1994-umbro-amarelo/detail-5.webp",
+      "hash": "df843d4015352074f4c950f1387cdcd0d81baceca8c3155e63f3d36a1b0026af",
+      "width": 480,
+      "height": 480,
+      "size": 6232,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    }
+  ]
+}

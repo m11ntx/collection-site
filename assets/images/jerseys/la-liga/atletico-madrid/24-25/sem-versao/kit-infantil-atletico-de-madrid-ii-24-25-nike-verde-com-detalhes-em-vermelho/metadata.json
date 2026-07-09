@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-atletico-de-madrid-ii-24-25-nike-verde-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T17:17:35Z",
+  "updatedAt": "2026-07-09T17:17:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/kit-infantil-atletico-de-madrid-ii-24-25-nike-verde-com-detalhes-em-vermelho/front.webp",
+      "hash": "b1c7698ea5491e822702d5b3260f3f6b56516c5776b0a1efdcd84731c6e567e0",
+      "width": 480,
+      "height": 480,
+      "size": 8520,
+      "createdAt": "2026-07-09T17:17:35Z",
+      "updatedAt": "2026-07-09T17:17:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/kit-infantil-atletico-de-madrid-ii-24-25-nike-verde-com-detalhes-em-vermelho/back.webp",
+      "hash": "06b29220d09fc22819a3fdb6566cdfd7fde41fc9d76d77a703d2c91dc722bf0a",
+      "width": 480,
+      "height": 480,
+      "size": 7060,
+      "createdAt": "2026-07-09T17:17:35Z",
+      "updatedAt": "2026-07-09T17:17:35Z"
+    }
+  ]
+}

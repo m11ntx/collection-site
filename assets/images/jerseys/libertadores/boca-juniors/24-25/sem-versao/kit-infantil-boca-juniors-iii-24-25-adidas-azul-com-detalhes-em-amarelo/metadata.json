@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-boca-juniors-iii-24-25-adidas-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T17:17:40Z",
+  "updatedAt": "2026-07-09T17:17:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/kit-infantil-boca-juniors-iii-24-25-adidas-azul-com-detalhes-em-amarelo/front.webp",
+      "hash": "9440c77f5e2d797db82e180ffd767825360c123b217d3a3c35598792ce3f93d7",
+      "width": 480,
+      "height": 480,
+      "size": 7964,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/24-25/sem-versao/kit-infantil-boca-juniors-iii-24-25-adidas-azul-com-detalhes-em-amarelo/back.webp",
+      "hash": "42e6552e1872b1d8ae3c0c4b12012402180a3cb3d2139d508a7d8d30552be873",
+      "width": 480,
+      "height": 480,
+      "size": 5638,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    }
+  ]
+}

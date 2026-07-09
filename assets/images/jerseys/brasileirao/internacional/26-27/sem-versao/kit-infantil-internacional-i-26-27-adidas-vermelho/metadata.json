@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-internacional-i-26-27-adidas-vermelho",
+  "createdAt": "2026-07-09T17:17:52Z",
+  "updatedAt": "2026-07-09T17:17:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/sem-versao/kit-infantil-internacional-i-26-27-adidas-vermelho/front.webp",
+      "hash": "69e0a122699b89eda5d8601b815836d596f7f3536a010abbb1b7ea7c69de735c",
+      "width": 480,
+      "height": 480,
+      "size": 11616,
+      "createdAt": "2026-07-09T17:17:52Z",
+      "updatedAt": "2026-07-09T17:17:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/sem-versao/kit-infantil-internacional-i-26-27-adidas-vermelho/back.webp",
+      "hash": "18bcc25b41616c2825ad65765dd4a156f40aebc305898dc5a9a19b16f9e2ce79",
+      "width": 480,
+      "height": 480,
+      "size": 9498,
+      "createdAt": "2026-07-09T17:17:52Z",
+      "updatedAt": "2026-07-09T17:17:52Z"
+    }
+  ]
+}

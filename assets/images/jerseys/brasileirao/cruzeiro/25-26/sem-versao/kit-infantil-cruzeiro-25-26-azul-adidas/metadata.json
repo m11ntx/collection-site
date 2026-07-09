@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-cruzeiro-25-26-azul-adidas",
+  "createdAt": "2026-07-09T17:17:44Z",
+  "updatedAt": "2026-07-09T17:17:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/sem-versao/kit-infantil-cruzeiro-25-26-azul-adidas/front.webp",
+      "hash": "7f62c9d75fa8de6ea1cf893159da30ab77d687d40f0e03d95860cefa39f7de28",
+      "width": 480,
+      "height": 480,
+      "size": 13264,
+      "createdAt": "2026-07-09T17:17:44Z",
+      "updatedAt": "2026-07-09T17:17:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/sem-versao/kit-infantil-cruzeiro-25-26-azul-adidas/back.webp",
+      "hash": "526b065cb59971f00cc7c6d7fb9435d87789682d644c265c62330ce35d019c12",
+      "width": 480,
+      "height": 480,
+      "size": 10790,
+      "createdAt": "2026-07-09T17:17:44Z",
+      "updatedAt": "2026-07-09T17:17:44Z"
+    }
+  ]
+}

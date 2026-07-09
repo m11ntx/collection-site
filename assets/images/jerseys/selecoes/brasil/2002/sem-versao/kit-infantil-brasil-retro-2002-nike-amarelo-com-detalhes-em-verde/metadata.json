@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T17:18:35Z",
+  "updatedAt": "2026-07-09T17:18:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/front.webp",
+      "hash": "1c9f1a5aff7ff534dbb4d7088bd4c7f509a9788ab7081b1a9a022b2bc3848e2f",
+      "width": 480,
+      "height": 480,
+      "size": 6356,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/back.webp",
+      "hash": "0d905313d35f29d5b89070234e6b4fff98da8510418838de00698db88207127e",
+      "width": 480,
+      "height": 480,
+      "size": 4126,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/detail-1.webp",
+      "hash": "0004e13f8edb75a1a0fdf5c2f8596c7b69b4425779916a9f737b50026d0d36d1",
+      "width": 480,
+      "height": 480,
+      "size": 31024,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/detail-2.webp",
+      "hash": "135c646fe2d0299fd875a6661a26fcac20e246ad82a1a268cbbcb5120ad68448",
+      "width": 480,
+      "height": 480,
+      "size": 28286,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/detail-3.webp",
+      "hash": "ef5e1db2fbdffac3b66e3a1936fdf57238e122d681f8f697e88640660c0c5b64",
+      "width": 480,
+      "height": 480,
+      "size": 8886,
+      "createdAt": "2026-07-09T17:18:34Z",
+      "updatedAt": "2026-07-09T17:18:34Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/brasil/2002/sem-versao/kit-infantil-brasil-retro-2002-nike-amarelo-com-detalhes-em-verde/detail-4.webp",
+      "hash": "ffdd0e499c3c5aeda997c76687bad0dda3d76add433fbd6e234b4530e0448a53",
+      "width": 480,
+      "height": 480,
+      "size": 10082,
+      "createdAt": "2026-07-09T17:18:35Z",
+      "updatedAt": "2026-07-09T17:18:35Z"
+    }
+  ]
+}

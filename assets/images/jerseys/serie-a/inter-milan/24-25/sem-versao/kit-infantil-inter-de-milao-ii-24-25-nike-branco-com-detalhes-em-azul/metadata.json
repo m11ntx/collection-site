@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-inter-de-milao-ii-24-25-nike-branco-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T17:17:51Z",
+  "updatedAt": "2026-07-09T17:17:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-infantil-inter-de-milao-ii-24-25-nike-branco-com-detalhes-em-azul/front.webp",
+      "hash": "1388a6ccca29a2d22a8edb9974992611022989bf935b4fb587231caa8f586183",
+      "width": 480,
+      "height": 480,
+      "size": 8574,
+      "createdAt": "2026-07-09T17:17:51Z",
+      "updatedAt": "2026-07-09T17:17:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-infantil-inter-de-milao-ii-24-25-nike-branco-com-detalhes-em-azul/back.webp",
+      "hash": "fab040971c07f6be227757b5c70bc2714c526c845919dcd6c125c06c921e3a41",
+      "width": 480,
+      "height": 480,
+      "size": 6908,
+      "createdAt": "2026-07-09T17:17:51Z",
+      "updatedAt": "2026-07-09T17:17:51Z"
+    }
+  ]
+}

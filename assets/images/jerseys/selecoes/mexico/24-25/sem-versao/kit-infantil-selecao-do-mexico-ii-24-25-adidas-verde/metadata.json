@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde",
+  "createdAt": "2026-07-09T17:18:27Z",
+  "updatedAt": "2026-07-09T17:18:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/front.webp",
+      "hash": "9119f44e4b2300297a6f5ddc6b5b14cfa368e171f195c9c4e85f7f7bab51d48d",
+      "width": 480,
+      "height": 480,
+      "size": 8922,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/back.webp",
+      "hash": "6d2f9b3d8ba7ab120f7f1b1eaab7405b208f8f7e2d9fe4b1a674a159061bf4b4",
+      "width": 480,
+      "height": 480,
+      "size": 5280,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/detail-1.webp",
+      "hash": "8335a8be5a0fe05986afa016575bf57eb1ea8e78c234bcb9791277304a0dfc8e",
+      "width": 480,
+      "height": 480,
+      "size": 17684,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/detail-2.webp",
+      "hash": "ae0bfcc0775aa4dd1001180ff78a1c4e232c583958c70ade1948fd50df162da2",
+      "width": 480,
+      "height": 480,
+      "size": 55956,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/detail-3.webp",
+      "hash": "8a020185fb6847835feef989ee2319ccb1c6e547948f2edc359063c1476d3475",
+      "width": 480,
+      "height": 480,
+      "size": 52030,
+      "createdAt": "2026-07-09T17:18:26Z",
+      "updatedAt": "2026-07-09T17:18:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/detail-4.webp",
+      "hash": "6b001f615bed9b46f0989fff39faad499bb2a9d5cdcb6aae2e26f503cb573d60",
+      "width": 480,
+      "height": 480,
+      "size": 13976,
+      "createdAt": "2026-07-09T17:18:27Z",
+      "updatedAt": "2026-07-09T17:18:27Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/mexico/24-25/sem-versao/kit-infantil-selecao-do-mexico-ii-24-25-adidas-verde/detail-5.webp",
+      "hash": "8275ea56da237d3f335aee5dad0ae83271f93e54c28f2115bcdde8c82a312fa0",
+      "width": 480,
+      "height": 480,
+      "size": 10346,
+      "createdAt": "2026-07-09T17:18:27Z",
+      "updatedAt": "2026-07-09T17:18:27Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-da-inglaterra-i-24-25-nike-branco-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T17:18:23Z",
+  "updatedAt": "2026-07-09T17:18:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-i-24-25-nike-branco-com-detalhes-em--c3736bfc/front.webp",
+      "hash": "238b63cc30f5477329be43cd9c77e80ba7e2eb7f7ff07332072e83cfaee1dedc",
+      "width": 480,
+      "height": 480,
+      "size": 6578,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-i-24-25-nike-branco-com-detalhes-em--c3736bfc/back.webp",
+      "hash": "3a99f25d931ce67a0afdc45ff1670aabd1f5158d7e97426a643ccdf1306af585",
+      "width": 480,
+      "height": 480,
+      "size": 4800,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-arsenal-i-24-25-adidas-branco-e-vermelho",
+  "createdAt": "2026-07-09T17:17:34Z",
+  "updatedAt": "2026-07-09T17:17:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-infantil-arsenal-i-24-25-adidas-branco-e-vermelho/front.webp",
+      "hash": "ad33f20882d0440c6f0b0c16dded50479b50efb48b26b3fee4da38a95140740d",
+      "width": 480,
+      "height": 480,
+      "size": 8972,
+      "createdAt": "2026-07-09T17:17:33Z",
+      "updatedAt": "2026-07-09T17:17:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-infantil-arsenal-i-24-25-adidas-branco-e-vermelho/back.webp",
+      "hash": "31c406bc120fc6d942796752563a46b73caa2cd1426dd225d5e701b7c62e54c4",
+      "width": 480,
+      "height": 480,
+      "size": 5080,
+      "createdAt": "2026-07-09T17:17:33Z",
+      "updatedAt": "2026-07-09T17:17:33Z"
+    }
+  ]
+}

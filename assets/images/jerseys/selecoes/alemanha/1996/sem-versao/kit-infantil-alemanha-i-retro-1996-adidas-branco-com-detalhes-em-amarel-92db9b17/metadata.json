@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarelo-e-vermelho-e-preto",
+  "createdAt": "2026-07-09T17:18:30Z",
+  "updatedAt": "2026-07-09T17:18:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/front.webp",
+      "hash": "6f12ca0613e6ef567825c8d30644d3ba2eaaee7bb21db0133766a4a4d51ce8b1",
+      "width": 480,
+      "height": 480,
+      "size": 6334,
+      "createdAt": "2026-07-09T17:18:29Z",
+      "updatedAt": "2026-07-09T17:18:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/back.webp",
+      "hash": "24b16294f15ab401c71994d0ca08ada992af3829fd37d516305d66979c4619fb",
+      "width": 480,
+      "height": 480,
+      "size": 4854,
+      "createdAt": "2026-07-09T17:18:29Z",
+      "updatedAt": "2026-07-09T17:18:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/detail-1.webp",
+      "hash": "a2b4fea6b91c606ad69a6a938005a9cfd6cd9bfc0ecf1aba9ac1b2cb679b9725",
+      "width": 480,
+      "height": 480,
+      "size": 11448,
+      "createdAt": "2026-07-09T17:18:29Z",
+      "updatedAt": "2026-07-09T17:18:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/detail-2.webp",
+      "hash": "115ecd3b1e32d7b440c247d0ddb77b18f346917ab114186d54f9200567a91c74",
+      "width": 480,
+      "height": 480,
+      "size": 36380,
+      "createdAt": "2026-07-09T17:18:29Z",
+      "updatedAt": "2026-07-09T17:18:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/detail-3.webp",
+      "hash": "c8f055513901a32afa5f54174ab8e3d0e559295b59641cd7330a855f463a0a12",
+      "width": 480,
+      "height": 480,
+      "size": 48828,
+      "createdAt": "2026-07-09T17:18:30Z",
+      "updatedAt": "2026-07-09T17:18:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/detail-4.webp",
+      "hash": "106850f9a9d3dfc729979d2b934f7044e11528e9e9e987980333b983a6875b81",
+      "width": 480,
+      "height": 480,
+      "size": 20746,
+      "createdAt": "2026-07-09T17:18:30Z",
+      "updatedAt": "2026-07-09T17:18:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/1996/sem-versao/kit-infantil-alemanha-i-retro-1996-adidas-branco-com-detalhes-em-amarel-92db9b17/detail-5.webp",
+      "hash": "c2203beef9127bc05f5d37827125295c492e90041c0ace1389a38540ca5fcc8d",
+      "width": 480,
+      "height": 480,
+      "size": 22892,
+      "createdAt": "2026-07-09T17:18:30Z",
+      "updatedAt": "2026-07-09T17:18:30Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-river-plate-iii-24-25-adidas-preta-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T17:18:12Z",
+  "updatedAt": "2026-07-09T17:18:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/kit-infantil-river-plate-iii-24-25-adidas-preta-com-detalhes-em-vermelho/front.webp",
+      "hash": "bccea877cb447870f4e5ef84c8bcc2061e47a36d086cd4fb8edd15f8c834dab2",
+      "width": 480,
+      "height": 480,
+      "size": 7860,
+      "createdAt": "2026-07-09T17:18:12Z",
+      "updatedAt": "2026-07-09T17:18:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/kit-infantil-river-plate-iii-24-25-adidas-preta-com-detalhes-em-vermelho/back.webp",
+      "hash": "eb081a9605b63ef42d98cb6ded643499b0f467d7bf28e85c0891e99a9cb2e6ce",
+      "width": 480,
+      "height": 480,
+      "size": 5114,
+      "createdAt": "2026-07-09T17:18:12Z",
+      "updatedAt": "2026-07-09T17:18:12Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja",
+  "createdAt": "2026-07-09T17:18:23Z",
+  "updatedAt": "2026-07-09T17:18:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/front.webp",
+      "hash": "2a812bd57d2230c2f5a3da427ff0e6586912199eeee22eea0299238755a40da4",
+      "width": 480,
+      "height": 480,
+      "size": 10876,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/back.webp",
+      "hash": "4fddab930b0fc8d9fbe317454a9fae1de976e48677f2d49e0b6f504db51deb72",
+      "width": 480,
+      "height": 480,
+      "size": 21060,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/detail-1.webp",
+      "hash": "3578f1f8e0a8f0ef65f1772be760b0db72af9a4cb243e07f95339211cd160eef",
+      "width": 480,
+      "height": 480,
+      "size": 9898,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/detail-2.webp",
+      "hash": "339daf05c793dded7c827813b5a6582cdce01c3b51288df50ac4fb5801332e97",
+      "width": 480,
+      "height": 480,
+      "size": 56920,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/detail-3.webp",
+      "hash": "345cfcabdc32303b5d774b824ff95e9cc97644994408eb199036d2192a8a212d",
+      "width": 480,
+      "height": 480,
+      "size": 60660,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/inglaterra/24-25/sem-versao/kit-infantil-selecao-da-inglaterra-goleiro-24-25-nike-laranja/detail-4.webp",
+      "hash": "97309b86068a118b2df074eb460ad96f84d311322c2069b1f2625ab983f94211",
+      "width": 480,
+      "height": 480,
+      "size": 19668,
+      "createdAt": "2026-07-09T17:18:23Z",
+      "updatedAt": "2026-07-09T17:18:23Z"
+    }
+  ]
+}

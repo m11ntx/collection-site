@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-ac-milan-iii-24-25-puma-cinza-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T17:17:31Z",
+  "updatedAt": "2026-07-09T17:17:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/kit-infantil-ac-milan-iii-24-25-puma-cinza-com-detalhes-em-verde/front.webp",
+      "hash": "34ac93e501982e859dc27597b1d92cd54d5407a220e58ac8df861e74e4f4c24d",
+      "width": 480,
+      "height": 480,
+      "size": 6702,
+      "createdAt": "2026-07-09T17:17:31Z",
+      "updatedAt": "2026-07-09T17:17:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/kit-infantil-ac-milan-iii-24-25-puma-cinza-com-detalhes-em-verde/back.webp",
+      "hash": "0aec83e8f687141dff42c9dad7089bd381e8287432b62de71b298ac747adc961",
+      "width": 480,
+      "height": 480,
+      "size": 4294,
+      "createdAt": "2026-07-09T17:17:31Z",
+      "updatedAt": "2026-07-09T17:17:31Z"
+    }
+  ]
+}

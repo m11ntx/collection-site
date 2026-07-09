@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-selecao-da-franca-i-24-25-nike-azul",
+  "createdAt": "2026-07-09T17:18:36Z",
+  "updatedAt": "2026-07-09T17:18:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/front.webp",
+      "hash": "3b468f22b322d195cd6005f8fb17e4fa33b2d4563cb475b50ef696a569814bd5",
+      "width": 480,
+      "height": 480,
+      "size": 7126,
+      "createdAt": "2026-07-09T17:18:35Z",
+      "updatedAt": "2026-07-09T17:18:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/back.webp",
+      "hash": "39dbdda005baa98e5bdbb25909a809f13f439857dfba89ffafbebdb3c9758070",
+      "width": 480,
+      "height": 480,
+      "size": 5716,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/detail-1.webp",
+      "hash": "85e107c2dbfcfb0f752382a8bc9a912e0bf352c7216c6f3ae0137a74a23cbc1c",
+      "width": 480,
+      "height": 480,
+      "size": 11020,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/detail-2.webp",
+      "hash": "5e77a9850484c1e9ae0be8eddedd5c99b77643e9b4a464b20ddac68c1c365d55",
+      "width": 480,
+      "height": 480,
+      "size": 27420,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/detail-3.webp",
+      "hash": "6b26bc0e98b0a1924a518cd8606379664d7389ff64c79845b5ab7088d466169b",
+      "width": 480,
+      "height": 480,
+      "size": 73130,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/detail-4.webp",
+      "hash": "25b65a28e164dcdc8ecbf84c178fc57b59ce2116e85e91b385a677f1a0cfd01b",
+      "width": 480,
+      "height": 480,
+      "size": 29216,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-infantil-selecao-da-franca-i-24-25-nike-azul/detail-5.webp",
+      "hash": "6d363234343cdfee7a66ca58b6a2f998f9ca254482567e9b2473ce09364db445",
+      "width": 480,
+      "height": 480,
+      "size": 31224,
+      "createdAt": "2026-07-09T17:18:36Z",
+      "updatedAt": "2026-07-09T17:18:36Z"
+    }
+  ]
+}

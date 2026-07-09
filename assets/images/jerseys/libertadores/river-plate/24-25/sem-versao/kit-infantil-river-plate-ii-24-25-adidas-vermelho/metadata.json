@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-river-plate-ii-24-25-adidas-vermelho",
+  "createdAt": "2026-07-09T17:18:12Z",
+  "updatedAt": "2026-07-09T17:18:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/kit-infantil-river-plate-ii-24-25-adidas-vermelho/front.webp",
+      "hash": "d134e42d2727d090e1766f41bc191e536c3560639edd6d03addb0fcdc870318c",
+      "width": 480,
+      "height": 480,
+      "size": 7608,
+      "createdAt": "2026-07-09T17:18:12Z",
+      "updatedAt": "2026-07-09T17:18:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/river-plate/24-25/sem-versao/kit-infantil-river-plate-ii-24-25-adidas-vermelho/back.webp",
+      "hash": "61f13cfd36f6654d10f65198b95f10583a53ee74071ec755d0d37c0cabb1b303",
+      "width": 480,
+      "height": 480,
+      "size": 6392,
+      "createdAt": "2026-07-09T17:18:12Z",
+      "updatedAt": "2026-07-09T17:18:12Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-borussia-dortmund-iii-24-25-puma-branco",
+  "createdAt": "2026-07-09T17:17:40Z",
+  "updatedAt": "2026-07-09T17:17:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/kit-infantil-borussia-dortmund-iii-24-25-puma-branco/front.webp",
+      "hash": "0e7b658278047e90a4da18baa01a33193ef09ab2fc5e824326fbde9a1f3161f7",
+      "width": 480,
+      "height": 480,
+      "size": 6556,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/kit-infantil-borussia-dortmund-iii-24-25-puma-branco/back.webp",
+      "hash": "a14c91cab22f16e5d4c47b94ac9dda812db07d3e4a5132691261209addedbcd9",
+      "width": 480,
+      "height": 480,
+      "size": 4980,
+      "createdAt": "2026-07-09T17:17:40Z",
+      "updatedAt": "2026-07-09T17:17:40Z"
+    }
+  ]
+}

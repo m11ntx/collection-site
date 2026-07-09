@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-fluminense-i-umbro-26-27-tricolor",
+  "createdAt": "2026-07-09T17:17:49Z",
+  "updatedAt": "2026-07-09T17:17:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/sem-versao/kit-infantil-fluminense-i-umbro-26-27-tricolor/front.webp",
+      "hash": "a557eded850f73e392297790f09956fc1760c24d032c4b6fb29c05a1eb917c5d",
+      "width": 480,
+      "height": 480,
+      "size": 19384,
+      "createdAt": "2026-07-09T17:17:49Z",
+      "updatedAt": "2026-07-09T17:17:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/sem-versao/kit-infantil-fluminense-i-umbro-26-27-tricolor/back.webp",
+      "hash": "eb2eaa9945be804553bcb3881137066b9ab6dd8897ba1a997394317b0ab06061",
+      "width": 480,
+      "height": 480,
+      "size": 16876,
+      "createdAt": "2026-07-09T17:17:49Z",
+      "updatedAt": "2026-07-09T17:17:49Z"
+    }
+  ]
+}

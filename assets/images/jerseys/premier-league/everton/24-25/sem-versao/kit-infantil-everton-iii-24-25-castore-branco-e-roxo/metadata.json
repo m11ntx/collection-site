@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-everton-iii-24-25-castore-branco-e-roxo",
+  "createdAt": "2026-07-09T17:17:45Z",
+  "updatedAt": "2026-07-09T17:17:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/sem-versao/kit-infantil-everton-iii-24-25-castore-branco-e-roxo/front.webp",
+      "hash": "74bb1d223e217e360311c068eef9d5f04cb4905879bcde542d71a34856439a44",
+      "width": 480,
+      "height": 480,
+      "size": 6972,
+      "createdAt": "2026-07-09T17:17:45Z",
+      "updatedAt": "2026-07-09T17:17:45Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/sem-versao/kit-infantil-everton-iii-24-25-castore-branco-e-roxo/back.webp",
+      "hash": "b7922e1f42bc714d1f3906ebe44b75c5cfa199bdd9263f9ea287b12b86aae928",
+      "width": 480,
+      "height": 480,
+      "size": 5202,
+      "createdAt": "2026-07-09T17:17:45Z",
+      "updatedAt": "2026-07-09T17:17:45Z"
+    }
+  ]
+}

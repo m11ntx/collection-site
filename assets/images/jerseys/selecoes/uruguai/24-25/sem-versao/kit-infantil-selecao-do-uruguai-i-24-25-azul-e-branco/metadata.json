@@ -1,0 +1,77 @@
+{
+  "productId": "source-kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco",
+  "createdAt": "2026-07-09T17:18:25Z",
+  "updatedAt": "2026-07-09T17:18:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/front.webp",
+      "hash": "11fa6eff4ed35c9d0daa2203ef139f2fca679b1421a562559033773560ba6fcb",
+      "width": 480,
+      "height": 480,
+      "size": 6448,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/back.webp",
+      "hash": "2f710dbef07c220e12fc38b71a22b1cd81870e6a2e4d8332c9b1fb8d817ca6a3",
+      "width": 480,
+      "height": 480,
+      "size": 10886,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/detail-1.webp",
+      "hash": "30412e57cb8715922cd3916d70080b10b6b491db7b65fb37acb9b71ba50aa7e5",
+      "width": 480,
+      "height": 480,
+      "size": 6192,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/detail-2.webp",
+      "hash": "5feb2d37a95aaf492fea41044f6e167e61d4e64a56e33715eab4be8245790611",
+      "width": 480,
+      "height": 480,
+      "size": 53674,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/detail-3.webp",
+      "hash": "b797951d7b7474226912281f596624cb0346e2bad071c83cc79b88d4fea07d01",
+      "width": 480,
+      "height": 480,
+      "size": 14134,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/detail-4.webp",
+      "hash": "c687aa9c2320e2f606c3335ccd2fece5c98ba430e2ac2d54affabb790f2b9cc4",
+      "width": 480,
+      "height": 480,
+      "size": 16936,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/uruguai/24-25/sem-versao/kit-infantil-selecao-do-uruguai-i-24-25-azul-e-branco/detail-5.webp",
+      "hash": "0e5caf1eb068fb5280fa3ad168ba9379a125e8a11f5e98625338cba9056c8e74",
+      "width": 480,
+      "height": 480,
+      "size": 18510,
+      "createdAt": "2026-07-09T17:18:24Z",
+      "updatedAt": "2026-07-09T17:18:24Z"
+    }
+  ]
+}

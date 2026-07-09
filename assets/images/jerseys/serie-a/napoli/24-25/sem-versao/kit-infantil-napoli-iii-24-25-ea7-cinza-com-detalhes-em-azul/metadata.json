@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T17:18:00Z",
+  "updatedAt": "2026-07-09T17:18:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/sem-versao/kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul/front.webp",
+      "hash": "a8806630e04f24fd88c84f143f98e0049b957f97247230bb3ca4e5331efda91e",
+      "width": 480,
+      "height": 480,
+      "size": 9730,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/sem-versao/kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul/back.webp",
+      "hash": "136a11fc96ad4da34ea805969547d645b0f5f5fd80fe1e21680754dd0ba49105",
+      "width": 480,
+      "height": 480,
+      "size": 6678,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/sem-versao/kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul/detail-1.webp",
+      "hash": "d14aed3b25f0ea5b2afee4222037d6d3cc3a09ea96bdba227d4e024fb285e17d",
+      "width": 480,
+      "height": 480,
+      "size": 4312,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/sem-versao/kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul/detail-2.webp",
+      "hash": "698fd10a12b2ebbe53c68046969655fc31cdc9accc7eefc32d2195e0de9f9127",
+      "width": 480,
+      "height": 480,
+      "size": 4596,
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-vasco-da-gama-i-24-25-kappa-preto",
+  "createdAt": "2026-07-09T17:18:29Z",
+  "updatedAt": "2026-07-09T17:18:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-i-24-25-kappa-preto/front.webp",
+      "hash": "170557be5ed3e423009b2f8dd6a810136a3daef058193864ec78619f311f0319",
+      "width": 480,
+      "height": 480,
+      "size": 10312,
+      "createdAt": "2026-07-09T17:18:28Z",
+      "updatedAt": "2026-07-09T17:18:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/sem-versao/kit-infantil-vasco-da-gama-i-24-25-kappa-preto/back.webp",
+      "hash": "bf4ae897bae3435390f3337c567ce394268afcfc7377ad48ce01621639fcf0e1",
+      "width": 480,
+      "height": 480,
+      "size": 7060,
+      "createdAt": "2026-07-09T17:18:29Z",
+      "updatedAt": "2026-07-09T17:18:29Z"
+    }
+  ]
+}

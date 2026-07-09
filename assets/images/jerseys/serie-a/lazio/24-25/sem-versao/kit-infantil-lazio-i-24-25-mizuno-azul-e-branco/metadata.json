@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-lazio-i-24-25-mizuno-azul-e-branco",
+  "createdAt": "2026-07-09T17:17:54Z",
+  "updatedAt": "2026-07-09T17:17:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/kit-infantil-lazio-i-24-25-mizuno-azul-e-branco/front.webp",
+      "hash": "af1319b9f82567e0f15d8956b6a2ac5c67e1dda91a815dbda8a99a1dea44c594",
+      "width": 480,
+      "height": 480,
+      "size": 6568,
+      "createdAt": "2026-07-09T17:17:54Z",
+      "updatedAt": "2026-07-09T17:17:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/kit-infantil-lazio-i-24-25-mizuno-azul-e-branco/back.webp",
+      "hash": "c24d428f781010e4aa922fcc7742f5bf2a479b22d435518e9e2ca010b0c21634",
+      "width": 480,
+      "height": 480,
+      "size": 3830,
+      "createdAt": "2026-07-09T17:17:54Z",
+      "updatedAt": "2026-07-09T17:17:54Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas",
+  "createdAt": "2026-07-09T17:18:07Z",
+  "updatedAt": "2026-07-09T17:18:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/front.webp",
+      "hash": "973860235241f7bde11d29b1a35fbd5c27ce38a7bd426c21223a4bf187e3d2f7",
+      "width": 480,
+      "height": 480,
+      "size": 6774,
+      "createdAt": "2026-07-09T17:18:06Z",
+      "updatedAt": "2026-07-09T17:18:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/back.webp",
+      "hash": "ff59a2a1d23d1921cc335218819df5637902f86f4c8ecb9bd4b2a92cb2e1a105",
+      "width": 480,
+      "height": 480,
+      "size": 12376,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/detail-1.webp",
+      "hash": "cc9764f10a3bd031d8f2a601297d2c408216861dce413fa034f54f88bf45e64f",
+      "width": 480,
+      "height": 480,
+      "size": 4304,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/detail-2.webp",
+      "hash": "5b9c3442336688623094bea0440b94b549a122a346df8113e899b65f33d3a91a",
+      "width": 480,
+      "height": 480,
+      "size": 36352,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/detail-3.webp",
+      "hash": "c6f3046c5bd136c9d349a780fe2d53c661a9780249b5f77e7c8fe512e8220b5d",
+      "width": 480,
+      "height": 480,
+      "size": 29402,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-infantil-real-madrid-edicao-especial-24-25-y-3-preto-com-desenhos-de-rosas/detail-4.webp",
+      "hash": "e81c9e50fdf4cef76d3a2c6eba2fbdfda5a2960892ac47bd50f2ce9e271fba33",
+      "width": 480,
+      "height": 480,
+      "size": 12028,
+      "createdAt": "2026-07-09T17:18:07Z",
+      "updatedAt": "2026-07-09T17:18:07Z"
+    }
+  ]
+}
