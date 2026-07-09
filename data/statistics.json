@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 2108,
+    "products": 2130,
     "collections": 6,
     "leagues": 15,
     "regions": 10,
@@ -8,15 +8,15 @@
     "manufacturers": 17
   },
   "products": {
-    "available": 2070,
+    "available": 2092,
     "unavailable": 38,
     "inventoryTracked": 0,
-    "withManufacturer": 1650
+    "withManufacturer": 1670
   },
   "byCollection": {
     "america-do-sul": 51,
     "brasil": 586,
-    "europa": 742,
+    "europa": 764,
     "lancamentos": 1,
     "resto-do-mundo": 74,
     "selecoes": 374,
@@ -27,7 +27,7 @@
     "brasileirao": 534,
     "bundesliga": 55,
     "eredivisie": 12,
-    "la-liga": 61,
+    "la-liga": 83,
     "libertadores": 51,
     "ligue-1": 22,
     "mls": 58,
@@ -51,7 +51,7 @@
     "rio-de-janeiro": 188,
     "sao-paulo": 148,
     "sul": 64,
-    "unknown": 1292
+    "unknown": 1314
   },
   "byClub": {
     "ac-milan": 23,
@@ -167,7 +167,7 @@
     "psv": 1,
     "rb-leipzig": 4,
     "real-betis": 3,
-    "real-madrid": 11,
+    "real-madrid": 33,
     "remo": 2,
     "river-plate": 16,
     "san-lorenzo": 2,
@@ -300,18 +300,18 @@
     "2023/24": 1,
     "2024": 9,
     "2024/2025": 4,
-    "2024/25": 12,
-    "2025": 15,
+    "2024/25": 13,
+    "2025": 17,
     "2025/26": 30,
     "2026": 18,
     "2026/27": 5,
     "21/20": 1,
     "23/24": 1,
     "24/15": 1,
-    "24/25": 1062,
+    "24/25": 1075,
     "24/35": 1,
-    "25/26": 215,
-    "26/27": 190,
+    "25/26": 217,
+    "26/27": 194,
     "57/62": 1,
     "88/90": 1,
     "91/93": 2,
@@ -326,19 +326,19 @@
     "unknown": 190
   },
   "byCategory": {
-    "current": 86,
+    "current": 90,
     "manga-longa": 11,
     "retro": 333,
-    "unknown": 1678
+    "unknown": 1696
   },
   "byVersion": {
-    "fan": 1171,
+    "fan": 1193,
     "player": 260,
     "unknown": 677
   },
   "byGender": {
     "kids": 79,
-    "men": 1652,
+    "men": 1674,
     "unknown": 209,
     "women": 168
   }

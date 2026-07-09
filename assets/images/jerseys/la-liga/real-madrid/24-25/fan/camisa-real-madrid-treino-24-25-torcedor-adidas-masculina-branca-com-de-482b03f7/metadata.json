@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-branca-com-detalhes-azul",
+  "createdAt": "2026-07-09T05:43:20Z",
+  "updatedAt": "2026-07-09T05:43:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-branca-com-de-482b03f7/front.webp",
+      "hash": "53b7a65440afe1997a311ace19bcec80311356feddca5c618e55524c7fabe299",
+      "width": 480,
+      "height": 480,
+      "size": 6366,
+      "createdAt": "2026-07-09T05:43:20Z",
+      "updatedAt": "2026-07-09T05:43:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-24-25-torcedor-adidas-masculina-branca-com-de-482b03f7/back.webp",
+      "hash": "b9cf1fbdcd32c498b8065c16d8a14ffa23f9a271370470c0cbb974600dd7be0e",
+      "width": 480,
+      "height": 480,
+      "size": 3946,
+      "createdAt": "2026-07-09T05:43:20Z",
+      "updatedAt": "2026-07-09T05:43:20Z"
+    }
+  ]
+}

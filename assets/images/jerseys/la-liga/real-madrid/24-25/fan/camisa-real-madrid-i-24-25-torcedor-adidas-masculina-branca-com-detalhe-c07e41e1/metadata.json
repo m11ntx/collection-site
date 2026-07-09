@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T05:43:18Z",
+  "updatedAt": "2026-07-09T05:43:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/front.webp",
+      "hash": "f3ca66b64409be1d84080ec4a113e924e5748cbaaf4dd96a31cae67dc10b7537",
+      "width": 480,
+      "height": 480,
+      "size": 10294,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/back.webp",
+      "hash": "58da42bdd1d85fe8822b6320cdd7423ef26a52fc97759da806a5072c196a15e0",
+      "width": 480,
+      "height": 480,
+      "size": 3684,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/detail-1.webp",
+      "hash": "a460b961151250df0ebaa191f3aea95e2f0701a17987374de5d5c906c8f2e3f9",
+      "width": 480,
+      "height": 480,
+      "size": 8194,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/detail-2.webp",
+      "hash": "96c1d7b24c2634064ba67310a480c763ca07f137a5b2d20473de574aa4b26fe9",
+      "width": 480,
+      "height": 512,
+      "size": 23228,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/detail-3.webp",
+      "hash": "0706f951aec13de8d7a00567132a97a0444b0d569a0c92c9ccee9f850f1c73ec",
+      "width": 480,
+      "height": 480,
+      "size": 14694,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-i-24-25-torcedor-adidas-masculina-branca-com-detalhe-c07e41e1/detail-4.webp",
+      "hash": "decccbb136595556aa3ee09a7a4508cf72cad0c2ec56c94b12c90cae98e54982",
+      "width": 480,
+      "height": 480,
+      "size": 12654,
+      "createdAt": "2026-07-09T05:43:18Z",
+      "updatedAt": "2026-07-09T05:43:18Z"
+    }
+  ]
+}

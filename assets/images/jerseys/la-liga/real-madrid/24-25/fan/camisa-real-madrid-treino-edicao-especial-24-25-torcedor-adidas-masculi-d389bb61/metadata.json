@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-real-madrid-treino-edicao-especial-24-25-torcedor-adidas-masculina-preta-com-detalhes-multicoloridas",
+  "createdAt": "2026-07-09T05:43:21Z",
+  "updatedAt": "2026-07-09T05:43:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-edicao-especial-24-25-torcedor-adidas-masculi-d389bb61/front.webp",
+      "hash": "8f331aaa386690c135610ca5422b4853039925172f5fd0309dbc7d73fa5f5a52",
+      "width": 480,
+      "height": 480,
+      "size": 9532,
+      "createdAt": "2026-07-09T05:43:21Z",
+      "updatedAt": "2026-07-09T05:43:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-edicao-especial-24-25-torcedor-adidas-masculi-d389bb61/back.webp",
+      "hash": "28ef1d400c6f5cca674940b75897ac83cb11b8d7a194815689e6bdf8cb4e0653",
+      "width": 480,
+      "height": 480,
+      "size": 6124,
+      "createdAt": "2026-07-09T05:43:21Z",
+      "updatedAt": "2026-07-09T05:43:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-edicao-especial-24-25-torcedor-adidas-masculi-d389bb61/detail-1.webp",
+      "hash": "d12da89b6031ec2c5f5e063a7440e8e745309c47d1a514e5c8800ba9bca1e585",
+      "width": 480,
+      "height": 480,
+      "size": 10682,
+      "createdAt": "2026-07-09T05:43:21Z",
+      "updatedAt": "2026-07-09T05:43:21Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/fan/camisa-real-madrid-treino-edicao-especial-24-25-torcedor-adidas-masculi-d389bb61/detail-2.webp",
+      "hash": "8f0ad97317bc01bc79aa0c2cd5288729e2ac3b465dda1efb7fe0e8616f842a6e",
+      "width": 480,
+      "height": 480,
+      "size": 29802,
+      "createdAt": "2026-07-09T05:43:21Z",
+      "updatedAt": "2026-07-09T05:43:21Z"
+    }
+  ]
+}
