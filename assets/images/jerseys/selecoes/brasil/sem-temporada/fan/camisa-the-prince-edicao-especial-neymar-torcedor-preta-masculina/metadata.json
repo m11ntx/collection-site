@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-the-prince-edicao-especial-neymar-torcedor-preta-masculina",
+  "createdAt": "2026-07-09T21:32:27Z",
+  "updatedAt": "2026-07-09T21:32:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-the-prince-edicao-especial-neymar-torcedor-preta-masculina/front.webp",
+      "hash": "0fb2bcd4a0055b12b6f5e227f46e188754195d164c7ba0b293dd67e9d3a95c0a",
+      "width": 480,
+      "height": 480,
+      "size": 17142,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/fan/camisa-the-prince-edicao-especial-neymar-torcedor-preta-masculina/back.webp",
+      "hash": "6b6529c10514e3a4c046a78ecf4d24279e93567e5171e84d7da60ce1506343e0",
+      "width": 480,
+      "height": 480,
+      "size": 16856,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    }
+  ]
+}

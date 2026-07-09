@@ -200,6 +200,16 @@
     "image": null
   },
   {
+    "id": "ponte-preta",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "ponte-preta",
+    "name": "Ponte Preta",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "remo",
     "leagueId": "brasileirao",
     "regionId": "norte",
@@ -295,6 +305,16 @@
     "regionId": null,
     "slug": "borussia-dortmund",
     "name": "Borussia Dortmund",
+    "country": "Germany",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "borussia-monchengladbach",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "borussia-monchengladbach",
+    "name": "Borussia Mönchengladbach",
     "country": "Germany",
     "badge": null,
     "image": null
@@ -456,16 +476,6 @@
     "slug": "desportivo-palestino",
     "name": "Deportivo Palestino",
     "country": "Chile",
-    "badge": null,
-    "image": null
-  },
-  {
-    "id": "monterrey",
-    "leagueId": "libertadores",
-    "regionId": null,
-    "slug": "monterrey",
-    "name": "Monterrey",
-    "country": "Mexico",
     "badge": null,
     "image": null
   },
@@ -655,6 +665,16 @@
     "regionId": null,
     "slug": "columbus-crew",
     "name": "Columbus Crew",
+    "country": "United States",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "dc-united",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "dc-united",
+    "name": "DC United",
     "country": "United States",
     "badge": null,
     "image": null
@@ -1116,6 +1136,16 @@
     "slug": "brasil",
     "name": "Brasil",
     "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "cabo-verde",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "cabo-verde",
+    "name": "Cabo Verde",
+    "country": "Cape Verde",
     "badge": null,
     "image": null
   },
@@ -1615,6 +1645,16 @@
     "regionId": null,
     "slug": "napoli",
     "name": "Napoli",
+    "country": "Italy",
+    "badge": null,
+    "image": null
+  },
+  {
+    "id": "parma",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "parma",
+    "name": "Parma",
     "country": "Italy",
     "badge": null,
     "image": null

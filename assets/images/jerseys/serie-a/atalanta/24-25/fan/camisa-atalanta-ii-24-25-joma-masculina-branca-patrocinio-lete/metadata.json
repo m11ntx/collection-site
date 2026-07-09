@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-atalanta-ii-24-25-joma-masculina-branca-patrocinio-lete",
+  "createdAt": "2026-07-09T21:32:26Z",
+  "updatedAt": "2026-07-09T21:32:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/atalanta/24-25/fan/camisa-atalanta-ii-24-25-joma-masculina-branca-patrocinio-lete/front.webp",
+      "hash": "63343fdab03dbb54e52f595ac5b5e56ec16f9709722f25250389a6ae44be4cc9",
+      "width": 480,
+      "height": 480,
+      "size": 7694,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/atalanta/24-25/fan/camisa-atalanta-ii-24-25-joma-masculina-branca-patrocinio-lete/back.webp",
+      "hash": "00790d284e74985c0f15b9ee9f7b5fccecb01affc10383cdb8edfcfa55c5e9ef",
+      "width": 480,
+      "height": 480,
+      "size": 14170,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/atalanta/24-25/fan/camisa-atalanta-ii-24-25-joma-masculina-branca-patrocinio-lete/detail-1.webp",
+      "hash": "e937ec2f779c43d9065f9ce760fdbb2b20f147e3c071c937a95277509f286af5",
+      "width": 480,
+      "height": 480,
+      "size": 15564,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/atalanta/24-25/fan/camisa-atalanta-ii-24-25-joma-masculina-branca-patrocinio-lete/detail-2.webp",
+      "hash": "af46872aadae961096cdb753c96921b3bc40d1de0feed60865fd45f0a3b95d76",
+      "width": 480,
+      "height": 480,
+      "size": 9846,
+      "createdAt": "2026-07-09T21:32:26Z",
+      "updatedAt": "2026-07-09T21:32:26Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-dc-united-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho-e-cinza",
+  "createdAt": "2026-07-09T21:32:25Z",
+  "updatedAt": "2026-07-09T21:32:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/dc-united/24-25/fan/camisa-dc-united-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-e-430aaf01/front.webp",
+      "hash": "868d396ed2787f6374eb94b3cd351d1bfe6b0b672fc2a4b3b1f5bdd7598b1981",
+      "width": 480,
+      "height": 480,
+      "size": 23894,
+      "createdAt": "2026-07-09T21:32:24Z",
+      "updatedAt": "2026-07-09T21:32:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/dc-united/24-25/fan/camisa-dc-united-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-e-430aaf01/back.webp",
+      "hash": "9af3441fb07284d3571869f797ab9df473cc2115a7a75e35c30da45a88a65fab",
+      "width": 480,
+      "height": 480,
+      "size": 9494,
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/dc-united/24-25/fan/camisa-dc-united-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-e-430aaf01/detail-1.webp",
+      "hash": "32a026c6c163fd0dda0005031a98227ae30cb90e4311c483baa37b68a1b15ef3",
+      "width": 480,
+      "height": 270,
+      "size": 24070,
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
+    }
+  ]
+}
