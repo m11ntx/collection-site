@@ -27,6 +27,7 @@ const CSS_FILES = [
 
 const JS_FILES = [
     "config/site.js",
+    "assets/js/i18n.js",
     "assets/js/api.js",
     "assets/js/image-loader.js",
     "assets/js/catalog.js",

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <base href="../">
@@ -47,31 +47,33 @@
 </head>
 <body>
 
-<a class="skip-link" href="#main">Skip to content</a>
+<a class="skip-link" href="#main" data-i18n="hero.skipToContent">Skip to content</a>
 
 <header class="nav" id="siteNav">
     <div class="nav__inner">
-        <a href="index.html" class="nav__logo" aria-label="M11NTX — Home">
+        <a href="index.html" class="nav__logo" data-i18n-attr="aria-label:nav.home">
             <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21" decoding="async">
             <span class="nav__name">M11NTX</span>
         </a>
         <nav class="nav__menu" aria-label="Primary">
             <ul class="nav__list">
-                <li><a href="index.html#collections" class="nav__link">Collection</a></li>
-                <li><a href="pages/how-it-works.html" class="nav__link">How It Works</a></li>
-                <li><a href="pages/faq.html" class="nav__link">FAQ</a></li>
-                <li><a href="pages/about.html" class="nav__link">About</a></li>
-                <li><a href="pages/contact.html" class="nav__link">Contact</a></li>
+                <li><a href="index.html#collections" class="nav__link" data-i18n="nav.collection">Collection</a></li>
+                <li><a href="pages/catalog.html" class="nav__link" data-i18n="nav.catalog">Catalog</a></li>
+                <li><a href="pages/how-it-works.html" class="nav__link" data-i18n="nav.howItWorks">How It Works</a></li>
+                <li><a href="pages/faq.html" class="nav__link" data-i18n="nav.faq">FAQ</a></li>
+                <li><a href="pages/about.html" class="nav__link" data-i18n="nav.about">About</a></li>
+                <li><a href="pages/contact.html" class="nav__link" data-i18n="nav.contact">Contact</a></li>
             </ul>
-            <button type="button" class="nav__search" id="searchOpen" aria-label="Open search">
+            <button type="button" class="nav__lang js-lang-toggle" id="langToggle"></button>
+            <button type="button" class="nav__search" id="searchOpen" data-i18n-attr="aria-label:nav.openSearch">
                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                     <circle cx="11" cy="11" r="7"></circle>
                     <line x1="21" y1="21" x2="16.5" y2="16.5"></line>
                 </svg>
-                <span>Search</span>
+                <span data-i18n="nav.search">Search</span>
             </button>
         </nav>
-        <button type="button" class="nav__toggle" id="menuToggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu">
+        <button type="button" class="nav__toggle" id="menuToggle" data-i18n-attr="aria-label:nav.openMenu" aria-expanded="false" aria-controls="mobileMenu">
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
@@ -82,7 +84,7 @@
 <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
     <div class="mobile-menu__head">
         <span class="mobile-menu__brand">M11NTX</span>
-        <button type="button" class="mobile-menu__close" id="menuClose" aria-label="Close menu">
+        <button type="button" class="mobile-menu__close" id="menuClose" data-i18n-attr="aria-label:nav.closeMenu">
             <svg viewBox="0 0 24 24" width="24" height="24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <line x1="6" y1="6" x2="18" y2="18"></line>
                 <line x1="18" y1="6" x2="6" y2="18"></line>
@@ -90,91 +92,88 @@
         </button>
     </div>
     <nav class="mobile-menu__nav" aria-label="Mobile">
-        <a href="index.html#collections" class="mobile-menu__link">Collection</a>
-        <a href="pages/how-it-works.html" class="mobile-menu__link">How It Works</a>
-        <a href="pages/faq.html" class="mobile-menu__link">FAQ</a>
-        <a href="pages/about.html" class="mobile-menu__link">About</a>
-        <a href="pages/contact.html" class="mobile-menu__link">Contact</a>
-        <button type="button" class="mobile-menu__link mobile-menu__search" id="searchOpenMobile">Search</button>
+        <a href="index.html#collections" class="mobile-menu__link" data-i18n="nav.collection">Collection</a>
+        <a href="pages/catalog.html" class="mobile-menu__link" data-i18n="nav.catalog">Catalog</a>
+        <a href="pages/how-it-works.html" class="mobile-menu__link" data-i18n="nav.howItWorks">How It Works</a>
+        <a href="pages/faq.html" class="mobile-menu__link" data-i18n="nav.faq">FAQ</a>
+        <a href="pages/about.html" class="mobile-menu__link" data-i18n="nav.about">About</a>
+        <a href="pages/contact.html" class="mobile-menu__link" data-i18n="nav.contact">Contact</a>
+        <button type="button" class="mobile-menu__link mobile-menu__search" id="searchOpenMobile" data-i18n="nav.search">Search</button>
+        <button type="button" class="mobile-menu__link mobile-menu__lang js-lang-toggle" id="langToggleMobile"></button>
     </nav>
 </div>
 
-<div class="search" id="searchOverlay" role="dialog" aria-modal="true" aria-label="Search the collection" aria-hidden="true">
-    <button type="button" class="search__close" id="searchClose" aria-label="Close search">
+<div class="search" id="searchOverlay" role="dialog" aria-modal="true" data-i18n-attr="aria-label:search.dialogLabel" aria-hidden="true">
+    <button type="button" class="search__close" id="searchClose" data-i18n-attr="aria-label:search.closeSearch">
         <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <line x1="6" y1="6" x2="18" y2="18"></line>
             <line x1="18" y1="6" x2="6" y2="18"></line>
         </svg>
     </button>
     <form class="search__inner" role="search" onsubmit="return false">
-        <label class="search__label" for="searchInput">Search the collection</label>
+        <label class="search__label" for="searchInput" data-i18n="search.dialogLabel">Search the collection</label>
         <div class="search__field">
             <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                 <circle cx="11" cy="11" r="7"></circle>
                 <line x1="21" y1="21" x2="16.5" y2="16.5"></line>
             </svg>
-            <input id="searchInput" class="search__input" type="search" placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
+            <input id="searchInput" class="search__input" type="search" data-i18n-attr="placeholder:search.placeholder" placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
         </div>
-        <p class="search__hint">Search is coming soon.</p>
+        <div class="search__results" id="searchResults" aria-live="polite">
+            <p class="search__hint" data-i18n="search.hint">Type to search jerseys, clubs and leagues…</p>
+        </div>
     </form>
 </div>
 
 <main class="detail" id="main">
     <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a class="breadcrumb__link" href="index.html">Home</a>
+        <a class="breadcrumb__link" href="index.html" data-i18n="breadcrumb.home">Home</a>
         <span class="breadcrumb__sep" aria-hidden="true">/</span>
-        <span class="breadcrumb__current" aria-current="page">Terms</span>
+        <span class="breadcrumb__current" aria-current="page" data-i18n="footer.terms">Terms</span>
     </nav>
 
-    <p class="detail__eyebrow">Terms</p>
-    <h1 class="detail__title">Termos de Uso</h1>
+    <p class="detail__eyebrow" data-i18n="institutional.terms.eyebrow">Terms</p>
+    <h1 class="detail__title" data-i18n="institutional.terms.h1">Terms of Use</h1>
     
 
     <div class="prose">
-        <p>Ao utilizar esta plataforma, você concorda com os termos abaixo.</p>
-        <h2>Sobre a plataforma</h2>
-        <p>A M11NTX é uma vitrine digital e atua como <strong>intermediadora</strong> na aquisição de camisas importadas. Não realizamos vendas diretas nem processamos pagamentos pelo site.</p>
-        <h2>Disponibilidade e prazos</h2>
-        <ul>
-            <li>A disponibilidade de cada camisa é <strong>confirmada antes do pedido</strong>.</li>
-            <li>O prazo estimado de importação é de <strong>25–40 dias corridos</strong>, podendo variar por se tratar de importação.</li>
-        </ul>
-        <h2>Atendimento e pagamento</h2>
-        <p>A compra é realizada mediante atendimento personalizado, pelo Instagram oficial, com condições combinadas fora da plataforma.</p>
-        <h2>Propriedade intelectual</h2>
-        <p>Marcas, escudos e nomes de clubes pertencem aos seus respectivos titulares e são usados apenas para fins de identificação das peças.</p>
-        <h2>Limitação de responsabilidade</h2>
-        <p>As informações são fornecidas “como estão”. Prazos são estimativas e imagens podem ter variações. Consulte a <a href="pages/intermediation-policy.html">Política de Intermediação</a>.</p>
-        <p class="prose__updated">Última atualização: julho de 2026.</p>
+        <div data-i18n-html="institutional.terms.body"><p>By using this platform, you agree to the terms below.</p><h2>About the platform</h2><p>M11NTX is a digital showcase and acts as an <strong>intermediary</strong> in acquiring imported jerseys. We do not process direct sales or payments through the site.</p><h2>Availability and timeframes</h2><ul><li>Each jersey's availability is <strong>confirmed before ordering</strong>.</li><li>The estimated import time is <strong>25–40 calendar days</strong>, and may vary since these are imports.</li></ul><h2>Service and payment</h2><p>The purchase is made through personalized service, via our official Instagram, with terms arranged outside the platform.</p><h2>Intellectual property</h2><p>Brands, crests and club names belong to their respective owners and are used only to identify the pieces.</p><h2>Limitation of liability</h2><p>Information is provided “as is”. Timeframes are estimates and images may vary. See the <a href="pages/intermediation-policy.html">Intermediation Policy</a>.</p></div>
+        <p class="prose__updated" data-i18n="institutional.terms.updated">Last updated: July 2026.</p>
     </div>
 </main>
 
 <footer class="site-footer site-footer--full">
     <div class="footer__inner">
         <nav class="footer__links" aria-label="Institutional">
-            <a href="pages/about.html">About</a>
-            <a href="pages/how-it-works.html">How It Works</a>
-            <a href="pages/faq.html">FAQ</a>
-            <a href="pages/contact.html">Contact</a>
-            <a href="pages/privacy.html">Privacy</a>
-            <a href="pages/terms.html">Terms</a>
-            <a href="pages/intermediation-policy.html">Intermediation Policy</a>
+            <a href="pages/about.html" data-i18n="footer.about">About</a>
+            <a href="pages/how-it-works.html" data-i18n="footer.howItWorks">How It Works</a>
+            <a href="pages/faq.html" data-i18n="footer.faq">FAQ</a>
+            <a href="pages/contact.html" data-i18n="footer.contact">Contact</a>
+            <a href="pages/privacy.html" data-i18n="footer.privacy">Privacy</a>
+            <a href="pages/terms.html" data-i18n="footer.terms">Terms</a>
+            <a href="pages/intermediation-policy.html" data-i18n="footer.intermediationPolicy">Intermediation Policy</a>
         </nav>
         <div class="footer__social">
-            <a href="https://www.instagram.com/m11ntx/" data-config="instagram" target="_blank" rel="noopener">Instagram</a>
-            <a href="mailto:hello.m11ntx@gmail.com" data-config="email">Email</a>
+            <a href="https://www.instagram.com/m11ntx/" data-config="instagram" target="_blank" rel="noopener" data-i18n="footer.instagram">Instagram</a>
+            <a href="mailto:hello.m11ntx@gmail.com" data-config="email" data-i18n="footer.email">Email</a>
         </div>
     </div>
     <div class="footer__base">
         <span class="footer-left">&copy; 2026 M11NTX</span>
         <img src="assets/images/symbol.png" alt="M11" class="footer-mark" width="855" height="596" loading="lazy" decoding="async">
-        <span class="footer-right">Wear The Manto</span>
+        <span class="footer-right" data-i18n="footer.tagline">Wear The Manto</span>
     </div>
 </footer>
 
 <script src="config/site.min.js" defer></script>
+<script src="assets/js/i18n.min.js" defer></script>
 <script src="assets/js/seo.min.js" defer></script>
 <script src="assets/js/analytics.min.js" defer></script>
+<script src="assets/js/api.min.js" defer></script>
+<script src="assets/js/image-loader.min.js" defer></script>
+<script src="assets/js/filters.min.js" defer></script>
+<script src="assets/js/search.min.js" defer></script>
+<script src="assets/js/catalog.min.js" defer></script>
 <script src="assets/js/ui.min.js" defer></script>
 <script src="assets/js/main.min.js" defer></script>
 

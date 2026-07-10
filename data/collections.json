@@ -4,8 +4,8 @@
     "slug": "brasil",
     "name": "Brasil",
     "country": "Brazil",
-    "image": null,
     "description": null,
+    "image": "",
     "featured": false,
     "virtual": false
   },
@@ -14,8 +14,8 @@
     "slug": "europa",
     "name": "Europa",
     "country": null,
-    "image": null,
     "description": null,
+    "image": "",
     "featured": false,
     "virtual": false
   },
@@ -24,8 +24,8 @@
     "slug": "resto-do-mundo",
     "name": "Resto do Mundo",
     "country": null,
-    "image": null,
     "description": null,
+    "image": "",
     "featured": false,
     "virtual": false
   },
@@ -34,8 +34,8 @@
     "slug": "selecoes",
     "name": "Seleções",
     "country": null,
-    "image": null,
     "description": null,
+    "image": "",
     "featured": false,
     "virtual": false
   }

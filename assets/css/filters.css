@@ -39,25 +39,73 @@
     cursor: not-allowed;
 }
 
-/* facet group */
+/* facet group — a native <details>/<summary> disclosure (CS-56) so a long
+   facet list collapses by default instead of one giant scrolling column;
+   open state (all-checkbox re-render notwithstanding) is restored per
+   facet by filters.js's `manualOpen` map. */
 .filters__group {
     border: 0;
-    padding: 0;
+    border-bottom: 1px solid rgba(255, 255, 255, .06);
+    padding: 0 0 .85rem;
     margin: 0;
+}
+.filters__group:last-child {
+    border-bottom: 0;
+    padding-bottom: 0;
 }
 
 .filters__legend {
+    display: flex;
+    align-items: center;
+    gap: .5rem;
     font-size: .72rem;
+    font-weight: 700;
     letter-spacing: .14em;
     text-transform: uppercase;
     color: var(--color-gold);
-    margin-bottom: .6rem;
+    padding: .85rem 0 .6rem;
+    cursor: pointer;
+    list-style: none;
+    user-select: none;
+}
+.filters__legend::-webkit-details-marker { display: none; }
+.filters__group:first-of-type .filters__legend { padding-top: 0; }
+.filters__legend::after {
+    content: "";
+    width: 7px;
+    height: 7px;
+    margin-left: auto;
+    border-right: 1.5px solid var(--color-gray);
+    border-bottom: 1.5px solid var(--color-gray);
+    transform: rotate(45deg);
+    transition: transform var(--transition), border-color var(--transition);
+}
+.filters__group[open] > .filters__legend::after {
+    transform: rotate(-135deg);
+}
+.filters__legend:hover::after {
+    border-color: var(--color-gold);
+}
+.filters__legend-badge {
+    font-variant-numeric: tabular-nums;
+    font-size: .68rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: .15rem .4rem;
+    border-radius: 999px;
+    background: rgba(226, 193, 90, .16);
+    color: var(--color-gold);
+    letter-spacing: 0;
+    text-transform: none;
 }
 
 .filters__options {
     display: flex;
     flex-direction: column;
     gap: .3rem;
+    padding-bottom: .3rem;
+    max-height: 260px;
+    overflow-y: auto;
 }
 
 .filters__option {
@@ -109,5 +157,87 @@
 @media (max-width: 760px) {
     .filters-layout {
         grid-template-columns: 1fr;
+    }
+}
+
+/* Segment tabs (MI-33) — Fan/Player/Women/Retro/Kids within a club page.
+   A lightweight, single-choice control (not the multi-facet sidebar above):
+   client-side re-filter of an already-fetched jersey list, no navigation.
+   Enclosed in its own surface + a small label so it visually reads as a
+   filter bar rather than a loose row of pills (CS-55). */
+.segment-tabs-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: .85rem;
+    margin-bottom: 1.75rem;
+    padding: .65rem .85rem;
+    background: var(--color-surface);
+    border: 1px solid rgba(255, 255, 255, .06);
+    border-radius: 14px;
+}
+.segment-tabs-label {
+    font-size: .72rem;
+    font-weight: 700;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--color-gray);
+    white-space: nowrap;
+}
+.segment-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+
+.segment-tabs__btn {
+    display: inline-flex;
+    align-items: center;
+    gap: .45rem;
+    padding: .4rem .95rem;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    background: transparent;
+    color: var(--color-gray);
+    font-size: .8rem;
+    font-weight: 600;
+    letter-spacing: .03em;
+    cursor: pointer;
+    transition: color var(--transition), border-color var(--transition), background var(--transition);
+}
+.segment-tabs__btn:hover {
+    color: var(--color-white);
+    border-color: var(--color-gold);
+}
+.segment-tabs__btn:focus-visible {
+    outline: 2px solid var(--color-gold);
+    outline-offset: 2px;
+}
+.segment-tabs__btn[aria-pressed="true"] {
+    color: var(--color-bg);
+    background: var(--color-gold);
+    border-color: var(--color-gold);
+}
+.segment-tabs__count {
+    font-variant-numeric: tabular-nums;
+    font-size: .74rem;
+    font-weight: 700;
+    line-height: 1;
+    padding: .15rem .4rem;
+    border-radius: 999px;
+    background: rgba(255, 255, 255, .08);
+    color: var(--color-white);
+}
+.segment-tabs__btn[aria-pressed="true"] .segment-tabs__count {
+    background: rgba(5, 5, 5, .18);
+    color: var(--color-bg);
+}
+
+@media (max-width: 520px) {
+    .segment-tabs-wrap {
+        gap: .5rem;
+    }
+    .segment-tabs-label {
+        width: 100%;
     }
 }

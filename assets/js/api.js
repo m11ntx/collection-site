@@ -31,6 +31,7 @@ const API = (() => {
         getProducts:    () => loadJSON("products.json"),
         getClubs:       () => loadJSON("clubs.json"),
         getLeagues:     () => loadJSON("leagues.json"),
+        getRegions:     () => loadJSON("regions.json"),
         getCollections: () => loadJSON("collections.json"),
     };
 })();

@@ -29,7 +29,26 @@ const Catalog = (() => {
         return new URLSearchParams(window.location.search).get(name);
     }
 
-    function brandedMark(cls, size) {
+    // Most-recent-first sort key for a free-text `season` field (CS-23).
+    // "24/25" -> 2024, "2010/2011" -> 2010, "1998" -> 1998; unparseable/absent
+    // sorts last (-Infinity), same "never invents, degrades gracefully"
+    // spirit as everywhere else season is handled in this codebase.
+    function seasonSortKey(season) {
+        const m = String(season == null ? "" : season).match(/(\d{2,4})/);
+        if (!m) return -Infinity;
+        let year = parseInt(m[1], 10);
+        if (m[1].length === 2) year += year <= 30 ? 2000 : 1900; // "24" -> 2024, "97" -> 1997
+        return year;
+    }
+
+    // Generic, name-driven placeholder (jersey icon + monogram) for any
+    // entity without a real image yet — scales to any number of
+    // collections/leagues/clubs, no per-entity artwork needed. Falls back to
+    // the plain brand mark if ImageLoader isn't available for some reason.
+    function brandedMark(cls, size, name) {
+        if (window.ImageLoader && ImageLoader.genericMark) {
+            return ImageLoader.genericMark(name, { className: cls, width: size[0], height: size[1] });
+        }
         return `<img class="${cls}" src="assets/images/symbol.png" alt="" ` +
                `width="${size[0]}" height="${size[1]}" loading="lazy" decoding="async">`;
     }
@@ -45,17 +64,38 @@ const Catalog = (() => {
             : `assets/images/${category}/${name}`;
     }
 
-    function clubCrumbs(collection, club) {
+    function leagueCrumbs(collection, league) {
         const items = [{ name: "Home", url: "/" }, { name: "Collections", url: "/#collections" }];
         if (collection) {
             items.push({ name: collection.name, url: `/pages/collection.html?slug=${encodeURIComponent(collection.slug)}` });
+        }
+        items.push({ name: league.name, url: `/pages/league.html?slug=${encodeURIComponent(league.slug)}` });
+        return items;
+    }
+
+    function regionCrumbs(collection, league, region) {
+        const items = leagueCrumbs(collection, league);
+        items.push({ name: region.name, url: `/pages/region.html?slug=${encodeURIComponent(region.slug)}` });
+        return items;
+    }
+
+    function clubCrumbs(collection, league, region, club) {
+        const items = [{ name: "Home", url: "/" }, { name: "Collections", url: "/#collections" }];
+        if (collection) {
+            items.push({ name: collection.name, url: `/pages/collection.html?slug=${encodeURIComponent(collection.slug)}` });
+        }
+        if (league) {
+            items.push({ name: league.name, url: `/pages/league.html?slug=${encodeURIComponent(league.slug)}` });
+        }
+        if (region) {
+            items.push({ name: region.name, url: `/pages/region.html?slug=${encodeURIComponent(region.slug)}` });
         }
         items.push({ name: club.name, url: `/pages/club.html?slug=${encodeURIComponent(club.slug)}` });
         return items;
     }
 
-    function jerseyCrumbs(collection, club, jersey) {
-        const items = club ? clubCrumbs(collection, club)
+    function jerseyCrumbs(collection, league, region, club, jersey) {
+        const items = club ? clubCrumbs(collection, league, region, club)
                            : [{ name: "Home", url: "/" }, { name: "Collections", url: "/#collections" }];
         items.push({ name: jersey.name, url: `/pages/jersey.html?slug=${encodeURIComponent(jersey.slug)}` });
         return items;
@@ -69,11 +109,16 @@ const Catalog = (() => {
                 alt: c.name, className: "collection-card__photo"
             });
         }
-        return brandedMark("collection-card__mark", [150, 105]);
+        return brandedMark("collection-card__mark", [150, 105], I18N.properNoun(c.name));
+    }
+
+    function collectionHref(c) {
+        return `pages/collection.html?slug=${encodeURIComponent(c.slug)}`;
     }
 
     function collectionCard(c) {
-        const name = esc(c.name);
+        const name = esc(I18N.properNoun(c.name));
+        const cta = I18N.t("collections.exploreCta");
         return `
             <article class="collection-card reveal" role="listitem"
                      data-slug="${esc(c.slug)}" data-featured="${c.featured ? "true" : "false"}">
@@ -81,13 +126,12 @@ const Catalog = (() => {
                     <div class="collection-card__img">${collectionMedia(c)}</div>
                 </div>
                 <div class="collection-card__body">
-                    <p class="collection-card__era">${esc(c.period)}</p>
                     <h3 class="collection-card__title">${name}</h3>
                     <p class="collection-card__desc">${esc(c.description)}</p>
                     <a class="btn btn--secondary collection-card__cta"
-                       href="pages/collection.html?slug=${encodeURIComponent(c.slug)}"
-                       aria-label="Explore ${name}">
-                        Explore <span class="arrow" aria-hidden="true">&rarr;</span>
+                       href="${collectionHref(c)}"
+                       aria-label="${cta} ${name}">
+                        ${cta} <span class="arrow" aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
             </article>`;
@@ -108,18 +152,19 @@ const Catalog = (() => {
     /* ---------- club card (detail grid) ---------- */
 
     function clubMedia(club) {
+        const name = I18N.properNoun(club.name);
         if (club.image && window.ImageLoader) {
             return ImageLoader.imageTag(ImageLoader.getImage("clubs", club.image), {
-                alt: club.name, className: "club-card__photo"
+                alt: name, className: "club-card__photo"
             });
         }
-        return brandedMark("club-card__mark", [80, 56]);
+        return brandedMark("club-card__mark", [80, 56], name);
     }
 
     function clubCard(club) {
-        const name = esc(club.name);
-        const meta = [esc(club.country), club.founded ? esc(club.founded) : ""]
-            .filter(Boolean).join(" · ");
+        const name = esc(I18N.properNoun(club.name));
+        const meta = esc(club.country);
+        const cta = I18N.t("clubCard.viewJerseys");
         return `
             <article class="club-card reveal" role="listitem" data-slug="${esc(club.slug)}">
                 <div class="club-card__media">
@@ -129,8 +174,72 @@ const Catalog = (() => {
                     <h3 class="club-card__name">${name}</h3>
                     <p class="club-card__meta">${meta}</p>
                     <a class="club-card__cta" href="pages/club.html?slug=${encodeURIComponent(club.slug)}"
-                       aria-label="View ${name} jerseys">
-                        View jerseys <span class="arrow" aria-hidden="true">&rarr;</span>
+                       aria-label="${cta} — ${name}">
+                        ${cta} <span class="arrow" aria-hidden="true">&rarr;</span>
+                    </a>
+                </div>
+            </article>`;
+    }
+
+    /* ---------- league card (collection detail grid) ----------
+       Visually a league is a named entity within a collection, same shape as
+       a club within a league — reuses .club-card CSS, no new styles needed. */
+
+    function leagueMedia(league) {
+        const name = I18N.properNoun(league.name);
+        if (league.image && window.ImageLoader) {
+            return ImageLoader.imageTag(ImageLoader.getImage("leagues", league.image), {
+                alt: name, className: "club-card__photo"
+            });
+        }
+        return brandedMark("club-card__mark", [80, 56], name);
+    }
+
+    function leagueCard(league) {
+        const name = esc(I18N.properNoun(league.name));
+        const cta = I18N.t("leagueCard.viewClubs");
+        return `
+            <article class="club-card reveal" role="listitem" data-slug="${esc(league.slug)}">
+                <div class="club-card__media">
+                    <div class="club-card__img">${leagueMedia(league)}</div>
+                </div>
+                <div class="club-card__body">
+                    <h3 class="club-card__name">${name}</h3>
+                    <p class="club-card__meta">${esc(league.country)}</p>
+                    <a class="club-card__cta" href="pages/league.html?slug=${encodeURIComponent(league.slug)}"
+                       aria-label="${cta} — ${name}">
+                        ${cta} <span class="arrow" aria-hidden="true">&rarr;</span>
+                    </a>
+                </div>
+            </article>`;
+    }
+
+    /* ---------- region card (league detail grid, Brasileirão only — MI-06/CS-23) ----------
+       Same shape as club/league cards — reuses .club-card CSS, no new styles. */
+
+    function regionMedia(region) {
+        const name = I18N.properNoun(region.name);
+        if (region.image && window.ImageLoader) {
+            return ImageLoader.imageTag(ImageLoader.getImage("regions", region.image), {
+                alt: name, className: "club-card__photo"
+            });
+        }
+        return brandedMark("club-card__mark", [80, 56], name);
+    }
+
+    function regionCard(region) {
+        const name = esc(I18N.properNoun(region.name));
+        const cta = I18N.t("regionCard.viewClubs");
+        return `
+            <article class="club-card reveal" role="listitem" data-slug="${esc(region.slug)}">
+                <div class="club-card__media">
+                    <div class="club-card__img">${regionMedia(region)}</div>
+                </div>
+                <div class="club-card__body">
+                    <h3 class="club-card__name">${name}</h3>
+                    <a class="club-card__cta" href="pages/region.html?slug=${encodeURIComponent(region.slug)}"
+                       aria-label="${cta} — ${name}">
+                        ${cta} <span class="arrow" aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
             </article>`;
@@ -155,29 +264,38 @@ const Catalog = (() => {
     }
 
     function renderCollections(grid, list = []) {
-        fillGrid(grid, list, collectionCard, "No collections available yet.");
+        fillGrid(grid, list, collectionCard, I18N.t("collections.empty"));
     }
 
     function renderClubs(grid, list = []) {
-        fillGrid(grid, list, clubCard, "Clubs for this collection are coming soon.");
+        fillGrid(grid, list, clubCard, I18N.t("collectionDetail.clubsEmpty"));
+    }
+
+    function renderLeagues(grid, list = []) {
+        fillGrid(grid, list, leagueCard, I18N.t("collectionDetail.leaguesEmpty"));
+    }
+
+    function renderRegions(grid, list = []) {
+        fillGrid(grid, list, regionCard, I18N.t("leagueDetail.regionsEmpty"));
     }
 
     /* ---------- detail page ---------- */
 
-    function detailMedia(c) {
+    function detailMedia(c, category = "collections") {
+        const name = I18N.properNoun(c.name);
         if (c.image && window.ImageLoader) {
-            return ImageLoader.imageTag(ImageLoader.getImage("collections", c.image), {
-                alt: c.name, className: "detail__photo"
+            return ImageLoader.imageTag(ImageLoader.getImage(category, c.image), {
+                alt: name, className: "detail__photo"
             });
         }
-        return brandedMark("detail__mark", [220, 154]);
+        return brandedMark("detail__mark", [220, 154], name);
     }
 
     function detailTemplate(c) {
-        const name = esc(c.name);
+        const name = esc(I18N.properNoun(c.name));
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
-                <a class="breadcrumb__link" href="index.html#collections">Collections</a>
+                <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
                 <span class="breadcrumb__sep" aria-hidden="true">/</span>
                 <span class="breadcrumb__current" aria-current="page">${name}</span>
             </nav>
@@ -185,14 +303,10 @@ const Catalog = (() => {
             <header class="detail__banner">
                 <div class="detail__media">${detailMedia(c)}</div>
                 <div class="detail__overlay">
-                    ${c.featured ? `<span class="badge">Featured</span>` : ""}
-                    <p class="detail__eyebrow">Collection</p>
+                    ${c.featured ? `<span class="badge">${I18N.t("collectionDetail.featured")}</span>` : ""}
+                    <p class="detail__eyebrow">${I18N.t("collectionDetail.eyebrow")}</p>
                     <h1 class="detail__title">${name}</h1>
-                    <p class="detail__meta">
-                        <span>${esc(c.country)}</span>
-                        <span class="detail__dot" aria-hidden="true">·</span>
-                        <span>${esc(c.period)}</span>
-                    </p>
+                    ${c.country ? `<p class="detail__meta"><span>${esc(c.country)}</span></p>` : ""}
                 </div>
             </header>
 
@@ -200,13 +314,112 @@ const Catalog = (() => {
                 <p class="detail__desc">${esc(c.description)}</p>
             </div>
 
+            <section class="section" aria-labelledby="leaguesTitle">
+                <div class="section__inner">
+                    <header class="section__head">
+                        <p class="section__eyebrow">${I18N.t("collectionDetail.leaguesEyebrow")}</p>
+                        <h2 class="section__title" id="leaguesTitle">${I18N.t("collectionDetail.leaguesTitle")}</h2>
+                        <div class="section__divider"></div>
+                        <p class="section__subtitle">${I18N.t("collectionDetail.leaguesSubtitle", { name })}</p>
+                    </header>
+                    <div class="grid" id="leaguesGrid" role="list" aria-busy="true"></div>
+                </div>
+            </section>`;
+    }
+
+    function leagueDetailTemplate(league, collection, hasRegions) {
+        const name = esc(I18N.properNoun(league.name));
+        const collLink = collection
+            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(I18N.properNoun(collection.name))}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        // Most leagues list clubs directly; Brasileirão (today the only one
+        // with regions -- MI-06) lists region cards instead, one level up
+        // from clubs. Everything else about the page is unchanged either way.
+        const listSection = hasRegions
+            ? `<section class="section" aria-labelledby="regionsTitle">
+                    <div class="section__inner">
+                        <header class="section__head">
+                            <p class="section__eyebrow">${I18N.t("leagueDetail.regionsEyebrow")}</p>
+                            <h2 class="section__title" id="regionsTitle">${I18N.t("leagueDetail.regionsTitle")}</h2>
+                            <div class="section__divider"></div>
+                            <p class="section__subtitle">${I18N.t("leagueDetail.regionsSubtitle", { name })}</p>
+                        </header>
+                        <div class="grid" id="regionsGrid" role="list" aria-busy="true"></div>
+                    </div>
+               </section>`
+            : `<section class="section" aria-labelledby="clubsTitle">
+                    <div class="section__inner">
+                        <header class="section__head">
+                            <p class="section__eyebrow">${I18N.t("collectionDetail.clubsEyebrow")}</p>
+                            <h2 class="section__title" id="clubsTitle">${I18N.t("collectionDetail.clubsTitle")}</h2>
+                            <div class="section__divider"></div>
+                            <p class="section__subtitle">${I18N.t("collectionDetail.clubsSubtitle", { name })}</p>
+                        </header>
+                        <div class="grid" id="clubsGrid" role="list" aria-busy="true"></div>
+                    </div>
+               </section>`;
+        return `
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
+                <span class="breadcrumb__sep" aria-hidden="true">/</span>
+                ${collLink}
+                <span class="breadcrumb__current" aria-current="page">${name}</span>
+            </nav>
+
+            <header class="detail__banner">
+                <div class="detail__media">${detailMedia(league, "leagues")}</div>
+                <div class="detail__overlay">
+                    ${league.featured ? `<span class="badge">${I18N.t("collectionDetail.featured")}</span>` : ""}
+                    <p class="detail__eyebrow">${I18N.t("leagueDetail.eyebrow")}</p>
+                    <h1 class="detail__title">${name}</h1>
+                    ${league.country ? `<p class="detail__meta"><span>${esc(league.country)}</span></p>` : ""}
+                </div>
+            </header>
+
+            <div class="detail__intro">
+                <p class="detail__desc">${esc(league.description)}</p>
+            </div>
+
+            ${listSection}`;
+    }
+
+    /* ---------- region page (clubs) — MI-06/CS-23, mirrors the league page ---------- */
+
+    function regionDetailTemplate(region, league, collection) {
+        const name = esc(I18N.properNoun(region.name));
+        const collLink = collection
+            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(I18N.properNoun(collection.name))}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const leagueLink = league
+            ? `<a class="breadcrumb__link" href="pages/league.html?slug=${encodeURIComponent(league.slug)}">${esc(I18N.properNoun(league.name))}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        return `
+            <nav class="breadcrumb" aria-label="Breadcrumb">
+                <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
+                <span class="breadcrumb__sep" aria-hidden="true">/</span>
+                ${collLink}${leagueLink}
+                <span class="breadcrumb__current" aria-current="page">${name}</span>
+            </nav>
+
+            <header class="detail__banner">
+                <div class="detail__media">${detailMedia(region, "regions")}</div>
+                <div class="detail__overlay">
+                    <p class="detail__eyebrow">${I18N.t("regionDetail.eyebrow")}</p>
+                    <h1 class="detail__title">${name}</h1>
+                    ${region.country ? `<p class="detail__meta"><span>${esc(region.country)}</span></p>` : ""}
+                </div>
+            </header>
+
             <section class="section" aria-labelledby="clubsTitle">
                 <div class="section__inner">
                     <header class="section__head">
-                        <p class="section__eyebrow">Clubs</p>
-                        <h2 class="section__title" id="clubsTitle">Clubs</h2>
+                        <p class="section__eyebrow">${I18N.t("collectionDetail.clubsEyebrow")}</p>
+                        <h2 class="section__title" id="clubsTitle">${I18N.t("collectionDetail.clubsTitle")}</h2>
                         <div class="section__divider"></div>
-                        <p class="section__subtitle">The clubs that shaped ${name}.</p>
+                        <p class="section__subtitle">${I18N.t("collectionDetail.clubsSubtitle", { name })}</p>
                     </header>
                     <div class="grid" id="clubsGrid" role="list" aria-busy="true"></div>
                 </div>
@@ -214,25 +427,30 @@ const Catalog = (() => {
     }
 
     function renderNotFound(root, label) {
+        const labelKey = label === "League" ? "common.labelLeague"
+            : label === "Region" ? "common.labelRegion"
+            : label === "Club" ? "common.labelClub"
+            : label === "Jersey" ? "common.labelJersey" : "common.labelCollection";
         root.setAttribute("aria-busy", "false");
         root.innerHTML = `
             <div class="detail__notfound">
-                <p class="detail__eyebrow">${esc(label || "Collection")}</p>
-                <h1 class="detail__title">Not found</h1>
-                <p class="detail__desc">This ${esc((label || "collection").toLowerCase())} doesn't exist yet.</p>
-                <a class="btn btn--secondary" href="index.html#collections">Back to Collections</a>
+                <p class="detail__eyebrow">${esc(I18N.t(labelKey))}</p>
+                <h1 class="detail__title">${I18N.t("notFound.title")}</h1>
+                <p class="detail__desc">${I18N.t("notFound.desc")}</p>
+                <a class="btn btn--secondary" href="index.html#collections">${I18N.t("notFound.cta")}</a>
             </div>`;
     }
 
     /* ---------- club page (jerseys) ---------- */
 
     function clubCrest(club) {
+        const name = I18N.properNoun(club.name);
         if (club.image && window.ImageLoader) {
             return ImageLoader.imageTag(ImageLoader.getImage("clubs", club.image), {
-                alt: club.name + " crest", className: "club-hero__badge"
+                alt: name + " crest", className: "club-hero__badge"
             });
         }
-        return brandedMark("club-hero__mark", [90, 63]);
+        return brandedMark("club-hero__mark", [90, 63], name);
     }
 
     function jerseyMedia(p) {
@@ -241,17 +459,19 @@ const Catalog = (() => {
                 alt: p.name, className: "jersey-card__photo"
             });
         }
-        return brandedMark("jersey-card__mark", [110, 77]);
+        return brandedMark("jersey-card__mark", [110, 77], p.name);
     }
 
     function jerseyCard(p) {
-        const name = esc(p.name);
-        const meta = [esc(p.category), esc(p.season)].filter(Boolean).join(" · ");
+        const name = esc(I18N.translateName(p.name));
+        const meta = [esc(I18N.fieldLabel("category", p.category)), esc(p.season)]
+            .filter(Boolean).join(" · ");
+        const cta = I18N.t("jerseyCard.viewDetails");
         return `
             <article class="jersey-card reveal" role="listitem" data-id="${esc(p.id)}">
                 <div class="jersey-card__media">
                     <div class="jersey-card__img">${jerseyMedia(p)}</div>
-                    ${p.type ? `<span class="badge jersey-card__type">${esc(p.type)}</span>` : ""}
+                    ${p.type ? `<span class="badge jersey-card__type">${esc(I18N.fieldLabel("type", p.type))}</span>` : ""}
                 </div>
                 <div class="jersey-card__body">
                     <p class="jersey-card__brand">${esc(p.brand)}</p>
@@ -259,31 +479,40 @@ const Catalog = (() => {
                     <p class="jersey-card__meta">${meta}</p>
                     <a class="btn btn--secondary jersey-card__cta"
                        href="pages/jersey.html?slug=${encodeURIComponent(p.slug)}"
-                       aria-label="View details of ${name}">
-                        View Details <span class="arrow" aria-hidden="true">&rarr;</span>
+                       aria-label="${cta} — ${name}">
+                        ${cta} <span class="arrow" aria-hidden="true">&rarr;</span>
                     </a>
                 </div>
             </article>`;
     }
 
     function renderJerseys(grid, list = []) {
-        fillGrid(grid, list, jerseyCard, "No jerseys in this archive yet.");
+        fillGrid(grid, list, jerseyCard, I18N.t("clubDetail.empty"));
     }
 
-    function clubDetailTemplate(club, collection, leagueName, count) {
-        const name = esc(club.name);
+    function clubDetailTemplate(club, league, region, collection, count) {
+        const name = esc(I18N.properNoun(club.name));
         const collLink = collection
-            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(collection.name)}</a>
+            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(I18N.properNoun(collection.name))}</a>
                <span class="breadcrumb__sep" aria-hidden="true">/</span>`
             : "";
-        const meta = [esc(club.country), club.founded ? "Founded " + esc(club.founded) : ""]
-            .filter(Boolean).join(" · ");
-        const countLabel = count + (count === 1 ? " jersey" : " jerseys");
+        const leagueLink = league
+            ? `<a class="breadcrumb__link" href="pages/league.html?slug=${encodeURIComponent(league.slug)}">${esc(I18N.properNoun(league.name))}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const regionLink = region
+            ? `<a class="breadcrumb__link" href="pages/region.html?slug=${encodeURIComponent(region.slug)}">${esc(I18N.properNoun(region.name))}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const meta = esc(club.country);
+        const unit = count === 1 ? I18N.t("clubDetail.jerseySingular") : I18N.t("clubDetail.jerseyPlural");
+        const countLabel = count + " " + unit;
+        const leagueName = league ? I18N.properNoun(league.name) : "";
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
-                <a class="breadcrumb__link" href="index.html#collections">Collections</a>
+                <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
                 <span class="breadcrumb__sep" aria-hidden="true">/</span>
-                ${collLink}
+                ${collLink}${leagueLink}${regionLink}
                 <span class="breadcrumb__current" aria-current="page">${name}</span>
             </nav>
 
@@ -293,8 +522,7 @@ const Catalog = (() => {
                     <p class="detail__eyebrow">${esc(leagueName)}</p>
                     <h1 class="detail__title">${name}</h1>
                     <p class="detail__meta">
-                        <span>${meta}</span>
-                        <span class="detail__dot" aria-hidden="true">·</span>
+                        ${meta ? `<span>${meta}</span><span class="detail__dot" aria-hidden="true">·</span>` : ""}
                         <span>${countLabel}</span>
                     </p>
                 </div>
@@ -303,11 +531,12 @@ const Catalog = (() => {
             <section class="section" aria-labelledby="jerseysTitle">
                 <div class="section__inner">
                     <header class="section__head">
-                        <p class="section__eyebrow">Archive</p>
-                        <h2 class="section__title" id="jerseysTitle">Jerseys</h2>
+                        <p class="section__eyebrow">${I18N.t("clubDetail.archiveEyebrow")}</p>
+                        <h2 class="section__title" id="jerseysTitle">${I18N.t("clubDetail.jerseysTitle")}</h2>
                         <div class="section__divider"></div>
-                        <p class="section__subtitle">${countLabel} in the ${name} archive.</p>
+                        <p class="section__subtitle">${I18N.t("clubDetail.jerseysSubtitle", { countLabel, name })}</p>
                     </header>
+                    <div id="segmentTabs"></div>
                     <div class="grid" id="jerseysGrid" role="list" aria-busy="true"></div>
                 </div>
             </section>`;
@@ -331,7 +560,7 @@ const Catalog = (() => {
                 <div class="gallery">
                     <div class="gallery__main">
                         <div class="gallery__stage gallery__stage--placeholder">
-                            ${brandedMark("gallery__mark", [220, 154])}
+                            ${brandedMark("gallery__mark", [220, 154], p.name)}
                         </div>
                     </div>
                 </div>`;
@@ -357,20 +586,31 @@ const Catalog = (() => {
             : "";
     }
 
-    function jerseyDetailTemplate(p, club, collection) {
-        const name = esc(p.name);
+    function jerseyDetailTemplate(p, club, league, region, collection) {
+        const name = esc(I18N.translateName(p.name));
+        const collName = collection ? esc(I18N.properNoun(collection.name)) : "";
+        const leagueName = league ? esc(I18N.properNoun(league.name)) : "";
+        const clubName = club ? esc(I18N.properNoun(club.name)) : "";
         const clubLink = club
-            ? `<a class="link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${esc(club.name)}</a>`
+            ? `<a class="link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${clubName}</a>`
             : "";
-        const leagueLink = collection
-            ? `<a class="link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(collection.name)}</a>`
+        const leagueLink = league
+            ? `<a class="link" href="pages/league.html?slug=${encodeURIComponent(league.slug)}">${leagueName}</a>`
             : "";
         const crumbColl = collection
-            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${esc(collection.name)}</a>
+            ? `<a class="breadcrumb__link" href="pages/collection.html?slug=${encodeURIComponent(collection.slug)}">${collName}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const crumbLeague = league
+            ? `<a class="breadcrumb__link" href="pages/league.html?slug=${encodeURIComponent(league.slug)}">${leagueName}</a>
+               <span class="breadcrumb__sep" aria-hidden="true">/</span>`
+            : "";
+        const crumbRegion = region
+            ? `<a class="breadcrumb__link" href="pages/region.html?slug=${encodeURIComponent(region.slug)}">${esc(I18N.properNoun(region.name))}</a>
                <span class="breadcrumb__sep" aria-hidden="true">/</span>`
             : "";
         const crumbClub = club
-            ? `<a class="breadcrumb__link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${esc(club.name)}</a>
+            ? `<a class="breadcrumb__link" href="pages/club.html?slug=${encodeURIComponent(club.slug)}">${clubName}</a>
                <span class="breadcrumb__sep" aria-hidden="true">/</span>`
             : "";
         const lead = [clubLink, leagueLink].filter(Boolean).join(" · ");
@@ -383,9 +623,9 @@ const Catalog = (() => {
 
         const sizesBlock = sizeList.length
             ? `<div class="sizes">
-                   <p class="sizes__label">Sizes</p>
+                   <p class="sizes__label">${I18N.t("jerseyDetail.sizesLabel")}</p>
                    <div class="sizes__list">
-                       ${sizeList.map((s) => `<span class="size-chip">${esc(s.size)}</span>`).join("")}
+                       ${sizeList.map((s) => `<span class="size-chip">${esc(I18N.sizeLabel(s.size))}</span>`).join("")}
                    </div>
                </div>`
             : "";
@@ -394,35 +634,35 @@ const Catalog = (() => {
         // service channel). Replaces any legacy buy button.
         const consult = `<a class="btn btn--primary jersey__consult" href="${esc(INSTAGRAM_URL)}"
                             target="_blank" rel="noopener"
-                            aria-label="Consultar disponibilidade de ${name} no Instagram da M11NTX">
-                            Consultar Disponibilidade
+                            aria-label="${I18N.t("jerseyDetail.consultAriaLabel", { name })}">
+                            ${I18N.t("jerseyDetail.consultCta")}
                             <span class="arrow" aria-hidden="true">&rarr;</span></a>`;
 
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
-                <a class="breadcrumb__link" href="index.html#collections">Collections</a>
+                <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
                 <span class="breadcrumb__sep" aria-hidden="true">/</span>
-                ${crumbColl}${crumbClub}
+                ${crumbColl}${crumbLeague}${crumbRegion}${crumbClub}
                 <span class="breadcrumb__current" aria-current="page">${name}</span>
             </nav>
 
             <div class="jersey">
                 <div class="jersey__gallery">${jerseyGallery(p)}</div>
                 <div class="jersey__info">
-                    <p class="detail__eyebrow">Jersey</p>
+                    <p class="detail__eyebrow">${I18N.t("jerseyDetail.eyebrow")}</p>
                     <h1 class="detail__title">${name}</h1>
                     ${lead ? `<p class="jersey__lead">${lead}</p>` : ""}
                     <dl class="specs">
-                        ${specRow("Brand", esc(p.brand))}
-                        ${specRow("Type", esc(p.type))}
-                        ${specRow("Category", esc(p.category))}
-                        ${specRow("Season", esc(p.season))}
-                        ${specRow("Version", esc(p.version))}
-                        ${specRow("Gender", esc(p.gender))}
+                        ${specRow(I18N.t("jerseyDetail.specBrand"), esc(p.brand))}
+                        ${specRow(I18N.t("jerseyDetail.specType"), esc(I18N.fieldLabel("type", p.type)))}
+                        ${specRow(I18N.t("jerseyDetail.specCategory"), esc(I18N.fieldLabel("category", p.category)))}
+                        ${specRow(I18N.t("jerseyDetail.specSeason"), esc(p.season))}
+                        ${specRow(I18N.t("jerseyDetail.specVersion"), esc(I18N.fieldLabel("version", p.version)))}
+                        ${specRow(I18N.t("jerseyDetail.specGender"), esc(I18N.fieldLabel("gender", p.gender)))}
                     </dl>
                     ${sizesBlock}
                     ${consult}
-                    <p class="jersey__note">Importação sob consulta · Prazo estimado 25–40 dias corridos</p>
+                    <p class="jersey__note">${I18N.t("jerseyDetail.note")}</p>
                 </div>
             </div>
 
@@ -431,81 +671,28 @@ const Catalog = (() => {
 
     /* ---------- customer journey (CS-11) ----------
        M11NTX is an intermediary — no direct sales, nothing resembling a
-       traditional e-commerce. Static, premium, transparent. */
-
-    const JOURNEY_STEPS = [
-        { n: 1, label: "Explore the Jersey" },
-        { n: 2, label: "Contact M11NTX" },
-        { n: 3, label: "Availability Confirmation" },
-        { n: 4, label: "International Import" },
-        { n: 5, label: "Estimated delivery", sub: "25–40 dias corridos" }
-    ];
-
-    const FAQ_ITEMS = [
-        {
-            q: "Qual é o prazo de entrega?",
-            a: "O prazo estimado é de 25–40 dias corridos, contados após a confirmação " +
-               "da disponibilidade e do atendimento. Por se tratar de importação, pequenas " +
-               "variações podem ocorrer."
-        },
-        {
-            q: "Como funciona a disponibilidade?",
-            a: "A disponibilidade de cada camisa é confirmada individualmente antes do " +
-               "atendimento. Ao consultar, verificamos a peça, o tamanho e a versão desejada."
-        },
-        {
-            q: "Como funciona a compra?",
-            a: "A M11NTX atua como intermediadora na aquisição de camisas importadas. " +
-               "Você escolhe a peça, consulta a disponibilidade pelo nosso Instagram e " +
-               "conduzimos todo o processo de importação até a entrega."
-        },
-        {
-            q: "Como falo com a M11NTX?",
-            a: "Todo o atendimento é feito pelo nosso Instagram oficial. Toque em " +
-               "“Consultar Disponibilidade” para iniciar a conversa."
-        }
-    ];
-
-    function journeySteps() {
-        return JOURNEY_STEPS.map((s) => `
-            <li class="step">
-                <span class="step__num" aria-hidden="true">${s.n}</span>
-                <div class="step__body">
-                    <h3 class="step__label">${esc(s.label)}</h3>
-                    ${s.sub ? `<p class="step__sub">${esc(s.sub)}</p>` : ""}
-                </div>
-            </li>`).join("");
-    }
-
-    function faqItems() {
-        return FAQ_ITEMS.map((f) => `
-            <details class="faq__item">
-                <summary class="faq__q">${esc(f.q)}<span class="faq__icon" aria-hidden="true"></span></summary>
-                <div class="faq__a"><p>${esc(f.a)}</p></div>
-            </details>`).join("");
-    }
+       traditional e-commerce. Static, premium, transparent. Steps + FAQ come
+       from I18N.t("journey.steps"/"journey.faq") — the single source shared
+       with pages/how-it-works.html and pages/faq.html (CS-19). */
 
     function journeySections() {
         return `
             <section class="section journey" aria-labelledby="journeyTitle">
                 <div class="section__inner">
                     <header class="section__head">
-                        <p class="section__eyebrow">Journey</p>
-                        <h2 class="section__title" id="journeyTitle">How It Works</h2>
+                        <p class="section__eyebrow">${I18N.t("journey.eyebrow")}</p>
+                        <h2 class="section__title" id="journeyTitle">${I18N.t("journey.title")}</h2>
                         <div class="section__divider"></div>
                     </header>
 
-                    <ol class="steps">${journeySteps()}</ol>
+                    <ol class="steps">${I18N.renderStepsHtml()}</ol>
 
                     <aside class="import-info" aria-labelledby="importTitle">
-                        <p class="section__eyebrow" id="importTitle">Import Information</p>
-                        <p class="import-info__text">
-                            A M11NTX atua como intermediadora na aquisição de camisas importadas.
-                            A disponibilidade será confirmada antes do atendimento.
-                        </p>
+                        <p class="section__eyebrow" id="importTitle">${I18N.t("journey.importInfoEyebrow")}</p>
+                        <p class="import-info__text">${esc(I18N.t("journey.importInfoText"))}</p>
                         <div class="import-info__delivery">
-                            <span class="import-info__delivery-label">Prazo estimado</span>
-                            <span class="import-info__delivery-value">25–40 dias corridos</span>
+                            <span class="import-info__delivery-label">${I18N.t("journey.deliveryLabel")}</span>
+                            <span class="import-info__delivery-value">${I18N.t("journey.deliveryValue")}</span>
                         </div>
                     </aside>
                 </div>
@@ -514,11 +701,11 @@ const Catalog = (() => {
             <section class="section faq" aria-labelledby="faqTitle">
                 <div class="section__inner">
                     <header class="section__head">
-                        <p class="section__eyebrow">FAQ</p>
-                        <h2 class="section__title" id="faqTitle">Perguntas Frequentes</h2>
+                        <p class="section__eyebrow">${I18N.t("journey.faqEyebrow")}</p>
+                        <h2 class="section__title" id="faqTitle">${I18N.t("journey.faqTitle")}</h2>
                         <div class="section__divider"></div>
                     </header>
-                    <div class="faq__list">${faqItems()}</div>
+                    <div class="faq__list">${I18N.renderFaqHtml()}</div>
                 </div>
             </section>`;
     }
@@ -571,13 +758,167 @@ const Catalog = (() => {
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
 
-        // clubs belonging to this collection (data-driven, scalable filter)
-        const grid = document.getElementById("clubsGrid");
-        const clubs = await API.getClubs();
-        const forCollection = Array.isArray(clubs)
-            ? clubs.filter((cl) => cl.collection === slug)
+        // leagues belonging to this collection (data-driven, scalable filter)
+        const grid = document.getElementById("leaguesGrid");
+        const leagues = await API.getLeagues();
+        const forCollection = Array.isArray(leagues)
+            ? leagues.filter((l) => l.collection === slug)
             : [];
-        renderClubs(grid, forCollection);
+        renderLeagues(grid, forCollection);
+    }
+
+    async function initLeaguePage() {
+        const root = document.getElementById("leagueDetail");
+        if (!root) return;
+
+        const slug = getParam("slug");
+        const [leagues, collections, regions, clubs] = await Promise.all([
+            API.getLeagues(), API.getCollections(), API.getRegions(), API.getClubs()
+        ]);
+
+        const league = Array.isArray(leagues) ? leagues.find((l) => l.slug === slug) : null;
+        if (!league) {
+            renderNotFound(root, "League");
+            if (window.SEO) SEO.set({ title: "Not found | M11NTX", robots: "noindex, follow" });
+            return;
+        }
+
+        const collection = Array.isArray(collections)
+            ? collections.find((c) => c.slug === league.collection)
+            : null;
+        // Most leagues list clubs directly; a league with regions (Brasileirão
+        // today -- MI-06) lists region cards instead, one level up from clubs.
+        const forLeagueRegions = Array.isArray(regions)
+            ? regions.filter((r) => r.league === slug)
+            : [];
+
+        document.title = `M11NTX | ${league.name}`;
+        if (window.SEO) {
+            SEO.set({
+                title: `M11NTX | ${league.name}`,
+                description: league.description,
+                canonical: `/pages/league.html?slug=${encodeURIComponent(slug)}`,
+                image: seoImage("leagues", league.image),
+                imageAlt: league.name
+            });
+            SEO.breadcrumb(leagueCrumbs(collection, league));
+        }
+        root.innerHTML = leagueDetailTemplate(league, collection, forLeagueRegions.length > 0);
+        root.setAttribute("aria-busy", "false");
+        if (window.ImageLoader) ImageLoader.hydrate(root);
+
+        if (forLeagueRegions.length) {
+            renderRegions(document.getElementById("regionsGrid"), forLeagueRegions);
+        } else {
+            // clubs belonging to this league (data-driven, scalable filter)
+            const forLeague = Array.isArray(clubs)
+                ? clubs.filter((cl) => cl.league === slug)
+                : [];
+            renderClubs(document.getElementById("clubsGrid"), forLeague);
+        }
+    }
+
+    async function initRegionPage() {
+        const root = document.getElementById("regionDetail");
+        if (!root) return;
+
+        const slug = getParam("slug");
+        const [regions, leagues, collections, clubs] = await Promise.all([
+            API.getRegions(), API.getLeagues(), API.getCollections(), API.getClubs()
+        ]);
+
+        const region = Array.isArray(regions) ? regions.find((r) => r.slug === slug) : null;
+        if (!region) {
+            renderNotFound(root, "Region");
+            if (window.SEO) SEO.set({ title: "Not found | M11NTX", robots: "noindex, follow" });
+            return;
+        }
+
+        const league = Array.isArray(leagues) ? leagues.find((l) => l.slug === region.league) : null;
+        const collection = league && Array.isArray(collections)
+            ? collections.find((c) => c.slug === league.collection)
+            : null;
+
+        document.title = `M11NTX | ${region.name}`;
+        if (window.SEO) {
+            SEO.set({
+                title: `M11NTX | ${region.name}`,
+                description: region.description,
+                canonical: `/pages/region.html?slug=${encodeURIComponent(slug)}`,
+                image: seoImage("regions", region.image),
+                imageAlt: region.name
+            });
+            SEO.breadcrumb(regionCrumbs(collection, league, region));
+        }
+        root.innerHTML = regionDetailTemplate(region, league, collection);
+        root.setAttribute("aria-busy", "false");
+        if (window.ImageLoader) ImageLoader.hydrate(root);
+
+        // clubs belonging to this region (data-driven, scalable filter)
+        const grid = document.getElementById("clubsGrid");
+        const forRegion = Array.isArray(clubs)
+            ? clubs.filter((cl) => cl.region === slug)
+            : [];
+        renderClubs(grid, forRegion);
+    }
+
+    /* ---------- segment tabs: Fan/Player/Women/Retro/Kids within a club (MI-33) ---------- */
+    // Not a new hierarchy level and not the multi-facet Filters sidebar --
+    // a lightweight, single-choice re-filter of the club's own already-
+    // fetched jersey list. Built from fields the canonical model already
+    // has (version/gender/category) -- no new data needed per club.
+    const SEGMENTS = [
+        { key: "all", labelKey: "segmentAll", match: () => true },
+        { key: "fan", labelKey: "segmentFan", match: (p) => p.version === "Fan" },
+        { key: "player", labelKey: "segmentPlayer", match: (p) => p.version === "Player" },
+        { key: "women", labelKey: "segmentWomen", match: (p) => p.gender === "Women" },
+        { key: "retro", labelKey: "segmentRetro", match: (p) => p.category === "Retro" },
+        { key: "kids", labelKey: "segmentKids", match: (p) => p.gender === "Kids" },
+    ];
+
+    function filterBySegment(jerseys, key) {
+        const seg = SEGMENTS.find((s) => s.key === key) || SEGMENTS[0];
+        return jerseys.filter(seg.match);
+    }
+
+    function segmentTabsTemplate(jerseys, activeKey) {
+        // Only show a segment with at least one match for THIS club -- "All"
+        // and "Fan" always qualify today; Player/Women/Retro/Kids appear on
+        // their own, with zero hardcoding, the moment those menus are
+        // imported for a given club.
+        const visible = SEGMENTS.filter((s) => s.key === "all" || jerseys.some(s.match));
+        if (visible.length <= 1) return "";
+        const btns = visible.map((s) => {
+            const count = s.key === "all" ? jerseys.length : jerseys.filter(s.match).length;
+            const pressed = s.key === activeKey ? "true" : "false";
+            return `
+                <button type="button" class="segment-tabs__btn" data-segment="${s.key}"
+                        aria-pressed="${pressed}">
+                    ${esc(I18N.t(`clubDetail.${s.labelKey}`))}
+                    <span class="segment-tabs__count">${count}</span>
+                </button>`;
+        }).join("");
+        return `
+            <div class="segment-tabs-wrap">
+                <span class="segment-tabs-label">${esc(I18N.t("clubDetail.segmentFilterLabel"))}</span>
+                <div class="segment-tabs" role="tablist" aria-label="${esc(I18N.t("clubDetail.jerseysTitle"))}">${btns}</div>
+            </div>`;
+    }
+
+    function mountSegmentTabs(container, grid, jerseys) {
+        if (!container) return;
+        let active = "all";
+        const render = () => {
+            container.innerHTML = segmentTabsTemplate(jerseys, active);
+            renderJerseys(grid, filterBySegment(jerseys, active));
+        };
+        container.addEventListener("click", (e) => {
+            const btn = e.target.closest(".segment-tabs__btn");
+            if (!btn) return;
+            active = btn.dataset.segment;
+            render();
+        });
+        render();
     }
 
     async function initClubPage() {
@@ -585,8 +926,8 @@ const Catalog = (() => {
         if (!root) return;
 
         const slug = getParam("slug");
-        const [clubs, collections, products] = await Promise.all([
-            API.getClubs(), API.getCollections(), API.getProducts()
+        const [clubs, leagues, regions, collections, products] = await Promise.all([
+            API.getClubs(), API.getLeagues(), API.getRegions(), API.getCollections(), API.getProducts()
         ]);
 
         const club = Array.isArray(clubs) ? clubs.find((c) => c.slug === slug) : null;
@@ -596,15 +937,18 @@ const Catalog = (() => {
             return;
         }
 
-        const collection = Array.isArray(collections)
-            ? collections.find((c) => c.slug === club.collection)
+        const league = Array.isArray(leagues) ? leagues.find((l) => l.slug === club.league) : null;
+        const region = Array.isArray(regions) ? regions.find((r) => r.slug === club.region) : null;
+        const collection = league && Array.isArray(collections)
+            ? collections.find((c) => c.slug === league.collection)
             : null;
-        const leagueName = collection ? collection.name : (club.collection || "");
+        const leagueName = league ? league.name : (club.league || "");
 
-        // jerseys belonging to this club (data-driven, scalable filter)
-        const jerseys = Array.isArray(products)
+        // jerseys belonging to this club (data-driven, scalable filter),
+        // newest season first (CS-23)
+        const jerseys = (Array.isArray(products)
             ? products.filter((p) => p.clubId === club.id)
-            : [];
+            : []).sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
 
         document.title = `M11NTX | ${club.name}`;
         if (window.SEO) {
@@ -617,14 +961,14 @@ const Catalog = (() => {
                 image: seoImage("clubs", club.image),
                 imageAlt: `${club.name} crest`
             });
-            SEO.breadcrumb(clubCrumbs(collection, club));
+            SEO.breadcrumb(clubCrumbs(collection, league, region, club));
         }
         if (window.Analytics) Analytics.track.clubView(slug);
-        root.innerHTML = clubDetailTemplate(club, collection, leagueName, jerseys.length);
+        root.innerHTML = clubDetailTemplate(club, league, region, collection, jerseys.length);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
 
-        renderJerseys(document.getElementById("jerseysGrid"), jerseys);
+        mountSegmentTabs(document.getElementById("segmentTabs"), document.getElementById("jerseysGrid"), jerseys);
     }
 
     async function initJerseyPage() {
@@ -632,8 +976,8 @@ const Catalog = (() => {
         if (!root) return;
 
         const slug = getParam("slug");
-        const [products, clubs, collections] = await Promise.all([
-            API.getProducts(), API.getClubs(), API.getCollections()
+        const [products, clubs, leagues, regions, collections] = await Promise.all([
+            API.getProducts(), API.getClubs(), API.getLeagues(), API.getRegions(), API.getCollections()
         ]);
 
         const jersey = Array.isArray(products) ? products.find((p) => p.slug === slug) : null;
@@ -644,8 +988,14 @@ const Catalog = (() => {
         }
 
         const club = Array.isArray(clubs) ? clubs.find((c) => c.id === jersey.clubId) : null;
-        const collection = club && Array.isArray(collections)
-            ? collections.find((c) => c.slug === club.collection)
+        const league = club && Array.isArray(leagues)
+            ? leagues.find((l) => l.slug === club.league)
+            : null;
+        const region = club && Array.isArray(regions)
+            ? regions.find((r) => r.slug === club.region)
+            : null;
+        const collection = league && Array.isArray(collections)
+            ? collections.find((c) => c.slug === league.collection)
             : null;
 
         document.title = `M11NTX | ${jersey.name}`;
@@ -660,22 +1010,124 @@ const Catalog = (() => {
                 image: seoImage("jerseys", (Array.isArray(jersey.images) && jersey.images[0]) || jersey.image),
                 imageAlt: jersey.name
             });
-            SEO.breadcrumb(jerseyCrumbs(collection, club, jersey));
+            SEO.breadcrumb(jerseyCrumbs(collection, league, region, club, jersey));
         }
         if (window.Analytics) {
             Analytics.track.jerseyView(slug, { club: club ? club.slug : "", brand: jersey.brand });
         }
-        root.innerHTML = jerseyDetailTemplate(jersey, club, collection);
+        root.innerHTML = jerseyDetailTemplate(jersey, club, league, region, collection);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
 
-        // hand off to UI to wire the gallery (swap / fade / zoom)
+        // hand off to UI to wire the gallery (swap / fade)
         document.dispatchEvent(new CustomEvent("jersey:rendered", { detail: { root } }));
     }
 
+    /* ---------- catalog page: full jersey archive with filters (CS-21) ---------- */
+
+    async function initCatalogPage() {
+        const root = document.getElementById("filterControls");
+        const grid = document.getElementById("jerseysGrid");
+        if (!root || !grid) return;
+
+        const titleKey = "catalogPage.title";
+        const eyebrowKey = "catalogPage.eyebrow";
+        const subtitleKey = "catalogPage.subtitle";
+
+        document.title = `M11NTX | ${I18N.t(titleKey)}`;
+        const titleEl = document.getElementById("catalogPageTitle");
+        const eyebrowEl = document.getElementById("catalogPageEyebrow");
+        const subtitleEl = document.getElementById("catalogPageSubtitle");
+        if (titleEl) titleEl.textContent = I18N.t(titleKey);
+        if (eyebrowEl) eyebrowEl.textContent = I18N.t(eyebrowKey);
+        if (subtitleEl) subtitleEl.textContent = I18N.t(subtitleKey);
+        if (window.SEO) {
+            SEO.set({
+                title: `M11NTX | ${I18N.t(titleKey)}`,
+                description: I18N.t(subtitleKey),
+                canonical: "/pages/catalog.html",
+            });
+        }
+        renderSkeletons(grid);
+        if (!window.Filters || !window.API) {
+            grid.innerHTML = "";
+            return;
+        }
+        // Fetch here (instead of letting Filters.attach do it) so the default,
+        // unfiltered view is newest-season-first (CS-23) from the first paint.
+        const [products, clubs, collections, leagues] = await Promise.all([
+            API.getProducts(), API.getClubs(), API.getCollections(), API.getLeagues()
+        ]);
+        const sorted = [...products].sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+        await Filters.attach({
+            controls: "filterControls", list: "jerseysGrid", hideSingle: true,
+            data: { products: sorted, clubs, collections, leagues },
+        });
+    }
+
+    /* ---------- site search (CS-21) ---------- */
+    // Reuses the same enriched-product shape as the flat catalog + Filters/
+    // Search engines already tested in filters.test.js / search.test.js —
+    // no new matching logic, just wiring + a results template.
+
+    const SEARCH_RESULT_LIMIT = 8;
+
+    function searchResultRow(p) {
+        const name = esc(I18N.translateName(p.name));
+        const meta = [esc(p.clubName), esc(p.leagueName), esc(p.season)]
+            .filter(Boolean).join(" · ");
+        return `
+            <li class="search__item">
+                <a class="search__result" href="pages/jersey.html?slug=${encodeURIComponent(p.slug)}">
+                    <div class="search__result-media">${jerseyMedia(p)}</div>
+                    <div class="search__result-body">
+                        <p class="search__result-name">${name}</p>
+                        ${meta ? `<p class="search__result-meta">${meta}</p>` : ""}
+                    </div>
+                </a>
+            </li>`;
+    }
+
+    function renderSearchResults(res) {
+        const root = document.getElementById("searchResults");
+        if (!root) return;
+        const query = String((res && res.query) || "").trim();
+
+        if (!query) {
+            root.innerHTML = `<p class="search__hint" data-i18n="search.hint">${esc(I18N.t("search.hint"))}</p>`;
+            return;
+        }
+        if (!res.count) {
+            root.innerHTML = `<p class="search__hint">${esc(I18N.t("search.noResults", { query: query }))}</p>`;
+            return;
+        }
+
+        const label = I18N.t(res.count === 1 ? "search.resultSingular" : "search.resultPlural");
+        const rows = res.items.slice(0, SEARCH_RESULT_LIMIT).map(searchResultRow).join("");
+        root.innerHTML = `
+            <p class="search__count">${res.count} ${esc(label)}</p>
+            <ul class="search__list">${rows}</ul>`;
+        if (window.ImageLoader) ImageLoader.hydrate(root);
+    }
+
+    // Wired from any page that renders the search overlay (nav is global —
+    // see main.js). Loads the same JSON every other page already fetches;
+    // no dedicated search index/endpoint needed at this catalog size.
+    async function initSiteSearch() {
+        const input = document.getElementById("searchInput");
+        if (!input || !window.API || !window.Filters || !window.Search) return;
+
+        const [products, clubs, leagues, collections] = await Promise.all([
+            API.getProducts(), API.getClubs(), API.getLeagues(), API.getCollections()
+        ]);
+        const engine = Search.create({ items: Filters.enrich(products, { clubs, leagues, collections }) });
+        Search.mount(engine, input, { onChange: renderSearchResults });
+    }
+
     return {
-        init, initDetail, initClubPage, initJerseyPage,
-        renderSkeletons, renderCollections, renderClubs, renderJerseys
+        init, initDetail, initLeaguePage, initRegionPage, initClubPage, initJerseyPage,
+        initCatalogPage, initSiteSearch,
+        renderSkeletons, renderCollections, renderLeagues, renderRegions, renderClubs, renderJerseys
     };
 })();
 

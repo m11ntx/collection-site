@@ -122,6 +122,40 @@ Pass a field list (keys or accessor functions) to `matcher`, `match`, or
 Search.matcher(["name", "clubName", (i) => i.type]);   // also search Home/Away
 ```
 
+## Site-wide integration (CS-21)
+
+The nav search overlay (`#searchOverlay` / `#searchInput` / `#searchResults`,
+present on every page including the 7 institutional pages) is wired by
+`Catalog.initSiteSearch()` in `assets/js/catalog.js`, called from `main.js`
+whenever `#searchInput` exists:
+
+```js
+async function initSiteSearch() {
+    const input = document.getElementById("searchInput");
+    if (!input || !window.API || !window.Filters || !window.Search) return;
+    const [products, clubs, leagues, collections] = await Promise.all([
+        API.getProducts(), API.getClubs(), API.getLeagues(), API.getCollections()
+    ]);
+    const engine = Search.create({ items: Filters.enrich(products, { clubs, leagues, collections }) });
+    Search.mount(engine, input, { onChange: renderSearchResults });
+}
+```
+
+`renderSearchResults(res)` writes into `#searchResults`:
+- empty query → the static hint (`search.hint`)
+- `res.count === 0` → the localized no-results message (`search.noResults`,
+  interpolates `{query}`)
+- otherwise → a result count (`search.resultSingular`/`resultPlural`) plus up
+  to 8 rows (`searchResultRow`), each a jersey thumbnail (reuses
+  `jerseyMedia()`, including the CS-21 generic-mark fallback) linking to
+  `pages/jersey.html?slug=...`, with club/league/season as secondary text.
+
+This intentionally searches **jerseys only** (via the same enriched-product
+fields listed above) rather than clubs/leagues/collections as separate result
+types — typing a club or league name already surfaces every jersey that
+belongs to it, which covers the "search clubs, leagues, jerseys" placeholder
+copy without a second result taxonomy.
+
 ## Tests
 
 Zero-dependency, runnable two ways:

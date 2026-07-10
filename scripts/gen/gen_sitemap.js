@@ -36,6 +36,8 @@ function urlFor(pathPart) {
 const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD
 
 const collections = readJSON("collections.json");
+const leagues = readJSON("leagues.json");
+const regions = readJSON("regions.json");
 const clubs = readJSON("clubs.json");
 const products = readJSON("products.json");
 
@@ -52,6 +54,10 @@ add(urlFor("/"), "1.0", "weekly");
 
 collections.forEach((c) =>
     add(urlFor("/pages/collection.html?slug=" + encodeURIComponent(c.slug)), "0.8", "weekly"));
+leagues.forEach((l) =>
+    add(urlFor("/pages/league.html?slug=" + encodeURIComponent(l.slug)), "0.7", "weekly"));
+regions.forEach((r) =>
+    add(urlFor("/pages/region.html?slug=" + encodeURIComponent(r.slug)), "0.65", "weekly"));
 clubs.forEach((c) =>
     add(urlFor("/pages/club.html?slug=" + encodeURIComponent(c.slug)), "0.6", "weekly"));
 products.forEach((p) =>
@@ -74,5 +80,6 @@ const xml =
 
 fs.writeFileSync(path.join(ROOT, "sitemap.xml"), xml, "utf8");
 console.log("sitemap.xml written with " + urls.length + " URLs (" +
-    collections.length + " collections, " + clubs.length + " clubs, " +
+    collections.length + " collections, " + leagues.length + " leagues, " +
+    regions.length + " regions, " + clubs.length + " clubs, " +
     products.length + " jerseys).");

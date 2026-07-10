@@ -91,10 +91,10 @@ collection-site/
 │   │   └── (brand assets: logo, hero, escudo, symbol, favicons…)
 │   └── icons/                   # favicon pack + webmanifest
 ├── data/
-│   ├── collections.json         # collections (populated)
-│   ├── clubs.json               # clubs, linked to collections (populated)
-│   ├── products.json            # jerseys, linked to clubs (populated)
-│   └── leagues.json             # []  (ready)
+│   ├── collections.json         # top level: region/continent (populated)
+│   ├── leagues.json             # linked to collections (populated)
+│   ├── clubs.json               # linked to leagues + collections (populated)
+│   └── products.json            # jerseys, linked to clubs (populated)
 ├── components/                  # reserved
 ├── tests/                       # zero-dep tests (Node + browser)
 │   ├── filters.test.js
@@ -130,11 +130,23 @@ collection-site/
 
 | field         | type    | description                          |
 |---------------|---------|--------------------------------------|
-| `id`          | number  | unique id                            |
+| `id`          | string  | unique id                            |
+| `slug`        | string  | url-safe identifier                  |
+| `name`        | string  | region/continent name (e.g. `Europa`) |
+| `country`     | string \| null | country, or `null` when it spans several |
+| `description` | string  | short description                    |
+| `image`       | string  | image name/slug/path (empty = branded placeholder) |
+| `featured`    | boolean | highlight flag                       |
+
+### League (`data/leagues.json`)
+
+| field         | type    | description                          |
+|---------------|---------|--------------------------------------|
+| `id`          | string  | unique id                            |
 | `slug`        | string  | url-safe identifier                  |
 | `name`        | string  | competition name                     |
+| `collection`  | string  | parent collection slug (used to filter) |
 | `country`     | string  | country                              |
-| `period`      | string  | historical period (e.g. `1988 – 1998`) |
 | `description` | string  | short description                    |
 | `image`       | string  | image name/slug/path (empty = branded placeholder) |
 | `featured`    | boolean | highlight flag                       |
@@ -146,9 +158,9 @@ collection-site/
 | `id`         | number  | unique id                                     |
 | `slug`       | string  | url-safe identifier                           |
 | `name`       | string  | club name                                     |
-| `collection` | string  | parent collection slug (used to filter)       |
+| `league`     | string  | parent league slug (used to filter)           |
+| `collection` | string  | top-level collection slug (denormalized, for the collection→league→club chain) |
 | `country`    | string  | country                                       |
-| `founded`    | number  | year founded                                  |
 | `image`      | string  | image name/slug/path (empty = branded placeholder) |
 
 ### Jersey / product (`data/products.json`)
@@ -174,20 +186,24 @@ collection-site/
 ```
 Landing (index)
   → Collection detail  (pages/collection.html?slug=…)
-    → Club             (pages/club.html?slug=…)
-      → Jersey         (pages/jersey.html?slug=…)
+    → League detail    (pages/league.html?slug=…)
+      → Club           (pages/club.html?slug=…)
+        → Jersey       (pages/jersey.html?slug=…)
 ```
 
 - The Collections grid on `index.html` links each card to
   `pages/collection.html?slug=<slug>`.
 - **Collection detail** reads `slug` from the URL, looks it up in
-  `collections.json`, renders the banner (image, name, country, period,
-  description), then renders clubs from `clubs.json` filtered by
-  `collection === slug`. Each club links to its club page.
+  `collections.json`, renders the banner (image, name, country, description),
+  then renders leagues from `leagues.json` filtered by `collection === slug`.
+  Each league links to its league page.
+- **League detail** reads `slug`, looks it up in `leagues.json`, resolves its
+  parent collection, renders the banner, then renders clubs from `clubs.json`
+  filtered by `league === slug`. Each club links to its club page.
 - **Club page** reads `slug`, looks up the club in `clubs.json`, resolves its
-  league name from `collections.json`, then renders the crest, name, league,
-  jersey count and the jersey grid from `products.json` filtered by
-  `clubId === club.id`.
+  league (`club.league`) and, through it, its collection, then renders the
+  crest, name, league, jersey count and the jersey grid from `products.json`
+  filtered by `clubId === club.id`.
 - **Jersey page** reads `slug`, looks up the jersey in `products.json`, resolves
   its club and league, and renders the details (name, club, league, brand, type,
   category, season) with a **premium gallery** (main image + thumbnails, fade
@@ -302,12 +318,16 @@ See [`docs/catalog-pipeline.md`](docs/catalog-pipeline.md) for the full design a
 | CS-17 | ✅ | Release Candidate (RC1) — nav/responsive/a11y/copy/analytics review, 404 page |
 | CS-18 | ✅ | Launch preparation — full production validation, launch checklist + report, `1.0.0` |
 | MI-01 | ✅ | End-to-end validation — pipeline↔site contract audit (gap found), E2E + integration reports |
+| CS-19 | ✅ | i18n PT/EN — client-side language switch (dictionary + localStorage), nav toggle, jersey-name translation |
+| CS-20 | ✅ | Collection → League → Club navigation — League is now a real level (`pages/league.html`), period/founded removed |
 
 ### Next sprints
 
 - **Catalog Pipeline** — implement Adapters → Parser → Validator → Assets → Generator → Publisher.
 - **Catalog page** — mount the filters + search components on a dedicated catalog
   page (`Filters.attach({ controls, list, searchInput })`) and wire the nav search
-  overlay to it. The engine already combines filters + search.
-- **Clubs / Leagues / About** — dedicated index pages (nav links are ready).
+  overlay to it. The engine already combines filters + search. Extend i18n to
+  its facet labels then too (deferred in CS-19/CS-20).
+- A flat, cross-collection **Clubs / Leagues browse-all** index page (distinct
+  from CS-20's per-collection/per-league navigational pages).
 - **Jersey detail** — real photography via the pipeline; size selection & cart hooks.

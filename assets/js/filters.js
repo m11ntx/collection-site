@@ -316,10 +316,61 @@
         }[c]));
     }
 
+    // I18N is optional (Node tests / any host without it never load i18n.js) --
+    // every lookup below degrades to a plain English default so filters.js
+    // stays "reusable anywhere" per its own header, per-facet-key translation
+    // uses the same controlled-value dictionaries catalog.js already relies
+    // on (properNoun for collection/league/club names, fieldLabel for the
+    // enum-like facets), so a jersey's Club filter option reads "Germany"
+    // in en the same way its club-page title does.
+    const I18N_LABEL_DEFAULTS = {
+        collection: "Collection", league: "League", club: "Club",
+        manufacturer: "Manufacturer", season: "Season", version: "Version",
+        category: "Category", gender: "Gender", availability: "Availability"
+    };
+
+    function t(path, vars) {
+        if (typeof window !== "undefined" && window.I18N) return window.I18N.t(path, vars);
+        if (!vars) return path;
+        return path.replace(/\{(\w+)\}/g, (m, k) => (k in vars ? String(vars[k]) : m));
+    }
+
+    function facetLabel(f) {
+        if (typeof window !== "undefined" && window.I18N) {
+            const v = window.I18N.t("filters.label." + f.key);
+            if (v !== "filters.label." + f.key) return v;
+        }
+        return I18N_LABEL_DEFAULTS[f.key] || f.label;
+    }
+
+    function optionLabel(f, o) {
+        if (typeof window === "undefined" || !window.I18N) return o.label;
+        switch (f.key) {
+            case "collection": case "league": case "club":
+                return window.I18N.properNoun(o.label);
+            case "version": case "category": case "gender": case "availability":
+                return window.I18N.fieldLabel(f.key, o.label);
+            default:
+                return o.label;
+        }
+    }
+
     function mount(engine, container, opts) {
         opts = opts || {};
         if (typeof document === "undefined" || !container) return null;
         const hideSingle = opts.hideSingle === true; // hide facets with <2 options
+
+        // Manually-toggled open/closed state per facet, keyed by facet key --
+        // survives the full innerHTML rebuild every render triggers (CS-56).
+        // A facet not yet touched by the user defaults open only while it has
+        // an active selection, so checking one box elsewhere doesn't quietly
+        // collapse an already-filtered group.
+        const manualOpen = new Map();
+
+        function isOpen(f) {
+            if (manualOpen.has(f.key)) return manualOpen.get(f.key);
+            return f.options.some((o) => o.active);
+        }
 
         function groupHtml(f) {
             if (!f.options.length) return "";
@@ -329,14 +380,18 @@
                     <input type="checkbox" class="filters__checkbox"
                            data-facet="${esc(f.key)}" value="${esc(o.value)}"
                            ${o.active ? "checked" : ""}>
-                    <span class="filters__option-label">${esc(o.label)}</span>
+                    <span class="filters__option-label">${esc(optionLabel(f, o))}</span>
                     <span class="filters__count">${o.count}</span>
                 </label>`).join("");
+            const activeCount = f.options.filter((o) => o.active).length;
             return `
-                <fieldset class="filters__group" data-facet="${esc(f.key)}">
-                    <legend class="filters__legend">${esc(f.label)}</legend>
+                <details class="filters__group" data-facet="${esc(f.key)}" ${isOpen(f) ? "open" : ""}>
+                    <summary class="filters__legend">
+                        ${esc(facetLabel(f))}
+                        ${activeCount ? `<span class="filters__legend-badge">${activeCount}</span>` : ""}
+                    </summary>
                     <div class="filters__options">${rows}</div>
-                </fieldset>`;
+                </details>`;
         }
 
         function render(res) {
@@ -346,12 +401,15 @@
                 <div class="filters" role="region" aria-label="Jersey filters">
                     <div class="filters__head">
                         <p class="filters__result" aria-live="polite">
-                            <strong>${res.count}</strong> of ${res.total} jerseys
+                            <!-- bolds the leading number; both pt/en resultCount strings
+                                 start with {count} by design -->
+                            ${t("filters.resultCount", { count: res.count, total: res.total })
+                                .replace(/^(\S+)/, "<strong>$1</strong>")}
                         </p>
                         <button type="button" class="filters__reset btn btn--ghost"
-                                ${hasSelection || res.query ? "" : "disabled"}>Reset</button>
+                                ${hasSelection || res.query ? "" : "disabled"}>${esc(t("filters.reset"))}</button>
                     </div>
-                    ${groups || `<p class="filters__empty">No filters available.</p>`}
+                    ${groups || `<p class="filters__empty">${esc(t("filters.empty"))}</p>`}
                 </div>`;
         }
 
@@ -367,6 +425,13 @@
         container.addEventListener("click", (e) => {
             if (e.target.closest(".filters__reset")) engine.reset();
         });
+        // <details>'s "toggle" event doesn't bubble -- listen on the capture
+        // phase so one delegated listener still catches every group.
+        container.addEventListener("toggle", (e) => {
+            const el = e.target.closest && e.target.closest(".filters__group");
+            if (!el) return;
+            manualOpen.set(el.getAttribute("data-facet"), el.open);
+        }, true);
 
         function onResult(res) {
             render(res);

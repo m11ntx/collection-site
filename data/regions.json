@@ -1,90 +1,79 @@
 [
   {
     "id": "minas-gerais",
-    "leagueId": "brasileirao",
     "slug": "minas-gerais",
     "name": "Minas Gerais",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "nordeste",
-    "leagueId": "brasileirao",
     "slug": "nordeste",
     "name": "Nordeste",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "norte",
-    "leagueId": "brasileirao",
     "slug": "norte",
     "name": "Norte",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "rio-de-janeiro",
-    "leagueId": "brasileirao",
     "slug": "rio-de-janeiro",
     "name": "Rio de Janeiro",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "sao-paulo",
-    "leagueId": "brasileirao",
     "slug": "sao-paulo",
     "name": "São Paulo",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "sul",
-    "leagueId": "brasileirao",
     "slug": "sul",
     "name": "Sul",
-    "country": null,
-    "image": null
+    "league": "brasileirao",
+    "country": null
   },
   {
     "id": "africa",
-    "leagueId": "selecoes",
     "slug": "africa",
     "name": "África",
-    "country": null,
-    "image": null
+    "league": "selecoes",
+    "country": null
   },
   {
     "id": "americas",
-    "leagueId": "selecoes",
     "slug": "americas",
     "name": "Américas",
-    "country": null,
-    "image": null
+    "league": "selecoes",
+    "country": null
   },
   {
     "id": "asia",
-    "leagueId": "selecoes",
     "slug": "asia",
     "name": "Ásia",
-    "country": null,
-    "image": null
+    "league": "selecoes",
+    "country": null
   },
   {
     "id": "europa",
-    "leagueId": "selecoes",
     "slug": "europa",
     "name": "Europa",
-    "country": null,
-    "image": null
+    "league": "selecoes",
+    "country": null
   },
   {
     "id": "oceania",
-    "leagueId": "selecoes",
     "slug": "oceania",
     "name": "Oceania",
-    "country": null,
-    "image": null
+    "league": "selecoes",
+    "country": null
   }
 ]

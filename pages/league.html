@@ -4,29 +4,29 @@
 <meta charset="UTF-8">
 <base href="../">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>M11NTX | About</title>
+<title>M11NTX | League</title>
 
-<meta name="description" content="M11NTX — premium soccer culture. Curated classic and retro jerseys, sourced as an intermediary with a transparent journey.">
+<meta name="description" content="M11NTX — Premium Soccer Culture. Explore a league and its clubs.">
 <meta name="robots" content="index, follow">
 <meta name="author" content="M11NTX">
 <meta name="theme-color" content="#050505">
-<link rel="canonical" href="https://m11ntx.github.io/collection-site/pages/about.html">
+<link rel="canonical" href="https://m11ntx.github.io/collection-site/pages/league.html">
 
-<!-- Open Graph -->
+<!-- Open Graph (refined per league by seo.js) -->
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="M11NTX">
 <meta property="og:locale" content="en">
-<meta property="og:title" content="M11NTX | About">
-<meta property="og:description" content="M11NTX — premium soccer culture. Curated classic and retro jerseys, sourced as an intermediary with a transparent journey.">
-<meta property="og:url" content="https://m11ntx.github.io/collection-site/pages/about.html">
+<meta property="og:title" content="M11NTX | League">
+<meta property="og:description" content="Premium Soccer Culture — explore a league and its clubs.">
+<meta property="og:url" content="https://m11ntx.github.io/collection-site/pages/league.html">
 <meta property="og:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
 <meta property="og:image:alt" content="M11NTX">
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@m11ntx">
-<meta name="twitter:title" content="M11NTX | About">
-<meta name="twitter:description" content="M11NTX — premium soccer culture. Curated classic and retro jerseys, sourced as an intermediary with a transparent journey.">
+<meta name="twitter:title" content="M11NTX | League">
+<meta name="twitter:description" content="Premium Soccer Culture — explore a league and its clubs.">
 <meta name="twitter:image" content="https://m11ntx.github.io/collection-site/assets/icons/android-chrome-512x512.png">
 
 <!-- Favicon pack -->
@@ -43,18 +43,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/css/style.min.css">
 <link rel="stylesheet" href="assets/css/institutional.min.css">
-
 </head>
 <body>
 
-<a class="skip-link" href="#main" data-i18n="hero.skipToContent">Skip to content</a>
+<a class="skip-link" href="#leagueDetail" data-i18n="hero.skipToContent">Skip to content</a>
 
+<!-- GLOBAL NAVIGATION (reused; always visible on subpages) -->
 <header class="nav" id="siteNav">
     <div class="nav__inner">
+
         <a href="index.html" class="nav__logo" data-i18n-attr="aria-label:nav.home">
             <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21" decoding="async">
             <span class="nav__name">M11NTX</span>
         </a>
+
         <nav class="nav__menu" aria-label="Primary">
             <ul class="nav__list">
                 <li><a href="index.html#collections" class="nav__link" data-i18n="nav.collection">Collection</a></li>
@@ -73,14 +75,18 @@
                 <span data-i18n="nav.search">Search</span>
             </button>
         </nav>
-        <button type="button" class="nav__toggle" id="menuToggle" data-i18n-attr="aria-label:nav.openMenu" aria-expanded="false" aria-controls="mobileMenu">
+
+        <button type="button" class="nav__toggle" id="menuToggle"
+                data-i18n-attr="aria-label:nav.openMenu" aria-expanded="false" aria-controls="mobileMenu">
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
             <span class="nav__bar"></span>
         </button>
+
     </div>
 </header>
 
+<!-- MOBILE MENU -->
 <div class="mobile-menu" id="mobileMenu" aria-hidden="true">
     <div class="mobile-menu__head">
         <span class="mobile-menu__brand">M11NTX</span>
@@ -103,7 +109,9 @@
     </nav>
 </div>
 
-<div class="search" id="searchOverlay" role="dialog" aria-modal="true" data-i18n-attr="aria-label:search.dialogLabel" aria-hidden="true">
+<!-- SEARCH OVERLAY (layout only) -->
+<div class="search" id="searchOverlay" role="dialog" aria-modal="true"
+     data-i18n-attr="aria-label:search.dialogLabel" aria-hidden="true">
     <button type="button" class="search__close" id="searchClose" data-i18n-attr="aria-label:search.closeSearch">
         <svg viewBox="0 0 24 24" width="26" height="26" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
             <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -117,7 +125,8 @@
                 <circle cx="11" cy="11" r="7"></circle>
                 <line x1="21" y1="21" x2="16.5" y2="16.5"></line>
             </svg>
-            <input id="searchInput" class="search__input" type="search" data-i18n-attr="placeholder:search.placeholder" placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
+            <input id="searchInput" class="search__input" type="search"
+                   data-i18n-attr="placeholder:search.placeholder" placeholder="Search clubs, leagues, jerseys…" autocomplete="off">
         </div>
         <div class="search__results" id="searchResults" aria-live="polite">
             <p class="search__hint" data-i18n="search.hint">Type to search jerseys, clubs and leagues…</p>
@@ -125,18 +134,9 @@
     </form>
 </div>
 
-<main class="detail" id="main">
-    <nav class="breadcrumb" aria-label="Breadcrumb">
-        <a class="breadcrumb__link" href="index.html" data-i18n="breadcrumb.home">Home</a>
-        <span class="breadcrumb__sep" aria-hidden="true">/</span>
-        <span class="breadcrumb__current" aria-current="page" data-i18n="nav.about">About</span>
-    </nav>
-
-    <p class="detail__eyebrow" data-i18n="institutional.about.eyebrow">About</p>
-    <h1 class="detail__title" data-i18n="institutional.about.h1">About M11NTX</h1>
-    <p class="detail__desc" data-i18n="institutional.about.lead">Premium soccer culture — the shirts that carry history.</p>
-
-    <div class="prose" data-i18n-html="institutional.about.body"><p>M11NTX is a premium soccer-culture project dedicated to the shirts that carry history — curated classic and retro jerseys, presented with the reverence they deserve.</p><p>We are not a traditional store. M11NTX works as an <strong>intermediary</strong> for the acquisition of imported jerseys: you choose the piece, we confirm availability, and we handle the entire import until it reaches your hands.</p><h2>What we stand for</h2><ul><li>Authenticity and provenance over hype.</li><li>Transparency at every step of the journey.</li><li>A premium, unhurried experience — quality over quantity.</li></ul><p>Some jerseys are just shirts. Others carry history. Understand the flow in <a href="pages/how-it-works.html">How It Works</a> and our <a href="pages/intermediation-policy.html">Intermediation Policy</a>.</p><p><strong>Wear The Manto.</strong></p></div>
+<!-- LEAGUE DETAIL — rendered from leagues.json + clubs.json -->
+<main class="detail" id="leagueDetail" aria-busy="true">
+    <!-- content injected by catalog.js (Catalog.initLeaguePage) -->
 </main>
 
 <footer class="site-footer site-footer--full">

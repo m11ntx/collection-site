@@ -154,11 +154,13 @@ const UI = (() => {
         });
     }
 
-    /* ---------- premium jersey gallery (swap · fade · zoom) ---------- */
+    /* ---------- premium jersey gallery (swap · fade) ----------
+       Cursor-follow zoom removed (CS-55): source photos are ~480px, so
+       scaling them up on hover only made the low resolution more obvious
+       instead of showing real extra detail. */
     function initGallery() {
         document.addEventListener("jersey:rendered", (e) => {
             const root = (e.detail && e.detail.root) || document;
-            const main = root.querySelector(".gallery__main");
             const img = root.querySelector("#galleryImg");
             const thumbs = root.querySelectorAll(".gallery__thumb");
 
@@ -176,21 +178,6 @@ const UI = (() => {
                     thumb.classList.add("is-active");
                 });
             });
-
-            // cursor-follow zoom (pointer devices only)
-            if (main && img && window.matchMedia("(hover: hover)").matches) {
-                main.addEventListener("mousemove", (ev) => {
-                    const r = main.getBoundingClientRect();
-                    const x = ((ev.clientX - r.left) / r.width) * 100;
-                    const y = ((ev.clientY - r.top) / r.height) * 100;
-                    img.style.transformOrigin = `${x}% ${y}%`;
-                    img.style.transform = "scale(2.2)";
-                });
-                main.addEventListener("mouseleave", () => {
-                    img.style.transform = "";
-                    img.style.transformOrigin = "center";
-                });
-            }
         });
     }
 

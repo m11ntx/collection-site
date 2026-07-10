@@ -3,7 +3,7 @@
 **Read this first when resuming in a new session.** Captures where the front-end
 is, what exists, how to run it, and what comes next — so no context is lost.
 
-_Last updated: CS-18 — Launch Preparation. Version 1.0.0, ready for launch (pending owner actions)._
+_Last updated: CS-57 — synced MI-40's fix for a real image-collision bug (374 products were silently sharing photos; all now have unique paths) + recovered 47 unattributed products onto real clubs (6 new MLS clubs added). Product data is now considered validated: 4 top-level collections (Brasil, Europa, Resto do Mundo, Seleções), 167 clubs, 11 regions (added Oceania), 2726 products, zero image collisions. The remaining 158 `clubId: null` products are individually verified as out of scope (NBA jerseys, sock/short accessories) or unrecoverable (1 dead source URL), not a gap. Note: the "Status by sprint" table below and other data counts in this doc were not kept in lockstep across CS-25…CS-51 (a long run of data-only menu-import updates) — `CHANGELOG.md` is authoritative for that range; treat other counts on this page as stale until someone reconciles them._
 
 ---
 
@@ -30,15 +30,22 @@ data/*.json → api.js → catalog.js → ui.js → screen
 ```
 Landing (index.html)
   → Collection detail  (pages/collection.html?slug=…)
-    → Club             (pages/club.html?slug=…)
-      → Jersey         (pages/jersey.html?slug=…)
+    → League detail    (pages/league.html?slug=…)
+      → Region detail  (pages/region.html?slug=…)      -- optional, Brasileirão only (CS-23)
+        → Club         (pages/club.html?slug=…)
+          → Jersey     (pages/jersey.html?slug=…)
 ```
 
 - **index.html** — fixed nav (revealed on scroll), mobile menu, search overlay
   (layout only), the **frozen hero/landing**, and the **Collections** grid
   (rendered from JSON).
-- **pages/collection.html** — banner + clubs of a collection (reads `?slug=`).
-- **pages/club.html** — club crest/league + jersey grid (reads `?slug=`).
+- **pages/collection.html** — banner + the leagues of a collection (reads `?slug=`).
+- **pages/league.html** (CS-20) — banner + the clubs of a league (reads `?slug=`); if
+  the league has regions (Brasileirão today — CS-23), lists region cards instead.
+- **pages/region.html** (CS-23) — banner + the clubs of a region (reads `?slug=`);
+  optional level, only reachable from a league that has regions.
+- **pages/club.html** — club crest/league + jersey grid (reads `?slug=`), sorted
+  newest-season-first (CS-23).
 - **pages/jersey.html** — premium gallery (swap/fade/zoom, no libs), specs
   (brand/type/category/season/version/gender), reference size grid, and the
   **customer journey** (CS-11): How It Works timeline, Import Information, FAQ.
@@ -55,10 +62,29 @@ Landing (index.html)
 
 | File | State | Notes |
 |------|-------|-------|
-| `data/collections.json` | populated (6) | Serie A, Premier League, La Liga, Bundesliga, Ligue 1, Brasileirão |
-| `data/clubs.json` | populated (24) | linked to collections by slug |
-| `data/products.json` | populated (15 jerseys) | sizes `[{size,stock}]`, version, gender, images[], buyUrl |
-| `data/leagues.json` | `[]` (ready) | — |
+| `data/collections.json` | populated (3) | Europa, Brasil, Seleções — Seleções has 0 leagues today (empty state renders) |
+| `data/leagues.json` | populated (6) | Premier League, La Liga, Serie A, Bundesliga, Ligue 1, Brasileirão |
+| `data/regions.json` | populated (6) | Brasileirão only (CS-23) — Rio de Janeiro, São Paulo, Minas Gerais, Sul, Nordeste, Norte (Centro-Oeste configured but currently has 0 products) |
+| `data/clubs.json` | populated (42) | the full `config/normalization/clubs.json` roster with a resolved product — no more, no less |
+| `data/products.json` | populated (3183 jerseys) | full pipeline output; **1286 of them (40%) have no `clubId`** — improved from 51% after CS-23's Brasileirão expansion, see below |
+
+> **CS-22/CS-23: full-catalog import + Brasileirão region expansion.**
+> `catalog-pipeline` ran its first full-scale pipeline against the entire
+> source sitemap (3268 products) and this was adapted into
+> `collection-site/data`. CS-23 then expanded `config/normalization/clubs.json`
+> from 20 to 42 clubs (26 new Brasileirão clubs actually have products) and
+> added the `Region` entity — see `catalog-pipeline`'s MI-05/MI-06 CHANGELOG
+> entries. Two prior, smaller datasets are backed up outside the repo
+> (session scratchpad, not durable): the CS-20 curated demo (2/6/24/15) and
+> the CS-21 real-photo sample (2/4/7/21).
+>
+> **Remaining gap:** club coverage is still incomplete for every league
+> *other* than Brasileirão (still ~20 non-Brazilian clubs mapped) — that's
+> most of the remaining 1286 clubId-less products. They render fine in the
+> Catalog page (`pages/catalog.html`, filters/search don't need a club) but
+> have no page to live on in the Collection→League→Club nav. Expanding
+> coverage league-by-league is a data-curation effort, tracked in
+> `catalog-pipeline`'s `docs/NEXT-SESSION.md`, not a site-side fix.
 
 Data shapes mirror the pipeline's canonical model (`../catalog-pipeline/schemas/`).
 Everything on screen is JSON-driven — **no hardcoded catalog data**.
@@ -69,9 +95,10 @@ Everything on screen is JSON-driven — **no hardcoded catalog data**.
 
 | File | Role |
 |------|------|
+| `i18n.js` | PT/EN language switch (CS-19): dictionary + localStorage, nav toggle. See `docs/i18n.md` |
 | `api.js` | `fetch()` data layer (tolerates empty/missing files) |
 | `image-loader.js` | asset pipeline: `getImage()`, lazy load, fade-in, branded fallback |
-| `catalog.js` | renders collections grid, collection detail, club page, jersey page |
+| `catalog.js` | renders collections grid, collection detail, club/league/jersey pages, the Catalog/filters page (CS-22) and the nav search overlay (CS-21) |
 | `filters.js` | JSON-driven filter engine + reusable UI (CS-10). See `docs/filters.md` |
 | `search.js` | accent-insensitive smart search (CS-12); shares the filter engine. See `docs/search.md` |
 | `seo.js` | dynamic SEO (CS-13): meta/canonical/OG/Twitter + JSON-LD (Org/WebSite/Breadcrumb). See `docs/seo.md` |
@@ -94,7 +121,7 @@ sources above, then run `node scripts/gen/minify.js` to regenerate (CS-15).
 | 4 — Collections experience | ✅ | grid 3/2/1, collection card |
 | 5 — Living catalog | ✅ | data-driven from JSON (no hardcoded cards) |
 | 6 — Asset pipeline | ✅ | `image-loader.js`, `getImage()`, WebP/lazy |
-| 7 — Collection details | ✅ | banner + clubs |
+| 7 — Collection details | ✅ | banner + leagues (was clubs directly; revisited CS-20) |
 | 8 — Club catalog | ✅ | club page + jerseys |
 | 9 — Jersey product experience | ✅ | gallery, sizes, stock, buy, pipeline docs |
 | CS-10 — Advanced filters (Fase 1) | ✅ | reusable JSON-driven filter engine + tests + docs |
@@ -107,6 +134,14 @@ sources above, then run `node scripts/gen/minify.js` to regenerate (CS-15).
 | CS-17 — Release Candidate (RC1) | ✅ | review-only QA, 404 page, release checklist, version 1.0.0 |
 | CS-18 — Launch Preparation | ✅ | full production validation, launch checklist + final report |
 | MI-01 — End-to-End Validation | ✅ | pipeline↔site contract audit (schema gap found), E2E + integration reports |
+| CS-19 — i18n PT/EN | ✅ | client-side language switch (dictionary + localStorage), nav toggle, jersey-name translation, unified How It Works/FAQ content. See `docs/i18n.md` |
+| CS-20 — Collection → League → Club navigation | ✅ | league now a real nav level (`pages/league.html`), period/founded year ranges removed, adapter fix in catalog-pipeline |
+| CS-21 — Generic placeholder art + working site search | ✅ | scalable name-based placeholder art for any missing photo; nav search overlay wired live to `Filters`/`Search` on every page (institutional included) |
+| CS-22 — Full-catalog data + Catalog/filters page | ✅ | 3183-product real pipeline import; `pages/catalog.html` mounts the full `Filters` facet UI (CS-10) for the first time; i18n fix for national-team names |
+| CS-23 — Region as a real level (Brasileirão trial) + newest-first sort | ✅ | new `pages/region.html`, league pages with regions list region cards instead of clubs; club/Catalog jersey grids sort newest-season-first; Brasileirão club coverage 5→26 clubs (data-driven by `catalog-pipeline` MI-06) |
+| CS-24 — Santos data correction (menu-driven import pilot) | ✅ | data-only; Santos 37→36 (one non-jersey item sanitized, every jersey confirmed against the source's real category pages) — see `catalog-pipeline` MI-08 |
+| CS-25…CS-51 — menu-driven import data updates | ✅ | data-only refreshes tracking `catalog-pipeline`'s MI-09…MI-36 (full Brasileirão/Europa/Seleções/Resto do Mundo rollout, then Fan/Player/Women/Retro/Kids segments) — see `CHANGELOG.md` for each; this table wasn't kept in lockstep entry-by-entry, `CHANGELOG.md` is authoritative for this range |
+| CS-52 — Full i18n translation sweep | ✅ | `club.name`/`league.name` now routed through `I18N.properNoun()` everywhere (fixes all 39 Seleções "clubs" + the Seleções league itself showing raw PT); `NAME_DICTIONARY` grew from ~20 to ~130 entries (colors, apparel words, sponsorship/edition vocabulary, country names) — verified 0 unexpected leftover PT tokens across all 2712 real product names |
 
 ---
 
@@ -143,8 +178,9 @@ GitHub Pages serves it over HTTP automatically.
   footer** by design; the institutional footer is on content pages only.
 - **Performance (CS-15)** — HTML loads `*.min.js`/`*.min.css`. Sources are the
   editable truth; **re-run `node scripts/gen/minify.js` after editing any CSS/JS**
-  or production will serve stale code. No visual change was made. `filters`/`search`
-  min bundles exist but aren't loaded yet (future catalog page). See `docs/performance.md`.
+  or production will serve stale code. `filters`/`search` min bundles now load on
+  every page (CS-21, nav search); the **facet UI** (`Filters.attach`) still isn't
+  mounted anywhere (future dedicated catalog page). See `docs/performance.md`.
 - **Config (CS-14)** — `config/site.js` (`window.CONFIG`) is the single source for
   the Instagram URL and analytics ids/toggles; it loads first on every page.
   `catalog.js` and `seo.js` read the Instagram URL from it (safe fallback). To turn
@@ -161,13 +197,55 @@ GitHub Pages serves it over HTTP automatically.
 
 ## Next steps
 
-- **Catalog page** — mount filters + search on a dedicated page via
-  `Filters.attach({ controls, list, searchInput })`, and wire the nav search
-  overlay input to it. The engine (CS-10 + CS-12) already combines filters + search.
-- Real product photography + populated `data/*.json` via the **catalog-pipeline**.
-- Dedicated **Clubs / Leagues** index pages (About + institutional pages shipped in CS-16).
+- **Club coverage for every league other than Brasileirão is still the top
+  blocker for the nav (not the filters/search UX).** CS-23 brought
+  Brasileirão from 5 to 26 real clubs across 6 regions; the other ~20 clubs
+  (Europe, etc.) are still the CS-19-era demo set. 1286 of 3183 real
+  products (40%) still have no `clubId`. These products are fully
+  findable/filterable on `pages/catalog.html`, but have no
+  Collection→League→[Region]→Club page to live on. Fixing this is a
+  data-curation effort in `catalog-pipeline` (repeat CS-23's approach —
+  read the source's own category menu tree — for each other league), not a
+  site-side change. The user's own plan is to do this one league at a time.
+- Region is Brasileirão-only today by design (CS-23 was an explicit trial).
+  If another league turns out to need the same treatment, `pages/region.html`
+  / `Catalog.initRegionPage()` / the `leagueDetailTemplate()` conditional
+  already generalize — no site-side redesign needed, just pipeline-side data.
+- **Pagination / lazy rendering for the Catalog page.** `pages/catalog.html`
+  renders every matching jersey in one grid — fine today, but at ~3200
+  products the unfiltered grid is already a very large DOM (~3.8MB of HTML
+  per the CS-22 vm-sandbox check). Worth revisiting if the catalog grows
+  further or CWV metrics (CS-15) regress.
+- Extend i18n to the filter facet labels (facet keys/values render in
+  whatever case the data has — deferred since CS-19, now more visible since
+  the facet UI is actually mounted).
+- A flat, cross-collection **Clubs / Leagues browse-all** index page (distinct
+  from CS-20's per-collection League page/per-league Club page, which are
+  navigational, and from CS-22's Catalog page, which is jersey-first) — lower
+  priority than the club-coverage gap above, since most clubs currently have
+  no page regardless.
 - If desired, extend the institutional footer to the landing page too.
 - Jersey **size selection / cart** hooks.
+- League crest images (`assets/images/leagues/`) — none exist yet, so league
+  cards/banners show the CS-21 generic name-based placeholder;
+  `getImage("leagues", …)` is already wired (CS-20) and will pick up real
+  images automatically once added.
+- `catalog-pipeline`'s duplicate report (MI-04/MI-05) at full scale: ~370
+  clusters flagged (count shifts as club resolution improves — see MI-06),
+  with two known false-positive patterns (training-kit colorways,
+  `category: None` grouping) — worth a refinement pass before relying on it
+  for real cleanup decisions.
+- ~~Colors outside `i18n.js`'s `NAME_DICTIONARY`...~~ **Fixed CS-52** — full
+  vocabulary sweep against all real product names, plus a test that catches
+  future leftover PT tokens automatically (not just a fixed word list).
+- Manual click-through in an actual browser of: the CS-19 language toggle,
+  the CS-20/CS-22/CS-23 navigation (including the new Catalog page's filters
+  and the new Region level), and the CS-21 search overlay (typing, empty
+  state, no-results state) across every page — no browser tool was available
+  in any of these sessions to do this interactively. Everything above was
+  instead verified mechanically:
+  unit tests + Node `vm`-sandbox execution of the real render/init code
+  against the real `data/*.json`.
 
 ---
 
@@ -189,5 +267,6 @@ GitHub Pages serves it over HTTP automatically.
 | [end-to-end-validation.md](end-to-end-validation.md) | Platform E2E validation (MI-01) — data→UI, SEO, analytics, contract |
 | [integration-report.md](integration-report.md) | Pipeline ↔ site integration report (MI-01) — schema gap + publication |
 | [customer-journey.md](customer-journey.md) | Customer journey — How It Works, Import Info, FAQ, CTA → Instagram |
+| [i18n.md](i18n.md) | PT/EN language switch (CS-19) — dictionary, translateName() trade-off, exclusions |
 | [BUSINESS-RULES.md](BUSINESS-RULES.md) | RN-001 … RN-012 (shared with the pipeline) |
 | [catalog-pipeline.md](catalog-pipeline.md) | Future pipeline architecture (overview) |

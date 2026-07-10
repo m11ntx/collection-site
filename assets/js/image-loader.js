@@ -18,7 +18,7 @@ const ImageLoader = (() => {
     const FALLBACK = BASE + "symbol.png";
 
     const CATEGORIES = [
-        "collections", "clubs", "jerseys",
+        "collections", "leagues", "regions", "clubs", "jerseys",
         "players", "badges", "manufacturers", "countries"
     ];
 
@@ -64,6 +64,50 @@ const ImageLoader = (() => {
                `loading="lazy" decoding="async">`;
     }
 
+    /**
+     * A generic, on-brand placeholder for any entity that has no real image
+     * yet (collection, league, club, jersey) — a jersey-shirt icon + a
+     * short monogram, colored with a hue derived from the entity's own
+     * name. Deterministic (same name -> same look every render) and
+     * name-driven rather than a fixed per-entity lookup, so it scales to
+     * any number of collections/leagues/clubs without new artwork or a
+     * catalog of hardcoded images — new continents/leagues just work.
+     */
+    function hashCode(str) {
+        let h = 0;
+        const s = String(str || "");
+        for (let i = 0; i < s.length; i++) h = (Math.imul(31, h) + s.charCodeAt(i)) | 0;
+        return Math.abs(h);
+    }
+
+    function initials(name) {
+        const words = String(name || "").trim().split(/\s+/).filter(Boolean);
+        if (!words.length) return "M11";
+        if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+        return (words[0][0] + words[words.length - 1][0]).toUpperCase();
+    }
+
+    /**
+     * @param {string} name        the entity's own name (drives color + monogram)
+     * @param {{className?:string,width?:number,height?:number}} [opts]
+     */
+    function genericMark(name, opts = {}) {
+        const { className = "", width = 150, height = 105 } = opts;
+        const hash = hashCode(name);
+        const hue = 34 + (hash % 26); // 34-60deg: gold -> amber only, stays on-brand
+        const stroke = `hsl(${hue} 42% 52%)`;
+        const fill = `hsl(${hue} 55% 70%)`;
+        return `<svg class="${esc(className)} is-generic" viewBox="0 0 64 64" width="${width}" height="${height}" ` +
+            `role="img" aria-label="${esc(name || "M11NTX")}" preserveAspectRatio="xMidYMid meet">` +
+            `<rect x="20" y="20" width="24" height="32" rx="2" fill="none" stroke="${stroke}" stroke-width="1.6" opacity=".55"/>` +
+            `<polygon points="20,20 10,26 14,34 20,30" fill="none" stroke="${stroke}" stroke-width="1.6" opacity=".55"/>` +
+            `<polygon points="44,20 54,26 50,34 44,30" fill="none" stroke="${stroke}" stroke-width="1.6" opacity=".55"/>` +
+            `<path d="M27 20 L32 26 L37 20" fill="none" stroke="${stroke}" stroke-width="1.6" opacity=".55"/>` +
+            `<text x="32" y="39" text-anchor="middle" font-family="Manrope, sans-serif" font-weight="800" ` +
+            `font-size="15" fill="${fill}">${esc(initials(name))}</text>` +
+            `</svg>`;
+    }
+
     /** Swap to the branded fallback exactly once; never leave it hidden. */
     function handleError(img) {
         if (img.dataset.fallback === "done") {
@@ -98,7 +142,7 @@ const ImageLoader = (() => {
         });
     }
 
-    return { getImage, imageTag, hydrate, slugify, CATEGORIES, FALLBACK };
+    return { getImage, imageTag, hydrate, slugify, genericMark, CATEGORIES, FALLBACK };
 })();
 
 window.ImageLoader = ImageLoader;

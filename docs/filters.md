@@ -72,7 +72,9 @@ One-call page wiring. Loads the JSON via `API` (or accepts `data`), enriches,
 builds the engine, mounts the controls, and — if `Catalog` is present — renders
 the filtered jerseys into `list` with `Catalog.renderJerseys`.
 
-## Page integration (example)
+## Page integration
+
+Live at `pages/catalog.html` (CS-22) via `Catalog.initCatalogPage()`:
 
 ```html
 <link rel="stylesheet" href="assets/css/filters.css">
@@ -87,17 +89,24 @@ the filtered jerseys into `list` with `Catalog.renderJerseys`.
 <script src="assets/js/catalog.js"></script>
 <script src="assets/js/filters.js"></script>
 <script>
-  Filters.attach({ controls: "filterControls", list: "jerseysGrid" });
+  Filters.attach({ controls: "filterControls", list: "jerseysGrid", hideSingle: true });
 </script>
 ```
 
-## Search readiness (Fase 2)
+At the full catalog's current size (~3200 products) this renders every
+matching jersey in one grid — no pagination yet; see `docs/PROJECT-STATUS.md`
+"Next steps" if that becomes a CWV concern.
 
-Search is already integrated into the engine. `setQuery(str)` is AND-combined
-with the active facets; `Filters.defaultSearch` matches name, club, collection,
-league, brand, type, category, season, version and gender. Wiring the existing
-search overlay to `engine.setQuery` is all that Fase 2 requires — no engine
-changes.
+## Search integration (CS-12 / CS-21)
+
+Search is integrated into the engine: `setQuery(str)` is AND-combined with the
+active facets; `Filters.defaultSearch` matches name, club, collection, league,
+brand, type, category, season, version and gender (or the accent-insensitive
+`Search.matcher()` from `search.js` when loaded — `Filters.attach` prefers it
+automatically). Two independent consumers exist today: the Catalog page's own
+`Filters.attach({ searchInput })` (facets + search on one engine) and the
+site-wide nav overlay's standalone `Catalog.initSiteSearch()` (search only, no
+facets, live on every page — see `docs/search.md`).
 
 Provide a custom matcher via `createEngine({ search: (item, q) => boolean })`.
 
