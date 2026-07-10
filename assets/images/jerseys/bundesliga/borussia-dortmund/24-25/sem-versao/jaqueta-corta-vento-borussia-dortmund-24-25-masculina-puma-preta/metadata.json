@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-borussia-dortmund-24-25-masculina-puma-preta",
+  "createdAt": "2026-07-09T22:48:55Z",
+  "updatedAt": "2026-07-09T22:48:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/jaqueta-corta-vento-borussia-dortmund-24-25-masculina-puma-preta/front.webp",
+      "hash": "309b1d73b2f685980de9fb0a395e09c8b3f076a57564aff1d26e269b5bfe4bb4",
+      "width": 480,
+      "height": 480,
+      "size": 7668,
+      "createdAt": "2026-07-09T22:48:55Z",
+      "updatedAt": "2026-07-09T22:48:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/jaqueta-corta-vento-borussia-dortmund-24-25-masculina-puma-preta/back.webp",
+      "hash": "c22cadbfcb82327a91fc8dae3dbcb2d9b35362b8f59e5475617a9019ef8d7932",
+      "width": 480,
+      "height": 480,
+      "size": 4366,
+      "createdAt": "2026-07-09T22:48:55Z",
+      "updatedAt": "2026-07-09T22:48:55Z"
+    }
+  ]
+}

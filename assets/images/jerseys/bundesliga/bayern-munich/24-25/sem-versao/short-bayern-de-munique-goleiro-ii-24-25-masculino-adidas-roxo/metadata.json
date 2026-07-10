@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-goleiro-ii-24-25-masculino-adidas-roxo",
+  "createdAt": "2026-07-09T22:50:58Z",
+  "updatedAt": "2026-07-09T22:50:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-goleiro-ii-24-25-masculino-adidas-roxo/front.webp",
+      "hash": "7dbce134b00a45959937ecab00ac2777d0ee7c83d7e8e0c34fcb34fef4d0013b",
+      "width": 480,
+      "height": 480,
+      "size": 10768,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-goleiro-ii-24-25-masculino-adidas-roxo/back.webp",
+      "hash": "cdc1fe4a2c6ba3ef46ce08629193c9a5868c89291d625a4eeda08c1775c3fc8d",
+      "width": 480,
+      "height": 480,
+      "size": 7418,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    }
+  ]
+}

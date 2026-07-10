@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-preto-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:51:13Z",
+  "updatedAt": "2026-07-09T22:51:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-preto-com-d-1fafc196/front.webp",
+      "hash": "c77121e5c1c86e6040ad7d267d2a78c0e1f366bbb77fe26264965df8371f3be1",
+      "width": 480,
+      "height": 480,
+      "size": 8474,
+      "createdAt": "2026-07-09T22:51:13Z",
+      "updatedAt": "2026-07-09T22:51:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-preto-com-d-1fafc196/back.webp",
+      "hash": "b2bf4b2686abc42132e5d98de708de67d7eaf02b051a299646394e5414a793bc",
+      "width": 480,
+      "height": 480,
+      "size": 8208,
+      "createdAt": "2026-07-09T22:51:13Z",
+      "updatedAt": "2026-07-09T22:51:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-preto-com-d-1fafc196/detail-1.webp",
+      "hash": "0bea2ae03ee46a2cb128ac2164360c2ef8f3e88f03e7a398a5fc2a22157255ef",
+      "width": 480,
+      "height": 480,
+      "size": 4462,
+      "createdAt": "2026-07-09T22:51:13Z",
+      "updatedAt": "2026-07-09T22:51:13Z"
+    }
+  ]
+}

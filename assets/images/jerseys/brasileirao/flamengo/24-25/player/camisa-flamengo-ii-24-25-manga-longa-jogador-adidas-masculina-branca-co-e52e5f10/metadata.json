@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-flamengo-ii-24-25-manga-longa-jogador-adidas-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:50:40Z",
+  "updatedAt": "2026-07-09T22:50:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-ii-24-25-manga-longa-jogador-adidas-masculina-branca-co-e52e5f10/front.webp",
+      "hash": "768ef59ec1037eb3ef1f2c9258c69d3ed847f9605796a9b32833eea2e64459ed",
+      "width": 480,
+      "height": 480,
+      "size": 15122,
+      "createdAt": "2026-07-09T22:50:40Z",
+      "updatedAt": "2026-07-09T22:50:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-ii-24-25-manga-longa-jogador-adidas-masculina-branca-co-e52e5f10/back.webp",
+      "hash": "5e67f8151d3d168e297890b83134fa530cfb27cbe3cbd3aef558b2a746c5734c",
+      "width": 480,
+      "height": 480,
+      "size": 9648,
+      "createdAt": "2026-07-09T22:50:40Z",
+      "updatedAt": "2026-07-09T22:50:40Z"
+    }
+  ]
+}

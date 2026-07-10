@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-atletico-de-madrid-treino-24-25-masculino-nike-rosa-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:49:27Z",
+  "updatedAt": "2026-07-09T22:49:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/conjunto-atletico-de-madrid-treino-24-25-masculino-nike-rosa-com-detalh-da848cac/front.webp",
+      "hash": "b6c62d5d2a7be51896d55d30b19710aba710fc8c007afdec5ea41048bc2c76b7",
+      "width": 480,
+      "height": 480,
+      "size": 8506,
+      "createdAt": "2026-07-09T22:49:26Z",
+      "updatedAt": "2026-07-09T22:49:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/conjunto-atletico-de-madrid-treino-24-25-masculino-nike-rosa-com-detalh-da848cac/back.webp",
+      "hash": "8bf334ab8417fc560f651bd8b54020e652c0ee3187d8bb9a4e9bf0287b879834",
+      "width": 480,
+      "height": 480,
+      "size": 6794,
+      "createdAt": "2026-07-09T22:49:26Z",
+      "updatedAt": "2026-07-09T22:49:26Z"
+    }
+  ]
+}

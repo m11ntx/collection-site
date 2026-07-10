@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-paris-saint-germain-i-24-25-masculino-nike-branca-e-azul-e-vermelha",
+  "createdAt": "2026-07-09T22:49:06Z",
+  "updatedAt": "2026-07-09T22:49:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/jaqueta-corta-vento-paris-saint-germain-i-24-25-masculino-nike-branca-e-c0b48c17/front.webp",
+      "hash": "8f5a2c5d4eff4807b4bb7ff8f81d1236053cde7455597667b07ea1f0e27995bc",
+      "width": 480,
+      "height": 480,
+      "size": 11932,
+      "createdAt": "2026-07-09T22:49:06Z",
+      "updatedAt": "2026-07-09T22:49:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/jaqueta-corta-vento-paris-saint-germain-i-24-25-masculino-nike-branca-e-c0b48c17/back.webp",
+      "hash": "3d48b7c6a69e57a9a1555993a60dd1475e3f542afe402db3ec1696444825042c",
+      "width": 480,
+      "height": 480,
+      "size": 11284,
+      "createdAt": "2026-07-09T22:49:06Z",
+      "updatedAt": "2026-07-09T22:49:06Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/jaqueta-corta-vento-paris-saint-germain-i-24-25-masculino-nike-branca-e-c0b48c17/detail-1.webp",
+      "hash": "904fe57e9c8202f9ecad4710c81282cde7b3a0676cfd58425048ba3e802d11b4",
+      "width": 480,
+      "height": 480,
+      "size": 10048,
+      "createdAt": "2026-07-09T22:49:06Z",
+      "updatedAt": "2026-07-09T22:49:06Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-mexico-i-26-27-adidas-torcedor-masculina-verde-com-detalhes-em-vermelho-e-branco",
+  "createdAt": "2026-07-09T22:12:51Z",
+  "updatedAt": "2026-07-09T22:12:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-mexico-i-26-27-adidas-torcedor-masculina-verde-com-detal-1dc531ae/front.webp",
+      "hash": "1821b7fa840ba021bc9d454642bb015cd1beaee79874353e4be4eabf4ec731ce",
+      "width": 480,
+      "height": 480,
+      "size": 28354,
+      "createdAt": "2026-07-09T22:12:51Z",
+      "updatedAt": "2026-07-09T22:12:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-selecao-mexico-i-26-27-adidas-torcedor-masculina-verde-com-detal-1dc531ae/back.webp",
+      "hash": "88f40c5394583ed5bd332ff3775dbec46061115ba2171f6808ca92afef487de6",
+      "width": 480,
+      "height": 480,
+      "size": 28996,
+      "createdAt": "2026-07-09T22:12:51Z",
+      "updatedAt": "2026-07-09T22:12:51Z"
+    }
+  ]
+}

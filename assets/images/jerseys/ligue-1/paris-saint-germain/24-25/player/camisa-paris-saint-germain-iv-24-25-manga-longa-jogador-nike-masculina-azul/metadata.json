@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-paris-saint-germain-iv-24-25-manga-longa-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T22:52:16Z",
+  "updatedAt": "2026-07-09T22:52:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-iv-24-25-manga-longa-jogador-nike-masculina-azul/front.webp",
+      "hash": "04cbe33558184bdcb7943c7b8a57a69653bcb7f680f4df09edd9def14b01dd4c",
+      "width": 480,
+      "height": 480,
+      "size": 19994,
+      "createdAt": "2026-07-09T22:52:15Z",
+      "updatedAt": "2026-07-09T22:52:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-iv-24-25-manga-longa-jogador-nike-masculina-azul/back.webp",
+      "hash": "131e78502168945d2b3c755986576e65c395870d172b5d42e986ad12b0f4daa9",
+      "width": 480,
+      "height": 480,
+      "size": 26516,
+      "createdAt": "2026-07-09T22:52:15Z",
+      "updatedAt": "2026-07-09T22:52:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-iv-24-25-manga-longa-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "23c09a4884347626f3dc307e4196197bc287bcc595c313f710ce9d63b7820d75",
+      "width": 480,
+      "height": 480,
+      "size": 18458,
+      "createdAt": "2026-07-09T22:52:16Z",
+      "updatedAt": "2026-07-09T22:52:16Z"
+    }
+  ]
+}

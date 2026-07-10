@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com-patch-eurocopa",
+  "createdAt": "2026-07-09T22:11:01Z",
+  "updatedAt": "2026-07-09T22:11:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/front.webp",
+      "hash": "f30dd2528a21a537d86b17ceac4839caa6c09c5d87bde95c87b5069951828afa",
+      "width": 480,
+      "height": 480,
+      "size": 8954,
+      "createdAt": "2026-07-09T22:11:00Z",
+      "updatedAt": "2026-07-09T22:11:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/back.webp",
+      "hash": "479d20762606d3ee8d7a8c1f74523d99ca3d49159ce6755365d56a2ff8560dc6",
+      "width": 480,
+      "height": 480,
+      "size": 9260,
+      "createdAt": "2026-07-09T22:11:00Z",
+      "updatedAt": "2026-07-09T22:11:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/detail-1.webp",
+      "hash": "ff21985688712e4153ee8437244b0ce1b8dbc809a2f1a5f62984ef44d3a13d21",
+      "width": 480,
+      "height": 480,
+      "size": 6354,
+      "createdAt": "2026-07-09T22:11:00Z",
+      "updatedAt": "2026-07-09T22:11:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/detail-2.webp",
+      "hash": "e76b7c652ec46668a45a64c9ea43827d0ce0db8951a450d1b1c33993ea1d2409",
+      "width": 480,
+      "height": 483,
+      "size": 14988,
+      "createdAt": "2026-07-09T22:11:01Z",
+      "updatedAt": "2026-07-09T22:11:01Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/detail-3.webp",
+      "hash": "bb4bf630dc20e80cf3cae8d4f261e4d0fe8cdf26f12d77708dc9d8a7736e2236",
+      "width": 480,
+      "height": 486,
+      "size": 11424,
+      "createdAt": "2026-07-09T22:11:01Z",
+      "updatedAt": "2026-07-09T22:11:01Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/italia/24-25/fan/camisa-selecao-da-italia-ii-24-25-torcedor-adidas-masculina-branca-com--8ddd065f/detail-4.webp",
+      "hash": "d56a7423bb442f5d7c9ba82e2068d3076cfb619796df5b07230f7e7da8bd6d45",
+      "width": 480,
+      "height": 477,
+      "size": 21500,
+      "createdAt": "2026-07-09T22:11:01Z",
+      "updatedAt": "2026-07-09T22:11:01Z"
+    }
+  ]
+}

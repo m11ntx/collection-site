@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-ac-milan-treino-24-25-masculino-puma-vermelho-e-preto",
+  "createdAt": "2026-07-09T22:49:28Z",
+  "updatedAt": "2026-07-09T22:49:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/conjunto-ac-milan-treino-24-25-masculino-puma-vermelho-e-preto/front.webp",
+      "hash": "de80b74ef3a576e87daee4945a67e816d6a0a72395d0edab3381a9085dac1c98",
+      "width": 480,
+      "height": 480,
+      "size": 15724,
+      "createdAt": "2026-07-09T22:49:28Z",
+      "updatedAt": "2026-07-09T22:49:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/conjunto-ac-milan-treino-24-25-masculino-puma-vermelho-e-preto/back.webp",
+      "hash": "54fb4f4b04429281c0681c15ae56468a742152ce3ad6e77653908bd5d524d218",
+      "width": 480,
+      "height": 480,
+      "size": 15054,
+      "createdAt": "2026-07-09T22:49:28Z",
+      "updatedAt": "2026-07-09T22:49:28Z"
+    }
+  ]
+}

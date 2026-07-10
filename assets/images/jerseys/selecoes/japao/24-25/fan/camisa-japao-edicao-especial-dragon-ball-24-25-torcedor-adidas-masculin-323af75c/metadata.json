@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculina-multicolorida-com-desenhos-do-dragon-ball",
+  "createdAt": "2026-07-09T22:08:33Z",
+  "updatedAt": "2026-07-09T22:08:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/front.webp",
+      "hash": "1a534d881b81e3eb1e24a27120b8f1738a38cb9549d6ce7b0f9a1f5d0b486b09",
+      "width": 480,
+      "height": 480,
+      "size": 17192,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/back.webp",
+      "hash": "fb08412148f1e9e0ab5d9977d818b59d779bdaad90d8c20cd6aa82df4acacb1e",
+      "width": 480,
+      "height": 480,
+      "size": 16822,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/detail-1.webp",
+      "hash": "1459aa145fef7edcedc94bc0ada9dc4a219dc782814d58f8d3d9248efa0947a5",
+      "width": 480,
+      "height": 480,
+      "size": 25718,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/detail-2.webp",
+      "hash": "c0e96abeaa2f9853ff74891c43545085b30e1fa9c144842890df4949a052e72c",
+      "width": 480,
+      "height": 480,
+      "size": 44464,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/detail-3.webp",
+      "hash": "0063de65580f9244631996c3149980e3d7e5e4ab2c7aacc8686077f93d720e8d",
+      "width": 480,
+      "height": 480,
+      "size": 57710,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/detail-4.webp",
+      "hash": "e69f7e545ae9d87247588e461117f05f089fe4e701ebe331935f3b1f3a653239",
+      "width": 480,
+      "height": 480,
+      "size": 28082,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-dragon-ball-24-25-torcedor-adidas-masculin-323af75c/detail-5.webp",
+      "hash": "a9834ea8937cc2c455a91817492f6680fe87475cb6741cb28a58fe7ee019a806",
+      "width": 480,
+      "height": 480,
+      "size": 17158,
+      "createdAt": "2026-07-09T22:08:33Z",
+      "updatedAt": "2026-07-09T22:08:33Z"
+    }
+  ]
+}

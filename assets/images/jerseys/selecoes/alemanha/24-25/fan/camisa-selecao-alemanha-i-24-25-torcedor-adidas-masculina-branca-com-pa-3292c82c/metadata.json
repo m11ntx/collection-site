@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-alemanha-i-24-25-torcedor-adidas-masculina-branca-com-patch-eurocopa",
+  "createdAt": "2026-07-09T22:11:02Z",
+  "updatedAt": "2026-07-09T22:11:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-alemanha-i-24-25-torcedor-adidas-masculina-branca-com-pa-3292c82c/front.webp",
+      "hash": "9aa2f77258d90af9cadf84ee020d9f81aaaa05973273047b1481b20936e75938",
+      "width": 480,
+      "height": 480,
+      "size": 6860,
+      "createdAt": "2026-07-09T22:11:02Z",
+      "updatedAt": "2026-07-09T22:11:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-alemanha-i-24-25-torcedor-adidas-masculina-branca-com-pa-3292c82c/back.webp",
+      "hash": "e4e0f64681faed9a54f9422f619fd4490890cd29d3b2080ff2f3666e79fa1557",
+      "width": 480,
+      "height": 480,
+      "size": 4254,
+      "createdAt": "2026-07-09T22:11:02Z",
+      "updatedAt": "2026-07-09T22:11:02Z"
+    }
+  ]
+}

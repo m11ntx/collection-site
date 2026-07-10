@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-manchester-united-iii-24-25-manga-longa-jogador-adidas-masculina-branca",
+  "createdAt": "2026-07-09T22:50:44Z",
+  "updatedAt": "2026-07-09T22:50:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-iii-24-25-manga-longa-jogador-adidas-masculina-branca/front.webp",
+      "hash": "80558325c0fc46ba858b8efe0deac87c51695b55cc1c703128fd10ebc119964b",
+      "width": 480,
+      "height": 480,
+      "size": 12280,
+      "createdAt": "2026-07-09T22:50:44Z",
+      "updatedAt": "2026-07-09T22:50:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-iii-24-25-manga-longa-jogador-adidas-masculina-branca/back.webp",
+      "hash": "b4b903183e0204c45c8043cab739a47ce1846cc2335a9226d2316fc44b6794df",
+      "width": 480,
+      "height": 480,
+      "size": 19282,
+      "createdAt": "2026-07-09T22:50:44Z",
+      "updatedAt": "2026-07-09T22:50:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-iii-24-25-manga-longa-jogador-adidas-masculina-branca/detail-1.webp",
+      "hash": "c324fe559d9a46823c8eeca26ea6660a767916aaa40e58169c1cf50f5067ba7f",
+      "width": 480,
+      "height": 480,
+      "size": 7380,
+      "createdAt": "2026-07-09T22:50:44Z",
+      "updatedAt": "2026-07-09T22:50:44Z"
+    }
+  ]
+}

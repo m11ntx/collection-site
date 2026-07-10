@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-lazio-24-25-masculina-mizuno-branco-2",
+  "createdAt": "2026-07-09T22:48:59Z",
+  "updatedAt": "2026-07-09T22:48:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/jaqueta-corta-vento-lazio-24-25-masculina-mizuno-branco-2/front.webp",
+      "hash": "8aaaa64e791dbf9873b27241ace0863f59615fa6e56c10969eb4d77b7fb334ab",
+      "width": 480,
+      "height": 480,
+      "size": 4280,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/jaqueta-corta-vento-lazio-24-25-masculina-mizuno-branco-2/back.webp",
+      "hash": "b4b8c2ed7fbc32f6f2e233d821ef1fcfea60ba81df33ad9d0bba32e60ec2e67d",
+      "width": 480,
+      "height": 480,
+      "size": 2352,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/lazio/24-25/sem-versao/jaqueta-corta-vento-lazio-24-25-masculina-mizuno-branco-2/detail-1.webp",
+      "hash": "04bc9d30ba45fdf96f6119c55e137656d0cd460fcd6573815e1974e58e0e08b7",
+      "width": 480,
+      "height": 480,
+      "size": 5078,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    }
+  ]
+}

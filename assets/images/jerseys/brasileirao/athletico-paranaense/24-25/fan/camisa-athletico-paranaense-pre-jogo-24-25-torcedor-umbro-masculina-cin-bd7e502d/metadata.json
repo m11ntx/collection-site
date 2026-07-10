@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-athletico-paranaense-pre-jogo-24-25-torcedor-umbro-masculina-cinza-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:10:18Z",
+  "updatedAt": "2026-07-09T22:10:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-pre-jogo-24-25-torcedor-umbro-masculina-cin-bd7e502d/front.webp",
+      "hash": "66369252ed864308f9696285d65ca67972056c984c309c42a41bf428598103db",
+      "width": 480,
+      "height": 480,
+      "size": 16484,
+      "createdAt": "2026-07-09T22:10:18Z",
+      "updatedAt": "2026-07-09T22:10:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-pre-jogo-24-25-torcedor-umbro-masculina-cin-bd7e502d/back.webp",
+      "hash": "4775a5c1685d989e2fb27c901f6ebdcef76a729ef2fb39f85a32ae46476b0149",
+      "width": 480,
+      "height": 480,
+      "size": 15850,
+      "createdAt": "2026-07-09T22:10:18Z",
+      "updatedAt": "2026-07-09T22:10:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/fan/camisa-athletico-paranaense-pre-jogo-24-25-torcedor-umbro-masculina-cin-bd7e502d/detail-1.webp",
+      "hash": "7067030e956fad5c8f60678f968829585f69654b2181185b8ec49b4c3ea5c134",
+      "width": 480,
+      "height": 480,
+      "size": 10152,
+      "createdAt": "2026-07-09T22:10:18Z",
+      "updatedAt": "2026-07-09T22:10:18Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-arsenal-edicao-especial-26-27-torcedor",
+  "createdAt": "2026-07-09T22:53:14Z",
+  "updatedAt": "2026-07-09T22:53:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/camisa-do-arsenal-edicao-especial-26-27-torcedor/front.webp",
+      "hash": "9b8246c33078d78e935a26859b6031e2919a0b3d08156c465cd37591f0fb7b89",
+      "width": 480,
+      "height": 480,
+      "size": 11022,
+      "createdAt": "2026-07-09T22:53:14Z",
+      "updatedAt": "2026-07-09T22:53:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/camisa-do-arsenal-edicao-especial-26-27-torcedor/back.webp",
+      "hash": "241d5faafd5fb50a1366de83b31c250c3fef34f365075be71326e635547fb58c",
+      "width": 480,
+      "height": 480,
+      "size": 7938,
+      "createdAt": "2026-07-09T22:53:14Z",
+      "updatedAt": "2026-07-09T22:53:14Z"
+    }
+  ]
+}

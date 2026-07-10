@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amarela-fluorescente-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:10:00Z",
+  "updatedAt": "2026-07-09T22:10:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/front.webp",
+      "hash": "2e00ab3f3097569bb01b25fff781d40d97c968f2faeef54d1f14520b098de01e",
+      "width": 480,
+      "height": 480,
+      "size": 5422,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/back.webp",
+      "hash": "000055fd0ebb876b0c5de5b1c592cfc0564df728ce7973aa4455ac7a8ea50ce3",
+      "width": 480,
+      "height": 480,
+      "size": 4844,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/detail-1.webp",
+      "hash": "061e5eabd5ca7e3b28dd11f80a7e62a10fb1541feafa78ad44fc548e0603ee25",
+      "width": 480,
+      "height": 480,
+      "size": 16308,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/detail-2.webp",
+      "hash": "eae8fa7301fc0fc05460a035c6638122055ff486b0ca7ebd768ce8efc3eb0484",
+      "width": 480,
+      "height": 480,
+      "size": 17366,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/detail-3.webp",
+      "hash": "2878aec72a85e489e350a166b434adb501f396a60e28099ffb79b106c0db97fd",
+      "width": 480,
+      "height": 480,
+      "size": 12804,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-regata-vasco-da-gama-treino-24-25-torcedor-kappa-masculina-amare-8a5feffd/detail-4.webp",
+      "hash": "5020daf410dc243e78f4c958d23e56784cd2d382d6e5d97be522b5b98736487d",
+      "width": 480,
+      "height": 480,
+      "size": 47318,
+      "createdAt": "2026-07-09T22:10:00Z",
+      "updatedAt": "2026-07-09T22:10:00Z"
+    }
+  ]
+}

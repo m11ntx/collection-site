@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-juventus-treino-24-25-masculino-adidas-azul-e-laranja",
+  "createdAt": "2026-07-09T22:49:28Z",
+  "updatedAt": "2026-07-09T22:49:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/conjunto-juventus-treino-24-25-masculino-adidas-azul-e-laranja/front.webp",
+      "hash": "e944f964fb325ee9a575f851fe7bb27c4620c6877544a6726ce5fda7415e1812",
+      "width": 480,
+      "height": 480,
+      "size": 13006,
+      "createdAt": "2026-07-09T22:49:28Z",
+      "updatedAt": "2026-07-09T22:49:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/conjunto-juventus-treino-24-25-masculino-adidas-azul-e-laranja/back.webp",
+      "hash": "e0d8d10edd1f6e6ea7298b341c242b2150ada03e7f0507dc93a14019157d6a19",
+      "width": 480,
+      "height": 480,
+      "size": 9290,
+      "createdAt": "2026-07-09T22:49:28Z",
+      "updatedAt": "2026-07-09T22:49:28Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-newcastle-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:10:17Z",
+  "updatedAt": "2026-07-09T22:10:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/fan/camisa-newcastle-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-de-5abf3125/front.webp",
+      "hash": "b07762a669a152350ae81c571a727bae6a77a74fbe0bab13429553b2e36c4b57",
+      "width": 480,
+      "height": 480,
+      "size": 25746,
+      "createdAt": "2026-07-09T22:10:17Z",
+      "updatedAt": "2026-07-09T22:10:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/fan/camisa-newcastle-pre-jogo-24-25-torcedor-adidas-masculina-branca-com-de-5abf3125/back.webp",
+      "hash": "7c45b8f37610faa788924a3286bd5b1213919bc7b7a3a38bbd002fe7e5be9c44",
+      "width": 480,
+      "height": 480,
+      "size": 28386,
+      "createdAt": "2026-07-09T22:10:17Z",
+      "updatedAt": "2026-07-09T22:10:17Z"
+    }
+  ]
+}

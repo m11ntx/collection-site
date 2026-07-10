@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha-com-listras-pretas",
+  "createdAt": "2026-07-09T22:50:32Z",
+  "updatedAt": "2026-07-09T22:50:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/front.webp",
+      "hash": "666bdcab5880ade666cd9eb4ad7d732fe42d051b87408d272bbc61eba849bcea",
+      "width": 480,
+      "height": 480,
+      "size": 9974,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/back.webp",
+      "hash": "2d147051c4595526de8eba2e2ad7a340c003448dac09d66775e16b6cf5fb1da3",
+      "width": 480,
+      "height": 480,
+      "size": 15008,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/detail-1.webp",
+      "hash": "aeea9c907570114f4357257bb7de8441f5708c1f336c7309bb1818548cbc88b5",
+      "width": 480,
+      "height": 480,
+      "size": 8750,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/detail-2.webp",
+      "hash": "0ce699d77b07bcab9a122ae34878d6e0bedae7abc5a1ce9a8ba0a4ea6a4f0945",
+      "width": 480,
+      "height": 480,
+      "size": 57066,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/detail-3.webp",
+      "hash": "6c2384a6e3e1b00225543fb9c6bd3eca8007a2ddbc3120cc1cf2e2c07ebcf8a4",
+      "width": 480,
+      "height": 480,
+      "size": 44072,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/detail-4.webp",
+      "hash": "df625d75b25c4775605323c9d1c85df1374218444ca342ec01c91e83d85d68c8",
+      "width": 480,
+      "height": 480,
+      "size": 13896,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/1994-1995/sem-versao/camisa-retro-flamengo-i-1994-1995-manga-longa-masculina-umbro-vermelha--a95daa24/detail-5.webp",
+      "hash": "450da7dc015ebdb0b3093971118972d7ad8b3d2a2aed668b7f09f3b183eef0b6",
+      "width": 480,
+      "height": 480,
+      "size": 18140,
+      "createdAt": "2026-07-09T22:50:32Z",
+      "updatedAt": "2026-07-09T22:50:32Z"
+    }
+  ]
+}

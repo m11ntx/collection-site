@@ -1,0 +1,57 @@
+{
+  "productId": "source-conjunto-real-madrid-24-25-masculino-adidas-preto",
+  "createdAt": "2026-07-09T22:49:22Z",
+  "updatedAt": "2026-07-09T22:49:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/conjunto-real-madrid-24-25-masculino-adidas-preto/front.webp",
+      "hash": "764bf01f70d6b087435941bdb7937d24f16a7a227c425a640d129b282fc02627",
+      "width": 480,
+      "height": 480,
+      "size": 11824,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/conjunto-real-madrid-24-25-masculino-adidas-preto/back.webp",
+      "hash": "4a6d9b2e6c820766eabb02f7a1f06ed0c1d90486894af9200cc16518e8fbf3c7",
+      "width": 480,
+      "height": 480,
+      "size": 7602,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/conjunto-real-madrid-24-25-masculino-adidas-preto/detail-1.webp",
+      "hash": "bfa63c7e8248cc229dd380de43a2ae0af7273a082b9fe4b41e1be69532e9e35a",
+      "width": 480,
+      "height": 480,
+      "size": 6756,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/conjunto-real-madrid-24-25-masculino-adidas-preto/detail-2.webp",
+      "hash": "97ed50df8af21d29a7b3dc1dfbe42e62ad9c50b2d839d0098ae06fc4b919d2f6",
+      "width": 480,
+      "height": 480,
+      "size": 15532,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/conjunto-real-madrid-24-25-masculino-adidas-preto/detail-3.webp",
+      "hash": "43b75b2fcefa7359f20f87285cef47aa8de5e2f26795240a0716948c7999d24e",
+      "width": 480,
+      "height": 480,
+      "size": 35416,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    }
+  ]
+}

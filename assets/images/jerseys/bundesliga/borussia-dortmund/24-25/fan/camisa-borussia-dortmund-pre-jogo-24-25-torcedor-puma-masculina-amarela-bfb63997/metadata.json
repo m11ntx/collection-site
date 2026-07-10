@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-borussia-dortmund-pre-jogo-24-25-torcedor-puma-masculina-amarela-com-detalhes-em-preto-2",
+  "createdAt": "2026-07-09T22:10:06Z",
+  "updatedAt": "2026-07-09T22:10:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-pre-jogo-24-25-torcedor-puma-masculina-amarela-bfb63997/front.webp",
+      "hash": "fd08599fbfcbeaccfdfd527934c03809c68e450400a87194233db0d476873bc7",
+      "width": 480,
+      "height": 480,
+      "size": 23358,
+      "createdAt": "2026-07-09T22:10:06Z",
+      "updatedAt": "2026-07-09T22:10:06Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-pre-jogo-24-25-torcedor-puma-masculina-amarela-bfb63997/back.webp",
+      "hash": "b00cce4c99371fc24a27b47f190d6193fb421fe8ad3001a19150fa370e03dfcf",
+      "width": 480,
+      "height": 480,
+      "size": 4348,
+      "createdAt": "2026-07-09T22:10:06Z",
+      "updatedAt": "2026-07-09T22:10:06Z"
+    }
+  ]
+}

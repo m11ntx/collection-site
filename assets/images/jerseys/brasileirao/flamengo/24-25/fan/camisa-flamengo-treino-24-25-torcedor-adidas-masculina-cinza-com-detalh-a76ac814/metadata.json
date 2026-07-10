@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalhes-em-preto-e-amarelo",
+  "createdAt": "2026-07-09T22:08:25Z",
+  "updatedAt": "2026-07-09T22:08:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/front.webp",
+      "hash": "a9f4b12f6928cbf9503d9e25235511ebfb778b2bc6128a3a72e244795bdc9e6d",
+      "width": 480,
+      "height": 480,
+      "size": 5486,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/back.webp",
+      "hash": "8a1bd6efac15d9b2f441d15fa5d767004648683159162428d0903c76e4f74f59",
+      "width": 480,
+      "height": 480,
+      "size": 4152,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/detail-1.webp",
+      "hash": "c560c096fb453df0de9b83c2e098d902e27e2068ab8bff19d4097f926ca2ac73",
+      "width": 480,
+      "height": 480,
+      "size": 10190,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/detail-2.webp",
+      "hash": "95294118800d4cbda3cf9ff4e27ce5586802b5b954588baa81719e23675c1300",
+      "width": 480,
+      "height": 480,
+      "size": 75948,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/detail-3.webp",
+      "hash": "020be4a673d06ffbedca756d0d06690bfc485083500c80dc9855f9bf91195771",
+      "width": 480,
+      "height": 480,
+      "size": 78854,
+      "createdAt": "2026-07-09T22:08:25Z",
+      "updatedAt": "2026-07-09T22:08:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-torcedor-adidas-masculina-cinza-com-detalh-a76ac814/detail-4.webp",
+      "hash": "3d712cc8b3a3327580a2283b3426cad922411296af50f31097ddc73e0cc163ee",
+      "width": 480,
+      "height": 480,
+      "size": 11036,
+      "createdAt": "2026-07-09T22:08:25Z",
+      "updatedAt": "2026-07-09T22:08:25Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-25-verde-e-vermelho-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:51:43Z",
+  "updatedAt": "2026-07-09T22:51:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-2-e8f1f83a/front.webp",
+      "hash": "5ef27d31f6c0fe3e578a410ff4a6af137269dc91996aa33c5bb285d526d51ca3",
+      "width": 480,
+      "height": 480,
+      "size": 26934,
+      "createdAt": "2026-07-09T22:51:43Z",
+      "updatedAt": "2026-07-09T22:51:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-2-e8f1f83a/back.webp",
+      "hash": "15cf8e7c20f14d570242b0a84cdfe99fff0999a5c4807c9a6ff6d9c28e58fd12",
+      "width": 480,
+      "height": 480,
+      "size": 26626,
+      "createdAt": "2026-07-09T22:51:43Z",
+      "updatedAt": "2026-07-09T22:51:43Z"
+    }
+  ]
+}

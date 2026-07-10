@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:09:13Z",
+  "updatedAt": "2026-07-09T22:09:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/front.webp",
+      "hash": "ad9e94c2df77378e898088b9cad4fb549cdf4da499001e9f059cd8d4ea21ee58",
+      "width": 480,
+      "height": 480,
+      "size": 5338,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/back.webp",
+      "hash": "35858fe451b6000c3a5cd0403fb7c53452e385a3dd10919b3384fb0e29d2be46",
+      "width": 480,
+      "height": 480,
+      "size": 8120,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/detail-1.webp",
+      "hash": "85ef9e585bdf5212b12820de7d08c51fac87443b7cc3e8d61f275cb38c8d4555",
+      "width": 480,
+      "height": 480,
+      "size": 3148,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/detail-2.webp",
+      "hash": "3bc815464d8a88769d4e78a0e42b55bffcc98085e418c6c5b142d7ee9aee28e9",
+      "width": 480,
+      "height": 480,
+      "size": 24188,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/detail-3.webp",
+      "hash": "6bcf7c2398f54d842cb9999f12667ce59b93a4ba7afd445de3ca967292ff9811",
+      "width": 480,
+      "height": 480,
+      "size": 10504,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/detail-4.webp",
+      "hash": "83362cec4e336605712b2b6269365da5233e9a2fe9755c17f9bdd314db4b2ef8",
+      "width": 480,
+      "height": 480,
+      "size": 11258,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-regata-flamengo-ii-24-25-torcedor-adidas-masculina-branca-com-de-b5f8279e/detail-5.webp",
+      "hash": "b2cbf3895a211f8a1330d9cef03634c4c0599d1f82beae3d8b732706d6073db8",
+      "width": 480,
+      "height": 480,
+      "size": 6054,
+      "createdAt": "2026-07-09T22:09:12Z",
+      "updatedAt": "2026-07-09T22:09:12Z"
+    }
+  ]
+}

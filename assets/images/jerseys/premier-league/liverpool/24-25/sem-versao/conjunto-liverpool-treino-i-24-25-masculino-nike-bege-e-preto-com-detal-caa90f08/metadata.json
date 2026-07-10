@@ -1,0 +1,47 @@
+{
+  "productId": "source-conjunto-liverpool-treino-i-24-25-masculino-nike-bege-e-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:49:29Z",
+  "updatedAt": "2026-07-09T22:49:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-i-24-25-masculino-nike-bege-e-preto-com-detal-caa90f08/front.webp",
+      "hash": "29cabd0875839cff3881a14e29ca69fb7f8f2609f20796682b53224275c5dedb",
+      "width": 480,
+      "height": 480,
+      "size": 9268,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-i-24-25-masculino-nike-bege-e-preto-com-detal-caa90f08/back.webp",
+      "hash": "9aee7946ebc780c19eeb08e8f2f537890d514b61f1b2e51e15b2e2b62f47480d",
+      "width": 480,
+      "height": 480,
+      "size": 6958,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-i-24-25-masculino-nike-bege-e-preto-com-detal-caa90f08/detail-1.webp",
+      "hash": "c348d0eba206a0222c27fbe62cb84225cb2a777bf12a03e17cb73238634d0987",
+      "width": 480,
+      "height": 600,
+      "size": 26960,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-i-24-25-masculino-nike-bege-e-preto-com-detal-caa90f08/detail-2.webp",
+      "hash": "8ee747ec1e52971c42611590a9564675a8bcc7ccd57c25a1fbbb3b691d373495",
+      "width": 480,
+      "height": 600,
+      "size": 21290,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    }
+  ]
+}

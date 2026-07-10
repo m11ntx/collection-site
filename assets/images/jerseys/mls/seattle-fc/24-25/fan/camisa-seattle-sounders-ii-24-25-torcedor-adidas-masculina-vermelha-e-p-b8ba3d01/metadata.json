@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-preta-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T22:09:41Z",
+  "updatedAt": "2026-07-09T22:09:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/seattle-fc/24-25/fan/camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-p-b8ba3d01/front.webp",
+      "hash": "5099da2c36a4ae558ce04f3d097c403b1eba108e7670b0e0d502761524b518d1",
+      "width": 480,
+      "height": 480,
+      "size": 29248,
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/seattle-fc/24-25/fan/camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-p-b8ba3d01/back.webp",
+      "hash": "9a7f629053eb2b7ca597c4bfabacfe45d3b664be018c7dfb30aea6289eb6c70e",
+      "width": 480,
+      "height": 480,
+      "size": 11768,
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/seattle-fc/24-25/fan/camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-p-b8ba3d01/detail-1.webp",
+      "hash": "79c77f9273d84a6a4b307d145a20ede75b15419705e7abf2e682478268abcc39",
+      "width": 480,
+      "height": 720,
+      "size": 63956,
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/seattle-fc/24-25/fan/camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-p-b8ba3d01/detail-2.webp",
+      "hash": "bd9893b545c07ca8643d81cbc614be1bb3944d3772d7d88d69d856d7384211b2",
+      "width": 480,
+      "height": 720,
+      "size": 54254,
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
+    }
+  ]
+}

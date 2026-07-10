@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina",
+  "createdAt": "2026-07-09T23:38:37Z",
+  "updatedAt": "2026-07-09T23:38:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina/front.webp",
+      "hash": "e64c2ddb0428e329cadbd8f5889783ffa5f697d730da0782cf3ebe7ede032625",
+      "width": 480,
+      "height": 480,
+      "size": 8836,
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina/back.webp",
+      "hash": "86b4a8e8aa06a1070f61e45a3470b590d3c4f204a84a1e9625c6066fed3b2082",
+      "width": 480,
+      "height": 480,
+      "size": 3926,
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina/detail-1.webp",
+      "hash": "a266081689cb018e4012be03fc79ab91fb227904af1d5ff12ff82fef12d29a48",
+      "width": 480,
+      "height": 480,
+      "size": 14852,
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/24-25/fan/camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina/detail-2.webp",
+      "hash": "5f884185194ba7175a6ff5dfe8f77fd7074fa1c562e95db0d770c2e41666f0a2",
+      "width": 480,
+      "height": 480,
+      "size": 12338,
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
+    }
+  ]
+}

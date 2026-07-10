@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalhes-em-cinza-e-rosa",
+  "createdAt": "2026-07-09T22:51:47Z",
+  "updatedAt": "2026-07-09T22:51:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-9da3b4cc/front.webp",
+      "hash": "1d7e896f5b2d59ac7b10791093e637c5c6abcaca6173ed107821d39978bf9ab3",
+      "width": 480,
+      "height": 480,
+      "size": 19378,
+      "createdAt": "2026-07-09T22:51:46Z",
+      "updatedAt": "2026-07-09T22:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-9da3b4cc/back.webp",
+      "hash": "7865ced93d563ded444fa9b38a0008fb6394fb900596599cfe9abef7563439e0",
+      "width": 480,
+      "height": 480,
+      "size": 17804,
+      "createdAt": "2026-07-09T22:51:46Z",
+      "updatedAt": "2026-07-09T22:51:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-9da3b4cc/detail-1.webp",
+      "hash": "2c3870e316cf26743f531126b06baa6bea48138a0fae0f0091430789236dab7d",
+      "width": 480,
+      "height": 480,
+      "size": 18468,
+      "createdAt": "2026-07-09T22:51:47Z",
+      "updatedAt": "2026-07-09T22:51:47Z"
+    }
+  ]
+}

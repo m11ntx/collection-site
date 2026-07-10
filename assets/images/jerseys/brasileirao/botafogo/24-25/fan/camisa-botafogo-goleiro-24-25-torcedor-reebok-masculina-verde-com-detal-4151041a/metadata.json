@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:09:48Z",
+  "updatedAt": "2026-07-09T22:09:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detal-4151041a/front.webp",
+      "hash": "72d69c917da7911095edc03041bbdda792b6ea7e84174274798c06030df4be4f",
+      "width": 480,
+      "height": 480,
+      "size": 6960,
+      "createdAt": "2026-07-09T22:09:48Z",
+      "updatedAt": "2026-07-09T22:09:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detal-4151041a/back.webp",
+      "hash": "041f4d9d78ac14c92bbfe232f597265861d05683f66f45c7ce613d27b74458a1",
+      "width": 480,
+      "height": 480,
+      "size": 6304,
+      "createdAt": "2026-07-09T22:09:48Z",
+      "updatedAt": "2026-07-09T22:09:48Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detal-4151041a/detail-1.webp",
+      "hash": "4bba4c22c9cc73e08b076c9f85f45859137b7cc9d734e44891f5f3d3b29fb68e",
+      "width": 480,
+      "height": 480,
+      "size": 7084,
+      "createdAt": "2026-07-09T22:09:48Z",
+      "updatedAt": "2026-07-09T22:09:48Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detal-4151041a/detail-2.webp",
+      "hash": "eb7bbdf6814687e17e3c3e7aab22f05017d073d92ee6cabe522a0a227fdbbd8b",
+      "width": 480,
+      "height": 480,
+      "size": 23108,
+      "createdAt": "2026-07-09T22:09:48Z",
+      "updatedAt": "2026-07-09T22:09:48Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-goleiro-24-25-torcedor-reebok-masculina-verde-com-detal-4151041a/detail-3.webp",
+      "hash": "b57d232b0275e6d81e2d7e74aaaafd8acbd88b70647a13b1086ab8f90f5ea4e0",
+      "width": 480,
+      "height": 480,
+      "size": 19316,
+      "createdAt": "2026-07-09T22:09:48Z",
+      "updatedAt": "2026-07-09T22:09:48Z"
+    }
+  ]
+}

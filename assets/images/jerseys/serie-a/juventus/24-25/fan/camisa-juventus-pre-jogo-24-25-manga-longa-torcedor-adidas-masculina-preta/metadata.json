@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-juventus-pre-jogo-24-25-manga-longa-torcedor-adidas-masculina-preta",
+  "createdAt": "2026-07-09T22:50:38Z",
+  "updatedAt": "2026-07-09T22:50:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-pre-jogo-24-25-manga-longa-torcedor-adidas-masculina-preta/front.webp",
+      "hash": "d223e44fe60cbe937715d917cbc0c6e991721217a4bf05d058456ceb59ca024e",
+      "width": 480,
+      "height": 480,
+      "size": 15296,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/fan/camisa-juventus-pre-jogo-24-25-manga-longa-torcedor-adidas-masculina-preta/back.webp",
+      "hash": "22820046dc3fabae598c797a81011a234653a7bf4861fe41933819d1e15fcd1e",
+      "width": 480,
+      "height": 480,
+      "size": 12776,
+      "createdAt": "2026-07-09T22:50:38Z",
+      "updatedAt": "2026-07-09T22:50:38Z"
+    }
+  ]
+}

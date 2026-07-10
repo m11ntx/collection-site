@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-preta-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T22:49:57Z",
+  "updatedAt": "2026-07-09T22:49:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/front.webp",
+      "hash": "9f4614cae402ec162b0959f5d455a43fd61abba914917bcfc4e49aa046a22caa",
+      "width": 480,
+      "height": 480,
+      "size": 9092,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/back.webp",
+      "hash": "9bb6941fcd7e41c7f64f01ef3a1d2a112b51aa1d53e5d1de0ca10167103db820",
+      "width": 480,
+      "height": 480,
+      "size": 5764,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/detail-1.webp",
+      "hash": "5b661d42c2fc3c5587b3a345c2cc5149672f103fe7ef726afdb403ac0ee4e576",
+      "width": 480,
+      "height": 480,
+      "size": 13188,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/detail-2.webp",
+      "hash": "a31b2d71c231ab95e0104f6291220b892fb46f2ce726ef0784ebc18e691faad9",
+      "width": 480,
+      "height": 480,
+      "size": 51052,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/detail-3.webp",
+      "hash": "2f7371f6353915337b85c5db574eb926ba086bf6ec8a90ace759e5d772f17c90",
+      "width": 480,
+      "height": 480,
+      "size": 45750,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/detail-4.webp",
+      "hash": "f9610f3782df898d3e85d50a7f4e7349fac58ec55faaff52dcfea174cb65c392",
+      "width": 480,
+      "height": 480,
+      "size": 17988,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2016-2017/sem-versao/camisa-retro-real-madrid-ii-2016-2017-manga-longa-adidas-masculina-pret-9d61313d/detail-5.webp",
+      "hash": "f097f58b0e553aa1a8963a408363e279d6cca3270792b22abe71e30a7ab4c745",
+      "width": 480,
+      "height": 480,
+      "size": 18314,
+      "createdAt": "2026-07-09T22:49:57Z",
+      "updatedAt": "2026-07-09T22:49:57Z"
+    }
+  ]
+}

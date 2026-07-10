@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhes-em-azul-e-rosa",
+  "createdAt": "2026-07-09T22:09:29Z",
+  "updatedAt": "2026-07-09T22:09:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhe-0b75ed30/front.webp",
+      "hash": "9e99fccc4ae410409db9108ff4918a9262cecf2ac0cc587a65f38ab2750d9ebe",
+      "width": 480,
+      "height": 480,
+      "size": 9484,
+      "createdAt": "2026-07-09T22:09:29Z",
+      "updatedAt": "2026-07-09T22:09:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhe-0b75ed30/back.webp",
+      "hash": "fbd2faf8d93be4baf35bfb5c3c5ac21252d8f62a14ffa3cfeb7a2ee352a7d50d",
+      "width": 480,
+      "height": 480,
+      "size": 5172,
+      "createdAt": "2026-07-09T22:09:29Z",
+      "updatedAt": "2026-07-09T22:09:29Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhe-0b75ed30/detail-1.webp",
+      "hash": "4cfb5e24b37df888e51abf93dbaa4cc986b8d12bd8dbb05a0ce221ab7dac7d3b",
+      "width": 480,
+      "height": 720,
+      "size": 45088,
+      "createdAt": "2026-07-09T22:09:29Z",
+      "updatedAt": "2026-07-09T22:09:29Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhe-0b75ed30/detail-2.webp",
+      "hash": "8257a8871d0833ad6da9769989035df5617609f351ad76f733d230ae3c83f12f",
+      "width": 480,
+      "height": 720,
+      "size": 46196,
+      "createdAt": "2026-07-09T22:09:29Z",
+      "updatedAt": "2026-07-09T22:09:29Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-ii-24-25-torcedor-adidas-masculina-roxa-com-detalhe-0b75ed30/detail-3.webp",
+      "hash": "21fd9d3ce8e21ff24f706f49c98c80fcc8ffd0dab13520db2b59801337762c94",
+      "width": 480,
+      "height": 720,
+      "size": 29726,
+      "createdAt": "2026-07-09T22:09:29Z",
+      "updatedAt": "2026-07-09T22:09:29Z"
+    }
+  ]
+}

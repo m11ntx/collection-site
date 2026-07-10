@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-cinza-com-detalhes-em-branco-e-vermelho",
+  "createdAt": "2026-07-09T22:09:19Z",
+  "updatedAt": "2026-07-09T22:09:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/front.webp",
+      "hash": "acd7303b7945e966f72e677efb1e9a7a82ce6cc72542aa84b1dc570e2993607a",
+      "width": 480,
+      "height": 480,
+      "size": 17178,
+      "createdAt": "2026-07-09T22:09:18Z",
+      "updatedAt": "2026-07-09T22:09:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/back.webp",
+      "hash": "f9d23df27062cfed6d13c3eeee9c61685590c1cd06249cd5b8038d375959fc98",
+      "width": 480,
+      "height": 480,
+      "size": 29972,
+      "createdAt": "2026-07-09T22:09:18Z",
+      "updatedAt": "2026-07-09T22:09:18Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/detail-1.webp",
+      "hash": "ac49347597304801d2306e3a261138d8875c2ec361e7aecc6ed137eb9b8ce1d7",
+      "width": 480,
+      "height": 480,
+      "size": 4268,
+      "createdAt": "2026-07-09T22:09:19Z",
+      "updatedAt": "2026-07-09T22:09:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/detail-2.webp",
+      "hash": "7b062bf6da3dad8552f89c6000ded0d457164bda95054e78ced5e8c9a82b1d6e",
+      "width": 480,
+      "height": 480,
+      "size": 46176,
+      "createdAt": "2026-07-09T22:09:19Z",
+      "updatedAt": "2026-07-09T22:09:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/detail-3.webp",
+      "hash": "176d7bd44ba0c555eb1564e6beb0bbdcf59e820b4122bbdbc6e6619b53e3a917",
+      "width": 480,
+      "height": 480,
+      "size": 45336,
+      "createdAt": "2026-07-09T22:09:19Z",
+      "updatedAt": "2026-07-09T22:09:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/detail-4.webp",
+      "hash": "5a3d7ab61d5d19b3062568cbbda8c3d99bc42135c2aeb9c8b31e42bdee4dd9dc",
+      "width": 480,
+      "height": 480,
+      "size": 17908,
+      "createdAt": "2026-07-09T22:09:19Z",
+      "updatedAt": "2026-07-09T22:09:19Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/japao/24-25/fan/camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-preta-e-ci-8ae19370/detail-5.webp",
+      "hash": "e3582c34cbc704e691859d230150329c55939faaa0f37fc3231d1811f4778de5",
+      "width": 480,
+      "height": 480,
+      "size": 11668,
+      "createdAt": "2026-07-09T22:09:19Z",
+      "updatedAt": "2026-07-09T22:09:19Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-ii-24-25-manga-longa-torcedor-adidas-masculina-preta-com-detalhes-em-verde-e-vermelho",
+  "createdAt": "2026-07-09T22:50:37Z",
+  "updatedAt": "2026-07-09T22:50:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-ii-24-25-manga-longa-torcedor-adidas-masculina-preta-com-5be2bcd4/front.webp",
+      "hash": "9252af67a145f41786095985d42e01126cdc77063816ea9175dad653c5378cbe",
+      "width": 480,
+      "height": 480,
+      "size": 12840,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-ii-24-25-manga-longa-torcedor-adidas-masculina-preta-com-5be2bcd4/back.webp",
+      "hash": "56c180db0324a61f2b6c30cc183b946bf0fb1b34fa2fadd3aab50deb16424cb7",
+      "width": 480,
+      "height": 480,
+      "size": 6500,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    }
+  ]
+}

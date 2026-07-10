@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-masculina-preta-e-amarela",
+  "createdAt": "2026-07-09T22:09:25Z",
+  "updatedAt": "2026-07-09T22:09:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/front.webp",
+      "hash": "d4d89d11426f92fffcc9532494d093dde65787bf2f80b3f57f4ff2076f192cd0",
+      "width": 480,
+      "height": 480,
+      "size": 8474,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/back.webp",
+      "hash": "c59d56ee46aaf33d4eb106f977f772f3be89cbb2ba18e2d8686712dec5d167a6",
+      "width": 480,
+      "height": 480,
+      "size": 12398,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/detail-1.webp",
+      "hash": "d2c7988b86af9ce83cf4705ab75adea7a41e15d6617e8c2bea32afc6fbad834c",
+      "width": 480,
+      "height": 480,
+      "size": 8376,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/detail-2.webp",
+      "hash": "0ef7a997baa3a328faabf607e41ea0f99b8c1d2beadada40ca7b2911256b886e",
+      "width": 480,
+      "height": 480,
+      "size": 17664,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/detail-3.webp",
+      "hash": "a7e1636b658de2da398c420b77b3dc2760e5a44fa39ef48c46c3611765f1b1e5",
+      "width": 480,
+      "height": 480,
+      "size": 43280,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/detail-4.webp",
+      "hash": "1b457fa52d056e8763dbf303568bd8bb21763dc9b85a6f9730bc1152855826c9",
+      "width": 480,
+      "height": 480,
+      "size": 16448,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/fan/camisa-borussia-dortmund-edicao-especial-50-anos-24-25-torcedor-puma-ma-3b249c98/detail-5.webp",
+      "hash": "62564db87ae39540f0c66c1485051b66300757ac19d0b18da528bea431760e09",
+      "width": 480,
+      "height": 480,
+      "size": 27986,
+      "createdAt": "2026-07-09T22:09:24Z",
+      "updatedAt": "2026-07-09T22:09:24Z"
+    }
+  ]
+}

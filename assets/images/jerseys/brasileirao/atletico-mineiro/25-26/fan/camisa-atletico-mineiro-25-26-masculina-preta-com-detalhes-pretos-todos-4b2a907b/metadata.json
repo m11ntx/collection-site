@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-25-26-masculina-preta-com-detalhes-pretos-todos-os-patrocinios",
+  "createdAt": "2026-07-09T22:12:40Z",
+  "updatedAt": "2026-07-09T22:12:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-25-26-masculina-preta-com-detalhes-pretos-todos-4b2a907b/front.webp",
+      "hash": "37da3d5b3eb63d0290e316c75d2e77013aee21d9e0b870fa27fa3360fbc2b70e",
+      "width": 480,
+      "height": 480,
+      "size": 9940,
+      "createdAt": "2026-07-09T22:12:40Z",
+      "updatedAt": "2026-07-09T22:12:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-25-26-masculina-preta-com-detalhes-pretos-todos-4b2a907b/back.webp",
+      "hash": "0e6d33fe64a0961014fb093536a85a4885e1768a0591fbdac2c1246be68f2bef",
+      "width": 480,
+      "height": 480,
+      "size": 7098,
+      "createdAt": "2026-07-09T22:12:40Z",
+      "updatedAt": "2026-07-09T22:12:40Z"
+    }
+  ]
+}

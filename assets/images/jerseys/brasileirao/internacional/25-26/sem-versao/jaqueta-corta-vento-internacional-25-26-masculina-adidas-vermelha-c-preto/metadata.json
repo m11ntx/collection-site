@@ -1,0 +1,67 @@
+{
+  "productId": "source-jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto",
+  "createdAt": "2026-07-09T22:52:23Z",
+  "updatedAt": "2026-07-09T22:52:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/front.webp",
+      "hash": "3025f8c5545dc93ed0bd73eac4d478bad3885f93b0ce2d85774b49f49171125c",
+      "width": 480,
+      "height": 480,
+      "size": 7586,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/back.webp",
+      "hash": "f7e4ecdc04fce672cce61971300788c393847165c25d0ea1381f3b7a01b4a4af",
+      "width": 480,
+      "height": 480,
+      "size": 5032,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/detail-1.webp",
+      "hash": "e1dfcdf11b4853c2a3b8414221f0d8b2799d4672f50ffa9423d19a5480b62d02",
+      "width": 480,
+      "height": 480,
+      "size": 7342,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/detail-2.webp",
+      "hash": "3569fc05d6d74a7ef50ff7f7d731ccf4cfab36c8b12ed7a8bb5a1f53a94a8bec",
+      "width": 480,
+      "height": 480,
+      "size": 7700,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/detail-3.webp",
+      "hash": "90e0f9b6cffbd2710d175c0206aa4196cdab49df7517e5fa50ee0e009201c5f8",
+      "width": 480,
+      "height": 480,
+      "size": 6930,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/internacional/25-26/sem-versao/jaqueta-corta-vento-internacional-25-26-masculina-adidas-vermelha-c-preto/detail-4.webp",
+      "hash": "98ebc07b95afc8fb0b54a0e32120f2e1cc5522dd68243904d1316e40d9abc71a",
+      "width": 480,
+      "height": 480,
+      "size": 5322,
+      "createdAt": "2026-07-09T22:52:23Z",
+      "updatedAt": "2026-07-09T22:52:23Z"
+    }
+  ]
+}

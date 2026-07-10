@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-24-25-all-black-todos-os-patrocinios-nike-masculina-torcedor",
+  "createdAt": "2026-07-09T22:51:55Z",
+  "updatedAt": "2026-07-09T22:51:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-24-25-all-black-todos-os-patrocinios-nike-masculina-torcedor/front.webp",
+      "hash": "78eaa2b46cb14297b129c95762de9e4e011b578aa378fc03a2839809d341f156",
+      "width": 480,
+      "height": 480,
+      "size": 5856,
+      "createdAt": "2026-07-09T22:51:55Z",
+      "updatedAt": "2026-07-09T22:51:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-24-25-all-black-todos-os-patrocinios-nike-masculina-torcedor/back.webp",
+      "hash": "0d8c5d7dff24db368e6f9ad751d89769e4f07c0d6ba8b723a174c5247ff114aa",
+      "width": 480,
+      "height": 480,
+      "size": 4916,
+      "createdAt": "2026-07-09T22:51:55Z",
+      "updatedAt": "2026-07-09T22:51:55Z"
+    }
+  ]
+}

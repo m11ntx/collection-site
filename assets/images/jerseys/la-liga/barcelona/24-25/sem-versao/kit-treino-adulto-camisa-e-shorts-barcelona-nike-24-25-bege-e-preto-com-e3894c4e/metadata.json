@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-bege-e-preto-com-detalhes-em-azul-e-vermelho-2",
+  "createdAt": "2026-07-09T22:51:26Z",
+  "updatedAt": "2026-07-09T22:51:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-bege-e-preto-com-e3894c4e/front.webp",
+      "hash": "361c7c3b514e7d5cd225d7bcdce1a8dfb812d712add0cb49a62d2b6248b53f93",
+      "width": 480,
+      "height": 480,
+      "size": 8432,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-bege-e-preto-com-e3894c4e/back.webp",
+      "hash": "8f8e97351e209362702ef398de099c5bb9b271aa7cd58394b22bcde59973deba",
+      "width": 480,
+      "height": 480,
+      "size": 4952,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-bege-e-preto-com-e3894c4e/detail-1.webp",
+      "hash": "38ecf5ecf7820861c44f6a6ff2bb190df35bc28faebc927f2f5df3d5c8bd9d7f",
+      "width": 480,
+      "height": 320,
+      "size": 4950,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-bege-e-preto-com-e3894c4e/detail-2.webp",
+      "hash": "75383920db9d28866d2b90418b64a3a7a6c58dab3d2773ad5713aa6c836e0b80",
+      "width": 480,
+      "height": 320,
+      "size": 6842,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    }
+  ]
+}

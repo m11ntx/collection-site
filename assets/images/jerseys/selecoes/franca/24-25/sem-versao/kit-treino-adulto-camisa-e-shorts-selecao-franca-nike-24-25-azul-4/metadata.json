@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-franca-nike-24-25-azul-4",
+  "createdAt": "2026-07-09T22:51:23Z",
+  "updatedAt": "2026-07-09T22:51:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-franca-nike-24-25-azul-4/front.webp",
+      "hash": "8ad9610992e6aeab8190f86a1502a94c64eb38af78e6f67d48b7be66f509169b",
+      "width": 480,
+      "height": 480,
+      "size": 8218,
+      "createdAt": "2026-07-09T22:51:23Z",
+      "updatedAt": "2026-07-09T22:51:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-selecao-franca-nike-24-25-azul-4/back.webp",
+      "hash": "078f158b8c45da10c59b6e62809dc448135ff6302a5053321d6712ad50df9280",
+      "width": 480,
+      "height": 480,
+      "size": 5502,
+      "createdAt": "2026-07-09T22:51:23Z",
+      "updatedAt": "2026-07-09T22:51:23Z"
+    }
+  ]
+}

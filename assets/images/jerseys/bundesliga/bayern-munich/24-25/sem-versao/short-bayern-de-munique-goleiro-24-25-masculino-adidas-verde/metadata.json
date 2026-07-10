@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-goleiro-24-25-masculino-adidas-verde",
+  "createdAt": "2026-07-09T22:50:57Z",
+  "updatedAt": "2026-07-09T22:50:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-goleiro-24-25-masculino-adidas-verde/front.webp",
+      "hash": "bd9e3b0618b1206bf98b4f71fdd09775539c65e613da1788a765060b3f347288",
+      "width": 480,
+      "height": 480,
+      "size": 9204,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-goleiro-24-25-masculino-adidas-verde/back.webp",
+      "hash": "6d9b1fb905ccb32e464ca26260487957c1212dc933876f4c7a3b464b026f6127",
+      "width": 480,
+      "height": 480,
+      "size": 7442,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    }
+  ]
+}

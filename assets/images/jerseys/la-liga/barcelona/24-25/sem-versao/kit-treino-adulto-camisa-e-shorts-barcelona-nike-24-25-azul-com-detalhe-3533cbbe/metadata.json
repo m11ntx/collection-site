@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-azul-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T22:51:26Z",
+  "updatedAt": "2026-07-09T22:51:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-azul-com-detalhe-3533cbbe/front.webp",
+      "hash": "09f1acb9405158bbaa680a3424cc4aca340af040bd7080ce00b857d1d38216df",
+      "width": 480,
+      "height": 480,
+      "size": 14052,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-azul-com-detalhe-3533cbbe/back.webp",
+      "hash": "7b2dab329d721c1993962c59115abac21c33c5cd0647142be85df6a60f4084d0",
+      "width": 480,
+      "height": 480,
+      "size": 10580,
+      "createdAt": "2026-07-09T22:51:26Z",
+      "updatedAt": "2026-07-09T22:51:26Z"
+    }
+  ]
+}

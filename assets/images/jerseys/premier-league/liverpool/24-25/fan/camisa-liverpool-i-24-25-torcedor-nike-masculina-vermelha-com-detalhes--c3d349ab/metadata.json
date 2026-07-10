@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-i-24-25-torcedor-nike-masculina-vermelha-com-detalhes-em-branco-e-amarelo",
+  "createdAt": "2026-07-09T22:07:44Z",
+  "updatedAt": "2026-07-09T22:07:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-i-24-25-torcedor-nike-masculina-vermelha-com-detalhes--c3d349ab/front.webp",
+      "hash": "2622fb34ba6802aebff06d300a80a54c70b515e830af471c72ba0ff461c50edb",
+      "width": 480,
+      "height": 480,
+      "size": 17458,
+      "createdAt": "2026-07-09T22:07:44Z",
+      "updatedAt": "2026-07-09T22:07:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/fan/camisa-liverpool-i-24-25-torcedor-nike-masculina-vermelha-com-detalhes--c3d349ab/back.webp",
+      "hash": "9e3fb6e5b0380ba103da6507b126b7fbde3e13442b3a40937057918fc5fcdf44",
+      "width": 480,
+      "height": 480,
+      "size": 13776,
+      "createdAt": "2026-07-09T22:07:44Z",
+      "updatedAt": "2026-07-09T22:07:44Z"
+    }
+  ]
+}

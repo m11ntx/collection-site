@@ -1,0 +1,67 @@
+{
+  "productId": "source-short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T22:50:52Z",
+  "updatedAt": "2026-07-09T22:50:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/front.webp",
+      "hash": "a8f40868bd63a2df3a3bcf07b241ae7a4bbd2cafb05967e98dae4c47ef3d873e",
+      "width": 480,
+      "height": 480,
+      "size": 5056,
+      "createdAt": "2026-07-09T22:50:51Z",
+      "updatedAt": "2026-07-09T22:50:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/back.webp",
+      "hash": "7e0e216afecfb248c7911a329b3d21cc4142f93b39f4f5ce794e04c3e6811499",
+      "width": 480,
+      "height": 480,
+      "size": 4842,
+      "createdAt": "2026-07-09T22:50:51Z",
+      "updatedAt": "2026-07-09T22:50:51Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/detail-1.webp",
+      "hash": "67e22d808b3c831c556d20eb21adff4332927fc4257222a01b590bd81b737813",
+      "width": 480,
+      "height": 480,
+      "size": 9960,
+      "createdAt": "2026-07-09T22:50:51Z",
+      "updatedAt": "2026-07-09T22:50:51Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/detail-2.webp",
+      "hash": "2743b441292f5ee955d3bd80c822b6ec672f0e4fe0b39a8a4306386469b6bc40",
+      "width": 480,
+      "height": 480,
+      "size": 9964,
+      "createdAt": "2026-07-09T22:50:51Z",
+      "updatedAt": "2026-07-09T22:50:51Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/detail-3.webp",
+      "hash": "3ee7a462248ea93a6fa99cf9de93c777828f2cc4499b29a58f89c48b76e05454",
+      "width": 480,
+      "height": 480,
+      "size": 43980,
+      "createdAt": "2026-07-09T22:50:52Z",
+      "updatedAt": "2026-07-09T22:50:52Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/short-palmeiras-ii-24-25-masculino-puma-branco-com-detalhes-em-verde/detail-4.webp",
+      "hash": "a32f3da8a8d24e783541fd7884e31cd5bc77f3fa38949e46864c5b851ca7e3a1",
+      "width": 480,
+      "height": 480,
+      "size": 17480,
+      "createdAt": "2026-07-09T22:50:52Z",
+      "updatedAt": "2026-07-09T22:50:52Z"
+    }
+  ]
+}

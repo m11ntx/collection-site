@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-i-24-25-manga-longa-torcedor-umbro-masculina-azul-e-preta",
+  "createdAt": "2026-07-09T22:50:34Z",
+  "updatedAt": "2026-07-09T22:50:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-i-24-25-manga-longa-torcedor-umbro-masculina-azul-e-preta/front.webp",
+      "hash": "d8727bc8b8003949ef77a94ff6e2d33a696dcc4b75a1336311b546569f6a9114",
+      "width": 480,
+      "height": 480,
+      "size": 19232,
+      "createdAt": "2026-07-09T22:50:34Z",
+      "updatedAt": "2026-07-09T22:50:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-i-24-25-manga-longa-torcedor-umbro-masculina-azul-e-preta/back.webp",
+      "hash": "5f1c1d0a5bd3b93787a722a9369ef95a1b0566f2eda76888ba301eaeec1949b6",
+      "width": 480,
+      "height": 480,
+      "size": 14002,
+      "createdAt": "2026-07-09T22:50:34Z",
+      "updatedAt": "2026-07-09T22:50:34Z"
+    }
+  ]
+}

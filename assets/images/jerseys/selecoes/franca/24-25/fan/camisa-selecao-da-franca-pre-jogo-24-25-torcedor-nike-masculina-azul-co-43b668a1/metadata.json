@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-com-listras-multicoloridas",
+  "createdAt": "2026-07-09T22:07:49Z",
+  "updatedAt": "2026-07-09T22:07:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/front.webp",
+      "hash": "8050874065005c73e1854d692f371bb23252a156b3a748dae13fc6a3b8749cc6",
+      "width": 480,
+      "height": 480,
+      "size": 8434,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/back.webp",
+      "hash": "627e2a8e44b8b9bfebdc9acc90672a1045fdbb812eabd961eb0e54f4bd4e3ac7",
+      "width": 480,
+      "height": 480,
+      "size": 7376,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/detail-1.webp",
+      "hash": "90c151c20fe8e49fdd9e8326c4779e5da6cafd8229bb928194082140311fb349",
+      "width": 480,
+      "height": 480,
+      "size": 12598,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/detail-2.webp",
+      "hash": "4dbc441c0b382c1903eec4483d20d6e55ab82611dc837f439030309ba8db1fbb",
+      "width": 480,
+      "height": 480,
+      "size": 67214,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/detail-3.webp",
+      "hash": "395dcf452d4d1182af0021619d3e5a2b1abb4114b06c976b50230b478f0bb94d",
+      "width": 480,
+      "height": 480,
+      "size": 57538,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/franca/24-25/fan/camisa-selecao-da-franca-pre-jogo-24-25-torcedor-nike-masculina-azul-co-43b668a1/detail-4.webp",
+      "hash": "80629225b17e2464bb16941c53965a42fa3b315d54eb416cb59409424eb1e77c",
+      "width": 480,
+      "height": 480,
+      "size": 11452,
+      "createdAt": "2026-07-09T22:07:49Z",
+      "updatedAt": "2026-07-09T22:07:49Z"
+    }
+  ]
+}

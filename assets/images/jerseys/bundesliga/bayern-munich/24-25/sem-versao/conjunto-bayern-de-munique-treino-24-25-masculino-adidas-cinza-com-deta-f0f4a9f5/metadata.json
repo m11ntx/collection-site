@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-bayern-de-munique-treino-24-25-masculino-adidas-cinza-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T22:49:23Z",
+  "updatedAt": "2026-07-09T22:49:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/conjunto-bayern-de-munique-treino-24-25-masculino-adidas-cinza-com-deta-f0f4a9f5/front.webp",
+      "hash": "e8a024ec777801ba4ba519fc514fae72e42d13da7b3e40da9cfb1c399051a2e8",
+      "width": 480,
+      "height": 480,
+      "size": 9640,
+      "createdAt": "2026-07-09T22:49:23Z",
+      "updatedAt": "2026-07-09T22:49:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/conjunto-bayern-de-munique-treino-24-25-masculino-adidas-cinza-com-deta-f0f4a9f5/back.webp",
+      "hash": "05662ad93ec5c301b9eb9e21496f70b8763d75a185fc8a083036245a3081e6b3",
+      "width": 480,
+      "height": 480,
+      "size": 6930,
+      "createdAt": "2026-07-09T22:49:23Z",
+      "updatedAt": "2026-07-09T22:49:23Z"
+    }
+  ]
+}

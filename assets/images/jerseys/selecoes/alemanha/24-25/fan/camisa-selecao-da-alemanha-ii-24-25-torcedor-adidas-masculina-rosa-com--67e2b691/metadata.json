@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T22:08:28Z",
+  "updatedAt": "2026-07-09T22:08:28Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/front.webp",
+      "hash": "d7f859809f831331635a74c0da0f4ed31c489a1d2090b7989555deafe0c49f53",
+      "width": 480,
+      "height": 480,
+      "size": 8744,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/back.webp",
+      "hash": "8177b9e033f6e7f7705a33d75f1da8458bd2be223cbb77447a32e355c5d32d5d",
+      "width": 480,
+      "height": 480,
+      "size": 6994,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/detail-1.webp",
+      "hash": "8ef33a8933e5e69f72c08c478f282ec70c071032eda7d8773b239367bf710d4d",
+      "width": 480,
+      "height": 480,
+      "size": 12354,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/detail-2.webp",
+      "hash": "6318cc96856cbe48c43b03e961559855304fd170480ee5a9f320f930dc9eec8c",
+      "width": 480,
+      "height": 480,
+      "size": 50024,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/detail-3.webp",
+      "hash": "a2116a07c346cb12b0c0344a9c9566f1d19846969844712afa5aada41872ecd3",
+      "width": 480,
+      "height": 480,
+      "size": 50212,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/detail-4.webp",
+      "hash": "0eca1713ce2a980b797f9239d09f8d4249f57fa2c20df151a347c3928260309a",
+      "width": 480,
+      "height": 480,
+      "size": 15600,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/camisa-selecao-da-alemanha-ii-24-25-torcedor-adidas-masculina-rosa-com--67e2b691/detail-5.webp",
+      "hash": "e65c1a7f0b322c306207681617cf0ff67df48a341f8c0914ddd77398d704a8c4",
+      "width": 480,
+      "height": 480,
+      "size": 12786,
+      "createdAt": "2026-07-09T22:08:28Z",
+      "updatedAt": "2026-07-09T22:08:28Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:08:15Z",
+  "updatedAt": "2026-07-09T22:08:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/front.webp",
+      "hash": "1bdfda58b6d73757723bd3872813da48cfde5f3bf78a38bcbdfc56a21480a69a",
+      "width": 480,
+      "height": 480,
+      "size": 6866,
+      "createdAt": "2026-07-09T22:08:14Z",
+      "updatedAt": "2026-07-09T22:08:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/back.webp",
+      "hash": "ce771f778f6d88fd508cd5e6c8fe475395f1619683f69225910dfeda2e3509c5",
+      "width": 480,
+      "height": 480,
+      "size": 4768,
+      "createdAt": "2026-07-09T22:08:14Z",
+      "updatedAt": "2026-07-09T22:08:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/detail-1.webp",
+      "hash": "da68ef775745e6a94a1bf62fd1a6f1d6f96fd03bafd3f12b19450b26dae13f3a",
+      "width": 480,
+      "height": 480,
+      "size": 10592,
+      "createdAt": "2026-07-09T22:08:15Z",
+      "updatedAt": "2026-07-09T22:08:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/detail-2.webp",
+      "hash": "6c08e2134008358b57dc48c10ba3ac724ae8a7960a3d82769d8339e2bd598508",
+      "width": 480,
+      "height": 480,
+      "size": 43130,
+      "createdAt": "2026-07-09T22:08:15Z",
+      "updatedAt": "2026-07-09T22:08:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/detail-3.webp",
+      "hash": "2e965798b472e93c2c625da2202e784ba9c19346566233f6e37bf799f9fff0cd",
+      "width": 480,
+      "height": 480,
+      "size": 30348,
+      "createdAt": "2026-07-09T22:08:15Z",
+      "updatedAt": "2026-07-09T22:08:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/detail-4.webp",
+      "hash": "afa4d84bb240a939b8137ca53ba6798d2ff412af7c4dac9d9c17661df6e469d8",
+      "width": 480,
+      "height": 480,
+      "size": 11472,
+      "createdAt": "2026-07-09T22:08:15Z",
+      "updatedAt": "2026-07-09T22:08:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-edicao-especial-24-25-torcedor-adidas-masculina-vermelh-1985b759/detail-5.webp",
+      "hash": "d93e148c331b1b52fc008709787d3f4fbf15568b0aab9db2156092cd594901ad",
+      "width": 480,
+      "height": 480,
+      "size": 8936,
+      "createdAt": "2026-07-09T22:08:15Z",
+      "updatedAt": "2026-07-09T22:08:15Z"
+    }
+  ]
+}

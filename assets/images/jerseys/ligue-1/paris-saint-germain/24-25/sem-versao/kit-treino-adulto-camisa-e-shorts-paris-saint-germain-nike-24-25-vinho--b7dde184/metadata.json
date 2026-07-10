@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho-e-preto-com-detalhes-em-verde-2",
+  "createdAt": "2026-07-09T22:51:37Z",
+  "updatedAt": "2026-07-09T22:51:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--b7dde184/front.webp",
+      "hash": "8a253e4c9c0b8925c52f19c046847be7e052a172c703ce8a3c76fa61edc9007e",
+      "width": 480,
+      "height": 480,
+      "size": 9824,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--b7dde184/back.webp",
+      "hash": "71a4d7ea93c5e81ac40cb0f72f44dc870c5db2274250dd40b5b5ce7ccebddbc4",
+      "width": 480,
+      "height": 480,
+      "size": 6042,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--b7dde184/detail-1.webp",
+      "hash": "ca8a7b831fee1d01f81c02f11d71c7292ee86da171ed52793d7558f42e515ab5",
+      "width": 480,
+      "height": 320,
+      "size": 11118,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--b7dde184/detail-2.webp",
+      "hash": "c1bb73e9d1c12b5d62bbe49ea45b4cffd59fe1039bcdc25f72b39a9c3683a56f",
+      "width": 480,
+      "height": 320,
+      "size": 12238,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    }
+  ]
+}

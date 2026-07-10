@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-com-detalhes-em-azul-e-vermelho-e-verde",
+  "createdAt": "2026-07-09T22:08:48Z",
+  "updatedAt": "2026-07-09T22:08:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-a5457c15/front.webp",
+      "hash": "17640acdd584af919287a16ba4db66a4f853195f7c167383864d9c907250a30c",
+      "width": 480,
+      "height": 480,
+      "size": 11476,
+      "createdAt": "2026-07-09T22:08:47Z",
+      "updatedAt": "2026-07-09T22:08:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-a5457c15/back.webp",
+      "hash": "d73f1b9eb2e7a16f1b19cf66380305a2abe46afc31fd3c7ce5623ab2b20bb3ea",
+      "width": 480,
+      "height": 480,
+      "size": 9590,
+      "createdAt": "2026-07-09T22:08:47Z",
+      "updatedAt": "2026-07-09T22:08:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-a5457c15/detail-1.webp",
+      "hash": "6235cfb03da737ac245bdf915c76b1d9ddd9de89f3a46bcf2430579cae5135e7",
+      "width": 480,
+      "height": 480,
+      "size": 14520,
+      "createdAt": "2026-07-09T22:08:47Z",
+      "updatedAt": "2026-07-09T22:08:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-a5457c15/detail-2.webp",
+      "hash": "d503daa5672b7c790e405772fc52b5dc6bb538e14859cdfa4b9363c5afa00cb3",
+      "width": 480,
+      "height": 576,
+      "size": 40276,
+      "createdAt": "2026-07-09T22:08:47Z",
+      "updatedAt": "2026-07-09T22:08:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/portugal/24-25/fan/camisa-selecao-de-portugal-pre-jogo-24-25-torcedor-nike-masculina-preta-a5457c15/detail-3.webp",
+      "hash": "3c7897943f9fcd3df5f964469368667105904f7bc7e5e5d6edda2dabd26a1444",
+      "width": 480,
+      "height": 576,
+      "size": 50078,
+      "createdAt": "2026-07-09T22:08:47Z",
+      "updatedAt": "2026-07-09T22:08:47Z"
+    }
+  ]
+}

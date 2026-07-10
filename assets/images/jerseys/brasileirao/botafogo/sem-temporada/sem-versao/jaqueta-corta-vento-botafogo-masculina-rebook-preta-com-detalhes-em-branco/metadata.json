@@ -1,0 +1,77 @@
+{
+  "productId": "source-jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:48:44Z",
+  "updatedAt": "2026-07-09T22:48:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/front.webp",
+      "hash": "b2a91a84a9ad558c22d643ec700b847c149278d3cda7de444b66d28abe8e35c2",
+      "width": 480,
+      "height": 480,
+      "size": 17978,
+      "createdAt": "2026-07-09T22:48:43Z",
+      "updatedAt": "2026-07-09T22:48:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/back.webp",
+      "hash": "79ae4d67404b1c31ed3a05957ce6ddfff480218dd72b236dffe9577a02ea171b",
+      "width": 480,
+      "height": 480,
+      "size": 11656,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/detail-1.webp",
+      "hash": "2f1d0afe69f5f67161cf5864811415d23b886ac305215f96d4f7242539842d2b",
+      "width": 480,
+      "height": 480,
+      "size": 32218,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/detail-2.webp",
+      "hash": "31730b692b5d75c4d9eabfb7e42f8742d39745490ab5f228fe4e3421daefee8a",
+      "width": 480,
+      "height": 480,
+      "size": 25378,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/detail-3.webp",
+      "hash": "7bb3caae69f34926bf5a0ee05790fb02a0858fa34fdf3f58ae9493ccf5afde08",
+      "width": 480,
+      "height": 480,
+      "size": 30462,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/detail-4.webp",
+      "hash": "ea8d2f76b84b2165c4b166eadb13b07d1cf3bce1a8469962ad7325b1d8682363",
+      "width": 480,
+      "height": 480,
+      "size": 24808,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/botafogo/sem-temporada/sem-versao/jaqueta-corta-vento-botafogo-masculina-rebook-preta-com-detalhes-em-branco/detail-5.webp",
+      "hash": "9e3f588f8fc95ad366036448614f17f5035a67ea390b2e3c5a5ac82b564f8f03",
+      "width": 480,
+      "height": 480,
+      "size": 26988,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-ii-24-25-masculino-adidas-preto-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T22:51:00Z",
+  "updatedAt": "2026-07-09T22:51:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-ii-24-25-masculino-adidas-preto-com-detalhes-em-roxo/front.webp",
+      "hash": "3239c3c5e7d786d207ebe5d1c2d75bbc2912c87d39513b01af2cb8e180acd716",
+      "width": 480,
+      "height": 480,
+      "size": 7914,
+      "createdAt": "2026-07-09T22:51:00Z",
+      "updatedAt": "2026-07-09T22:51:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-ii-24-25-masculino-adidas-preto-com-detalhes-em-roxo/back.webp",
+      "hash": "1b6ae790a086da3b3ffb89f2bd91f23f7cf8077e2b79c86c87a353cd8a988425",
+      "width": 480,
+      "height": 480,
+      "size": 4808,
+      "createdAt": "2026-07-09T22:51:00Z",
+      "updatedAt": "2026-07-09T22:51:00Z"
+    }
+  ]
+}

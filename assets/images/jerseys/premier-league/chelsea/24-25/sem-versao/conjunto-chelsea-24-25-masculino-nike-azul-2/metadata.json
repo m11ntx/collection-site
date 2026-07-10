@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-chelsea-24-25-masculino-nike-azul-2",
+  "createdAt": "2026-07-09T22:49:32Z",
+  "updatedAt": "2026-07-09T22:49:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/conjunto-chelsea-24-25-masculino-nike-azul-2/front.webp",
+      "hash": "07ead1a4c9e727605da2dba89a19e6402bcdec3d3e7027cab09284241090177c",
+      "width": 480,
+      "height": 480,
+      "size": 12792,
+      "createdAt": "2026-07-09T22:49:32Z",
+      "updatedAt": "2026-07-09T22:49:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/conjunto-chelsea-24-25-masculino-nike-azul-2/back.webp",
+      "hash": "63bd8e5d079aa72e79bfd907488d5e2c16a01a7a1e2d7e4dda2aef6d6a5a4dde",
+      "width": 480,
+      "height": 480,
+      "size": 9196,
+      "createdAt": "2026-07-09T22:49:32Z",
+      "updatedAt": "2026-07-09T22:49:32Z"
+    }
+  ]
+}

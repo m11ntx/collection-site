@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-inter-de-milao-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:48:20Z",
+  "updatedAt": "2026-07-09T22:48:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/player/camisa-inter-de-milao-ii-24-25-jogador-nike-masculina-branca-com-detalh-bdc974dc/front.webp",
+      "hash": "1f3aa6d4796ab2fc2bccc967a63710f137dcf16cc520b66831be1f5033f8b8cf",
+      "width": 480,
+      "height": 480,
+      "size": 9200,
+      "createdAt": "2026-07-09T22:48:20Z",
+      "updatedAt": "2026-07-09T22:48:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/player/camisa-inter-de-milao-ii-24-25-jogador-nike-masculina-branca-com-detalh-bdc974dc/back.webp",
+      "hash": "f7880cb59d222c5f971a9f9831c11c283d9f18d55f90427fcb85a819e58990f9",
+      "width": 480,
+      "height": 480,
+      "size": 13702,
+      "createdAt": "2026-07-09T22:48:20Z",
+      "updatedAt": "2026-07-09T22:48:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/player/camisa-inter-de-milao-ii-24-25-jogador-nike-masculina-branca-com-detalh-bdc974dc/detail-1.webp",
+      "hash": "9eccc08ff52c18fe569963a7cb7098d100574bc5c8130d6b5394bd6b2a0845ce",
+      "width": 480,
+      "height": 480,
+      "size": 9706,
+      "createdAt": "2026-07-09T22:48:20Z",
+      "updatedAt": "2026-07-09T22:48:20Z"
+    }
+  ]
+}

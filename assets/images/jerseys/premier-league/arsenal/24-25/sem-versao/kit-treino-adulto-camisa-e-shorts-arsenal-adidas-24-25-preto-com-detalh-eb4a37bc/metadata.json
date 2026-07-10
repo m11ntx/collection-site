@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalhes-em-verde-e-vermelho-e-branco",
+  "createdAt": "2026-07-09T22:51:16Z",
+  "updatedAt": "2026-07-09T22:51:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-eb4a37bc/front.webp",
+      "hash": "814276b2f9effabdcd9d0f1bb36a2d2c56566fd1690421f96738f8e33956dd9d",
+      "width": 480,
+      "height": 480,
+      "size": 9592,
+      "createdAt": "2026-07-09T22:51:16Z",
+      "updatedAt": "2026-07-09T22:51:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-eb4a37bc/back.webp",
+      "hash": "ea4d61b94ef7211dd243bd11276c25946253c1592aaf80cdcf49b00f6d76f6ad",
+      "width": 480,
+      "height": 480,
+      "size": 10374,
+      "createdAt": "2026-07-09T22:51:16Z",
+      "updatedAt": "2026-07-09T22:51:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-arsenal-adidas-24-25-preto-com-detalh-eb4a37bc/detail-1.webp",
+      "hash": "cecc310fb3ab9ac210bb7ecc4ffd1b18d85c5c7af4adcd6cb2250b88175f9472",
+      "width": 480,
+      "height": 480,
+      "size": 5206,
+      "createdAt": "2026-07-09T22:51:16Z",
+      "updatedAt": "2026-07-09T22:51:16Z"
+    }
+  ]
+}

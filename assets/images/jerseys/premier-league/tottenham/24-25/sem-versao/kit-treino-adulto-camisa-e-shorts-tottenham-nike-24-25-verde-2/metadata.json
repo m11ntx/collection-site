@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-tottenham-nike-24-25-verde-2",
+  "createdAt": "2026-07-09T22:51:19Z",
+  "updatedAt": "2026-07-09T22:51:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-tottenham-nike-24-25-verde-2/front.webp",
+      "hash": "ad3ced530200cbb2bb9e357c6c35c8a9baabb19d6405b41a7860de7861df6052",
+      "width": 480,
+      "height": 480,
+      "size": 8908,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-tottenham-nike-24-25-verde-2/back.webp",
+      "hash": "fc3a80763d39109276daaffc433646c75f0ec56aa6929a9f4f6ff995974ecaf3",
+      "width": 480,
+      "height": 480,
+      "size": 8956,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-tottenham-nike-24-25-verde-2/detail-1.webp",
+      "hash": "0b2bff3c47511f2a8f516d2035472b1305f11b20c91526332740ca77ab0980c2",
+      "width": 480,
+      "height": 480,
+      "size": 5412,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-paris-saint-germain-goleiro-24-25-masculino-nike-verde",
+  "createdAt": "2026-07-09T22:51:00Z",
+  "updatedAt": "2026-07-09T22:51:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/short-paris-saint-germain-goleiro-24-25-masculino-nike-verde/front.webp",
+      "hash": "b65ca440441b80fcb6a471932ae9cb54454e5f3ea417742c28109741ef51a49a",
+      "width": 480,
+      "height": 480,
+      "size": 22760,
+      "createdAt": "2026-07-09T22:51:00Z",
+      "updatedAt": "2026-07-09T22:51:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/short-paris-saint-germain-goleiro-24-25-masculino-nike-verde/back.webp",
+      "hash": "5a99bbe5c8fc046bbd594f661ba73411bd396bba1b3403f736709ecd060ff142",
+      "width": 480,
+      "height": 480,
+      "size": 20420,
+      "createdAt": "2026-07-09T22:51:00Z",
+      "updatedAt": "2026-07-09T22:51:00Z"
+    }
+  ]
+}

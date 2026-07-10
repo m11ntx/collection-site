@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-paris-saint-germain-24-25-iv-manga-longa-torcedor-nike-masculina-patchs",
+  "createdAt": "2026-07-09T22:52:17Z",
+  "updatedAt": "2026-07-09T22:52:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-24-25-iv-manga-longa-torcedor-nike-masculina-patchs/front.webp",
+      "hash": "50151b7202b359f532cf59addb499a2f3ceba89a274e15ec3ae4a08475c54545",
+      "width": 480,
+      "height": 480,
+      "size": 15348,
+      "createdAt": "2026-07-09T22:52:16Z",
+      "updatedAt": "2026-07-09T22:52:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-24-25-iv-manga-longa-torcedor-nike-masculina-patchs/back.webp",
+      "hash": "b0334a270c11be57d69c6021ecefff569e702f8fc1936f5276ee4904a3493c54",
+      "width": 480,
+      "height": 480,
+      "size": 12346,
+      "createdAt": "2026-07-09T22:52:16Z",
+      "updatedAt": "2026-07-09T22:52:16Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-24-25-iv-manga-longa-torcedor-nike-masculina-patchs/detail-1.webp",
+      "hash": "9bdaa217661f848634f43fa40f7e4a77f626de5752c75e9e8bf2d4ceb57c2cf2",
+      "width": 480,
+      "height": 480,
+      "size": 27126,
+      "createdAt": "2026-07-09T22:52:17Z",
+      "updatedAt": "2026-07-09T22:52:17Z"
+    }
+  ]
+}

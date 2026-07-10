@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-athletico-paranaense-treino-24-25-masculino-umbro-vermelha",
+  "createdAt": "2026-07-09T22:48:50Z",
+  "updatedAt": "2026-07-09T22:48:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/sem-versao/jaqueta-corta-vento-athletico-paranaense-treino-24-25-masculino-umbro-vermelha/front.webp",
+      "hash": "160024ae9b3b40dbd6aac9c81c37b3a11dc8da228ce790c3cb1721b70ee24853",
+      "width": 480,
+      "height": 480,
+      "size": 22282,
+      "createdAt": "2026-07-09T22:48:50Z",
+      "updatedAt": "2026-07-09T22:48:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/sem-versao/jaqueta-corta-vento-athletico-paranaense-treino-24-25-masculino-umbro-vermelha/back.webp",
+      "hash": "4acba16b357c0ee90ac770b893ba0955ddff1b7a75bad25cdfeb2525a5da6e67",
+      "width": 480,
+      "height": 480,
+      "size": 20094,
+      "createdAt": "2026-07-09T22:48:50Z",
+      "updatedAt": "2026-07-09T22:48:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/24-25/sem-versao/jaqueta-corta-vento-athletico-paranaense-treino-24-25-masculino-umbro-vermelha/detail-1.webp",
+      "hash": "db8f8c97d68e0fd5cb847d25f69fef7c5d268c6839424367f899b0e7a61f4ed6",
+      "width": 480,
+      "height": 480,
+      "size": 16370,
+      "createdAt": "2026-07-09T22:48:50Z",
+      "updatedAt": "2026-07-09T22:48:50Z"
+    }
+  ]
+}

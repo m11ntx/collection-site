@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho-e-preto-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T22:51:37Z",
+  "updatedAt": "2026-07-09T22:51:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--cdd81302/front.webp",
+      "hash": "9371383ad1858a6ba2a389d3b90a1d5e90a8ee5f7f1544cfbf88bbd55896b930",
+      "width": 480,
+      "height": 480,
+      "size": 7952,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-vinho--cdd81302/back.webp",
+      "hash": "f7156db9603dda8e541a430ce5ec82548dcec2dab2f22e6722c56f7d447a4cfa",
+      "width": 480,
+      "height": 480,
+      "size": 4744,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    }
+  ]
+}

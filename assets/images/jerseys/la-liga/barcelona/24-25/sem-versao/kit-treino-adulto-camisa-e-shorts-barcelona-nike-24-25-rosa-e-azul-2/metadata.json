@@ -1,0 +1,47 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-rosa-e-azul-2",
+  "createdAt": "2026-07-09T22:51:27Z",
+  "updatedAt": "2026-07-09T22:51:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-rosa-e-azul-2/front.webp",
+      "hash": "8a023484cd07b81e10fa88d945ba4104650a26ef5e5d062ee6a2b7b42998b691",
+      "width": 480,
+      "height": 480,
+      "size": 9268,
+      "createdAt": "2026-07-09T22:51:27Z",
+      "updatedAt": "2026-07-09T22:51:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-rosa-e-azul-2/back.webp",
+      "hash": "604066b01a12f16084ba688a7522132a9ae522b54f35d27e97cace082b049cd5",
+      "width": 480,
+      "height": 480,
+      "size": 10406,
+      "createdAt": "2026-07-09T22:51:27Z",
+      "updatedAt": "2026-07-09T22:51:27Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-rosa-e-azul-2/detail-1.webp",
+      "hash": "13b35149068c51b80da83824978abf6ac0bee062a7a05b1a74d48e93fd1415c0",
+      "width": 480,
+      "height": 480,
+      "size": 6140,
+      "createdAt": "2026-07-09T22:51:27Z",
+      "updatedAt": "2026-07-09T22:51:27Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-rosa-e-azul-2/detail-2.webp",
+      "hash": "8b88410f82e6534744acdf7ecb3110d99f34d6151e5f3d7dd363f76e20eee372",
+      "width": 480,
+      "height": 320,
+      "size": 8874,
+      "createdAt": "2026-07-09T22:51:27Z",
+      "updatedAt": "2026-07-09T22:51:27Z"
+    }
+  ]
+}

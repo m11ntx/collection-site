@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-gremio-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio-e-patchs-libertadores-2024",
+  "createdAt": "2026-07-09T22:09:50Z",
+  "updatedAt": "2026-07-09T22:09:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio-e-dbcff48e/front.webp",
+      "hash": "158bb216583a43c6beb9f67e081e040fc71b323369ac9ab8250332b7e3e3af2b",
+      "width": 480,
+      "height": 480,
+      "size": 10012,
+      "createdAt": "2026-07-09T22:09:49Z",
+      "updatedAt": "2026-07-09T22:09:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio-e-dbcff48e/back.webp",
+      "hash": "dcdd91730cda1f8b824d3f39c5442b458f8de51b71592b17bb9696d9a94ac9a9",
+      "width": 480,
+      "height": 480,
+      "size": 6432,
+      "createdAt": "2026-07-09T22:09:50Z",
+      "updatedAt": "2026-07-09T22:09:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/gremio/24-25/fan/camisa-gremio-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio-e-dbcff48e/detail-1.webp",
+      "hash": "2fa7272f0cdfc41bf341d29c1454e68e3eb901fa85513c9394049901eb98b908",
+      "width": 480,
+      "height": 480,
+      "size": 11368,
+      "createdAt": "2026-07-09T22:09:50Z",
+      "updatedAt": "2026-07-09T22:09:50Z"
+    }
+  ]
+}

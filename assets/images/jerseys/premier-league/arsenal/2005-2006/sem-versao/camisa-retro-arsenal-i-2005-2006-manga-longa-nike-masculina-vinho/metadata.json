@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho",
+  "createdAt": "2026-07-09T22:50:15Z",
+  "updatedAt": "2026-07-09T22:50:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/front.webp",
+      "hash": "e5b09d3c377e2bc2b85f25a060815e2ecf259a27e2a7a7e4252f883464e25be3",
+      "width": 480,
+      "height": 480,
+      "size": 9970,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/back.webp",
+      "hash": "3760eea714114a0d9857b64fcfbfb3abf35b84bf0f988bda717799a711a0478e",
+      "width": 480,
+      "height": 480,
+      "size": 7128,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/detail-1.webp",
+      "hash": "6b5b5362b025bf7935ecc9494b894e499f51e4c3b08cbed6846838fab333134d",
+      "width": 480,
+      "height": 480,
+      "size": 13384,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/detail-2.webp",
+      "hash": "3e2682193d362162976be535a56056cb7d84a3691ed485f89acffe1025994876",
+      "width": 480,
+      "height": 480,
+      "size": 35848,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/detail-3.webp",
+      "hash": "009a48edb1752bd786b96d5253635b39c912a17d0515f2b759fbc77b67332b17",
+      "width": 480,
+      "height": 480,
+      "size": 49390,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/2005-2006/sem-versao/camisa-retro-arsenal-i-2005-2006-manga-longa-nike-masculina-vinho/detail-4.webp",
+      "hash": "9b0df1ce408dcb8ad0c8be889d96bee452f26a9d20c42c8f62e726f3547c1252",
+      "width": 480,
+      "height": 480,
+      "size": 17154,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    }
+  ]
+}

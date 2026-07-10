@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-tottenham-ii-24-25-manga-longa-jogador-nike-masculina-azul",
+  "createdAt": "2026-07-09T22:50:39Z",
+  "updatedAt": "2026-07-09T22:50:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-manga-longa-jogador-nike-masculina-azul/front.webp",
+      "hash": "e06d39a8eec8a72b8db1da2227d388e522e39685125c5524190ad2107431e329",
+      "width": 480,
+      "height": 480,
+      "size": 16398,
+      "createdAt": "2026-07-09T22:50:38Z",
+      "updatedAt": "2026-07-09T22:50:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-manga-longa-jogador-nike-masculina-azul/back.webp",
+      "hash": "99af4236048eb2bf5e71caf5e5fde06533fa3899980a960da9182212b5c66315",
+      "width": 480,
+      "height": 480,
+      "size": 17594,
+      "createdAt": "2026-07-09T22:50:39Z",
+      "updatedAt": "2026-07-09T22:50:39Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/player/camisa-tottenham-ii-24-25-manga-longa-jogador-nike-masculina-azul/detail-1.webp",
+      "hash": "f7a4700bf77d8b57f3ddd92f69fc758c39ff4e2eef6dd73f14792981bf9defe7",
+      "width": 480,
+      "height": 480,
+      "size": 17084,
+      "createdAt": "2026-07-09T22:50:39Z",
+      "updatedAt": "2026-07-09T22:50:39Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-manchester-united-i-24-25-masculino-adidas-branco",
+  "createdAt": "2026-07-09T22:50:59Z",
+  "updatedAt": "2026-07-09T22:50:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/short-manchester-united-i-24-25-masculino-adidas-branco/front.webp",
+      "hash": "0b939bb1052367f0a2ddc434de2bd1cf3b7d61ba4d981b5d27330c3eca2a7e4c",
+      "width": 480,
+      "height": 480,
+      "size": 9454,
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/short-manchester-united-i-24-25-masculino-adidas-branco/back.webp",
+      "hash": "57a5be8affdb630c25fe248a4ba5196e40bb09bdaa212d9242086e4176a61102",
+      "width": 480,
+      "height": 480,
+      "size": 7276,
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
+    }
+  ]
+}

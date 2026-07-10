@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-ac-milan-i-24-25-masculino-puma-preto",
+  "createdAt": "2026-07-09T22:50:55Z",
+  "updatedAt": "2026-07-09T22:50:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-ac-milan-i-24-25-masculino-puma-preto/front.webp",
+      "hash": "af2ba85702e4bd35f2acd3d7f6f4bf6bd0a5f7eb9ed1184ce15a119a38576722",
+      "width": 480,
+      "height": 480,
+      "size": 4232,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-ac-milan-i-24-25-masculino-puma-preto/back.webp",
+      "hash": "e02ee90d6858ef36729996dc088bb94c98c1bcb928a65cbd134c9f3dfdf18a5c",
+      "width": 480,
+      "height": 480,
+      "size": 3936,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    }
+  ]
+}

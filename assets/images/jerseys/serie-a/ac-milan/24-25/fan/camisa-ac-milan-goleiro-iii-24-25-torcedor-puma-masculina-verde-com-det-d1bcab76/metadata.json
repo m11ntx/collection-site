@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-goleiro-iii-24-25-torcedor-puma-masculina-verde-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T22:10:31Z",
+  "updatedAt": "2026-07-09T22:10:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-iii-24-25-torcedor-puma-masculina-verde-com-det-d1bcab76/front.webp",
+      "hash": "e1d2f0a12091efc1d3f743d9d3eda16cce0b4b6be4d02aea4f37fe66b04c64ae",
+      "width": 480,
+      "height": 480,
+      "size": 16476,
+      "createdAt": "2026-07-09T22:10:31Z",
+      "updatedAt": "2026-07-09T22:10:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-iii-24-25-torcedor-puma-masculina-verde-com-det-d1bcab76/back.webp",
+      "hash": "d6005bfb5eb27700a1f28a8dc37837a3dcd2d4f4a21b1ad6c7a48cb7485be850",
+      "width": 480,
+      "height": 480,
+      "size": 4498,
+      "createdAt": "2026-07-09T22:10:31Z",
+      "updatedAt": "2026-07-09T22:10:31Z"
+    }
+  ]
+}

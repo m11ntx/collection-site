@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-ac-milan-treino-24-25-masculina-puma-preta",
+  "createdAt": "2026-07-09T22:48:47Z",
+  "updatedAt": "2026-07-09T22:48:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/jaqueta-corta-vento-ac-milan-treino-24-25-masculina-puma-preta/front.webp",
+      "hash": "65432209ef4e2ff65a29673f4c53fea92f21cc05847c89b16e26bce56a4de53e",
+      "width": 480,
+      "height": 480,
+      "size": 7976,
+      "createdAt": "2026-07-09T22:48:47Z",
+      "updatedAt": "2026-07-09T22:48:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/jaqueta-corta-vento-ac-milan-treino-24-25-masculina-puma-preta/back.webp",
+      "hash": "cf98635ee2481385a0a8291d64aaf69e28134bd8ec1fe1fdc466449900e2839c",
+      "width": 480,
+      "height": 480,
+      "size": 5000,
+      "createdAt": "2026-07-09T22:48:47Z",
+      "updatedAt": "2026-07-09T22:48:47Z"
+    }
+  ]
+}

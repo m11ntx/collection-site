@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-azul",
+  "createdAt": "2026-07-09T22:51:36Z",
+  "updatedAt": "2026-07-09T22:51:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-azul/front.webp",
+      "hash": "ef25b74d7a110128c1bc3cffe73e414a5e42db0a01dd458116ceeb60c6d6ccec",
+      "width": 480,
+      "height": 480,
+      "size": 8546,
+      "createdAt": "2026-07-09T22:51:36Z",
+      "updatedAt": "2026-07-09T22:51:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-azul/back.webp",
+      "hash": "df02adaa345a0bddd54d5c676532a456f060476bd1bdeccb845563bb87e16956",
+      "width": 480,
+      "height": 480,
+      "size": 4698,
+      "createdAt": "2026-07-09T22:51:36Z",
+      "updatedAt": "2026-07-09T22:51:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-azul/detail-1.webp",
+      "hash": "d9b4dd1c30980d093fe294fea130fb901361e7362d54c716ffd15e678dd999ec",
+      "width": 480,
+      "height": 320,
+      "size": 7578,
+      "createdAt": "2026-07-09T22:51:36Z",
+      "updatedAt": "2026-07-09T22:51:36Z"
+    }
+  ]
+}

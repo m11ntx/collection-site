@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto",
+  "createdAt": "2026-07-09T22:50:09Z",
+  "updatedAt": "2026-07-09T22:50:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/front.webp",
+      "hash": "f6b533cfb9da054a9d3df502ba0f7aa18ce2bf5fecbe322b308882a9c20a993b",
+      "width": 480,
+      "height": 480,
+      "size": 14664,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/back.webp",
+      "hash": "281fddf7e92313681b0ccfb0ef65c430c9e3049d0ac0dc8b88237591b6d049f6",
+      "width": 480,
+      "height": 480,
+      "size": 11522,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/detail-1.webp",
+      "hash": "348332cd36688bd739b7110ab95b99f9424e8ce936463c23d4d81a8af36410ff",
+      "width": 480,
+      "height": 480,
+      "size": 16034,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/detail-2.webp",
+      "hash": "2f0221b13d2e729b95742d281454bd09d0b6928ce2ef0e6fa38c7fb7ac200b4a",
+      "width": 480,
+      "height": 480,
+      "size": 51032,
+      "createdAt": "2026-07-09T22:50:09Z",
+      "updatedAt": "2026-07-09T22:50:09Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/detail-3.webp",
+      "hash": "7bddfd0af59138a85eed0224f329ec7163004d13c22e28b89d49c6b2a3c02ece",
+      "width": 480,
+      "height": 480,
+      "size": 42600,
+      "createdAt": "2026-07-09T22:50:09Z",
+      "updatedAt": "2026-07-09T22:50:09Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/detail-4.webp",
+      "hash": "5cc725c2d70df05424aed522f02b65c7b4d2d3d80c1a579123639b3a53b74a14",
+      "width": 480,
+      "height": 480,
+      "size": 25692,
+      "createdAt": "2026-07-09T22:50:09Z",
+      "updatedAt": "2026-07-09T22:50:09Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-manga-longa-jogador-adidas-masculina-vermelho-e-preto/detail-5.webp",
+      "hash": "e22d62cc1b8c9aca62f6c621b0a77a5794dd9bbbee4b64360a2dee220ff6ddc6",
+      "width": 480,
+      "height": 480,
+      "size": 16460,
+      "createdAt": "2026-07-09T22:50:09Z",
+      "updatedAt": "2026-07-09T22:50:09Z"
+    }
+  ]
+}

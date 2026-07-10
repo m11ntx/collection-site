@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:08:56Z",
+  "updatedAt": "2026-07-09T22:08:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/front.webp",
+      "hash": "8558278fd3b840ba5ed2f9a22bfb6d731391cbd0531776ac79c5dc01265a04d8",
+      "width": 480,
+      "height": 480,
+      "size": 9232,
+      "createdAt": "2026-07-09T22:08:55Z",
+      "updatedAt": "2026-07-09T22:08:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/back.webp",
+      "hash": "1f0558edb3241e73e2fd4b3fa7b14835b20333c9083099b1f748231401cb5ae9",
+      "width": 480,
+      "height": 480,
+      "size": 13484,
+      "createdAt": "2026-07-09T22:08:55Z",
+      "updatedAt": "2026-07-09T22:08:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/detail-1.webp",
+      "hash": "581d29b9567d740ed304c45c6106827a75c40ad8dcc23a92a3ef1142205d704d",
+      "width": 480,
+      "height": 480,
+      "size": 7964,
+      "createdAt": "2026-07-09T22:08:55Z",
+      "updatedAt": "2026-07-09T22:08:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/detail-2.webp",
+      "hash": "b156b421162422d41743563597ccb44847da2632e7f975c5b88ef28302b6498f",
+      "width": 480,
+      "height": 480,
+      "size": 69694,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/detail-3.webp",
+      "hash": "fd8d5991568aaa56caa448fb88eb25de6add6464cafa4b86e42271b6b06227e7",
+      "width": 480,
+      "height": 480,
+      "size": 62838,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/detail-4.webp",
+      "hash": "124dc95fab3507fc87c9a17e99d55f8959b5a19394789680a879b9102e09f89b",
+      "width": 480,
+      "height": 480,
+      "size": 15808,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/croacia/24-25/fan/camisa-selecao-da-croacia-ii-24-25-torcedor-nike-masculina-azul-com-det-be349230/detail-5.webp",
+      "hash": "dc76e10b33381378aac9706d6e650a4ac4d1948cd3453fac93aab44adb8e3cba",
+      "width": 480,
+      "height": 480,
+      "size": 17204,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-branco-e-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:51:38Z",
+  "updatedAt": "2026-07-09T22:51:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-branco-332fe207/front.webp",
+      "hash": "37b215ea3355cddd207ed453e0fc940905cfd86146711eb5f678dcef53ac68c1",
+      "width": 480,
+      "height": 480,
+      "size": 19756,
+      "createdAt": "2026-07-09T22:51:38Z",
+      "updatedAt": "2026-07-09T22:51:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-branco-332fe207/back.webp",
+      "hash": "aa84bc49786985d81b0e3e1f792032eccd154692e2c384616a8c1a0f9493f3ff",
+      "width": 480,
+      "height": 480,
+      "size": 18238,
+      "createdAt": "2026-07-09T22:51:38Z",
+      "updatedAt": "2026-07-09T22:51:38Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde-e-branca",
+  "createdAt": "2026-07-09T22:48:51Z",
+  "updatedAt": "2026-07-09T22:48:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde-e-branca/front.webp",
+      "hash": "659737bf4e1069cdb6b453de5d7b8602e5e86a157b3e4ef70395ba8d42f11a83",
+      "width": 480,
+      "height": 480,
+      "size": 10750,
+      "createdAt": "2026-07-09T22:48:51Z",
+      "updatedAt": "2026-07-09T22:48:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde-e-branca/back.webp",
+      "hash": "70055fa145bcb5ee224aaafd3d36df158ae58b5e36d72ddf22a49f47c460b23d",
+      "width": 480,
+      "height": 480,
+      "size": 10388,
+      "createdAt": "2026-07-09T22:48:51Z",
+      "updatedAt": "2026-07-09T22:48:51Z"
+    }
+  ]
+}

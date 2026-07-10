@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul",
+  "createdAt": "2026-07-09T22:50:08Z",
+  "updatedAt": "2026-07-09T22:50:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/front.webp",
+      "hash": "9426bdd95a74c31532ef168b7fdc6327a463bb9e63fa19878eb7df8374683007",
+      "width": 480,
+      "height": 480,
+      "size": 9966,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/back.webp",
+      "hash": "3cfc18358807a9bab40c40f2928db577d9c4397c730a7f6a3bf4170980903ebf",
+      "width": 480,
+      "height": 480,
+      "size": 7132,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/detail-1.webp",
+      "hash": "4d211d686f4e60967aa9d6aef6e277f848f2775478f599fc0b3630bf150511ac",
+      "width": 480,
+      "height": 480,
+      "size": 12550,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/detail-2.webp",
+      "hash": "4ff647fd1d3997905fdf608c35aefec64144d29fa56024e9e408267f2c3029fa",
+      "width": 480,
+      "height": 480,
+      "size": 68052,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/detail-3.webp",
+      "hash": "332fb4d9399658829b7e95b1a38106f5675bb9c65c0b00ebebebf0d222b1f050",
+      "width": 480,
+      "height": 480,
+      "size": 70598,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/detail-4.webp",
+      "hash": "a864f74444ebba950a690354cc5e925f10fb06d1cca9bf8b8fb504176e1c5c43",
+      "width": 480,
+      "height": 480,
+      "size": 27362,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2008-2009/sem-versao/camisa-retro-manchester-united-ii-2008-2009-manga-longa-masculina-adidas-azul/detail-5.webp",
+      "hash": "9232095c1418ead73b684fdbb2cd1ce1e0a0395d8d74ffb8c02b57a4cf416e77",
+      "width": 480,
+      "height": 480,
+      "size": 31820,
+      "createdAt": "2026-07-09T22:50:08Z",
+      "updatedAt": "2026-07-09T22:50:08Z"
+    }
+  ]
+}

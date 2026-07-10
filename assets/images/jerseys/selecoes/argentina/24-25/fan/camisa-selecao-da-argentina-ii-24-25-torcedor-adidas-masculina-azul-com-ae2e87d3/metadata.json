@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:08:31Z",
+  "updatedAt": "2026-07-09T22:08:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/front.webp",
+      "hash": "b882cacb07636f82a257e12be4b3303b792cf67fb9a9adbe0182b01cb360945c",
+      "width": 480,
+      "height": 480,
+      "size": 8054,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/back.webp",
+      "hash": "a48af436dca710966bd1996da0e1a766ce8bf2d33271b65bd86a3b800709ff2a",
+      "width": 480,
+      "height": 480,
+      "size": 5350,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/detail-1.webp",
+      "hash": "0026ddde1654428f6458e1cd438d524924e57388898b48c24cd1cc70dc67843c",
+      "width": 480,
+      "height": 480,
+      "size": 13014,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/detail-2.webp",
+      "hash": "396f005fc28c6e76b842cdbbf8352d5c3f7ae44414dc115d1f49500f0e5d0688",
+      "width": 480,
+      "height": 480,
+      "size": 63844,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/detail-3.webp",
+      "hash": "9f2f1d77d2b1320c6bcc76b10d111a30a858b41ba8bf8fadea4c3a32075a51fb",
+      "width": 480,
+      "height": 480,
+      "size": 56304,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/detail-4.webp",
+      "hash": "32b0ae54be2b4d2d41b1ec375c9f4fa0dc4b59df4f9e2a1a78576de33d51bb9e",
+      "width": 480,
+      "height": 480,
+      "size": 57522,
+      "createdAt": "2026-07-09T22:08:30Z",
+      "updatedAt": "2026-07-09T22:08:30Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-da-argentina-ii-24-25-torcedor-adidas-masculina-azul-com-ae2e87d3/detail-5.webp",
+      "hash": "cc9c59a3fe6df3f65bf1784ef8b58714000f21cae2f36ab9add3171991aaec6f",
+      "width": 480,
+      "height": 480,
+      "size": 18944,
+      "createdAt": "2026-07-09T22:08:31Z",
+      "updatedAt": "2026-07-09T22:08:31Z"
+    }
+  ]
+}

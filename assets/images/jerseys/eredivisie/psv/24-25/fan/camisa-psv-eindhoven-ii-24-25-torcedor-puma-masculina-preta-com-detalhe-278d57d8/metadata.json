@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-psv-eindhoven-ii-24-25-torcedor-puma-masculina-preta-com-detalhes-em-verde-e-amarelo-e-rosa",
+  "createdAt": "2026-07-09T22:09:31Z",
+  "updatedAt": "2026-07-09T22:09:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/psv/24-25/fan/camisa-psv-eindhoven-ii-24-25-torcedor-puma-masculina-preta-com-detalhe-278d57d8/front.webp",
+      "hash": "42a611fa0a50bca8955187461b7ee3c16e4f06ca2651d638f99675f2963a0bb3",
+      "width": 480,
+      "height": 480,
+      "size": 14070,
+      "createdAt": "2026-07-09T22:09:30Z",
+      "updatedAt": "2026-07-09T22:09:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/psv/24-25/fan/camisa-psv-eindhoven-ii-24-25-torcedor-puma-masculina-preta-com-detalhe-278d57d8/back.webp",
+      "hash": "2e32fb1a7818acc180a178d28b3b78524c7b3188ec0d3a5621f55d7ec5cb02eb",
+      "width": 480,
+      "height": 480,
+      "size": 6742,
+      "createdAt": "2026-07-09T22:09:31Z",
+      "updatedAt": "2026-07-09T22:09:31Z"
+    }
+  ]
+}

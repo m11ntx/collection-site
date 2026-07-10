@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-equador-ii-24-25-copa-america-torcedor-marathon-masculina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:09:46Z",
+  "updatedAt": "2026-07-09T22:09:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/equador/24-25/fan/camisa-equador-ii-24-25-copa-america-torcedor-marathon-masculina-branca-3b3c90ad/front.webp",
+      "hash": "fc106da91f43669966ecb7c32376c554c98e04bc2f889fbda07416ca12b3693f",
+      "width": 480,
+      "height": 480,
+      "size": 6646,
+      "createdAt": "2026-07-09T22:09:46Z",
+      "updatedAt": "2026-07-09T22:09:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/equador/24-25/fan/camisa-equador-ii-24-25-copa-america-torcedor-marathon-masculina-branca-3b3c90ad/back.webp",
+      "hash": "0e19e1b1dc66997707c34e8750fbcf07d6e09c539ae32c026ebc969226a2848e",
+      "width": 480,
+      "height": 480,
+      "size": 3602,
+      "createdAt": "2026-07-09T22:09:46Z",
+      "updatedAt": "2026-07-09T22:09:46Z"
+    }
+  ]
+}

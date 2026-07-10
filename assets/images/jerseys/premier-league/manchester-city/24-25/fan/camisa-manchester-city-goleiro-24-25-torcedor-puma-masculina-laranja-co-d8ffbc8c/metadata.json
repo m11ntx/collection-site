@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-laranja-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:10:13Z",
+  "updatedAt": "2026-07-09T22:10:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-laranja-co-d8ffbc8c/front.webp",
+      "hash": "e6d77e428f7332d7f0fbc0350a9a40c58d04bba1a28990851e5c61d5a6ddd8c3",
+      "width": 480,
+      "height": 480,
+      "size": 15900,
+      "createdAt": "2026-07-09T22:10:13Z",
+      "updatedAt": "2026-07-09T22:10:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-goleiro-24-25-torcedor-puma-masculina-laranja-co-d8ffbc8c/back.webp",
+      "hash": "599fc0e3cf6beaa227d9567cb2c05c152f8b843567d9c71a4427ef3ef6850d67",
+      "width": 480,
+      "height": 480,
+      "size": 6296,
+      "createdAt": "2026-07-09T22:10:13Z",
+      "updatedAt": "2026-07-09T22:10:13Z"
+    }
+  ]
+}

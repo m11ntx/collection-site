@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha",
+  "createdAt": "2026-07-09T22:50:07Z",
+  "updatedAt": "2026-07-09T22:50:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/front.webp",
+      "hash": "5aadaf26ad6f658546324aa552d366e8a1eb5d4fb1d3f6b6f79c69f833278692",
+      "width": 480,
+      "height": 480,
+      "size": 11194,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/back.webp",
+      "hash": "7e8701a3eeee15d79bf68a907b5c7c0e6e3636a493a3c13a4fa42a1c5ce90525",
+      "width": 480,
+      "height": 480,
+      "size": 8134,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/detail-1.webp",
+      "hash": "c8ed6c52107b3dfb8ef3dafe593aab3b108ed917602c06af8c8302bdc36df786",
+      "width": 480,
+      "height": 480,
+      "size": 14360,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/detail-2.webp",
+      "hash": "ba1192c9d46a0639a753d5d4274b6665007334dba59e7a154bad3e5119f6e044",
+      "width": 480,
+      "height": 480,
+      "size": 34746,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/detail-3.webp",
+      "hash": "c7430f90b68192af811242f5d03cd7049bba3cf48adc31a29c392b78ed2bcefc",
+      "width": 480,
+      "height": 480,
+      "size": 39052,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/detail-4.webp",
+      "hash": "18ae5626954d249a10c3e2908064fda8e0868a6f1d0741c0c362b90a90fbaded",
+      "width": 480,
+      "height": 480,
+      "size": 14730,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2002-2004/sem-versao/camisa-retro-manchester-united-i-2002-2004-manga-longa-nike-masculina-vermelha/detail-5.webp",
+      "hash": "d6f993e0a4e3d9f17f2d218316f179ecf34fc3226825529226ffacc04ef89fad",
+      "width": 480,
+      "height": 480,
+      "size": 10494,
+      "createdAt": "2026-07-09T22:50:07Z",
+      "updatedAt": "2026-07-09T22:50:07Z"
+    }
+  ]
+}

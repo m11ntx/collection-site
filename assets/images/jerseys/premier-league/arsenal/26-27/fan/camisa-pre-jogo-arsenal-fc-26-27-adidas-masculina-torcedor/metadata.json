@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-pre-jogo-arsenal-fc-26-27-adidas-masculina-torcedor",
+  "createdAt": "2026-07-09T22:53:15Z",
+  "updatedAt": "2026-07-09T22:53:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/camisa-pre-jogo-arsenal-fc-26-27-adidas-masculina-torcedor/front.webp",
+      "hash": "a3d156d0515ff175f4033e4ed2b1895109818ec14b8131339f8cdbe598cc8ada",
+      "width": 480,
+      "height": 475,
+      "size": 10544,
+      "createdAt": "2026-07-09T22:53:15Z",
+      "updatedAt": "2026-07-09T22:53:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/fan/camisa-pre-jogo-arsenal-fc-26-27-adidas-masculina-torcedor/back.webp",
+      "hash": "820894580f08170ccd884b89d81e087f697f5776e68090d6fb04b4aa4c63034b",
+      "width": 480,
+      "height": 480,
+      "size": 7948,
+      "createdAt": "2026-07-09T22:53:15Z",
+      "updatedAt": "2026-07-09T22:53:15Z"
+    }
+  ]
+}

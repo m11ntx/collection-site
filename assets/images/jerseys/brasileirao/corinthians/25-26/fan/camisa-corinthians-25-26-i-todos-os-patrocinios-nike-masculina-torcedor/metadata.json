@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-25-26-i-todos-os-patrocinios-nike-masculina-torcedor",
+  "createdAt": "2026-07-09T22:52:19Z",
+  "updatedAt": "2026-07-09T22:52:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-25-26-i-todos-os-patrocinios-nike-masculina-torcedor/front.webp",
+      "hash": "b8fbe9d19e5f63bcace997cec5d1b894b52dc8125fe3b53bbe9d6a55f82d2f2f",
+      "width": 480,
+      "height": 480,
+      "size": 13596,
+      "createdAt": "2026-07-09T22:52:19Z",
+      "updatedAt": "2026-07-09T22:52:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-corinthians-25-26-i-todos-os-patrocinios-nike-masculina-torcedor/back.webp",
+      "hash": "861e63d9a01f0c81f2b0f6eda56132e4688d5da6a1c8d0a3d7a56c38f0135a62",
+      "width": 480,
+      "height": 480,
+      "size": 10968,
+      "createdAt": "2026-07-09T22:52:19Z",
+      "updatedAt": "2026-07-09T22:52:19Z"
+    }
+  ]
+}

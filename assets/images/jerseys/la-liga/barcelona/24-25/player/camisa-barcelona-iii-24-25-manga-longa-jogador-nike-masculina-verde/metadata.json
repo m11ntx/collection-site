@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-barcelona-iii-24-25-manga-longa-jogador-nike-masculina-verde",
+  "createdAt": "2026-07-09T22:50:48Z",
+  "updatedAt": "2026-07-09T22:50:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-iii-24-25-manga-longa-jogador-nike-masculina-verde/front.webp",
+      "hash": "360d60840bc9531082c587e3da8fe0a7cc9d26364e2feafa659f1d30b659763d",
+      "width": 480,
+      "height": 480,
+      "size": 15448,
+      "createdAt": "2026-07-09T22:50:48Z",
+      "updatedAt": "2026-07-09T22:50:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-iii-24-25-manga-longa-jogador-nike-masculina-verde/back.webp",
+      "hash": "4cd9aeaddb4515d0ba4f34f9c448d77ab45f23a91a6c7dbef93112bd9a360117",
+      "width": 480,
+      "height": 480,
+      "size": 16608,
+      "createdAt": "2026-07-09T22:50:48Z",
+      "updatedAt": "2026-07-09T22:50:48Z"
+    }
+  ]
+}

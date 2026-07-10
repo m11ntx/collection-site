@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-barcelona-ii-24-25-manga-longa-jogador-nike-masculina-preta-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T22:50:37Z",
+  "updatedAt": "2026-07-09T22:50:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-ii-24-25-manga-longa-jogador-nike-masculina-preta-com--f9a0cb17/front.webp",
+      "hash": "8546b79eddd74941e6fafc9035f110438e868ab2cfcc9e776d131b9fa2c8c8e6",
+      "width": 480,
+      "height": 480,
+      "size": 8722,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-ii-24-25-manga-longa-jogador-nike-masculina-preta-com--f9a0cb17/back.webp",
+      "hash": "3a7e27ab29f39dae3f60f86fd4b855a27dab3dd683264f17a8e37bcd1d080b80",
+      "width": 480,
+      "height": 480,
+      "size": 9382,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/player/camisa-barcelona-ii-24-25-manga-longa-jogador-nike-masculina-preta-com--f9a0cb17/detail-1.webp",
+      "hash": "d3628856b900025a8b8b361ecf9e8c63c6cc4bf744de22c4d06cf910431c4846",
+      "width": 480,
+      "height": 480,
+      "size": 8338,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    }
+  ]
+}

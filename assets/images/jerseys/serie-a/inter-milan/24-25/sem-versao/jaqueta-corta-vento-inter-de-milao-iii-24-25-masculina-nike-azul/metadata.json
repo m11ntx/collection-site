@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-inter-de-milao-iii-24-25-masculina-nike-azul",
+  "createdAt": "2026-07-09T22:49:00Z",
+  "updatedAt": "2026-07-09T22:49:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/jaqueta-corta-vento-inter-de-milao-iii-24-25-masculina-nike-azul/front.webp",
+      "hash": "d8a45a51f38707b5eacf291fae3afbf56599eb021b523e950f8522a3cd8573e5",
+      "width": 480,
+      "height": 480,
+      "size": 16992,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/jaqueta-corta-vento-inter-de-milao-iii-24-25-masculina-nike-azul/back.webp",
+      "hash": "9c54528f83198e3bd7bc5dd11eb3bc2569de5ffafd6a938a6ce1c4f4c1f7e2d6",
+      "width": 480,
+      "height": 480,
+      "size": 13632,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/jaqueta-corta-vento-inter-de-milao-iii-24-25-masculina-nike-azul/detail-1.webp",
+      "hash": "6dca554ec4fd86d25524a69446239f1097d9d503a0795c999d878b90ce3991c6",
+      "width": 480,
+      "height": 480,
+      "size": 29622,
+      "createdAt": "2026-07-09T22:48:59Z",
+      "updatedAt": "2026-07-09T22:48:59Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/jaqueta-corta-vento-inter-de-milao-iii-24-25-masculina-nike-azul/detail-2.webp",
+      "hash": "1102f68a32e92630ee2ce8c49e87936b757d79f96e99c8dfcf15357572825f17",
+      "width": 480,
+      "height": 480,
+      "size": 35114,
+      "createdAt": "2026-07-09T22:49:00Z",
+      "updatedAt": "2026-07-09T22:49:00Z"
+    }
+  ]
+}

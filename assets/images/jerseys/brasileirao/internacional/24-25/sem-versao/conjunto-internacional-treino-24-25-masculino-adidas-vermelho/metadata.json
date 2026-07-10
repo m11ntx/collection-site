@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-internacional-treino-24-25-masculino-adidas-vermelho",
+  "createdAt": "2026-07-09T22:49:38Z",
+  "updatedAt": "2026-07-09T22:49:38Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/conjunto-internacional-treino-24-25-masculino-adidas-vermelho/front.webp",
+      "hash": "74f91736ef6c42b96f27a2264cc90a3e265257a8b9cd01bb19f2537828999698",
+      "width": 480,
+      "height": 480,
+      "size": 12028,
+      "createdAt": "2026-07-09T22:49:37Z",
+      "updatedAt": "2026-07-09T22:49:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/conjunto-internacional-treino-24-25-masculino-adidas-vermelho/back.webp",
+      "hash": "1791890fe0ccea9d3c74736c386c19700d36e24ac507fa14d40cedce022e639b",
+      "width": 480,
+      "height": 480,
+      "size": 9784,
+      "createdAt": "2026-07-09T22:49:38Z",
+      "updatedAt": "2026-07-09T22:49:38Z"
+    }
+  ]
+}

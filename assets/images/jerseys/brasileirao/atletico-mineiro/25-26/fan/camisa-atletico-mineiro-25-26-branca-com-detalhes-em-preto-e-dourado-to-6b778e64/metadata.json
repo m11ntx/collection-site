@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-25-26-branca-com-detalhes-em-preto-e-dourado-torcedor-masculina-todos-os-patrocinios",
+  "createdAt": "2026-07-09T22:12:39Z",
+  "updatedAt": "2026-07-09T22:12:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-25-26-branca-com-detalhes-em-preto-e-dourado-to-6b778e64/front.webp",
+      "hash": "ea936d2a8355ee2d8bc39c64b01ed3b9176564e5a0192700a7e65b6ee39f4ddc",
+      "width": 480,
+      "height": 480,
+      "size": 17928,
+      "createdAt": "2026-07-09T22:12:39Z",
+      "updatedAt": "2026-07-09T22:12:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/25-26/fan/camisa-atletico-mineiro-25-26-branca-com-detalhes-em-preto-e-dourado-to-6b778e64/back.webp",
+      "hash": "ca98335aa806b5ac1004d11b8f5e7eaeed4102c2fd7e5da6ce121e48dc33fdb7",
+      "width": 480,
+      "height": 480,
+      "size": 9936,
+      "createdAt": "2026-07-09T22:12:39Z",
+      "updatedAt": "2026-07-09T22:12:39Z"
+    }
+  ]
+}

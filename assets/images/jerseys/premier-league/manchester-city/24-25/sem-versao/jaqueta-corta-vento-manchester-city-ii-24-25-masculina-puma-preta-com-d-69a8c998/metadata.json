@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-manchester-city-ii-24-25-masculina-puma-preta-com-detalhes-em-azul-e-amarelo",
+  "createdAt": "2026-07-09T22:48:52Z",
+  "updatedAt": "2026-07-09T22:48:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/sem-versao/jaqueta-corta-vento-manchester-city-ii-24-25-masculina-puma-preta-com-d-69a8c998/front.webp",
+      "hash": "ede1ed28dedfb733be8561b1411ce27b8dd2d81e5ccdf0d111a6d6a39eebccb1",
+      "width": 480,
+      "height": 480,
+      "size": 9670,
+      "createdAt": "2026-07-09T22:48:51Z",
+      "updatedAt": "2026-07-09T22:48:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/sem-versao/jaqueta-corta-vento-manchester-city-ii-24-25-masculina-puma-preta-com-d-69a8c998/back.webp",
+      "hash": "cf00690ff08f58390e33055ce71fd5b995b0ca4ad2cee40da7e93d99c35c7136",
+      "width": 480,
+      "height": 480,
+      "size": 5774,
+      "createdAt": "2026-07-09T22:48:52Z",
+      "updatedAt": "2026-07-09T22:48:52Z"
+    }
+  ]
+}

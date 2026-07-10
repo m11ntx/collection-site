@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul-e-laranja",
+  "createdAt": "2026-07-09T22:47:53Z",
+  "updatedAt": "2026-07-09T22:47:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/front.webp",
+      "hash": "4ae7c1b8fa7ac46653c4d7a221387ae652dd8c02e663bb066eab03f88f281f93",
+      "width": 480,
+      "height": 480,
+      "size": 7450,
+      "createdAt": "2026-07-09T22:47:52Z",
+      "updatedAt": "2026-07-09T22:47:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/back.webp",
+      "hash": "d224a42d711df6e81aa55c57fd7301580c4f705e52ec23156c7b1dbb540238d4",
+      "width": 480,
+      "height": 480,
+      "size": 12642,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/detail-1.webp",
+      "hash": "3d236cb76a07f0f96d44ddf04568a95dfcdf1959ea14563a72556cbdfef41eeb",
+      "width": 480,
+      "height": 480,
+      "size": 8268,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/detail-2.webp",
+      "hash": "54a03fef836192080461c9f832d751c13b408726f48ea73d527d6ca7d2e0d45a",
+      "width": 480,
+      "height": 480,
+      "size": 56758,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/detail-3.webp",
+      "hash": "55b033f4b08cb77e306ace4274aa716cc4bebd3d5f815040943ecb27bcef6940",
+      "width": 480,
+      "height": 480,
+      "size": 41490,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/detail-4.webp",
+      "hash": "97d79670973e5106616c40977e0c0be84fef1af74d25de1af1b6c1c309c42e51",
+      "width": 480,
+      "height": 480,
+      "size": 18640,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/player/camisa-chelsea-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-a-07a7f2ba/detail-5.webp",
+      "hash": "82dacb422f343149c1d03a37a3108da540a45c6f323eeabf0c59bacf67b0b4ec",
+      "width": 480,
+      "height": 480,
+      "size": 22388,
+      "createdAt": "2026-07-09T22:47:53Z",
+      "updatedAt": "2026-07-09T22:47:53Z"
+    }
+  ]
+}

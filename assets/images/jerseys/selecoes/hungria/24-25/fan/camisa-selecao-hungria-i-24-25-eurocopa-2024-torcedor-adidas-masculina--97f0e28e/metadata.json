@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:09:45Z",
+  "updatedAt": "2026-07-09T22:09:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/hungria/24-25/fan/camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina--97f0e28e/front.webp",
+      "hash": "a11a0bf0739c2255e1fe7501340c40959a1dad111fc2e76bc54c053b3ed25418",
+      "width": 480,
+      "height": 480,
+      "size": 11918,
+      "createdAt": "2026-07-09T22:09:44Z",
+      "updatedAt": "2026-07-09T22:09:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/hungria/24-25/fan/camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina--97f0e28e/back.webp",
+      "hash": "ba29ae9a02747c4b8960008057b82e0f74e6599cbffd7a73975eac25efdba641",
+      "width": 480,
+      "height": 480,
+      "size": 8306,
+      "createdAt": "2026-07-09T22:09:45Z",
+      "updatedAt": "2026-07-09T22:09:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/hungria/24-25/fan/camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina--97f0e28e/detail-1.webp",
+      "hash": "40459f9b3bbbfe15b25d427dbfe121f5c4ac70a8d6961e05bdceb555c899b4eb",
+      "width": 480,
+      "height": 480,
+      "size": 17186,
+      "createdAt": "2026-07-09T22:09:45Z",
+      "updatedAt": "2026-07-09T22:09:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/hungria/24-25/fan/camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina--97f0e28e/detail-2.webp",
+      "hash": "a90ca2647fb078def8852ec84754f193ee7a45032796fd75a6ce1293a69873d1",
+      "width": 480,
+      "height": 480,
+      "size": 14496,
+      "createdAt": "2026-07-09T22:09:45Z",
+      "updatedAt": "2026-07-09T22:09:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/hungria/24-25/fan/camisa-selecao-hungria-i-24-25-eurocopa-2024-torcedor-adidas-masculina--97f0e28e/detail-3.webp",
+      "hash": "1adbff41bb0a3808e0f74065133a732e1371b901a4038acb5270300416cffcff",
+      "width": 480,
+      "height": 480,
+      "size": 5000,
+      "createdAt": "2026-07-09T22:09:45Z",
+      "updatedAt": "2026-07-09T22:09:45Z"
+    }
+  ]
+}

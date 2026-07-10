@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-paris-saint-germain-pre-jogo-i-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:10:12Z",
+  "updatedAt": "2026-07-09T22:10:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-pre-jogo-i-24-25-torcedor-adidas-masculina-a-bcd4b3bc/front.webp",
+      "hash": "c13f5d91849e0d86d804022a67f12a37c26683122bed99b66688dcd2350bab8f",
+      "width": 480,
+      "height": 480,
+      "size": 26452,
+      "createdAt": "2026-07-09T22:10:12Z",
+      "updatedAt": "2026-07-09T22:10:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-pre-jogo-i-24-25-torcedor-adidas-masculina-a-bcd4b3bc/back.webp",
+      "hash": "9dee2326fe66ba7d9b99bd6f880962c234e97315a460b78783b4a5423af79e5a",
+      "width": 480,
+      "height": 480,
+      "size": 20512,
+      "createdAt": "2026-07-09T22:10:12Z",
+      "updatedAt": "2026-07-09T22:10:12Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-pre-jogo-i-24-25-torcedor-adidas-masculina-a-bcd4b3bc/detail-1.webp",
+      "hash": "14eb11d26d5d78a1026a79e044543cf98857b613669e5f18a23f1857b0115127",
+      "width": 480,
+      "height": 480,
+      "size": 59798,
+      "createdAt": "2026-07-09T22:10:12Z",
+      "updatedAt": "2026-07-09T22:10:12Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-pre-jogo-i-24-25-torcedor-adidas-masculina-a-bcd4b3bc/detail-2.webp",
+      "hash": "686988b06da42902d1ffb731573ae4d39bcbbdbcbc09b71cc39144c02a79f4f9",
+      "width": 480,
+      "height": 480,
+      "size": 69718,
+      "createdAt": "2026-07-09T22:10:12Z",
+      "updatedAt": "2026-07-09T22:10:12Z"
+    }
+  ]
+}

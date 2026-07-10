@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em-vermelho-todos-os-patrociniois",
+  "createdAt": "2026-07-09T22:08:02Z",
+  "updatedAt": "2026-07-09T22:08:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/front.webp",
+      "hash": "9d0ca277703e0fc6afb48f5e37d1ada306bc8c42002e95645a662d7cdd05b3a8",
+      "width": 480,
+      "height": 480,
+      "size": 15146,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/back.webp",
+      "hash": "2d73d56abf12c80a5924478a6f745d60eb31f6072cfdd17513c653929ee38ff1",
+      "width": 480,
+      "height": 480,
+      "size": 10296,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/detail-1.webp",
+      "hash": "1eeca96b283718b1724e6004f8adab4de146bead5a80e6ffc0708586a950ce4b",
+      "width": 480,
+      "height": 480,
+      "size": 14620,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/detail-2.webp",
+      "hash": "45258d90fb8720ef1a697bb812275cba8f98f94d96cdb93ebe892094fea4a9ca",
+      "width": 480,
+      "height": 480,
+      "size": 57836,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/detail-3.webp",
+      "hash": "397b4bc686021ef13f80a920d56618733d9d575d33275baed8e8848579e9dddd",
+      "width": 480,
+      "height": 480,
+      "size": 40210,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/detail-4.webp",
+      "hash": "a5307fa48cd4e21a92a01205458ca4d67b4c9e486e6a5d48d217136c2394dd31",
+      "width": 480,
+      "height": 480,
+      "size": 22968,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/player/camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em--cf714380/detail-5.webp",
+      "hash": "a308394aedeb441d6d709697b48268f4b36c5a4762f540640d24630941779701",
+      "width": 480,
+      "height": 480,
+      "size": 19470,
+      "createdAt": "2026-07-09T22:08:02Z",
+      "updatedAt": "2026-07-09T22:08:02Z"
+    }
+  ]
+}

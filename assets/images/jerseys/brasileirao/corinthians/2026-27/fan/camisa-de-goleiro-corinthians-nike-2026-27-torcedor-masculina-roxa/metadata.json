@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-roxa",
+  "createdAt": "2026-07-09T22:53:08Z",
+  "updatedAt": "2026-07-09T22:53:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-roxa/front.webp",
+      "hash": "b211cb59af3032d3d5944e7d723c9b67348376f1763bcd1854a9d97d14cdaa7e",
+      "width": 480,
+      "height": 480,
+      "size": 22352,
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-09T22:53:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-roxa/back.webp",
+      "hash": "d5d9a9822fd309e851a80bcd7849d2f3a7b2c7b693fc723c48d705638233224a",
+      "width": 480,
+      "height": 480,
+      "size": 20258,
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-09T22:53:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-roxa/detail-1.webp",
+      "hash": "a12ac74630043cf97d3fd611657a909335de7cb7632bb67c30f8d6018fd13457",
+      "width": 480,
+      "height": 480,
+      "size": 81424,
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-09T22:53:08Z"
+    }
+  ]
+}

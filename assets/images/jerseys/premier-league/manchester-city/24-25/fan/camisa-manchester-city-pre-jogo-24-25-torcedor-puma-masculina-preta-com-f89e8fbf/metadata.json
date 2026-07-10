@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-preta-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T22:10:24Z",
+  "updatedAt": "2026-07-09T22:10:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-preta-com-f89e8fbf/front.webp",
+      "hash": "1659ad6a60df40790f5f5d04ce15c47fb3a581f64dc138f95c69ed7be62c7414",
+      "width": 480,
+      "height": 480,
+      "size": 33304,
+      "createdAt": "2026-07-09T22:10:24Z",
+      "updatedAt": "2026-07-09T22:10:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-preta-com-f89e8fbf/back.webp",
+      "hash": "4b1efbaefa5ddb58d3614ccb5a55175e722823adc57e71b8c4c8e0c11ad62f56",
+      "width": 480,
+      "height": 480,
+      "size": 26360,
+      "createdAt": "2026-07-09T22:10:24Z",
+      "updatedAt": "2026-07-09T22:10:24Z"
+    }
+  ]
+}

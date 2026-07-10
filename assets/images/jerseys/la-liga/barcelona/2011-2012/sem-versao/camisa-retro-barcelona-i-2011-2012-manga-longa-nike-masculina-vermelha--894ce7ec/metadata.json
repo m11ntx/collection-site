@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:50:19Z",
+  "updatedAt": "2026-07-09T22:50:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/front.webp",
+      "hash": "7e9cf323e981ec0d40b708cdcd53bb88cd6f14b2719e2a5e0430235c6d8b8271",
+      "width": 480,
+      "height": 480,
+      "size": 10342,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/back.webp",
+      "hash": "6e0359ad119c0d6eb3b5528747006a0ea68b5a54fea81b1508eda891eb56f910",
+      "width": 480,
+      "height": 480,
+      "size": 7058,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/detail-1.webp",
+      "hash": "5d27ed3e200406bf11fe4883bc458ac86a4f934fa166b37ca09be93634a17aa5",
+      "width": 480,
+      "height": 480,
+      "size": 17894,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/detail-2.webp",
+      "hash": "fd00c1c2519699888a6370de4a6ff3530edd70cde483f0ab9b72dadc16404c88",
+      "width": 480,
+      "height": 480,
+      "size": 65138,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/detail-3.webp",
+      "hash": "aff0a1f18a433e3ee6a0a0190d2f0ee1805defffab39cbd5a7146578c2bca113",
+      "width": 480,
+      "height": 480,
+      "size": 60718,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/detail-4.webp",
+      "hash": "cfc140d7c8eb7cf91a9c7760bf748b53b71b4216edb42005c5b8c0b106a94e28",
+      "width": 480,
+      "height": 480,
+      "size": 19408,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2011-2012/sem-versao/camisa-retro-barcelona-i-2011-2012-manga-longa-nike-masculina-vermelha--894ce7ec/detail-5.webp",
+      "hash": "a8fd031885f85af44ac235da550015d91969ef0a323c3f22cff87a0785d235d1",
+      "width": 480,
+      "height": 480,
+      "size": 17708,
+      "createdAt": "2026-07-09T22:50:19Z",
+      "updatedAt": "2026-07-09T22:50:19Z"
+    }
+  ]
+}

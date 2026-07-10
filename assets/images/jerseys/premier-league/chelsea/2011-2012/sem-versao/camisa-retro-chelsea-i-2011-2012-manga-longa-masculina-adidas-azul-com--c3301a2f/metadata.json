@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:50:31Z",
+  "updatedAt": "2026-07-09T22:50:31Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/front.webp",
+      "hash": "64f771aa27ce494ae533bd27b7439d031751b35bb20c0b8151ff88df31e2ef77",
+      "width": 480,
+      "height": 480,
+      "size": 10876,
+      "createdAt": "2026-07-09T22:50:30Z",
+      "updatedAt": "2026-07-09T22:50:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/back.webp",
+      "hash": "be0449156528702788cda4d94e6d82f9860ac7de3bb452172a872684f0d1f864",
+      "width": 480,
+      "height": 480,
+      "size": 5658,
+      "createdAt": "2026-07-09T22:50:30Z",
+      "updatedAt": "2026-07-09T22:50:30Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/detail-1.webp",
+      "hash": "950ddcf9a38002bd660bd1435ea51ac81f3d2bf986b2d8c78904bc9ade07d297",
+      "width": 480,
+      "height": 480,
+      "size": 70932,
+      "createdAt": "2026-07-09T22:50:30Z",
+      "updatedAt": "2026-07-09T22:50:30Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/detail-2.webp",
+      "hash": "00d00efda27a127273a16615f65f3b2b911c4c321b356275fc683023c49d30e2",
+      "width": 480,
+      "height": 480,
+      "size": 62850,
+      "createdAt": "2026-07-09T22:50:30Z",
+      "updatedAt": "2026-07-09T22:50:30Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/detail-3.webp",
+      "hash": "4f174c3fae39e89fd15e30e2173cbf80a40da5f22c234ff6a5ac2ad187d04dfe",
+      "width": 480,
+      "height": 480,
+      "size": 15852,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/chelsea/2011-2012/sem-versao/camisa-retro-chelsea-i-2011-2012-manga-longa-masculina-adidas-azul-com--c3301a2f/detail-4.webp",
+      "hash": "50419e6a028ceaa80a84424f2301eae1939da7c2737ab98ec152e94e1d4ba053",
+      "width": 480,
+      "height": 480,
+      "size": 8910,
+      "createdAt": "2026-07-09T22:50:31Z",
+      "updatedAt": "2026-07-09T22:50:31Z"
+    }
+  ]
+}

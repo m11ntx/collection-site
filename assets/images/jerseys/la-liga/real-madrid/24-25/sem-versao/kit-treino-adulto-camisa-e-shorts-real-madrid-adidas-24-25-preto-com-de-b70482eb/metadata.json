@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-preto-com-desenho-de-dragao-colorido",
+  "createdAt": "2026-07-09T22:51:40Z",
+  "updatedAt": "2026-07-09T22:51:40Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-preto-com-de-b70482eb/front.webp",
+      "hash": "7b1d4ad4734a6bb0bfc5a573526505ea09d3dc12d85d82546bbeb5575c080367",
+      "width": 480,
+      "height": 480,
+      "size": 17806,
+      "createdAt": "2026-07-09T22:51:40Z",
+      "updatedAt": "2026-07-09T22:51:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-preto-com-de-b70482eb/back.webp",
+      "hash": "b5ffc9927761c51b9df0f57a43742f26aaece207ca5d7680e0fe13536da4da80",
+      "width": 480,
+      "height": 480,
+      "size": 16310,
+      "createdAt": "2026-07-09T22:51:40Z",
+      "updatedAt": "2026-07-09T22:51:40Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-preto-com-de-b70482eb/detail-1.webp",
+      "hash": "c5220209b5b8ede479bb68994adaed8d843b7633385e525323c183ca81ad7963",
+      "width": 480,
+      "height": 320,
+      "size": 35722,
+      "createdAt": "2026-07-09T22:51:40Z",
+      "updatedAt": "2026-07-09T22:51:40Z"
+    }
+  ]
+}

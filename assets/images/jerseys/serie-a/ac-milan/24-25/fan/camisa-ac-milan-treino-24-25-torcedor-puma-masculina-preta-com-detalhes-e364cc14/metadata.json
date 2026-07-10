@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-treino-24-25-torcedor-puma-masculina-preta-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:09:54Z",
+  "updatedAt": "2026-07-09T22:09:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-treino-24-25-torcedor-puma-masculina-preta-com-detalhes-e364cc14/front.webp",
+      "hash": "3540618e57fa29767e0d11a622b25a9e93e882977f658d9965553cf6a8e0b1b8",
+      "width": 480,
+      "height": 480,
+      "size": 6192,
+      "createdAt": "2026-07-09T22:09:54Z",
+      "updatedAt": "2026-07-09T22:09:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-treino-24-25-torcedor-puma-masculina-preta-com-detalhes-e364cc14/back.webp",
+      "hash": "1a4dad901ff8f4f4ea185d486a61ee6909115d54e4cd9764cc6b4f942faf0c12",
+      "width": 480,
+      "height": 480,
+      "size": 3984,
+      "createdAt": "2026-07-09T22:09:54Z",
+      "updatedAt": "2026-07-09T22:09:54Z"
+    }
+  ]
+}

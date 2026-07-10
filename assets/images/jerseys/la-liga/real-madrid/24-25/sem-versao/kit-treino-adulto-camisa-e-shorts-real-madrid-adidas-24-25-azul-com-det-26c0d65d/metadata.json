@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-azul-com-detalhes-em-laranja-e-amarelo-2",
+  "createdAt": "2026-07-09T22:51:41Z",
+  "updatedAt": "2026-07-09T22:51:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-azul-com-det-26c0d65d/front.webp",
+      "hash": "1bf4a048182b8d4f51eec7f7f491fd3f964ecc782e2203d8d8fb19548cce8b0d",
+      "width": 480,
+      "height": 480,
+      "size": 13080,
+      "createdAt": "2026-07-09T22:51:41Z",
+      "updatedAt": "2026-07-09T22:51:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-azul-com-det-26c0d65d/back.webp",
+      "hash": "c5bfd6fea569c9cd071635b4835cef7359651bec0f1028a6afc2035b48f5948e",
+      "width": 480,
+      "height": 480,
+      "size": 8136,
+      "createdAt": "2026-07-09T22:51:41Z",
+      "updatedAt": "2026-07-09T22:51:41Z"
+    }
+  ]
+}

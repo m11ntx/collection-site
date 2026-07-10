@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-everton-pre-jogo-24-25-torcedor-castore-masculina-azul-com-detalhes-em-verde-e-roxo",
+  "createdAt": "2026-07-09T22:10:49Z",
+  "updatedAt": "2026-07-09T22:10:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-pre-jogo-24-25-torcedor-castore-masculina-azul-com-detal-ede892e2/front.webp",
+      "hash": "6e21ad3e69835be11ce5b0e674771ed51caddd192ff9bec62065f5cec818efd4",
+      "width": 480,
+      "height": 480,
+      "size": 18810,
+      "createdAt": "2026-07-09T22:10:49Z",
+      "updatedAt": "2026-07-09T22:10:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/everton/24-25/fan/camisa-everton-pre-jogo-24-25-torcedor-castore-masculina-azul-com-detal-ede892e2/back.webp",
+      "hash": "e573e8f648c3c071acc7e22bf01c7cc4a6ca054b020dc885f940c01e3335ceda",
+      "width": 480,
+      "height": 480,
+      "size": 15270,
+      "createdAt": "2026-07-09T22:10:49Z",
+      "updatedAt": "2026-07-09T22:10:49Z"
+    }
+  ]
+}

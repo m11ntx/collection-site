@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-pre-jogo-24-25-manga-longa-torcedor-puma-masculina-azul",
+  "createdAt": "2026-07-09T22:50:48Z",
+  "updatedAt": "2026-07-09T22:50:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-manga-longa-torcedor-puma-masculina-azul/front.webp",
+      "hash": "12456bd9f4cef558ca1e0977a097e06f4ff8cd9e8f229e88ea87ba9c2cef4274",
+      "width": 480,
+      "height": 480,
+      "size": 9826,
+      "createdAt": "2026-07-09T22:50:48Z",
+      "updatedAt": "2026-07-09T22:50:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-24-25-manga-longa-torcedor-puma-masculina-azul/back.webp",
+      "hash": "8e6c87c80c4b8e6f6c6507810fddc66a7937c68b51db995d893b8004dfa5f9dd",
+      "width": 480,
+      "height": 480,
+      "size": 9084,
+      "createdAt": "2026-07-09T22:50:48Z",
+      "updatedAt": "2026-07-09T22:50:48Z"
+    }
+  ]
+}

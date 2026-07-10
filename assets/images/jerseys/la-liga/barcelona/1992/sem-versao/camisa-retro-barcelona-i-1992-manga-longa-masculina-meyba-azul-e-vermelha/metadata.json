@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha",
+  "createdAt": "2026-07-09T22:50:11Z",
+  "updatedAt": "2026-07-09T22:50:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/front.webp",
+      "hash": "9a79ad90df040e336db782c0b005bb3d83edad8eccddd521585cd22480d9b7c1",
+      "width": 480,
+      "height": 480,
+      "size": 14966,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/back.webp",
+      "hash": "6f712ed8994fc9f2847547b3b7ed4f84345615c4a5dc33f61a00dd10a42124e3",
+      "width": 480,
+      "height": 480,
+      "size": 11752,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/detail-1.webp",
+      "hash": "fb493a214b781cf7aad09d4020e5b64e69c7d3f136eed83b807122ed5b720ec4",
+      "width": 480,
+      "height": 480,
+      "size": 19992,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/detail-2.webp",
+      "hash": "d17847fc0698d13f67e8a61841bef553adad2c08a489314bfffcd0f5517680a6",
+      "width": 480,
+      "height": 480,
+      "size": 61898,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/detail-3.webp",
+      "hash": "21b7574f3107c4b86925b12c09e47734afb216ceef0a3c534263696766430ed0",
+      "width": 480,
+      "height": 480,
+      "size": 71638,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/detail-4.webp",
+      "hash": "e794c9a474e3c8a3442751f2c441769e9f4617af3b1eb63a4b477515da1883d7",
+      "width": 480,
+      "height": 480,
+      "size": 26200,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/1992/sem-versao/camisa-retro-barcelona-i-1992-manga-longa-masculina-meyba-azul-e-vermelha/detail-5.webp",
+      "hash": "4285ad1f6530426e8c3afebcffae5c8ca40cbeae4ca97accbf19974802a52afb",
+      "width": 480,
+      "height": 480,
+      "size": 27554,
+      "createdAt": "2026-07-09T22:50:11Z",
+      "updatedAt": "2026-07-09T22:50:11Z"
+    }
+  ]
+}

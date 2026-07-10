@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-manchester-united-treino-masculina-adidas-branca-2",
+  "createdAt": "2026-07-09T22:49:05Z",
+  "updatedAt": "2026-07-09T22:49:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/sem-temporada/sem-versao/jaqueta-corta-vento-manchester-united-treino-masculina-adidas-branca-2/front.webp",
+      "hash": "42ded7b7589cdeaf07f17d7ceee5def0b7aa2ef31dfe12ee8dddb1a9d88c2dd0",
+      "width": 480,
+      "height": 480,
+      "size": 11808,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/sem-temporada/sem-versao/jaqueta-corta-vento-manchester-united-treino-masculina-adidas-branca-2/back.webp",
+      "hash": "5cd32b6cb92e73757864ce2fcdcfc4e13ab3adb87d98106bf8fac73c0b1e0d43",
+      "width": 480,
+      "height": 480,
+      "size": 11154,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/sem-temporada/sem-versao/jaqueta-corta-vento-manchester-united-treino-masculina-adidas-branca-2/detail-1.webp",
+      "hash": "a181196c85c744686d4c978f9297ccd36e534b7c826889c5bdac1ed9d5990f6a",
+      "width": 480,
+      "height": 480,
+      "size": 4354,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    }
+  ]
+}

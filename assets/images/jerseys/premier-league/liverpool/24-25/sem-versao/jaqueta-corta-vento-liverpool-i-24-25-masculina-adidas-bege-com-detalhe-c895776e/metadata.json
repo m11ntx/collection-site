@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-liverpool-i-24-25-masculina-adidas-bege-com-detalhes-em-vermelho-e-preto",
+  "createdAt": "2026-07-09T22:49:01Z",
+  "updatedAt": "2026-07-09T22:49:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-i-24-25-masculina-adidas-bege-com-detalhe-c895776e/front.webp",
+      "hash": "fb448de0e949fef7ad289a96856771f0a666e8685f61574bb7dfa112409da36c",
+      "width": 480,
+      "height": 480,
+      "size": 9644,
+      "createdAt": "2026-07-09T22:49:01Z",
+      "updatedAt": "2026-07-09T22:49:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-i-24-25-masculina-adidas-bege-com-detalhe-c895776e/back.webp",
+      "hash": "18bf216dd1115140078918905e845a1633d24b8df57410fea00d86977832d05a",
+      "width": 480,
+      "height": 480,
+      "size": 8198,
+      "createdAt": "2026-07-09T22:49:01Z",
+      "updatedAt": "2026-07-09T22:49:01Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-i-24-25-masculina-adidas-bege-com-detalhe-c895776e/detail-1.webp",
+      "hash": "8ee747ec1e52971c42611590a9564675a8bcc7ccd57c25a1fbbb3b691d373495",
+      "width": 480,
+      "height": 600,
+      "size": 21290,
+      "createdAt": "2026-07-09T22:49:01Z",
+      "updatedAt": "2026-07-09T22:49:01Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-i-24-25-masculina-adidas-bege-com-detalhe-c895776e/detail-2.webp",
+      "hash": "c348d0eba206a0222c27fbe62cb84225cb2a777bf12a03e17cb73238634d0987",
+      "width": 480,
+      "height": 600,
+      "size": 26960,
+      "createdAt": "2026-07-09T22:49:01Z",
+      "updatedAt": "2026-07-09T22:49:01Z"
+    }
+  ]
+}

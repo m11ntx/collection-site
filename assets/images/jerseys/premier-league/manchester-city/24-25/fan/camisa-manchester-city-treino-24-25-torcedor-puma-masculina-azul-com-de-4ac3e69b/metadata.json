@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-treino-24-25-torcedor-puma-masculina-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T22:10:24Z",
+  "updatedAt": "2026-07-09T22:10:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-treino-24-25-torcedor-puma-masculina-azul-com-de-4ac3e69b/front.webp",
+      "hash": "32950780264f38e4cbdb0ac930e37682e0f0f06a4ef06e03d5ddb95d2c67beac",
+      "width": 480,
+      "height": 480,
+      "size": 8198,
+      "createdAt": "2026-07-09T22:10:24Z",
+      "updatedAt": "2026-07-09T22:10:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-treino-24-25-torcedor-puma-masculina-azul-com-de-4ac3e69b/back.webp",
+      "hash": "44c6045673541def99ba1a48e09b0a3c7f8ed152dd0d1fa53e4c91e720fae1e4",
+      "width": 480,
+      "height": 480,
+      "size": 5426,
+      "createdAt": "2026-07-09T22:10:24Z",
+      "updatedAt": "2026-07-09T22:10:24Z"
+    }
+  ]
+}

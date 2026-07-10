@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-preto-com-detalhes-em-cinza-e-branco-2",
+  "createdAt": "2026-07-09T22:51:41Z",
+  "updatedAt": "2026-07-09T22:51:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-preto--579f3bd0/front.webp",
+      "hash": "1a8dbedca2772aac0877bb6df422454716dbeea3b465d7ec09bd49af1f20a732",
+      "width": 480,
+      "height": 480,
+      "size": 8736,
+      "createdAt": "2026-07-09T22:51:41Z",
+      "updatedAt": "2026-07-09T22:51:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-preto--579f3bd0/back.webp",
+      "hash": "a568118bc3b97d8ee044d6d1dd0ca61423d93a88959786de7068166a58c0eb07",
+      "width": 480,
+      "height": 480,
+      "size": 5108,
+      "createdAt": "2026-07-09T22:51:41Z",
+      "updatedAt": "2026-07-09T22:51:41Z"
+    }
+  ]
+}

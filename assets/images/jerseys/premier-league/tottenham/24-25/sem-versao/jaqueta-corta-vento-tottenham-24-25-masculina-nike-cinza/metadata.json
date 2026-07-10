@@ -1,0 +1,57 @@
+{
+  "productId": "source-jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza",
+  "createdAt": "2026-07-09T22:48:53Z",
+  "updatedAt": "2026-07-09T22:48:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza/front.webp",
+      "hash": "20602102987fc9c38dc8daae16b28cf5f5457bf089f988b9e01f81e7dcdaf0ed",
+      "width": 480,
+      "height": 480,
+      "size": 9982,
+      "createdAt": "2026-07-09T22:48:52Z",
+      "updatedAt": "2026-07-09T22:48:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza/back.webp",
+      "hash": "2e11163cb0f3a660568872b2e8f81f041b6f4df7c93fa1313aa1a9e62e34456a",
+      "width": 480,
+      "height": 480,
+      "size": 4344,
+      "createdAt": "2026-07-09T22:48:52Z",
+      "updatedAt": "2026-07-09T22:48:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza/detail-1.webp",
+      "hash": "79a368afb535c4f17f8d108d3164b4df77a2e090bdd482ad960f621ba12a0e31",
+      "width": 480,
+      "height": 480,
+      "size": 7992,
+      "createdAt": "2026-07-09T22:48:52Z",
+      "updatedAt": "2026-07-09T22:48:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza/detail-2.webp",
+      "hash": "4b62b4a93f76fba4f907e9ebd21fcf52390c5d4fa7a73f9e2a85d24fa4687819",
+      "width": 480,
+      "height": 600,
+      "size": 28858,
+      "createdAt": "2026-07-09T22:48:53Z",
+      "updatedAt": "2026-07-09T22:48:53Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/sem-versao/jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza/detail-3.webp",
+      "hash": "042abad1764f2ff89c9c1d9f6c9ffd7947f8b146e698f840423cabb6b3c82477",
+      "width": 480,
+      "height": 600,
+      "size": 27716,
+      "createdAt": "2026-07-09T22:48:53Z",
+      "updatedAt": "2026-07-09T22:48:53Z"
+    }
+  ]
+}

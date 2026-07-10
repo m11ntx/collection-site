@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-borussia-dortmund-goleiro-ii-24-25-masculino-puma-bege",
+  "createdAt": "2026-07-09T22:50:56Z",
+  "updatedAt": "2026-07-09T22:50:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/shorts-borussia-dortmund-goleiro-ii-24-25-masculino-puma-bege/front.webp",
+      "hash": "596737ab690c0fc4ccae49afc4ad46180c29df669d1e2a92ccc0679c971a41f4",
+      "width": 480,
+      "height": 480,
+      "size": 19084,
+      "createdAt": "2026-07-09T22:50:56Z",
+      "updatedAt": "2026-07-09T22:50:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/borussia-dortmund/24-25/sem-versao/shorts-borussia-dortmund-goleiro-ii-24-25-masculino-puma-bege/back.webp",
+      "hash": "34af45346dabb25b3875d98acb9ddc73078186386f787980a5aed463ee860da4",
+      "width": 480,
+      "height": 480,
+      "size": 17098,
+      "createdAt": "2026-07-09T22:50:56Z",
+      "updatedAt": "2026-07-09T22:50:56Z"
+    }
+  ]
+}

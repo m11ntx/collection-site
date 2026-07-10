@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-newcastle-iii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-preto-e-verde",
+  "createdAt": "2026-07-09T22:10:23Z",
+  "updatedAt": "2026-07-09T22:10:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/fan/camisa-newcastle-iii-24-25-torcedor-adidas-masculina-branca-com-detalhe-da100b14/front.webp",
+      "hash": "57d63bc8ddf69f0589ffcde6589421aa6c9af5e451f7f096bf03fb7672f650b8",
+      "width": 480,
+      "height": 480,
+      "size": 8794,
+      "createdAt": "2026-07-09T22:10:23Z",
+      "updatedAt": "2026-07-09T22:10:23Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/newcastle-united/24-25/fan/camisa-newcastle-iii-24-25-torcedor-adidas-masculina-branca-com-detalhe-da100b14/back.webp",
+      "hash": "ce11d8d04e0dc76c6fa0ea43fb4f9e659adb431722147c8a1ea5410f5e575280",
+      "width": 480,
+      "height": 480,
+      "size": 4272,
+      "createdAt": "2026-07-09T22:10:23Z",
+      "updatedAt": "2026-07-09T22:10:23Z"
+    }
+  ]
+}

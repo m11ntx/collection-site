@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-bayern-de-munique-i-24-25-masculina-adidas-vermelho",
+  "createdAt": "2026-07-09T22:48:57Z",
+  "updatedAt": "2026-07-09T22:48:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/jaqueta-corta-vento-bayern-de-munique-i-24-25-masculina-adidas-vermelho/front.webp",
+      "hash": "c656152eaaf70f13e7d73b2f545ea9197e25d2a66b579e5a408478292cc6f0f9",
+      "width": 480,
+      "height": 480,
+      "size": 10666,
+      "createdAt": "2026-07-09T22:48:57Z",
+      "updatedAt": "2026-07-09T22:48:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/jaqueta-corta-vento-bayern-de-munique-i-24-25-masculina-adidas-vermelho/back.webp",
+      "hash": "773207e89d453a9a01f3d4915dd3f86830324bcbb595f51e9eca5c3c95dab4f7",
+      "width": 480,
+      "height": 480,
+      "size": 9478,
+      "createdAt": "2026-07-09T22:48:57Z",
+      "updatedAt": "2026-07-09T22:48:57Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/jaqueta-corta-vento-bayern-de-munique-i-24-25-masculina-adidas-vermelho/detail-1.webp",
+      "hash": "755133051add86dfe9877c0e7e34a93ef1dbfe20673a83811d63bac51034ab17",
+      "width": 480,
+      "height": 480,
+      "size": 11512,
+      "createdAt": "2026-07-09T22:48:57Z",
+      "updatedAt": "2026-07-09T22:48:57Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/jaqueta-corta-vento-bayern-de-munique-i-24-25-masculina-adidas-vermelho/detail-2.webp",
+      "hash": "80de7ad2efab24db2e4f25139accb2c38b77dad33472488712f05265c42e5b5f",
+      "width": 480,
+      "height": 480,
+      "size": 14852,
+      "createdAt": "2026-07-09T22:48:57Z",
+      "updatedAt": "2026-07-09T22:48:57Z"
+    }
+  ]
+}

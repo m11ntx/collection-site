@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:49:51Z",
+  "updatedAt": "2026-07-09T22:49:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/front.webp",
+      "hash": "286fbd29987711f2b3a44bfc388bbf71557005b785667fb830d471454c80b145",
+      "width": 480,
+      "height": 480,
+      "size": 11452,
+      "createdAt": "2026-07-09T22:49:50Z",
+      "updatedAt": "2026-07-09T22:49:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/back.webp",
+      "hash": "d08bf20230dd95ada8b947caac83ce96771a14088173f93ba867c9ecc058bc3a",
+      "width": 480,
+      "height": 480,
+      "size": 4736,
+      "createdAt": "2026-07-09T22:49:50Z",
+      "updatedAt": "2026-07-09T22:49:50Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/detail-1.webp",
+      "hash": "2a81f2f8ba41129fee80f9e83ad91c3a445d20716f445d873811e5ec5b4b406a",
+      "width": 480,
+      "height": 480,
+      "size": 15340,
+      "createdAt": "2026-07-09T22:49:50Z",
+      "updatedAt": "2026-07-09T22:49:50Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/detail-2.webp",
+      "hash": "2beaadda03309c5f657d00360473e8facbc4d719472ec63f58fadec4849c7b2e",
+      "width": 480,
+      "height": 480,
+      "size": 33584,
+      "createdAt": "2026-07-09T22:49:50Z",
+      "updatedAt": "2026-07-09T22:49:50Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/detail-3.webp",
+      "hash": "dde0229d131eeba3af7086c83088b51d8bce3ab9433470fd7209c278101ec3ea",
+      "width": 480,
+      "height": 480,
+      "size": 47526,
+      "createdAt": "2026-07-09T22:49:51Z",
+      "updatedAt": "2026-07-09T22:49:51Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/detail-4.webp",
+      "hash": "b612157c5ecb6bf7c2a79748fe0ecc04bd9967617fcdcbb780bf60133de56dc2",
+      "width": 480,
+      "height": 480,
+      "size": 40324,
+      "createdAt": "2026-07-09T22:49:51Z",
+      "updatedAt": "2026-07-09T22:49:51Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/10-11/sem-versao/camisa-retro-real-madrid-i-10-11-manga-longa-masculina-adidas-branca-co-04517007/detail-5.webp",
+      "hash": "64345844d7db5efff74db7eff0e278b6ed676fcb47208ba214be39b66df82d9b",
+      "width": 480,
+      "height": 480,
+      "size": 33486,
+      "createdAt": "2026-07-09T22:49:51Z",
+      "updatedAt": "2026-07-09T22:49:51Z"
+    }
+  ]
+}

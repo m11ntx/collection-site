@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha",
+  "createdAt": "2026-07-09T22:50:18Z",
+  "updatedAt": "2026-07-09T22:50:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/front.webp",
+      "hash": "3189e357b392bb350773adb8eb6e1fb9f7ae7d78d3a868220fdc0d0813493c43",
+      "width": 480,
+      "height": 480,
+      "size": 8676,
+      "createdAt": "2026-07-09T22:50:17Z",
+      "updatedAt": "2026-07-09T22:50:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/back.webp",
+      "hash": "237b30b736ee1f1d434fcde6619bed71ee99c0f69561f4ee545109d7715c78ba",
+      "width": 480,
+      "height": 480,
+      "size": 6938,
+      "createdAt": "2026-07-09T22:50:17Z",
+      "updatedAt": "2026-07-09T22:50:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/detail-1.webp",
+      "hash": "ad82dd6747fc7617230a6421a4fe9bc9f43df491e26f3cf5dae3d5897e5a3cd3",
+      "width": 480,
+      "height": 480,
+      "size": 15562,
+      "createdAt": "2026-07-09T22:50:17Z",
+      "updatedAt": "2026-07-09T22:50:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/detail-2.webp",
+      "hash": "b82e00b99ef0a5deed2a2b3621257c4c52fecad357c7081d41ed488ab98238aa",
+      "width": 480,
+      "height": 480,
+      "size": 65546,
+      "createdAt": "2026-07-09T22:50:17Z",
+      "updatedAt": "2026-07-09T22:50:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/detail-3.webp",
+      "hash": "542bc240cc7cc1671c84a34c1834e6d73b0fe91d2bf553f9f83675aca09556d4",
+      "width": 480,
+      "height": 480,
+      "size": 63712,
+      "createdAt": "2026-07-09T22:50:17Z",
+      "updatedAt": "2026-07-09T22:50:17Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/detail-4.webp",
+      "hash": "fe66a41ec4497d42fafd87fb9d298073769a497ef93613755fbea63a2f6f6f7b",
+      "width": 480,
+      "height": 480,
+      "size": 20154,
+      "createdAt": "2026-07-09T22:50:18Z",
+      "updatedAt": "2026-07-09T22:50:18Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2014-2015/sem-versao/camisa-retro-barcelona-i-2014-2015-manga-longa-nike-masculina-azul-e-vermelha/detail-5.webp",
+      "hash": "041992f967c59b5266cfadcd8e9ffc46c500ebf91e68e5cdcbc990b1ea7b1ea6",
+      "width": 480,
+      "height": 480,
+      "size": 22960,
+      "createdAt": "2026-07-09T22:50:18Z",
+      "updatedAt": "2026-07-09T22:50:18Z"
+    }
+  ]
+}

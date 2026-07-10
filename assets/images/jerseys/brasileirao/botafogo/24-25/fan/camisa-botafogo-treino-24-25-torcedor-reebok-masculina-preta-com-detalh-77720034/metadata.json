@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-cinza-e-amarelo",
+  "createdAt": "2026-07-09T22:09:48Z",
+  "updatedAt": "2026-07-09T22:09:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalh-77720034/front.webp",
+      "hash": "f5b0032ac6bf7ef85a63c884dcfa3b40cb5251bb5a5d8738c67e2dc95720a079",
+      "width": 480,
+      "height": 480,
+      "size": 6746,
+      "createdAt": "2026-07-09T22:09:47Z",
+      "updatedAt": "2026-07-09T22:09:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalh-77720034/back.webp",
+      "hash": "5c30f5d15820d2ff782443d6a1d0676752dd872a36f1aa2687906e83172ffca0",
+      "width": 480,
+      "height": 480,
+      "size": 4812,
+      "createdAt": "2026-07-09T22:09:47Z",
+      "updatedAt": "2026-07-09T22:09:47Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalh-77720034/detail-1.webp",
+      "hash": "1e5e5ad39fbff5e4f0d0209198f73bb8d48ceb5a0d0b2608c8094e7a4c4fe0c1",
+      "width": 480,
+      "height": 480,
+      "size": 8326,
+      "createdAt": "2026-07-09T22:09:47Z",
+      "updatedAt": "2026-07-09T22:09:47Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalh-77720034/detail-2.webp",
+      "hash": "7e20e1e4bdf13dec4d08cb68b30eaf22c67d111c605ec63d6cb52621a468825e",
+      "width": 480,
+      "height": 480,
+      "size": 7012,
+      "createdAt": "2026-07-09T22:09:47Z",
+      "updatedAt": "2026-07-09T22:09:47Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/botafogo/24-25/fan/camisa-botafogo-treino-24-25-torcedor-reebok-masculina-preta-com-detalh-77720034/detail-3.webp",
+      "hash": "ef26a961feeee2b53bda09f746c0f50a20a33dc56d3bb26582b3e1af56532375",
+      "width": 480,
+      "height": 480,
+      "size": 7286,
+      "createdAt": "2026-07-09T22:09:47Z",
+      "updatedAt": "2026-07-09T22:09:47Z"
+    }
+  ]
+}

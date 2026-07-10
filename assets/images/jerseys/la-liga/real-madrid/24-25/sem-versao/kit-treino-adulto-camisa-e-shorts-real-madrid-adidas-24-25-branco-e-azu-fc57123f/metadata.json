@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-e-azul-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T22:51:22Z",
+  "updatedAt": "2026-07-09T22:51:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-e-azu-fc57123f/front.webp",
+      "hash": "a0d1cdd018a0c1bc383ca1253bc0aca4afaef7f8c9ce454730b325201de1631e",
+      "width": 480,
+      "height": 480,
+      "size": 9884,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-e-azu-fc57123f/back.webp",
+      "hash": "3b77f7073084ae77ce7f16404a2c483a3cc7c7ebd26ab49722e3295e359d38ae",
+      "width": 480,
+      "height": 480,
+      "size": 10488,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-e-azu-fc57123f/detail-1.webp",
+      "hash": "e78d30bca29c8b6f64882731b2128e4f36f930fcbb96f6d263c59d58f93e20e3",
+      "width": 480,
+      "height": 480,
+      "size": 5170,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    }
+  ]
+}

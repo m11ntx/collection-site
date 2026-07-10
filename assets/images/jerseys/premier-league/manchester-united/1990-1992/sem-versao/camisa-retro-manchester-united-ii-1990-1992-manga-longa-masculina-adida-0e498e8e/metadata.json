@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adidas-azul-com-detalhes-em-branco-e-vermelho",
+  "createdAt": "2026-07-09T22:50:06Z",
+  "updatedAt": "2026-07-09T22:50:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/front.webp",
+      "hash": "7e8fa3755899bcefbd47c64f1225d24920e1b8e1085a60a91c506e858e2b341a",
+      "width": 480,
+      "height": 480,
+      "size": 29196,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/back.webp",
+      "hash": "440e41177aa23d717196a9038337df161ab91f67b9d1425b9938073b03c8586c",
+      "width": 480,
+      "height": 480,
+      "size": 27936,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/detail-1.webp",
+      "hash": "b7f52a2ccb2ef1a118eac889737370b0b7ff9db5e72c87d46d4c1b14aa304972",
+      "width": 480,
+      "height": 480,
+      "size": 35314,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/detail-2.webp",
+      "hash": "cf86eb3a5ca310f943b15541cf878ddf3d016e2e3d399f85663732fa85eb757a",
+      "width": 480,
+      "height": 480,
+      "size": 78750,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/detail-3.webp",
+      "hash": "0df2fea48e8220ea56a9ee62fab30dbdb9c938b5b2531d590bb7dcadb85b9341",
+      "width": 480,
+      "height": 480,
+      "size": 77280,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/detail-4.webp",
+      "hash": "fc96d69f213def483f0606ce0d1b52e937b44d64099de8829c7470e60353ab71",
+      "width": 480,
+      "height": 480,
+      "size": 35104,
+      "createdAt": "2026-07-09T22:50:06Z",
+      "updatedAt": "2026-07-09T22:50:06Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1990-1992/sem-versao/camisa-retro-manchester-united-ii-1990-1992-manga-longa-masculina-adida-0e498e8e/detail-5.webp",
+      "hash": "39bf3ae83daa880b521aaf29ee8a841ed2da77190974124cd00860185bda3e79",
+      "width": 480,
+      "height": 480,
+      "size": 45212,
+      "createdAt": "2026-07-09T22:50:06Z",
+      "updatedAt": "2026-07-09T22:50:06Z"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:49:47Z",
+  "updatedAt": "2026-07-09T22:49:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/front.webp",
+      "hash": "81a40983740e522c44cf2ebf492c42a395a3dfeeeedd44d84107b2e1b2026ab7",
+      "width": 480,
+      "height": 480,
+      "size": 7794,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/back.webp",
+      "hash": "0b9c893feb944b1c720cc0de28cf997a18c856108b4b1a99080d5a6921c7f806",
+      "width": 480,
+      "height": 480,
+      "size": 3998,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/detail-1.webp",
+      "hash": "8e30788eb59e4fa75b8457daba1d4ec492d37780108fc889ad3688c2f32285c2",
+      "width": 480,
+      "height": 480,
+      "size": 15208,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/detail-2.webp",
+      "hash": "669cc66c0e2b4ca80b028222d10bdd125203b7aa4b8c9260b7d481c4a0e802ce",
+      "width": 480,
+      "height": 480,
+      "size": 56522,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/detail-3.webp",
+      "hash": "52919ec19808e232f1dcd22c2a0dc862dffcd5c0a2245b4cca344c54eef1e1d2",
+      "width": 480,
+      "height": 480,
+      "size": 63224,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/detail-4.webp",
+      "hash": "1f1e6e4fe6fffaa3299c1d465dc279d1fc8142ee939b2f8d0c5a5efc84fc68a4",
+      "width": 480,
+      "height": 480,
+      "size": 13484,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2017-2018/sem-versao/camisa-retro-real-madrid-i-2017-2018-manga-longa-adidas-masculina-branc-d8ba0b86/detail-5.webp",
+      "hash": "c89da6a02af36a4c5784cc54ae6d96f323799ffbd55081293072f2a886c40f97",
+      "width": 480,
+      "height": 480,
+      "size": 17084,
+      "createdAt": "2026-07-09T22:49:46Z",
+      "updatedAt": "2026-07-09T22:49:46Z"
+    }
+  ]
+}

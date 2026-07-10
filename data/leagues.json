@@ -1,107 +1,122 @@
 [
   {
     "id": "brasileirao",
+    "collectionId": "brasil",
     "slug": "brasileirao",
     "name": "Brasileirão",
-    "collection": "brasil",
-    "country": "Brazil"
+    "country": "Brazil",
+    "image": null
   },
   {
     "id": "bundesliga",
+    "collectionId": "europa",
     "slug": "bundesliga",
     "name": "Bundesliga",
-    "collection": "europa",
-    "country": "Germany"
+    "country": "Germany",
+    "image": null
   },
   {
     "id": "eredivisie",
+    "collectionId": "europa",
     "slug": "eredivisie",
     "name": "Eredivisie",
-    "collection": "europa",
-    "country": "Netherlands"
+    "country": "Netherlands",
+    "image": null
   },
   {
     "id": "la-liga",
+    "collectionId": "europa",
     "slug": "la-liga",
     "name": "La Liga",
-    "collection": "europa",
-    "country": "Spain"
+    "country": "Spain",
+    "image": null
   },
   {
     "id": "ligue-1",
+    "collectionId": "europa",
     "slug": "ligue-1",
     "name": "Ligue 1",
-    "collection": "europa",
-    "country": "France"
+    "country": "France",
+    "image": null
   },
   {
     "id": "premier-league",
+    "collectionId": "europa",
     "slug": "premier-league",
     "name": "Premier League",
-    "collection": "europa",
-    "country": "England"
+    "country": "England",
+    "image": null
   },
   {
     "id": "primeira-liga",
+    "collectionId": "europa",
     "slug": "primeira-liga",
     "name": "Primeira Liga",
-    "collection": "europa",
-    "country": "Portugal"
+    "country": "Portugal",
+    "image": null
   },
   {
     "id": "scottish-premiership",
+    "collectionId": "europa",
     "slug": "scottish-premiership",
     "name": "Scottish Premiership",
-    "collection": "europa",
-    "country": "Scotland"
+    "country": "Scotland",
+    "image": null
   },
   {
     "id": "serie-a",
+    "collectionId": "europa",
     "slug": "serie-a",
     "name": "Serie A",
-    "collection": "europa",
-    "country": "Italy"
+    "country": "Italy",
+    "image": null
   },
   {
     "id": "super-lig",
+    "collectionId": "europa",
     "slug": "super-lig",
     "name": "Süper Lig",
-    "collection": "europa",
-    "country": "Turkey"
+    "country": "Turkey",
+    "image": null
   },
   {
     "id": "allsvenskan",
+    "collectionId": "resto-do-mundo",
     "slug": "allsvenskan",
     "name": "Allsvenskan",
-    "collection": "resto-do-mundo",
-    "country": "Sweden"
+    "country": "Sweden",
+    "image": null
   },
   {
     "id": "libertadores",
+    "collectionId": "resto-do-mundo",
     "slug": "libertadores",
     "name": "Libertadores",
-    "collection": "resto-do-mundo",
-    "country": null
+    "country": null,
+    "image": null
   },
   {
     "id": "mls",
+    "collectionId": "resto-do-mundo",
     "slug": "mls",
     "name": "MLS",
-    "collection": "resto-do-mundo",
-    "country": null
+    "country": null,
+    "image": null
   },
   {
     "id": "saudi-pro-league",
+    "collectionId": "resto-do-mundo",
     "slug": "saudi-pro-league",
     "name": "Saudi Pro League",
-    "collection": "resto-do-mundo",
-    "country": "Saudi Arabia"
+    "country": "Saudi Arabia",
+    "image": null
   },
   {
     "id": "selecoes",
+    "collectionId": "selecoes",
     "slug": "selecoes",
     "name": "Seleções",
-    "collection": "selecoes",
-    "country": null
+    "country": null,
+    "image": null
   }
 ]

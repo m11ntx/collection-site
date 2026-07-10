@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-iii-24-25-manga-longa-torcedor-puma-masculina-cinza-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T22:50:43Z",
+  "updatedAt": "2026-07-09T22:50:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-iii-24-25-manga-longa-torcedor-puma-masculina-cinza-com-b45f98ef/front.webp",
+      "hash": "2968e40df9ef8751666f15a5e8260c70d3369add194fa90b628242027d694753",
+      "width": 480,
+      "height": 480,
+      "size": 7596,
+      "createdAt": "2026-07-09T22:50:43Z",
+      "updatedAt": "2026-07-09T22:50:43Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-iii-24-25-manga-longa-torcedor-puma-masculina-cinza-com-b45f98ef/back.webp",
+      "hash": "517ff9b470ca3cd097f60a3f51e5b2ee80cd3d05272820da9f23e77b1ef15957",
+      "width": 480,
+      "height": 480,
+      "size": 3974,
+      "createdAt": "2026-07-09T22:50:43Z",
+      "updatedAt": "2026-07-09T22:50:43Z"
+    }
+  ]
+}

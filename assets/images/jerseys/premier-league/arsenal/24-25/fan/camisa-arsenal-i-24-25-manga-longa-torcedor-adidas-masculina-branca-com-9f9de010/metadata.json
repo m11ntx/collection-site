@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-arsenal-i-24-25-manga-longa-torcedor-adidas-masculina-branca-com-detalhes-em-azul-e-vermelho",
+  "createdAt": "2026-07-09T22:50:37Z",
+  "updatedAt": "2026-07-09T22:50:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-manga-longa-torcedor-adidas-masculina-branca-com-9f9de010/front.webp",
+      "hash": "ca1d9d92b4958f91136bb56be8e6192a16e76f5fc6ddf4bc40280b40958db2c7",
+      "width": 480,
+      "height": 480,
+      "size": 15182,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/fan/camisa-arsenal-i-24-25-manga-longa-torcedor-adidas-masculina-branca-com-9f9de010/back.webp",
+      "hash": "420d0a36f0f2757cf3810d07fe7304f8a8b86f708c4c1943dba6d94d256a8be3",
+      "width": 480,
+      "height": 480,
+      "size": 6120,
+      "createdAt": "2026-07-09T22:50:37Z",
+      "updatedAt": "2026-07-09T22:50:37Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-goleiro-ii-24-25-manga-longa-torcedor-adidas-masculina-roxa",
+  "createdAt": "2026-07-09T22:50:32Z",
+  "updatedAt": "2026-07-09T22:50:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-goleiro-ii-24-25-manga-longa-torcedor-adidas-m-613721c7/front.webp",
+      "hash": "09f19003b60de011449794ad8d51e9395b69f0de634f8e5fad360e8606320b30",
+      "width": 480,
+      "height": 480,
+      "size": 22762,
+      "createdAt": "2026-07-09T22:50:32Z",
+      "updatedAt": "2026-07-09T22:50:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/fan/camisa-bayern-de-munique-goleiro-ii-24-25-manga-longa-torcedor-adidas-m-613721c7/back.webp",
+      "hash": "10ee3880286b124217e42497f7b34546486ac343f52806d339f8c174e4f8ba02",
+      "width": 480,
+      "height": 480,
+      "size": 10384,
+      "createdAt": "2026-07-09T22:50:32Z",
+      "updatedAt": "2026-07-09T22:50:32Z"
+    }
+  ]
+}

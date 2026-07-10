@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-iii-24-25-masculino-adidas-bege",
+  "createdAt": "2026-07-09T22:51:02Z",
+  "updatedAt": "2026-07-09T22:51:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-iii-24-25-masculino-adidas-bege/front.webp",
+      "hash": "298b12fc480d1b7299ddd2bc57e525d021ee2b490b12df17c60861daa23e500c",
+      "width": 480,
+      "height": 480,
+      "size": 11954,
+      "createdAt": "2026-07-09T22:51:02Z",
+      "updatedAt": "2026-07-09T22:51:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-iii-24-25-masculino-adidas-bege/back.webp",
+      "hash": "f9adac2954d6903f90eaf5a38a99cbbe399ef5960ee05b7cb3f4dbeb6755a781",
+      "width": 480,
+      "height": 480,
+      "size": 6440,
+      "createdAt": "2026-07-09T22:51:02Z",
+      "updatedAt": "2026-07-09T22:51:02Z"
+    }
+  ]
+}

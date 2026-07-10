@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-com-detalhes-em-cinza-e-laranja-e-amarelo",
+  "createdAt": "2026-07-09T22:51:41Z",
+  "updatedAt": "2026-07-09T22:51:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-com-d-d8684667/front.webp",
+      "hash": "a6cb2443884ce177cf93f1e70e99b97be7eb7f36f544320f9ca95e290ae5b10f",
+      "width": 480,
+      "height": 480,
+      "size": 20568,
+      "createdAt": "2026-07-09T22:51:40Z",
+      "updatedAt": "2026-07-09T22:51:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-adidas-24-25-branco-com-d-d8684667/back.webp",
+      "hash": "8e823936173d162fa5856e30099c99ad7a45bc3632edaa1ea885fdc46d183a6b",
+      "width": 480,
+      "height": 480,
+      "size": 6572,
+      "createdAt": "2026-07-09T22:51:41Z",
+      "updatedAt": "2026-07-09T22:51:41Z"
+    }
+  ]
+}

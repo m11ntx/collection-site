@@ -1,0 +1,57 @@
+{
+  "productId": "source-camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-vermelho-e-preto-e-verde",
+  "createdAt": "2026-07-09T22:09:32Z",
+  "updatedAt": "2026-07-09T22:09:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-d013d292/front.webp",
+      "hash": "6367aa23e73cae64cba1697351ca103576b53cfa275810e49e2b2ef8cc9f36a7",
+      "width": 480,
+      "height": 480,
+      "size": 11542,
+      "createdAt": "2026-07-09T22:09:31Z",
+      "updatedAt": "2026-07-09T22:09:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-d013d292/back.webp",
+      "hash": "bb513da25a09873e4236267dfe9ebcdd21ffce0ddac674bef92119b8338121ca",
+      "width": 480,
+      "height": 480,
+      "size": 4984,
+      "createdAt": "2026-07-09T22:09:31Z",
+      "updatedAt": "2026-07-09T22:09:31Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-d013d292/detail-1.webp",
+      "hash": "e191ba91dd8226061deeecd7a8c2988144954654f899c005a0cce926392adfcf",
+      "width": 480,
+      "height": 720,
+      "size": 45050,
+      "createdAt": "2026-07-09T22:09:31Z",
+      "updatedAt": "2026-07-09T22:09:31Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-d013d292/detail-2.webp",
+      "hash": "d61397e557366b5542249c621d5034051070abdc8fd588f3c8e26e283dfe7d82",
+      "width": 480,
+      "height": 720,
+      "size": 42096,
+      "createdAt": "2026-07-09T22:09:31Z",
+      "updatedAt": "2026-07-09T22:09:31Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/mls/fc-dallas/24-25/fan/camisa-fc-dallas-ii-24-25-torcedor-adidas-masculina-branca-com-detalhes-d013d292/detail-3.webp",
+      "hash": "beb6934b94771e70241d4cd6ce0576e5097eb7251b78c3b3e95e1a40e6513dcf",
+      "width": 480,
+      "height": 720,
+      "size": 36484,
+      "createdAt": "2026-07-09T22:09:32Z",
+      "updatedAt": "2026-07-09T22:09:32Z"
+    }
+  ]
+}

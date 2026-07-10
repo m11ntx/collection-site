@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-detalhes-em-preto-e-cinza",
+  "createdAt": "2026-07-09T22:08:24Z",
+  "updatedAt": "2026-07-09T22:08:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/front.webp",
+      "hash": "fdba4eff9b2cf3eb5e82e302c4c9d2c8dc10c2db4c2784ded265a6b9819c4056",
+      "width": 480,
+      "height": 480,
+      "size": 6266,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/back.webp",
+      "hash": "ea06461ea0d7e57a0817f073ac335e56bd76928fdef115f5600188905bd024a1",
+      "width": 480,
+      "height": 480,
+      "size": 4432,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/detail-1.webp",
+      "hash": "65b477ffb3ba9e377693cbedf31d35481d7fbce0a33f4874ed89ed2c1cca8437",
+      "width": 480,
+      "height": 480,
+      "size": 10602,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/detail-2.webp",
+      "hash": "aef81db43b66c9f5307d98e3c8b0aeefeba7d8dfab7759f23054da5a7660380b",
+      "width": 480,
+      "height": 480,
+      "size": 64396,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/detail-3.webp",
+      "hash": "41ba76b1241f838130128088dbcbd0eb0cf0804059e4abb4d7fb40743f9fadc1",
+      "width": 480,
+      "height": 480,
+      "size": 69504,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/fan/camisa-flamengo-treino-24-25-polo-torcedor-adidas-masculina-amarela-com-04b406a0/detail-4.webp",
+      "hash": "5737b8105ee8113153e74732350f56842f8e934cece0ed8c6bec932ff81c595b",
+      "width": 480,
+      "height": 480,
+      "size": 11190,
+      "createdAt": "2026-07-09T22:08:24Z",
+      "updatedAt": "2026-07-09T22:08:24Z"
+    }
+  ]
+}

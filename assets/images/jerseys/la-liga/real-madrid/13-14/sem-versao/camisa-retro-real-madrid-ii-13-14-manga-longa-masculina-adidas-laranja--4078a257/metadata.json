@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T22:49:54Z",
+  "updatedAt": "2026-07-09T22:49:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/front.webp",
+      "hash": "af3eaa03c91fee513477496ac4fb2330a9fa0eac8fedd35767512ff4b52ffb51",
+      "width": 480,
+      "height": 480,
+      "size": 9788,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/back.webp",
+      "hash": "99acf5d7fb23ddcb222bca65d0f4756806e764748a3f52f793657199f4307196",
+      "width": 480,
+      "height": 480,
+      "size": 5666,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/detail-1.webp",
+      "hash": "45708955f256cb34824072355d7624b8abac0e15e3c6e72646717f87e953d555",
+      "width": 480,
+      "height": 480,
+      "size": 16368,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/detail-2.webp",
+      "hash": "61b52746985a4cdacccb47f8d4d23e9799cb695e0b045dca28797d4f4525124b",
+      "width": 480,
+      "height": 480,
+      "size": 60976,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/detail-3.webp",
+      "hash": "ee90027a1bb49b790dd3c2fa5ecfd505ee52f33a231a7913c662d8a628da5e7c",
+      "width": 480,
+      "height": 480,
+      "size": 70234,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/detail-4.webp",
+      "hash": "449acc4b5d3ca113a86b6b8506388925ea1c0394e3fac5a99349f994dbfc2fa0",
+      "width": 480,
+      "height": 480,
+      "size": 13320,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/13-14/sem-versao/camisa-retro-real-madrid-ii-13-14-manga-longa-masculina-adidas-laranja--4078a257/detail-5.webp",
+      "hash": "837c169a1459238333999f7211afb9da2673bc949f00343369b07f582172d957",
+      "width": 480,
+      "height": 480,
+      "size": 7946,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    }
+  ]
+}

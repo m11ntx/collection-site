@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-com-detalhes-em-azul-e-com-patrocinio",
+  "createdAt": "2026-07-09T22:50:29Z",
+  "updatedAt": "2026-07-09T22:50:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/front.webp",
+      "hash": "3ea5be3240283e0d9a42583402808ab49a131d4d4c76f7bd5683d0c7eddde3e3",
+      "width": 480,
+      "height": 480,
+      "size": 8386,
+      "createdAt": "2026-07-09T22:50:28Z",
+      "updatedAt": "2026-07-09T22:50:28Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/back.webp",
+      "hash": "9645d2bdb4d331e4629f14e7f7e0afa4fb3f8ad1dbea9d0fac50c14fd0db038a",
+      "width": 480,
+      "height": 480,
+      "size": 12294,
+      "createdAt": "2026-07-09T22:50:28Z",
+      "updatedAt": "2026-07-09T22:50:28Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/detail-1.webp",
+      "hash": "d6194abb813c991b67817f4113c044d699b7a88c192ac27157a43da6fe38a3c0",
+      "width": 480,
+      "height": 480,
+      "size": 5468,
+      "createdAt": "2026-07-09T22:50:28Z",
+      "updatedAt": "2026-07-09T22:50:28Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/detail-2.webp",
+      "hash": "f3ed9e97bffdefaf88250479e6b334cedc84779c279257974f93c996709651d9",
+      "width": 480,
+      "height": 480,
+      "size": 25884,
+      "createdAt": "2026-07-09T22:50:28Z",
+      "updatedAt": "2026-07-09T22:50:28Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/detail-3.webp",
+      "hash": "1ead2663452a8a7d23defca32633460a3cca24bb78db8515452e8660df730a6b",
+      "width": 480,
+      "height": 480,
+      "size": 46810,
+      "createdAt": "2026-07-09T22:50:28Z",
+      "updatedAt": "2026-07-09T22:50:28Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/detail-4.webp",
+      "hash": "f2ecec899cbb268f4ecbdf9c19e93295a19ab6d1427dbc51bfb92c9f3f9a0339",
+      "width": 480,
+      "height": 480,
+      "size": 12866,
+      "createdAt": "2026-07-09T22:50:29Z",
+      "updatedAt": "2026-07-09T22:50:29Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/liverpool/2006-2007/sem-versao/camisa-retro-liverpool-ii-2006-2007-manga-longa-adidas-masculina-branca-9bce0ec0/detail-5.webp",
+      "hash": "248e91f49e7596261aa30d63087c0f38b90b3f9165a96ff2325a44ef8dd0c391",
+      "width": 480,
+      "height": 480,
+      "size": 6448,
+      "createdAt": "2026-07-09T22:50:29Z",
+      "updatedAt": "2026-07-09T22:50:29Z"
+    }
+  ]
+}

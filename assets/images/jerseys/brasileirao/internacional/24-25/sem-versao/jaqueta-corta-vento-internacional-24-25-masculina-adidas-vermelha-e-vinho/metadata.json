@@ -1,0 +1,27 @@
+{
+  "productId": "source-jaqueta-corta-vento-internacional-24-25-masculina-adidas-vermelha-e-vinho",
+  "createdAt": "2026-07-09T22:48:48Z",
+  "updatedAt": "2026-07-09T22:48:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/jaqueta-corta-vento-internacional-24-25-masculina-adidas-vermelha-e-vinho/front.webp",
+      "hash": "deb7059156cdb4709be5975028877b94a2042e3177f9ae0f4cc126205ca92079",
+      "width": 480,
+      "height": 480,
+      "size": 10438,
+      "createdAt": "2026-07-09T22:48:48Z",
+      "updatedAt": "2026-07-09T22:48:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/jaqueta-corta-vento-internacional-24-25-masculina-adidas-vermelha-e-vinho/back.webp",
+      "hash": "20cf225511e2cad6dd2739b6682db4c68690849e0466d871c16a2cd235b33dc6",
+      "width": 480,
+      "height": 480,
+      "size": 8466,
+      "createdAt": "2026-07-09T22:48:48Z",
+      "updatedAt": "2026-07-09T22:48:48Z"
+    }
+  ]
+}

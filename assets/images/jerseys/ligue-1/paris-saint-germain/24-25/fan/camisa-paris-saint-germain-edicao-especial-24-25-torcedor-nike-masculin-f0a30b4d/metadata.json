@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculina-preto-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T22:09:23Z",
+  "updatedAt": "2026-07-09T22:09:23Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/front.webp",
+      "hash": "0b2dc8e1d220df3920ba6b8f11f9cdf29256b59c0fc83871f482beb209b3c68d",
+      "width": 480,
+      "height": 480,
+      "size": 6100,
+      "createdAt": "2026-07-09T22:09:22Z",
+      "updatedAt": "2026-07-09T22:09:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/back.webp",
+      "hash": "47be47f944e72f5b907a77a415b138ff4270208f903f28c88df889ced47b51bf",
+      "width": 480,
+      "height": 480,
+      "size": 5864,
+      "createdAt": "2026-07-09T22:09:22Z",
+      "updatedAt": "2026-07-09T22:09:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/detail-1.webp",
+      "hash": "75497cc03829ce52e0813ae1372a240745e3aea049739e37b10c06e870889120",
+      "width": 480,
+      "height": 480,
+      "size": 16036,
+      "createdAt": "2026-07-09T22:09:22Z",
+      "updatedAt": "2026-07-09T22:09:22Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/detail-2.webp",
+      "hash": "ca9ab5a939131ac8d419c96120caf311d11cc525e589023f1a21446110b1198d",
+      "width": 480,
+      "height": 480,
+      "size": 47592,
+      "createdAt": "2026-07-09T22:09:22Z",
+      "updatedAt": "2026-07-09T22:09:22Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/detail-3.webp",
+      "hash": "fb35901626f257e4285ef7c1da6e4994de744b43ce37e7be559c6b8f547027ae",
+      "width": 480,
+      "height": 480,
+      "size": 12854,
+      "createdAt": "2026-07-09T22:09:22Z",
+      "updatedAt": "2026-07-09T22:09:22Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/fan/camisa-paris-saint-germain-edicao-especial-24-25-torcedor-nike-masculin-f0a30b4d/detail-4.webp",
+      "hash": "2e23fceafed173f9751a25b03634ef7cb9762e3a78e4eb8ec3c6d0a1305d5b3a",
+      "width": 480,
+      "height": 480,
+      "size": 21910,
+      "createdAt": "2026-07-09T22:09:23Z",
+      "updatedAt": "2026-07-09T22:09:23Z"
+    }
+  ]
+}

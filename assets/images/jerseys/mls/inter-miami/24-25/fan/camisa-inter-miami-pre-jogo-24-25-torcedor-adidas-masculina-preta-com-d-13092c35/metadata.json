@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-inter-miami-pre-jogo-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-bege",
+  "createdAt": "2026-07-09T22:10:15Z",
+  "updatedAt": "2026-07-09T22:10:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-pre-jogo-24-25-torcedor-adidas-masculina-preta-com-d-13092c35/front.webp",
+      "hash": "06873e5588869d58fad42c963e9230282ec2cf4b0f656470c9fb030f26c459a7",
+      "width": 480,
+      "height": 480,
+      "size": 19166,
+      "createdAt": "2026-07-09T22:10:15Z",
+      "updatedAt": "2026-07-09T22:10:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/inter-miami/24-25/fan/camisa-inter-miami-pre-jogo-24-25-torcedor-adidas-masculina-preta-com-d-13092c35/back.webp",
+      "hash": "f3e7ca93b5a79f64a1083791c0b27de1c638076cc0e8ce6b077eab90800549c1",
+      "width": 480,
+      "height": 480,
+      "size": 6700,
+      "createdAt": "2026-07-09T22:10:15Z",
+      "updatedAt": "2026-07-09T22:10:15Z"
+    }
+  ]
+}

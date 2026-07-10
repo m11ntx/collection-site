@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermelha-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:50:05Z",
+  "updatedAt": "2026-07-09T22:50:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/front.webp",
+      "hash": "d830c6934987b467e870b2091823b20223f16b3925fa1dfdd610eaa4ea3967a5",
+      "width": 480,
+      "height": 480,
+      "size": 15172,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/back.webp",
+      "hash": "8f8dd754a50a016a7768f7f19594c6a33dba7b53e0d12e83436cd8f309866620",
+      "width": 480,
+      "height": 480,
+      "size": 13324,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/detail-1.webp",
+      "hash": "959849cba6082a3a78fba2249a5fca1a5b734de7c5bac952b632f1afd5b26614",
+      "width": 480,
+      "height": 480,
+      "size": 25474,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/detail-2.webp",
+      "hash": "89ee415757086784ca48dfae1107845ed54f2349216056a1d81450aba2efa426",
+      "width": 480,
+      "height": 480,
+      "size": 45928,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/detail-3.webp",
+      "hash": "b595a2000038697f7681a14aa4d4ab9be4130315a22d516bf47c08d2cdf43dc3",
+      "width": 480,
+      "height": 480,
+      "size": 37382,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/detail-4.webp",
+      "hash": "3c703905e8da2e397e5946946fc7aca7955a6efae5afa2ed0916343b7102b342",
+      "width": 480,
+      "height": 480,
+      "size": 27608,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/1996/sem-versao/camisa-retro-manchester-united-i-1996-manga-longa-masculina-nike-vermel-1546e4cb/detail-5.webp",
+      "hash": "e45baea3388fd1383d64cf28f8d3ce7ae42d096373642729685f52d0987e33b7",
+      "width": 480,
+      "height": 480,
+      "size": 13952,
+      "createdAt": "2026-07-09T22:50:05Z",
+      "updatedAt": "2026-07-09T22:50:05Z"
+    }
+  ]
+}

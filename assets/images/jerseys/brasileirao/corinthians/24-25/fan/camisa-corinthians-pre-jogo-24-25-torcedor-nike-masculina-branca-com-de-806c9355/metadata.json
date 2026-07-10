@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-corinthians-pre-jogo-24-25-torcedor-nike-masculina-branca-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:10:43Z",
+  "updatedAt": "2026-07-09T22:10:43Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-pre-jogo-24-25-torcedor-nike-masculina-branca-com-de-806c9355/front.webp",
+      "hash": "895671b24c7f9b1f3075df75a6c106c671aa4c7ca48aa2b050b0d1f80653ee3a",
+      "width": 480,
+      "height": 480,
+      "size": 48358,
+      "createdAt": "2026-07-09T22:10:42Z",
+      "updatedAt": "2026-07-09T22:10:42Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-pre-jogo-24-25-torcedor-nike-masculina-branca-com-de-806c9355/back.webp",
+      "hash": "69b5f6946b2ba95b4fc0c445688eb9cbe4e8443d02b0cca16f06dc9c4b0ebe48",
+      "width": 480,
+      "height": 480,
+      "size": 45242,
+      "createdAt": "2026-07-09T22:10:43Z",
+      "updatedAt": "2026-07-09T22:10:43Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-pre-jogo-24-25-torcedor-nike-masculina-branca-com-de-806c9355/detail-1.webp",
+      "hash": "0de269e49ccc2499c938326ec95935afa77ac95f8c8eeef0e67dbdf580d03337",
+      "width": 480,
+      "height": 480,
+      "size": 96266,
+      "createdAt": "2026-07-09T22:10:43Z",
+      "updatedAt": "2026-07-09T22:10:43Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/corinthians/24-25/fan/camisa-corinthians-pre-jogo-24-25-torcedor-nike-masculina-branca-com-de-806c9355/detail-2.webp",
+      "hash": "172101d7e7a7dacb874339e77739b3d46600ab3e44a72d8033e2903bdaff89f0",
+      "width": 480,
+      "height": 480,
+      "size": 121048,
+      "createdAt": "2026-07-09T22:10:43Z",
+      "updatedAt": "2026-07-09T22:10:43Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-edicao-especial-charlie-brown-jr-24-25-torcedor-umbro-masculina-preta-com-detalhes-em-dourado",
+  "createdAt": "2026-07-09T22:10:44Z",
+  "updatedAt": "2026-07-09T22:10:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-edicao-especial-charlie-brown-jr-24-25-torcedor-umbro-mas-2dd2baea/front.webp",
+      "hash": "be0786bdc339884387c8035b337832759f18841c13ae3227a773cf532f3ee79a",
+      "width": 480,
+      "height": 480,
+      "size": 11676,
+      "createdAt": "2026-07-09T22:10:44Z",
+      "updatedAt": "2026-07-09T22:10:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/24-25/fan/camisa-santos-edicao-especial-charlie-brown-jr-24-25-torcedor-umbro-mas-2dd2baea/back.webp",
+      "hash": "4d079fc310355ed3664d1791c52a96cebe861a8f2e99b6bfea3c1edbe42e6e7d",
+      "width": 480,
+      "height": 480,
+      "size": 5486,
+      "createdAt": "2026-07-09T22:10:44Z",
+      "updatedAt": "2026-07-09T22:10:44Z"
+    }
+  ]
+}

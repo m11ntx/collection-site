@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-detalhes-em-bege",
+  "createdAt": "2026-07-09T22:08:39Z",
+  "updatedAt": "2026-07-09T22:08:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/front.webp",
+      "hash": "ccbd3218832fb33cebf109a151d3a2af678ef06c5b2a4664f80dd68547a5de3c",
+      "width": 480,
+      "height": 480,
+      "size": 6720,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/back.webp",
+      "hash": "01400bb08394b605fa5c78fdda791cc7142dbdc3374c4b7acdb36e827c8041ac",
+      "width": 480,
+      "height": 480,
+      "size": 11556,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/detail-1.webp",
+      "hash": "6496d53c43bf53d31cf636d69ca28812d67765f810c204a2b1df065b7af61760",
+      "width": 480,
+      "height": 480,
+      "size": 4756,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/detail-2.webp",
+      "hash": "dd2480fbaf95b7c886ca45f79ec64d34860eff2dd9b64d0a6b3a73fb81568e58",
+      "width": 480,
+      "height": 480,
+      "size": 31962,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/detail-3.webp",
+      "hash": "cdf844ef1a3114a729c8d3724cb175940dcaa58f7d0402f68bec52b162a51d69",
+      "width": 480,
+      "height": 480,
+      "size": 38556,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/detail-4.webp",
+      "hash": "c933b0ab902ff2f26490d2a33b3055afc3bef4a4d630c7639c47a1bf7c851308",
+      "width": 480,
+      "height": 480,
+      "size": 31728,
+      "createdAt": "2026-07-09T22:08:38Z",
+      "updatedAt": "2026-07-09T22:08:38Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/napoli/24-25/fan/camisa-napoli-edicao-especial-24-25-torcedor-ea7-masculina-branca-com-d-33b30128/detail-5.webp",
+      "hash": "52b79b0bd31d61dd2d6e06438165549ef5c996c06396335e86242ab58ded83cf",
+      "width": 480,
+      "height": 480,
+      "size": 9720,
+      "createdAt": "2026-07-09T22:08:39Z",
+      "updatedAt": "2026-07-09T22:08:39Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-united-i-24-25-manga-longa-jogador-adidas-masculina-vermelha",
+  "createdAt": "2026-07-09T22:50:47Z",
+  "updatedAt": "2026-07-09T22:50:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-i-24-25-manga-longa-jogador-adidas-masculina-vermelha/front.webp",
+      "hash": "286f22e8e7294b227f036c0e81fc0795c8d06c3efd87e35a09a148210d47a5f7",
+      "width": 480,
+      "height": 480,
+      "size": 15494,
+      "createdAt": "2026-07-09T22:50:47Z",
+      "updatedAt": "2026-07-09T22:50:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/player/camisa-manchester-united-i-24-25-manga-longa-jogador-adidas-masculina-vermelha/back.webp",
+      "hash": "e4ee94fbf0eaff245925d139c7b46f013c82dd5d80cda4a41165e18081153b54",
+      "width": 480,
+      "height": 480,
+      "size": 11330,
+      "createdAt": "2026-07-09T22:50:47Z",
+      "updatedAt": "2026-07-09T22:50:47Z"
+    }
+  ]
+}

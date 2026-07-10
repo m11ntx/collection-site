@@ -1,0 +1,57 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul",
+  "createdAt": "2026-07-09T22:51:19Z",
+  "updatedAt": "2026-07-09T22:51:19Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul/front.webp",
+      "hash": "6cb389e7eef55a61d9920d9652fd70f3cb2f66fc37a0b037d0f469a1c040eba2",
+      "width": 480,
+      "height": 480,
+      "size": 11888,
+      "createdAt": "2026-07-09T22:51:18Z",
+      "updatedAt": "2026-07-09T22:51:18Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul/back.webp",
+      "hash": "eb719a687f7f08aa808430c93a3d322ad5edf2f74d0e2b0627765d112a7212eb",
+      "width": 480,
+      "height": 480,
+      "size": 11838,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul/detail-1.webp",
+      "hash": "7380381388483cc4d40f2917da74cad3adb712ff5d2452295059e7e339d5ce68",
+      "width": 480,
+      "height": 480,
+      "size": 9288,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul/detail-2.webp",
+      "hash": "01b78de462f0c5f98d609d249d5c2665a22c918f44aff33d8194d8f89ef381e8",
+      "width": 480,
+      "height": 320,
+      "size": 23798,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-inter-de-milao-nike-24-25-azul/detail-3.webp",
+      "hash": "e94e9db9c103ab9c2622618721828d1b11899bb49b9edf3c5d575d42ecb32aca",
+      "width": 480,
+      "height": 320,
+      "size": 15214,
+      "createdAt": "2026-07-09T22:51:19Z",
+      "updatedAt": "2026-07-09T22:51:19Z"
+    }
+  ]
+}

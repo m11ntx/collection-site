@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-arsenal-treino-24-25-masculino-adidas-vermelho-e-azul",
+  "createdAt": "2026-07-09T22:49:32Z",
+  "updatedAt": "2026-07-09T22:49:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/conjunto-arsenal-treino-24-25-masculino-adidas-vermelho-e-azul/front.webp",
+      "hash": "d8d5b225c46b51e8ccedaf1461c77b176d6b0807e2e905a6110c239ef92efa69",
+      "width": 480,
+      "height": 480,
+      "size": 12028,
+      "createdAt": "2026-07-09T22:49:32Z",
+      "updatedAt": "2026-07-09T22:49:32Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/24-25/sem-versao/conjunto-arsenal-treino-24-25-masculino-adidas-vermelho-e-azul/back.webp",
+      "hash": "cc28b310abc18a69472679a29099e84a5258a7c492fe685c5cb60fd9aa16bd63",
+      "width": 480,
+      "height": 480,
+      "size": 8994,
+      "createdAt": "2026-07-09T22:49:32Z",
+      "updatedAt": "2026-07-09T22:49:32Z"
+    }
+  ]
+}

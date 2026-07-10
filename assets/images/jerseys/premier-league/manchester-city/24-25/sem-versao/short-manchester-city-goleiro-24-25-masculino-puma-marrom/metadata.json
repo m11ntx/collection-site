@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-manchester-city-goleiro-24-25-masculino-puma-marrom",
+  "createdAt": "2026-07-09T22:51:01Z",
+  "updatedAt": "2026-07-09T22:51:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/sem-versao/short-manchester-city-goleiro-24-25-masculino-puma-marrom/front.webp",
+      "hash": "295ff4c538bdd8db3a513fdfb53c4cc85c775573aaa1cf079f69080efb203aef",
+      "width": 480,
+      "height": 480,
+      "size": 19750,
+      "createdAt": "2026-07-09T22:51:00Z",
+      "updatedAt": "2026-07-09T22:51:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/sem-versao/short-manchester-city-goleiro-24-25-masculino-puma-marrom/back.webp",
+      "hash": "cf94776cdbc34bef60b2982830112f1a55e25492edff188dccf610928799aa60",
+      "width": 480,
+      "height": 480,
+      "size": 16956,
+      "createdAt": "2026-07-09T22:51:01Z",
+      "updatedAt": "2026-07-09T22:51:01Z"
+    }
+  ]
+}

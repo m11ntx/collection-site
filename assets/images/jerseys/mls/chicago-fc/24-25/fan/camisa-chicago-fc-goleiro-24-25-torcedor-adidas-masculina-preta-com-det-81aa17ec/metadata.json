@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-chicago-fc-goleiro-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:09:30Z",
+  "updatedAt": "2026-07-09T22:09:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/chicago-fc/24-25/fan/camisa-chicago-fc-goleiro-24-25-torcedor-adidas-masculina-preta-com-det-81aa17ec/front.webp",
+      "hash": "123903ca38c0616183f6c7e5231345d1d43118fc597690520ef8198c132c03f7",
+      "width": 480,
+      "height": 480,
+      "size": 14270,
+      "createdAt": "2026-07-09T22:09:30Z",
+      "updatedAt": "2026-07-09T22:09:30Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/chicago-fc/24-25/fan/camisa-chicago-fc-goleiro-24-25-torcedor-adidas-masculina-preta-com-det-81aa17ec/back.webp",
+      "hash": "f53a54b8cc6006a27fcfe9a49953fde1dc7ab71bbff016f3be330adf8b81bb56",
+      "width": 480,
+      "height": 480,
+      "size": 5610,
+      "createdAt": "2026-07-09T22:09:30Z",
+      "updatedAt": "2026-07-09T22:09:30Z"
+    }
+  ]
+}

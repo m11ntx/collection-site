@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-manchester-united-24-25-masculino-adidas-vermelha-e-preta",
+  "createdAt": "2026-07-09T22:49:05Z",
+  "updatedAt": "2026-07-09T22:49:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/jaqueta-corta-vento-manchester-united-24-25-masculino-adidas-vermelha-e-preta/front.webp",
+      "hash": "cf03587b5171ac04b1893f27b08dbdd1c97b2b911eae73695da89aef16d8525c",
+      "width": 480,
+      "height": 480,
+      "size": 13266,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/jaqueta-corta-vento-manchester-united-24-25-masculino-adidas-vermelha-e-preta/back.webp",
+      "hash": "fd2d95fc6201aa22d8ec16a2e89443988c54855c6fef8d6c51885d9ade3fd6f8",
+      "width": 480,
+      "height": 480,
+      "size": 13380,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/jaqueta-corta-vento-manchester-united-24-25-masculino-adidas-vermelha-e-preta/detail-1.webp",
+      "hash": "70c1777dbcc5d099ed1d2fa00e5fb698d788c061a1b54942102b2a2730e39c7a",
+      "width": 480,
+      "height": 480,
+      "size": 7190,
+      "createdAt": "2026-07-09T22:49:05Z",
+      "updatedAt": "2026-07-09T22:49:05Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "productId": "source-short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:50:55Z",
+  "updatedAt": "2026-07-09T22:50:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho/front.webp",
+      "hash": "7290fa54a322e40af34f7e32aa966ba78a50e2d20aa8e7210d2837218bb16b13",
+      "width": 480,
+      "height": 480,
+      "size": 5890,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho/back.webp",
+      "hash": "fa88e597ef7f4c720db8846edc0dca60f2ba6d0b364c738e2f6704ae57621310",
+      "width": 480,
+      "height": 480,
+      "size": 5542,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho/detail-1.webp",
+      "hash": "fcb1d0674e85edb6494cb96730dfc5e217d7c9aa564cf8e9edea1ced0fdd67f8",
+      "width": 480,
+      "height": 480,
+      "size": 15612,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho/detail-2.webp",
+      "hash": "3a8d92d6d408b2a442c61cf998d2837fda43fe65aa1c8f0b3582f4d3551b41bf",
+      "width": 480,
+      "height": 480,
+      "size": 56038,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/short-flamengo-ii-24-25-masculino-adidas-preto-com-detalhes-em-vermelho/detail-3.webp",
+      "hash": "bb0016018f0a0806d7da9081643034c72ccd4e823603243b043a254ff39c907b",
+      "width": 480,
+      "height": 480,
+      "size": 53954,
+      "createdAt": "2026-07-09T22:50:55Z",
+      "updatedAt": "2026-07-09T22:50:55Z"
+    }
+  ]
+}

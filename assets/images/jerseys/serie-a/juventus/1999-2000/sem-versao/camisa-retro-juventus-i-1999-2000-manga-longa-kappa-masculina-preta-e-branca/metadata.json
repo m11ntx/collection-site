@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca",
+  "createdAt": "2026-07-09T22:50:24Z",
+  "updatedAt": "2026-07-09T22:50:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/front.webp",
+      "hash": "8de5c7cdbd551f76f7a379f1805edaf600094226112702264a9933ff34fb8bff",
+      "width": 480,
+      "height": 480,
+      "size": 9256,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/back.webp",
+      "hash": "3aa0090e6fb8ff9f40f6444938917ab8ca67fd0da20a7f4f41b22bd87edc2a36",
+      "width": 480,
+      "height": 480,
+      "size": 12246,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/detail-1.webp",
+      "hash": "8b18ee55f2dda72937b5fa0ad132e54f7ccf7860629d0800369320fa16a976c8",
+      "width": 480,
+      "height": 480,
+      "size": 6354,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/detail-2.webp",
+      "hash": "9d221964f7ea77995447c89bbf20d073df7f10eba963f2b7963468dd9efc9e41",
+      "width": 480,
+      "height": 480,
+      "size": 27264,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/detail-3.webp",
+      "hash": "a6d2b2343b74ec2296a6cec67c322a26370d67d8ab60cd43f6dd0aa36f3021ad",
+      "width": 480,
+      "height": 480,
+      "size": 58458,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/detail-4.webp",
+      "hash": "863dbd50fa3b163dffab880b98e43b156fb99fbc83901168a61e05e16ef2e013",
+      "width": 480,
+      "height": 480,
+      "size": 13026,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/juventus/1999-2000/sem-versao/camisa-retro-juventus-i-1999-2000-manga-longa-kappa-masculina-preta-e-branca/detail-5.webp",
+      "hash": "213647854e4a5b8734cfffb189055da73911f1a8e14fb533a71824970b047c06",
+      "width": 480,
+      "height": 480,
+      "size": 5612,
+      "createdAt": "2026-07-09T22:50:24Z",
+      "updatedAt": "2026-07-09T22:50:24Z"
+    }
+  ]
+}

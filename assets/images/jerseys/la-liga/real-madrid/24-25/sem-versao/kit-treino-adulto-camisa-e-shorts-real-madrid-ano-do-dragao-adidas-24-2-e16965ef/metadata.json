@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-25-preto-com-detalhes-em-cinza-e-branco-2",
+  "createdAt": "2026-07-09T22:51:44Z",
+  "updatedAt": "2026-07-09T22:51:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-2-e16965ef/front.webp",
+      "hash": "c1d889d7f3f9eb94be949fa5acedef1c76c1a3047482562b6172523e54375e19",
+      "width": 480,
+      "height": 480,
+      "size": 19924,
+      "createdAt": "2026-07-09T22:51:44Z",
+      "updatedAt": "2026-07-09T22:51:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-real-madrid-ano-do-dragao-adidas-24-2-e16965ef/back.webp",
+      "hash": "ed815bb25e7233d574163ce8b4c456c74c2522b9761304dcc63321fa77fa2ef4",
+      "width": 480,
+      "height": 480,
+      "size": 14988,
+      "createdAt": "2026-07-09T22:51:44Z",
+      "updatedAt": "2026-07-09T22:51:44Z"
+    }
+  ]
+}

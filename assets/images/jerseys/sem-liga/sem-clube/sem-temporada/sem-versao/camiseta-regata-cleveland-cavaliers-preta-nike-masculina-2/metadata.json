@@ -1,0 +1,67 @@
+{
+  "productId": "source-camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2",
+  "createdAt": "2026-07-09T22:07:24Z",
+  "updatedAt": "2026-07-09T22:07:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/front.webp",
+      "hash": "d803be6c80703dbef2a0ae86bba738f8b658bd3edc2264a86b0a4753edd65af8",
+      "width": 480,
+      "height": 480,
+      "size": 10936,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/back.webp",
+      "hash": "c371eb08044f3123675866250547c55ba1fa704848fcbc90ffa58aac1d763d03",
+      "width": 480,
+      "height": 480,
+      "size": 73078,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/detail-1.webp",
+      "hash": "ef7e95d255ee29e15a19999513fcb87ccc8e6bb6184fbf7e90b577be5bae4cf6",
+      "width": 480,
+      "height": 480,
+      "size": 9900,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/detail-2.webp",
+      "hash": "b3406c65a7dcbe75b5f86ccf663dd316e9adfc7058e32ba0f8aa40fe748e4469",
+      "width": 480,
+      "height": 480,
+      "size": 28068,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/detail-3.webp",
+      "hash": "d74f28f93406e2e779b32ad75f83b3feb79f5343c3666987adad453633d7b1cd",
+      "width": 480,
+      "height": 480,
+      "size": 15638,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/sem-temporada/sem-versao/camiseta-regata-cleveland-cavaliers-preta-nike-masculina-2/detail-4.webp",
+      "hash": "d2d67d1c9e2a5652e2d5dc7b59611d23b726ce0e24df34d0c42bce5b7aa0670d",
+      "width": 480,
+      "height": 480,
+      "size": 15828,
+      "createdAt": "2026-07-09T22:07:24Z",
+      "updatedAt": "2026-07-09T22:07:24Z"
+    }
+  ]
+}

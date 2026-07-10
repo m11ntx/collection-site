@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-liverpool-i-25-26-manga-longa-jogador-nike-masculina",
+  "createdAt": "2026-07-09T22:52:33Z",
+  "updatedAt": "2026-07-09T22:52:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/player/camisa-liverpool-i-25-26-manga-longa-jogador-nike-masculina/front.webp",
+      "hash": "2ad56f0cbfea3e090c99b31bd210c17f682bc9bb7addf4d990ba7786aadb43ea",
+      "width": 480,
+      "height": 480,
+      "size": 12998,
+      "createdAt": "2026-07-09T22:52:33Z",
+      "updatedAt": "2026-07-09T22:52:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/25-26/player/camisa-liverpool-i-25-26-manga-longa-jogador-nike-masculina/back.webp",
+      "hash": "3e0c0a4790ebbb693787cb722b83e31b4ffc94f2537c9ccbda033d10795bc64d",
+      "width": 480,
+      "height": 480,
+      "size": 10544,
+      "createdAt": "2026-07-09T22:52:33Z",
+      "updatedAt": "2026-07-09T22:52:33Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-jaqueta-corta-vento-chelsea-24-25-masculina-nike-azul",
+  "createdAt": "2026-07-09T22:49:03Z",
+  "updatedAt": "2026-07-09T22:49:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/jaqueta-corta-vento-chelsea-24-25-masculina-nike-azul/front.webp",
+      "hash": "4743e31e62502817c7b572a0f570cbae55644ca5c35a72bcb608d676a3540562",
+      "width": 480,
+      "height": 480,
+      "size": 12588,
+      "createdAt": "2026-07-09T22:49:03Z",
+      "updatedAt": "2026-07-09T22:49:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/jaqueta-corta-vento-chelsea-24-25-masculina-nike-azul/back.webp",
+      "hash": "5c38a7f451817d3806d62ff27217f83f7d1b4c536c4bfcc18fe275aabc3cf896",
+      "width": 480,
+      "height": 480,
+      "size": 13392,
+      "createdAt": "2026-07-09T22:49:03Z",
+      "updatedAt": "2026-07-09T22:49:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/jaqueta-corta-vento-chelsea-24-25-masculina-nike-azul/detail-1.webp",
+      "hash": "6687efa4d5a372571d8d4df8f1007cf967e40a4946ec03257e628aaa5758aa59",
+      "width": 480,
+      "height": 480,
+      "size": 8578,
+      "createdAt": "2026-07-09T22:49:03Z",
+      "updatedAt": "2026-07-09T22:49:03Z"
+    }
+  ]
+}

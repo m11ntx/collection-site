@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-united-pre-jogo-24-25-manga-longa-torcedor-adidas-masculina-vermelha",
+  "createdAt": "2026-07-09T22:50:34Z",
+  "updatedAt": "2026-07-09T22:50:34Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-pre-jogo-24-25-manga-longa-torcedor-adidas-mas-c9340ca6/front.webp",
+      "hash": "b3cf680a0b45042481a0d87380e92f6626ce942f71e08375edcd1d2d2216c51a",
+      "width": 480,
+      "height": 480,
+      "size": 22484,
+      "createdAt": "2026-07-09T22:50:34Z",
+      "updatedAt": "2026-07-09T22:50:34Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-pre-jogo-24-25-manga-longa-torcedor-adidas-mas-c9340ca6/back.webp",
+      "hash": "df1ae62378480820524b596f8638705ed953c4286f0c4ecad3021b1775ece9f3",
+      "width": 480,
+      "height": 480,
+      "size": 20078,
+      "createdAt": "2026-07-09T22:50:34Z",
+      "updatedAt": "2026-07-09T22:50:34Z"
+    }
+  ]
+}

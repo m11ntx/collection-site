@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-flamengo-adidas-24-25-cinza-e-preto-com-detalhes-em-amarelo",
+  "createdAt": "2026-07-09T22:51:15Z",
+  "updatedAt": "2026-07-09T22:51:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-flamengo-adidas-24-25-cinza-e-preto-c-57b1d753/front.webp",
+      "hash": "6bc89cae3b157866ba6daee1b85232c1e85b79c3733ac6c0af1b35a45c9819a9",
+      "width": 480,
+      "height": 480,
+      "size": 7892,
+      "createdAt": "2026-07-09T22:51:15Z",
+      "updatedAt": "2026-07-09T22:51:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-flamengo-adidas-24-25-cinza-e-preto-c-57b1d753/back.webp",
+      "hash": "28bb3784e2e4604ff40cd677f591b3acb450ece1a9cecad968c9876c66a52225",
+      "width": 480,
+      "height": 480,
+      "size": 6884,
+      "createdAt": "2026-07-09T22:51:15Z",
+      "updatedAt": "2026-07-09T22:51:15Z"
+    }
+  ]
+}

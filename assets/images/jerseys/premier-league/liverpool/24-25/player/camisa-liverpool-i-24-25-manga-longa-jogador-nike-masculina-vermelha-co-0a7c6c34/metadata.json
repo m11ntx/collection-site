@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-liverpool-i-24-25-manga-longa-jogador-nike-masculina-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:50:36Z",
+  "updatedAt": "2026-07-09T22:50:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-manga-longa-jogador-nike-masculina-vermelha-co-0a7c6c34/front.webp",
+      "hash": "94299f576ae806e062528d3370303d498cd76a751af696ae3b8d932dd39bfcbe",
+      "width": 480,
+      "height": 480,
+      "size": 18204,
+      "createdAt": "2026-07-09T22:50:35Z",
+      "updatedAt": "2026-07-09T22:50:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-manga-longa-jogador-nike-masculina-vermelha-co-0a7c6c34/back.webp",
+      "hash": "30179c156201ca954175cae16fffdd45fd494c7495db6c12c85994ff9f810271",
+      "width": 480,
+      "height": 480,
+      "size": 18846,
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/player/camisa-liverpool-i-24-25-manga-longa-jogador-nike-masculina-vermelha-co-0a7c6c34/detail-1.webp",
+      "hash": "4242acac4d8178f499be74a1e96a103c6da138929ba186c4c75b72c06cf31bdf",
+      "width": 480,
+      "height": 480,
+      "size": 17282,
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-ac-milan-goleiro-ii-24-25-torcedor-puma-masculina-amarela-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:10:21Z",
+  "updatedAt": "2026-07-09T22:10:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-ii-24-25-torcedor-puma-masculina-amarela-com-de-bac866e7/front.webp",
+      "hash": "a0ece934d8891621fac8bbea0706ba6cb371290165bb2c98c46a52df8b803b0a",
+      "width": 480,
+      "height": 480,
+      "size": 10984,
+      "createdAt": "2026-07-09T22:10:20Z",
+      "updatedAt": "2026-07-09T22:10:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-ii-24-25-torcedor-puma-masculina-amarela-com-de-bac866e7/back.webp",
+      "hash": "255680af68863503a82f936603a6ae0b84c2c09d89141e07e9acd883bbd9341f",
+      "width": 480,
+      "height": 480,
+      "size": 4488,
+      "createdAt": "2026-07-09T22:10:21Z",
+      "updatedAt": "2026-07-09T22:10:21Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/fan/camisa-ac-milan-goleiro-ii-24-25-torcedor-puma-masculina-amarela-com-de-bac866e7/detail-1.webp",
+      "hash": "b0335956a151162609c6dccb74ad1bd741d8d6d966068d776d8736a1684f72bd",
+      "width": 480,
+      "height": 480,
+      "size": 14826,
+      "createdAt": "2026-07-09T22:10:21Z",
+      "updatedAt": "2026-07-09T22:10:21Z"
+    }
+  ]
+}

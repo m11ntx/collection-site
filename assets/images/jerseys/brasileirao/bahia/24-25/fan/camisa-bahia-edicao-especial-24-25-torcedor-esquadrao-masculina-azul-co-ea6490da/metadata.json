@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bahia-edicao-especial-24-25-torcedor-esquadrao-masculina-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:10:54Z",
+  "updatedAt": "2026-07-09T22:10:54Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-edicao-especial-24-25-torcedor-esquadrao-masculina-azul-co-ea6490da/front.webp",
+      "hash": "fbf669ba5cb200e426d175d50f25016680e9a7df2b540016174699e9bb41471b",
+      "width": 480,
+      "height": 480,
+      "size": 24468,
+      "createdAt": "2026-07-09T22:10:53Z",
+      "updatedAt": "2026-07-09T22:10:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/bahia/24-25/fan/camisa-bahia-edicao-especial-24-25-torcedor-esquadrao-masculina-azul-co-ea6490da/back.webp",
+      "hash": "b3a659336552b748f07899559ed9451a5911f805041b741bbe3d356157a2537b",
+      "width": 480,
+      "height": 480,
+      "size": 6354,
+      "createdAt": "2026-07-09T22:10:54Z",
+      "updatedAt": "2026-07-09T22:10:54Z"
+    }
+  ]
+}

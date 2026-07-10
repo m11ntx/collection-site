@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-paris-saint-germain-fourth-24-25-jogador-adidas-masculina-azul-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:10:26Z",
+  "updatedAt": "2026-07-09T22:10:26Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-fourth-24-25-jogador-adidas-masculina-azul-c-5617b74e/front.webp",
+      "hash": "b441b7b978d2b5d5c34da1b8872a36514bbc2c0c5be14ab3e6a8f9bdea182c57",
+      "width": 480,
+      "height": 480,
+      "size": 16156,
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-fourth-24-25-jogador-adidas-masculina-azul-c-5617b74e/back.webp",
+      "hash": "6129957d343c6f9a51ca1f9bf2ac7331a72389945635608b38b640ea1cd329dd",
+      "width": 480,
+      "height": 480,
+      "size": 21238,
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/player/camisa-paris-saint-germain-fourth-24-25-jogador-adidas-masculina-azul-c-5617b74e/detail-1.webp",
+      "hash": "2ca96dadca38781e19d8a2722083d6e6d36c5f4a65182472cf8aa69db34b90ba",
+      "width": 480,
+      "height": 480,
+      "size": 12508,
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
+    }
+  ]
+}

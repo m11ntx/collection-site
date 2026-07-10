@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-i-24-25-masculino-adidas-vermelho",
+  "createdAt": "2026-07-09T22:50:59Z",
+  "updatedAt": "2026-07-09T22:50:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-i-24-25-masculino-adidas-vermelho/front.webp",
+      "hash": "957267db6f2b2dd7d9962b395fa0a27ad710b0ac81b586ca3518e190df059f0b",
+      "width": 480,
+      "height": 480,
+      "size": 11136,
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-i-24-25-masculino-adidas-vermelho/back.webp",
+      "hash": "32a305c81384726bb2cf8838ae3fa52523e2906705cf3b204db65d6476f6dc5c",
+      "width": 480,
+      "height": 480,
+      "size": 9262,
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
+    }
+  ]
+}

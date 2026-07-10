@@ -1,0 +1,27 @@
+{
+  "productId": "source-short-bayern-de-munique-ii-24-25-masculino-adidas-preto",
+  "createdAt": "2026-07-09T22:50:57Z",
+  "updatedAt": "2026-07-09T22:50:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-ii-24-25-masculino-adidas-preto/front.webp",
+      "hash": "c9d38d869c72059484379d6fce831f27961e3ee44474c0af0a59c7ddd84897eb",
+      "width": 480,
+      "height": 480,
+      "size": 7026,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/sem-versao/short-bayern-de-munique-ii-24-25-masculino-adidas-preto/back.webp",
+      "hash": "8dc6013f49db592fa3d5995e39d84a89765baea08b2b63f87c2ee856ffe39722",
+      "width": 480,
+      "height": 480,
+      "size": 5608,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    }
+  ]
+}

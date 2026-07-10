@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-city-pre-jogo-fourth-24-25-manga-longa-torcedor-puma-masculina-amarela-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T22:11:05Z",
+  "updatedAt": "2026-07-09T22:11:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-fourth-24-25-manga-longa-torcedor-puma--7498fdda/front.webp",
+      "hash": "b5cf241b59e825a5b621a424acbc6faa17476964d61990ffe18e39d558e64d1f",
+      "width": 480,
+      "height": 480,
+      "size": 10726,
+      "createdAt": "2026-07-09T22:11:05Z",
+      "updatedAt": "2026-07-09T22:11:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/24-25/fan/camisa-manchester-city-pre-jogo-fourth-24-25-manga-longa-torcedor-puma--7498fdda/back.webp",
+      "hash": "9bccab6d9190b9f5e22fbc6b6b94748d36aaad1c1bac9bbcba6c81bffd09760a",
+      "width": 480,
+      "height": 480,
+      "size": 8984,
+      "createdAt": "2026-07-09T22:11:05Z",
+      "updatedAt": "2026-07-09T22:11:05Z"
+    }
+  ]
+}

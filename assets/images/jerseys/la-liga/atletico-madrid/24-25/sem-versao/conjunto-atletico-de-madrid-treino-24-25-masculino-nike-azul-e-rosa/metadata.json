@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-atletico-de-madrid-treino-24-25-masculino-nike-azul-e-rosa",
+  "createdAt": "2026-07-09T22:49:27Z",
+  "updatedAt": "2026-07-09T22:49:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/conjunto-atletico-de-madrid-treino-24-25-masculino-nike-azul-e-rosa/front.webp",
+      "hash": "f65f137236b0836620071c0cff94448812e71088bfb709aab153ca225038e706",
+      "width": 480,
+      "height": 480,
+      "size": 9390,
+      "createdAt": "2026-07-09T22:49:27Z",
+      "updatedAt": "2026-07-09T22:49:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/conjunto-atletico-de-madrid-treino-24-25-masculino-nike-azul-e-rosa/back.webp",
+      "hash": "c2e5ca26aefeba1b56f38b69ecc4cf3e0b3e0ec0e2988351e94d675b51af5753",
+      "width": 480,
+      "height": 480,
+      "size": 7784,
+      "createdAt": "2026-07-09T22:49:27Z",
+      "updatedAt": "2026-07-09T22:49:27Z"
+    }
+  ]
+}

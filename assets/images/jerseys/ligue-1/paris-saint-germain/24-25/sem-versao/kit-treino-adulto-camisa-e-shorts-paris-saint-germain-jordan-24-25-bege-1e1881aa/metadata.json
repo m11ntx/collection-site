@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-bege-e-preto-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T22:51:37Z",
+  "updatedAt": "2026-07-09T22:51:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-bege-1e1881aa/front.webp",
+      "hash": "a3a8435effd645034a0de9c8552be50aa5d4254ef291dd3b5e7ace9258e51eaa",
+      "width": 480,
+      "height": 480,
+      "size": 7242,
+      "createdAt": "2026-07-09T22:51:36Z",
+      "updatedAt": "2026-07-09T22:51:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-bege-1e1881aa/back.webp",
+      "hash": "7a896b2b93c3c57cbb25010023922572f23a06dcfd113d71e36eee1d88d7aa3b",
+      "width": 480,
+      "height": 480,
+      "size": 4084,
+      "createdAt": "2026-07-09T22:51:36Z",
+      "updatedAt": "2026-07-09T22:51:36Z"
+    }
+  ]
+}

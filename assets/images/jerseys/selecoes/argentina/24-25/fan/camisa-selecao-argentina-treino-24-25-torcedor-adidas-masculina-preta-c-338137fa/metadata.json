@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-argentina-treino-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:10:16Z",
+  "updatedAt": "2026-07-09T22:10:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-argentina-treino-24-25-torcedor-adidas-masculina-preta-c-338137fa/front.webp",
+      "hash": "43ec8786410369abc0ec67ba3a4ac29b9714e77c51b6120a08d4a7e3e81dbcf7",
+      "width": 480,
+      "height": 480,
+      "size": 7874,
+      "createdAt": "2026-07-09T22:10:16Z",
+      "updatedAt": "2026-07-09T22:10:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/argentina/24-25/fan/camisa-selecao-argentina-treino-24-25-torcedor-adidas-masculina-preta-c-338137fa/back.webp",
+      "hash": "53f4d88a816586e0c01ea103113080c7f70ed3ddcecd83eedb473057cc2b7c75",
+      "width": 480,
+      "height": 480,
+      "size": 3596,
+      "createdAt": "2026-07-09T22:10:16Z",
+      "updatedAt": "2026-07-09T22:10:16Z"
+    }
+  ]
+}

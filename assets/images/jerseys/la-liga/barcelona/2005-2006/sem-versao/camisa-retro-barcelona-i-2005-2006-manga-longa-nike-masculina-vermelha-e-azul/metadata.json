@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul",
+  "createdAt": "2026-07-09T22:50:14Z",
+  "updatedAt": "2026-07-09T22:50:14Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/front.webp",
+      "hash": "361c22dcc9065fc197e5c1dac51b7fe3791758c90840010d1ebc3c9ef0ad2a2b",
+      "width": 480,
+      "height": 480,
+      "size": 12582,
+      "createdAt": "2026-07-09T22:50:13Z",
+      "updatedAt": "2026-07-09T22:50:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/back.webp",
+      "hash": "a1f03fbb62d5ae779a0536eeafa3490e27cfb4509b5c19443dffcbd2a41ff28d",
+      "width": 480,
+      "height": 480,
+      "size": 10078,
+      "createdAt": "2026-07-09T22:50:13Z",
+      "updatedAt": "2026-07-09T22:50:13Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/detail-1.webp",
+      "hash": "310190008e3df3f817bb90da9ea0c7870f290d5c8226ff4e1339adb1b9b52cd6",
+      "width": 480,
+      "height": 480,
+      "size": 32600,
+      "createdAt": "2026-07-09T22:50:13Z",
+      "updatedAt": "2026-07-09T22:50:13Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/detail-2.webp",
+      "hash": "001e964c49f3d651ff556fc662c246687ab1c42ea8f7ce9a134b07c29798e8a3",
+      "width": 480,
+      "height": 480,
+      "size": 29834,
+      "createdAt": "2026-07-09T22:50:13Z",
+      "updatedAt": "2026-07-09T22:50:13Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/detail-3.webp",
+      "hash": "7f0efe77079978e3d87bc9764a9631fdf06a9823376fea816749eb5b43c5cfd6",
+      "width": 480,
+      "height": 480,
+      "size": 35956,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/detail-4.webp",
+      "hash": "e07efb095545200b534a681c384fe05a08369561a03d0d5eff1ff8bc4c447d91",
+      "width": 480,
+      "height": 480,
+      "size": 15352,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/2005-2006/sem-versao/camisa-retro-barcelona-i-2005-2006-manga-longa-nike-masculina-vermelha-e-azul/detail-5.webp",
+      "hash": "2fcaf9aa804e5b1bb59359b358e9b4fdad0131eb20039db2db1b1e6c6d1da361",
+      "width": 480,
+      "height": 480,
+      "size": 20542,
+      "createdAt": "2026-07-09T22:50:14Z",
+      "updatedAt": "2026-07-09T22:50:14Z"
+    }
+  ]
+}

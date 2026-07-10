@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-amarelo-e-preto-com-detalhes-em-rosa",
+  "createdAt": "2026-07-09T22:51:20Z",
+  "updatedAt": "2026-07-09T22:51:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-amarel-0b1c8ade/front.webp",
+      "hash": "5b1d8d9bb344eeed51056513b3c5ca328e2cf5f89c9b10faa406a82adcfcb558",
+      "width": 480,
+      "height": 480,
+      "size": 8862,
+      "createdAt": "2026-07-09T22:51:20Z",
+      "updatedAt": "2026-07-09T22:51:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-amarel-0b1c8ade/back.webp",
+      "hash": "b90ae5f30e683927d4f0e4dba35a52aa1dbe567cf35eefeb48627b57cca607bf",
+      "width": 480,
+      "height": 480,
+      "size": 8882,
+      "createdAt": "2026-07-09T22:51:20Z",
+      "updatedAt": "2026-07-09T22:51:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-amarel-0b1c8ade/detail-1.webp",
+      "hash": "f8941f829f6425c0ffa2eb9b8311d5bcbb01064566a7c50b93f4d1f7491fc1c5",
+      "width": 480,
+      "height": 480,
+      "size": 4640,
+      "createdAt": "2026-07-09T22:51:20Z",
+      "updatedAt": "2026-07-09T22:51:20Z"
+    }
+  ]
+}

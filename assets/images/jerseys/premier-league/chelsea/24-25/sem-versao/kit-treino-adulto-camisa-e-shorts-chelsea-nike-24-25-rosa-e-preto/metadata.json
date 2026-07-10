@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-chelsea-nike-24-25-rosa-e-preto",
+  "createdAt": "2026-07-09T22:51:17Z",
+  "updatedAt": "2026-07-09T22:51:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-chelsea-nike-24-25-rosa-e-preto/front.webp",
+      "hash": "2c6b3cbf1a0dd1b570d887497ed08c380beccfbb51cca5e1a0fc1fd3ee5a50ca",
+      "width": 480,
+      "height": 480,
+      "size": 8556,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-chelsea-nike-24-25-rosa-e-preto/back.webp",
+      "hash": "d4037983dcd25c431b5dc292b4e22dcafe0762cf3b6ae4a02afb40b41db03e3b",
+      "width": 480,
+      "height": 480,
+      "size": 8574,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/chelsea/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-chelsea-nike-24-25-rosa-e-preto/detail-1.webp",
+      "hash": "dbe1fcec2032ca2d9eb6ed59c19c3cc1fe49dd0cf0bcd104b299e139dad73ecd",
+      "width": 480,
+      "height": 480,
+      "size": 5496,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    }
+  ]
+}

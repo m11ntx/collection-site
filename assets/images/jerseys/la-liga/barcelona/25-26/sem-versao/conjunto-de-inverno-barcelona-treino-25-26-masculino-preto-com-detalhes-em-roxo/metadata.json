@@ -1,0 +1,37 @@
+{
+  "productId": "source-conjunto-de-inverno-barcelona-treino-25-26-masculino-preto-com-detalhes-em-roxo",
+  "createdAt": "2026-07-09T22:52:24Z",
+  "updatedAt": "2026-07-09T22:52:24Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/sem-versao/conjunto-de-inverno-barcelona-treino-25-26-masculino-preto-com-detalhes-em-roxo/front.webp",
+      "hash": "d6f0861dc0129c610fff01832e18a3d0d7d13561952bc8949290760e1d1a96b0",
+      "width": 480,
+      "height": 480,
+      "size": 10078,
+      "createdAt": "2026-07-09T22:52:24Z",
+      "updatedAt": "2026-07-09T22:52:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/sem-versao/conjunto-de-inverno-barcelona-treino-25-26-masculino-preto-com-detalhes-em-roxo/back.webp",
+      "hash": "f5f510c15a16ef7d260a5dc3fba1e49895b60fbb3c5f9f26611ca314630e71f9",
+      "width": 480,
+      "height": 480,
+      "size": 11076,
+      "createdAt": "2026-07-09T22:52:24Z",
+      "updatedAt": "2026-07-09T22:52:24Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/25-26/sem-versao/conjunto-de-inverno-barcelona-treino-25-26-masculino-preto-com-detalhes-em-roxo/detail-1.webp",
+      "hash": "736506dfbf6f8afc25c4b9a1ae272593930c54382ffd6ebaceaa24d8a1df0e19",
+      "width": 480,
+      "height": 480,
+      "size": 7896,
+      "createdAt": "2026-07-09T22:52:24Z",
+      "updatedAt": "2026-07-09T22:52:24Z"
+    }
+  ]
+}

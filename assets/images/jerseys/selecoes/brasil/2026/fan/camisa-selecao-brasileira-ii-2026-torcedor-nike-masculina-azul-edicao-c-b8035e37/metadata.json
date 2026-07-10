@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-copa-do-mundo",
+  "createdAt": "2026-07-09T22:12:57Z",
+  "updatedAt": "2026-07-09T22:12:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-c-b8035e37/front.webp",
+      "hash": "c97ac3f4270179d9caf4eef302f18b2ed2c355bfd251c651940f477e68125911",
+      "width": 480,
+      "height": 480,
+      "size": 22966,
+      "createdAt": "2026-07-09T22:12:56Z",
+      "updatedAt": "2026-07-09T22:12:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-c-b8035e37/back.webp",
+      "hash": "7ec1e76eecabcba7947b4cda89c629362cd0811f659af3582509fda6beb3df5f",
+      "width": 480,
+      "height": 480,
+      "size": 18960,
+      "createdAt": "2026-07-09T22:12:56Z",
+      "updatedAt": "2026-07-09T22:12:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-c-b8035e37/detail-1.webp",
+      "hash": "29cd719877872712a0f5ecdbfa2b59bb988dfba309a2805ce768997e39ef500e",
+      "width": 480,
+      "height": 480,
+      "size": 33284,
+      "createdAt": "2026-07-09T22:12:56Z",
+      "updatedAt": "2026-07-09T22:12:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasileira-ii-2026-torcedor-nike-masculina-azul-edicao-c-b8035e37/detail-2.webp",
+      "hash": "1740df26070d9cb1dc7fcf3443a171bcade4a45fa5cc20f9327a0cdda6da464f",
+      "width": 480,
+      "height": 480,
+      "size": 53964,
+      "createdAt": "2026-07-09T22:12:56Z",
+      "updatedAt": "2026-07-09T22:12:56Z"
+    }
+  ]
+}

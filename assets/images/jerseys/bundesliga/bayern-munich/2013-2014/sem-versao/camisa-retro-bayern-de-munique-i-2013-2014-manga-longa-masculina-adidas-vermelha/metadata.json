@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha",
+  "createdAt": "2026-07-09T22:50:21Z",
+  "updatedAt": "2026-07-09T22:50:21Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/front.webp",
+      "hash": "170859158eeb47c761e916524809a159ddd7c7dad47109528250813b2f839c73",
+      "width": 480,
+      "height": 480,
+      "size": 12226,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/back.webp",
+      "hash": "345d921cf05c0b04b9e7a48f3215f03cb1d36ca750efdefa9142aeff8dfd7715",
+      "width": 480,
+      "height": 480,
+      "size": 9112,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/detail-1.webp",
+      "hash": "41f517a625e25e1291c7afe7ced15a3aea5ad915c76db17ccde25d02986c5478",
+      "width": 480,
+      "height": 480,
+      "size": 19196,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/detail-2.webp",
+      "hash": "2ba80059617619e45632a189f981e84f7ab54d08217c56f8178640224b453a80",
+      "width": 480,
+      "height": 480,
+      "size": 18690,
+      "createdAt": "2026-07-09T22:50:21Z",
+      "updatedAt": "2026-07-09T22:50:21Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/detail-3.webp",
+      "hash": "222061ca03232003e16fd4f2800edc7b4d3e98906feb341e29cff52f35f71bf2",
+      "width": 480,
+      "height": 480,
+      "size": 24300,
+      "createdAt": "2026-07-09T22:50:21Z",
+      "updatedAt": "2026-07-09T22:50:21Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/detail-4.webp",
+      "hash": "dfc5abc62882719de3d5d6fb5f56be19fb71b80b826913c2f96de0a74bea61c7",
+      "width": 480,
+      "height": 480,
+      "size": 18488,
+      "createdAt": "2026-07-09T22:50:21Z",
+      "updatedAt": "2026-07-09T22:50:21Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/2013-2014/sem-versao/camisa-retro-bayern-de-munique-i-2013-2014-manga-longa-masculina-adidas-vermelha/detail-5.webp",
+      "hash": "ed8bdc4a43d530890c6171003d21a10e9c1738171f1005f133fe8fdbafbbf732",
+      "width": 480,
+      "height": 480,
+      "size": 14950,
+      "createdAt": "2026-07-09T22:50:21Z",
+      "updatedAt": "2026-07-09T22:50:21Z"
+    }
+  ]
+}

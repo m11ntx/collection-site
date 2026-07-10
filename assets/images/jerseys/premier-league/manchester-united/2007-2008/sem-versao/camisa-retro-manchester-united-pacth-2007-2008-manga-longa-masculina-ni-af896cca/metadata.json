@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-retro-manchester-united-pacth-2007-2008-manga-longa-masculina-nike-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:51:58Z",
+  "updatedAt": "2026-07-09T22:51:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-pacth-2007-2008-manga-longa-masculina-ni-af896cca/front.webp",
+      "hash": "ba2041aee16348d01471b964f296e9c2e861a03cc6e418af5aaf340e3fc6e8ae",
+      "width": 480,
+      "height": 480,
+      "size": 10380,
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-pacth-2007-2008-manga-longa-masculina-ni-af896cca/back.webp",
+      "hash": "dbe0a80fd871813c55aacbbcb60b6dfabc707fad589989e7eb5059d060a58e7e",
+      "width": 480,
+      "height": 480,
+      "size": 15666,
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-pacth-2007-2008-manga-longa-masculina-ni-af896cca/detail-1.webp",
+      "hash": "3376d3903539f80ef597b114b2af1f0d59b1b04c432060abd0ac151fda1dd615",
+      "width": 480,
+      "height": 480,
+      "size": 12022,
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
+    }
+  ]
+}

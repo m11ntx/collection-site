@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta",
+  "createdAt": "2026-07-09T22:50:27Z",
+  "updatedAt": "2026-07-09T22:50:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/front.webp",
+      "hash": "197c5550424794b4aa9b67bf53e49e69e5536b0d552227e5c7dd625d000c35fc",
+      "width": 480,
+      "height": 480,
+      "size": 8782,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/back.webp",
+      "hash": "ba2cbf40765f922f3e98a40afa14beb0e2fdd0decda02a46b1c271cd544fb258",
+      "width": 480,
+      "height": 480,
+      "size": 33326,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/detail-1.webp",
+      "hash": "8ea5f8c2f7168592bae77b1e577b5946016ac1e8e5978b65d2a3077f4dd8d24c",
+      "width": 480,
+      "height": 480,
+      "size": 7024,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/detail-2.webp",
+      "hash": "e5eef21edaede4f6f5b723064268eccf788b863fa4d891bd5b64b528d8859e9e",
+      "width": 480,
+      "height": 640,
+      "size": 70914,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/detail-3.webp",
+      "hash": "4767fd82431b91d3b3032f585b2340c3da828d7182c35183fb42707ba1bf9c8d",
+      "width": 480,
+      "height": 640,
+      "size": 61960,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/detail-4.webp",
+      "hash": "4c3e9fc8a014744399f6dfb96315ff0fd31f08e8a2c3838412cdb8aa7dc2813b",
+      "width": 480,
+      "height": 480,
+      "size": 48072,
+      "createdAt": "2026-07-09T22:50:26Z",
+      "updatedAt": "2026-07-09T22:50:26Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/serie-a/inter-milan/1998/sem-versao/camisa-retro-inter-de-milao-1998-manga-longa-masculina-nike-azul-e-preta/detail-5.webp",
+      "hash": "03e7d8b7caad38ec5b11b0fbfe968aa42d1eefd2ada83d5b7216514abd9b36a7",
+      "width": 480,
+      "height": 480,
+      "size": 11104,
+      "createdAt": "2026-07-09T22:50:27Z",
+      "updatedAt": "2026-07-09T22:50:27Z"
+    }
+  ]
+}

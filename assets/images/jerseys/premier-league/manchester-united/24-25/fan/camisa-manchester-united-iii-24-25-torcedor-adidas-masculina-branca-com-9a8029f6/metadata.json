@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-manchester-united-iii-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-preto-e-vermelho",
+  "createdAt": "2026-07-09T22:10:25Z",
+  "updatedAt": "2026-07-09T22:10:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-iii-24-25-torcedor-adidas-masculina-branca-com-9a8029f6/front.webp",
+      "hash": "0a4fc222318d1d3632f259dbaf64caae412553fe595d3416505432a54d7e1098",
+      "width": 480,
+      "height": 480,
+      "size": 9646,
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/fan/camisa-manchester-united-iii-24-25-torcedor-adidas-masculina-branca-com-9a8029f6/back.webp",
+      "hash": "5fd910640063301951b1c2a23b413bc0a62ec19ed4063c924b1b595c3bba2329",
+      "width": 480,
+      "height": 480,
+      "size": 3874,
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
+    }
+  ]
+}

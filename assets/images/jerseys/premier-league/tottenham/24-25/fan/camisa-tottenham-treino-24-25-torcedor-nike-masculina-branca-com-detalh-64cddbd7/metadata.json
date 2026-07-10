@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-tottenham-treino-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:10:10Z",
+  "updatedAt": "2026-07-09T22:10:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-branca-com-detalh-64cddbd7/front.webp",
+      "hash": "acc7d7896082162dda613aed1187331e73339908d1d062804562106277bc6bee",
+      "width": 480,
+      "height": 480,
+      "size": 3424,
+      "createdAt": "2026-07-09T22:10:09Z",
+      "updatedAt": "2026-07-09T22:10:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-branca-com-detalh-64cddbd7/back.webp",
+      "hash": "3895542ee14121916c1f11e134a974a916bd0664fdb676f9f03ad6f37d3286c6",
+      "width": 480,
+      "height": 480,
+      "size": 2280,
+      "createdAt": "2026-07-09T22:10:09Z",
+      "updatedAt": "2026-07-09T22:10:09Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/tottenham/24-25/fan/camisa-tottenham-treino-24-25-torcedor-nike-masculina-branca-com-detalh-64cddbd7/detail-1.webp",
+      "hash": "acfc634132759eb2b4bfbe89987e24104fcb6df1e2c157eeeaf1aebd91a5ad6f",
+      "width": 480,
+      "height": 600,
+      "size": 76772,
+      "createdAt": "2026-07-09T22:10:09Z",
+      "updatedAt": "2026-07-09T22:10:09Z"
+    }
+  ]
+}

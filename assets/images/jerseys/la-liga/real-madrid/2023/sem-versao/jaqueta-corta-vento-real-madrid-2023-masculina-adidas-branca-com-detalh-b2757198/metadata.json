@@ -1,0 +1,67 @@
+{
+  "productId": "source-jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:48:45Z",
+  "updatedAt": "2026-07-09T22:48:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/front.webp",
+      "hash": "63ec8d921edc52beadd714e170d7eddd5f5454f03612c626d62b6ca0aecfb2fe",
+      "width": 480,
+      "height": 480,
+      "size": 9620,
+      "createdAt": "2026-07-09T22:48:44Z",
+      "updatedAt": "2026-07-09T22:48:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/back.webp",
+      "hash": "7f1beee020c12f3f595b678f1df871c539a0ac3f35792ba2d635b71d5a467efb",
+      "width": 480,
+      "height": 480,
+      "size": 7050,
+      "createdAt": "2026-07-09T22:48:45Z",
+      "updatedAt": "2026-07-09T22:48:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/detail-1.webp",
+      "hash": "1c4ba5a71e57480e00c195744fd35373db961fe0de05bd0c7bf6328935db13c7",
+      "width": 480,
+      "height": 480,
+      "size": 11436,
+      "createdAt": "2026-07-09T22:48:45Z",
+      "updatedAt": "2026-07-09T22:48:45Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/detail-2.webp",
+      "hash": "987a2ff39210ae29cf137945ff72b96bef9811a7ec9c3549247b759a3f3f1976",
+      "width": 480,
+      "height": 480,
+      "size": 8434,
+      "createdAt": "2026-07-09T22:48:45Z",
+      "updatedAt": "2026-07-09T22:48:45Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/detail-3.webp",
+      "hash": "7cf4b10b1d822bbce9c1c9657adb3da80d3d7415b1b15777fbb6d4af7807bbac",
+      "width": 480,
+      "height": 480,
+      "size": 20902,
+      "createdAt": "2026-07-09T22:48:45Z",
+      "updatedAt": "2026-07-09T22:48:45Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/2023/sem-versao/jaqueta-corta-vento-real-madrid-2023-masculina-adidas-branca-com-detalh-b2757198/detail-4.webp",
+      "hash": "5e2c3086cbf19a44ad6ac620db94e1590054a295f1cb8a4748d18746cb4dfcbd",
+      "width": 480,
+      "height": 480,
+      "size": 13006,
+      "createdAt": "2026-07-09T22:48:45Z",
+      "updatedAt": "2026-07-09T22:48:45Z"
+    }
+  ]
+}

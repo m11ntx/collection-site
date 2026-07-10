@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-preto-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:51:46Z",
+  "updatedAt": "2026-07-09T22:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-preto-c-a413516f/front.webp",
+      "hash": "7f621b357a87a0ac611732a602fbe40965b23784ee6b4c5244dc784d7cf27534",
+      "width": 480,
+      "height": 480,
+      "size": 21080,
+      "createdAt": "2026-07-09T22:51:46Z",
+      "updatedAt": "2026-07-09T22:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-preto-c-a413516f/back.webp",
+      "hash": "c77c3bb2e545f5b5b5e44a023c4eb11acab8e8a63b37d360b086624a19ef82d0",
+      "width": 480,
+      "height": 343,
+      "size": 14234,
+      "createdAt": "2026-07-09T22:51:46Z",
+      "updatedAt": "2026-07-09T22:51:46Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-preto-c-a413516f/detail-1.webp",
+      "hash": "5b4579bffb20358e67f6d4b388cdb3d50c0e4745822bcf9f628e47f6983f6452",
+      "width": 480,
+      "height": 480,
+      "size": 21954,
+      "createdAt": "2026-07-09T22:51:46Z",
+      "updatedAt": "2026-07-09T22:51:46Z"
+    }
+  ]
+}

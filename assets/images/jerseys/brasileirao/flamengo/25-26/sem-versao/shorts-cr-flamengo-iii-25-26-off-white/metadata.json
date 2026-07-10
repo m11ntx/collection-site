@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-cr-flamengo-iii-25-26-off-white",
+  "createdAt": "2026-07-09T22:52:30Z",
+  "updatedAt": "2026-07-09T22:52:30Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/shorts-cr-flamengo-iii-25-26-off-white/front.webp",
+      "hash": "aa1f6a6f0b4585e218f95240b0c1217c80866a673dded578914e8a97991ab41a",
+      "width": 480,
+      "height": 480,
+      "size": 8652,
+      "createdAt": "2026-07-09T22:52:29Z",
+      "updatedAt": "2026-07-09T22:52:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/shorts-cr-flamengo-iii-25-26-off-white/back.webp",
+      "hash": "f188f1de5649bc758155629d6c59fc89dbeb4bb015dcb629b883fc7824517dfd",
+      "width": 480,
+      "height": 480,
+      "size": 7396,
+      "createdAt": "2026-07-09T22:52:30Z",
+      "updatedAt": "2026-07-09T22:52:30Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-real-madrid-home-26-27-torcedor-adidas-feminina-branca",
+  "createdAt": "2026-07-09T22:53:16Z",
+  "updatedAt": "2026-07-09T22:53:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/26-27/fan/camisa-real-madrid-home-26-27-torcedor-adidas-feminina-branca/front.webp",
+      "hash": "11fc5470ba68bdd86f910382fb4765b544fa7ef727b142c0608c1ab9a9f4ddfb",
+      "width": 480,
+      "height": 480,
+      "size": 10992,
+      "createdAt": "2026-07-09T22:53:15Z",
+      "updatedAt": "2026-07-09T22:53:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/26-27/fan/camisa-real-madrid-home-26-27-torcedor-adidas-feminina-branca/back.webp",
+      "hash": "697b882aee3d131b3cb1230220646f4948cfa0c3a3dc951141e44395a74b4338",
+      "width": 480,
+      "height": 480,
+      "size": 7840,
+      "createdAt": "2026-07-09T22:53:16Z",
+      "updatedAt": "2026-07-09T22:53:16Z"
+    }
+  ]
+}

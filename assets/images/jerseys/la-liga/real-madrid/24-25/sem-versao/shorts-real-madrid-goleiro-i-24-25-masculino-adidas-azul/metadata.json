@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-real-madrid-goleiro-i-24-25-masculino-adidas-azul",
+  "createdAt": "2026-07-09T22:50:57Z",
+  "updatedAt": "2026-07-09T22:50:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/shorts-real-madrid-goleiro-i-24-25-masculino-adidas-azul/front.webp",
+      "hash": "1ffb07a09464645a3eb156d43f65f266c6b95a486d5935ff9ac3fb570adb1721",
+      "width": 480,
+      "height": 480,
+      "size": 6512,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/shorts-real-madrid-goleiro-i-24-25-masculino-adidas-azul/back.webp",
+      "hash": "b757dab1d57fb7a51daf29fcb668c1b172a69fbcfdf4a9d118c344ffdd09ae03",
+      "width": 480,
+      "height": 480,
+      "size": 5762,
+      "createdAt": "2026-07-09T22:50:57Z",
+      "updatedAt": "2026-07-09T22:50:57Z"
+    }
+  ]
+}

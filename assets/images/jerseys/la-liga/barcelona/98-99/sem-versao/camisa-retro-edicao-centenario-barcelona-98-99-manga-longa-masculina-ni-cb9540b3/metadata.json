@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-nike-azul-e-vermelha",
+  "createdAt": "2026-07-09T22:50:20Z",
+  "updatedAt": "2026-07-09T22:50:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/front.webp",
+      "hash": "2e12d0ca0f784eb531e7191ff8aa80012f83588096f5117c1a01d0ae67330df3",
+      "width": 480,
+      "height": 480,
+      "size": 8124,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/back.webp",
+      "hash": "5f640150b1e23412162591d0b35bb85a0686717837284d52ab56f0103d8c7e48",
+      "width": 480,
+      "height": 480,
+      "size": 6616,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/detail-1.webp",
+      "hash": "a22c61c119fea3bf10820085bd6235a4690394acbe1d84dfe09da3287f935a65",
+      "width": 480,
+      "height": 480,
+      "size": 13622,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/detail-2.webp",
+      "hash": "ce0c32d6e6fedb4cc33eb89e05bd0701ccb42fac9e6beb38a3ff52d2c4471f65",
+      "width": 480,
+      "height": 480,
+      "size": 55348,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/detail-3.webp",
+      "hash": "5f8721ab308d367a8dc38544924bb80fb040199f1b690806a37d74db062fd53c",
+      "width": 480,
+      "height": 480,
+      "size": 20122,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/detail-4.webp",
+      "hash": "334646ec7b5ef74f4adb0b0540a2e5055fbf4c92b48d4715362e471be6699e40",
+      "width": 480,
+      "height": 480,
+      "size": 20396,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/barcelona/98-99/sem-versao/camisa-retro-edicao-centenario-barcelona-98-99-manga-longa-masculina-ni-cb9540b3/detail-5.webp",
+      "hash": "db6caf23db6e9907806283e37d344a14beb4d65696567bd3131d0e256c86b017",
+      "width": 480,
+      "height": 480,
+      "size": 15240,
+      "createdAt": "2026-07-09T22:50:20Z",
+      "updatedAt": "2026-07-09T22:50:20Z"
+    }
+  ]
+}

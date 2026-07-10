@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-ac-milan-goleiro-24-25-masculino-puma-preto-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T22:50:56Z",
+  "updatedAt": "2026-07-09T22:50:56Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-ac-milan-goleiro-24-25-masculino-puma-preto-com-detalhes-em-cinza/front.webp",
+      "hash": "2a965361421d507d5efc198e7327bc0ae722c7c1d01d68e937827375c61598d4",
+      "width": 480,
+      "height": 480,
+      "size": 15022,
+      "createdAt": "2026-07-09T22:50:56Z",
+      "updatedAt": "2026-07-09T22:50:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/24-25/sem-versao/shorts-ac-milan-goleiro-24-25-masculino-puma-preto-com-detalhes-em-cinza/back.webp",
+      "hash": "2669e27f1cd184e83b74b33c3ef052b92b8dfd73be5b7b68343141ef9a756480",
+      "width": 480,
+      "height": 480,
+      "size": 12920,
+      "createdAt": "2026-07-09T22:50:56Z",
+      "updatedAt": "2026-07-09T22:50:56Z"
+    }
+  ]
+}

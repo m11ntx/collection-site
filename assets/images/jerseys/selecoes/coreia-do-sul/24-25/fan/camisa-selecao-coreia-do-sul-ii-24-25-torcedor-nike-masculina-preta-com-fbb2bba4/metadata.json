@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-detalhes-em-azul-e-rosa",
+  "createdAt": "2026-07-09T22:08:57Z",
+  "updatedAt": "2026-07-09T22:08:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/front.webp",
+      "hash": "027f054fd76b36e28e70e361b6b3c968d28fdfbd73e24f5f3894a51131349209",
+      "width": 480,
+      "height": 480,
+      "size": 13496,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/back.webp",
+      "hash": "6a60c00f4c629c24090be3949e973af0043431323fcbda6d19afd59708977eb3",
+      "width": 480,
+      "height": 480,
+      "size": 20148,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/detail-1.webp",
+      "hash": "1e365792f27ce5c4f4dd8b620832d071a4716aa02e9926fd2ed45ef641b9175b",
+      "width": 480,
+      "height": 480,
+      "size": 6892,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/detail-2.webp",
+      "hash": "5d5e05d1db17ddfee1e0f0830338e72b6657458e1f493a90964f4575ccad5673",
+      "width": 480,
+      "height": 480,
+      "size": 42686,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/detail-3.webp",
+      "hash": "625343263d48adff3199e674ee81cc24fe24d718902163b6eba4ab96dfd0bedd",
+      "width": 480,
+      "height": 480,
+      "size": 46426,
+      "createdAt": "2026-07-09T22:08:56Z",
+      "updatedAt": "2026-07-09T22:08:56Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/detail-4.webp",
+      "hash": "8d5a5d205af54d8fc92bc779754fce80664cd25b86ae4cfd120f3df81dcc88b2",
+      "width": 480,
+      "height": 480,
+      "size": 15978,
+      "createdAt": "2026-07-09T22:08:57Z",
+      "updatedAt": "2026-07-09T22:08:57Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/selecoes/coreia-do-sul/24-25/fan/camisa-selecao-coreia-do-sul-ii-24-25-torcedor-nike-masculina-preta-com-fbb2bba4/detail-5.webp",
+      "hash": "1af0fbc1376a1c7f32d5b739580367c7219f72ef27389533a3e4f637d3704d92",
+      "width": 480,
+      "height": 480,
+      "size": 9314,
+      "createdAt": "2026-07-09T22:08:57Z",
+      "updatedAt": "2026-07-09T22:08:57Z"
+    }
+  ]
+}

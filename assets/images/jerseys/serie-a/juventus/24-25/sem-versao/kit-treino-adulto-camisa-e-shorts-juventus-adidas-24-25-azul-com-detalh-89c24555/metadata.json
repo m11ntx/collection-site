@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-juventus-adidas-24-25-azul-com-detalhes-em-laranja",
+  "createdAt": "2026-07-09T22:51:07Z",
+  "updatedAt": "2026-07-09T22:51:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-juventus-adidas-24-25-azul-com-detalh-89c24555/front.webp",
+      "hash": "fe6e775d2b09773655ba57a7fb1f4b532ea33d7dbbaf9ed375500696fe5ce992",
+      "width": 480,
+      "height": 480,
+      "size": 9702,
+      "createdAt": "2026-07-09T22:51:07Z",
+      "updatedAt": "2026-07-09T22:51:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-juventus-adidas-24-25-azul-com-detalh-89c24555/back.webp",
+      "hash": "2f3102cb6ccb31a4a8667e0df7bee42410e5ec73f310f5cd26949a05434b3725",
+      "width": 480,
+      "height": 480,
+      "size": 10582,
+      "createdAt": "2026-07-09T22:51:07Z",
+      "updatedAt": "2026-07-09T22:51:07Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-juventus-adidas-24-25-azul-com-detalh-89c24555/detail-1.webp",
+      "hash": "d19906205731a1e20fd1f084a160b80ae805e84f9d4db7d7f7b191bbd8cd3ea5",
+      "width": 480,
+      "height": 480,
+      "size": 6894,
+      "createdAt": "2026-07-09T22:51:07Z",
+      "updatedAt": "2026-07-09T22:51:07Z"
+    }
+  ]
+}

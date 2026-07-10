@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:49:55Z",
+  "updatedAt": "2026-07-09T22:49:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/front.webp",
+      "hash": "42b7ff117d41fd5eec7f961f5fb58b10aa0f0d7bd7d2d32fe264c7f2562e8a38",
+      "width": 480,
+      "height": 480,
+      "size": 10158,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/back.webp",
+      "hash": "57f7f454452d47ca731821d0168b366609d59a92fab658b309139923b8813df5",
+      "width": 480,
+      "height": 480,
+      "size": 5978,
+      "createdAt": "2026-07-09T22:49:54Z",
+      "updatedAt": "2026-07-09T22:49:54Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/detail-1.webp",
+      "hash": "4e38ee21931ce15a8a56547134cc88782788994784625aeb6c7a5f053bb8fcad",
+      "width": 480,
+      "height": 480,
+      "size": 16078,
+      "createdAt": "2026-07-09T22:49:55Z",
+      "updatedAt": "2026-07-09T22:49:55Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/detail-2.webp",
+      "hash": "dbbc17a9c0427ba5d0b91f95344e64f11c122fb07f9b340d7e538f23f8cd8d2b",
+      "width": 480,
+      "height": 480,
+      "size": 56584,
+      "createdAt": "2026-07-09T22:49:55Z",
+      "updatedAt": "2026-07-09T22:49:55Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/detail-3.webp",
+      "hash": "7077e642be145f399de003c7488df868ebfbce74903b52537cb7c0b1b6370d43",
+      "width": 480,
+      "height": 480,
+      "size": 62586,
+      "createdAt": "2026-07-09T22:49:55Z",
+      "updatedAt": "2026-07-09T22:49:55Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/detail-4.webp",
+      "hash": "0dcaef5514a7c60a8c30db0636f06e3002be62c82277f98272126ecd70f4d35c",
+      "width": 480,
+      "height": 480,
+      "size": 15302,
+      "createdAt": "2026-07-09T22:49:55Z",
+      "updatedAt": "2026-07-09T22:49:55Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/la-liga/real-madrid/14-15/sem-versao/camisa-retro-real-madrid-ii-14-15-manga-longa-masculina-adidas-rosa-com-1f0aebc5/detail-5.webp",
+      "hash": "d32c9df274e2a745508592bad18069e30e8e985124fc801ca69d74c856e8c52c",
+      "width": 480,
+      "height": 480,
+      "size": 11504,
+      "createdAt": "2026-07-09T22:49:55Z",
+      "updatedAt": "2026-07-09T22:49:55Z"
+    }
+  ]
+}

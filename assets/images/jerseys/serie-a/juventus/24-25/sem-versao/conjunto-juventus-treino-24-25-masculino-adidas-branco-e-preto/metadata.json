@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-juventus-treino-24-25-masculino-adidas-branco-e-preto",
+  "createdAt": "2026-07-09T22:49:22Z",
+  "updatedAt": "2026-07-09T22:49:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/conjunto-juventus-treino-24-25-masculino-adidas-branco-e-preto/front.webp",
+      "hash": "a41da703eba07334d4da0b138f60eb74139d9257e076b05bf6a87bc5990e5642",
+      "width": 480,
+      "height": 480,
+      "size": 10450,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/24-25/sem-versao/conjunto-juventus-treino-24-25-masculino-adidas-branco-e-preto/back.webp",
+      "hash": "36d7a3f405431fed355d409db06f3e5afefc43d711da3a05e91c6bd888b1739f",
+      "width": 480,
+      "height": 480,
+      "size": 7666,
+      "createdAt": "2026-07-09T22:49:22Z",
+      "updatedAt": "2026-07-09T22:49:22Z"
+    }
+  ]
+}

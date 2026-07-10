@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-charlotte-fc-i-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:09:33Z",
+  "updatedAt": "2026-07-09T22:09:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-i-24-25-torcedor-adidas-masculina-branca-com-detalh-d2b42267/front.webp",
+      "hash": "eba84da6b1c68ea9380de3f4e027f29dc45e7d59e61b52bacfd7a68c99c775c4",
+      "width": 480,
+      "height": 480,
+      "size": 9662,
+      "createdAt": "2026-07-09T22:09:33Z",
+      "updatedAt": "2026-07-09T22:09:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-i-24-25-torcedor-adidas-masculina-branca-com-detalh-d2b42267/back.webp",
+      "hash": "6eeeafbfabc1988b5c5828b42270e8e00e9b5754bee04ffa641ac830cdb43415",
+      "width": 480,
+      "height": 480,
+      "size": 6042,
+      "createdAt": "2026-07-09T22:09:33Z",
+      "updatedAt": "2026-07-09T22:09:33Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/mls/charlotte-fc/24-25/fan/camisa-charlotte-fc-i-24-25-torcedor-adidas-masculina-branca-com-detalh-d2b42267/detail-1.webp",
+      "hash": "b5e6ebd5af4564a04851ab70465bea2fb5e0a503ff9f37874eb0e13397679fd2",
+      "width": 480,
+      "height": 320,
+      "size": 25610,
+      "createdAt": "2026-07-09T22:09:33Z",
+      "updatedAt": "2026-07-09T22:09:33Z"
+    }
+  ]
+}

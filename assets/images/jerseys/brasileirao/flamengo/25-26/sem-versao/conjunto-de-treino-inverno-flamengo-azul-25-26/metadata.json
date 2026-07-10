@@ -1,0 +1,47 @@
+{
+  "productId": "source-conjunto-de-treino-inverno-flamengo-azul-25-26",
+  "createdAt": "2026-07-09T22:51:52Z",
+  "updatedAt": "2026-07-09T22:51:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/conjunto-de-treino-inverno-flamengo-azul-25-26/front.webp",
+      "hash": "f1a7a28b6b55dd72fecd552cbe6191b051bbda5dba320308e932c6108f1f2af8",
+      "width": 480,
+      "height": 480,
+      "size": 14592,
+      "createdAt": "2026-07-09T22:51:52Z",
+      "updatedAt": "2026-07-09T22:51:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/conjunto-de-treino-inverno-flamengo-azul-25-26/back.webp",
+      "hash": "f2e954d554a68816ef23e8a8fe17455b9645584105e804839a17bcc8bd84a952",
+      "width": 480,
+      "height": 480,
+      "size": 11306,
+      "createdAt": "2026-07-09T22:51:52Z",
+      "updatedAt": "2026-07-09T22:51:52Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/conjunto-de-treino-inverno-flamengo-azul-25-26/detail-1.webp",
+      "hash": "22b80434fcb469faccea7aabde4f868f62dcc964db51e148c7a2846a890dd5b6",
+      "width": 480,
+      "height": 320,
+      "size": 8676,
+      "createdAt": "2026-07-09T22:51:52Z",
+      "updatedAt": "2026-07-09T22:51:52Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/flamengo/25-26/sem-versao/conjunto-de-treino-inverno-flamengo-azul-25-26/detail-2.webp",
+      "hash": "cf3aa9000b27f673a37ab1e2aea766f054393886aade2da0fa1079fe2975467b",
+      "width": 480,
+      "height": 480,
+      "size": 10650,
+      "createdAt": "2026-07-09T22:51:52Z",
+      "updatedAt": "2026-07-09T22:51:52Z"
+    }
+  ]
+}

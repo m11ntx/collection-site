@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-bayern-de-munique-iii-24-25-manga-longa-jogador-adidas-masculina-bege-com-detalhes-em-vinho",
+  "createdAt": "2026-07-09T22:50:44Z",
+  "updatedAt": "2026-07-09T22:50:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/player/camisa-bayern-de-munique-iii-24-25-manga-longa-jogador-adidas-masculina-5da4a2e2/front.webp",
+      "hash": "a469dd1bf706700de0e66dd793e86d01f689a9007a52df5a1b7dfc541667f124",
+      "width": 480,
+      "height": 480,
+      "size": 17292,
+      "createdAt": "2026-07-09T22:50:44Z",
+      "updatedAt": "2026-07-09T22:50:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/bundesliga/bayern-munich/24-25/player/camisa-bayern-de-munique-iii-24-25-manga-longa-jogador-adidas-masculina-5da4a2e2/back.webp",
+      "hash": "ecf15c580344a0661fabad4f3ecc6394a7f5efa02d7a560a214bc2615bdbb94a",
+      "width": 480,
+      "height": 480,
+      "size": 15180,
+      "createdAt": "2026-07-09T22:50:44Z",
+      "updatedAt": "2026-07-09T22:50:44Z"
+    }
+  ]
+}

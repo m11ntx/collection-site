@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina-nike-cinza-com-detalhes-em-preto",
+  "createdAt": "2026-07-09T22:50:03Z",
+  "updatedAt": "2026-07-09T22:50:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/front.webp",
+      "hash": "64ffc412f716a2c6d223e3fd382da16a8672eef0b85fa2cdaf146203eddf6f7a",
+      "width": 480,
+      "height": 480,
+      "size": 9032,
+      "createdAt": "2026-07-09T22:50:02Z",
+      "updatedAt": "2026-07-09T22:50:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/back.webp",
+      "hash": "11639f25a7639400cda81834f5242859b7d75240214d6f1251ed1c1d070b58cc",
+      "width": 480,
+      "height": 480,
+      "size": 7100,
+      "createdAt": "2026-07-09T22:50:02Z",
+      "updatedAt": "2026-07-09T22:50:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/detail-1.webp",
+      "hash": "7d3f4b4c1d3eb733d434f528aa6ab9c89e70a297790fa60eaac211ca847b6540",
+      "width": 480,
+      "height": 480,
+      "size": 14270,
+      "createdAt": "2026-07-09T22:50:02Z",
+      "updatedAt": "2026-07-09T22:50:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/detail-2.webp",
+      "hash": "aa9b511fcfa767463c6d3f4878bc3d7282f4abfc69f59b31e499ad8de8d46cf2",
+      "width": 480,
+      "height": 480,
+      "size": 61312,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/detail-3.webp",
+      "hash": "4915965df4904ea6bf4f0bce063d69fad4670ebbb4808bee2b3c0ba160615bc3",
+      "width": 480,
+      "height": 480,
+      "size": 78684,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/detail-4.webp",
+      "hash": "6443a3de2258c2ce521f0e37e42c590a16a0e40c25007f42d14c01351bc62171",
+      "width": 480,
+      "height": 480,
+      "size": 23718,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-goleiro-2007-2008-manga-longa-masculina--4cb21d07/detail-5.webp",
+      "hash": "e525153fe4baa1db336f48f8356007ee00a24b9f31e7fec046ceb2e6ca967946",
+      "width": 480,
+      "height": 480,
+      "size": 22564,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-casa-26-27-manga-longa",
+  "createdAt": "2026-07-09T22:52:58Z",
+  "updatedAt": "2026-07-09T22:52:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-casa-26-27-manga-longa/front.webp",
+      "hash": "8aa359f86a603d739191f06bef7ce5df51c7076f4692ebc1e313db76e8a1f051",
+      "width": 480,
+      "height": 480,
+      "size": 12358,
+      "createdAt": "2026-07-09T22:52:58Z",
+      "updatedAt": "2026-07-09T22:52:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-casa-26-27-manga-longa/back.webp",
+      "hash": "4d891f3fd0e05a2faf463fe7b714728fc9d0c354a8de221a4503d13a6445f89a",
+      "width": 480,
+      "height": 480,
+      "size": 8394,
+      "createdAt": "2026-07-09T22:52:58Z",
+      "updatedAt": "2026-07-09T22:52:58Z"
+    }
+  ]
+}

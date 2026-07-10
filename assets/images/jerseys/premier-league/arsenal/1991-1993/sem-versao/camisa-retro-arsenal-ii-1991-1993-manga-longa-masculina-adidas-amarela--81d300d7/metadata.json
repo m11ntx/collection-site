@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela-com-detalhes-em-verde-e-vermelho",
+  "createdAt": "2026-07-09T22:50:16Z",
+  "updatedAt": "2026-07-09T22:50:16Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/front.webp",
+      "hash": "1673aa9dabb054ab89d6a0377b11b0b6205ecb8a518d1fd051d6a665c8dcdacc",
+      "width": 480,
+      "height": 480,
+      "size": 26568,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/back.webp",
+      "hash": "492d84f1f70316a8aa1522c5cb00231b60011af6a7a56d855cb15874f6a779e2",
+      "width": 480,
+      "height": 480,
+      "size": 25650,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/detail-1.webp",
+      "hash": "02b0639c0c79f918b0b12467a85342b9c2bebdd501d5f95214afe629e6f98b21",
+      "width": 480,
+      "height": 480,
+      "size": 30826,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/detail-2.webp",
+      "hash": "9d2d3d951bfd12156d428b1f86d5543a0bcdbe2a5710b34bb27d772b6fdcc0d2",
+      "width": 480,
+      "height": 480,
+      "size": 58550,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/detail-3.webp",
+      "hash": "627e0b2c9116b1a14bc7ae7a20d6102e93d40a23b47525bbbc2e961471c570ea",
+      "width": 480,
+      "height": 480,
+      "size": 62816,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/detail-4.webp",
+      "hash": "9e6bab440682ca5acd79632fa19e6eac503e151b51ec9b492ca1464cc120bbe5",
+      "width": 480,
+      "height": 480,
+      "size": 26842,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/arsenal/1991-1993/sem-versao/camisa-retro-arsenal-ii-1991-1993-manga-longa-masculina-adidas-amarela--81d300d7/detail-5.webp",
+      "hash": "c8b2ee5457f3d366f742cbe9608c90487f2b8a0452bc95be4539a3d9e4a1dc2c",
+      "width": 480,
+      "height": 480,
+      "size": 27570,
+      "createdAt": "2026-07-09T22:50:15Z",
+      "updatedAt": "2026-07-09T22:50:15Z"
+    }
+  ]
+}

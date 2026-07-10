@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-internacional-adidas-24-25-vermelho",
+  "createdAt": "2026-07-09T22:51:20Z",
+  "updatedAt": "2026-07-09T22:51:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-internacional-adidas-24-25-vermelho/front.webp",
+      "hash": "c22b356edf63232bd7a9ff4d706d91ff97e829157f2d7ec421038c814455a8ee",
+      "width": 480,
+      "height": 480,
+      "size": 9972,
+      "createdAt": "2026-07-09T22:51:20Z",
+      "updatedAt": "2026-07-09T22:51:20Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-internacional-adidas-24-25-vermelho/back.webp",
+      "hash": "0a34119133fd193c47839fd4e2d9eec18a8e6f8d21644703149799ee66844783",
+      "width": 480,
+      "height": 480,
+      "size": 7254,
+      "createdAt": "2026-07-09T22:51:20Z",
+      "updatedAt": "2026-07-09T22:51:20Z"
+    }
+  ]
+}

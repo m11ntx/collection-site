@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-cinza-com-detalhes-em-verde",
+  "createdAt": "2026-07-09T22:51:22Z",
+  "updatedAt": "2026-07-09T22:51:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-cinza--941133d0/front.webp",
+      "hash": "3bc1e6934124956296c0f96293df863e5ff85c430743baeb7b81c15f6393f0c1",
+      "width": 480,
+      "height": 480,
+      "size": 8994,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-cinza--941133d0/back.webp",
+      "hash": "df47484490c13117fb02c4de50133a550d8e465c19e7bb87f1c96b9ed516e26f",
+      "width": 480,
+      "height": 480,
+      "size": 9516,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-nike-24-25-cinza--941133d0/detail-1.webp",
+      "hash": "0b3a34fa664cc284711a769a1030b99ffb6b0ebbc2b39cfa79320657e41db98d",
+      "width": 480,
+      "height": 480,
+      "size": 4924,
+      "createdAt": "2026-07-09T22:51:22Z",
+      "updatedAt": "2026-07-09T22:51:22Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-de-treino-inverno-cruzeiro-azul-25-26",
+  "createdAt": "2026-07-09T22:51:51Z",
+  "updatedAt": "2026-07-09T22:51:51Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/sem-versao/conjunto-de-treino-inverno-cruzeiro-azul-25-26/front.webp",
+      "hash": "ecd10a4a1e6bc46ad4c46ec7112490d03a53281eec8403c087abb03e82884e4c",
+      "width": 480,
+      "height": 480,
+      "size": 14494,
+      "createdAt": "2026-07-09T22:51:51Z",
+      "updatedAt": "2026-07-09T22:51:51Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/sem-versao/conjunto-de-treino-inverno-cruzeiro-azul-25-26/back.webp",
+      "hash": "d9da7f37db4a0352982b81d85da5a215c05498d62636e7eb7bc6b4b284d221e1",
+      "width": 480,
+      "height": 320,
+      "size": 12226,
+      "createdAt": "2026-07-09T22:51:51Z",
+      "updatedAt": "2026-07-09T22:51:51Z"
+    }
+  ]
+}

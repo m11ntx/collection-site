@@ -1,0 +1,27 @@
+{
+  "productId": "source-shorts-inter-de-milao-i-24-25-masculino-nike-preto-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:51:01Z",
+  "updatedAt": "2026-07-09T22:51:01Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/shorts-inter-de-milao-i-24-25-masculino-nike-preto-com-detalhes-em-azul/front.webp",
+      "hash": "cd68a396fc342a11f6590aa13f9c85ed035cf16517689b67d832619554410f5d",
+      "width": 480,
+      "height": 480,
+      "size": 8086,
+      "createdAt": "2026-07-09T22:51:01Z",
+      "updatedAt": "2026-07-09T22:51:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/shorts-inter-de-milao-i-24-25-masculino-nike-preto-com-detalhes-em-azul/back.webp",
+      "hash": "3d7ec129c3321b81a1e0c45d1d5996cb03d308ab30379e996e2da3f1161971cb",
+      "width": 480,
+      "height": 480,
+      "size": 4532,
+      "createdAt": "2026-07-09T22:51:01Z",
+      "updatedAt": "2026-07-09T22:51:01Z"
+    }
+  ]
+}

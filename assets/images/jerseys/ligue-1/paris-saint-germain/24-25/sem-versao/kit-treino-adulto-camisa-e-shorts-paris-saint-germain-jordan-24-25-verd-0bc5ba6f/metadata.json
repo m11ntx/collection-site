@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-verde-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:51:37Z",
+  "updatedAt": "2026-07-09T22:51:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-verd-0bc5ba6f/front.webp",
+      "hash": "7c37af09d42d37b06ebd5c153961d84054a01b667b525771d988218ab7825dbf",
+      "width": 480,
+      "height": 480,
+      "size": 12280,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-paris-saint-germain-jordan-24-25-verd-0bc5ba6f/back.webp",
+      "hash": "83add61d45b1b8733f9df10e6dee0cfffeabaf65f2d64cfec45032835a23f1ec",
+      "width": 480,
+      "height": 480,
+      "size": 8338,
+      "createdAt": "2026-07-09T22:51:37Z",
+      "updatedAt": "2026-07-09T22:51:37Z"
+    }
+  ]
+}

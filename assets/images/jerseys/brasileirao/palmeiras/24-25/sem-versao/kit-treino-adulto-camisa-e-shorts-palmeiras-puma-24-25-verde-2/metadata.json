@@ -1,0 +1,37 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-palmeiras-puma-24-25-verde-2",
+  "createdAt": "2026-07-09T22:51:45Z",
+  "updatedAt": "2026-07-09T22:51:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-palmeiras-puma-24-25-verde-2/front.webp",
+      "hash": "63929c3f696cdebdc27481508decc090ff782367ad2178d1be114292bb99d4aa",
+      "width": 480,
+      "height": 480,
+      "size": 15826,
+      "createdAt": "2026-07-09T22:51:44Z",
+      "updatedAt": "2026-07-09T22:51:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-palmeiras-puma-24-25-verde-2/back.webp",
+      "hash": "8a9b709e19783ecb6006abcbd213b13af5dff718115dcbea10099b71ef10d0e2",
+      "width": 480,
+      "height": 480,
+      "size": 16386,
+      "createdAt": "2026-07-09T22:51:45Z",
+      "updatedAt": "2026-07-09T22:51:45Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-palmeiras-puma-24-25-verde-2/detail-1.webp",
+      "hash": "d06415b9dea14f6e49cf7aba0752139129ce7a61cc291afe8f6085baf65e2daa",
+      "width": 480,
+      "height": 480,
+      "size": 5196,
+      "createdAt": "2026-07-09T22:51:45Z",
+      "updatedAt": "2026-07-09T22:51:45Z"
+    }
+  ]
+}

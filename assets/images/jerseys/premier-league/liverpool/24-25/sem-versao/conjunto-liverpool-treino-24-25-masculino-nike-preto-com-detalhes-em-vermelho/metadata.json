@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-liverpool-treino-24-25-masculino-nike-preto-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:49:29Z",
+  "updatedAt": "2026-07-09T22:49:29Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-24-25-masculino-nike-preto-com-detalhes-em-vermelho/front.webp",
+      "hash": "3c65cf0f2bda67aa594111c65f3eb2b861054aa203f5577fb45bd77d08f1cfc4",
+      "width": 480,
+      "height": 480,
+      "size": 9060,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/conjunto-liverpool-treino-24-25-masculino-nike-preto-com-detalhes-em-vermelho/back.webp",
+      "hash": "376b94f9443173d983ba933c8550a409360e83e666106d994b046861d8168d4e",
+      "width": 480,
+      "height": 480,
+      "size": 6672,
+      "createdAt": "2026-07-09T22:49:29Z",
+      "updatedAt": "2026-07-09T22:49:29Z"
+    }
+  ]
+}

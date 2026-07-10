@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-barcelona-home-26-27-torcedor-nike-masculina",
   "createdAt": "2026-07-07T02:48:01Z",
-  "updatedAt": "2026-07-07T02:48:01Z",
+  "updatedAt": "2026-07-09T22:53:14Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/la-liga/barcelona/26-27/fan/camisa-barcelona-home-26-27-torcedor-nike-masculina/front.webp",
-      "hash": "372c71d21831580cfd7730e8bd5835aa75caa347afefdc45459fb4ce0c101582",
+      "hash": "0327e4d85d59fad8ef94fb0c2713b21b6d8f567d43b6d23e8e0c34a22093a0cf",
       "width": 480,
       "height": 480,
-      "size": 8202,
+      "size": 11352,
       "createdAt": "2026-07-07T02:48:01Z",
-      "updatedAt": "2026-07-07T02:48:01Z"
+      "updatedAt": "2026-07-09T22:53:14Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/la-liga/barcelona/26-27/fan/camisa-barcelona-home-26-27-torcedor-nike-masculina/back.webp",
-      "hash": "2f3f351861ce495bd4003abdd799bf766065d32c1d8644bfac71b218705ef0ba",
+      "hash": "c4462d97b52c979bc3c47b5af23ffb93ceedf0eb841600641266958cef3e1302",
       "width": 480,
       "height": 480,
-      "size": 8242,
+      "size": 12106,
       "createdAt": "2026-07-07T02:48:01Z",
-      "updatedAt": "2026-07-07T02:48:01Z"
+      "updatedAt": "2026-07-09T22:53:14Z"
     }
   ]
 }

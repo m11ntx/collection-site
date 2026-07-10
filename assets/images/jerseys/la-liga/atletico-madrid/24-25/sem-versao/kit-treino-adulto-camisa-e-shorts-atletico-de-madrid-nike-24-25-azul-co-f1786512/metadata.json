@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-atletico-de-madrid-nike-24-25-azul-com-detalhes-em-vermelho",
+  "createdAt": "2026-07-09T22:51:25Z",
+  "updatedAt": "2026-07-09T22:51:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-atletico-de-madrid-nike-24-25-azul-co-f1786512/front.webp",
+      "hash": "b04885009575f990f3edd9a286ac66ca113ca8ab9bd8b2883259344129c887f3",
+      "width": 480,
+      "height": 480,
+      "size": 7698,
+      "createdAt": "2026-07-09T22:51:25Z",
+      "updatedAt": "2026-07-09T22:51:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/atletico-madrid/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-atletico-de-madrid-nike-24-25-azul-co-f1786512/back.webp",
+      "hash": "7268c16fbb3533b7210f858ba9c7524a8b505021d3826a6e3d750242d5dba977",
+      "width": 480,
+      "height": 480,
+      "size": 5468,
+      "createdAt": "2026-07-09T22:51:25Z",
+      "updatedAt": "2026-07-09T22:51:25Z"
+    }
+  ]
+}

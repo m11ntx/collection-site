@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-real-madrid-ii-24-25-manga-longa-jogador-adidas-masculina-laranja",
+  "createdAt": "2026-07-09T22:50:36Z",
+  "updatedAt": "2026-07-09T22:50:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-ii-24-25-manga-longa-jogador-adidas-masculina-laranja/front.webp",
+      "hash": "e5b286d42746dbb5f8f7236b45a0295f0e54de0ce6cfe3f21cf0584bc11b9179",
+      "width": 480,
+      "height": 480,
+      "size": 16598,
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-ii-24-25-manga-longa-jogador-adidas-masculina-laranja/back.webp",
+      "hash": "63dcd98ea8f5ca94e3d6fa0312b52b17e4667a59e00f89c06e62d309ea9137da",
+      "width": 480,
+      "height": 480,
+      "size": 19312,
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/player/camisa-real-madrid-ii-24-25-manga-longa-jogador-adidas-masculina-laranja/detail-1.webp",
+      "hash": "b1a267fb1a510c166809b22392c68272ad0a6e654d40390a2c8f5c52f33d40c8",
+      "width": 480,
+      "height": 480,
+      "size": 12518,
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
+    }
+  ]
+}

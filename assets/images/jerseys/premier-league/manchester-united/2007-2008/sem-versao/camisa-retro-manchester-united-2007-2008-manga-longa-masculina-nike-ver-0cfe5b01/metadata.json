@@ -1,0 +1,77 @@
+{
+  "productId": "source-camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-vermelha-com-detalhes-em-branco",
+  "createdAt": "2026-07-09T22:50:04Z",
+  "updatedAt": "2026-07-09T22:50:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/front.webp",
+      "hash": "e001fe8e0cb5159bcf19515737735b02fe962a79e4919dba8619280598dc35d4",
+      "width": 480,
+      "height": 480,
+      "size": 9612,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/back.webp",
+      "hash": "04af04881b68efae742ac37f017f2afe07b1467ec5c3dd19e1a720ffff27de03",
+      "width": 480,
+      "height": 480,
+      "size": 6214,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/detail-1.webp",
+      "hash": "3fc07364692ba6eb8adb5ed75c577cff2afe3caa81597d266f28260df4591d5f",
+      "width": 480,
+      "height": 480,
+      "size": 12780,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/detail-2.webp",
+      "hash": "d2f74c936447296f66cd6ef5ad448a4fddaf3c71d57e244db41dec3eca12e936",
+      "width": 480,
+      "height": 480,
+      "size": 52794,
+      "createdAt": "2026-07-09T22:50:03Z",
+      "updatedAt": "2026-07-09T22:50:03Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/detail-3.webp",
+      "hash": "530af3f8652d9b684e1213f0cd5fc314b358fb967e0e58d014c6d68fec15be27",
+      "width": 480,
+      "height": 480,
+      "size": 59020,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/detail-4.webp",
+      "hash": "fce3f08b34709904ab7e34330b642523c9f31827d38f839927ac47a2737e14c3",
+      "width": 480,
+      "height": 480,
+      "size": 16648,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/premier-league/manchester-united/2007-2008/sem-versao/camisa-retro-manchester-united-2007-2008-manga-longa-masculina-nike-ver-0cfe5b01/detail-5.webp",
+      "hash": "e1c095814a0a369e475492b69aeb4e1f0e8d73a45fc298379df97d60915477e2",
+      "width": 480,
+      "height": 480,
+      "size": 14794,
+      "createdAt": "2026-07-09T22:50:04Z",
+      "updatedAt": "2026-07-09T22:50:04Z"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "productId": "source-camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca",
+  "createdAt": "2026-07-09T22:50:25Z",
+  "updatedAt": "2026-07-09T22:50:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/front.webp",
+      "hash": "b57350aaf5702b2e812b0ded74dd108cf726c622b685d9d6b6764bf07451d056",
+      "width": 480,
+      "height": 480,
+      "size": 9030,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/back.webp",
+      "hash": "585331239455a4b10f5e5cff71ddf02696208a91833bda7fd8615e5bac2a4eca",
+      "width": 480,
+      "height": 480,
+      "size": 14372,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/detail-1.webp",
+      "hash": "d314267976790284160c46d45ed45a65f5520614c6a65775abe257e553bca422",
+      "width": 480,
+      "height": 480,
+      "size": 6478,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/detail-2.webp",
+      "hash": "4c28acd7094e21b500dcbf3ec3d87fe07a7d40340ee19afabd2b3f776a55d06a",
+      "width": 480,
+      "height": 480,
+      "size": 24674,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/detail-3.webp",
+      "hash": "5383cf4124c45f857f7a02a7f66e8fd784d6ff926791ca0d860a77d9cdd0edf8",
+      "width": 480,
+      "height": 480,
+      "size": 11908,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/serie-a/juventus/1997-1998/sem-versao/camisa-retro-juventus-i-1997-1998-manga-longa-masculina-kappa-preta-e-branca/detail-4.webp",
+      "hash": "2088c1b9b942d3a29182fc34e03c49626c5454e3816d0ff605c49ba04ce1f915",
+      "width": 480,
+      "height": 480,
+      "size": 7226,
+      "createdAt": "2026-07-09T22:50:25Z",
+      "updatedAt": "2026-07-09T22:50:25Z"
+    }
+  ]
+}

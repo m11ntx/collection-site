@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-barcelona-treino-24-25-masculino-nike-azul-e-vermelho",
+  "createdAt": "2026-07-09T22:49:25Z",
+  "updatedAt": "2026-07-09T22:49:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/conjunto-barcelona-treino-24-25-masculino-nike-azul-e-vermelho/front.webp",
+      "hash": "96d05e794a968b2379baf6bb68d8ef5b69d24ddd59088764cc22a3f5646acb12",
+      "width": 480,
+      "height": 480,
+      "size": 18114,
+      "createdAt": "2026-07-09T22:49:25Z",
+      "updatedAt": "2026-07-09T22:49:25Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/conjunto-barcelona-treino-24-25-masculino-nike-azul-e-vermelho/back.webp",
+      "hash": "9352450ceab815ed1a4def846a63daab3a97a01ef94775c1d0554b31636249e9",
+      "width": 480,
+      "height": 480,
+      "size": 14328,
+      "createdAt": "2026-07-09T22:49:25Z",
+      "updatedAt": "2026-07-09T22:49:25Z"
+    }
+  ]
+}

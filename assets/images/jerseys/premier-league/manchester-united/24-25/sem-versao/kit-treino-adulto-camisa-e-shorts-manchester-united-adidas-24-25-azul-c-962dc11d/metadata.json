@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-azul-com-detalhes-em-amarelo-e-laranja",
+  "createdAt": "2026-07-09T22:51:35Z",
+  "updatedAt": "2026-07-09T22:51:35Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-azul-c-962dc11d/front.webp",
+      "hash": "b7bc7036d9d4a46df4b121ea5d2a154681d0ea3db877333c473c5f238e5f6792",
+      "width": 480,
+      "height": 480,
+      "size": 11470,
+      "createdAt": "2026-07-09T22:51:35Z",
+      "updatedAt": "2026-07-09T22:51:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-united/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-manchester-united-adidas-24-25-azul-c-962dc11d/back.webp",
+      "hash": "5af67ef61b91a36bf1477c9d3fd4a7f05f3ce676f613f3c47e3188ee91ce2e2c",
+      "width": 480,
+      "height": 480,
+      "size": 5796,
+      "createdAt": "2026-07-09T22:51:35Z",
+      "updatedAt": "2026-07-09T22:51:35Z"
+    }
+  ]
+}

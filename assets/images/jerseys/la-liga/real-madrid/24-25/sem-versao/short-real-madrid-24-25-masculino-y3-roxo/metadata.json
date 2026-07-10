@@ -1,0 +1,47 @@
+{
+  "productId": "source-short-real-madrid-24-25-masculino-y3-roxo",
+  "createdAt": "2026-07-09T22:50:53Z",
+  "updatedAt": "2026-07-09T22:50:53Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/short-real-madrid-24-25-masculino-y3-roxo/front.webp",
+      "hash": "24e9750617b35ec3ba082e1936bcd2ced96709da25fe9b1e23f4a741a8ae1115",
+      "width": 480,
+      "height": 480,
+      "size": 7060,
+      "createdAt": "2026-07-09T22:50:53Z",
+      "updatedAt": "2026-07-09T22:50:53Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/short-real-madrid-24-25-masculino-y3-roxo/back.webp",
+      "hash": "2657dd87a1f5c52ea15daaa32caa0283fb4bdf284d038996c45520754c921412",
+      "width": 480,
+      "height": 480,
+      "size": 6144,
+      "createdAt": "2026-07-09T22:50:53Z",
+      "updatedAt": "2026-07-09T22:50:53Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/short-real-madrid-24-25-masculino-y3-roxo/detail-1.webp",
+      "hash": "4ad5483a2d62fe53cfa9c24ff4cbe8f7b177365bc973e0a1e04d93a92dcb301f",
+      "width": 480,
+      "height": 480,
+      "size": 13988,
+      "createdAt": "2026-07-09T22:50:53Z",
+      "updatedAt": "2026-07-09T22:50:53Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/real-madrid/24-25/sem-versao/short-real-madrid-24-25-masculino-y3-roxo/detail-2.webp",
+      "hash": "1b2e02d3704ae7f478853cb881851c133b5b77de18dfada1c10ca40d1aa32a70",
+      "width": 480,
+      "height": 480,
+      "size": 12342,
+      "createdAt": "2026-07-09T22:50:53Z",
+      "updatedAt": "2026-07-09T22:50:53Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "productId": "source-jaqueta-corta-vento-liverpool-ii-24-25-masculina-adidas-verde-com-detalhes-em-cinza",
+  "createdAt": "2026-07-09T22:49:02Z",
+  "updatedAt": "2026-07-09T22:49:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-ii-24-25-masculina-adidas-verde-com-detal-460bb76f/front.webp",
+      "hash": "85ef9f29f9e0e0279208f728af32b7575b11591499c79a882ac9fd78b7a36cde",
+      "width": 480,
+      "height": 480,
+      "size": 12458,
+      "createdAt": "2026-07-09T22:49:02Z",
+      "updatedAt": "2026-07-09T22:49:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-ii-24-25-masculina-adidas-verde-com-detal-460bb76f/back.webp",
+      "hash": "af017e727559fd5cb6c39c476a132328752cd307ebb0a8dc0405bd8bd320bd02",
+      "width": 480,
+      "height": 480,
+      "size": 8472,
+      "createdAt": "2026-07-09T22:49:02Z",
+      "updatedAt": "2026-07-09T22:49:02Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-ii-24-25-masculina-adidas-verde-com-detal-460bb76f/detail-1.webp",
+      "hash": "2da10b2595c7a2515c2347061fab7c12028f97a9a75871aadb8618abce8458b8",
+      "width": 480,
+      "height": 480,
+      "size": 33970,
+      "createdAt": "2026-07-09T22:49:02Z",
+      "updatedAt": "2026-07-09T22:49:02Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/premier-league/liverpool/24-25/sem-versao/jaqueta-corta-vento-liverpool-ii-24-25-masculina-adidas-verde-com-detal-460bb76f/detail-2.webp",
+      "hash": "14c95c9490696917e6e4f6b56bfafaa9debd8931705a2b91218fd42607f19edf",
+      "width": 480,
+      "height": 480,
+      "size": 30414,
+      "createdAt": "2026-07-09T22:49:02Z",
+      "updatedAt": "2026-07-09T22:49:02Z"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "productId": "source-camisa-selecao-inglaterra-ii-26-27-torcedor-nike-masculina-vermelha-com-detalhes-em-azul",
+  "createdAt": "2026-07-09T22:13:20Z",
+  "updatedAt": "2026-07-09T22:13:20Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-ii-26-27-torcedor-nike-masculina-vermelha-com-063b2a58/front.webp",
+      "hash": "d5e8210fd232761a0b5c5f39f0367c412eba5250cc6d7f1820f357b9b8b62867",
+      "width": 480,
+      "height": 480,
+      "size": 20612,
+      "createdAt": "2026-07-09T22:13:07Z",
+      "updatedAt": "2026-07-09T22:13:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-ii-26-27-torcedor-nike-masculina-vermelha-com-063b2a58/back.webp",
+      "hash": "d5442670a7a60f9dc09ecf5c47a14b6eb8226ad8fdd26ce312326779b48a41dd",
+      "width": 480,
+      "height": 480,
+      "size": 18310,
+      "createdAt": "2026-07-09T22:13:14Z",
+      "updatedAt": "2026-07-09T22:13:14Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/inglaterra/26-27/fan/camisa-selecao-inglaterra-ii-26-27-torcedor-nike-masculina-vermelha-com-063b2a58/detail-1.webp",
+      "hash": "336eac156095be0578daaa4b2d0290af131f90e3d38a56d3fa6a7e3174260f0d",
+      "width": 480,
+      "height": 480,
+      "size": 46520,
+      "createdAt": "2026-07-09T22:13:20Z",
+      "updatedAt": "2026-07-09T22:13:20Z"
+    }
+  ]
+}

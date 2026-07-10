@@ -1,0 +1,57 @@
+{
+  "productId": "source-kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul",
+  "createdAt": "2026-07-09T22:51:18Z",
+  "updatedAt": "2026-07-09T22:51:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul/front.webp",
+      "hash": "7ff87f80a0182b22a48e902edb396522ef8d37eb25468d137129d36fe5c8d2c6",
+      "width": 480,
+      "height": 480,
+      "size": 13614,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul/back.webp",
+      "hash": "a660a844a9f8c5593bb5b8f42f78c36e5dce8ca39da283ba7c7a2d562ecf77f9",
+      "width": 480,
+      "height": 480,
+      "size": 13144,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul/detail-1.webp",
+      "hash": "56819021e9edbbf42031cc1b15ee7c7e9ddc1c9b3aa6064006dd1e6f760c50d0",
+      "width": 480,
+      "height": 480,
+      "size": 5240,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul/detail-2.webp",
+      "hash": "0539d3d230037259ddfa05a1c5f18ef7352b870de59ad568ab4c0d6912fd1cbd",
+      "width": 480,
+      "height": 320,
+      "size": 14680,
+      "createdAt": "2026-07-09T22:51:17Z",
+      "updatedAt": "2026-07-09T22:51:17Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/la-liga/barcelona/24-25/sem-versao/kit-treino-adulto-camisa-e-shorts-barcelona-nike-24-25-branco-e-azul/detail-3.webp",
+      "hash": "2f23fcb97c3ef41d4bdbe9c2dad445007621689c4fd01674e4bd9b6cd1659e00",
+      "width": 480,
+      "height": 320,
+      "size": 12828,
+      "createdAt": "2026-07-09T22:51:18Z",
+      "updatedAt": "2026-07-09T22:51:18Z"
+    }
+  ]
+}
