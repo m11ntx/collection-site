@@ -64,7 +64,17 @@
                 <li><a href="pages/about.html" class="nav__link" data-i18n="nav.about">About</a></li>
                 <li><a href="pages/contact.html" class="nav__link" data-i18n="nav.contact">Contact</a></li>
             </ul>
-            <button type="button" class="nav__lang js-lang-toggle" id="langToggle"></button>
+            <div class="nav__locale">
+                <select class="nav__lang-select" id="langSelect" data-lang-select aria-label="Language / Idioma">
+                    <option value="pt-BR">🇧🇷 Português</option>
+                    <option value="en-US">🇺🇸 English</option>
+                </select>
+                <select class="nav__currency-select" id="currencySelect" data-currency-select aria-label="Currency / Moeda">
+                    <option value="BRL">R$ BRL</option>
+                    <option value="USD">US$ USD</option>
+                    <option value="EUR">€ EUR</option>
+                </select>
+            </div>
             <button type="button" class="nav__search" id="searchOpen" data-i18n-attr="aria-label:nav.openSearch">
                 <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
                     <circle cx="11" cy="11" r="7"></circle>
@@ -99,7 +109,17 @@
         <a href="pages/about.html" class="mobile-menu__link" data-i18n="nav.about">About</a>
         <a href="pages/contact.html" class="mobile-menu__link" data-i18n="nav.contact">Contact</a>
         <button type="button" class="mobile-menu__link mobile-menu__search" id="searchOpenMobile" data-i18n="nav.search">Search</button>
-        <button type="button" class="mobile-menu__link mobile-menu__lang js-lang-toggle" id="langToggleMobile"></button>
+        <div class="mobile-menu__link nav__locale">
+            <select class="nav__lang-select" id="langSelectMobile" data-lang-select aria-label="Language / Idioma">
+                <option value="pt-BR">🇧🇷 Português</option>
+                <option value="en-US">🇺🇸 English</option>
+            </select>
+            <select class="nav__currency-select" id="currencySelectMobile" data-currency-select aria-label="Currency / Moeda">
+                <option value="BRL">R$ BRL</option>
+                <option value="USD">US$ USD</option>
+                <option value="EUR">€ EUR</option>
+            </select>
+        </div>
     </nav>
 </div>
 
@@ -168,6 +188,10 @@
 <script src="assets/js/analytics.min.js" defer></script>
 <script src="assets/js/api.min.js" defer></script>
 <script src="assets/js/image-loader.min.js" defer></script>
+<script src="assets/js/services/languageService.min.js" defer></script>
+<script src="assets/js/services/currencyService.min.js" defer></script>
+<script src="assets/js/services/locationService.min.js" defer></script>
+<script src="assets/js/services/localization.min.js" defer></script>
 <script src="assets/js/filters.min.js" defer></script>
 <script src="assets/js/search.min.js" defer></script>
 <script src="assets/js/catalog.min.js" defer></script>

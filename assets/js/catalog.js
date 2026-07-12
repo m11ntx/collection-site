@@ -454,12 +454,24 @@ const Catalog = (() => {
     }
 
     function jerseyMedia(p) {
-        if (p.image && window.ImageLoader) {
-            return ImageLoader.imageTag(ImageLoader.getImage("jerseys", p.image), {
+        const primary = Array.isArray(p.images) && p.images.length
+            ? (p.images.find((im) => im.primary) || p.images[0])
+            : null;
+        if (primary && primary.url && window.ImageLoader) {
+            return ImageLoader.imageTag(ImageLoader.getImage("jerseys", primary.url), {
                 alt: p.name, className: "jersey-card__photo"
             });
         }
         return brandedMark("jersey-card__mark", [110, 77], p.name);
+    }
+
+    // MI-03: the only price string ever shown -- pre-formatted by the
+    // pipeline's Pricing Engine (product.formattedPrice), picked for the
+    // active currency. No calculation, no number formatting happens here.
+    function jerseyPriceHtml(p) {
+        if (!window.CurrencyService) return "";
+        const text = CurrencyService.formattedPriceFor(p);
+        return text ? `<p class="jersey-card__price">${esc(text)}</p>` : "";
     }
 
     function jerseyCard(p) {
@@ -477,6 +489,7 @@ const Catalog = (() => {
                     <p class="jersey-card__brand">${esc(p.brand)}</p>
                     <h3 class="jersey-card__name">${name}</h3>
                     <p class="jersey-card__meta">${meta}</p>
+                    ${jerseyPriceHtml(p)}
                     <a class="btn btn--secondary jersey-card__cta"
                        href="pages/jersey.html?slug=${encodeURIComponent(p.slug)}"
                        aria-label="${cta} — ${name}">
@@ -486,7 +499,39 @@ const Catalog = (() => {
             </article>`;
     }
 
+    // MI-03: tracks the most-recently-rendered jersey grid so a language/
+    // currency change can re-render it from the SAME already-fetched list
+    // (no re-fetch) -- see the "language:change"/"currency:change" listeners
+    // registered once, below.
+    let _lastJerseyGrid = null;
+    let _lastJerseyList = null;
+    let _lastJerseyDetail = null;
+
+    // MI-03: a language/currency change never re-fetches the catalog -- it
+    // just re-runs the SAME render call(s) against the SAME already-fetched
+    // data still held in the two trackers above. Registered once; safe
+    // because each page loads catalog.js fresh (never re-executed on the
+    // same page) and only ever populates the tracker(s) its own page uses.
+    function rerenderLocalizedContent() {
+        if (_lastJerseyGrid) {
+            fillGrid(_lastJerseyGrid, _lastJerseyList, jerseyCard, I18N.t("clubDetail.empty"));
+        }
+        if (_lastJerseyDetail) {
+            const d = _lastJerseyDetail;
+            d.root.innerHTML = jerseyDetailTemplate(d.jersey, d.club, d.league, d.region, d.collection);
+            d.root.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(d.root);
+            document.dispatchEvent(new CustomEvent("jersey:rendered", { detail: { root: d.root } }));
+        }
+    }
+    if (typeof document !== "undefined") {
+        document.addEventListener("language:change", rerenderLocalizedContent);
+        document.addEventListener("currency:change", rerenderLocalizedContent);
+    }
+
     function renderJerseys(grid, list = []) {
+        _lastJerseyGrid = grid;
+        _lastJerseyList = list;
         fillGrid(grid, list, jerseyCard, I18N.t("clubDetail.empty"));
     }
 
@@ -546,7 +591,7 @@ const Catalog = (() => {
 
     function galleryImages(p) {
         const arr = Array.isArray(p.images) && p.images.length
-            ? p.images
+            ? p.images.map((im) => im.url)
             : (p.image ? [p.image] : []);
         return arr.map((name) =>
             window.ImageLoader ? ImageLoader.getImage("jerseys", name) : name);
@@ -638,6 +683,19 @@ const Catalog = (() => {
                             ${I18N.t("jerseyDetail.consultCta")}
                             <span class="arrow" aria-hidden="true">&rarr;</span></a>`;
 
+        // Reference-only size chart image, swapped by language (CS-11: no live
+        // stock, so this is guidance, not a purchase step). Placed below the
+        // gallery, not the info column — that's where the layout actually has
+        // room to show it large enough to read.
+        const sizeGuideSrc = I18N.getLang() === "pt"
+            ? "assets/images/size-guide-pt.webp"
+            : "assets/images/size-guide-en.webp";
+        const sizeGuide = `
+            <div class="jersey__size-guide">
+                <p class="jersey__size-guide-label">${I18N.t("jerseyDetail.sizeGuideLabel")}</p>
+                <img src="${sizeGuideSrc}" loading="lazy" alt="${I18N.t("jerseyDetail.sizeGuideAlt")}">
+            </div>`;
+
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
                 <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
@@ -652,6 +710,7 @@ const Catalog = (() => {
                     <p class="detail__eyebrow">${I18N.t("jerseyDetail.eyebrow")}</p>
                     <h1 class="detail__title">${name}</h1>
                     ${lead ? `<p class="jersey__lead">${lead}</p>` : ""}
+                    ${jerseyPriceHtml(p).replace("jersey-card__price", "jersey__price")}
                     <dl class="specs">
                         ${specRow(I18N.t("jerseyDetail.specBrand"), esc(p.brand))}
                         ${specRow(I18N.t("jerseyDetail.specType"), esc(I18N.fieldLabel("type", p.type)))}
@@ -664,6 +723,7 @@ const Catalog = (() => {
                     ${consult}
                     <p class="jersey__note">${I18N.t("jerseyDetail.note")}</p>
                 </div>
+                ${sizeGuide}
             </div>
 
             ${journeySections()}`;
@@ -762,7 +822,7 @@ const Catalog = (() => {
         const grid = document.getElementById("leaguesGrid");
         const leagues = await API.getLeagues();
         const forCollection = Array.isArray(leagues)
-            ? leagues.filter((l) => l.collection === slug)
+            ? leagues.filter((l) => l.collectionId === collection.id)
             : [];
         renderLeagues(grid, forCollection);
     }
@@ -784,12 +844,12 @@ const Catalog = (() => {
         }
 
         const collection = Array.isArray(collections)
-            ? collections.find((c) => c.slug === league.collection)
+            ? collections.find((c) => c.id === league.collectionId)
             : null;
         // Most leagues list clubs directly; a league with regions (Brasileirão
         // today -- MI-06) lists region cards instead, one level up from clubs.
         const forLeagueRegions = Array.isArray(regions)
-            ? regions.filter((r) => r.league === slug)
+            ? regions.filter((r) => r.leagueId === league.id)
             : [];
 
         document.title = `M11NTX | ${league.name}`;
@@ -812,7 +872,7 @@ const Catalog = (() => {
         } else {
             // clubs belonging to this league (data-driven, scalable filter)
             const forLeague = Array.isArray(clubs)
-                ? clubs.filter((cl) => cl.league === slug)
+                ? clubs.filter((cl) => cl.leagueId === league.id)
                 : [];
             renderClubs(document.getElementById("clubsGrid"), forLeague);
         }
@@ -834,9 +894,9 @@ const Catalog = (() => {
             return;
         }
 
-        const league = Array.isArray(leagues) ? leagues.find((l) => l.slug === region.league) : null;
+        const league = Array.isArray(leagues) ? leagues.find((l) => l.id === region.leagueId) : null;
         const collection = league && Array.isArray(collections)
-            ? collections.find((c) => c.slug === league.collection)
+            ? collections.find((c) => c.id === league.collectionId)
             : null;
 
         document.title = `M11NTX | ${region.name}`;
@@ -857,7 +917,7 @@ const Catalog = (() => {
         // clubs belonging to this region (data-driven, scalable filter)
         const grid = document.getElementById("clubsGrid");
         const forRegion = Array.isArray(clubs)
-            ? clubs.filter((cl) => cl.region === slug)
+            ? clubs.filter((cl) => cl.regionId === region.id)
             : [];
         renderClubs(grid, forRegion);
     }
@@ -869,11 +929,11 @@ const Catalog = (() => {
     // has (version/gender/category) -- no new data needed per club.
     const SEGMENTS = [
         { key: "all", labelKey: "segmentAll", match: () => true },
-        { key: "fan", labelKey: "segmentFan", match: (p) => p.version === "Fan" },
-        { key: "player", labelKey: "segmentPlayer", match: (p) => p.version === "Player" },
-        { key: "women", labelKey: "segmentWomen", match: (p) => p.gender === "Women" },
-        { key: "retro", labelKey: "segmentRetro", match: (p) => p.category === "Retro" },
-        { key: "kids", labelKey: "segmentKids", match: (p) => p.gender === "Kids" },
+        { key: "fan", labelKey: "segmentFan", match: (p) => p.version === "fan" },
+        { key: "player", labelKey: "segmentPlayer", match: (p) => p.version === "player" },
+        { key: "women", labelKey: "segmentWomen", match: (p) => p.gender === "women" },
+        { key: "retro", labelKey: "segmentRetro", match: (p) => p.category === "retro" },
+        { key: "kids", labelKey: "segmentKids", match: (p) => p.gender === "kids" },
     ];
 
     function filterBySegment(jerseys, key) {
@@ -937,10 +997,10 @@ const Catalog = (() => {
             return;
         }
 
-        const league = Array.isArray(leagues) ? leagues.find((l) => l.slug === club.league) : null;
-        const region = Array.isArray(regions) ? regions.find((r) => r.slug === club.region) : null;
+        const league = Array.isArray(leagues) ? leagues.find((l) => l.id === club.leagueId) : null;
+        const region = Array.isArray(regions) ? regions.find((r) => r.id === club.regionId) : null;
         const collection = league && Array.isArray(collections)
-            ? collections.find((c) => c.slug === league.collection)
+            ? collections.find((c) => c.id === league.collectionId)
             : null;
         const leagueName = league ? league.name : (club.league || "");
 
@@ -989,13 +1049,13 @@ const Catalog = (() => {
 
         const club = Array.isArray(clubs) ? clubs.find((c) => c.id === jersey.clubId) : null;
         const league = club && Array.isArray(leagues)
-            ? leagues.find((l) => l.slug === club.league)
+            ? leagues.find((l) => l.id === club.leagueId)
             : null;
         const region = club && Array.isArray(regions)
-            ? regions.find((r) => r.slug === club.region)
+            ? regions.find((r) => r.id === club.regionId)
             : null;
         const collection = league && Array.isArray(collections)
-            ? collections.find((c) => c.slug === league.collection)
+            ? collections.find((c) => c.id === league.collectionId)
             : null;
 
         document.title = `M11NTX | ${jersey.name}`;
@@ -1007,7 +1067,7 @@ const Catalog = (() => {
                 title: `M11NTX | ${jersey.name}${clubName ? " — " + clubName : ""}`,
                 description: `${bits}. Importação sob consulta · 25–40 dias corridos. Premium Soccer Culture.`,
                 canonical: `/pages/jersey.html?slug=${encodeURIComponent(slug)}`,
-                image: seoImage("jerseys", (Array.isArray(jersey.images) && jersey.images[0]) || jersey.image),
+                image: seoImage("jerseys", (Array.isArray(jersey.images) && jersey.images[0] && jersey.images[0].url) || jersey.image),
                 imageAlt: jersey.name
             });
             SEO.breadcrumb(jerseyCrumbs(collection, league, region, club, jersey));
@@ -1015,6 +1075,7 @@ const Catalog = (() => {
         if (window.Analytics) {
             Analytics.track.jerseyView(slug, { club: club ? club.slug : "", brand: jersey.brand });
         }
+        _lastJerseyDetail = { root, jersey, club, league, region, collection };
         root.innerHTML = jerseyDetailTemplate(jersey, club, league, region, collection);
         root.setAttribute("aria-busy", "false");
         if (window.ImageLoader) ImageLoader.hydrate(root);
@@ -1088,6 +1149,17 @@ const Catalog = (() => {
             </li>`;
     }
 
+    // When every match belongs to the same club, offer a shortcut to that
+    // club's page instead of making people scroll a capped results list.
+    function searchViewAllClub(items) {
+        if (!items.length) return "";
+        const slug = items[0].clubSlug;
+        if (!slug || items.some((i) => i.clubSlug !== slug)) return "";
+        const club = items[0].clubName;
+        const label = I18N.t("search.viewAllClub", { count: items.length, club: esc(club) });
+        return `<a class="search__view-all" href="pages/club.html?slug=${encodeURIComponent(slug)}">${label}</a>`;
+    }
+
     function renderSearchResults(res) {
         const root = document.getElementById("searchResults");
         if (!root) return;
@@ -1106,7 +1178,8 @@ const Catalog = (() => {
         const rows = res.items.slice(0, SEARCH_RESULT_LIMIT).map(searchResultRow).join("");
         root.innerHTML = `
             <p class="search__count">${res.count} ${esc(label)}</p>
-            <ul class="search__list">${rows}</ul>`;
+            <ul class="search__list">${rows}</ul>
+            ${searchViewAllClub(res.items)}`;
         if (window.ImageLoader) ImageLoader.hydrate(root);
     }
 
@@ -1120,7 +1193,9 @@ const Catalog = (() => {
         const [products, clubs, leagues, collections] = await Promise.all([
             API.getProducts(), API.getClubs(), API.getLeagues(), API.getCollections()
         ]);
-        const engine = Search.create({ items: Filters.enrich(products, { clubs, leagues, collections }) });
+        // Newest season first (same rule as the catalog page, CS-23).
+        const sorted = [...products].sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+        const engine = Search.create({ items: Filters.enrich(sorted, { clubs, leagues, collections }) });
         Search.mount(engine, input, { onChange: renderSearchResults });
     }
 

@@ -7,13 +7,25 @@
  * before Catalog renders. The right Catalog entry point is chosen by page.
  */
 
-document.addEventListener("DOMContentLoaded", () => {
-    if (window.I18N) I18N.init();           // language switch: static strings + nav toggle (CS-19)
-    if (window.SEO) SEO.initGlobal();       // Organization + WebSite JSON-LD (every page)
-    if (window.Analytics) Analytics.init(); // load providers (if enabled) + bind auto-events
-    if (window.UI) UI.init();
+// One bootstrap step throwing must never block the rest (same "isolate
+// failures" spirit as the pipeline's per-stage error capture) -- a bug in,
+// say, the MI-03 localization bootstrap must not be able to take the whole
+// catalog grid down with it.
+function safeInit(label, fn) {
+    try { fn(); } catch (e) { if (window.console) console.error("main.js: " + label + " failed", e); }
+}
 
-    if (window.Catalog) {
+document.addEventListener("DOMContentLoaded", () => {
+    safeInit("Localization.init", () => {
+        if (window.Localization) Localization.init();  // MI-03: resolve + apply language/currency
+    });                                                  // (stored pref -> IP -> navigator -> default)
+    safeInit("I18N.init", () => { if (window.I18N) I18N.init(); });           // language switch (CS-19)
+    safeInit("SEO.initGlobal", () => { if (window.SEO) SEO.initGlobal(); });  // Organization + WebSite JSON-LD
+    safeInit("Analytics.init", () => { if (window.Analytics) Analytics.init(); }); // providers + auto-events
+    safeInit("UI.init", () => { if (window.UI) UI.init(); });
+
+    safeInit("Catalog", () => {
+        if (!window.Catalog) return;
         if (document.getElementById("catalogGrid")) Catalog.init();            // index
         if (document.getElementById("collectionDetail")) Catalog.initDetail();  // collection
         if (document.getElementById("leagueDetail")) Catalog.initLeaguePage();  // league
@@ -22,5 +34,5 @@ document.addEventListener("DOMContentLoaded", () => {
         if (document.getElementById("jerseyDetail")) Catalog.initJerseyPage();  // jersey
         if (document.getElementById("filterControls")) Catalog.initCatalogPage(); // catalog (filters)
         if (document.getElementById("searchInput")) Catalog.initSiteSearch();   // global search overlay
-    }
+    });
 });

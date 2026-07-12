@@ -1,5 +1,110 @@
 # CHANGELOG
 
+## CS-59 - Fourth correction on seleções card images: horizontal mis-centering (root cause found)
+
+Three prior rounds this cycle fixed the *vertical* framing of all 168 club/
+seleção cards (ring flush at top, ball visible at bottom) and a specific
+row2/row3 seam defect on 3 sheets. A 4th, independent defect surfaced after
+those landed: on `selecoes2.png` only, the shared `C1` crop-box x-coordinates
+(copy-pasted from a different source sheet without being re-measured for this
+one) were centered ~35px left of the badge ring's true center, cropping
+Argentina/Canada/Colombia/Curaçao with excess dark background on the left and
+the ring crowding/touching the right edge.
+
+**Root cause, precisely isolated:** only `selecoes2.png`'s **C1** column (row
+positions of Argentina, Canada, Colombia, Curaçao) was affected. Its **C2**
+column (Brasil, Chile, Costa Rica, Equador) and all 6 other `selecoes*.png`
+sheets measured correctly centered — this was a single miscalibrated
+coordinate pair, not a systemic template issue.
+
+**Method (learned from the prior round's repeat misses):** eyeballing a
+rendered crop was unreliable twice before. This time the ring's true center
+was located numerically — the flag disk's brightest horizontal band was
+measured across 4 independent rows/flags (Argentina, Canada, Colombia,
+Curaçao), all 4 independently converging on the same true center (x≈418-419
+in the 1536px source sheet, vs. the assumed x=384, a consistent +34 to +35.5
+px offset) — then verified a second way with a center-line overlay on the
+re-cropped output, confirming near-zero offset (0, -1, -1, +0.5 px) on all 4.
+A full 49-image sweep (same numeric method plus manual visual check on the 2
+flag designs the method can't measure reliably — asymmetric cantons/wedges
+like Czech Republic and USA) found no other sheet or column affected.
+
+### Fixed
+- `argentina.webp`, `canada.webp`, `colombia.webp`, `curacao.webp` — re-cropped
+  with the corrected `selecoes2.png` C1 box, ring now centered.
+
+### Verification
+- Numeric: flag-disk-center measurement on all 4 re-cropped images shows
+  ≤1px residual offset (was +34 to +35.5px).
+- Visual: center-line overlay on each of the 4 confirms symmetric margins.
+- Full 49-national-team sweep re-run post-fix: no other image flagged
+  (2 automatic false positives from asymmetric flag designs were manually
+  confirmed centered by direct visual inspection).
+
+## CS-58 - MI-03 localization: price display, IP-priority language/currency, reload-free switching
+
+Wires up the storefront half of catalog-pipeline's MI-03 Pricing &
+Internationalization Engine, which now ships `product.price` as a per-
+currency object (`{BRL,USD,EUR}`) and `product.formattedPrice` as pre-
+formatted display strings (`{"pt-BR","en-US","en-EU"}`) — no price
+calculation or number formatting ever happens in the browser.
+
+### Added
+- Price display on `jerseyCard()` (catalog grid) and `jerseyDetailTemplate()`
+  (detail page), reading `product.formattedPrice` directly via
+  `CurrencyService.formattedPriceFor()` — a plain price line, consistent
+  with the existing no-e-commerce-cue design language (no buy button, no
+  stock badge).
+- Header language (🇧🇷 Português / 🇺🇸 English) and currency
+  (R$ / US$ / €) `<select>`s, in the desktop nav and mobile menu
+  (`[data-lang-select]`/`[data-currency-select]`), wired via the new
+  `assets/js/services/localization.js` bootstrap — any number of instances
+  stay in sync via the `language:change`/`currency:change` events.
+- `assets/js/services/locationService.js` rewritten: resolves language +
+  currency by strict priority — (1) saved preference, (2) IP → country
+  (ipapi.co), (3) `navigator.language` (last resort ONLY, never primary),
+  (4) default (en-US/USD) — and persists all three (language, currency,
+  country) after first detection.
+- `assets/js/services/currencyService.js` rewritten to read the new
+  `product.price`/`product.formattedPrice` shape (previously
+  `product.metadata.pricing`, now removed from the pipeline's canonical
+  output shape).
+- `tests/localization.test.js` (Node-only, `node tests/localization.test.js`):
+  20 tests simulating access from Brazil, USA, Germany, Portugal, France,
+  Japan, Australia and Mexico, plus the "navigator.language must never be
+  primary" dangerous-example cases and persistence/manual-override behavior.
+
+### Changed
+- `assets/js/i18n.js`'s `setLang()` no longer reloads the page: persists,
+  re-renders every `[data-i18n*]` element in place, updates `<html lang>`,
+  and fires `language:change` so dynamically-rendered content (product
+  cards, detail pages) can re-render itself from already-fetched data —
+  the catalog is never re-fetched on a language or currency change. Also
+  fixes a latent stale-closure bug in `initLangToggle()`'s click handler.
+- `catalog.js` tracks the most-recently-rendered jersey grid/detail and
+  re-renders them (from the same in-memory data, no re-fetch) on
+  `language:change`/`currency:change`.
+- `scripts/gen/gen_pages.js`'s shared `NAV` template and `scripts/gen/
+  minify.js`'s `JS_FILES` updated; institutional pages + `index.html`/
+  `404.html`/the 6 hand-authored `pages/*.html` all re-generated with the
+  new header markup and script includes.
+
+### Removed
+- The old PT/EN-only `.js-lang-toggle` button (replaced by the language
+  `<select>` above) and `currencyService.js`'s client-side `format()`
+  helper (computed `symbol + amount.toFixed(2)` — replaced by
+  `formattedPriceFor()`, which only ever reads a pipeline-precomputed string).
+
+### Verification
+`node tests/localization.test.js` (20/20), `node tests/filters.test.js`,
+`node tests/search.test.js` all green. `node tests/i18n.test.js` has one
+pre-existing, unrelated failure (a translation-dictionary coverage gap for
+3 product names — "Bordô"/"já"/"Calça" — not touched by this change).
+Full visual/browser verification not performed in this session (no browser
+automation tool available) — logic verified via the Node suite instead;
+recommend a manual pass (`tests/index.html` + a local static server) before
+relying on this in production.
+
 ## CS-57 - Sync MI-40's image-collision fix (374 products) + clubId=null recovery
 
 Data-only sync of catalog-pipeline's MI-40 fix. User-reported mismatched

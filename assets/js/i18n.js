@@ -50,7 +50,8 @@
                 placeholder: "Buscar clubes, ligas, camisas…",
                 hint: "Digite para buscar camisas, clubes e ligas…",
                 noResults: "Nenhum resultado para “{query}”.",
-                resultSingular: "resultado", resultPlural: "resultados"
+                resultSingular: "resultado", resultPlural: "resultados",
+                viewAllClub: "Ver todas as {count} camisas de {club} →"
             },
             footer: {
                 about: "Sobre", howItWorks: "Como Funciona", faq: "FAQ", contact: "Contato",
@@ -120,6 +121,8 @@
                 sizesLabel: "Tamanhos",
                 consultCta: "Consultar Disponibilidade",
                 consultAriaLabel: "Consultar disponibilidade de {name} no Instagram da M11NTX",
+                sizeGuideLabel: "Guia de Tamanhos",
+                sizeGuideAlt: "Guia de tamanhos M11NTX",
                 note: "Importação sob consulta · Prazo estimado 25–40 dias corridos"
             },
             journey: {
@@ -226,7 +229,8 @@
                 placeholder: "Search clubs, leagues, jerseys…",
                 hint: "Type to search jerseys, clubs and leagues…",
                 noResults: "No results for “{query}”.",
-                resultSingular: "result", resultPlural: "results"
+                resultSingular: "result", resultPlural: "results",
+                viewAllClub: "View all {count} {club} jerseys →"
             },
             footer: {
                 about: "About", howItWorks: "How It Works", faq: "FAQ", contact: "Contact",
@@ -296,6 +300,8 @@
                 sizesLabel: "Sizes",
                 consultCta: "Check Availability",
                 consultAriaLabel: "Check availability of {name} on M11NTX's Instagram",
+                sizeGuideLabel: "Size Guide",
+                sizeGuideAlt: "M11NTX size guide",
                 note: "Import on request · Estimated delivery 25–40 calendar days"
             },
             journey: {
@@ -728,6 +734,11 @@
         }
     }
 
+    /** MI-03: no page reload -- persists, re-renders every [data-i18n*]
+     * element in place, updates <html lang>/[data-lang] + the toggle label,
+     * and fires "language:change" so dynamically-rendered content (product
+     * cards, detail pages) can re-render itself from already-fetched data
+     * (the catalog is never re-fetched on a language change). */
     function setLang(lang) {
         if (lang !== "en" && lang !== "pt") return;
         try {
@@ -735,7 +746,11 @@
                 window.localStorage.setItem(STORAGE_KEY, lang);
             }
         } catch (e) { /* no-op */ }
-        if (typeof window !== "undefined" && window.location) window.location.reload();
+        if (typeof document === "undefined") return;
+        applyStatic();
+        initLangToggle();
+        document.dispatchEvent(new CustomEvent("language:change",
+            { detail: { lang: lang, locale: lang === "pt" ? "pt-BR" : "en-US" } }));
     }
 
     function interpolate(str, vars) {
@@ -827,7 +842,12 @@
         document.querySelectorAll(".js-lang-toggle").forEach((btn) => {
             btn.textContent = t("nav.langToggleLabel");
             btn.setAttribute("aria-label", t("nav.langToggle"));
-            btn.addEventListener("click", () => setLang(lang === "en" ? "pt" : "en"));
+            // Called again after every reload-free setLang() -- guard against
+            // re-attaching a second/third click listener, and always read the
+            // CURRENT language at click time (not a stale value captured once).
+            if (btn.dataset.i18nWired) return;
+            btn.dataset.i18nWired = "1";
+            btn.addEventListener("click", () => setLang(getLang() === "en" ? "pt" : "en"));
         });
     }
 

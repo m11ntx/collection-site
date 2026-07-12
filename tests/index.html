@@ -27,14 +27,25 @@
     <!-- modules under test + fixtures + tests (no build step, no deps) -->
     <script src="../assets/js/filters.js"></script>
     <script src="../assets/js/search.js"></script>
+    <script src="../assets/js/i18n.js"></script>
+    <script src="../assets/js/services/languageService.js"></script>
+    <script src="../assets/js/services/currencyService.js"></script>
+    <script src="../assets/js/services/locationService.js"></script>
     <script src="fixtures.js"></script>
     <script src="filters.test.js"></script>
     <script src="search.test.js"></script>
+    <script src="localization.test.js"></script>
     <script>
-        (function () {
+        (async function () {
+            // localization.test.js runs async Promise chains (fake fetch
+            // simulation) -- await its report before rendering; the other
+            // suites finish synchronously the moment their script tag runs.
+            if (window.LOCALIZATION_TEST_REPORT_READY) await window.LOCALIZATION_TEST_REPORT_READY;
+
             const suites = [
                 { title: "Filters", r: window.FILTERS_TEST_REPORT },
-                { title: "Search",  r: window.SEARCH_TEST_REPORT }
+                { title: "Search",  r: window.SEARCH_TEST_REPORT },
+                { title: "Localization", r: window.LOCALIZATION_TEST_REPORT }
             ];
             const out = document.getElementById("out");
             let html = "";

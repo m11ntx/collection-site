@@ -450,6 +450,29 @@ body::after{
 }
 .nav__lang:hover{ color:var(--color-gold); border-color:var(--color-gold); }
 
+/* Language/currency selectors (MI-03) — mirrors .nav__lang's pill sizing */
+.nav__locale{ display:inline-flex; align-items:center; gap:.5rem; }
+.nav__lang-select,
+.nav__currency-select{
+    display:inline-flex;
+    align-items:center;
+    background:var(--color-black, #050505);
+    border:1px solid var(--color-border);
+    color:var(--color-gray);
+    padding:.5rem .7rem;
+    border-radius:999px;
+    font:inherit;
+    font-size:.78rem;
+    font-weight:600;
+    letter-spacing:.02em;
+    cursor:pointer;
+    transition:color var(--transition), border-color var(--transition);
+}
+.nav__lang-select:hover,
+.nav__currency-select:hover{ color:var(--color-gold); border-color:var(--color-gold); }
+.nav__lang-select option,
+.nav__currency-select option{ background:var(--color-black, #050505); color:var(--color-white); }
+
 .nav__toggle{
     display:none;
     flex-direction:column;
@@ -657,6 +680,21 @@ body::after{
     font-size:.76rem;
     letter-spacing:.04em;
 }
+.search__view-all{
+    display:block;
+    margin-top:.8rem;
+    padding-top:.9rem;
+    border-top:1px solid rgba(255,255,255,.08);
+    color:var(--color-gold);
+    font-size:.78rem;
+    font-weight:600;
+    letter-spacing:.06em;
+    text-transform:uppercase;
+    text-decoration:none;
+    text-align:center;
+}
+.search__view-all:hover,
+.search__view-all:focus-visible{ text-decoration:underline; }
 
 /* ---------- SECTION (reusable component) ---------- */
 .section{
@@ -1312,6 +1350,7 @@ body::after{
 }
 .jersey-card__name{ font-size:1.05rem; font-weight:700; }
 .jersey-card__meta{ color:var(--color-gray); font-size:.82rem; }
+.jersey-card__price{ color:var(--color-gold); font-size:.95rem; font-weight:700; margin-top:.1rem; }
 .jersey-card__cta{ align-self:flex-start; margin-top:.6rem; }
 .jersey-card__cta .arrow{ transition:transform .28s ease; }
 .jersey-card:hover .jersey-card__cta .arrow{ transform:translateX(6px); }
@@ -1395,6 +1434,7 @@ body::after{
 /* ---------- info ---------- */
 .jersey__info{ padding-top:.4rem; }
 .jersey__lead{ margin-top:.8rem; color:var(--color-gray); font-size:1rem; }
+.jersey__price{ color:var(--color-gold); font-size:1.4rem; font-weight:800; margin-top:.9rem; }
 .link{
     color:var(--color-white);
     text-decoration:none;
@@ -1464,6 +1504,25 @@ body::after{
     color:#5a5a5a;
     border-color:rgba(255,255,255,.08);
     text-decoration:line-through;
+}
+
+.jersey__size-guide{
+    grid-column:1 / -1;
+    margin-top:1rem;
+}
+.jersey__size-guide-label{
+    color:var(--color-gray);
+    font-size:.7rem;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    margin-bottom:.7rem;
+}
+.jersey__size-guide img{
+    display:block;
+    width:100%;
+    max-width:960px;
+    border:1px solid var(--color-border);
+    border-radius:12px;
 }
 
 .jersey__buy{

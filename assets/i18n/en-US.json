@@ -1,0 +1,10 @@
+{
+  "currency": {
+    "BRL": { "symbol": "R$", "label": "Brazilian Real" },
+    "USD": { "symbol": "$", "label": "US Dollar" },
+    "EUR": { "symbol": "€", "label": "Euro" }
+  },
+  "priceFrom": "From",
+  "priceUnavailable": "Price on request",
+  "currencyToggleLabel": "Currency"
+}

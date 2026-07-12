@@ -53,7 +53,17 @@
                 <li><a href="pages/about.html" class="nav__link" data-i18n="nav.about">About</a></li>
                 <li><a href="pages/contact.html" class="nav__link" data-i18n="nav.contact">Contact</a></li>
             </ul>
-            <button type="button" class="nav__lang js-lang-toggle" id="langToggle"></button>
+            <div class="nav__locale">
+                <select class="nav__lang-select" id="langSelect" data-lang-select aria-label="Language / Idioma">
+                    <option value="pt-BR">🇧🇷 Português</option>
+                    <option value="en-US">🇺🇸 English</option>
+                </select>
+                <select class="nav__currency-select" id="currencySelect" data-currency-select aria-label="Currency / Moeda">
+                    <option value="BRL">R$ BRL</option>
+                    <option value="USD">US$ USD</option>
+                    <option value="EUR">€ EUR</option>
+                </select>
+            </div>
         </nav>
     </div>
 </header>
@@ -94,6 +104,10 @@
 <script src="assets/js/i18n.min.js" defer></script>
 <script src="assets/js/seo.min.js" defer></script>
 <script src="assets/js/analytics.min.js" defer></script>
+<script src="assets/js/services/languageService.min.js" defer></script>
+<script src="assets/js/services/currencyService.min.js" defer></script>
+<script src="assets/js/services/locationService.min.js" defer></script>
+<script src="assets/js/services/localization.min.js" defer></script>
 <script src="assets/js/ui.min.js" defer></script>
 <script src="assets/js/main.min.js" defer></script>
 
