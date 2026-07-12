@@ -1,5 +1,29 @@
 # CHANGELOG
 
+## CS-60 - Language change now re-renders the current page, not just the nav; personalization note on jersey detail
+
+**Bug fix (reported after CS-58 shipped):** switching language only updated
+the nav/footer (`data-i18n` attributes, refreshed by `I18N.applyStatic()`) --
+every other page's dynamic content (collection/league/region/club detail,
+the catalog/filters page) is injected once as `root.innerHTML =
+someTemplate(...)`, built from `I18N.t()` calls evaluated at that one render
+time, so it stayed frozen in whatever language was active on first paint.
+Added a generic `_lastPageRerender` closure in `catalog.js`, set at the end
+of every `init*()` page entry point, called on `"language:change"`/
+`"currency:change"` (same event, same "never re-fetch, only re-render"
+contract the jersey grid already had). `filters.js`'s sidebar (facet
+labels/counts/reset button) got the same treatment, keyed off its own last
+result instead of re-filtering.
+
+**Personalization note (jersey detail page):** when the pipeline's new
+`personalizationAvailable`/`personalizationFormattedPrice` fields are set,
+shows "this jersey can be personalized with name and number (+price)" in
+pt-BR/en-US, using the pipeline's pre-formatted surcharge string --
+`currencyService.js` gained `personalizationFormattedPriceFor()`, mirroring
+`formattedPriceFor()`'s contract exactly (no client-side price math). See
+`catalog-pipeline`'s CHANGELOG for the pricing side (M11NTX's own fixed
+R$30 surcharge, replacing the source's scraped ~R$16 delta).
+
 ## CS-59 - Fourth correction on seleções card images: horizontal mis-centering (root cause found)
 
 Three prior rounds this cycle fixed the *vertical* framing of all 168 club/

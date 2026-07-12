@@ -474,6 +474,18 @@ const Catalog = (() => {
         return text ? `<p class="jersey-card__price">${esc(text)}</p>` : "";
     }
 
+    // Personalization (name + number printing): a plain observation, not an
+    // order option -- the source only exposes a with/without toggle (no
+    // free-text name/number field to collect), so this is display-only,
+    // matching the "M11NTX intermediates, availability confirmed via
+    // Instagram" model everywhere else on the jersey detail page.
+    function jerseyPersonalizationHtml(p) {
+        if (!p || !p.personalizationAvailable || !window.CurrencyService) return "";
+        const price = CurrencyService.personalizationFormattedPriceFor(p);
+        if (!price) return "";
+        return `<p class="jersey__personalization">${esc(I18N.t("jerseyDetail.personalizationNote", { price: price }))}</p>`;
+    }
+
     function jerseyCard(p) {
         const name = esc(I18N.translateName(p.name));
         const meta = [esc(I18N.fieldLabel("category", p.category)), esc(p.season)]
@@ -506,12 +518,24 @@ const Catalog = (() => {
     let _lastJerseyGrid = null;
     let _lastJerseyList = null;
     let _lastJerseyDetail = null;
+    // MI-03/CS-59 follow-up: every OTHER page (collections grid, collection/
+    // league/region/club detail) injects its content as one static
+    // `root.innerHTML = someTemplate(...)` string built from I18N.t() calls
+    // evaluated at render time -- unlike the nav/footer (data-i18n
+    // attributes, refreshed by I18N.applyStatic() on every language change),
+    // that HTML is baked in the CURRENT language the moment it's written and
+    // nothing re-runs those I18N.t() calls on its own. Each init*() function
+    // below sets this to a zero-arg closure that repeats its own render step
+    // (never re-fetches -- the data is already in the closure) so a
+    // language/currency change can call it again, same pattern as the
+    // jersey trackers above.
+    let _lastPageRerender = null;
 
     // MI-03: a language/currency change never re-fetches the catalog -- it
     // just re-runs the SAME render call(s) against the SAME already-fetched
-    // data still held in the two trackers above. Registered once; safe
-    // because each page loads catalog.js fresh (never re-executed on the
-    // same page) and only ever populates the tracker(s) its own page uses.
+    // data still held in the trackers above. Registered once; safe because
+    // each page loads catalog.js fresh (never re-executed on the same page)
+    // and only ever populates the tracker(s) its own page uses.
     function rerenderLocalizedContent() {
         if (_lastJerseyGrid) {
             fillGrid(_lastJerseyGrid, _lastJerseyList, jerseyCard, I18N.t("clubDetail.empty"));
@@ -523,6 +547,7 @@ const Catalog = (() => {
             if (window.ImageLoader) ImageLoader.hydrate(d.root);
             document.dispatchEvent(new CustomEvent("jersey:rendered", { detail: { root: d.root } }));
         }
+        if (_lastPageRerender) _lastPageRerender();
     }
     if (typeof document !== "undefined") {
         document.addEventListener("language:change", rerenderLocalizedContent);
@@ -711,6 +736,7 @@ const Catalog = (() => {
                     <h1 class="detail__title">${name}</h1>
                     ${lead ? `<p class="jersey__lead">${lead}</p>` : ""}
                     ${jerseyPriceHtml(p).replace("jersey-card__price", "jersey__price")}
+                    ${jerseyPersonalizationHtml(p)}
                     <dl class="specs">
                         ${specRow(I18N.t("jerseyDetail.specBrand"), esc(p.brand))}
                         ${specRow(I18N.t("jerseyDetail.specType"), esc(I18N.fieldLabel("type", p.type)))}
@@ -779,7 +805,9 @@ const Catalog = (() => {
         if (window.Analytics) Analytics.track.homeView();
         renderSkeletons(grid);
         const collections = await API.getCollections();
-        renderCollections(grid, Array.isArray(collections) ? collections : []);
+        const list = Array.isArray(collections) ? collections : [];
+        renderCollections(grid, list);
+        _lastPageRerender = () => renderCollections(grid, list);
     }
 
     async function initDetail() {
@@ -814,17 +842,20 @@ const Catalog = (() => {
             ]);
         }
         if (window.Analytics) Analytics.track.collectionView(slug);
-        root.innerHTML = detailTemplate(collection);
-        root.setAttribute("aria-busy", "false");
-        if (window.ImageLoader) ImageLoader.hydrate(root);
-
         // leagues belonging to this collection (data-driven, scalable filter)
-        const grid = document.getElementById("leaguesGrid");
         const leagues = await API.getLeagues();
         const forCollection = Array.isArray(leagues)
             ? leagues.filter((l) => l.collectionId === collection.id)
             : [];
-        renderLeagues(grid, forCollection);
+
+        const render = () => {
+            root.innerHTML = detailTemplate(collection);
+            root.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(root);
+            renderLeagues(document.getElementById("leaguesGrid"), forCollection);
+        };
+        render();
+        _lastPageRerender = render;
     }
 
     async function initLeaguePage() {
@@ -863,19 +894,24 @@ const Catalog = (() => {
             });
             SEO.breadcrumb(leagueCrumbs(collection, league));
         }
-        root.innerHTML = leagueDetailTemplate(league, collection, forLeagueRegions.length > 0);
-        root.setAttribute("aria-busy", "false");
-        if (window.ImageLoader) ImageLoader.hydrate(root);
+        // clubs belonging to this league (data-driven, scalable filter) --
+        // only used on the no-regions branch below, computed once either way
+        const forLeague = Array.isArray(clubs)
+            ? clubs.filter((cl) => cl.leagueId === league.id)
+            : [];
 
-        if (forLeagueRegions.length) {
-            renderRegions(document.getElementById("regionsGrid"), forLeagueRegions);
-        } else {
-            // clubs belonging to this league (data-driven, scalable filter)
-            const forLeague = Array.isArray(clubs)
-                ? clubs.filter((cl) => cl.leagueId === league.id)
-                : [];
-            renderClubs(document.getElementById("clubsGrid"), forLeague);
-        }
+        const render = () => {
+            root.innerHTML = leagueDetailTemplate(league, collection, forLeagueRegions.length > 0);
+            root.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(root);
+            if (forLeagueRegions.length) {
+                renderRegions(document.getElementById("regionsGrid"), forLeagueRegions);
+            } else {
+                renderClubs(document.getElementById("clubsGrid"), forLeague);
+            }
+        };
+        render();
+        _lastPageRerender = render;
     }
 
     async function initRegionPage() {
@@ -910,16 +946,19 @@ const Catalog = (() => {
             });
             SEO.breadcrumb(regionCrumbs(collection, league, region));
         }
-        root.innerHTML = regionDetailTemplate(region, league, collection);
-        root.setAttribute("aria-busy", "false");
-        if (window.ImageLoader) ImageLoader.hydrate(root);
-
         // clubs belonging to this region (data-driven, scalable filter)
-        const grid = document.getElementById("clubsGrid");
         const forRegion = Array.isArray(clubs)
             ? clubs.filter((cl) => cl.regionId === region.id)
             : [];
-        renderClubs(grid, forRegion);
+
+        const render = () => {
+            root.innerHTML = regionDetailTemplate(region, league, collection);
+            root.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(root);
+            renderClubs(document.getElementById("clubsGrid"), forRegion);
+        };
+        render();
+        _lastPageRerender = render;
     }
 
     /* ---------- segment tabs: Fan/Player/Women/Retro/Kids within a club (MI-33) ---------- */
@@ -1024,11 +1063,15 @@ const Catalog = (() => {
             SEO.breadcrumb(clubCrumbs(collection, league, region, club));
         }
         if (window.Analytics) Analytics.track.clubView(slug);
-        root.innerHTML = clubDetailTemplate(club, league, region, collection, jerseys.length);
-        root.setAttribute("aria-busy", "false");
-        if (window.ImageLoader) ImageLoader.hydrate(root);
 
-        mountSegmentTabs(document.getElementById("segmentTabs"), document.getElementById("jerseysGrid"), jerseys);
+        const render = () => {
+            root.innerHTML = clubDetailTemplate(club, league, region, collection, jerseys.length);
+            root.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(root);
+            mountSegmentTabs(document.getElementById("segmentTabs"), document.getElementById("jerseysGrid"), jerseys);
+        };
+        render();
+        _lastPageRerender = render;
     }
 
     async function initJerseyPage() {
@@ -1095,13 +1138,17 @@ const Catalog = (() => {
         const eyebrowKey = "catalogPage.eyebrow";
         const subtitleKey = "catalogPage.subtitle";
 
-        document.title = `M11NTX | ${I18N.t(titleKey)}`;
-        const titleEl = document.getElementById("catalogPageTitle");
-        const eyebrowEl = document.getElementById("catalogPageEyebrow");
-        const subtitleEl = document.getElementById("catalogPageSubtitle");
-        if (titleEl) titleEl.textContent = I18N.t(titleKey);
-        if (eyebrowEl) eyebrowEl.textContent = I18N.t(eyebrowKey);
-        if (subtitleEl) subtitleEl.textContent = I18N.t(subtitleKey);
+        const renderStaticText = () => {
+            document.title = `M11NTX | ${I18N.t(titleKey)}`;
+            const titleEl = document.getElementById("catalogPageTitle");
+            const eyebrowEl = document.getElementById("catalogPageEyebrow");
+            const subtitleEl = document.getElementById("catalogPageSubtitle");
+            if (titleEl) titleEl.textContent = I18N.t(titleKey);
+            if (eyebrowEl) eyebrowEl.textContent = I18N.t(eyebrowKey);
+            if (subtitleEl) subtitleEl.textContent = I18N.t(subtitleKey);
+        };
+        renderStaticText();
+        _lastPageRerender = renderStaticText;
         if (window.SEO) {
             SEO.set({
                 title: `M11NTX | ${I18N.t(titleKey)}`,

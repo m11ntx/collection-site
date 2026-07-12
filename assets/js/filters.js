@@ -433,7 +433,9 @@
             manualOpen.set(el.getAttribute("data-facet"), el.open);
         }, true);
 
+        let lastResult = null;
         function onResult(res) {
+            lastResult = res;
             render(res);
             if (typeof opts.onChange === "function") opts.onChange(res);
             document.dispatchEvent(new CustomEvent("filters:change", { detail: res }));
@@ -442,6 +444,15 @@
         engine.subscribe(onResult);
         render(engine.result());          // initial paint
         onResult(engine.result());        // initial notify (list + event)
+
+        // CS-59 follow-up: this sidebar's facet labels/counts/result-count/
+        // reset-button text are all resolved via t() at render() time, same
+        // "baked into innerHTML in whatever language was current" gap as
+        // catalog.js's detail pages -- a language change must re-run render()
+        // against the SAME last result (never re-filter/re-fetch).
+        if (typeof document !== "undefined") {
+            document.addEventListener("language:change", () => { if (lastResult) render(lastResult); });
+        }
         return { render };
     }
 

@@ -91,6 +91,17 @@
         return typeof text === "string" && text ? text : null;
     }
 
+    /** Same contract as formattedPriceFor(), for the personalization
+     * surcharge (product.personalizationFormattedPrice) -- null when the
+     * product has no personalization option. */
+    function personalizationFormattedPriceFor(product, currency) {
+        const cur = currency || getCurrency();
+        const locale = CURRENCY_TO_LOCALE[cur] || CURRENCY_TO_LOCALE[DEFAULT_CURRENCY];
+        const text = product && product.personalizationFormattedPrice
+            && product.personalizationFormattedPrice[locale];
+        return typeof text === "string" && text ? text : null;
+    }
+
     return {
         STORAGE_KEY: STORAGE_KEY,
         DEFAULT_CURRENCY: DEFAULT_CURRENCY,
@@ -102,5 +113,6 @@
         seedInitialCurrency: seedInitialCurrency,
         priceFor: priceFor,
         formattedPriceFor: formattedPriceFor,
+        personalizationFormattedPriceFor: personalizationFormattedPriceFor,
     };
 });

@@ -123,7 +123,8 @@
                 consultAriaLabel: "Consultar disponibilidade de {name} no Instagram da M11NTX",
                 sizeGuideLabel: "Guia de Tamanhos",
                 sizeGuideAlt: "Guia de tamanhos M11NTX",
-                note: "Importação sob consulta · Prazo estimado 25–40 dias corridos"
+                note: "Importação sob consulta · Prazo estimado 25–40 dias corridos",
+                personalizationNote: "Esta camisa pode ser personalizada com nome e número (+{price})"
             },
             journey: {
                 eyebrow: "Jornada", title: "Como Funciona",
@@ -302,7 +303,8 @@
                 consultAriaLabel: "Check availability of {name} on M11NTX's Instagram",
                 sizeGuideLabel: "Size Guide",
                 sizeGuideAlt: "M11NTX size guide",
-                note: "Import on request · Estimated delivery 25–40 calendar days"
+                note: "Import on request · Estimated delivery 25–40 calendar days",
+                personalizationNote: "This jersey can be personalized with name and number (+{price})"
             },
             journey: {
                 eyebrow: "Journey", title: "How It Works",

@@ -1435,6 +1435,7 @@ body::after{
 .jersey__info{ padding-top:.4rem; }
 .jersey__lead{ margin-top:.8rem; color:var(--color-gray); font-size:1rem; }
 .jersey__price{ color:var(--color-gold); font-size:1.4rem; font-weight:800; margin-top:.9rem; }
+.jersey__personalization{ color:var(--color-gray); font-size:.92rem; margin-top:.5rem; }
 .link{
     color:var(--color-white);
     text-decoration:none;

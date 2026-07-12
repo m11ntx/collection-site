@@ -335,6 +335,25 @@
         eq(CurrencyService.formattedPriceFor(product, "BRL"), null);
     });
 
+    test("personalizationFormattedPriceFor reads the pipeline's pre-formatted surcharge", function () {
+        const product = {
+            personalizationAvailable: true,
+            personalizationPrice: { BRL: 30.0, USD: 6.90, EUR: 5.90 },
+            personalizationFormattedPrice: { "pt-BR": "R$ 30,00", "en-US": "US$ 6.90", "en-EU": "€ 5.90" },
+        };
+        eq(CurrencyService.personalizationFormattedPriceFor(product, "BRL"), "R$ 30,00");
+        eq(CurrencyService.personalizationFormattedPriceFor(product, "USD"), "US$ 6.90");
+        eq(CurrencyService.personalizationFormattedPriceFor(product, "EUR"), "€ 5.90");
+    });
+
+    test("personalizationFormattedPriceFor returns null when personalization isn't available", function () {
+        const product = {
+            personalizationAvailable: false,
+            personalizationFormattedPrice: { "pt-BR": "", "en-US": "", "en-EU": "" },
+        };
+        eq(CurrencyService.personalizationFormattedPriceFor(product, "BRL"), null);
+    });
+
     /* ---- report ----
        Unlike filters.test.js/search.test.js (synchronous), this suite is
        async (real Promise chains) -- the report is only ready once
