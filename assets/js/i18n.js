@@ -64,7 +64,8 @@
             collections: {
                 eyebrow: "A Coleção", title: "Coleções", subtitle: "Explore a história do futebol.",
                 noscript: "Ative o JavaScript para explorar as coleções.",
-                empty: "Nenhuma coleção disponível ainda.", exploreCta: "Explorar"
+                empty: "Nenhuma coleção disponível ainda.", exploreCta: "Explorar",
+                otherTitle: "Outros"
             },
             catalogPage: {
                 eyebrow: "Acervo Completo", title: "Catálogo",
@@ -244,7 +245,8 @@
             collections: {
                 eyebrow: "The Collection", title: "Collections", subtitle: "Explore soccer history.",
                 noscript: "Enable JavaScript to explore the collections.",
-                empty: "No collections available yet.", exploreCta: "Explore"
+                empty: "No collections available yet.", exploreCta: "Explore",
+                otherTitle: "Other"
             },
             catalogPage: {
                 eyebrow: "Full Archive", title: "Catalog",

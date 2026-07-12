@@ -898,6 +898,16 @@ body::after{
     gap:1.75rem;
 }
 
+.collections__other{ margin-top:3rem; }
+.collections__other-title{
+    color:var(--color-gray);
+    font-size:.78rem;
+    font-weight:700;
+    letter-spacing:.14em;
+    text-transform:uppercase;
+    margin-bottom:1.2rem;
+}
+
 .collection-card{
     display:flex;
     flex-direction:column;
@@ -1357,7 +1367,11 @@ body::after{
 .jersey-card__name{ font-size:1.05rem; font-weight:700; }
 .jersey-card__meta{ color:var(--color-gray); font-size:.82rem; }
 .jersey-card__price{ color:var(--color-gold); font-size:.95rem; font-weight:700; margin-top:.1rem; }
-.jersey-card__cta{ align-self:flex-start; margin-top:.6rem; }
+.jersey-card__cta{
+    align-self:stretch;
+    width:100%;
+    margin-top:.6rem;
+}
 .jersey-card__cta .arrow{ transition:transform .28s ease; }
 .jersey-card:hover .jersey-card__cta .arrow{ transform:translateX(6px); }
 /* whole card clickable (stretched link), same trick as collection/club cards */

@@ -1,5 +1,43 @@
 # CHANGELOG
 
+## CS-62 - NBA + Acessórios: a separate "Outros" section for the 163 products with no club
+
+163 products (126 NBA jerseys, 37 generic accessories) had no `clubId` at
+all -- basketball and generic accessories were never modeled in this
+futebol-only catalog. catalog-pipeline now resolves them to two new flat
+collections (`nba`, `acessorios` -- no leagues/clubs, per the user's own
+choice of a single list over per-team pages). On the storefront:
+
+- `index.html` gained a second grid (`#catalogGridOther`, hidden unless
+  populated) below the existing 4 futebol collection cards, under an
+  "Outros" heading -- driven entirely by the pipeline's new
+  `collection.group === "outros"` field, never a hardcoded assumption
+  about which/how many collections exist.
+- `catalog.js`'s collection detail page (`detailTemplate`/`initDetail`) now
+  branches on whether a collection has any leagues: if not, it lists the
+  collection's jerseys directly (same flat-archive section as a club page,
+  scoped by `collectionId` instead of `clubId`) instead of an empty
+  leagues grid.
+
+## CS-61 - Mobile: breadcrumb overflow was widening the whole page; jersey card CTA button now fits the card
+
+Two real mobile bugs reported after CS-59/CS-60 shipped:
+
+1. **Page-wide horizontal overflow on the jersey detail page.**
+   `.breadcrumb` used `display:flex` with no wrap; a long product title in
+   the final (non-link) breadcrumb segment couldn't wrap, forcing the row
+   -- and with no `overflow-x` safety net on `html`/`body`, the whole page
+   -- wider than the viewport (matched the reported symptom: had to drag
+   the screen sideways to see the nav). Fixed the root cause (breadcrumb
+   wraps, the current segment can break mid-word) and added
+   `overflow-x:hidden` on `html`/`body` as a defensive net against the same
+   class of bug elsewhere.
+2. **"Ver Detalhes" button wider than its card.** `.jersey-card__cta` was
+   `align-self:flex-start` (shrinks to its own content) -- on a narrow
+   2-column mobile grid, the button's padding pushed it wider than the
+   card, visibly overflowing the card's border. Now `width:100%`, same
+   pattern as the jersey detail page's own full-width buy button.
+
 ## CS-60 - Language change now re-renders the current page, not just the nav; personalization note on jersey detail
 
 **Bug fix (reported after CS-58 shipped):** switching language only updated

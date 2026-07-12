@@ -3,7 +3,16 @@
 **Read this first when resuming in a new session.** Captures where the front-end
 is, what exists, how to run it, and what comes next — so no context is lost.
 
-_Last updated: CS-57 — synced MI-40's fix for a real image-collision bug (374 products were silently sharing photos; all now have unique paths) + recovered 47 unattributed products onto real clubs (6 new MLS clubs added). Product data is now considered validated: 4 top-level collections (Brasil, Europa, Resto do Mundo, Seleções), 167 clubs, 11 regions (added Oceania), 2726 products, zero image collisions. The remaining 158 `clubId: null` products are individually verified as out of scope (NBA jerseys, sock/short accessories) or unrecoverable (1 dead source URL), not a gap. Note: the "Status by sprint" table below and other data counts in this doc were not kept in lockstep across CS-25…CS-51 (a long run of data-only menu-import updates) — `CHANGELOG.md` is authoritative for that range; treat other counts on this page as stale until someone reconciles them._
+_Last updated: CS-62 — the "out of scope" products noted in CS-57 (NBA jerseys,
+generic accessories, ~163 of them as of 2026-07-12) are no longer unhomed:
+two new flat collections (`nba`, `acessorios`, no leagues/clubs) resolve
+them via `catalog-pipeline`'s alias-matching config, shown in a separate
+"Outros" section on the collections page (`Collection.group`). See
+`CHANGELOG.md`'s CS-62 entry. Note: the "Status by sprint" table below and
+other data counts in this doc were not kept in lockstep across CS-25…CS-51
+(a long run of data-only menu-import updates) — `CHANGELOG.md` is
+authoritative for that range; treat other counts on this page as stale
+until someone reconciles them._
 
 ---
 

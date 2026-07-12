@@ -291,8 +291,36 @@ const Catalog = (() => {
         return brandedMark("detail__mark", [220, 154], name);
     }
 
-    function detailTemplate(c) {
+    function detailTemplate(c, hasLeagues = true, jerseyCount = 0) {
         const name = esc(I18N.properNoun(c.name));
+        // A collection with no leagues/clubs of its own (NBA, Acessórios)
+        // lists its jerseys directly instead -- same "flat archive" section
+        // as a club page, just scoped by collectionId (CS-62).
+        const countLabel = jerseyCount === 1
+            ? I18N.t("clubDetail.jerseySingular") : `${jerseyCount} ${I18N.t("clubDetail.jerseyPlural")}`;
+        const listSection = hasLeagues
+            ? `<section class="section" aria-labelledby="leaguesTitle">
+                    <div class="section__inner">
+                        <header class="section__head">
+                            <p class="section__eyebrow">${I18N.t("collectionDetail.leaguesEyebrow")}</p>
+                            <h2 class="section__title" id="leaguesTitle">${I18N.t("collectionDetail.leaguesTitle")}</h2>
+                            <div class="section__divider"></div>
+                            <p class="section__subtitle">${I18N.t("collectionDetail.leaguesSubtitle", { name })}</p>
+                        </header>
+                        <div class="grid" id="leaguesGrid" role="list" aria-busy="true"></div>
+                    </div>
+               </section>`
+            : `<section class="section" aria-labelledby="jerseysTitle">
+                    <div class="section__inner">
+                        <header class="section__head">
+                            <p class="section__eyebrow">${I18N.t("clubDetail.archiveEyebrow")}</p>
+                            <h2 class="section__title" id="jerseysTitle">${I18N.t("clubDetail.jerseysTitle")}</h2>
+                            <div class="section__divider"></div>
+                            <p class="section__subtitle">${I18N.t("clubDetail.jerseysSubtitle", { countLabel, name })}</p>
+                        </header>
+                        <div class="grid" id="jerseysGrid" role="list" aria-busy="true"></div>
+                    </div>
+               </section>`;
         return `
             <nav class="breadcrumb" aria-label="Breadcrumb">
                 <a class="breadcrumb__link" href="index.html#collections">${I18N.t("breadcrumb.collections")}</a>
@@ -314,17 +342,7 @@ const Catalog = (() => {
                 <p class="detail__desc">${esc(c.description)}</p>
             </div>
 
-            <section class="section" aria-labelledby="leaguesTitle">
-                <div class="section__inner">
-                    <header class="section__head">
-                        <p class="section__eyebrow">${I18N.t("collectionDetail.leaguesEyebrow")}</p>
-                        <h2 class="section__title" id="leaguesTitle">${I18N.t("collectionDetail.leaguesTitle")}</h2>
-                        <div class="section__divider"></div>
-                        <p class="section__subtitle">${I18N.t("collectionDetail.leaguesSubtitle", { name })}</p>
-                    </header>
-                    <div class="grid" id="leaguesGrid" role="list" aria-busy="true"></div>
-                </div>
-            </section>`;
+            ${listSection}`;
     }
 
     function leagueDetailTemplate(league, collection, hasRegions) {
@@ -806,8 +824,22 @@ const Catalog = (() => {
         renderSkeletons(grid);
         const collections = await API.getCollections();
         const list = Array.isArray(collections) ? collections : [];
-        renderCollections(grid, list);
-        _lastPageRerender = () => renderCollections(grid, list);
+        // Data-driven split: any collection with group === "outros" (e.g.
+        // NBA, Acessórios -- no leagues/clubs of its own) shows in a
+        // separate, clearly-labeled section below the main futebol grid,
+        // never mixed into "Explore a história do futebol". Never assumes
+        // a fixed count on either side.
+        const main = list.filter((c) => c.group !== "outros");
+        const other = list.filter((c) => c.group === "outros");
+        const otherWrap = document.getElementById("collectionsOtherWrap");
+        const otherGrid = document.getElementById("catalogGridOther");
+        const render = () => {
+            renderCollections(grid, main);
+            if (otherWrap) otherWrap.hidden = other.length === 0;
+            if (other.length && otherGrid) renderCollections(otherGrid, other);
+        };
+        render();
+        _lastPageRerender = render;
     }
 
     async function initDetail() {
@@ -848,11 +880,28 @@ const Catalog = (() => {
             ? leagues.filter((l) => l.collectionId === collection.id)
             : [];
 
+        // A collection with no leagues/clubs of its own (NBA, Acessórios --
+        // never has a club/league hierarchy) lists its jerseys directly
+        // instead, same "flat archive" pattern as a club page, just scoped
+        // by collectionId rather than clubId (CS-62).
+        const hasLeagues = forCollection.length > 0;
+        let jerseys = [];
+        if (!hasLeagues) {
+            const products = await API.getProducts();
+            jerseys = (Array.isArray(products)
+                ? products.filter((p) => p.collectionId === collection.id)
+                : []).sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+        }
+
         const render = () => {
-            root.innerHTML = detailTemplate(collection);
+            root.innerHTML = detailTemplate(collection, hasLeagues, jerseys.length);
             root.setAttribute("aria-busy", "false");
             if (window.ImageLoader) ImageLoader.hydrate(root);
-            renderLeagues(document.getElementById("leaguesGrid"), forCollection);
+            if (hasLeagues) {
+                renderLeagues(document.getElementById("leaguesGrid"), forCollection);
+            } else {
+                renderJerseys(document.getElementById("jerseysGrid"), jerseys);
+            }
         };
         render();
         _lastPageRerender = render;
