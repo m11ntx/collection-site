@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-utah-jazz-amarela-nike-masculina",
-  "createdAt": "2026-07-09T20:31:19Z",
-  "updatedAt": "2026-07-09T20:31:19Z",
+  "createdAt": "2026-07-12T10:12:06Z",
+  "updatedAt": "2026-07-12T10:12:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11432,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 21704,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23666,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 35878,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:06Z",
+      "updatedAt": "2026-07-12T10:12:06Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 30336,
-      "createdAt": "2026-07-09T20:31:19Z",
-      "updatedAt": "2026-07-09T20:31:19Z"
+      "createdAt": "2026-07-12T10:12:06Z",
+      "updatedAt": "2026-07-12T10:12:06Z"
     }
   ]
 }

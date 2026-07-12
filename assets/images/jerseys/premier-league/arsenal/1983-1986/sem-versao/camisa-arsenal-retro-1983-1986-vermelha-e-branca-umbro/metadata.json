@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-retro-1983-1986-vermelha-e-branca-umbro",
-  "createdAt": "2026-07-09T16:35:33Z",
-  "updatedAt": "2026-07-09T16:35:33Z",
+  "createdAt": "2026-07-12T10:12:28Z",
+  "updatedAt": "2026-07-12T10:12:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8358,
-      "createdAt": "2026-07-09T16:35:32Z",
-      "updatedAt": "2026-07-09T16:35:32Z"
+      "createdAt": "2026-07-12T10:12:27Z",
+      "updatedAt": "2026-07-12T10:12:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6866,
-      "createdAt": "2026-07-09T16:35:32Z",
-      "updatedAt": "2026-07-09T16:35:32Z"
+      "createdAt": "2026-07-12T10:12:27Z",
+      "updatedAt": "2026-07-12T10:12:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13988,
-      "createdAt": "2026-07-09T16:35:33Z",
-      "updatedAt": "2026-07-09T16:35:33Z"
+      "createdAt": "2026-07-12T10:12:27Z",
+      "updatedAt": "2026-07-12T10:12:27Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19062,
-      "createdAt": "2026-07-09T16:35:33Z",
-      "updatedAt": "2026-07-09T16:35:33Z"
+      "createdAt": "2026-07-12T10:12:27Z",
+      "updatedAt": "2026-07-12T10:12:27Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 63284,
-      "createdAt": "2026-07-09T16:35:33Z",
-      "updatedAt": "2026-07-09T16:35:33Z"
+      "createdAt": "2026-07-12T10:12:27Z",
+      "updatedAt": "2026-07-12T10:12:27Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 59568,
-      "createdAt": "2026-07-09T16:35:33Z",
-      "updatedAt": "2026-07-09T16:35:33Z"
+      "createdAt": "2026-07-12T10:12:28Z",
+      "updatedAt": "2026-07-12T10:12:28Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 20802,
-      "createdAt": "2026-07-09T16:35:33Z",
-      "updatedAt": "2026-07-09T16:35:33Z"
+      "createdAt": "2026-07-12T10:12:28Z",
+      "updatedAt": "2026-07-12T10:12:28Z"
     }
   ]
 }

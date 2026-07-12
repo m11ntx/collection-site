@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-i-retro-1997-torcedor-masculina-branca-com-listras-pretas-com-patrocinio-da-coca-cola",
-  "createdAt": "2026-07-09T16:36:18Z",
-  "updatedAt": "2026-07-09T16:36:18Z",
+  "createdAt": "2026-07-12T10:18:20Z",
+  "updatedAt": "2026-07-12T10:18:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10024,
-      "createdAt": "2026-07-09T16:36:17Z",
-      "updatedAt": "2026-07-09T16:36:17Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8092,
-      "createdAt": "2026-07-09T16:36:17Z",
-      "updatedAt": "2026-07-09T16:36:17Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13296,
-      "createdAt": "2026-07-09T16:36:17Z",
-      "updatedAt": "2026-07-09T16:36:17Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 16458,
-      "createdAt": "2026-07-09T16:36:18Z",
-      "updatedAt": "2026-07-09T16:36:18Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 14406,
-      "createdAt": "2026-07-09T16:36:18Z",
-      "updatedAt": "2026-07-09T16:36:18Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 10106,
-      "createdAt": "2026-07-09T16:36:18Z",
-      "updatedAt": "2026-07-09T16:36:18Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 12510,
-      "createdAt": "2026-07-09T16:36:18Z",
-      "updatedAt": "2026-07-09T16:36:18Z"
+      "createdAt": "2026-07-12T10:18:20Z",
+      "updatedAt": "2026-07-12T10:18:20Z"
     }
   ]
 }

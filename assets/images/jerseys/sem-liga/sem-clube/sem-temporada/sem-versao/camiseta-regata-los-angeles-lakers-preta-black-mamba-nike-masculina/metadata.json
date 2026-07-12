@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-lakers-preta-black-mamba-nike-masculina",
-  "createdAt": "2026-07-09T20:30:55Z",
-  "updatedAt": "2026-07-09T20:30:55Z",
+  "createdAt": "2026-07-12T10:11:33Z",
+  "updatedAt": "2026-07-12T10:11:33Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19424,
-      "createdAt": "2026-07-09T20:30:54Z",
-      "updatedAt": "2026-07-09T20:30:54Z"
+      "createdAt": "2026-07-12T10:11:33Z",
+      "updatedAt": "2026-07-12T10:11:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 39964,
-      "createdAt": "2026-07-09T20:30:54Z",
-      "updatedAt": "2026-07-09T20:30:54Z"
+      "createdAt": "2026-07-12T10:11:33Z",
+      "updatedAt": "2026-07-12T10:11:33Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 37480,
-      "createdAt": "2026-07-09T20:30:54Z",
-      "updatedAt": "2026-07-09T20:30:54Z"
+      "createdAt": "2026-07-12T10:11:33Z",
+      "updatedAt": "2026-07-12T10:11:33Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33166,
-      "createdAt": "2026-07-09T20:30:54Z",
-      "updatedAt": "2026-07-09T20:30:54Z"
+      "createdAt": "2026-07-12T10:11:33Z",
+      "updatedAt": "2026-07-12T10:11:33Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 17272,
-      "createdAt": "2026-07-09T20:30:54Z",
-      "updatedAt": "2026-07-09T20:30:54Z"
+      "createdAt": "2026-07-12T10:11:33Z",
+      "updatedAt": "2026-07-12T10:11:33Z"
     }
   ]
 }

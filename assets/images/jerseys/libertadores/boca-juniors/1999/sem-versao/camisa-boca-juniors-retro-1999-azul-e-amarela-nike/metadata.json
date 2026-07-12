@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-boca-juniors-retro-1999-azul-e-amarela-nike",
-  "createdAt": "2026-07-09T16:36:12Z",
-  "updatedAt": "2026-07-09T16:36:12Z",
+  "createdAt": "2026-07-12T10:13:15Z",
+  "updatedAt": "2026-07-12T10:13:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12074,
-      "createdAt": "2026-07-09T16:36:11Z",
-      "updatedAt": "2026-07-09T16:36:11Z"
+      "createdAt": "2026-07-12T10:13:14Z",
+      "updatedAt": "2026-07-12T10:13:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12592,
-      "createdAt": "2026-07-09T16:36:11Z",
-      "updatedAt": "2026-07-09T16:36:11Z"
+      "createdAt": "2026-07-12T10:13:14Z",
+      "updatedAt": "2026-07-12T10:13:14Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17702,
-      "createdAt": "2026-07-09T16:36:11Z",
-      "updatedAt": "2026-07-09T16:36:11Z"
+      "createdAt": "2026-07-12T10:13:14Z",
+      "updatedAt": "2026-07-12T10:13:14Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18586,
-      "createdAt": "2026-07-09T16:36:11Z",
-      "updatedAt": "2026-07-09T16:36:11Z"
+      "createdAt": "2026-07-12T10:13:14Z",
+      "updatedAt": "2026-07-12T10:13:14Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 26596,
-      "createdAt": "2026-07-09T16:36:12Z",
-      "updatedAt": "2026-07-09T16:36:12Z"
+      "createdAt": "2026-07-12T10:13:15Z",
+      "updatedAt": "2026-07-12T10:13:15Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 58348,
-      "createdAt": "2026-07-09T16:36:12Z",
-      "updatedAt": "2026-07-09T16:36:12Z"
+      "createdAt": "2026-07-12T10:13:15Z",
+      "updatedAt": "2026-07-12T10:13:15Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 9428,
-      "createdAt": "2026-07-09T16:36:12Z",
-      "updatedAt": "2026-07-09T16:36:12Z"
+      "createdAt": "2026-07-12T10:13:15Z",
+      "updatedAt": "2026-07-12T10:13:15Z"
     }
   ]
 }

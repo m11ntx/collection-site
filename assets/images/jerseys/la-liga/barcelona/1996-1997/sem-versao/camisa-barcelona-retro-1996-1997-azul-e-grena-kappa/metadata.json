@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-retro-1996-1997-azul-e-grena-kappa",
-  "createdAt": "2026-07-09T16:43:19Z",
-  "updatedAt": "2026-07-09T16:43:19Z",
+  "createdAt": "2026-07-12T10:12:51Z",
+  "updatedAt": "2026-07-12T10:12:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15844,
-      "createdAt": "2026-07-09T16:43:18Z",
-      "updatedAt": "2026-07-09T16:43:18Z"
+      "createdAt": "2026-07-12T10:12:49Z",
+      "updatedAt": "2026-07-12T10:12:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13542,
-      "createdAt": "2026-07-09T16:43:18Z",
-      "updatedAt": "2026-07-09T16:43:18Z"
+      "createdAt": "2026-07-12T10:12:49Z",
+      "updatedAt": "2026-07-12T10:12:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 57860,
-      "createdAt": "2026-07-09T16:43:19Z",
-      "updatedAt": "2026-07-09T16:43:19Z"
+      "createdAt": "2026-07-12T10:12:50Z",
+      "updatedAt": "2026-07-12T10:12:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 62464,
-      "createdAt": "2026-07-09T16:43:19Z",
-      "updatedAt": "2026-07-09T16:43:19Z"
+      "createdAt": "2026-07-12T10:12:50Z",
+      "updatedAt": "2026-07-12T10:12:50Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 63152,
-      "createdAt": "2026-07-09T16:43:19Z",
-      "updatedAt": "2026-07-09T16:43:19Z"
+      "createdAt": "2026-07-12T10:12:50Z",
+      "updatedAt": "2026-07-12T10:12:50Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 49188,
-      "createdAt": "2026-07-09T16:43:19Z",
-      "updatedAt": "2026-07-09T16:43:19Z"
+      "createdAt": "2026-07-12T10:12:50Z",
+      "updatedAt": "2026-07-12T10:12:50Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 28310,
-      "createdAt": "2026-07-09T16:43:19Z",
-      "updatedAt": "2026-07-09T16:43:19Z"
+      "createdAt": "2026-07-12T10:12:51Z",
+      "updatedAt": "2026-07-12T10:12:51Z"
     }
   ]
 }

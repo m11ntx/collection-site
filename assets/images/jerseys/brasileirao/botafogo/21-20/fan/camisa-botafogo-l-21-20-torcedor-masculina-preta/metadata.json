@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-l-21-20-torcedor-masculina-preta",
-  "createdAt": "2026-07-05T04:24:52Z",
-  "updatedAt": "2026-07-05T04:24:52Z",
+  "createdAt": "2026-07-12T10:18:25Z",
+  "updatedAt": "2026-07-12T10:18:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6182,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9000,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 4544,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 10386,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 8066,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17662,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:24Z",
+      "updatedAt": "2026-07-12T10:18:24Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 19062,
-      "createdAt": "2026-07-05T04:24:51Z",
-      "updatedAt": "2026-07-05T04:24:51Z"
+      "createdAt": "2026-07-12T10:18:25Z",
+      "updatedAt": "2026-07-12T10:18:25Z"
     }
   ]
 }

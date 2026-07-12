@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-san-antonio-spurs-branca-nike-masculina",
-  "createdAt": "2026-07-09T20:31:18Z",
-  "updatedAt": "2026-07-09T20:31:18Z",
+  "createdAt": "2026-07-12T10:12:04Z",
+  "updatedAt": "2026-07-12T10:12:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11898,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:03Z",
+      "updatedAt": "2026-07-12T10:12:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11642,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:03Z",
+      "updatedAt": "2026-07-12T10:12:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19340,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:03Z",
+      "updatedAt": "2026-07-12T10:12:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 25524,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:04Z",
+      "updatedAt": "2026-07-12T10:12:04Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 41696,
-      "createdAt": "2026-07-09T20:31:18Z",
-      "updatedAt": "2026-07-09T20:31:18Z"
+      "createdAt": "2026-07-12T10:12:04Z",
+      "updatedAt": "2026-07-12T10:12:04Z"
     }
   ]
 }

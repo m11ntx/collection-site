@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-lyon-retro-2008-2009-amarela-umbro",
-  "createdAt": "2026-07-09T16:39:14Z",
-  "updatedAt": "2026-07-09T16:39:14Z",
+  "createdAt": "2026-07-12T10:16:30Z",
+  "updatedAt": "2026-07-12T10:16:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9838,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:29Z",
+      "updatedAt": "2026-07-12T10:16:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7400,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:29Z",
+      "updatedAt": "2026-07-12T10:16:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 37886,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:29Z",
+      "updatedAt": "2026-07-12T10:16:29Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22542,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:29Z",
+      "updatedAt": "2026-07-12T10:16:29Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 73118,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 43260,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 13646,
-      "createdAt": "2026-07-09T16:39:14Z",
-      "updatedAt": "2026-07-09T16:39:14Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     }
   ]
 }

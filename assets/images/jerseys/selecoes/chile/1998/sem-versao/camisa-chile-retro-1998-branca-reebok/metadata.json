@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chile-retro-1998-branca-reebok",
-  "createdAt": "2026-07-09T16:36:44Z",
-  "updatedAt": "2026-07-09T16:36:44Z",
+  "createdAt": "2026-07-12T10:13:53Z",
+  "updatedAt": "2026-07-12T10:13:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9534,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:52Z",
+      "updatedAt": "2026-07-12T10:13:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4368,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19580,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17120,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 17604,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 28092,
-      "createdAt": "2026-07-09T16:36:43Z",
-      "updatedAt": "2026-07-09T16:36:43Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 11990,
-      "createdAt": "2026-07-09T16:36:44Z",
-      "updatedAt": "2026-07-09T16:36:44Z"
+      "createdAt": "2026-07-12T10:13:53Z",
+      "updatedAt": "2026-07-12T10:13:53Z"
     }
   ]
 }

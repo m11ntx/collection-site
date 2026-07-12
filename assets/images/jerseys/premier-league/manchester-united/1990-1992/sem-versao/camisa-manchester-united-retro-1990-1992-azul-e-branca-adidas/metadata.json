@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-retro-1990-1992-azul-e-branca-adidas",
-  "createdAt": "2026-07-09T16:39:30Z",
-  "updatedAt": "2026-07-09T16:39:30Z",
+  "createdAt": "2026-07-12T10:16:47Z",
+  "updatedAt": "2026-07-12T10:16:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 37672,
-      "createdAt": "2026-07-09T16:39:29Z",
-      "updatedAt": "2026-07-09T16:39:29Z"
+      "createdAt": "2026-07-12T10:16:46Z",
+      "updatedAt": "2026-07-12T10:16:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 37580,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:46Z",
+      "updatedAt": "2026-07-12T10:16:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 55630,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:46Z",
+      "updatedAt": "2026-07-12T10:16:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 57054,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:47Z",
+      "updatedAt": "2026-07-12T10:16:47Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 55512,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:47Z",
+      "updatedAt": "2026-07-12T10:16:47Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 27896,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:47Z",
+      "updatedAt": "2026-07-12T10:16:47Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 60600,
-      "createdAt": "2026-07-09T16:39:30Z",
-      "updatedAt": "2026-07-09T16:39:30Z"
+      "createdAt": "2026-07-12T10:16:47Z",
+      "updatedAt": "2026-07-12T10:16:47Z"
     }
   ]
 }

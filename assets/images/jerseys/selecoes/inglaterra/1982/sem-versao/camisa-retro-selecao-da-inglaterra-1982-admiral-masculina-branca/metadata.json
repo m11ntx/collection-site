@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-inglaterra-1982-admiral-masculina-branca",
-  "createdAt": "2026-07-09T16:38:33Z",
-  "updatedAt": "2026-07-09T16:38:33Z",
+  "createdAt": "2026-07-12T10:15:07Z",
+  "updatedAt": "2026-07-12T10:15:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7754,
-      "createdAt": "2026-07-09T16:38:32Z",
-      "updatedAt": "2026-07-09T16:38:32Z"
+      "createdAt": "2026-07-12T10:15:06Z",
+      "updatedAt": "2026-07-12T10:15:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4308,
-      "createdAt": "2026-07-09T16:38:32Z",
-      "updatedAt": "2026-07-09T16:38:32Z"
+      "createdAt": "2026-07-12T10:15:06Z",
+      "updatedAt": "2026-07-12T10:15:06Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 66346,
-      "createdAt": "2026-07-09T16:38:32Z",
-      "updatedAt": "2026-07-09T16:38:32Z"
+      "createdAt": "2026-07-12T10:15:07Z",
+      "updatedAt": "2026-07-12T10:15:07Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17264,
-      "createdAt": "2026-07-09T16:38:33Z",
-      "updatedAt": "2026-07-09T16:38:33Z"
+      "createdAt": "2026-07-12T10:15:07Z",
+      "updatedAt": "2026-07-12T10:15:07Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 17738,
-      "createdAt": "2026-07-09T16:38:33Z",
-      "updatedAt": "2026-07-09T16:38:33Z"
+      "createdAt": "2026-07-12T10:15:07Z",
+      "updatedAt": "2026-07-12T10:15:07Z"
     }
   ]
 }

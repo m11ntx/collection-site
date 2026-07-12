@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-holanda-ii-2012-nike-masculina-branca",
-  "createdAt": "2026-07-09T16:42:57Z",
-  "updatedAt": "2026-07-09T16:42:57Z",
+  "createdAt": "2026-07-12T10:15:05Z",
+  "updatedAt": "2026-07-12T10:15:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8362,
-      "createdAt": "2026-07-09T16:42:56Z",
-      "updatedAt": "2026-07-09T16:42:56Z"
+      "createdAt": "2026-07-12T10:15:04Z",
+      "updatedAt": "2026-07-12T10:15:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4370,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:04Z",
+      "updatedAt": "2026-07-12T10:15:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9110,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:04Z",
+      "updatedAt": "2026-07-12T10:15:04Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24710,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:04Z",
+      "updatedAt": "2026-07-12T10:15:04Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 16688,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:04Z",
+      "updatedAt": "2026-07-12T10:15:04Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 40952,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:05Z",
+      "updatedAt": "2026-07-12T10:15:05Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 42690,
-      "createdAt": "2026-07-09T16:42:57Z",
-      "updatedAt": "2026-07-09T16:42:57Z"
+      "createdAt": "2026-07-12T10:15:05Z",
+      "updatedAt": "2026-07-12T10:15:05Z"
     }
   ]
 }

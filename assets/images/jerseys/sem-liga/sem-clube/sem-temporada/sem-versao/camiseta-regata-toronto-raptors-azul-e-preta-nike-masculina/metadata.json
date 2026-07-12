@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-toronto-raptors-azul-e-preta-nike-masculina",
-  "createdAt": "2026-07-09T20:43:53Z",
-  "updatedAt": "2026-07-09T20:43:53Z",
+  "createdAt": "2026-07-12T10:12:05Z",
+  "updatedAt": "2026-07-12T10:12:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9410,
-      "createdAt": "2026-07-09T20:43:52Z",
-      "updatedAt": "2026-07-09T20:43:52Z"
+      "createdAt": "2026-07-12T10:12:04Z",
+      "updatedAt": "2026-07-12T10:12:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11258,
-      "createdAt": "2026-07-09T20:43:52Z",
-      "updatedAt": "2026-07-09T20:43:52Z"
+      "createdAt": "2026-07-12T10:12:04Z",
+      "updatedAt": "2026-07-12T10:12:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14370,
-      "createdAt": "2026-07-09T20:43:52Z",
-      "updatedAt": "2026-07-09T20:43:52Z"
+      "createdAt": "2026-07-12T10:12:04Z",
+      "updatedAt": "2026-07-12T10:12:04Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 20108,
-      "createdAt": "2026-07-09T20:43:52Z",
-      "updatedAt": "2026-07-09T20:43:52Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 12940,
-      "createdAt": "2026-07-09T20:43:53Z",
-      "updatedAt": "2026-07-09T20:43:53Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 30764,
-      "createdAt": "2026-07-09T20:43:53Z",
-      "updatedAt": "2026-07-09T20:43:53Z"
+      "createdAt": "2026-07-12T10:12:05Z",
+      "updatedAt": "2026-07-12T10:12:05Z"
     }
   ]
 }

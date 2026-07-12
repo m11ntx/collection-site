@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-retro-2008-2009-branca-nike",
-  "createdAt": "2026-07-09T16:39:55Z",
-  "updatedAt": "2026-07-09T16:39:55Z",
+  "createdAt": "2026-07-12T10:17:27Z",
+  "updatedAt": "2026-07-12T10:17:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8008,
-      "createdAt": "2026-07-09T16:39:54Z",
-      "updatedAt": "2026-07-09T16:39:54Z"
+      "createdAt": "2026-07-12T10:17:25Z",
+      "updatedAt": "2026-07-12T10:17:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4878,
-      "createdAt": "2026-07-09T16:39:54Z",
-      "updatedAt": "2026-07-09T16:39:54Z"
+      "createdAt": "2026-07-12T10:17:25Z",
+      "updatedAt": "2026-07-12T10:17:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 38972,
-      "createdAt": "2026-07-09T16:39:54Z",
-      "updatedAt": "2026-07-09T16:39:54Z"
+      "createdAt": "2026-07-12T10:17:25Z",
+      "updatedAt": "2026-07-12T10:17:25Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 59270,
-      "createdAt": "2026-07-09T16:39:55Z",
-      "updatedAt": "2026-07-09T16:39:55Z"
+      "createdAt": "2026-07-12T10:17:25Z",
+      "updatedAt": "2026-07-12T10:17:25Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 5734,
-      "createdAt": "2026-07-09T16:39:55Z",
-      "updatedAt": "2026-07-09T16:39:55Z"
+      "createdAt": "2026-07-12T10:17:25Z",
+      "updatedAt": "2026-07-12T10:17:25Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 29818,
-      "createdAt": "2026-07-09T16:39:55Z",
-      "updatedAt": "2026-07-09T16:39:55Z"
+      "createdAt": "2026-07-12T10:17:27Z",
+      "updatedAt": "2026-07-12T10:17:27Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 41918,
-      "createdAt": "2026-07-09T16:39:55Z",
-      "updatedAt": "2026-07-09T16:39:55Z"
+      "createdAt": "2026-07-12T10:17:27Z",
+      "updatedAt": "2026-07-12T10:17:27Z"
     }
   ]
 }

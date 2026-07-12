@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-phoenix-suns-preta-nike-masculina",
-  "createdAt": "2026-07-09T20:31:13Z",
-  "updatedAt": "2026-07-09T20:31:13Z",
+  "createdAt": "2026-07-12T10:11:56Z",
+  "updatedAt": "2026-07-12T10:11:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12878,
-      "createdAt": "2026-07-09T20:31:12Z",
-      "updatedAt": "2026-07-09T20:31:12Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12916,
-      "createdAt": "2026-07-09T20:31:12Z",
-      "updatedAt": "2026-07-09T20:31:12Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23784,
-      "createdAt": "2026-07-09T20:31:12Z",
-      "updatedAt": "2026-07-09T20:31:12Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19580,
-      "createdAt": "2026-07-09T20:31:13Z",
-      "updatedAt": "2026-07-09T20:31:13Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 39378,
-      "createdAt": "2026-07-09T20:31:13Z",
-      "updatedAt": "2026-07-09T20:31:13Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 16558,
-      "createdAt": "2026-07-09T20:31:13Z",
-      "updatedAt": "2026-07-09T20:31:13Z"
+      "createdAt": "2026-07-12T10:11:56Z",
+      "updatedAt": "2026-07-12T10:11:56Z"
     }
   ]
 }

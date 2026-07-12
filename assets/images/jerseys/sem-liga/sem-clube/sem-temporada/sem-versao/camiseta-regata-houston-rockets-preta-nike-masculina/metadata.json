@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-houston-rockets-preta-nike-masculina",
-  "createdAt": "2026-07-09T20:30:46Z",
-  "updatedAt": "2026-07-09T20:30:46Z",
+  "createdAt": "2026-07-12T10:11:21Z",
+  "updatedAt": "2026-07-12T10:11:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11310,
-      "createdAt": "2026-07-09T20:30:45Z",
-      "updatedAt": "2026-07-09T20:30:45Z"
+      "createdAt": "2026-07-12T10:11:20Z",
+      "updatedAt": "2026-07-12T10:11:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 34074,
-      "createdAt": "2026-07-09T20:30:45Z",
-      "updatedAt": "2026-07-09T20:30:45Z"
+      "createdAt": "2026-07-12T10:11:20Z",
+      "updatedAt": "2026-07-12T10:11:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26060,
-      "createdAt": "2026-07-09T20:30:45Z",
-      "updatedAt": "2026-07-09T20:30:45Z"
+      "createdAt": "2026-07-12T10:11:20Z",
+      "updatedAt": "2026-07-12T10:11:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18836,
-      "createdAt": "2026-07-09T20:30:45Z",
-      "updatedAt": "2026-07-09T20:30:45Z"
+      "createdAt": "2026-07-12T10:11:21Z",
+      "updatedAt": "2026-07-12T10:11:21Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 12150,
-      "createdAt": "2026-07-09T20:30:45Z",
-      "updatedAt": "2026-07-09T20:30:45Z"
+      "createdAt": "2026-07-12T10:11:21Z",
+      "updatedAt": "2026-07-12T10:11:21Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17676,
-      "createdAt": "2026-07-09T20:30:46Z",
-      "updatedAt": "2026-07-09T20:30:46Z"
+      "createdAt": "2026-07-12T10:11:21Z",
+      "updatedAt": "2026-07-12T10:11:21Z"
     }
   ]
 }

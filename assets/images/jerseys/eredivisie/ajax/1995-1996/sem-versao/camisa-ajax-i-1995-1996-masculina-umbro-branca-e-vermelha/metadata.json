@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-i-1995-1996-masculina-umbro-branca-e-vermelha",
-  "createdAt": "2026-07-09T16:35:17Z",
-  "updatedAt": "2026-07-09T16:35:17Z",
+  "createdAt": "2026-07-12T10:10:14Z",
+  "updatedAt": "2026-07-12T10:10:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14136,
-      "createdAt": "2026-07-09T16:35:16Z",
-      "updatedAt": "2026-07-09T16:35:16Z"
+      "createdAt": "2026-07-12T10:10:13Z",
+      "updatedAt": "2026-07-12T10:10:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8482,
-      "createdAt": "2026-07-09T16:35:16Z",
-      "updatedAt": "2026-07-09T16:35:16Z"
+      "createdAt": "2026-07-12T10:10:13Z",
+      "updatedAt": "2026-07-12T10:10:13Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33272,
-      "createdAt": "2026-07-09T16:35:16Z",
-      "updatedAt": "2026-07-09T16:35:16Z"
+      "createdAt": "2026-07-12T10:10:13Z",
+      "updatedAt": "2026-07-12T10:10:13Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24374,
-      "createdAt": "2026-07-09T16:35:16Z",
-      "updatedAt": "2026-07-09T16:35:16Z"
+      "createdAt": "2026-07-12T10:10:13Z",
+      "updatedAt": "2026-07-12T10:10:13Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 61120,
-      "createdAt": "2026-07-09T16:35:16Z",
-      "updatedAt": "2026-07-09T16:35:16Z"
+      "createdAt": "2026-07-12T10:10:13Z",
+      "updatedAt": "2026-07-12T10:10:13Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 23428,
-      "createdAt": "2026-07-09T16:35:17Z",
-      "updatedAt": "2026-07-09T16:35:17Z"
+      "createdAt": "2026-07-12T10:10:14Z",
+      "updatedAt": "2026-07-12T10:10:14Z"
     }
   ]
 }

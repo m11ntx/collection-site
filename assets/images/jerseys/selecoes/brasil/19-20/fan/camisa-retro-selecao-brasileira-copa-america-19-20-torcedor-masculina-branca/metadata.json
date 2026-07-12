@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-brasileira-copa-america-19-20-torcedor-masculina-branca",
-  "createdAt": "2026-07-07T04:08:48Z",
-  "updatedAt": "2026-07-07T04:08:48Z",
+  "createdAt": "2026-07-12T10:09:46Z",
+  "updatedAt": "2026-07-12T10:09:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6858,
-      "createdAt": "2026-07-07T04:08:47Z",
-      "updatedAt": "2026-07-07T04:08:47Z"
+      "createdAt": "2026-07-12T10:09:45Z",
+      "updatedAt": "2026-07-12T10:09:45Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4734,
-      "createdAt": "2026-07-07T04:08:47Z",
-      "updatedAt": "2026-07-07T04:08:47Z"
+      "createdAt": "2026-07-12T10:09:45Z",
+      "updatedAt": "2026-07-12T10:09:45Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 305,
       "size": 7974,
-      "createdAt": "2026-07-07T04:08:47Z",
-      "updatedAt": "2026-07-07T04:08:47Z"
+      "createdAt": "2026-07-12T10:09:45Z",
+      "updatedAt": "2026-07-12T10:09:45Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 32252,
-      "createdAt": "2026-07-07T04:08:47Z",
-      "updatedAt": "2026-07-07T04:08:47Z"
+      "createdAt": "2026-07-12T10:09:46Z",
+      "updatedAt": "2026-07-12T10:09:46Z"
     }
   ]
 }

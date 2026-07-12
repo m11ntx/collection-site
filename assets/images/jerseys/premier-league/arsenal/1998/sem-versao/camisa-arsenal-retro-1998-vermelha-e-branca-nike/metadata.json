@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-retro-1998-vermelha-e-branca-nike",
-  "createdAt": "2026-07-09T16:35:36Z",
-  "updatedAt": "2026-07-09T16:35:36Z",
+  "createdAt": "2026-07-12T10:12:32Z",
+  "updatedAt": "2026-07-12T10:12:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 640,
       "size": 14792,
-      "createdAt": "2026-07-09T16:35:35Z",
-      "updatedAt": "2026-07-09T16:35:35Z"
+      "createdAt": "2026-07-12T10:12:30Z",
+      "updatedAt": "2026-07-12T10:12:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 640,
       "size": 10886,
-      "createdAt": "2026-07-09T16:35:35Z",
-      "updatedAt": "2026-07-09T16:35:35Z"
+      "createdAt": "2026-07-12T10:12:31Z",
+      "updatedAt": "2026-07-12T10:12:31Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 640,
       "size": 59126,
-      "createdAt": "2026-07-09T16:35:35Z",
-      "updatedAt": "2026-07-09T16:35:35Z"
+      "createdAt": "2026-07-12T10:12:31Z",
+      "updatedAt": "2026-07-12T10:12:31Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 640,
       "size": 84368,
-      "createdAt": "2026-07-09T16:35:36Z",
-      "updatedAt": "2026-07-09T16:35:36Z"
+      "createdAt": "2026-07-12T10:12:31Z",
+      "updatedAt": "2026-07-12T10:12:31Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 640,
       "size": 31882,
-      "createdAt": "2026-07-09T16:35:36Z",
-      "updatedAt": "2026-07-09T16:35:36Z"
+      "createdAt": "2026-07-12T10:12:31Z",
+      "updatedAt": "2026-07-12T10:12:31Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 640,
       "size": 27102,
-      "createdAt": "2026-07-09T16:35:36Z",
-      "updatedAt": "2026-07-09T16:35:36Z"
+      "createdAt": "2026-07-12T10:12:32Z",
+      "updatedAt": "2026-07-12T10:12:32Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 640,
       "size": 71024,
-      "createdAt": "2026-07-09T16:35:36Z",
-      "updatedAt": "2026-07-09T16:35:36Z"
+      "createdAt": "2026-07-12T10:12:32Z",
+      "updatedAt": "2026-07-12T10:12:32Z"
     }
   ]
 }

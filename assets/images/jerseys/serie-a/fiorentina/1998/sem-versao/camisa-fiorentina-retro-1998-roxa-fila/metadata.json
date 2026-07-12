@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fiorentina-retro-1998-roxa-fila",
-  "createdAt": "2026-07-09T16:38:18Z",
-  "updatedAt": "2026-07-09T16:38:18Z",
+  "createdAt": "2026-07-12T10:14:37Z",
+  "updatedAt": "2026-07-12T10:14:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12540,
-      "createdAt": "2026-07-09T16:38:17Z",
-      "updatedAt": "2026-07-09T16:38:17Z"
+      "createdAt": "2026-07-12T10:14:36Z",
+      "updatedAt": "2026-07-12T10:14:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8168,
-      "createdAt": "2026-07-09T16:38:17Z",
-      "updatedAt": "2026-07-09T16:38:17Z"
+      "createdAt": "2026-07-12T10:14:36Z",
+      "updatedAt": "2026-07-12T10:14:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 39796,
-      "createdAt": "2026-07-09T16:38:17Z",
-      "updatedAt": "2026-07-09T16:38:17Z"
+      "createdAt": "2026-07-12T10:14:36Z",
+      "updatedAt": "2026-07-12T10:14:36Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 32700,
-      "createdAt": "2026-07-09T16:38:18Z",
-      "updatedAt": "2026-07-09T16:38:18Z"
+      "createdAt": "2026-07-12T10:14:36Z",
+      "updatedAt": "2026-07-12T10:14:36Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 29374,
-      "createdAt": "2026-07-09T16:38:18Z",
-      "updatedAt": "2026-07-09T16:38:18Z"
+      "createdAt": "2026-07-12T10:14:36Z",
+      "updatedAt": "2026-07-12T10:14:36Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 22714,
-      "createdAt": "2026-07-09T16:38:18Z",
-      "updatedAt": "2026-07-09T16:38:18Z"
+      "createdAt": "2026-07-12T10:14:37Z",
+      "updatedAt": "2026-07-12T10:14:37Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 31748,
-      "createdAt": "2026-07-09T16:38:18Z",
-      "updatedAt": "2026-07-09T16:38:18Z"
+      "createdAt": "2026-07-12T10:14:37Z",
+      "updatedAt": "2026-07-12T10:14:37Z"
     }
   ]
 }

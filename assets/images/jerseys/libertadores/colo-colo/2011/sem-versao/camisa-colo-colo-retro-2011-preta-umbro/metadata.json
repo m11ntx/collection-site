@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-colo-colo-retro-2011-preta-umbro",
-  "createdAt": "2026-07-09T16:36:51Z",
-  "updatedAt": "2026-07-09T16:36:51Z",
+  "createdAt": "2026-07-12T10:14:05Z",
+  "updatedAt": "2026-07-12T10:14:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13246,
-      "createdAt": "2026-07-09T16:36:50Z",
-      "updatedAt": "2026-07-09T16:36:50Z"
+      "createdAt": "2026-07-12T10:14:04Z",
+      "updatedAt": "2026-07-12T10:14:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12340,
-      "createdAt": "2026-07-09T16:36:51Z",
-      "updatedAt": "2026-07-09T16:36:51Z"
+      "createdAt": "2026-07-12T10:14:05Z",
+      "updatedAt": "2026-07-12T10:14:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 32484,
-      "createdAt": "2026-07-09T16:36:51Z",
-      "updatedAt": "2026-07-09T16:36:51Z"
+      "createdAt": "2026-07-12T10:14:05Z",
+      "updatedAt": "2026-07-12T10:14:05Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24952,
-      "createdAt": "2026-07-09T16:36:51Z",
-      "updatedAt": "2026-07-09T16:36:51Z"
+      "createdAt": "2026-07-12T10:14:05Z",
+      "updatedAt": "2026-07-12T10:14:05Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 58052,
-      "createdAt": "2026-07-09T16:36:51Z",
-      "updatedAt": "2026-07-09T16:36:51Z"
+      "createdAt": "2026-07-12T10:14:05Z",
+      "updatedAt": "2026-07-12T10:14:05Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 25304,
-      "createdAt": "2026-07-09T16:36:51Z",
-      "updatedAt": "2026-07-09T16:36:51Z"
+      "createdAt": "2026-07-12T10:14:05Z",
+      "updatedAt": "2026-07-12T10:14:05Z"
     }
   ]
 }

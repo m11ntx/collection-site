@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-minnesota-timberwolves-preta-nike-masculina",
-  "createdAt": "2026-07-09T20:43:49Z",
-  "updatedAt": "2026-07-09T20:43:49Z",
+  "createdAt": "2026-07-12T10:11:47Z",
+  "updatedAt": "2026-07-12T10:11:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13476,
-      "createdAt": "2026-07-09T20:43:48Z",
-      "updatedAt": "2026-07-09T20:43:48Z"
+      "createdAt": "2026-07-12T10:11:46Z",
+      "updatedAt": "2026-07-12T10:11:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 16206,
-      "createdAt": "2026-07-09T20:43:48Z",
-      "updatedAt": "2026-07-09T20:43:48Z"
+      "createdAt": "2026-07-12T10:11:46Z",
+      "updatedAt": "2026-07-12T10:11:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28676,
-      "createdAt": "2026-07-09T20:43:48Z",
-      "updatedAt": "2026-07-09T20:43:48Z"
+      "createdAt": "2026-07-12T10:11:46Z",
+      "updatedAt": "2026-07-12T10:11:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 27694,
-      "createdAt": "2026-07-09T20:43:49Z",
-      "updatedAt": "2026-07-09T20:43:49Z"
+      "createdAt": "2026-07-12T10:11:46Z",
+      "updatedAt": "2026-07-12T10:11:46Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 25994,
-      "createdAt": "2026-07-09T20:43:49Z",
-      "updatedAt": "2026-07-09T20:43:49Z"
+      "createdAt": "2026-07-12T10:11:47Z",
+      "updatedAt": "2026-07-12T10:11:47Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20148,
-      "createdAt": "2026-07-09T20:43:49Z",
-      "updatedAt": "2026-07-09T20:43:49Z"
+      "createdAt": "2026-07-12T10:11:47Z",
+      "updatedAt": "2026-07-12T10:11:47Z"
     }
   ]
 }

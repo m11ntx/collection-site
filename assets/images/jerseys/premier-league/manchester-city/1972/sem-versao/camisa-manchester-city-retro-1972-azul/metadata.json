@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-retro-1972-azul",
-  "createdAt": "2026-07-09T16:39:16Z",
-  "updatedAt": "2026-07-09T16:39:16Z",
+  "createdAt": "2026-07-12T10:16:31Z",
+  "updatedAt": "2026-07-12T10:16:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5804,
-      "createdAt": "2026-07-09T16:39:15Z",
-      "updatedAt": "2026-07-09T16:39:15Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4204,
-      "createdAt": "2026-07-09T16:39:15Z",
-      "updatedAt": "2026-07-09T16:39:15Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22794,
-      "createdAt": "2026-07-09T16:39:15Z",
-      "updatedAt": "2026-07-09T16:39:15Z"
+      "createdAt": "2026-07-12T10:16:30Z",
+      "updatedAt": "2026-07-12T10:16:30Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 9506,
-      "createdAt": "2026-07-09T16:39:15Z",
-      "updatedAt": "2026-07-09T16:39:15Z"
+      "createdAt": "2026-07-12T10:16:31Z",
+      "updatedAt": "2026-07-12T10:16:31Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 77382,
-      "createdAt": "2026-07-09T16:39:16Z",
-      "updatedAt": "2026-07-09T16:39:16Z"
+      "createdAt": "2026-07-12T10:16:31Z",
+      "updatedAt": "2026-07-12T10:16:31Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 10888,
-      "createdAt": "2026-07-09T16:39:16Z",
-      "updatedAt": "2026-07-09T16:39:16Z"
+      "createdAt": "2026-07-12T10:16:31Z",
+      "updatedAt": "2026-07-12T10:16:31Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 33582,
-      "createdAt": "2026-07-09T16:39:16Z",
-      "updatedAt": "2026-07-09T16:39:16Z"
+      "createdAt": "2026-07-12T10:16:31Z",
+      "updatedAt": "2026-07-12T10:16:31Z"
     }
   ]
 }
