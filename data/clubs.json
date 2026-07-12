@@ -7,7 +7,7 @@
     "name": "AIK",
     "country": "Sweden",
     "badge": null,
-    "image": null
+    "image": "aik"
   },
   {
     "id": "america-mineiro",
@@ -17,7 +17,7 @@
     "name": "América Mineiro",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "america-mineiro"
   },
   {
     "id": "athletico-paranaense",
@@ -27,7 +27,7 @@
     "name": "Athletico Paranaense",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "athletico-paranaense"
   },
   {
     "id": "atletico-mineiro",
@@ -37,7 +37,7 @@
     "name": "Atlético Mineiro",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "atletico-mineiro"
   },
   {
     "id": "avai",
@@ -47,7 +47,7 @@
     "name": "Avaí",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "avai"
   },
   {
     "id": "bahia",
@@ -57,7 +57,7 @@
     "name": "Bahia",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "bahia"
   },
   {
     "id": "botafogo",
@@ -67,7 +67,7 @@
     "name": "Botafogo",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "botafogo"
   },
   {
     "id": "bragantino",
@@ -77,7 +77,7 @@
     "name": "Red Bull Bragantino",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "bragantino"
   },
   {
     "id": "ceara",
@@ -87,7 +87,7 @@
     "name": "Ceará",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "ceara"
   },
   {
     "id": "chapecoense",
@@ -97,7 +97,7 @@
     "name": "Chapecoense",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "chapecoense"
   },
   {
     "id": "corinthians",
@@ -107,7 +107,7 @@
     "name": "Corinthians",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "corinthians"
   },
   {
     "id": "cruzeiro",
@@ -117,7 +117,7 @@
     "name": "Cruzeiro",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "cruzeiro"
   },
   {
     "id": "flamengo",
@@ -127,7 +127,7 @@
     "name": "Flamengo",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "flamengo"
   },
   {
     "id": "fluminense",
@@ -137,7 +137,7 @@
     "name": "Fluminense",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "fluminense"
   },
   {
     "id": "fortaleza",
@@ -147,7 +147,7 @@
     "name": "Fortaleza",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "fortaleza"
   },
   {
     "id": "gremio",
@@ -157,7 +157,7 @@
     "name": "Grêmio",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "gremio"
   },
   {
     "id": "internacional",
@@ -167,7 +167,7 @@
     "name": "Internacional",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "internacional"
   },
   {
     "id": "nautico",
@@ -177,7 +177,7 @@
     "name": "Náutico",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "nautico"
   },
   {
     "id": "palmeiras",
@@ -187,7 +187,7 @@
     "name": "Palmeiras",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "palmeiras"
   },
   {
     "id": "paysandu",
@@ -197,7 +197,7 @@
     "name": "Paysandu",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "paysandu"
   },
   {
     "id": "ponte-preta",
@@ -207,7 +207,7 @@
     "name": "Ponte Preta",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "ponte-preta"
   },
   {
     "id": "remo",
@@ -217,7 +217,7 @@
     "name": "Remo",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "remo"
   },
   {
     "id": "santa-cruz",
@@ -227,7 +227,7 @@
     "name": "Santa Cruz",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "santa-cruz"
   },
   {
     "id": "santos",
@@ -237,7 +237,7 @@
     "name": "Santos",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "santos"
   },
   {
     "id": "sao-paulo",
@@ -247,7 +247,7 @@
     "name": "São Paulo",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "sao-paulo"
   },
   {
     "id": "sport",
@@ -257,7 +257,7 @@
     "name": "Sport Recife",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "sport"
   },
   {
     "id": "vasco-da-gama",
@@ -267,7 +267,7 @@
     "name": "Vasco da Gama",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "vasco-da-gama"
   },
   {
     "id": "vitoria",
@@ -277,7 +277,7 @@
     "name": "Vitória",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "vitoria"
   },
   {
     "id": "bayer-leverkusen",
@@ -287,27 +287,27 @@
     "name": "Bayer Leverkusen",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "bayer-leverkusen"
   },
   {
     "id": "bayern-munich",
     "leagueId": "bundesliga",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "bayern-munich",
     "name": "Bayern Munich",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "bayern-munich"
   },
   {
     "id": "borussia-dortmund",
     "leagueId": "bundesliga",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "borussia-dortmund",
     "name": "Borussia Dortmund",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "borussia-dortmund"
   },
   {
     "id": "borussia-monchengladbach",
@@ -317,7 +317,7 @@
     "name": "Borussia Mönchengladbach",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "borussia-monchengladbach"
   },
   {
     "id": "eintracht-frankfurt",
@@ -327,7 +327,7 @@
     "name": "Eintracht Frankfurt",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "eintracht-frankfurt"
   },
   {
     "id": "fc-heidenheim",
@@ -337,7 +337,7 @@
     "name": "1. FC Heidenheim",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "fc-heidenheim"
   },
   {
     "id": "rb-leipzig",
@@ -347,7 +347,7 @@
     "name": "RB Leipzig",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "rb-leipzig"
   },
   {
     "id": "ajax",
@@ -357,7 +357,7 @@
     "name": "Ajax",
     "country": "Netherlands",
     "badge": null,
-    "image": null
+    "image": "ajax"
   },
   {
     "id": "psv",
@@ -367,7 +367,7 @@
     "name": "PSV Eindhoven",
     "country": "Netherlands",
     "badge": null,
-    "image": null
+    "image": "psv"
   },
   {
     "id": "athletic-bilbao",
@@ -377,27 +377,27 @@
     "name": "Athletic Bilbao",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "athletic-bilbao"
   },
   {
     "id": "atletico-madrid",
     "leagueId": "la-liga",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "atletico-madrid",
     "name": "Atlético Madrid",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "atletico-madrid"
   },
   {
     "id": "barcelona",
     "leagueId": "la-liga",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "barcelona",
     "name": "Barcelona",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "barcelona"
   },
   {
     "id": "real-betis",
@@ -407,17 +407,17 @@
     "name": "Real Betis",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "real-betis"
   },
   {
     "id": "real-madrid",
     "leagueId": "la-liga",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "real-madrid",
     "name": "Real Madrid",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "real-madrid"
   },
   {
     "id": "america-mexico",
@@ -427,7 +427,7 @@
     "name": "América de México",
     "country": "Mexico",
     "badge": null,
-    "image": null
+    "image": "america-mexico"
   },
   {
     "id": "boca-juniors",
@@ -437,7 +437,7 @@
     "name": "Boca Juniors",
     "country": "Argentina",
     "badge": null,
-    "image": null
+    "image": "boca-juniors"
   },
   {
     "id": "cerro-portenho",
@@ -447,7 +447,7 @@
     "name": "Cerro Porteño",
     "country": "Paraguay",
     "badge": null,
-    "image": null
+    "image": "cerro-portenho"
   },
   {
     "id": "chivas",
@@ -457,7 +457,7 @@
     "name": "Chivas Guadalajara",
     "country": "Mexico",
     "badge": null,
-    "image": null
+    "image": "chivas"
   },
   {
     "id": "colo-colo",
@@ -467,7 +467,7 @@
     "name": "Colo-Colo",
     "country": "Chile",
     "badge": null,
-    "image": null
+    "image": "colo-colo"
   },
   {
     "id": "desportivo-palestino",
@@ -477,7 +477,17 @@
     "name": "Deportivo Palestino",
     "country": "Chile",
     "badge": null,
-    "image": null
+    "image": "desportivo-palestino"
+  },
+  {
+    "id": "nacional-uruguai",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "nacional-uruguai",
+    "name": "Nacional",
+    "country": "Uruguay",
+    "badge": null,
+    "image": "nacional-uruguai"
   },
   {
     "id": "olimpia",
@@ -487,7 +497,7 @@
     "name": "Olimpia",
     "country": "Paraguay",
     "badge": null,
-    "image": null
+    "image": "olimpia"
   },
   {
     "id": "penarol",
@@ -497,7 +507,7 @@
     "name": "Peñarol",
     "country": "Uruguay",
     "badge": null,
-    "image": null
+    "image": "penarol"
   },
   {
     "id": "river-plate",
@@ -507,7 +517,7 @@
     "name": "River Plate",
     "country": "Argentina",
     "badge": null,
-    "image": null
+    "image": "river-plate"
   },
   {
     "id": "san-lorenzo",
@@ -517,7 +527,7 @@
     "name": "San Lorenzo",
     "country": "Argentina",
     "badge": null,
-    "image": null
+    "image": "san-lorenzo"
   },
   {
     "id": "santiago-wanderers",
@@ -527,7 +537,7 @@
     "name": "Santiago Wanderers",
     "country": "Chile",
     "badge": null,
-    "image": null
+    "image": "santiago-wanderers"
   },
   {
     "id": "tigres-do-mexico",
@@ -537,7 +547,7 @@
     "name": "Tigres UANL",
     "country": "Mexico",
     "badge": null,
-    "image": null
+    "image": "tigres-do-mexico"
   },
   {
     "id": "universidad-do-chile",
@@ -547,7 +557,7 @@
     "name": "Universidad de Chile",
     "country": "Chile",
     "badge": null,
-    "image": null
+    "image": "universidad-do-chile"
   },
   {
     "id": "lille",
@@ -557,7 +567,7 @@
     "name": "Lille OSC",
     "country": "France",
     "badge": null,
-    "image": null
+    "image": "lille"
   },
   {
     "id": "lorient",
@@ -567,7 +577,7 @@
     "name": "FC Lorient",
     "country": "France",
     "badge": null,
-    "image": null
+    "image": "lorient"
   },
   {
     "id": "lyon",
@@ -577,27 +587,27 @@
     "name": "Olympique Lyonnais",
     "country": "France",
     "badge": null,
-    "image": null
+    "image": "lyon"
   },
   {
     "id": "marseille",
     "leagueId": "ligue-1",
     "regionId": null,
     "slug": "marseille",
-    "name": "Marseille",
-    "country": null,
+    "name": "Olympique de Marseille",
+    "country": "France",
     "badge": null,
-    "image": null
+    "image": "marseille"
   },
   {
     "id": "paris-saint-germain",
     "leagueId": "ligue-1",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "paris-saint-germain",
     "name": "Paris Saint-Germain",
     "country": "France",
     "badge": null,
-    "image": null
+    "image": "paris-saint-germain"
   },
   {
     "id": "atlanta-united",
@@ -607,7 +617,7 @@
     "name": "Atlanta United",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "atlanta-united"
   },
   {
     "id": "austin-fc",
@@ -617,7 +627,7 @@
     "name": "Austin FC",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "austin-fc"
   },
   {
     "id": "cf-montreal",
@@ -627,7 +637,7 @@
     "name": "CF Montréal",
     "country": "Canada",
     "badge": null,
-    "image": null
+    "image": "cf-montreal"
   },
   {
     "id": "charlotte-fc",
@@ -637,7 +647,7 @@
     "name": "Charlotte FC",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "charlotte-fc"
   },
   {
     "id": "chicago-fc",
@@ -647,7 +657,7 @@
     "name": "Chicago FC",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "chicago-fc"
   },
   {
     "id": "colorado-rapids",
@@ -657,7 +667,7 @@
     "name": "Colorado Rapids",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "colorado-rapids"
   },
   {
     "id": "columbus-crew",
@@ -667,7 +677,7 @@
     "name": "Columbus Crew",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "columbus-crew"
   },
   {
     "id": "dc-united",
@@ -677,7 +687,7 @@
     "name": "DC United",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "dc-united"
   },
   {
     "id": "fc-cincinnati",
@@ -687,7 +697,7 @@
     "name": "FC Cincinnati",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "fc-cincinnati"
   },
   {
     "id": "fc-dallas",
@@ -697,7 +707,7 @@
     "name": "FC Dallas",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "fc-dallas"
   },
   {
     "id": "houston-dyanmo",
@@ -707,7 +717,7 @@
     "name": "Houston Dynamo",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "houston-dyanmo"
   },
   {
     "id": "inter-miami",
@@ -717,7 +727,7 @@
     "name": "Inter Miami",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "inter-miami"
   },
   {
     "id": "la-galaxy",
@@ -727,7 +737,7 @@
     "name": "LA Galaxy",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "la-galaxy"
   },
   {
     "id": "los-angeles-fc",
@@ -737,7 +747,7 @@
     "name": "Los Angeles FC",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "los-angeles-fc"
   },
   {
     "id": "minnesota",
@@ -747,7 +757,7 @@
     "name": "Minnesota United",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "minnesota"
   },
   {
     "id": "new-england-revolution",
@@ -757,7 +767,7 @@
     "name": "New England Revolution",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "new-england-revolution"
   },
   {
     "id": "new-york-city-fc",
@@ -767,7 +777,7 @@
     "name": "New York City FC",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "new-york-city-fc"
   },
   {
     "id": "new-york-red-bull",
@@ -777,7 +787,7 @@
     "name": "New York Red Bulls",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "new-york-red-bull"
   },
   {
     "id": "orlando-city",
@@ -787,7 +797,7 @@
     "name": "Orlando City",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "orlando-city"
   },
   {
     "id": "philadelphia-fc",
@@ -797,7 +807,7 @@
     "name": "Philadelphia Union",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "philadelphia-fc"
   },
   {
     "id": "portland-timbers-fc",
@@ -807,7 +817,7 @@
     "name": "Portland Timbers",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "portland-timbers-fc"
   },
   {
     "id": "real-salt-lake",
@@ -817,7 +827,7 @@
     "name": "Real Salt Lake",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "real-salt-lake"
   },
   {
     "id": "san-jose-earthquakes",
@@ -827,7 +837,7 @@
     "name": "San Jose Earthquakes",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "san-jose-earthquakes"
   },
   {
     "id": "seattle-fc",
@@ -837,7 +847,7 @@
     "name": "Seattle Sounders",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "seattle-fc"
   },
   {
     "id": "sporting-kansas-city",
@@ -847,7 +857,7 @@
     "name": "Sporting Kansas City",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "sporting-kansas-city"
   },
   {
     "id": "st-louis-city",
@@ -857,7 +867,7 @@
     "name": "St. Louis City",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "st-louis-city"
   },
   {
     "id": "toronto",
@@ -867,17 +877,17 @@
     "name": "Toronto FC",
     "country": "Canada",
     "badge": null,
-    "image": null
+    "image": "toronto"
   },
   {
     "id": "arsenal",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "arsenal",
     "name": "Arsenal",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "arsenal"
   },
   {
     "id": "aston-villa",
@@ -887,17 +897,17 @@
     "name": "Aston Villa",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "aston-villa"
   },
   {
     "id": "chelsea",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "chelsea",
     "name": "Chelsea",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "chelsea"
   },
   {
     "id": "crystal-palace",
@@ -907,7 +917,7 @@
     "name": "Crystal Palace",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "crystal-palace"
   },
   {
     "id": "everton",
@@ -917,7 +927,7 @@
     "name": "Everton",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "everton"
   },
   {
     "id": "leeds-united",
@@ -927,37 +937,37 @@
     "name": "Leeds United",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "leeds-united"
   },
   {
     "id": "liverpool",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "liverpool",
     "name": "Liverpool",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "liverpool"
   },
   {
     "id": "manchester-city",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "manchester-city",
     "name": "Manchester City",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "manchester-city"
   },
   {
     "id": "manchester-united",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "manchester-united",
     "name": "Manchester United",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "manchester-united"
   },
   {
     "id": "newcastle-united",
@@ -967,7 +977,7 @@
     "name": "Newcastle United",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "newcastle-united"
   },
   {
     "id": "nottingham-forest",
@@ -977,7 +987,7 @@
     "name": "Nottingham Forest",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "nottingham-forest"
   },
   {
     "id": "sheffield-united",
@@ -987,17 +997,17 @@
     "name": "Sheffield United",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "sheffield-united"
   },
   {
     "id": "tottenham",
     "leagueId": "premier-league",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "tottenham",
     "name": "Tottenham Hotspur",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "tottenham"
   },
   {
     "id": "wolverhampton-wanderers",
@@ -1007,7 +1017,7 @@
     "name": "Wolverhampton Wanderers",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "wolverhampton-wanderers"
   },
   {
     "id": "benfica",
@@ -1017,7 +1027,7 @@
     "name": "Benfica",
     "country": "Portugal",
     "badge": null,
-    "image": null
+    "image": "benfica"
   },
   {
     "id": "fc-porto",
@@ -1027,7 +1037,7 @@
     "name": "FC Porto",
     "country": "Portugal",
     "badge": null,
-    "image": null
+    "image": "fc-porto"
   },
   {
     "id": "sporting-cp",
@@ -1037,7 +1047,7 @@
     "name": "Sporting CP",
     "country": "Portugal",
     "badge": null,
-    "image": null
+    "image": "sporting-cp"
   },
   {
     "id": "al-hilal",
@@ -1047,7 +1057,7 @@
     "name": "Al Hilal",
     "country": "Saudi Arabia",
     "badge": null,
-    "image": null
+    "image": "al-hilal"
   },
   {
     "id": "al-nassr",
@@ -1057,7 +1067,7 @@
     "name": "Al Nassr",
     "country": "Saudi Arabia",
     "badge": null,
-    "image": null
+    "image": "al-nassr"
   },
   {
     "id": "celtic",
@@ -1067,7 +1077,7 @@
     "name": "Celtic",
     "country": "Scotland",
     "badge": null,
-    "image": null
+    "image": "celtic"
   },
   {
     "id": "rangers",
@@ -1077,7 +1087,7 @@
     "name": "Rangers",
     "country": "Scotland",
     "badge": null,
-    "image": null
+    "image": "rangers"
   },
   {
     "id": "alemanha",
@@ -1087,7 +1097,7 @@
     "name": "Alemanha",
     "country": "Germany",
     "badge": null,
-    "image": null
+    "image": "alemanha"
   },
   {
     "id": "argelia",
@@ -1097,7 +1107,7 @@
     "name": "Argélia",
     "country": "Algeria",
     "badge": null,
-    "image": null
+    "image": "argelia"
   },
   {
     "id": "argentina",
@@ -1107,7 +1117,7 @@
     "name": "Argentina",
     "country": "Argentina",
     "badge": null,
-    "image": null
+    "image": "argentina"
   },
   {
     "id": "austria",
@@ -1117,7 +1127,7 @@
     "name": "Áustria",
     "country": "Austria",
     "badge": null,
-    "image": null
+    "image": "austria"
   },
   {
     "id": "belgica",
@@ -1127,7 +1137,7 @@
     "name": "Bélgica",
     "country": "Belgium",
     "badge": null,
-    "image": null
+    "image": "belgica"
   },
   {
     "id": "brasil",
@@ -1137,7 +1147,7 @@
     "name": "Brasil",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "brasil"
   },
   {
     "id": "cabo-verde",
@@ -1147,7 +1157,7 @@
     "name": "Cabo Verde",
     "country": "Cape Verde",
     "badge": null,
-    "image": null
+    "image": "cabo-verde"
   },
   {
     "id": "canada",
@@ -1157,7 +1167,7 @@
     "name": "Canadá",
     "country": "Canada",
     "badge": null,
-    "image": null
+    "image": "canada"
   },
   {
     "id": "chile",
@@ -1167,7 +1177,7 @@
     "name": "Chile",
     "country": "Chile",
     "badge": null,
-    "image": null
+    "image": "chile"
   },
   {
     "id": "colombia",
@@ -1177,7 +1187,7 @@
     "name": "Colômbia",
     "country": "Colombia",
     "badge": null,
-    "image": null
+    "image": "colombia"
   },
   {
     "id": "coreia-do-sul",
@@ -1187,7 +1197,7 @@
     "name": "Coreia do Sul",
     "country": "South Korea",
     "badge": null,
-    "image": null
+    "image": "coreia-do-sul"
   },
   {
     "id": "costa-rica",
@@ -1197,7 +1207,7 @@
     "name": "Costa Rica",
     "country": "Costa Rica",
     "badge": null,
-    "image": null
+    "image": "costa-rica"
   },
   {
     "id": "croacia",
@@ -1207,7 +1217,7 @@
     "name": "Croácia",
     "country": "Croatia",
     "badge": null,
-    "image": null
+    "image": "croacia"
   },
   {
     "id": "curacao",
@@ -1217,7 +1227,7 @@
     "name": "Curaçau",
     "country": "Curaçao",
     "badge": null,
-    "image": null
+    "image": "curacao"
   },
   {
     "id": "dinamarca",
@@ -1227,7 +1237,7 @@
     "name": "Dinamarca",
     "country": "Denmark",
     "badge": null,
-    "image": null
+    "image": "dinamarca"
   },
   {
     "id": "emirados-arabes-unidos",
@@ -1237,7 +1247,7 @@
     "name": "Emirados Árabes Unidos",
     "country": "United Arab Emirates",
     "badge": null,
-    "image": null
+    "image": "emirados-arabes-unidos"
   },
   {
     "id": "equador",
@@ -1247,7 +1257,7 @@
     "name": "Equador",
     "country": "Ecuador",
     "badge": null,
-    "image": null
+    "image": "equador"
   },
   {
     "id": "escocia",
@@ -1257,7 +1267,7 @@
     "name": "Escócia",
     "country": "Scotland",
     "badge": null,
-    "image": null
+    "image": "escocia"
   },
   {
     "id": "espanha",
@@ -1267,7 +1277,7 @@
     "name": "Espanha",
     "country": "Spain",
     "badge": null,
-    "image": null
+    "image": "espanha"
   },
   {
     "id": "estados-unidos",
@@ -1277,7 +1287,7 @@
     "name": "Estados Unidos",
     "country": "United States",
     "badge": null,
-    "image": null
+    "image": "estados-unidos"
   },
   {
     "id": "filipinas",
@@ -1287,7 +1297,7 @@
     "name": "Filipinas",
     "country": "Philippines",
     "badge": null,
-    "image": null
+    "image": "filipinas"
   },
   {
     "id": "franca",
@@ -1297,7 +1307,7 @@
     "name": "França",
     "country": "France",
     "badge": null,
-    "image": null
+    "image": "franca"
   },
   {
     "id": "holanda",
@@ -1307,7 +1317,7 @@
     "name": "Holanda",
     "country": "Netherlands",
     "badge": null,
-    "image": null
+    "image": "holanda"
   },
   {
     "id": "hungria",
@@ -1317,7 +1327,7 @@
     "name": "Hungria",
     "country": "Hungary",
     "badge": null,
-    "image": null
+    "image": "hungria"
   },
   {
     "id": "inglaterra",
@@ -1327,7 +1337,7 @@
     "name": "Inglaterra",
     "country": "England",
     "badge": null,
-    "image": null
+    "image": "inglaterra"
   },
   {
     "id": "irlanda",
@@ -1337,7 +1347,7 @@
     "name": "Irlanda",
     "country": "Ireland",
     "badge": null,
-    "image": null
+    "image": "irlanda"
   },
   {
     "id": "islandia",
@@ -1347,7 +1357,7 @@
     "name": "Islândia",
     "country": "Iceland",
     "badge": null,
-    "image": null
+    "image": "islandia"
   },
   {
     "id": "italia",
@@ -1357,7 +1367,7 @@
     "name": "Itália",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "italia"
   },
   {
     "id": "iugoslavia",
@@ -1367,7 +1377,7 @@
     "name": "Iugoslávia",
     "country": null,
     "badge": null,
-    "image": null
+    "image": "iugoslavia"
   },
   {
     "id": "jamaica",
@@ -1377,7 +1387,7 @@
     "name": "Jamaica",
     "country": "Jamaica",
     "badge": null,
-    "image": null
+    "image": "jamaica"
   },
   {
     "id": "japao",
@@ -1387,7 +1397,7 @@
     "name": "Japão",
     "country": "Japan",
     "badge": null,
-    "image": null
+    "image": "japao"
   },
   {
     "id": "malasia",
@@ -1397,7 +1407,7 @@
     "name": "Malásia",
     "country": "Malaysia",
     "badge": null,
-    "image": null
+    "image": "malasia"
   },
   {
     "id": "marrocos",
@@ -1405,9 +1415,9 @@
     "regionId": "africa",
     "slug": "marrocos",
     "name": "Marrocos",
-    "country": null,
+    "country": "Morocco",
     "badge": null,
-    "image": null
+    "image": "marrocos"
   },
   {
     "id": "mexico",
@@ -1417,7 +1427,7 @@
     "name": "México",
     "country": "Mexico",
     "badge": null,
-    "image": null
+    "image": "mexico"
   },
   {
     "id": "nigeria",
@@ -1427,7 +1437,7 @@
     "name": "Nigéria",
     "country": "Nigeria",
     "badge": null,
-    "image": null
+    "image": "nigeria"
   },
   {
     "id": "noruega",
@@ -1437,17 +1447,17 @@
     "name": "Noruega",
     "country": "Norway",
     "badge": null,
-    "image": null
+    "image": "noruega"
   },
   {
     "id": "nova-zelandia",
     "leagueId": "selecoes",
-    "regionId": "europa",
+    "regionId": "oceania",
     "slug": "nova-zelandia",
     "name": "Nova Zelândia",
     "country": "New Zealand",
     "badge": null,
-    "image": null
+    "image": "nova-zelandia"
   },
   {
     "id": "pais-de-gales",
@@ -1457,7 +1467,7 @@
     "name": "País de Gales",
     "country": "Wales",
     "badge": null,
-    "image": null
+    "image": "pais-de-gales"
   },
   {
     "id": "paraguai",
@@ -1467,7 +1477,7 @@
     "name": "Paraguai",
     "country": "Paraguay",
     "badge": null,
-    "image": null
+    "image": "paraguai"
   },
   {
     "id": "peru",
@@ -1477,7 +1487,7 @@
     "name": "Peru",
     "country": "Peru",
     "badge": null,
-    "image": null
+    "image": "peru"
   },
   {
     "id": "polonia",
@@ -1487,7 +1497,7 @@
     "name": "Polônia",
     "country": "Poland",
     "badge": null,
-    "image": null
+    "image": "polonia"
   },
   {
     "id": "portugal",
@@ -1497,7 +1507,7 @@
     "name": "Portugal",
     "country": "Portugal",
     "badge": null,
-    "image": null
+    "image": "portugal"
   },
   {
     "id": "republica-tcheca",
@@ -1507,7 +1517,7 @@
     "name": "República Tcheca",
     "country": "Czech Republic",
     "badge": null,
-    "image": null
+    "image": "republica-tcheca"
   },
   {
     "id": "senegal",
@@ -1517,7 +1527,7 @@
     "name": "Senegal",
     "country": "Senegal",
     "badge": null,
-    "image": null
+    "image": "senegal"
   },
   {
     "id": "suecia",
@@ -1527,7 +1537,7 @@
     "name": "Suécia",
     "country": "Sweden",
     "badge": null,
-    "image": null
+    "image": "suecia"
   },
   {
     "id": "suica",
@@ -1537,7 +1547,7 @@
     "name": "Suíça",
     "country": "Switzerland",
     "badge": null,
-    "image": null
+    "image": "suica"
   },
   {
     "id": "tunisia",
@@ -1547,7 +1557,7 @@
     "name": "Tunísia",
     "country": "Tunisia",
     "badge": null,
-    "image": null
+    "image": "tunisia"
   },
   {
     "id": "ucrania",
@@ -1557,7 +1567,7 @@
     "name": "Ucrânia",
     "country": "Ukraine",
     "badge": null,
-    "image": null
+    "image": "ucrania"
   },
   {
     "id": "uruguai",
@@ -1567,17 +1577,17 @@
     "name": "Uruguai",
     "country": "Uruguay",
     "badge": null,
-    "image": null
+    "image": "uruguai"
   },
   {
     "id": "ac-milan",
     "leagueId": "serie-a",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "ac-milan",
     "name": "AC Milan",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "ac-milan"
   },
   {
     "id": "as-roma",
@@ -1587,7 +1597,7 @@
     "name": "AS Roma",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "as-roma"
   },
   {
     "id": "atalanta",
@@ -1597,7 +1607,7 @@
     "name": "Atalanta",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "atalanta"
   },
   {
     "id": "fiorentina",
@@ -1605,29 +1615,29 @@
     "regionId": null,
     "slug": "fiorentina",
     "name": "Fiorentina",
-    "country": null,
+    "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "fiorentina"
   },
   {
     "id": "inter-milan",
     "leagueId": "serie-a",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "inter-milan",
     "name": "Inter Milan",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "inter-milan"
   },
   {
     "id": "juventus",
     "leagueId": "serie-a",
-    "regionId": "europa",
+    "regionId": null,
     "slug": "juventus",
     "name": "Juventus",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "juventus"
   },
   {
     "id": "lazio",
@@ -1637,7 +1647,7 @@
     "name": "Lazio",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "lazio"
   },
   {
     "id": "napoli",
@@ -1647,7 +1657,7 @@
     "name": "Napoli",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "napoli"
   },
   {
     "id": "parma",
@@ -1657,7 +1667,7 @@
     "name": "Parma",
     "country": "Italy",
     "badge": null,
-    "image": null
+    "image": "parma"
   },
   {
     "id": "galatasaray",
@@ -1667,6 +1677,6 @@
     "name": "Galatasaray",
     "country": "Turkey",
     "badge": null,
-    "image": null
+    "image": "galatasaray"
   }
 ]

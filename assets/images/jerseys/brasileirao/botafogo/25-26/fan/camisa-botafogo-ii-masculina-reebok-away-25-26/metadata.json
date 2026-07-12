@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-botafogo-ii-masculina-reebok-away-25-26",
+  "createdAt": "2026-07-10T19:11:03Z",
+  "updatedAt": "2026-07-10T19:11:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/camisa-botafogo-ii-masculina-reebok-away-25-26/front.webp",
+      "hash": "60e4fe455b368703cfdb050cfa9893c27a54aa126fcbc41c43a7562e6eae088f",
+      "width": 480,
+      "height": 480,
+      "size": 8020,
+      "createdAt": "2026-07-10T19:11:02Z",
+      "updatedAt": "2026-07-10T19:11:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/camisa-botafogo-ii-masculina-reebok-away-25-26/back.webp",
+      "hash": "0bb14f053f7b07cdc2b34af645557f22e064e57ca1a22e69e39785bb8b5e1075",
+      "width": 480,
+      "height": 480,
+      "size": 17114,
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/camisa-botafogo-ii-masculina-reebok-away-25-26/detail-1.webp",
+      "hash": "c2ff1d597daf62c6c6a180b29b1d413427aa169aab9fe1796b929e6824087dd2",
+      "width": 480,
+      "height": 480,
+      "size": 10612,
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/botafogo/25-26/fan/camisa-botafogo-ii-masculina-reebok-away-25-26/detail-2.webp",
+      "hash": "e8812cd9216b983765c37ed7c6ba93b51e9da0c03e69ee9f4c793190def6ed69",
+      "width": 480,
+      "height": 480,
+      "size": 5084,
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
+    }
+  ]
+}

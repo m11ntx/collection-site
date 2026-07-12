@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-benfica-i-26-27-torcedor-adidas-masculina-vermelha",
   "createdAt": "2026-07-07T03:07:58Z",
-  "updatedAt": "2026-07-07T03:07:58Z",
+  "updatedAt": "2026-07-12T01:12:11Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/primeira-liga/benfica/26-27/fan/camisa-benfica-i-26-27-torcedor-adidas-masculina-vermelha/front.webp",
-      "hash": "55f046b6297e1a67fa0863b1cdce37a33c741ec45f9e2a4880299670de009df8",
+      "hash": "13ae5edf859fc3edacdf76299cf581682724c329621a6df0373266e299868783",
       "width": 480,
       "height": 480,
-      "size": 13988,
+      "size": 19870,
       "createdAt": "2026-07-07T03:07:57Z",
-      "updatedAt": "2026-07-07T03:07:57Z"
+      "updatedAt": "2026-07-12T01:12:10Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/primeira-liga/benfica/26-27/fan/camisa-benfica-i-26-27-torcedor-adidas-masculina-vermelha/back.webp",
-      "hash": "2b614dd9ed858f2c8e8a7b70c31951030b6eab661bcbb4f2456da8e39cab8358",
+      "hash": "dc3721759ccf17041866c55acfa7963e501c09b0bfa3cb116a688a5e0e2eae34",
       "width": 480,
       "height": 480,
-      "size": 10718,
+      "size": 16716,
       "createdAt": "2026-07-07T03:07:57Z",
-      "updatedAt": "2026-07-07T03:07:57Z"
+      "updatedAt": "2026-07-12T01:12:11Z"
     },
     {
       "view": "detail-1",

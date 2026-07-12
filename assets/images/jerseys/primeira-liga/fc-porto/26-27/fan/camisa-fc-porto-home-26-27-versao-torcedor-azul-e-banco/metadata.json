@@ -1,37 +1,27 @@
 {
   "productId": "source-camisa-fc-porto-home-26-27-versao-torcedor-azul-e-banco",
   "createdAt": "2026-07-07T03:08:04Z",
-  "updatedAt": "2026-07-07T03:08:04Z",
+  "updatedAt": "2026-07-12T01:12:10Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/primeira-liga/fc-porto/26-27/fan/camisa-fc-porto-home-26-27-versao-torcedor-azul-e-banco/front.webp",
-      "hash": "bca4bfa2f3304f94a3aa25cc1872518993d94b8ce5f5a762621e7621c2994ddf",
+      "hash": "727d67e73fda11d1a854c9a07cb1364381cee8f7187bd89938fd91004adf8798",
       "width": 480,
       "height": 480,
-      "size": 8010,
+      "size": 10500,
       "createdAt": "2026-07-07T03:08:04Z",
-      "updatedAt": "2026-07-07T03:08:04Z"
+      "updatedAt": "2026-07-12T01:12:09Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/primeira-liga/fc-porto/26-27/fan/camisa-fc-porto-home-26-27-versao-torcedor-azul-e-banco/back.webp",
-      "hash": "e74eb8d10e84381b3e3c69ba0e03a1264e6fbfbdbb5c776fb06869101b60f40d",
+      "hash": "f9f7c7f9b6d557f40ea1e0ecf5028ab082550e5e49f3ab2bcd31684beff2df4d",
       "width": 480,
       "height": 480,
-      "size": 6070,
+      "size": 7766,
       "createdAt": "2026-07-07T03:08:04Z",
-      "updatedAt": "2026-07-07T03:08:04Z"
-    },
-    {
-      "view": "detail-1",
-      "path": "assets/images/jerseys/primeira-liga/fc-porto/26-27/fan/camisa-fc-porto-home-26-27-versao-torcedor-azul-e-banco/detail-1.webp",
-      "hash": "b9606abc33e0a1e4e7e1c3f9e880bf6d40330d1311a1d2e642efa4fc254b7c83",
-      "width": 480,
-      "height": 480,
-      "size": 16078,
-      "createdAt": "2026-07-07T03:08:04Z",
-      "updatedAt": "2026-07-07T03:08:04Z"
+      "updatedAt": "2026-07-12T01:12:10Z"
     }
   ]
 }

@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-branco",
   "createdAt": "2026-07-09T22:53:08Z",
-  "updatedAt": "2026-07-09T22:53:08Z",
+  "updatedAt": "2026-07-12T01:12:14Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-branco/front.webp",
-      "hash": "4ee4a64f9e87a20a2659fd791f5bc1b6909cc8048b0bb677d71634efd76b3cbf",
+      "hash": "b5207f2ec3e6f6261ec50468b1d32f9c2f45b124b5aaeefc7c32fe6118fdaf66",
       "width": 480,
       "height": 480,
-      "size": 14998,
+      "size": 22220,
       "createdAt": "2026-07-09T22:53:07Z",
-      "updatedAt": "2026-07-09T22:53:07Z"
+      "updatedAt": "2026-07-12T01:12:13Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-branco/back.webp",
-      "hash": "27c9d2db3e3615c41d70f673f1261b43ad87623efc7f28169e6f327f4677b4bc",
+      "hash": "b91a8680582e537bde63cfc88b3ba27faaca89a2fec451e06c6956f706f6ef23",
       "width": 480,
       "height": 480,
-      "size": 15020,
+      "size": 20132,
       "createdAt": "2026-07-09T22:53:07Z",
-      "updatedAt": "2026-07-09T22:53:07Z"
+      "updatedAt": "2026-07-12T01:12:14Z"
     },
     {
       "view": "detail-1",

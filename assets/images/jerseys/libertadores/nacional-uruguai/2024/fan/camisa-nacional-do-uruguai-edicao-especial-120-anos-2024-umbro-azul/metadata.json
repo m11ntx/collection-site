@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-nacional-do-uruguai-edicao-especial-120-anos-2024-umbro-azul",
+  "createdAt": "2026-07-11T04:14:41Z",
+  "updatedAt": "2026-07-11T04:14:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/nacional-uruguai/2024/fan/camisa-nacional-do-uruguai-edicao-especial-120-anos-2024-umbro-azul/front.webp",
+      "hash": "00b35bc4921cc95796ded052f0c7596772efa31b612a17a05de87e1dc6ec196c",
+      "width": 480,
+      "height": 480,
+      "size": 11822,
+      "createdAt": "2026-07-11T04:14:41Z",
+      "updatedAt": "2026-07-11T04:14:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/nacional-uruguai/2024/fan/camisa-nacional-do-uruguai-edicao-especial-120-anos-2024-umbro-azul/back.webp",
+      "hash": "a6dec80b4b7056b05c9e896bb678661f0305c59f8f6767fee058fd300aaf2bd3",
+      "width": 480,
+      "height": 480,
+      "size": 7464,
+      "createdAt": "2026-07-11T04:14:41Z",
+      "updatedAt": "2026-07-11T04:14:41Z"
+    }
+  ]
+}

@@ -1,56 +1,56 @@
 {
   "totals": {
-    "products": 3222,
+    "products": 3220,
     "collections": 4,
     "leagues": 15,
     "regions": 11,
-    "clubs": 167,
+    "clubs": 168,
     "manufacturers": 18
   },
   "products": {
-    "available": 3185,
+    "available": 3183,
     "unavailable": 37,
     "inventoryTracked": 0,
     "withManufacturer": 2583
   },
   "byCollection": {
-    "brasil": 800,
-    "europa": 1395,
-    "resto-do-mundo": 221,
-    "selecoes": 643,
+    "brasil": 801,
+    "europa": 1393,
+    "resto-do-mundo": 222,
+    "selecoes": 641,
     "unknown": 163
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 800,
+    "brasileirao": 801,
     "bundesliga": 109,
     "eredivisie": 27,
-    "la-liga": 335,
-    "libertadores": 103,
+    "la-liga": 336,
+    "libertadores": 104,
     "ligue-1": 86,
     "mls": 87,
-    "premier-league": 499,
+    "premier-league": 496,
     "primeira-liga": 19,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 643,
+    "selecoes": 641,
     "serie-a": 297,
     "super-lig": 1,
     "unknown": 163
   },
   "byRegion": {
     "africa": 11,
-    "americas": 228,
+    "americas": 226,
     "asia": 44,
-    "europa": 640,
+    "europa": 358,
     "minas-gerais": 85,
     "nordeste": 71,
     "norte": 8,
-    "oceania": 1,
-    "rio-de-janeiro": 304,
+    "oceania": 2,
+    "rio-de-janeiro": 305,
     "sao-paulo": 231,
     "sul": 101,
-    "unknown": 1498
+    "unknown": 1778
   },
   "byClub": {
     "ac-milan": 80,
@@ -62,7 +62,7 @@
     "america-mexico": 2,
     "america-mineiro": 1,
     "argelia": 1,
-    "argentina": 56,
+    "argentina": 55,
     "arsenal": 75,
     "as-roma": 21,
     "aston-villa": 7,
@@ -156,11 +156,12 @@
     "lyon": 4,
     "malasia": 1,
     "manchester-city": 60,
-    "manchester-united": 129,
+    "manchester-united": 128,
     "marrocos": 2,
     "marseille": 6,
     "mexico": 24,
     "minnesota": 3,
+    "nacional-uruguai": 1,
     "napoli": 42,
     "nautico": 3,
     "new-england-revolution": 1,
@@ -217,7 +218,7 @@
     "ucrania": 1,
     "universidad-do-chile": 2,
     "unknown": 163,
-    "uruguai": 9,
+    "uruguai": 8,
     "vasco-da-gama": 46,
     "vitoria": 5,
     "wolverhampton-wanderers": 2
@@ -389,7 +390,6 @@
     "2026": 19,
     "2026/27": 9,
     "21/20": 1,
-    "22/23": 1,
     "23/24": 1,
     "24/15": 1,
     "24/25": 1513,
@@ -420,22 +420,22 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 205
+    "unknown": 204
   },
   "byCategory": {
-    "current": 106,
+    "current": 105,
     "manga-longa": 194,
     "retro": 759,
-    "unknown": 2163
+    "unknown": 2162
   },
   "byVersion": {
-    "fan": 1346,
+    "fan": 1344,
     "player": 305,
     "unknown": 1571
   },
   "byGender": {
     "kids": 222,
-    "men": 2300,
+    "men": 2298,
     "unknown": 517,
     "women": 183
   }

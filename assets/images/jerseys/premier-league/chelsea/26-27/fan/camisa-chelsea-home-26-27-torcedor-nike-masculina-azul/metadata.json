@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-chelsea-home-26-27-torcedor-nike-masculina-azul",
   "createdAt": "2026-07-07T02:48:31Z",
-  "updatedAt": "2026-07-07T02:48:31Z",
+  "updatedAt": "2026-07-12T01:12:12Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-home-26-27-torcedor-nike-masculina-azul/front.webp",
-      "hash": "3014812131821e44771699c5efab17db29b49e2e395c0f19ce4e17b575c77bdc",
+      "hash": "4939347a4a818650f32ad4024c78479ec578214815f5c65c4cf02594435dd6a4",
       "width": 480,
       "height": 480,
-      "size": 7888,
+      "size": 10768,
       "createdAt": "2026-07-07T02:48:31Z",
-      "updatedAt": "2026-07-07T02:48:31Z"
+      "updatedAt": "2026-07-12T01:12:11Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/premier-league/chelsea/26-27/fan/camisa-chelsea-home-26-27-torcedor-nike-masculina-azul/back.webp",
-      "hash": "66771cdb855d204c547a69d98bd3f0728b3511824a7720bd0ff5ff9e81782295",
+      "hash": "6318bbe84e5156d89311f548fc17df244780a108f2e3aa5f56ff8f365945acfd",
       "width": 480,
       "height": 480,
-      "size": 4932,
+      "size": 6882,
       "createdAt": "2026-07-07T02:48:31Z",
-      "updatedAt": "2026-07-07T02:48:31Z"
+      "updatedAt": "2026-07-12T01:12:11Z"
     }
   ]
 }
