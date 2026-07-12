@@ -1,5 +1,16 @@
 [
   {
+    "id": "acessorios",
+    "slug": "acessorios",
+    "name": "Acessórios",
+    "country": null,
+    "image": null,
+    "description": null,
+    "featured": false,
+    "virtual": false,
+    "group": "outros"
+  },
+  {
     "id": "brasil",
     "slug": "brasil",
     "name": "Brasil",
@@ -7,7 +18,8 @@
     "image": "brasil",
     "description": null,
     "featured": false,
-    "virtual": false
+    "virtual": false,
+    "group": null
   },
   {
     "id": "europa",
@@ -17,7 +29,19 @@
     "image": "europa",
     "description": null,
     "featured": false,
-    "virtual": false
+    "virtual": false,
+    "group": null
+  },
+  {
+    "id": "nba",
+    "slug": "nba",
+    "name": "NBA",
+    "country": null,
+    "image": null,
+    "description": null,
+    "featured": false,
+    "virtual": false,
+    "group": "outros"
   },
   {
     "id": "resto-do-mundo",
@@ -27,7 +51,8 @@
     "image": "resto-do-mundo",
     "description": null,
     "featured": false,
-    "virtual": false
+    "virtual": false,
+    "group": null
   },
   {
     "id": "selecoes",
@@ -37,6 +62,7 @@
     "image": "selecoes",
     "description": null,
     "featured": false,
-    "virtual": false
+    "virtual": false,
+    "group": null
   }
 ]

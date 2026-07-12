@@ -1,7 +1,7 @@
 {
   "totals": {
     "products": 3220,
-    "collections": 4,
+    "collections": 6,
     "leagues": 15,
     "regions": 11,
     "clubs": 168,
@@ -14,11 +14,12 @@
     "withManufacturer": 2583
   },
   "byCollection": {
+    "acessorios": 37,
     "brasil": 801,
     "europa": 1393,
+    "nba": 126,
     "resto-do-mundo": 222,
-    "selecoes": 641,
-    "unknown": 163
+    "selecoes": 641
   },
   "byLeague": {
     "allsvenskan": 1,
