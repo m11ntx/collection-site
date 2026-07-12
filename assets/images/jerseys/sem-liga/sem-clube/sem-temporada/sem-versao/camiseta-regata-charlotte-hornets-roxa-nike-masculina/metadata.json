@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-charlotte-hornets-roxa-nike-masculina",
-  "createdAt": "2026-07-12T10:10:54Z",
-  "updatedAt": "2026-07-12T10:10:54Z",
+  "createdAt": "2026-07-09T20:43:42Z",
+  "updatedAt": "2026-07-09T20:43:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11904,
-      "createdAt": "2026-07-12T10:10:53Z",
-      "updatedAt": "2026-07-12T10:10:53Z"
+      "createdAt": "2026-07-09T20:43:41Z",
+      "updatedAt": "2026-07-09T20:43:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11300,
-      "createdAt": "2026-07-12T10:10:53Z",
-      "updatedAt": "2026-07-12T10:10:53Z"
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17814,
-      "createdAt": "2026-07-12T10:10:53Z",
-      "updatedAt": "2026-07-12T10:10:53Z"
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33202,
-      "createdAt": "2026-07-12T10:10:53Z",
-      "updatedAt": "2026-07-12T10:10:53Z"
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 22530,
-      "createdAt": "2026-07-12T10:10:54Z",
-      "updatedAt": "2026-07-12T10:10:54Z"
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 36460,
-      "createdAt": "2026-07-12T10:10:54Z",
-      "updatedAt": "2026-07-12T10:10:54Z"
+      "createdAt": "2026-07-09T20:43:42Z",
+      "updatedAt": "2026-07-09T20:43:42Z"
     }
   ]
 }

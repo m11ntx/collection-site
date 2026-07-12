@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-retro-1990-1992-vermelha-e-branca-umbro",
-  "createdAt": "2026-07-12T10:12:12Z",
-  "updatedAt": "2026-07-12T10:12:12Z",
+  "createdAt": "2026-07-09T16:35:18Z",
+  "updatedAt": "2026-07-09T16:35:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13020,
-      "createdAt": "2026-07-12T10:12:11Z",
-      "updatedAt": "2026-07-12T10:12:11Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10658,
-      "createdAt": "2026-07-12T10:12:11Z",
-      "updatedAt": "2026-07-12T10:12:11Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33232,
-      "createdAt": "2026-07-12T10:12:11Z",
-      "updatedAt": "2026-07-12T10:12:11Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21410,
-      "createdAt": "2026-07-12T10:12:12Z",
-      "updatedAt": "2026-07-12T10:12:12Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 55378,
-      "createdAt": "2026-07-12T10:12:12Z",
-      "updatedAt": "2026-07-12T10:12:12Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 66190,
-      "createdAt": "2026-07-12T10:12:12Z",
-      "updatedAt": "2026-07-12T10:12:12Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 31068,
-      "createdAt": "2026-07-12T10:12:12Z",
-      "updatedAt": "2026-07-12T10:12:12Z"
+      "createdAt": "2026-07-09T16:35:17Z",
+      "updatedAt": "2026-07-09T16:35:17Z"
     }
   ]
 }

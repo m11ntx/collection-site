@@ -1,5 +1,35 @@
 [
   {
+    "id": "aik",
+    "leagueId": "allsvenskan",
+    "regionId": null,
+    "slug": "aik",
+    "name": "AIK",
+    "country": "Sweden",
+    "badge": null,
+    "image": "aik"
+  },
+  {
+    "id": "america-mineiro",
+    "leagueId": "brasileirao",
+    "regionId": "minas-gerais",
+    "slug": "america-mineiro",
+    "name": "América Mineiro",
+    "country": "Brazil",
+    "badge": null,
+    "image": "america-mineiro"
+  },
+  {
+    "id": "athletico-paranaense",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "athletico-paranaense",
+    "name": "Athletico Paranaense",
+    "country": "Brazil",
+    "badge": null,
+    "image": "athletico-paranaense"
+  },
+  {
     "id": "atletico-mineiro",
     "leagueId": "brasileirao",
     "regionId": "minas-gerais",
@@ -10,6 +40,26 @@
     "image": "atletico-mineiro"
   },
   {
+    "id": "avai",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "avai",
+    "name": "Avaí",
+    "country": "Brazil",
+    "badge": null,
+    "image": "avai"
+  },
+  {
+    "id": "bahia",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "bahia",
+    "name": "Bahia",
+    "country": "Brazil",
+    "badge": null,
+    "image": "bahia"
+  },
+  {
     "id": "botafogo",
     "leagueId": "brasileirao",
     "regionId": "rio-de-janeiro",
@@ -18,6 +68,46 @@
     "country": "Brazil",
     "badge": null,
     "image": "botafogo"
+  },
+  {
+    "id": "bragantino",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "bragantino",
+    "name": "Red Bull Bragantino",
+    "country": "Brazil",
+    "badge": null,
+    "image": "bragantino"
+  },
+  {
+    "id": "ceara",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "ceara",
+    "name": "Ceará",
+    "country": "Brazil",
+    "badge": null,
+    "image": "ceara"
+  },
+  {
+    "id": "chapecoense",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "chapecoense",
+    "name": "Chapecoense",
+    "country": "Brazil",
+    "badge": null,
+    "image": "chapecoense"
+  },
+  {
+    "id": "corinthians",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "corinthians",
+    "name": "Corinthians",
+    "country": "Brazil",
+    "badge": null,
+    "image": "corinthians"
   },
   {
     "id": "cruzeiro",
@@ -50,6 +140,16 @@
     "image": "fluminense"
   },
   {
+    "id": "fortaleza",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "fortaleza",
+    "name": "Fortaleza",
+    "country": "Brazil",
+    "badge": null,
+    "image": "fortaleza"
+  },
+  {
     "id": "gremio",
     "leagueId": "brasileirao",
     "regionId": "sul",
@@ -60,6 +160,26 @@
     "image": "gremio"
   },
   {
+    "id": "internacional",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "internacional",
+    "name": "Internacional",
+    "country": "Brazil",
+    "badge": null,
+    "image": "internacional"
+  },
+  {
+    "id": "nautico",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "nautico",
+    "name": "Náutico",
+    "country": "Brazil",
+    "badge": null,
+    "image": "nautico"
+  },
+  {
     "id": "palmeiras",
     "leagueId": "brasileirao",
     "regionId": "sao-paulo",
@@ -68,6 +188,66 @@
     "country": "Brazil",
     "badge": null,
     "image": "palmeiras"
+  },
+  {
+    "id": "paysandu",
+    "leagueId": "brasileirao",
+    "regionId": "norte",
+    "slug": "paysandu",
+    "name": "Paysandu",
+    "country": "Brazil",
+    "badge": null,
+    "image": "paysandu"
+  },
+  {
+    "id": "ponte-preta",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "ponte-preta",
+    "name": "Ponte Preta",
+    "country": "Brazil",
+    "badge": null,
+    "image": "ponte-preta"
+  },
+  {
+    "id": "remo",
+    "leagueId": "brasileirao",
+    "regionId": "norte",
+    "slug": "remo",
+    "name": "Remo",
+    "country": "Brazil",
+    "badge": null,
+    "image": "remo"
+  },
+  {
+    "id": "santa-cruz",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "santa-cruz",
+    "name": "Santa Cruz",
+    "country": "Brazil",
+    "badge": null,
+    "image": "santa-cruz"
+  },
+  {
+    "id": "santos",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "santos",
+    "name": "Santos",
+    "country": "Brazil",
+    "badge": null,
+    "image": "santos"
+  },
+  {
+    "id": "sao-paulo",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "sao-paulo",
+    "name": "São Paulo",
+    "country": "Brazil",
+    "badge": null,
+    "image": "sao-paulo"
   },
   {
     "id": "sport",
@@ -90,6 +270,26 @@
     "image": "vasco-da-gama"
   },
   {
+    "id": "vitoria",
+    "leagueId": "brasileirao",
+    "regionId": "nordeste",
+    "slug": "vitoria",
+    "name": "Vitória",
+    "country": "Brazil",
+    "badge": null,
+    "image": "vitoria"
+  },
+  {
+    "id": "bayer-leverkusen",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "bayer-leverkusen",
+    "name": "Bayer Leverkusen",
+    "country": "Germany",
+    "badge": null,
+    "image": "bayer-leverkusen"
+  },
+  {
     "id": "bayern-munich",
     "leagueId": "bundesliga",
     "regionId": null,
@@ -110,6 +310,46 @@
     "image": "borussia-dortmund"
   },
   {
+    "id": "borussia-monchengladbach",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "borussia-monchengladbach",
+    "name": "Borussia Mönchengladbach",
+    "country": "Germany",
+    "badge": null,
+    "image": "borussia-monchengladbach"
+  },
+  {
+    "id": "eintracht-frankfurt",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "eintracht-frankfurt",
+    "name": "Eintracht Frankfurt",
+    "country": "Germany",
+    "badge": null,
+    "image": "eintracht-frankfurt"
+  },
+  {
+    "id": "fc-heidenheim",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "fc-heidenheim",
+    "name": "1. FC Heidenheim",
+    "country": "Germany",
+    "badge": null,
+    "image": "fc-heidenheim"
+  },
+  {
+    "id": "rb-leipzig",
+    "leagueId": "bundesliga",
+    "regionId": null,
+    "slug": "rb-leipzig",
+    "name": "RB Leipzig",
+    "country": "Germany",
+    "badge": null,
+    "image": "rb-leipzig"
+  },
+  {
     "id": "ajax",
     "leagueId": "eredivisie",
     "regionId": null,
@@ -118,6 +358,16 @@
     "country": "Netherlands",
     "badge": null,
     "image": "ajax"
+  },
+  {
+    "id": "psv",
+    "leagueId": "eredivisie",
+    "regionId": null,
+    "slug": "psv",
+    "name": "PSV Eindhoven",
+    "country": "Netherlands",
+    "badge": null,
+    "image": "psv"
   },
   {
     "id": "athletic-bilbao",
@@ -150,6 +400,26 @@
     "image": "barcelona"
   },
   {
+    "id": "real-betis",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "real-betis",
+    "name": "Real Betis",
+    "country": "Spain",
+    "badge": null,
+    "image": "real-betis"
+  },
+  {
+    "id": "real-madrid",
+    "leagueId": "la-liga",
+    "regionId": null,
+    "slug": "real-madrid",
+    "name": "Real Madrid",
+    "country": "Spain",
+    "badge": null,
+    "image": "real-madrid"
+  },
+  {
     "id": "america-mexico",
     "leagueId": "libertadores",
     "regionId": null,
@@ -170,6 +440,16 @@
     "image": "boca-juniors"
   },
   {
+    "id": "cerro-portenho",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "cerro-portenho",
+    "name": "Cerro Porteño",
+    "country": "Paraguay",
+    "badge": null,
+    "image": "cerro-portenho"
+  },
+  {
     "id": "chivas",
     "leagueId": "libertadores",
     "regionId": null,
@@ -188,6 +468,116 @@
     "country": "Chile",
     "badge": null,
     "image": "colo-colo"
+  },
+  {
+    "id": "desportivo-palestino",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "desportivo-palestino",
+    "name": "Deportivo Palestino",
+    "country": "Chile",
+    "badge": null,
+    "image": "desportivo-palestino"
+  },
+  {
+    "id": "nacional-uruguai",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "nacional-uruguai",
+    "name": "Nacional",
+    "country": "Uruguay",
+    "badge": null,
+    "image": "nacional-uruguai"
+  },
+  {
+    "id": "olimpia",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "olimpia",
+    "name": "Olimpia",
+    "country": "Paraguay",
+    "badge": null,
+    "image": "olimpia"
+  },
+  {
+    "id": "penarol",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "penarol",
+    "name": "Peñarol",
+    "country": "Uruguay",
+    "badge": null,
+    "image": "penarol"
+  },
+  {
+    "id": "river-plate",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "river-plate",
+    "name": "River Plate",
+    "country": "Argentina",
+    "badge": null,
+    "image": "river-plate"
+  },
+  {
+    "id": "san-lorenzo",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "san-lorenzo",
+    "name": "San Lorenzo",
+    "country": "Argentina",
+    "badge": null,
+    "image": "san-lorenzo"
+  },
+  {
+    "id": "santiago-wanderers",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "santiago-wanderers",
+    "name": "Santiago Wanderers",
+    "country": "Chile",
+    "badge": null,
+    "image": "santiago-wanderers"
+  },
+  {
+    "id": "tigres-do-mexico",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "tigres-do-mexico",
+    "name": "Tigres UANL",
+    "country": "Mexico",
+    "badge": null,
+    "image": "tigres-do-mexico"
+  },
+  {
+    "id": "universidad-do-chile",
+    "leagueId": "libertadores",
+    "regionId": null,
+    "slug": "universidad-do-chile",
+    "name": "Universidad de Chile",
+    "country": "Chile",
+    "badge": null,
+    "image": "universidad-do-chile"
+  },
+  {
+    "id": "lille",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "lille",
+    "name": "Lille OSC",
+    "country": "France",
+    "badge": null,
+    "image": "lille"
+  },
+  {
+    "id": "lorient",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "lorient",
+    "name": "FC Lorient",
+    "country": "France",
+    "badge": null,
+    "image": "lorient"
   },
   {
     "id": "lyon",
@@ -220,6 +610,276 @@
     "image": "paris-saint-germain"
   },
   {
+    "id": "atlanta-united",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "atlanta-united",
+    "name": "Atlanta United",
+    "country": "United States",
+    "badge": null,
+    "image": "atlanta-united"
+  },
+  {
+    "id": "austin-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "austin-fc",
+    "name": "Austin FC",
+    "country": "United States",
+    "badge": null,
+    "image": "austin-fc"
+  },
+  {
+    "id": "cf-montreal",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "cf-montreal",
+    "name": "CF Montréal",
+    "country": "Canada",
+    "badge": null,
+    "image": "cf-montreal"
+  },
+  {
+    "id": "charlotte-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "charlotte-fc",
+    "name": "Charlotte FC",
+    "country": "United States",
+    "badge": null,
+    "image": "charlotte-fc"
+  },
+  {
+    "id": "chicago-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "chicago-fc",
+    "name": "Chicago FC",
+    "country": "United States",
+    "badge": null,
+    "image": "chicago-fc"
+  },
+  {
+    "id": "colorado-rapids",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "colorado-rapids",
+    "name": "Colorado Rapids",
+    "country": "United States",
+    "badge": null,
+    "image": "colorado-rapids"
+  },
+  {
+    "id": "columbus-crew",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "columbus-crew",
+    "name": "Columbus Crew",
+    "country": "United States",
+    "badge": null,
+    "image": "columbus-crew"
+  },
+  {
+    "id": "dc-united",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "dc-united",
+    "name": "DC United",
+    "country": "United States",
+    "badge": null,
+    "image": "dc-united"
+  },
+  {
+    "id": "fc-cincinnati",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "fc-cincinnati",
+    "name": "FC Cincinnati",
+    "country": "United States",
+    "badge": null,
+    "image": "fc-cincinnati"
+  },
+  {
+    "id": "fc-dallas",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "fc-dallas",
+    "name": "FC Dallas",
+    "country": "United States",
+    "badge": null,
+    "image": "fc-dallas"
+  },
+  {
+    "id": "houston-dyanmo",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "houston-dyanmo",
+    "name": "Houston Dynamo",
+    "country": "United States",
+    "badge": null,
+    "image": "houston-dyanmo"
+  },
+  {
+    "id": "inter-miami",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "inter-miami",
+    "name": "Inter Miami",
+    "country": "United States",
+    "badge": null,
+    "image": "inter-miami"
+  },
+  {
+    "id": "la-galaxy",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "la-galaxy",
+    "name": "LA Galaxy",
+    "country": "United States",
+    "badge": null,
+    "image": "la-galaxy"
+  },
+  {
+    "id": "los-angeles-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "los-angeles-fc",
+    "name": "Los Angeles FC",
+    "country": "United States",
+    "badge": null,
+    "image": "los-angeles-fc"
+  },
+  {
+    "id": "minnesota",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "minnesota",
+    "name": "Minnesota United",
+    "country": "United States",
+    "badge": null,
+    "image": "minnesota"
+  },
+  {
+    "id": "new-england-revolution",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "new-england-revolution",
+    "name": "New England Revolution",
+    "country": "United States",
+    "badge": null,
+    "image": "new-england-revolution"
+  },
+  {
+    "id": "new-york-city-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "new-york-city-fc",
+    "name": "New York City FC",
+    "country": "United States",
+    "badge": null,
+    "image": "new-york-city-fc"
+  },
+  {
+    "id": "new-york-red-bull",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "new-york-red-bull",
+    "name": "New York Red Bulls",
+    "country": "United States",
+    "badge": null,
+    "image": "new-york-red-bull"
+  },
+  {
+    "id": "orlando-city",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "orlando-city",
+    "name": "Orlando City",
+    "country": "United States",
+    "badge": null,
+    "image": "orlando-city"
+  },
+  {
+    "id": "philadelphia-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "philadelphia-fc",
+    "name": "Philadelphia Union",
+    "country": "United States",
+    "badge": null,
+    "image": "philadelphia-fc"
+  },
+  {
+    "id": "portland-timbers-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "portland-timbers-fc",
+    "name": "Portland Timbers",
+    "country": "United States",
+    "badge": null,
+    "image": "portland-timbers-fc"
+  },
+  {
+    "id": "real-salt-lake",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "real-salt-lake",
+    "name": "Real Salt Lake",
+    "country": "United States",
+    "badge": null,
+    "image": "real-salt-lake"
+  },
+  {
+    "id": "san-jose-earthquakes",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "san-jose-earthquakes",
+    "name": "San Jose Earthquakes",
+    "country": "United States",
+    "badge": null,
+    "image": "san-jose-earthquakes"
+  },
+  {
+    "id": "seattle-fc",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "seattle-fc",
+    "name": "Seattle Sounders",
+    "country": "United States",
+    "badge": null,
+    "image": "seattle-fc"
+  },
+  {
+    "id": "sporting-kansas-city",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "sporting-kansas-city",
+    "name": "Sporting Kansas City",
+    "country": "United States",
+    "badge": null,
+    "image": "sporting-kansas-city"
+  },
+  {
+    "id": "st-louis-city",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "st-louis-city",
+    "name": "St. Louis City",
+    "country": "United States",
+    "badge": null,
+    "image": "st-louis-city"
+  },
+  {
+    "id": "toronto",
+    "leagueId": "mls",
+    "regionId": null,
+    "slug": "toronto",
+    "name": "Toronto FC",
+    "country": "Canada",
+    "badge": null,
+    "image": "toronto"
+  },
+  {
     "id": "arsenal",
     "leagueId": "premier-league",
     "regionId": null,
@@ -248,6 +908,36 @@
     "country": "England",
     "badge": null,
     "image": "chelsea"
+  },
+  {
+    "id": "crystal-palace",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "crystal-palace",
+    "name": "Crystal Palace",
+    "country": "England",
+    "badge": null,
+    "image": "crystal-palace"
+  },
+  {
+    "id": "everton",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "everton",
+    "name": "Everton",
+    "country": "England",
+    "badge": null,
+    "image": "everton"
+  },
+  {
+    "id": "leeds-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "leeds-united",
+    "name": "Leeds United",
+    "country": "England",
+    "badge": null,
+    "image": "leeds-united"
   },
   {
     "id": "liverpool",
@@ -280,6 +970,56 @@
     "image": "manchester-united"
   },
   {
+    "id": "newcastle-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "newcastle-united",
+    "name": "Newcastle United",
+    "country": "England",
+    "badge": null,
+    "image": "newcastle-united"
+  },
+  {
+    "id": "nottingham-forest",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "nottingham-forest",
+    "name": "Nottingham Forest",
+    "country": "England",
+    "badge": null,
+    "image": "nottingham-forest"
+  },
+  {
+    "id": "sheffield-united",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "sheffield-united",
+    "name": "Sheffield United",
+    "country": "England",
+    "badge": null,
+    "image": "sheffield-united"
+  },
+  {
+    "id": "tottenham",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "tottenham",
+    "name": "Tottenham Hotspur",
+    "country": "England",
+    "badge": null,
+    "image": "tottenham"
+  },
+  {
+    "id": "wolverhampton-wanderers",
+    "leagueId": "premier-league",
+    "regionId": null,
+    "slug": "wolverhampton-wanderers",
+    "name": "Wolverhampton Wanderers",
+    "country": "England",
+    "badge": null,
+    "image": "wolverhampton-wanderers"
+  },
+  {
     "id": "benfica",
     "leagueId": "primeira-liga",
     "regionId": null,
@@ -288,6 +1028,46 @@
     "country": "Portugal",
     "badge": null,
     "image": "benfica"
+  },
+  {
+    "id": "fc-porto",
+    "leagueId": "primeira-liga",
+    "regionId": null,
+    "slug": "fc-porto",
+    "name": "FC Porto",
+    "country": "Portugal",
+    "badge": null,
+    "image": "fc-porto"
+  },
+  {
+    "id": "sporting-cp",
+    "leagueId": "primeira-liga",
+    "regionId": null,
+    "slug": "sporting-cp",
+    "name": "Sporting CP",
+    "country": "Portugal",
+    "badge": null,
+    "image": "sporting-cp"
+  },
+  {
+    "id": "al-hilal",
+    "leagueId": "saudi-pro-league",
+    "regionId": null,
+    "slug": "al-hilal",
+    "name": "Al Hilal",
+    "country": "Saudi Arabia",
+    "badge": null,
+    "image": "al-hilal"
+  },
+  {
+    "id": "al-nassr",
+    "leagueId": "saudi-pro-league",
+    "regionId": null,
+    "slug": "al-nassr",
+    "name": "Al Nassr",
+    "country": "Saudi Arabia",
+    "badge": null,
+    "image": "al-nassr"
   },
   {
     "id": "celtic",
@@ -320,6 +1100,16 @@
     "image": "alemanha"
   },
   {
+    "id": "argelia",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "argelia",
+    "name": "Argélia",
+    "country": "Algeria",
+    "badge": null,
+    "image": "argelia"
+  },
+  {
     "id": "argentina",
     "leagueId": "selecoes",
     "regionId": "americas",
@@ -328,6 +1118,16 @@
     "country": "Argentina",
     "badge": null,
     "image": "argentina"
+  },
+  {
+    "id": "austria",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "austria",
+    "name": "Áustria",
+    "country": "Austria",
+    "badge": null,
+    "image": "austria"
   },
   {
     "id": "belgica",
@@ -348,6 +1148,26 @@
     "country": "Brazil",
     "badge": null,
     "image": "brasil"
+  },
+  {
+    "id": "cabo-verde",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "cabo-verde",
+    "name": "Cabo Verde",
+    "country": "Cape Verde",
+    "badge": null,
+    "image": "cabo-verde"
+  },
+  {
+    "id": "canada",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "canada",
+    "name": "Canadá",
+    "country": "Canada",
+    "badge": null,
+    "image": "canada"
   },
   {
     "id": "chile",
@@ -380,6 +1200,16 @@
     "image": "coreia-do-sul"
   },
   {
+    "id": "costa-rica",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "costa-rica",
+    "name": "Costa Rica",
+    "country": "Costa Rica",
+    "badge": null,
+    "image": "costa-rica"
+  },
+  {
     "id": "croacia",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -390,6 +1220,16 @@
     "image": "croacia"
   },
   {
+    "id": "curacao",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "curacao",
+    "name": "Curaçau",
+    "country": "Curaçao",
+    "badge": null,
+    "image": "curacao"
+  },
+  {
     "id": "dinamarca",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -398,6 +1238,26 @@
     "country": "Denmark",
     "badge": null,
     "image": "dinamarca"
+  },
+  {
+    "id": "emirados-arabes-unidos",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "emirados-arabes-unidos",
+    "name": "Emirados Árabes Unidos",
+    "country": "United Arab Emirates",
+    "badge": null,
+    "image": "emirados-arabes-unidos"
+  },
+  {
+    "id": "equador",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "equador",
+    "name": "Equador",
+    "country": "Ecuador",
+    "badge": null,
+    "image": "equador"
   },
   {
     "id": "escocia",
@@ -430,6 +1290,16 @@
     "image": "estados-unidos"
   },
   {
+    "id": "filipinas",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "filipinas",
+    "name": "Filipinas",
+    "country": "Philippines",
+    "badge": null,
+    "image": "filipinas"
+  },
+  {
     "id": "franca",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -450,6 +1320,16 @@
     "image": "holanda"
   },
   {
+    "id": "hungria",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "hungria",
+    "name": "Hungria",
+    "country": "Hungary",
+    "badge": null,
+    "image": "hungria"
+  },
+  {
     "id": "inglaterra",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -468,6 +1348,16 @@
     "country": "Ireland",
     "badge": null,
     "image": "irlanda"
+  },
+  {
+    "id": "islandia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "islandia",
+    "name": "Islândia",
+    "country": "Iceland",
+    "badge": null,
+    "image": "islandia"
   },
   {
     "id": "italia",
@@ -510,6 +1400,16 @@
     "image": "japao"
   },
   {
+    "id": "malasia",
+    "leagueId": "selecoes",
+    "regionId": "asia",
+    "slug": "malasia",
+    "name": "Malásia",
+    "country": "Malaysia",
+    "badge": null,
+    "image": "malasia"
+  },
+  {
     "id": "marrocos",
     "leagueId": "selecoes",
     "regionId": "africa",
@@ -530,6 +1430,116 @@
     "image": "mexico"
   },
   {
+    "id": "nigeria",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "nigeria",
+    "name": "Nigéria",
+    "country": "Nigeria",
+    "badge": null,
+    "image": "nigeria"
+  },
+  {
+    "id": "noruega",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "noruega",
+    "name": "Noruega",
+    "country": "Norway",
+    "badge": null,
+    "image": "noruega"
+  },
+  {
+    "id": "nova-zelandia",
+    "leagueId": "selecoes",
+    "regionId": "oceania",
+    "slug": "nova-zelandia",
+    "name": "Nova Zelândia",
+    "country": "New Zealand",
+    "badge": null,
+    "image": "nova-zelandia"
+  },
+  {
+    "id": "pais-de-gales",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "pais-de-gales",
+    "name": "País de Gales",
+    "country": "Wales",
+    "badge": null,
+    "image": "pais-de-gales"
+  },
+  {
+    "id": "paraguai",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "paraguai",
+    "name": "Paraguai",
+    "country": "Paraguay",
+    "badge": null,
+    "image": "paraguai"
+  },
+  {
+    "id": "peru",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "peru",
+    "name": "Peru",
+    "country": "Peru",
+    "badge": null,
+    "image": "peru"
+  },
+  {
+    "id": "polonia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "polonia",
+    "name": "Polônia",
+    "country": "Poland",
+    "badge": null,
+    "image": "polonia"
+  },
+  {
+    "id": "portugal",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "portugal",
+    "name": "Portugal",
+    "country": "Portugal",
+    "badge": null,
+    "image": "portugal"
+  },
+  {
+    "id": "republica-tcheca",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "republica-tcheca",
+    "name": "República Tcheca",
+    "country": "Czech Republic",
+    "badge": null,
+    "image": "republica-tcheca"
+  },
+  {
+    "id": "senegal",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "senegal",
+    "name": "Senegal",
+    "country": "Senegal",
+    "badge": null,
+    "image": "senegal"
+  },
+  {
+    "id": "suecia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "suecia",
+    "name": "Suécia",
+    "country": "Sweden",
+    "badge": null,
+    "image": "suecia"
+  },
+  {
     "id": "suica",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -540,6 +1550,36 @@
     "image": "suica"
   },
   {
+    "id": "tunisia",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "tunisia",
+    "name": "Tunísia",
+    "country": "Tunisia",
+    "badge": null,
+    "image": "tunisia"
+  },
+  {
+    "id": "ucrania",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "ucrania",
+    "name": "Ucrânia",
+    "country": "Ukraine",
+    "badge": null,
+    "image": "ucrania"
+  },
+  {
+    "id": "uruguai",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "uruguai",
+    "name": "Uruguai",
+    "country": "Uruguay",
+    "badge": null,
+    "image": "uruguai"
+  },
+  {
     "id": "ac-milan",
     "leagueId": "serie-a",
     "regionId": null,
@@ -548,6 +1588,16 @@
     "country": "Italy",
     "badge": null,
     "image": "ac-milan"
+  },
+  {
+    "id": "as-roma",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "as-roma",
+    "name": "AS Roma",
+    "country": "Italy",
+    "badge": null,
+    "image": "as-roma"
   },
   {
     "id": "atalanta",
@@ -598,5 +1648,35 @@
     "country": "Italy",
     "badge": null,
     "image": "lazio"
+  },
+  {
+    "id": "napoli",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "napoli",
+    "name": "Napoli",
+    "country": "Italy",
+    "badge": null,
+    "image": "napoli"
+  },
+  {
+    "id": "parma",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "parma",
+    "name": "Parma",
+    "country": "Italy",
+    "badge": null,
+    "image": "parma"
+  },
+  {
+    "id": "galatasaray",
+    "leagueId": "super-lig",
+    "regionId": null,
+    "slug": "galatasaray",
+    "name": "Galatasaray",
+    "country": "Turkey",
+    "badge": null,
+    "image": "galatasaray"
   }
 ]

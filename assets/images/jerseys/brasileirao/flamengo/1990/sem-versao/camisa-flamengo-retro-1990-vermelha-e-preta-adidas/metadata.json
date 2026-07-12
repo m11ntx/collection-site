@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-retro-1990-vermelha-e-preta-adidas",
-  "createdAt": "2026-07-12T10:14:40Z",
-  "updatedAt": "2026-07-12T10:14:40Z",
+  "createdAt": "2026-07-09T16:38:22Z",
+  "updatedAt": "2026-07-09T16:38:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12932,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:21Z",
+      "updatedAt": "2026-07-09T16:38:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10448,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23378,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 36260,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 20884,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 15984,
-      "createdAt": "2026-07-12T10:14:40Z",
-      "updatedAt": "2026-07-12T10:14:40Z"
+      "createdAt": "2026-07-09T16:38:22Z",
+      "updatedAt": "2026-07-09T16:38:22Z"
     }
   ]
 }

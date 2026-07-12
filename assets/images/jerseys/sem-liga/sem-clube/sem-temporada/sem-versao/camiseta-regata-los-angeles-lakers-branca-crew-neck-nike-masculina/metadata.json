@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-lakers-branca-crew-neck-nike-masculina",
-  "createdAt": "2026-07-12T10:11:32Z",
-  "updatedAt": "2026-07-12T10:11:32Z",
+  "createdAt": "2026-07-09T20:30:53Z",
+  "updatedAt": "2026-07-09T20:30:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10622,
-      "createdAt": "2026-07-12T10:11:31Z",
-      "updatedAt": "2026-07-12T10:11:31Z"
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23862,
-      "createdAt": "2026-07-12T10:11:31Z",
-      "updatedAt": "2026-07-12T10:11:31Z"
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18470,
-      "createdAt": "2026-07-12T10:11:31Z",
-      "updatedAt": "2026-07-12T10:11:31Z"
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19832,
-      "createdAt": "2026-07-12T10:11:31Z",
-      "updatedAt": "2026-07-12T10:11:31Z"
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 12196,
-      "createdAt": "2026-07-12T10:11:32Z",
-      "updatedAt": "2026-07-12T10:11:32Z"
+      "createdAt": "2026-07-09T20:30:53Z",
+      "updatedAt": "2026-07-09T20:30:53Z"
     }
   ]
 }

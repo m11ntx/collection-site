@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-94-95-selecao-brasileira-i-umbro-masculina-amarela",
-  "createdAt": "2026-07-12T10:10:07Z",
-  "updatedAt": "2026-07-12T10:10:07Z",
+  "createdAt": "2026-07-09T16:40:42Z",
+  "updatedAt": "2026-07-09T16:40:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12120,
-      "createdAt": "2026-07-12T10:10:06Z",
-      "updatedAt": "2026-07-12T10:10:06Z"
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6162,
-      "createdAt": "2026-07-12T10:10:06Z",
-      "updatedAt": "2026-07-12T10:10:06Z"
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21412,
-      "createdAt": "2026-07-12T10:10:06Z",
-      "updatedAt": "2026-07-12T10:10:06Z"
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17726,
-      "createdAt": "2026-07-12T10:10:06Z",
-      "updatedAt": "2026-07-12T10:10:06Z"
+      "createdAt": "2026-07-09T16:40:41Z",
+      "updatedAt": "2026-07-09T16:40:41Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 26962,
-      "createdAt": "2026-07-12T10:10:06Z",
-      "updatedAt": "2026-07-12T10:10:06Z"
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 26700,
-      "createdAt": "2026-07-12T10:10:07Z",
-      "updatedAt": "2026-07-12T10:10:07Z"
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 11362,
-      "createdAt": "2026-07-12T10:10:07Z",
-      "updatedAt": "2026-07-12T10:10:07Z"
+      "createdAt": "2026-07-09T16:40:42Z",
+      "updatedAt": "2026-07-09T16:40:42Z"
     }
   ]
 }

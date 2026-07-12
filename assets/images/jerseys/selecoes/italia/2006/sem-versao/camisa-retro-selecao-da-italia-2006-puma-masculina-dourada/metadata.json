@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-italia-2006-puma-masculina-dourada",
-  "createdAt": "2026-07-12T10:15:41Z",
-  "updatedAt": "2026-07-12T10:15:41Z",
+  "createdAt": "2026-07-09T16:43:01Z",
+  "updatedAt": "2026-07-09T16:43:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12524,
-      "createdAt": "2026-07-12T10:15:40Z",
-      "updatedAt": "2026-07-12T10:15:40Z"
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11522,
-      "createdAt": "2026-07-12T10:15:40Z",
-      "updatedAt": "2026-07-12T10:15:40Z"
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 45272,
-      "createdAt": "2026-07-12T10:15:41Z",
-      "updatedAt": "2026-07-12T10:15:41Z"
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 20254,
-      "createdAt": "2026-07-12T10:15:41Z",
-      "updatedAt": "2026-07-12T10:15:41Z"
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 18100,
-      "createdAt": "2026-07-12T10:15:41Z",
-      "updatedAt": "2026-07-12T10:15:41Z"
+      "createdAt": "2026-07-09T16:43:00Z",
+      "updatedAt": "2026-07-09T16:43:00Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17118,
-      "createdAt": "2026-07-12T10:15:41Z",
-      "updatedAt": "2026-07-12T10:15:41Z"
+      "createdAt": "2026-07-09T16:43:01Z",
+      "updatedAt": "2026-07-09T16:43:01Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 17344,
-      "createdAt": "2026-07-12T10:15:41Z",
-      "updatedAt": "2026-07-12T10:15:41Z"
+      "createdAt": "2026-07-09T16:43:01Z",
+      "updatedAt": "2026-07-09T16:43:01Z"
     }
   ]
 }

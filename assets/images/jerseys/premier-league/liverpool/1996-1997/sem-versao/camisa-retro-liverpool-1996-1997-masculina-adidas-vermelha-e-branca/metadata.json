@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-liverpool-1996-1997-masculina-adidas-vermelha-e-branca",
-  "createdAt": "2026-07-12T10:16:19Z",
-  "updatedAt": "2026-07-12T10:16:19Z",
+  "createdAt": "2026-07-09T16:39:07Z",
+  "updatedAt": "2026-07-09T16:39:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13418,
-      "createdAt": "2026-07-12T10:16:18Z",
-      "updatedAt": "2026-07-12T10:16:18Z"
+      "createdAt": "2026-07-09T16:39:06Z",
+      "updatedAt": "2026-07-09T16:39:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7474,
-      "createdAt": "2026-07-12T10:16:18Z",
-      "updatedAt": "2026-07-12T10:16:18Z"
+      "createdAt": "2026-07-09T16:39:06Z",
+      "updatedAt": "2026-07-09T16:39:06Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 42248,
-      "createdAt": "2026-07-12T10:16:18Z",
-      "updatedAt": "2026-07-12T10:16:18Z"
+      "createdAt": "2026-07-09T16:39:06Z",
+      "updatedAt": "2026-07-09T16:39:06Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 48032,
-      "createdAt": "2026-07-12T10:16:18Z",
-      "updatedAt": "2026-07-12T10:16:18Z"
+      "createdAt": "2026-07-09T16:39:07Z",
+      "updatedAt": "2026-07-09T16:39:07Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34554,
-      "createdAt": "2026-07-12T10:16:19Z",
-      "updatedAt": "2026-07-12T10:16:19Z"
+      "createdAt": "2026-07-09T16:39:07Z",
+      "updatedAt": "2026-07-09T16:39:07Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20276,
-      "createdAt": "2026-07-12T10:16:19Z",
-      "updatedAt": "2026-07-12T10:16:19Z"
+      "createdAt": "2026-07-09T16:39:07Z",
+      "updatedAt": "2026-07-09T16:39:07Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 34732,
-      "createdAt": "2026-07-12T10:16:19Z",
-      "updatedAt": "2026-07-12T10:16:19Z"
+      "createdAt": "2026-07-09T16:39:07Z",
+      "updatedAt": "2026-07-09T16:39:07Z"
     }
   ]
 }

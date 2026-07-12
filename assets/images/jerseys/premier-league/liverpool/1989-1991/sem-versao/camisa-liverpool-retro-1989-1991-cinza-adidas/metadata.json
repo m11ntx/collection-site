@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-liverpool-retro-1989-1991-cinza-adidas",
-  "createdAt": "2026-07-12T10:16:14Z",
-  "updatedAt": "2026-07-12T10:16:14Z",
+  "createdAt": "2026-07-09T16:39:04Z",
+  "updatedAt": "2026-07-09T16:39:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17280,
-      "createdAt": "2026-07-12T10:16:13Z",
-      "updatedAt": "2026-07-12T10:16:13Z"
+      "createdAt": "2026-07-09T16:39:03Z",
+      "updatedAt": "2026-07-09T16:39:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13424,
-      "createdAt": "2026-07-12T10:16:13Z",
-      "updatedAt": "2026-07-12T10:16:13Z"
+      "createdAt": "2026-07-09T16:39:03Z",
+      "updatedAt": "2026-07-09T16:39:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30424,
-      "createdAt": "2026-07-12T10:16:13Z",
-      "updatedAt": "2026-07-12T10:16:13Z"
+      "createdAt": "2026-07-09T16:39:03Z",
+      "updatedAt": "2026-07-09T16:39:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 29896,
-      "createdAt": "2026-07-12T10:16:13Z",
-      "updatedAt": "2026-07-12T10:16:13Z"
+      "createdAt": "2026-07-09T16:39:03Z",
+      "updatedAt": "2026-07-09T16:39:03Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 58746,
-      "createdAt": "2026-07-12T10:16:14Z",
-      "updatedAt": "2026-07-12T10:16:14Z"
+      "createdAt": "2026-07-09T16:39:04Z",
+      "updatedAt": "2026-07-09T16:39:04Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 51758,
-      "createdAt": "2026-07-12T10:16:14Z",
-      "updatedAt": "2026-07-12T10:16:14Z"
+      "createdAt": "2026-07-09T16:39:04Z",
+      "updatedAt": "2026-07-09T16:39:04Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 22392,
-      "createdAt": "2026-07-12T10:16:14Z",
-      "updatedAt": "2026-07-12T10:16:14Z"
+      "createdAt": "2026-07-09T16:39:04Z",
+      "updatedAt": "2026-07-09T16:39:04Z"
     }
   ]
 }

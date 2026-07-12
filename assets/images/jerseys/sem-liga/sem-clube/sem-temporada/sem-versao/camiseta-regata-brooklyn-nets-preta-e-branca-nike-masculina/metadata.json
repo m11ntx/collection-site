@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-brooklyn-nets-preta-e-branca-nike-masculina",
-  "createdAt": "2026-07-12T10:10:51Z",
-  "updatedAt": "2026-07-12T10:10:51Z",
+  "createdAt": "2026-07-09T20:30:24Z",
+  "updatedAt": "2026-07-09T20:30:24Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13906,
-      "createdAt": "2026-07-12T10:10:50Z",
-      "updatedAt": "2026-07-12T10:10:50Z"
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 19478,
-      "createdAt": "2026-07-12T10:10:50Z",
-      "updatedAt": "2026-07-12T10:10:50Z"
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21518,
-      "createdAt": "2026-07-12T10:10:50Z",
-      "updatedAt": "2026-07-12T10:10:50Z"
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 13758,
-      "createdAt": "2026-07-12T10:10:51Z",
-      "updatedAt": "2026-07-12T10:10:51Z"
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 19458,
-      "createdAt": "2026-07-12T10:10:51Z",
-      "updatedAt": "2026-07-12T10:10:51Z"
+      "createdAt": "2026-07-09T20:30:23Z",
+      "updatedAt": "2026-07-09T20:30:23Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 24542,
-      "createdAt": "2026-07-12T10:10:51Z",
-      "updatedAt": "2026-07-12T10:10:51Z"
+      "createdAt": "2026-07-09T20:30:24Z",
+      "updatedAt": "2026-07-09T20:30:24Z"
     }
   ]
 }

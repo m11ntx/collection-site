@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-lakers-branca-nike-masculina-3",
-  "createdAt": "2026-07-12T10:18:16Z",
-  "updatedAt": "2026-07-12T10:18:16Z",
+  "createdAt": "2026-07-09T22:07:26Z",
+  "updatedAt": "2026-07-09T22:07:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9976,
-      "createdAt": "2026-07-12T10:18:15Z",
-      "updatedAt": "2026-07-12T10:18:15Z"
+      "createdAt": "2026-07-09T22:07:25Z",
+      "updatedAt": "2026-07-09T22:07:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10214,
-      "createdAt": "2026-07-12T10:18:15Z",
-      "updatedAt": "2026-07-12T10:18:15Z"
+      "createdAt": "2026-07-09T22:07:25Z",
+      "updatedAt": "2026-07-09T22:07:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20200,
-      "createdAt": "2026-07-12T10:18:15Z",
-      "updatedAt": "2026-07-12T10:18:15Z"
+      "createdAt": "2026-07-09T22:07:25Z",
+      "updatedAt": "2026-07-09T22:07:25Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24196,
-      "createdAt": "2026-07-12T10:18:15Z",
-      "updatedAt": "2026-07-12T10:18:15Z"
+      "createdAt": "2026-07-09T22:07:25Z",
+      "updatedAt": "2026-07-09T22:07:25Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 43942,
-      "createdAt": "2026-07-12T10:18:16Z",
-      "updatedAt": "2026-07-12T10:18:16Z"
+      "createdAt": "2026-07-09T22:07:25Z",
+      "updatedAt": "2026-07-09T22:07:25Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17166,
-      "createdAt": "2026-07-12T10:18:16Z",
-      "updatedAt": "2026-07-12T10:18:16Z"
+      "createdAt": "2026-07-09T22:07:26Z",
+      "updatedAt": "2026-07-09T22:07:26Z"
     }
   ]
 }

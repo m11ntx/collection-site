@@ -1,11 +1,11 @@
 {
   "pipelineVersion": "0.1.0",
-  "generatedAt": "2026-07-12T10:19:39Z",
-  "runId": "893f1d922ab446229915d31128f83690",
-  "products": 507,
+  "generatedAt": "2026-07-12T05:48:13Z",
+  "runId": "6f0f47fc1ace4db1b6bec5b780a3508d",
+  "products": 3220,
   "collections": 4,
-  "leagues": 11,
-  "regions": 9,
-  "clubs": 60,
-  "manufacturers": 14
+  "leagues": 15,
+  "regions": 11,
+  "clubs": 168,
+  "manufacturers": 18
 }

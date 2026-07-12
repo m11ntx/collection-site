@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-bayern-de-munique-1998-1999-masculina-adidas-vermelha-e-cinza",
-  "createdAt": "2026-07-12T10:13:04Z",
-  "updatedAt": "2026-07-12T10:13:04Z",
+  "createdAt": "2026-07-09T16:41:24Z",
+  "updatedAt": "2026-07-09T16:41:24Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11382,
-      "createdAt": "2026-07-12T10:13:03Z",
-      "updatedAt": "2026-07-12T10:13:03Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6662,
-      "createdAt": "2026-07-12T10:13:03Z",
-      "updatedAt": "2026-07-12T10:13:03Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 58176,
-      "createdAt": "2026-07-12T10:13:03Z",
-      "updatedAt": "2026-07-12T10:13:03Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 82880,
-      "createdAt": "2026-07-12T10:13:03Z",
-      "updatedAt": "2026-07-12T10:13:03Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 45460,
-      "createdAt": "2026-07-12T10:13:04Z",
-      "updatedAt": "2026-07-12T10:13:04Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 30798,
-      "createdAt": "2026-07-12T10:13:04Z",
-      "updatedAt": "2026-07-12T10:13:04Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 33432,
-      "createdAt": "2026-07-12T10:13:04Z",
-      "updatedAt": "2026-07-12T10:13:04Z"
+      "createdAt": "2026-07-09T16:41:23Z",
+      "updatedAt": "2026-07-09T16:41:23Z"
     }
   ]
 }

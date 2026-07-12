@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-belgica-retro-1995-vermelha-diadora",
-  "createdAt": "2026-07-12T10:13:09Z",
-  "updatedAt": "2026-07-12T10:13:09Z",
+  "createdAt": "2026-07-09T16:36:08Z",
+  "updatedAt": "2026-07-09T16:36:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11672,
-      "createdAt": "2026-07-12T10:13:08Z",
-      "updatedAt": "2026-07-12T10:13:08Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10530,
-      "createdAt": "2026-07-12T10:13:08Z",
-      "updatedAt": "2026-07-12T10:13:08Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 46432,
-      "createdAt": "2026-07-12T10:13:08Z",
-      "updatedAt": "2026-07-12T10:13:08Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 26518,
-      "createdAt": "2026-07-12T10:13:08Z",
-      "updatedAt": "2026-07-12T10:13:08Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 18700,
-      "createdAt": "2026-07-12T10:13:08Z",
-      "updatedAt": "2026-07-12T10:13:08Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 26736,
-      "createdAt": "2026-07-12T10:13:09Z",
-      "updatedAt": "2026-07-12T10:13:09Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 19728,
-      "createdAt": "2026-07-12T10:13:09Z",
-      "updatedAt": "2026-07-12T10:13:09Z"
+      "createdAt": "2026-07-09T16:36:07Z",
+      "updatedAt": "2026-07-09T16:36:07Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-milwaukee-bucks-preta-nike-jordan-masculina",
-  "createdAt": "2026-07-12T10:11:45Z",
-  "updatedAt": "2026-07-12T10:11:45Z",
+  "createdAt": "2026-07-09T20:31:03Z",
+  "updatedAt": "2026-07-09T20:31:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14520,
-      "createdAt": "2026-07-12T10:11:44Z",
-      "updatedAt": "2026-07-12T10:11:44Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 22534,
-      "createdAt": "2026-07-12T10:11:44Z",
-      "updatedAt": "2026-07-12T10:11:44Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16830,
-      "createdAt": "2026-07-12T10:11:44Z",
-      "updatedAt": "2026-07-12T10:11:44Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 35950,
-      "createdAt": "2026-07-12T10:11:44Z",
-      "updatedAt": "2026-07-12T10:11:44Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 22924,
-      "createdAt": "2026-07-12T10:11:45Z",
-      "updatedAt": "2026-07-12T10:11:45Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 21640,
-      "createdAt": "2026-07-12T10:11:45Z",
-      "updatedAt": "2026-07-12T10:11:45Z"
+      "createdAt": "2026-07-09T20:31:03Z",
+      "updatedAt": "2026-07-09T20:31:03Z"
     }
   ]
 }

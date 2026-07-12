@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-atlanta-hawks-vermelha-nike-masculina",
-  "createdAt": "2026-07-12T10:10:42Z",
-  "updatedAt": "2026-07-12T10:10:42Z",
+  "createdAt": "2026-07-09T20:30:17Z",
+  "updatedAt": "2026-07-09T20:30:17Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14092,
-      "createdAt": "2026-07-12T10:10:41Z",
-      "updatedAt": "2026-07-12T10:10:41Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13382,
-      "createdAt": "2026-07-12T10:10:41Z",
-      "updatedAt": "2026-07-12T10:10:41Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14904,
-      "createdAt": "2026-07-12T10:10:42Z",
-      "updatedAt": "2026-07-12T10:10:42Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 26480,
-      "createdAt": "2026-07-12T10:10:42Z",
-      "updatedAt": "2026-07-12T10:10:42Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 16566,
-      "createdAt": "2026-07-12T10:10:42Z",
-      "updatedAt": "2026-07-12T10:10:42Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 27776,
-      "createdAt": "2026-07-12T10:10:42Z",
-      "updatedAt": "2026-07-12T10:10:42Z"
+      "createdAt": "2026-07-09T20:30:17Z",
+      "updatedAt": "2026-07-09T20:30:17Z"
     }
   ]
 }

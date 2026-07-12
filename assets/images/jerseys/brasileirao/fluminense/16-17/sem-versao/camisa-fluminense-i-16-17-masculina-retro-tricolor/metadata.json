@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-i-16-17-masculina-retro-tricolor",
-  "createdAt": "2026-07-12T10:18:30Z",
-  "updatedAt": "2026-07-12T10:18:30Z",
+  "createdAt": "2026-07-09T16:38:26Z",
+  "updatedAt": "2026-07-09T16:38:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9292,
-      "createdAt": "2026-07-12T10:18:29Z",
-      "updatedAt": "2026-07-12T10:18:29Z"
+      "createdAt": "2026-07-09T16:38:25Z",
+      "updatedAt": "2026-07-09T16:38:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8532,
-      "createdAt": "2026-07-12T10:18:29Z",
-      "updatedAt": "2026-07-12T10:18:29Z"
+      "createdAt": "2026-07-09T16:38:25Z",
+      "updatedAt": "2026-07-09T16:38:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15082,
-      "createdAt": "2026-07-12T10:18:29Z",
-      "updatedAt": "2026-07-12T10:18:29Z"
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19232,
-      "createdAt": "2026-07-12T10:18:29Z",
-      "updatedAt": "2026-07-12T10:18:29Z"
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 44468,
-      "createdAt": "2026-07-12T10:18:30Z",
-      "updatedAt": "2026-07-12T10:18:30Z"
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 38368,
-      "createdAt": "2026-07-12T10:18:30Z",
-      "updatedAt": "2026-07-12T10:18:30Z"
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 11708,
-      "createdAt": "2026-07-12T10:18:30Z",
-      "updatedAt": "2026-07-12T10:18:30Z"
+      "createdAt": "2026-07-09T16:38:26Z",
+      "updatedAt": "2026-07-09T16:38:26Z"
     }
   ]
 }

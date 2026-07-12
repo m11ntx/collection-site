@@ -72,12 +72,44 @@
     "image": "serie-a"
   },
   {
+    "id": "super-lig",
+    "collectionId": "europa",
+    "slug": "super-lig",
+    "name": "Süper Lig",
+    "country": "Turkey",
+    "image": "super-lig"
+  },
+  {
+    "id": "allsvenskan",
+    "collectionId": "resto-do-mundo",
+    "slug": "allsvenskan",
+    "name": "Allsvenskan",
+    "country": "Sweden",
+    "image": "allsvenskan"
+  },
+  {
     "id": "libertadores",
     "collectionId": "resto-do-mundo",
     "slug": "libertadores",
     "name": "Libertadores",
     "country": null,
     "image": "libertadores"
+  },
+  {
+    "id": "mls",
+    "collectionId": "resto-do-mundo",
+    "slug": "mls",
+    "name": "MLS",
+    "country": null,
+    "image": "mls"
+  },
+  {
+    "id": "saudi-pro-league",
+    "collectionId": "resto-do-mundo",
+    "slug": "saudi-pro-league",
+    "name": "Saudi Pro League",
+    "country": "Saudi Arabia",
+    "image": "saudi-pro-league"
   },
   {
     "id": "selecoes",

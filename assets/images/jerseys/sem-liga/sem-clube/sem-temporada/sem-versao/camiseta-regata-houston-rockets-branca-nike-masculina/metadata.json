@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-houston-rockets-branca-nike-masculina",
-  "createdAt": "2026-07-12T10:11:20Z",
-  "updatedAt": "2026-07-12T10:11:20Z",
+  "createdAt": "2026-07-09T20:30:45Z",
+  "updatedAt": "2026-07-09T20:30:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12422,
-      "createdAt": "2026-07-12T10:11:19Z",
-      "updatedAt": "2026-07-12T10:11:19Z"
+      "createdAt": "2026-07-09T20:30:44Z",
+      "updatedAt": "2026-07-09T20:30:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14820,
-      "createdAt": "2026-07-12T10:11:19Z",
-      "updatedAt": "2026-07-12T10:11:19Z"
+      "createdAt": "2026-07-09T20:30:44Z",
+      "updatedAt": "2026-07-09T20:30:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17988,
-      "createdAt": "2026-07-12T10:11:19Z",
-      "updatedAt": "2026-07-12T10:11:19Z"
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21838,
-      "createdAt": "2026-07-12T10:11:19Z",
-      "updatedAt": "2026-07-12T10:11:19Z"
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 18678,
-      "createdAt": "2026-07-12T10:11:20Z",
-      "updatedAt": "2026-07-12T10:11:20Z"
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 27904,
-      "createdAt": "2026-07-12T10:11:20Z",
-      "updatedAt": "2026-07-12T10:11:20Z"
+      "createdAt": "2026-07-09T20:30:45Z",
+      "updatedAt": "2026-07-09T20:30:45Z"
     }
   ]
 }

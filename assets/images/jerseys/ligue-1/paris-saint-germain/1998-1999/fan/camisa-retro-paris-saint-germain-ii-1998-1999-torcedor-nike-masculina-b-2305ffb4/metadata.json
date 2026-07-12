@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-paris-saint-germain-ii-1998-1999-torcedor-nike-masculina-branca-azul-e-vermelha",
-  "createdAt": "2026-07-12T10:10:02Z",
-  "updatedAt": "2026-07-12T10:10:02Z",
+  "createdAt": "2026-07-09T16:40:30Z",
+  "updatedAt": "2026-07-09T16:40:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13020,
-      "createdAt": "2026-07-12T10:10:01Z",
-      "updatedAt": "2026-07-12T10:10:01Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7970,
-      "createdAt": "2026-07-12T10:10:01Z",
-      "updatedAt": "2026-07-12T10:10:01Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23474,
-      "createdAt": "2026-07-12T10:10:01Z",
-      "updatedAt": "2026-07-12T10:10:01Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21286,
-      "createdAt": "2026-07-12T10:10:01Z",
-      "updatedAt": "2026-07-12T10:10:01Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 56480,
-      "createdAt": "2026-07-12T10:10:02Z",
-      "updatedAt": "2026-07-12T10:10:02Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17622,
-      "createdAt": "2026-07-12T10:10:02Z",
-      "updatedAt": "2026-07-12T10:10:02Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 36322,
-      "createdAt": "2026-07-12T10:10:02Z",
-      "updatedAt": "2026-07-12T10:10:02Z"
+      "createdAt": "2026-07-09T16:40:29Z",
+      "updatedAt": "2026-07-09T16:40:29Z"
     }
   ]
 }

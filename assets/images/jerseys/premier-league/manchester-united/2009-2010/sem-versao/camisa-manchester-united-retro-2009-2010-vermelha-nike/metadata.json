@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-retro-2009-2010-vermelha-nike",
-  "createdAt": "2026-07-12T10:17:28Z",
-  "updatedAt": "2026-07-12T10:17:28Z",
+  "createdAt": "2026-07-09T16:39:56Z",
+  "updatedAt": "2026-07-09T16:39:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11002,
-      "createdAt": "2026-07-12T10:17:27Z",
-      "updatedAt": "2026-07-12T10:17:27Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5520,
-      "createdAt": "2026-07-12T10:17:27Z",
-      "updatedAt": "2026-07-12T10:17:27Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16840,
-      "createdAt": "2026-07-12T10:17:27Z",
-      "updatedAt": "2026-07-12T10:17:27Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17902,
-      "createdAt": "2026-07-12T10:17:27Z",
-      "updatedAt": "2026-07-12T10:17:27Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 13312,
-      "createdAt": "2026-07-12T10:17:28Z",
-      "updatedAt": "2026-07-12T10:17:28Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20824,
-      "createdAt": "2026-07-12T10:17:28Z",
-      "updatedAt": "2026-07-12T10:17:28Z"
+      "createdAt": "2026-07-09T16:39:55Z",
+      "updatedAt": "2026-07-09T16:39:55Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 9794,
-      "createdAt": "2026-07-12T10:17:28Z",
-      "updatedAt": "2026-07-12T10:17:28Z"
+      "createdAt": "2026-07-09T16:39:56Z",
+      "updatedAt": "2026-07-09T16:39:56Z"
     }
   ]
 }

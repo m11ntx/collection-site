@@ -16,6 +16,14 @@
     "image": "nordeste"
   },
   {
+    "id": "norte",
+    "leagueId": "brasileirao",
+    "slug": "norte",
+    "name": "Norte",
+    "country": null,
+    "image": "norte"
+  },
+  {
     "id": "rio-de-janeiro",
     "leagueId": "brasileirao",
     "slug": "rio-de-janeiro",
@@ -70,5 +78,13 @@
     "name": "Europa",
     "country": null,
     "image": "europa"
+  },
+  {
+    "id": "oceania",
+    "leagueId": "selecoes",
+    "slug": "oceania",
+    "name": "Oceania",
+    "country": null,
+    "image": "oceania"
   }
 ]

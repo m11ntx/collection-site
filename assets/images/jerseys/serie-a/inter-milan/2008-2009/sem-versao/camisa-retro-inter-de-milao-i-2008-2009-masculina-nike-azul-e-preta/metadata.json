@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-inter-de-milao-i-2008-2009-masculina-nike-azul-e-preta",
-  "createdAt": "2026-07-12T10:15:23Z",
-  "updatedAt": "2026-07-12T10:15:23Z",
+  "createdAt": "2026-07-09T16:38:45Z",
+  "updatedAt": "2026-07-09T16:38:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10610,
-      "createdAt": "2026-07-12T10:15:22Z",
-      "updatedAt": "2026-07-12T10:15:22Z"
+      "createdAt": "2026-07-09T16:38:44Z",
+      "updatedAt": "2026-07-09T16:38:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6552,
-      "createdAt": "2026-07-12T10:15:22Z",
-      "updatedAt": "2026-07-12T10:15:22Z"
+      "createdAt": "2026-07-09T16:38:44Z",
+      "updatedAt": "2026-07-09T16:38:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20432,
-      "createdAt": "2026-07-12T10:15:22Z",
-      "updatedAt": "2026-07-12T10:15:22Z"
+      "createdAt": "2026-07-09T16:38:44Z",
+      "updatedAt": "2026-07-09T16:38:44Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18904,
-      "createdAt": "2026-07-12T10:15:23Z",
-      "updatedAt": "2026-07-12T10:15:23Z"
+      "createdAt": "2026-07-09T16:38:45Z",
+      "updatedAt": "2026-07-09T16:38:45Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 21334,
-      "createdAt": "2026-07-12T10:15:23Z",
-      "updatedAt": "2026-07-12T10:15:23Z"
+      "createdAt": "2026-07-09T16:38:45Z",
+      "updatedAt": "2026-07-09T16:38:45Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 33386,
-      "createdAt": "2026-07-12T10:15:23Z",
-      "updatedAt": "2026-07-12T10:15:23Z"
+      "createdAt": "2026-07-09T16:38:45Z",
+      "updatedAt": "2026-07-09T16:38:45Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 7708,
-      "createdAt": "2026-07-12T10:15:23Z",
-      "updatedAt": "2026-07-12T10:15:23Z"
+      "createdAt": "2026-07-09T16:38:45Z",
+      "updatedAt": "2026-07-09T16:38:45Z"
     }
   ]
 }

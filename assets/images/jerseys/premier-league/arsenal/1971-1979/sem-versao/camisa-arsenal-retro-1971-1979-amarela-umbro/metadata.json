@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-retro-1971-1979-amarela-umbro",
-  "createdAt": "2026-07-12T10:12:25Z",
-  "updatedAt": "2026-07-12T10:12:25Z",
+  "createdAt": "2026-07-09T16:35:32Z",
+  "updatedAt": "2026-07-09T16:35:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7210,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4820,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10690,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22610,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 11386,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 15708,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 6988,
-      "createdAt": "2026-07-12T10:12:25Z",
-      "updatedAt": "2026-07-12T10:12:25Z"
+      "createdAt": "2026-07-09T16:35:31Z",
+      "updatedAt": "2026-07-09T16:35:31Z"
     }
   ]
 }

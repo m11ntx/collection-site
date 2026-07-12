@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-milwaukee-bucks-verde-nike-masculina",
-  "createdAt": "2026-07-12T10:11:46Z",
-  "updatedAt": "2026-07-12T10:11:46Z",
+  "createdAt": "2026-07-09T20:31:05Z",
+  "updatedAt": "2026-07-09T20:31:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12958,
-      "createdAt": "2026-07-12T10:11:45Z",
-      "updatedAt": "2026-07-12T10:11:45Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 26370,
-      "createdAt": "2026-07-12T10:11:45Z",
-      "updatedAt": "2026-07-12T10:11:45Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22474,
-      "createdAt": "2026-07-12T10:11:45Z",
-      "updatedAt": "2026-07-12T10:11:45Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 46286,
-      "createdAt": "2026-07-12T10:11:46Z",
-      "updatedAt": "2026-07-12T10:11:46Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 32852,
-      "createdAt": "2026-07-12T10:11:46Z",
-      "updatedAt": "2026-07-12T10:11:46Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 24410,
-      "createdAt": "2026-07-12T10:11:46Z",
-      "updatedAt": "2026-07-12T10:11:46Z"
+      "createdAt": "2026-07-09T20:31:04Z",
+      "updatedAt": "2026-07-09T20:31:04Z"
     }
   ]
 }

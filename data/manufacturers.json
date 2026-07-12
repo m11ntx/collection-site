@@ -7,6 +7,13 @@
     "country": null
   },
   {
+    "id": "castore",
+    "slug": "castore",
+    "name": "Castore",
+    "logo": null,
+    "country": null
+  },
+  {
     "id": "diadora",
     "slug": "diadora",
     "name": "Diadora",
@@ -24,6 +31,13 @@
     "id": "hummel",
     "slug": "hummel",
     "name": "Hummel",
+    "logo": null,
+    "country": null
+  },
+  {
+    "id": "joma",
+    "slug": "joma",
+    "name": "Joma",
     "logo": null,
     "country": null
   },
@@ -52,6 +66,20 @@
     "id": "macron",
     "slug": "macron",
     "name": "Macron",
+    "logo": null,
+    "country": null
+  },
+  {
+    "id": "mizuno",
+    "slug": "mizuno",
+    "name": "Mizuno",
+    "logo": null,
+    "country": null
+  },
+  {
+    "id": "new-balance",
+    "slug": "new-balance",
+    "name": "New Balance",
     "logo": null,
     "country": null
   },

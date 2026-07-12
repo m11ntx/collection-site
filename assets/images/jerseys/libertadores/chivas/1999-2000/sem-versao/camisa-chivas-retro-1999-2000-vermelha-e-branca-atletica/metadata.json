@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chivas-retro-1999-2000-vermelha-e-branca-atletica",
-  "createdAt": "2026-07-12T10:13:57Z",
-  "updatedAt": "2026-07-12T10:13:57Z",
+  "createdAt": "2026-07-09T16:36:46Z",
+  "updatedAt": "2026-07-09T16:36:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20580,
-      "createdAt": "2026-07-12T10:13:56Z",
-      "updatedAt": "2026-07-12T10:13:56Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 22978,
-      "createdAt": "2026-07-12T10:13:56Z",
-      "updatedAt": "2026-07-12T10:13:56Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 35446,
-      "createdAt": "2026-07-12T10:13:56Z",
-      "updatedAt": "2026-07-12T10:13:56Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 31790,
-      "createdAt": "2026-07-12T10:13:57Z",
-      "updatedAt": "2026-07-12T10:13:57Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 51112,
-      "createdAt": "2026-07-12T10:13:57Z",
-      "updatedAt": "2026-07-12T10:13:57Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 53468,
-      "createdAt": "2026-07-12T10:13:57Z",
-      "updatedAt": "2026-07-12T10:13:57Z"
+      "createdAt": "2026-07-09T16:36:45Z",
+      "updatedAt": "2026-07-09T16:36:45Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 21688,
-      "createdAt": "2026-07-12T10:13:57Z",
-      "updatedAt": "2026-07-12T10:13:57Z"
+      "createdAt": "2026-07-09T16:36:46Z",
+      "updatedAt": "2026-07-09T16:36:46Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela",
-  "createdAt": "2026-07-12T10:09:50Z",
-  "updatedAt": "2026-07-12T10:09:50Z",
+  "createdAt": "2026-07-09T16:40:35Z",
+  "updatedAt": "2026-07-09T16:40:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8972,
-      "createdAt": "2026-07-12T10:09:49Z",
-      "updatedAt": "2026-07-12T10:09:49Z"
+      "createdAt": "2026-07-09T16:40:34Z",
+      "updatedAt": "2026-07-09T16:40:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6524,
-      "createdAt": "2026-07-12T10:09:49Z",
-      "updatedAt": "2026-07-12T10:09:49Z"
+      "createdAt": "2026-07-09T16:40:34Z",
+      "updatedAt": "2026-07-09T16:40:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15518,
-      "createdAt": "2026-07-12T10:09:49Z",
-      "updatedAt": "2026-07-12T10:09:49Z"
+      "createdAt": "2026-07-09T16:40:34Z",
+      "updatedAt": "2026-07-09T16:40:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 14996,
-      "createdAt": "2026-07-12T10:09:50Z",
-      "updatedAt": "2026-07-12T10:09:50Z"
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15352,
-      "createdAt": "2026-07-12T10:09:50Z",
-      "updatedAt": "2026-07-12T10:09:50Z"
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 21830,
-      "createdAt": "2026-07-12T10:09:50Z",
-      "updatedAt": "2026-07-12T10:09:50Z"
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 17900,
-      "createdAt": "2026-07-12T10:09:50Z",
-      "updatedAt": "2026-07-12T10:09:50Z"
+      "createdAt": "2026-07-09T16:40:35Z",
+      "updatedAt": "2026-07-09T16:40:35Z"
     }
   ]
 }
