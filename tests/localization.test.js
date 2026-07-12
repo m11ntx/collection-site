@@ -85,16 +85,40 @@
         };
     }
 
+    function isTraceUrl(url) { return String(url).indexOf("cdn-cgi/trace") !== -1; }
+
+    function traceResponds(countryCode) {
+        return { ok: true, text: function () { return Promise.resolve("h=m11ntx.com\nloc=" + countryCode + "\nts=1.0"); } };
+    }
+    function traceFails() { return { ok: false }; }
+    function ipapiResponds(countryCode) {
+        return { ok: true, json: function () { return Promise.resolve({ country_code: countryCode }); } };
+    }
+    function ipapiFails() { return { ok: false }; }
+
+    /** Both tiers succeed with the same country -- the common real-world
+     * case, and what most of the country-rule-table tests below exercise
+     * (they only care about the resolved language/currency, not which tier
+     * answered). */
     function ipResponds(countryCode) {
-        return function () {
-            return Promise.resolve({
-                ok: true,
-                json: function () { return Promise.resolve({ country_code: countryCode }); },
-            });
+        return function (url) {
+            return Promise.resolve(isTraceUrl(url) ? traceResponds(countryCode) : ipapiResponds(countryCode));
         };
     }
+    /** Both tiers fail -- forces the navigator.language last-resort path. */
     function ipFails() {
-        return function () { return Promise.resolve({ ok: false }); };
+        return function (url) {
+            return Promise.resolve(isTraceUrl(url) ? traceFails() : ipapiFails());
+        };
+    }
+    /** cdn-cgi/trace is blocked/unavailable (simulates a tracking-protection
+     * or ad-blocker filter list catching the third-party ipapi.co call, or a
+     * simple network hiccup) but ipapi.co still answers -- must still
+     * resolve to a real IP-based country, not fall through to navigator. */
+    function traceBlockedIpapiResponds(countryCode) {
+        return function (url) {
+            return Promise.resolve(isTraceUrl(url) ? traceFails() : ipapiResponds(countryCode));
+        };
     }
 
     const env = installGlobals();
@@ -217,6 +241,24 @@
             eq(result.language, "en-US");
             eq(result.currency, "USD");
         });
+    });
+
+    asyncTest("cdn-cgi/trace blocked (e.g. tracking protection) still resolves via ipapi.co, not navigator", function () {
+        reset("pt-BR"); // navigator would say Brazil if this wrongly fell through...
+        env.setFetchResponder(traceBlockedIpapiResponds("US")); // ...but ipapi.co says USA
+        return LocationService.resolve().then(function (result) {
+            eq(result.source, "ip", "still a real IP-based result, not navigator/default");
+            eq(result.language, "en-US");
+            eq(result.currency, "USD");
+            eq(result.country, "US");
+        });
+    });
+
+    test("parseCfTraceLoc reads the loc= line out of the real cdn-cgi/trace format", function () {
+        const body = "fl=1025f38\nh=m11ntx.com\nip=207.58.142.67\nloc=US\ntls=TLSv1.2\n";
+        eq(LocationService.parseCfTraceLoc(body), "US");
+        eq(LocationService.parseCfTraceLoc("no loc line here"), "", "missing loc= line");
+        eq(LocationService.parseCfTraceLoc(""), "", "empty body");
     });
 
     /* ---- persistence ---- */

@@ -2,9 +2,20 @@
  * assets/js/services/locationService.js
  * MI-03 -- resolves the visitor's language + currency by strict priority:
  *   1. saved user preference (LocalStorage)
- *   2. IP -> country lookup (free, keyless ipapi.co)
+ *   2. IP -> country lookup: same-origin Cloudflare `/cdn-cgi/trace` first,
+ *      then the free, keyless ipapi.co as a second attempt
  *   3. navigator.language (last resort only -- NEVER the primary signal)
  *   4. default (en-US / USD)
+ *
+ * Two IP methods, not one: real-world testing (Firefox Private Browsing,
+ * which defaults to Strict tracking protection, plus some VPN/ad-blocker
+ * filter lists) found the ipapi.co request silently blocked as a known
+ * "IP lookup" tracker -- falling straight through to navigator.language and
+ * showing the visitor's OS/browser language instead of their real location.
+ * `/cdn-cgi/trace` is same-origin (collection-site's own CDN, since the site
+ * is served through Cloudflare) so it is never third-party traffic and is
+ * not on any tracker blocklist; ipapi.co stays as a second attempt for the
+ * (rare) case the site is ever served from a non-Cloudflare host.
  *
  * Official country rules (delegated to LanguageService/CurrencyService so
  * there is exactly one place each lives):
@@ -29,9 +40,13 @@
 })(typeof window !== "undefined" ? window : null, function (LanguageService, CurrencyService) {
     "use strict";
 
-    // Free, keyless IP-geolocation. (The spec also allows Cloudflare's own
-    // geo headers, GeoJS or ipinfo -- ipapi.co was picked for its generous
-    // no-signup free tier, plain JSON response, and GitHub-Pages compatibility.)
+    // Same-origin first (no CORS, not third-party -- see file header for why
+    // this exists ahead of ipapi.co). Plain-text response, one "key=value"
+    // pair per line; the line we want is "loc=<ISO alpha-2>".
+    const CF_TRACE_URL = "/cdn-cgi/trace";
+    // Free, keyless IP-geolocation, second attempt. (The spec also allows
+    // Cloudflare's own geo headers, GeoJS or ipinfo -- ipapi.co was picked
+    // for its generous no-signup free tier and plain JSON response.)
     const GEO_URL = "https://ipapi.co/json/";
     const FETCH_TIMEOUT_MS = 3000;
 
@@ -89,14 +104,38 @@
             .catch(function () { clearTimeout(timer); return null; });
     }
 
-    /** IP -> country lookup. Resolves to an ISO alpha-2 string, or "" on any
-     * failure (network, CORS, rate-limit, ad-blocker) -- never rejects. */
-    function detectCountryViaIp() {
+    /** Parses Cloudflare's `/cdn-cgi/trace` plain-text body ("k=v" per line)
+     * for the "loc=" line. Returns "" if the line is missing/malformed. */
+    function parseCfTraceLoc(text) {
+        const match = typeof text === "string" && text.match(/^loc=([A-Za-z]{2})$/m);
+        return match ? match[1].toUpperCase() : "";
+    }
+
+    function detectCountryViaCfTrace() {
+        return withTimeout(function (signal) {
+            return fetch(CF_TRACE_URL, { signal: signal })
+                .then(function (res) { return res.ok ? res.text() : null; })
+                .then(function (text) { return parseCfTraceLoc(text); });
+        }).then(function (v) { return v || ""; });
+    }
+
+    function detectCountryViaIpapi() {
         return withTimeout(function (signal) {
             return fetch(GEO_URL, { signal: signal })
                 .then(function (res) { return res.ok ? res.json() : null; })
                 .then(function (data) { return (data && data.country_code) || ""; });
         }).then(function (v) { return v || ""; });
+    }
+
+    /** IP -> country lookup, same-origin method first (see file header).
+     * Resolves to an ISO alpha-2 string, or "" if both methods fail
+     * (network, CORS, rate-limit, ad-blocker/tracking-protection) -- never
+     * rejects. */
+    function detectCountryViaIp() {
+        return detectCountryViaCfTrace().then(function (country) {
+            if (country) return country;
+            return detectCountryViaIpapi();
+        });
     }
 
     function finalize(countryCode, source) {
@@ -121,10 +160,14 @@
     }
 
     return {
+        CF_TRACE_URL: CF_TRACE_URL,
         GEO_URL: GEO_URL,
         COUNTRY_KEY: COUNTRY_KEY,
         hasStoredPreference: hasStoredPreference,
         detectCountryViaIp: detectCountryViaIp,
+        detectCountryViaCfTrace: detectCountryViaCfTrace,
+        detectCountryViaIpapi: detectCountryViaIpapi,
+        parseCfTraceLoc: parseCfTraceLoc,
         countryFromNavigator: countryFromNavigator,
         resolve: resolve,
     };
