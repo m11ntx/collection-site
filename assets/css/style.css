@@ -14,6 +14,7 @@
 
 html{
     scroll-behavior:smooth;
+    overflow-x:hidden;
 }
 
 :root{
@@ -35,6 +36,7 @@ body{
     color:var(--color-white);
     font-family:"Manrope",sans-serif;
     background-color:var(--color-bg);
+    overflow-x:hidden;
 }
 
 /* fabric backdrop — very slightly zoomed (100% -> 105%) so the
@@ -1078,6 +1080,7 @@ body::after{
 /* ---------- breadcrumb ---------- */
 .breadcrumb{
     display:flex;
+    flex-wrap:wrap;
     align-items:center;
     gap:.6rem;
     margin-bottom:2rem;
@@ -1089,6 +1092,9 @@ body::after{
     color:var(--color-gray);
     text-decoration:none;
     transition:color var(--transition);
+}
+.breadcrumb__current{
+    overflow-wrap:anywhere;
 }
 .breadcrumb__link:hover{ color:var(--color-gold); }
 .breadcrumb__sep{ color:#555; }
