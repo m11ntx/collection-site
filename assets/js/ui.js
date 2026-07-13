@@ -73,6 +73,11 @@ const UI = (() => {
         const overlay = document.getElementById("searchOverlay");
         const openBtn = document.getElementById("searchOpen");
         const openBtnMobile = document.getElementById("searchOpenMobile");
+        // Always-visible mobile search bar (CS-63) -- a third trigger for
+        // the exact same overlay/engine as the desktop search button and
+        // the one inside the hamburger menu (kept, per explicit request:
+        // "pode continuar lá, mas também deixar sempre visível").
+        const openBtnMobileBar = document.getElementById("searchOpenMobileBar");
         const closeBtn = document.getElementById("searchClose");
         const input = document.getElementById("searchInput");
         if (!overlay) return;
@@ -92,6 +97,7 @@ const UI = (() => {
 
         if (openBtn) openBtn.addEventListener("click", open);
         if (openBtnMobile) openBtnMobile.addEventListener("click", open);
+        if (openBtnMobileBar) openBtnMobileBar.addEventListener("click", open);
         if (closeBtn) closeBtn.addEventListener("click", close);
 
         // Click on the dimmed backdrop closes the overlay.

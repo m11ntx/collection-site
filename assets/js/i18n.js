@@ -41,6 +41,7 @@
                 howItWorks: "Como Funciona",
                 faq: "FAQ", about: "Sobre", contact: "Contato",
                 openSearch: "Abrir busca", search: "Buscar",
+                searchPlaceholder: "Buscar na coleção",
                 openMenu: "Abrir menu", closeMenu: "Fechar menu",
                 langToggle: "Mudar para inglês", langToggleLabel: "EN"
             },
@@ -222,6 +223,7 @@
                 howItWorks: "How It Works",
                 faq: "FAQ", about: "About", contact: "Contact",
                 openSearch: "Open search", search: "Search",
+                searchPlaceholder: "Search the collection",
                 openMenu: "Open menu", closeMenu: "Close menu",
                 langToggle: "Switch to Portuguese", langToggleLabel: "PT"
             },

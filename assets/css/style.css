@@ -495,6 +495,35 @@ body::after{
     transition:transform var(--transition), opacity var(--transition);
 }
 
+/* Always-visible mobile search bar (CS-63) -- a second row under the main
+   nav row, mobile only. Styled to read as a real search field but is a
+   <button> underneath (opens the existing full search overlay, same
+   engine/results as the desktop search and the one still inside the
+   hamburger menu -- no logic duplicated, no keyboard-flicker from an
+   input briefly gaining then losing focus). */
+.nav__mobile-search-bar{ display:none; }
+.nav__mobile-search-btn{
+    display:flex;
+    align-items:center;
+    gap:.6rem;
+    width:100%;
+    background:rgba(255,255,255,.04);
+    border:1px solid var(--color-border);
+    color:var(--color-gray);
+    padding:.65rem 1rem;
+    border-radius:999px;
+    font:inherit;
+    font-size:.82rem;
+    letter-spacing:.02em;
+    text-align:left;
+    cursor:pointer;
+    transition:color var(--transition), border-color var(--transition);
+}
+.nav__mobile-search-btn:active,
+.nav__mobile-search-btn:focus-visible{ color:var(--color-gold); border-color:var(--color-gold); }
+.nav__mobile-search-btn svg{ flex-shrink:0; }
+.nav__mobile-search-btn span{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+
 /* ---------- MOBILE MENU ---------- */
 .mobile-menu{
     position:fixed;
@@ -873,6 +902,7 @@ body::after{
     .nav__inner{ padding:0 1.3rem; height:60px; }
     .nav__menu{ display:none; }
     .nav__toggle{ display:flex; }
+    .nav__mobile-search-bar{ display:block; padding:0 1.3rem .7rem; }
 
     .section{ padding:4rem 0; }
     .section__inner{ padding:0 1.3rem; }
@@ -1243,7 +1273,7 @@ body::after{
 }
 
 @media (max-width:768px){
-    .detail{ padding:5.5rem 1.3rem 3rem; }
+    .detail{ padding:9rem 1.3rem 3rem; } /* +extra row for the always-visible mobile search bar (CS-63) */
     .detail__banner{ aspect-ratio:4 / 3; }
     .detail__overlay{ padding:1.5rem; }
     .detail__desc{ font-size:1rem; }
