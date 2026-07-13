@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-iii-25-26-torcedor-masculino-patrocinio-alfa-azul-marinho",
-  "createdAt": "2026-07-05T16:05:42Z",
-  "updatedAt": "2026-07-05T16:05:42Z",
+  "createdAt": "2026-07-13T13:48:44Z",
+  "updatedAt": "2026-07-13T13:48:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16546,
-      "createdAt": "2026-07-05T16:05:42Z",
-      "updatedAt": "2026-07-05T16:05:42Z"
+      "createdAt": "2026-07-13T13:48:44Z",
+      "updatedAt": "2026-07-13T13:48:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12732,
-      "createdAt": "2026-07-05T16:05:42Z",
-      "updatedAt": "2026-07-05T16:05:42Z"
+      "createdAt": "2026-07-13T13:48:44Z",
+      "updatedAt": "2026-07-13T13:48:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17978,
-      "createdAt": "2026-07-05T16:05:42Z",
-      "updatedAt": "2026-07-05T16:05:42Z"
+      "createdAt": "2026-07-13T13:48:44Z",
+      "updatedAt": "2026-07-13T13:48:44Z"
     }
   ]
 }

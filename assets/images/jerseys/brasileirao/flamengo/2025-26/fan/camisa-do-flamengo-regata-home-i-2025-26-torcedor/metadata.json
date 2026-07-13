@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-flamengo-regata-home-i-2025-26-torcedor",
-  "createdAt": "2026-07-05T06:09:00Z",
-  "updatedAt": "2026-07-05T06:09:00Z",
+  "createdAt": "2026-07-13T13:46:28Z",
+  "updatedAt": "2026-07-13T13:46:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9548,
-      "createdAt": "2026-07-05T06:09:00Z",
-      "updatedAt": "2026-07-05T06:09:00Z"
+      "createdAt": "2026-07-13T13:46:28Z",
+      "updatedAt": "2026-07-13T13:46:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7188,
-      "createdAt": "2026-07-05T06:09:00Z",
-      "updatedAt": "2026-07-05T06:09:00Z"
+      "createdAt": "2026-07-13T13:46:28Z",
+      "updatedAt": "2026-07-13T13:46:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17000,
-      "createdAt": "2026-07-05T06:09:00Z",
-      "updatedAt": "2026-07-05T06:09:00Z"
+      "createdAt": "2026-07-13T13:46:28Z",
+      "updatedAt": "2026-07-13T13:46:28Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-25-26-torcedor-adidas-feminina",
-  "createdAt": "2026-07-09T05:35:22Z",
-  "updatedAt": "2026-07-09T05:35:22Z",
+  "createdAt": "2026-07-13T13:51:18Z",
+  "updatedAt": "2026-07-13T13:51:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 421,
       "size": 12024,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:51:18Z",
+      "updatedAt": "2026-07-13T13:51:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 431,
       "size": 9782,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:51:18Z",
+      "updatedAt": "2026-07-13T13:51:18Z"
     }
   ]
 }

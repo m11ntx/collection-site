@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-retro-1995-1997-amarela-umbro",
-  "createdAt": "2026-07-09T16:36:37Z",
-  "updatedAt": "2026-07-09T16:36:37Z",
+  "createdAt": "2026-07-13T13:26:21Z",
+  "updatedAt": "2026-07-13T13:26:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14510,
-      "createdAt": "2026-07-09T16:36:36Z",
-      "updatedAt": "2026-07-09T16:36:36Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8692,
-      "createdAt": "2026-07-09T16:36:36Z",
-      "updatedAt": "2026-07-09T16:36:36Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33354,
-      "createdAt": "2026-07-09T16:36:36Z",
-      "updatedAt": "2026-07-09T16:36:36Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 27492,
-      "createdAt": "2026-07-09T16:36:36Z",
-      "updatedAt": "2026-07-09T16:36:36Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 47162,
-      "createdAt": "2026-07-09T16:36:37Z",
-      "updatedAt": "2026-07-09T16:36:37Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 35084,
-      "createdAt": "2026-07-09T16:36:37Z",
-      "updatedAt": "2026-07-09T16:36:37Z"
+      "createdAt": "2026-07-13T13:26:21Z",
+      "updatedAt": "2026-07-13T13:26:21Z"
     }
   ]
 }

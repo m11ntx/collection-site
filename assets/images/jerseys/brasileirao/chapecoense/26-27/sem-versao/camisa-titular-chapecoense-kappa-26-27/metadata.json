@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-titular-chapecoense-kappa-26-27",
-  "createdAt": "2026-07-09T22:13:34Z",
-  "updatedAt": "2026-07-09T22:13:34Z",
+  "createdAt": "2026-07-13T13:51:28Z",
+  "updatedAt": "2026-07-13T13:51:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8216,
-      "createdAt": "2026-07-09T22:13:34Z",
-      "updatedAt": "2026-07-09T22:13:34Z"
+      "createdAt": "2026-07-13T13:51:28Z",
+      "updatedAt": "2026-07-13T13:51:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 19430,
-      "createdAt": "2026-07-09T22:13:34Z",
-      "updatedAt": "2026-07-09T22:13:34Z"
+      "createdAt": "2026-07-13T13:51:28Z",
+      "updatedAt": "2026-07-13T13:51:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7764,
-      "createdAt": "2026-07-09T22:13:34Z",
-      "updatedAt": "2026-07-09T22:13:34Z"
+      "createdAt": "2026-07-13T13:51:28Z",
+      "updatedAt": "2026-07-13T13:51:28Z"
     }
   ]
 }

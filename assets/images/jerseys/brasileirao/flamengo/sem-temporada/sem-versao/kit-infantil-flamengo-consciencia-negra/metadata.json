@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-flamengo-consciencia-negra",
-  "createdAt": "2026-07-09T17:17:46Z",
-  "updatedAt": "2026-07-09T17:17:46Z",
+  "createdAt": "2026-07-13T13:47:01Z",
+  "updatedAt": "2026-07-13T13:47:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8490,
-      "createdAt": "2026-07-09T17:17:46Z",
-      "updatedAt": "2026-07-09T17:17:46Z"
+      "createdAt": "2026-07-13T13:47:01Z",
+      "updatedAt": "2026-07-13T13:47:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5702,
-      "createdAt": "2026-07-09T17:17:46Z",
-      "updatedAt": "2026-07-09T17:17:46Z"
+      "createdAt": "2026-07-13T13:47:01Z",
+      "updatedAt": "2026-07-13T13:47:01Z"
     }
   ]
 }

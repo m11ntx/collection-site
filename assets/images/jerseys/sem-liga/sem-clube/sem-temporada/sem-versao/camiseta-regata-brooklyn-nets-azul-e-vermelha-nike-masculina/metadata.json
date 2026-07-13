@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-brooklyn-nets-azul-e-vermelha-nike-masculina",
-  "createdAt": "2026-07-09T20:30:18Z",
-  "updatedAt": "2026-07-09T20:30:18Z",
+  "createdAt": "2026-07-13T13:24:16Z",
+  "updatedAt": "2026-07-13T13:24:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15184,
-      "createdAt": "2026-07-09T20:30:17Z",
-      "updatedAt": "2026-07-09T20:30:17Z"
+      "createdAt": "2026-07-13T13:24:15Z",
+      "updatedAt": "2026-07-13T13:24:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14916,
-      "createdAt": "2026-07-09T20:30:17Z",
-      "updatedAt": "2026-07-09T20:30:17Z"
+      "createdAt": "2026-07-13T13:24:16Z",
+      "updatedAt": "2026-07-13T13:24:16Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 29548,
-      "createdAt": "2026-07-09T20:30:18Z",
-      "updatedAt": "2026-07-09T20:30:18Z"
+      "createdAt": "2026-07-13T13:24:16Z",
+      "updatedAt": "2026-07-13T13:24:16Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21316,
-      "createdAt": "2026-07-09T20:30:18Z",
-      "updatedAt": "2026-07-09T20:30:18Z"
+      "createdAt": "2026-07-13T13:24:16Z",
+      "updatedAt": "2026-07-13T13:24:16Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 23772,
-      "createdAt": "2026-07-09T20:30:18Z",
-      "updatedAt": "2026-07-09T20:30:18Z"
+      "createdAt": "2026-07-13T13:24:16Z",
+      "updatedAt": "2026-07-13T13:24:16Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 19548,
-      "createdAt": "2026-07-09T20:30:18Z",
-      "updatedAt": "2026-07-09T20:30:18Z"
+      "createdAt": "2026-07-13T13:24:16Z",
+      "updatedAt": "2026-07-13T13:24:16Z"
     }
   ]
 }

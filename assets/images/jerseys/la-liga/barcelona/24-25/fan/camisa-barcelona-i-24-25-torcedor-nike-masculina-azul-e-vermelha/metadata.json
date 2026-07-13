@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-i-24-25-torcedor-nike-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-07T02:48:03Z",
-  "updatedAt": "2026-07-07T02:48:03Z",
+  "createdAt": "2026-07-13T13:37:36Z",
+  "updatedAt": "2026-07-13T13:37:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11214,
-      "createdAt": "2026-07-07T02:48:02Z",
-      "updatedAt": "2026-07-07T02:48:02Z"
+      "createdAt": "2026-07-13T13:37:34Z",
+      "updatedAt": "2026-07-13T13:37:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10236,
-      "createdAt": "2026-07-07T02:48:02Z",
-      "updatedAt": "2026-07-07T02:48:02Z"
+      "createdAt": "2026-07-13T13:37:34Z",
+      "updatedAt": "2026-07-13T13:37:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 50772,
-      "createdAt": "2026-07-07T02:48:02Z",
-      "updatedAt": "2026-07-07T02:48:02Z"
+      "createdAt": "2026-07-13T13:37:34Z",
+      "updatedAt": "2026-07-13T13:37:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 40058,
-      "createdAt": "2026-07-07T02:48:02Z",
-      "updatedAt": "2026-07-07T02:48:02Z"
+      "createdAt": "2026-07-13T13:37:34Z",
+      "updatedAt": "2026-07-13T13:37:34Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 37614,
-      "createdAt": "2026-07-07T02:48:02Z",
-      "updatedAt": "2026-07-07T02:48:02Z"
+      "createdAt": "2026-07-13T13:37:35Z",
+      "updatedAt": "2026-07-13T13:37:35Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 42000,
-      "createdAt": "2026-07-07T02:48:03Z",
-      "updatedAt": "2026-07-07T02:48:03Z"
+      "createdAt": "2026-07-13T13:37:35Z",
+      "updatedAt": "2026-07-13T13:37:35Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 320,
       "size": 21738,
-      "createdAt": "2026-07-07T02:48:03Z",
-      "updatedAt": "2026-07-07T02:48:03Z"
+      "createdAt": "2026-07-13T13:37:35Z",
+      "updatedAt": "2026-07-13T13:37:35Z"
     }
   ]
 }

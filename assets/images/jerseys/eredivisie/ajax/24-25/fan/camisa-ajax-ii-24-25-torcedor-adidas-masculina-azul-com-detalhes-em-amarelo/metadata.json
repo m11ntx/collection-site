@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-ii-24-25-torcedor-adidas-masculina-azul-com-detalhes-em-amarelo",
-  "createdAt": "2026-07-07T03:07:53Z",
-  "updatedAt": "2026-07-07T03:07:53Z",
+  "createdAt": "2026-07-13T13:36:52Z",
+  "updatedAt": "2026-07-13T13:36:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 24758,
-      "createdAt": "2026-07-07T03:07:52Z",
-      "updatedAt": "2026-07-07T03:07:52Z"
+      "createdAt": "2026-07-13T13:36:52Z",
+      "updatedAt": "2026-07-13T13:36:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12214,
-      "createdAt": "2026-07-07T03:07:52Z",
-      "updatedAt": "2026-07-07T03:07:52Z"
+      "createdAt": "2026-07-13T13:36:52Z",
+      "updatedAt": "2026-07-13T13:36:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 52674,
-      "createdAt": "2026-07-07T03:07:53Z",
-      "updatedAt": "2026-07-07T03:07:53Z"
+      "createdAt": "2026-07-13T13:36:52Z",
+      "updatedAt": "2026-07-13T13:36:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 25618,
-      "createdAt": "2026-07-07T03:07:53Z",
-      "updatedAt": "2026-07-07T03:07:53Z"
+      "createdAt": "2026-07-13T13:36:52Z",
+      "updatedAt": "2026-07-13T13:36:52Z"
     }
   ]
 }

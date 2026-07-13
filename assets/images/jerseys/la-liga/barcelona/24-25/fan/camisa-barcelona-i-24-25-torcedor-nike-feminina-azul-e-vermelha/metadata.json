@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-i-24-25-torcedor-nike-feminina-azul-e-vermelha",
-  "createdAt": "2026-07-09T05:35:08Z",
-  "updatedAt": "2026-07-09T05:35:08Z",
+  "createdAt": "2026-07-13T13:38:48Z",
+  "updatedAt": "2026-07-13T13:38:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7600,
-      "createdAt": "2026-07-09T05:35:07Z",
-      "updatedAt": "2026-07-09T05:35:07Z"
+      "createdAt": "2026-07-13T13:38:48Z",
+      "updatedAt": "2026-07-13T13:38:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6466,
-      "createdAt": "2026-07-09T05:35:08Z",
-      "updatedAt": "2026-07-09T05:35:08Z"
+      "createdAt": "2026-07-13T13:38:48Z",
+      "updatedAt": "2026-07-13T13:38:48Z"
     }
   ]
 }

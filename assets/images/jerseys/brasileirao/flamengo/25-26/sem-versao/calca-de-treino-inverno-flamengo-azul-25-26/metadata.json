@@ -1,7 +1,7 @@
 {
   "productId": "source-calca-de-treino-inverno-flamengo-azul-25-26",
-  "createdAt": "2026-07-09T22:52:09Z",
-  "updatedAt": "2026-07-09T22:52:09Z",
+  "createdAt": "2026-07-13T13:47:16Z",
+  "updatedAt": "2026-07-13T13:47:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6530,
-      "createdAt": "2026-07-09T22:52:09Z",
-      "updatedAt": "2026-07-09T22:52:09Z"
+      "createdAt": "2026-07-13T13:47:16Z",
+      "updatedAt": "2026-07-13T13:47:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5340,
-      "createdAt": "2026-07-09T22:52:09Z",
-      "updatedAt": "2026-07-09T22:52:09Z"
+      "createdAt": "2026-07-13T13:47:16Z",
+      "updatedAt": "2026-07-13T13:47:16Z"
     }
   ]
 }

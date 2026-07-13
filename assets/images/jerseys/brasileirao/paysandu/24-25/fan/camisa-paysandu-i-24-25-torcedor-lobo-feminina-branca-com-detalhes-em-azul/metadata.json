@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paysandu-i-24-25-torcedor-lobo-feminina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T05:35:44Z",
-  "updatedAt": "2026-07-09T05:35:44Z",
+  "createdAt": "2026-07-13T13:32:54Z",
+  "updatedAt": "2026-07-13T13:32:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7906,
-      "createdAt": "2026-07-09T05:35:43Z",
-      "updatedAt": "2026-07-09T05:35:43Z"
+      "createdAt": "2026-07-13T13:32:53Z",
+      "updatedAt": "2026-07-13T13:32:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3638,
-      "createdAt": "2026-07-09T05:35:43Z",
-      "updatedAt": "2026-07-09T05:35:43Z"
+      "createdAt": "2026-07-13T13:32:53Z",
+      "updatedAt": "2026-07-13T13:32:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14228,
-      "createdAt": "2026-07-09T05:35:43Z",
-      "updatedAt": "2026-07-09T05:35:43Z"
+      "createdAt": "2026-07-13T13:32:53Z",
+      "updatedAt": "2026-07-13T13:32:53Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 54232,
-      "createdAt": "2026-07-09T05:35:43Z",
-      "updatedAt": "2026-07-09T05:35:43Z"
+      "createdAt": "2026-07-13T13:32:53Z",
+      "updatedAt": "2026-07-13T13:32:53Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 13440,
-      "createdAt": "2026-07-09T05:35:43Z",
-      "updatedAt": "2026-07-09T05:35:43Z"
+      "createdAt": "2026-07-13T13:32:53Z",
+      "updatedAt": "2026-07-13T13:32:53Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 12858,
-      "createdAt": "2026-07-09T05:35:44Z",
-      "updatedAt": "2026-07-09T05:35:44Z"
+      "createdAt": "2026-07-13T13:32:54Z",
+      "updatedAt": "2026-07-13T13:32:54Z"
     }
   ]
 }

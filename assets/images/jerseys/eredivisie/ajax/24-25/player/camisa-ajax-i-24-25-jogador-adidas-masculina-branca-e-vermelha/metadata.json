@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-i-24-25-jogador-adidas-masculina-branca-e-vermelha",
-  "createdAt": "2026-07-09T03:06:32Z",
-  "updatedAt": "2026-07-09T03:06:32Z",
+  "createdAt": "2026-07-13T13:39:47Z",
+  "updatedAt": "2026-07-13T13:39:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12476,
-      "createdAt": "2026-07-09T03:06:31Z",
-      "updatedAt": "2026-07-09T03:06:31Z"
+      "createdAt": "2026-07-13T13:39:46Z",
+      "updatedAt": "2026-07-13T13:39:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8258,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:46Z",
+      "updatedAt": "2026-07-13T13:39:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16512,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:46Z",
+      "updatedAt": "2026-07-13T13:39:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 14244,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:46Z",
+      "updatedAt": "2026-07-13T13:39:46Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 6384,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:46Z",
+      "updatedAt": "2026-07-13T13:39:46Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 10202,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:47Z",
+      "updatedAt": "2026-07-13T13:39:47Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 17634,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:39:47Z",
+      "updatedAt": "2026-07-13T13:39:47Z"
     }
   ]
 }

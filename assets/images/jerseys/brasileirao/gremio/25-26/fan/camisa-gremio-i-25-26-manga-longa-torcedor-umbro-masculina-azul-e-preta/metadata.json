@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-i-25-26-manga-longa-torcedor-umbro-masculina-azul-e-preta",
-  "createdAt": "2026-07-09T22:52:10Z",
-  "updatedAt": "2026-07-09T22:52:10Z",
+  "createdAt": "2026-07-13T13:47:22Z",
+  "updatedAt": "2026-07-13T13:47:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17388,
-      "createdAt": "2026-07-09T22:52:10Z",
-      "updatedAt": "2026-07-09T22:52:10Z"
+      "createdAt": "2026-07-13T13:47:21Z",
+      "updatedAt": "2026-07-13T13:47:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13622,
-      "createdAt": "2026-07-09T22:52:10Z",
-      "updatedAt": "2026-07-09T22:52:10Z"
+      "createdAt": "2026-07-13T13:47:22Z",
+      "updatedAt": "2026-07-13T13:47:22Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-inglaterra-ii-26-27-torcedor-nike-masculina-vermelha-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T22:13:20Z",
-  "updatedAt": "2026-07-09T22:13:20Z",
+  "createdAt": "2026-07-13T13:50:18Z",
+  "updatedAt": "2026-07-13T13:50:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20612,
-      "createdAt": "2026-07-09T22:13:07Z",
-      "updatedAt": "2026-07-09T22:13:07Z"
+      "createdAt": "2026-07-13T13:50:13Z",
+      "updatedAt": "2026-07-13T13:50:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18310,
-      "createdAt": "2026-07-09T22:13:14Z",
-      "updatedAt": "2026-07-09T22:13:14Z"
+      "createdAt": "2026-07-13T13:50:15Z",
+      "updatedAt": "2026-07-13T13:50:15Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 46520,
-      "createdAt": "2026-07-09T22:13:20Z",
-      "updatedAt": "2026-07-09T22:13:20Z"
+      "createdAt": "2026-07-13T13:50:18Z",
+      "updatedAt": "2026-07-13T13:50:18Z"
     }
   ]
 }

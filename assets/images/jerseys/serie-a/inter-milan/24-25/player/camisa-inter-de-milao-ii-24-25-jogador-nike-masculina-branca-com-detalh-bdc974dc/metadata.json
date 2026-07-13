@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-inter-de-milao-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T22:48:20Z",
-  "updatedAt": "2026-07-09T22:48:20Z",
+  "createdAt": "2026-07-13T13:38:39Z",
+  "updatedAt": "2026-07-13T13:38:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9200,
-      "createdAt": "2026-07-09T22:48:20Z",
-      "updatedAt": "2026-07-09T22:48:20Z"
+      "createdAt": "2026-07-13T13:38:38Z",
+      "updatedAt": "2026-07-13T13:38:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13702,
-      "createdAt": "2026-07-09T22:48:20Z",
-      "updatedAt": "2026-07-09T22:48:20Z"
+      "createdAt": "2026-07-13T13:38:39Z",
+      "updatedAt": "2026-07-13T13:38:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9706,
-      "createdAt": "2026-07-09T22:48:20Z",
-      "updatedAt": "2026-07-09T22:48:20Z"
+      "createdAt": "2026-07-13T13:38:39Z",
+      "updatedAt": "2026-07-13T13:38:39Z"
     }
   ]
 }

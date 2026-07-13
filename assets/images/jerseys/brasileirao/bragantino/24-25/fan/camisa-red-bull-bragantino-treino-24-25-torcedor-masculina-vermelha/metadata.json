@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-red-bull-bragantino-treino-24-25-torcedor-masculina-vermelha",
-  "createdAt": "2026-07-05T16:55:39Z",
-  "updatedAt": "2026-07-05T16:55:39Z",
+  "createdAt": "2026-07-13T13:37:37Z",
+  "updatedAt": "2026-07-13T13:37:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 22934,
-      "createdAt": "2026-07-05T16:55:38Z",
-      "updatedAt": "2026-07-05T16:55:38Z"
+      "createdAt": "2026-07-13T13:37:37Z",
+      "updatedAt": "2026-07-13T13:37:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15708,
-      "createdAt": "2026-07-05T16:55:38Z",
-      "updatedAt": "2026-07-05T16:55:38Z"
+      "createdAt": "2026-07-13T13:37:37Z",
+      "updatedAt": "2026-07-13T13:37:37Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 49046,
-      "createdAt": "2026-07-05T16:55:38Z",
-      "updatedAt": "2026-07-05T16:55:38Z"
+      "createdAt": "2026-07-13T13:37:37Z",
+      "updatedAt": "2026-07-13T13:37:37Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 41610,
-      "createdAt": "2026-07-05T16:55:38Z",
-      "updatedAt": "2026-07-05T16:55:38Z"
+      "createdAt": "2026-07-13T13:37:37Z",
+      "updatedAt": "2026-07-13T13:37:37Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 41826,
-      "createdAt": "2026-07-05T16:55:38Z",
-      "updatedAt": "2026-07-05T16:55:38Z"
+      "createdAt": "2026-07-13T13:37:37Z",
+      "updatedAt": "2026-07-13T13:37:37Z"
     }
   ]
 }

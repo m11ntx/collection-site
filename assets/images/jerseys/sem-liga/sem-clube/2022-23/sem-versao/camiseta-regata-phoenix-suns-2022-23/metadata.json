@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-phoenix-suns-2022-23",
-  "createdAt": "2026-07-09T20:32:06Z",
-  "updatedAt": "2026-07-09T20:32:06Z",
+  "createdAt": "2026-07-13T13:47:30Z",
+  "updatedAt": "2026-07-13T13:47:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8278,
-      "createdAt": "2026-07-09T20:32:06Z",
-      "updatedAt": "2026-07-09T20:32:06Z"
+      "createdAt": "2026-07-13T13:47:30Z",
+      "updatedAt": "2026-07-13T13:47:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6534,
-      "createdAt": "2026-07-09T20:32:06Z",
-      "updatedAt": "2026-07-09T20:32:06Z"
+      "createdAt": "2026-07-13T13:47:30Z",
+      "updatedAt": "2026-07-13T13:47:30Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22026,
-      "createdAt": "2026-07-09T20:32:06Z",
-      "updatedAt": "2026-07-09T20:32:06Z"
+      "createdAt": "2026-07-13T13:47:30Z",
+      "updatedAt": "2026-07-13T13:47:30Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-napoli-ii-25-26-torcedor-ea7-masculina-branca",
-  "createdAt": "2026-07-07T02:49:58Z",
-  "updatedAt": "2026-07-07T02:49:58Z",
+  "createdAt": "2026-07-13T13:48:34Z",
+  "updatedAt": "2026-07-13T13:48:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8288,
-      "createdAt": "2026-07-07T02:49:57Z",
-      "updatedAt": "2026-07-07T02:49:57Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5692,
-      "createdAt": "2026-07-07T02:49:57Z",
-      "updatedAt": "2026-07-07T02:49:57Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8152,
-      "createdAt": "2026-07-07T02:49:57Z",
-      "updatedAt": "2026-07-07T02:49:57Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 374,
       "height": 374,
       "size": 32760,
-      "createdAt": "2026-07-07T02:49:57Z",
-      "updatedAt": "2026-07-07T02:49:57Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     }
   ]
 }

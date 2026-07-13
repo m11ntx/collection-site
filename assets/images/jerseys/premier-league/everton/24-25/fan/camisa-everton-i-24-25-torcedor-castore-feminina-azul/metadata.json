@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-everton-i-24-25-torcedor-castore-feminina-azul",
-  "createdAt": "2026-07-09T05:35:19Z",
-  "updatedAt": "2026-07-09T05:35:19Z",
+  "createdAt": "2026-07-13T13:37:50Z",
+  "updatedAt": "2026-07-13T13:37:50Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13376,
-      "createdAt": "2026-07-09T05:35:19Z",
-      "updatedAt": "2026-07-09T05:35:19Z"
+      "createdAt": "2026-07-13T13:37:50Z",
+      "updatedAt": "2026-07-13T13:37:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5242,
-      "createdAt": "2026-07-09T05:35:19Z",
-      "updatedAt": "2026-07-09T05:35:19Z"
+      "createdAt": "2026-07-13T13:37:50Z",
+      "updatedAt": "2026-07-13T13:37:50Z"
     }
   ]
 }

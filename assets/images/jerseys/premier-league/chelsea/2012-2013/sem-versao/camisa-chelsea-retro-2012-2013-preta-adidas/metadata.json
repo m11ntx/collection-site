@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-retro-2012-2013-preta-adidas",
-  "createdAt": "2026-07-09T16:36:42Z",
-  "updatedAt": "2026-07-09T16:36:42Z",
+  "createdAt": "2026-07-13T13:26:26Z",
+  "updatedAt": "2026-07-13T13:26:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11734,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:25Z",
+      "updatedAt": "2026-07-13T13:26:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5828,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:25Z",
+      "updatedAt": "2026-07-13T13:26:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 25988,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:26Z",
+      "updatedAt": "2026-07-13T13:26:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22060,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:26Z",
+      "updatedAt": "2026-07-13T13:26:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 25068,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:26Z",
+      "updatedAt": "2026-07-13T13:26:26Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 28764,
-      "createdAt": "2026-07-09T16:36:41Z",
-      "updatedAt": "2026-07-09T16:36:41Z"
+      "createdAt": "2026-07-13T13:26:26Z",
+      "updatedAt": "2026-07-13T13:26:26Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 12242,
-      "createdAt": "2026-07-09T16:36:42Z",
-      "updatedAt": "2026-07-09T16:36:42Z"
+      "createdAt": "2026-07-13T13:26:26Z",
+      "updatedAt": "2026-07-13T13:26:26Z"
     }
   ]
 }

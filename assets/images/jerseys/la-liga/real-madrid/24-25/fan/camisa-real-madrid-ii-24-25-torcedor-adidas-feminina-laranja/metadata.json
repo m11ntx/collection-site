@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-madrid-ii-24-25-torcedor-adidas-feminina-laranja",
-  "createdAt": "2026-07-09T22:48:22Z",
-  "updatedAt": "2026-07-09T22:48:22Z",
+  "createdAt": "2026-07-13T13:38:44Z",
+  "updatedAt": "2026-07-13T13:38:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12016,
-      "createdAt": "2026-07-09T22:48:21Z",
-      "updatedAt": "2026-07-09T22:48:21Z"
+      "createdAt": "2026-07-13T13:38:43Z",
+      "updatedAt": "2026-07-13T13:38:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7416,
-      "createdAt": "2026-07-09T22:48:21Z",
-      "updatedAt": "2026-07-09T22:48:21Z"
+      "createdAt": "2026-07-13T13:38:44Z",
+      "updatedAt": "2026-07-13T13:38:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17894,
-      "createdAt": "2026-07-09T22:48:21Z",
-      "updatedAt": "2026-07-09T22:48:21Z"
+      "createdAt": "2026-07-13T13:38:44Z",
+      "updatedAt": "2026-07-13T13:38:44Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 15638,
-      "createdAt": "2026-07-09T22:48:22Z",
-      "updatedAt": "2026-07-09T22:48:22Z"
+      "createdAt": "2026-07-13T13:38:44Z",
+      "updatedAt": "2026-07-13T13:38:44Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 7980,
-      "createdAt": "2026-07-09T22:48:22Z",
-      "updatedAt": "2026-07-09T22:48:22Z"
+      "createdAt": "2026-07-13T13:38:44Z",
+      "updatedAt": "2026-07-13T13:38:44Z"
     }
   ]
 }

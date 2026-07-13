@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-i-24-25-torcedor-esquadrao-masculina-branca-com-detalhes-em-azul-e-vermelho",
-  "createdAt": "2026-07-09T22:10:48Z",
-  "updatedAt": "2026-07-09T22:10:48Z",
+  "createdAt": "2026-07-13T13:39:27Z",
+  "updatedAt": "2026-07-13T13:39:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7226,
-      "createdAt": "2026-07-09T22:10:47Z",
-      "updatedAt": "2026-07-09T22:10:47Z"
+      "createdAt": "2026-07-13T13:39:26Z",
+      "updatedAt": "2026-07-13T13:39:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4350,
-      "createdAt": "2026-07-09T22:10:47Z",
-      "updatedAt": "2026-07-09T22:10:47Z"
+      "createdAt": "2026-07-13T13:39:26Z",
+      "updatedAt": "2026-07-13T13:39:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28882,
-      "createdAt": "2026-07-09T22:10:47Z",
-      "updatedAt": "2026-07-09T22:10:47Z"
+      "createdAt": "2026-07-13T13:39:26Z",
+      "updatedAt": "2026-07-13T13:39:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 10958,
-      "createdAt": "2026-07-09T22:10:48Z",
-      "updatedAt": "2026-07-09T22:10:48Z"
+      "createdAt": "2026-07-13T13:39:26Z",
+      "updatedAt": "2026-07-13T13:39:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 26254,
-      "createdAt": "2026-07-09T22:10:48Z",
-      "updatedAt": "2026-07-09T22:10:48Z"
+      "createdAt": "2026-07-13T13:39:26Z",
+      "updatedAt": "2026-07-13T13:39:26Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17140,
-      "createdAt": "2026-07-09T22:10:48Z",
-      "updatedAt": "2026-07-09T22:10:48Z"
+      "createdAt": "2026-07-13T13:39:27Z",
+      "updatedAt": "2026-07-13T13:39:27Z"
     }
   ]
 }

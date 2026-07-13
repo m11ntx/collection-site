@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-2025-26-torcedor-esquadrao-feminina-vermelho-e-azul",
-  "createdAt": "2026-07-09T05:35:07Z",
-  "updatedAt": "2026-07-09T05:35:07Z",
+  "createdAt": "2026-07-13T13:47:33Z",
+  "updatedAt": "2026-07-13T13:47:33Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19792,
-      "createdAt": "2026-07-09T05:35:06Z",
-      "updatedAt": "2026-07-09T05:35:06Z"
+      "createdAt": "2026-07-13T13:47:33Z",
+      "updatedAt": "2026-07-13T13:47:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17968,
-      "createdAt": "2026-07-09T05:35:06Z",
-      "updatedAt": "2026-07-09T05:35:06Z"
+      "createdAt": "2026-07-13T13:47:33Z",
+      "updatedAt": "2026-07-13T13:47:33Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33960,
-      "createdAt": "2026-07-09T05:35:06Z",
-      "updatedAt": "2026-07-09T05:35:06Z"
+      "createdAt": "2026-07-13T13:47:33Z",
+      "updatedAt": "2026-07-13T13:47:33Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 76274,
-      "createdAt": "2026-07-09T05:35:06Z",
-      "updatedAt": "2026-07-09T05:35:06Z"
+      "createdAt": "2026-07-13T13:47:33Z",
+      "updatedAt": "2026-07-13T13:47:33Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 32714,
-      "createdAt": "2026-07-09T05:35:07Z",
-      "updatedAt": "2026-07-09T05:35:07Z"
+      "createdAt": "2026-07-13T13:47:33Z",
+      "updatedAt": "2026-07-13T13:47:33Z"
     }
   ]
 }

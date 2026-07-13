@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-colo-colo-retro-1991-branca-adidas",
-  "createdAt": "2026-07-09T16:36:48Z",
-  "updatedAt": "2026-07-09T16:36:48Z",
+  "createdAt": "2026-07-13T13:26:32Z",
+  "updatedAt": "2026-07-13T13:26:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8286,
-      "createdAt": "2026-07-09T16:36:47Z",
-      "updatedAt": "2026-07-09T16:36:47Z"
+      "createdAt": "2026-07-13T13:26:31Z",
+      "updatedAt": "2026-07-13T13:26:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4504,
-      "createdAt": "2026-07-09T16:36:47Z",
-      "updatedAt": "2026-07-09T16:36:47Z"
+      "createdAt": "2026-07-13T13:26:32Z",
+      "updatedAt": "2026-07-13T13:26:32Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15464,
-      "createdAt": "2026-07-09T16:36:48Z",
-      "updatedAt": "2026-07-09T16:36:48Z"
+      "createdAt": "2026-07-13T13:26:32Z",
+      "updatedAt": "2026-07-13T13:26:32Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 16088,
-      "createdAt": "2026-07-09T16:36:48Z",
-      "updatedAt": "2026-07-09T16:36:48Z"
+      "createdAt": "2026-07-13T13:26:32Z",
+      "updatedAt": "2026-07-13T13:26:32Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 14590,
-      "createdAt": "2026-07-09T16:36:48Z",
-      "updatedAt": "2026-07-09T16:36:48Z"
+      "createdAt": "2026-07-13T13:26:32Z",
+      "updatedAt": "2026-07-13T13:26:32Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 9958,
-      "createdAt": "2026-07-09T16:36:48Z",
-      "updatedAt": "2026-07-09T16:36:48Z"
+      "createdAt": "2026-07-13T13:26:32Z",
+      "updatedAt": "2026-07-13T13:26:32Z"
     }
   ]
 }

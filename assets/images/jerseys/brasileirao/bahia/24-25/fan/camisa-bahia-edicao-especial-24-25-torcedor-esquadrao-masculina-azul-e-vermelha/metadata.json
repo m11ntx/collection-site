@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-edicao-especial-24-25-torcedor-esquadrao-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-05T16:55:19Z",
-  "updatedAt": "2026-07-05T16:55:19Z",
+  "createdAt": "2026-07-13T13:39:49Z",
+  "updatedAt": "2026-07-13T13:39:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15892,
-      "createdAt": "2026-07-05T16:55:19Z",
-      "updatedAt": "2026-07-05T16:55:19Z"
+      "createdAt": "2026-07-13T13:39:48Z",
+      "updatedAt": "2026-07-13T13:39:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12902,
-      "createdAt": "2026-07-05T16:55:19Z",
-      "updatedAt": "2026-07-05T16:55:19Z"
+      "createdAt": "2026-07-13T13:39:48Z",
+      "updatedAt": "2026-07-13T13:39:48Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23716,
-      "createdAt": "2026-07-05T16:55:19Z",
-      "updatedAt": "2026-07-05T16:55:19Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 48262,
-      "createdAt": "2026-07-05T16:55:19Z",
-      "updatedAt": "2026-07-05T16:55:19Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     }
   ]
 }

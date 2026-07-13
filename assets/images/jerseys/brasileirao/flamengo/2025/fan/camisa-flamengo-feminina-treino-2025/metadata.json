@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-feminina-treino-2025",
-  "createdAt": "2026-07-09T05:35:22Z",
-  "updatedAt": "2026-07-09T05:35:22Z",
+  "createdAt": "2026-07-13T13:46:32Z",
+  "updatedAt": "2026-07-13T13:46:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 473,
       "height": 473,
       "size": 7632,
-      "createdAt": "2026-07-09T05:35:21Z",
-      "updatedAt": "2026-07-09T05:35:21Z"
+      "createdAt": "2026-07-13T13:46:32Z",
+      "updatedAt": "2026-07-13T13:46:32Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 473,
       "height": 473,
       "size": 5706,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:46:32Z",
+      "updatedAt": "2026-07-13T13:46:32Z"
     }
   ]
 }

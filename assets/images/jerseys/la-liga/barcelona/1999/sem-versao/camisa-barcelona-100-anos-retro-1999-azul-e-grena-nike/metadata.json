@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-100-anos-retro-1999-azul-e-grena-nike",
-  "createdAt": "2026-07-09T16:35:49Z",
-  "updatedAt": "2026-07-09T16:35:49Z",
+  "createdAt": "2026-07-13T13:25:39Z",
+  "updatedAt": "2026-07-13T13:25:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11102,
-      "createdAt": "2026-07-09T16:35:48Z",
-      "updatedAt": "2026-07-09T16:35:48Z"
+      "createdAt": "2026-07-13T13:25:38Z",
+      "updatedAt": "2026-07-13T13:25:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7964,
-      "createdAt": "2026-07-09T16:35:48Z",
-      "updatedAt": "2026-07-09T16:35:48Z"
+      "createdAt": "2026-07-13T13:25:38Z",
+      "updatedAt": "2026-07-13T13:25:38Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 40644,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:25:38Z",
+      "updatedAt": "2026-07-13T13:25:38Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19244,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:25:38Z",
+      "updatedAt": "2026-07-13T13:25:38Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 17740,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:25:39Z",
+      "updatedAt": "2026-07-13T13:25:39Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 17260,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:25:39Z",
+      "updatedAt": "2026-07-13T13:25:39Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 11832,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:25:39Z",
+      "updatedAt": "2026-07-13T13:25:39Z"
     }
   ]
 }

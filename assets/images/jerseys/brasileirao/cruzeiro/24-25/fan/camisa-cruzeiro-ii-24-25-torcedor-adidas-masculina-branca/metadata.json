@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-ii-24-25-torcedor-adidas-masculina-branca",
-  "createdAt": "2026-07-05T04:53:32Z",
-  "updatedAt": "2026-07-05T04:53:32Z",
+  "createdAt": "2026-07-13T13:46:10Z",
+  "updatedAt": "2026-07-13T13:46:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9496,
-      "createdAt": "2026-07-05T04:53:32Z",
-      "updatedAt": "2026-07-05T04:53:32Z"
+      "createdAt": "2026-07-13T13:46:10Z",
+      "updatedAt": "2026-07-13T13:46:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5722,
-      "createdAt": "2026-07-05T04:53:32Z",
-      "updatedAt": "2026-07-05T04:53:32Z"
+      "createdAt": "2026-07-13T13:46:10Z",
+      "updatedAt": "2026-07-13T13:46:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 49546,
-      "createdAt": "2026-07-05T04:53:32Z",
-      "updatedAt": "2026-07-05T04:53:32Z"
+      "createdAt": "2026-07-13T13:46:10Z",
+      "updatedAt": "2026-07-13T13:46:10Z"
     }
   ]
 }

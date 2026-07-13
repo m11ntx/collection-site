@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-nike-corinthians-i-25-26-branco-e-preto",
+  "createdAt": "2026-07-13T13:51:46Z",
+  "updatedAt": "2026-07-13T13:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-nike-corinthians-i-25-26-branco-e-preto/front.webp",
+      "hash": "651a99748d73b6f07b8970760364e0c0048ec822d2c128f6c9126d8e02c063b6",
+      "width": 480,
+      "height": 480,
+      "size": 5456,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-nike-corinthians-i-25-26-branco-e-preto/back.webp",
+      "hash": "fb5e563c3ee4d2324c49baa2d7506f74fc86ca17097f6233aaa71bb3dec32f51",
+      "width": 480,
+      "height": 480,
+      "size": 5848,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    }
+  ]
+}

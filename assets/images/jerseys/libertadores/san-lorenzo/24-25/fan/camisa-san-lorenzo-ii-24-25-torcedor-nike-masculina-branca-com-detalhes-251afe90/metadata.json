@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-san-lorenzo-ii-24-25-torcedor-nike-masculina-branca-com-detalhes-em-azul-e-vermelho",
-  "createdAt": "2026-07-09T19:42:48Z",
-  "updatedAt": "2026-07-09T19:42:48Z",
+  "createdAt": "2026-07-13T13:36:42Z",
+  "updatedAt": "2026-07-13T13:36:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16696,
-      "createdAt": "2026-07-09T19:42:47Z",
-      "updatedAt": "2026-07-09T19:42:47Z"
+      "createdAt": "2026-07-13T13:36:41Z",
+      "updatedAt": "2026-07-13T13:36:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6102,
-      "createdAt": "2026-07-09T19:42:48Z",
-      "updatedAt": "2026-07-09T19:42:48Z"
+      "createdAt": "2026-07-13T13:36:41Z",
+      "updatedAt": "2026-07-13T13:36:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 35262,
-      "createdAt": "2026-07-09T19:42:48Z",
-      "updatedAt": "2026-07-09T19:42:48Z"
+      "createdAt": "2026-07-13T13:36:41Z",
+      "updatedAt": "2026-07-13T13:36:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 38740,
-      "createdAt": "2026-07-09T19:42:48Z",
-      "updatedAt": "2026-07-09T19:42:48Z"
+      "createdAt": "2026-07-13T13:36:42Z",
+      "updatedAt": "2026-07-13T13:36:42Z"
     }
   ]
 }

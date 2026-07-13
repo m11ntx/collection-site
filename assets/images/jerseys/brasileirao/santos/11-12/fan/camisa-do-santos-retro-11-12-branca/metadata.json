@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-santos-retro-11-12-branca",
-  "createdAt": "2026-07-05T02:59:07Z",
-  "updatedAt": "2026-07-05T02:59:07Z",
+  "createdAt": "2026-07-13T13:45:35Z",
+  "updatedAt": "2026-07-13T13:45:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8970,
-      "createdAt": "2026-07-05T02:59:06Z",
-      "updatedAt": "2026-07-05T02:59:06Z"
+      "createdAt": "2026-07-13T13:45:35Z",
+      "updatedAt": "2026-07-13T13:45:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14314,
-      "createdAt": "2026-07-05T02:59:06Z",
-      "updatedAt": "2026-07-05T02:59:06Z"
+      "createdAt": "2026-07-13T13:45:35Z",
+      "updatedAt": "2026-07-13T13:45:35Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5460,
-      "createdAt": "2026-07-05T02:59:06Z",
-      "updatedAt": "2026-07-05T02:59:06Z"
+      "createdAt": "2026-07-13T13:45:35Z",
+      "updatedAt": "2026-07-13T13:45:35Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 68640,
-      "createdAt": "2026-07-05T02:59:07Z",
-      "updatedAt": "2026-07-05T02:59:07Z"
+      "createdAt": "2026-07-13T13:45:35Z",
+      "updatedAt": "2026-07-13T13:45:35Z"
     }
   ]
 }

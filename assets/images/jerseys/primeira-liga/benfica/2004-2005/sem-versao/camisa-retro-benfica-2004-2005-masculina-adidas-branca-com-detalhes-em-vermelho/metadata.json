@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-benfica-2004-2005-masculina-adidas-branca-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-09T16:36:09Z",
-  "updatedAt": "2026-07-09T16:36:09Z",
+  "createdAt": "2026-07-13T13:25:57Z",
+  "updatedAt": "2026-07-13T13:25:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7350,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5770,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16840,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 15414,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34694,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 14352,
-      "createdAt": "2026-07-09T16:36:08Z",
-      "updatedAt": "2026-07-09T16:36:08Z"
+      "createdAt": "2026-07-13T13:25:56Z",
+      "updatedAt": "2026-07-13T13:25:56Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 17976,
-      "createdAt": "2026-07-09T16:36:09Z",
-      "updatedAt": "2026-07-09T16:36:09Z"
+      "createdAt": "2026-07-13T13:25:57Z",
+      "updatedAt": "2026-07-13T13:25:57Z"
     }
   ]
 }

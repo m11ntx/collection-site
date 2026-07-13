@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-madrid-third-26-27-torcedor-adidas-masculina-rosa",
-  "createdAt": "2026-07-07T01:34:15Z",
-  "updatedAt": "2026-07-10T19:01:42Z",
+  "createdAt": "2026-07-13T13:51:32Z",
+  "updatedAt": "2026-07-13T13:51:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15552,
-      "createdAt": "2026-07-07T01:34:15Z",
-      "updatedAt": "2026-07-10T19:01:41Z"
+      "createdAt": "2026-07-13T13:51:31Z",
+      "updatedAt": "2026-07-13T13:51:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11550,
-      "createdAt": "2026-07-07T01:34:15Z",
-      "updatedAt": "2026-07-10T19:01:42Z"
+      "createdAt": "2026-07-13T13:51:32Z",
+      "updatedAt": "2026-07-13T13:51:32Z"
     }
   ]
 }

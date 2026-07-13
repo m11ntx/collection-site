@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bayern-leverkusen-2023-24-bundesliga-champions",
-  "createdAt": "2026-07-07T02:48:14Z",
-  "updatedAt": "2026-07-07T02:48:14Z",
+  "createdAt": "2026-07-13T13:46:39Z",
+  "updatedAt": "2026-07-13T13:46:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12076,
-      "createdAt": "2026-07-07T02:48:14Z",
-      "updatedAt": "2026-07-07T02:48:14Z"
+      "createdAt": "2026-07-13T13:46:39Z",
+      "updatedAt": "2026-07-13T13:46:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 55448,
-      "createdAt": "2026-07-07T02:48:14Z",
-      "updatedAt": "2026-07-07T02:48:14Z"
+      "createdAt": "2026-07-13T13:46:39Z",
+      "updatedAt": "2026-07-13T13:46:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5040,
-      "createdAt": "2026-07-07T02:48:14Z",
-      "updatedAt": "2026-07-07T02:48:14Z"
+      "createdAt": "2026-07-13T13:46:39Z",
+      "updatedAt": "2026-07-13T13:46:39Z"
     }
   ]
 }

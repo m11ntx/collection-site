@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-japao-edicao-especial-24-25-jogador-adidas-masculina-azul",
-  "createdAt": "2026-07-09T03:07:12Z",
-  "updatedAt": "2026-07-09T03:07:12Z",
+  "createdAt": "2026-07-13T13:33:11Z",
+  "updatedAt": "2026-07-13T13:33:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16798,
-      "createdAt": "2026-07-09T03:07:11Z",
-      "updatedAt": "2026-07-09T03:07:11Z"
+      "createdAt": "2026-07-13T13:33:10Z",
+      "updatedAt": "2026-07-13T13:33:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18370,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:10Z",
+      "updatedAt": "2026-07-13T13:33:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 25320,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:11Z",
+      "updatedAt": "2026-07-13T13:33:11Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 63328,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:11Z",
+      "updatedAt": "2026-07-13T13:33:11Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 46644,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:11Z",
+      "updatedAt": "2026-07-13T13:33:11Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 28934,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:11Z",
+      "updatedAt": "2026-07-13T13:33:11Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 23894,
-      "createdAt": "2026-07-09T03:07:12Z",
-      "updatedAt": "2026-07-09T03:07:12Z"
+      "createdAt": "2026-07-13T13:33:11Z",
+      "updatedAt": "2026-07-13T13:33:11Z"
     }
   ]
 }

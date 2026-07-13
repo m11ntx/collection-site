@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-ii-26-27-torcedor-masculina-listrada",
-  "createdAt": "2026-07-05T16:43:10Z",
-  "updatedAt": "2026-07-05T16:43:10Z",
+  "createdAt": "2026-07-13T13:50:55Z",
+  "updatedAt": "2026-07-13T13:50:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17104,
-      "createdAt": "2026-07-05T16:43:10Z",
-      "updatedAt": "2026-07-05T16:43:10Z"
+      "createdAt": "2026-07-13T13:50:54Z",
+      "updatedAt": "2026-07-13T13:50:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14020,
-      "createdAt": "2026-07-05T16:43:10Z",
-      "updatedAt": "2026-07-05T16:43:10Z"
+      "createdAt": "2026-07-13T13:50:55Z",
+      "updatedAt": "2026-07-13T13:50:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24368,
-      "createdAt": "2026-07-05T16:43:10Z",
-      "updatedAt": "2026-07-05T16:43:10Z"
+      "createdAt": "2026-07-13T13:50:55Z",
+      "updatedAt": "2026-07-13T13:50:55Z"
     }
   ]
 }

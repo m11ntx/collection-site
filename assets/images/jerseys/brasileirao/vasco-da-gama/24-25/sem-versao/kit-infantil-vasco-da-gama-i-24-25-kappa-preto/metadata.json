@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-vasco-da-gama-i-24-25-kappa-preto",
-  "createdAt": "2026-07-09T17:18:29Z",
-  "updatedAt": "2026-07-09T17:18:29Z",
+  "createdAt": "2026-07-13T13:47:22Z",
+  "updatedAt": "2026-07-13T13:47:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10312,
-      "createdAt": "2026-07-09T17:18:28Z",
-      "updatedAt": "2026-07-09T17:18:28Z"
+      "createdAt": "2026-07-13T13:47:22Z",
+      "updatedAt": "2026-07-13T13:47:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7060,
-      "createdAt": "2026-07-09T17:18:29Z",
-      "updatedAt": "2026-07-09T17:18:29Z"
+      "createdAt": "2026-07-13T13:47:22Z",
+      "updatedAt": "2026-07-13T13:47:22Z"
     }
   ]
 }

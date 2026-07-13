@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-japao-retro-2006-azul-adidas",
-  "createdAt": "2026-07-09T16:38:55Z",
-  "updatedAt": "2026-07-09T16:38:55Z",
+  "createdAt": "2026-07-13T13:27:39Z",
+  "updatedAt": "2026-07-13T13:27:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20746,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12328,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28444,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17722,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 17822,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20902,
-      "createdAt": "2026-07-09T16:38:54Z",
-      "updatedAt": "2026-07-09T16:38:54Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 36402,
-      "createdAt": "2026-07-09T16:38:55Z",
-      "updatedAt": "2026-07-09T16:38:55Z"
+      "createdAt": "2026-07-13T13:27:39Z",
+      "updatedAt": "2026-07-13T13:27:39Z"
     }
   ]
 }

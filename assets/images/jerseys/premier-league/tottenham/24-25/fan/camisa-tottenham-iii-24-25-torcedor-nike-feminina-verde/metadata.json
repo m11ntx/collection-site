@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-tottenham-iii-24-25-torcedor-nike-feminina-verde",
-  "createdAt": "2026-07-09T05:36:04Z",
-  "updatedAt": "2026-07-09T05:36:04Z",
+  "createdAt": "2026-07-13T13:39:49Z",
+  "updatedAt": "2026-07-13T13:39:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 27152,
-      "createdAt": "2026-07-09T05:36:03Z",
-      "updatedAt": "2026-07-09T05:36:03Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12834,
-      "createdAt": "2026-07-09T05:36:03Z",
-      "updatedAt": "2026-07-09T05:36:03Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27632,
-      "createdAt": "2026-07-09T05:36:03Z",
-      "updatedAt": "2026-07-09T05:36:03Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 600,
       "size": 130744,
-      "createdAt": "2026-07-09T05:36:04Z",
-      "updatedAt": "2026-07-09T05:36:04Z"
+      "createdAt": "2026-07-13T13:39:49Z",
+      "updatedAt": "2026-07-13T13:39:49Z"
     }
   ]
 }

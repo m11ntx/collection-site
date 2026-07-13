@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-bahia-retro-1988-esquadrao-masculina",
-  "createdAt": "2026-07-05T16:55:26Z",
-  "updatedAt": "2026-07-05T16:55:26Z",
+  "createdAt": "2026-07-13T13:46:53Z",
+  "updatedAt": "2026-07-13T13:46:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16552,
-      "createdAt": "2026-07-05T16:55:26Z",
-      "updatedAt": "2026-07-05T16:55:26Z"
+      "createdAt": "2026-07-13T13:46:53Z",
+      "updatedAt": "2026-07-13T13:46:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12412,
-      "createdAt": "2026-07-05T16:55:26Z",
-      "updatedAt": "2026-07-05T16:55:26Z"
+      "createdAt": "2026-07-13T13:46:53Z",
+      "updatedAt": "2026-07-13T13:46:53Z"
     }
   ]
 }

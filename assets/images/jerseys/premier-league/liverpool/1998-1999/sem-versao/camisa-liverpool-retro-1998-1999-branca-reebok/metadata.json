@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-liverpool-retro-1998-1999-branca-reebok",
-  "createdAt": "2026-07-09T16:43:22Z",
-  "updatedAt": "2026-07-09T16:43:22Z",
+  "createdAt": "2026-07-13T13:28:01Z",
+  "updatedAt": "2026-07-13T13:28:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10186,
-      "createdAt": "2026-07-09T16:43:21Z",
-      "updatedAt": "2026-07-09T16:43:21Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6716,
-      "createdAt": "2026-07-09T16:43:21Z",
-      "updatedAt": "2026-07-09T16:43:21Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 52662,
-      "createdAt": "2026-07-09T16:43:21Z",
-      "updatedAt": "2026-07-09T16:43:21Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24156,
-      "createdAt": "2026-07-09T16:43:21Z",
-      "updatedAt": "2026-07-09T16:43:21Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 81128,
-      "createdAt": "2026-07-09T16:43:21Z",
-      "updatedAt": "2026-07-09T16:43:21Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 69448,
-      "createdAt": "2026-07-09T16:43:22Z",
-      "updatedAt": "2026-07-09T16:43:22Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 46808,
-      "createdAt": "2026-07-09T16:43:22Z",
-      "updatedAt": "2026-07-09T16:43:22Z"
+      "createdAt": "2026-07-13T13:28:01Z",
+      "updatedAt": "2026-07-13T13:28:01Z"
     }
   ]
 }

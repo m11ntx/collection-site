@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-botafogo-iii-torcedor-mizuno-masculina-26-27",
+  "createdAt": "2026-07-13T13:51:47Z",
+  "updatedAt": "2026-07-13T13:51:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/26-27/fan/camisa-botafogo-iii-torcedor-mizuno-masculina-26-27/front.webp",
+      "hash": "ece29eb77387956e0e64ea2288f8b9db8f503c7c1c29dfd18c8fe8939bcbee9e",
+      "width": 480,
+      "height": 480,
+      "size": 12946,
+      "createdAt": "2026-07-13T13:51:47Z",
+      "updatedAt": "2026-07-13T13:51:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/26-27/fan/camisa-botafogo-iii-torcedor-mizuno-masculina-26-27/back.webp",
+      "hash": "5e07ffd99a701de0119c5845b1e8f2c5bf73aad2d321307e0d68baf6c516c689",
+      "width": 480,
+      "height": 480,
+      "size": 12954,
+      "createdAt": "2026-07-13T13:51:47Z",
+      "updatedAt": "2026-07-13T13:51:47Z"
+    }
+  ]
+}

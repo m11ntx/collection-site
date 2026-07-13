@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-botafogo-home-i-26-27-mizuno-torcedor-masculina",
+  "createdAt": "2026-07-13T13:51:46Z",
+  "updatedAt": "2026-07-13T13:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo/26-27/fan/camisa-botafogo-home-i-26-27-mizuno-torcedor-masculina/front.webp",
+      "hash": "f3af3cd8c18de52efd731fbc032aea8389509c57cf6453dd6b978f31c7053d7e",
+      "width": 480,
+      "height": 480,
+      "size": 11724,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo/26-27/fan/camisa-botafogo-home-i-26-27-mizuno-torcedor-masculina/back.webp",
+      "hash": "5cad850ef4d2b0aea626ceee993dc5a5ce9f4d222629f173b357d10ff4a0988b",
+      "width": 480,
+      "height": 480,
+      "size": 7630,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    }
+  ]
+}

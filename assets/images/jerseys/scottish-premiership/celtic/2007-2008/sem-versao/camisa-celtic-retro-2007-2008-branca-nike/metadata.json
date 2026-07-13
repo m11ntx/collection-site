@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-celtic-retro-2007-2008-branca-nike",
-  "createdAt": "2026-07-09T16:36:35Z",
-  "updatedAt": "2026-07-09T16:36:35Z",
+  "createdAt": "2026-07-13T13:26:20Z",
+  "updatedAt": "2026-07-13T13:26:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 27202,
-      "createdAt": "2026-07-09T16:36:34Z",
-      "updatedAt": "2026-07-09T16:36:34Z"
+      "createdAt": "2026-07-13T13:26:19Z",
+      "updatedAt": "2026-07-13T13:26:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5216,
-      "createdAt": "2026-07-09T16:36:34Z",
-      "updatedAt": "2026-07-09T16:36:34Z"
+      "createdAt": "2026-07-13T13:26:19Z",
+      "updatedAt": "2026-07-13T13:26:19Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 43578,
-      "createdAt": "2026-07-09T16:36:34Z",
-      "updatedAt": "2026-07-09T16:36:34Z"
+      "createdAt": "2026-07-13T13:26:19Z",
+      "updatedAt": "2026-07-13T13:26:19Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 36454,
-      "createdAt": "2026-07-09T16:36:34Z",
-      "updatedAt": "2026-07-09T16:36:34Z"
+      "createdAt": "2026-07-13T13:26:19Z",
+      "updatedAt": "2026-07-13T13:26:19Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 48966,
-      "createdAt": "2026-07-09T16:36:35Z",
-      "updatedAt": "2026-07-09T16:36:35Z"
+      "createdAt": "2026-07-13T13:26:19Z",
+      "updatedAt": "2026-07-13T13:26:19Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 52282,
-      "createdAt": "2026-07-09T16:36:35Z",
-      "updatedAt": "2026-07-09T16:36:35Z"
+      "createdAt": "2026-07-13T13:26:20Z",
+      "updatedAt": "2026-07-13T13:26:20Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 55896,
-      "createdAt": "2026-07-09T16:36:35Z",
-      "updatedAt": "2026-07-09T16:36:35Z"
+      "createdAt": "2026-07-13T13:26:20Z",
+      "updatedAt": "2026-07-13T13:26:20Z"
     }
   ]
 }

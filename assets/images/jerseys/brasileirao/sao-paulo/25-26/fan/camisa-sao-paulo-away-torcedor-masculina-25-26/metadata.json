@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-away-torcedor-masculina-25-26",
-  "createdAt": "2026-07-05T16:43:09Z",
-  "updatedAt": "2026-07-05T16:43:09Z",
+  "createdAt": "2026-07-13T13:47:23Z",
+  "updatedAt": "2026-07-13T13:47:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15614,
-      "createdAt": "2026-07-05T16:43:09Z",
-      "updatedAt": "2026-07-05T16:43:09Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14536,
-      "createdAt": "2026-07-05T16:43:09Z",
-      "updatedAt": "2026-07-05T16:43:09Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26908,
-      "createdAt": "2026-07-05T16:43:09Z",
-      "updatedAt": "2026-07-05T16:43:09Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 12828,
-      "createdAt": "2026-07-05T16:43:09Z",
-      "updatedAt": "2026-07-05T16:43:09Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     }
   ]
 }

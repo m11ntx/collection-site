@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-away-26-27-jogador-masculina-branca",
-  "createdAt": "2026-07-05T06:09:02Z",
-  "updatedAt": "2026-07-05T06:09:02Z",
+  "createdAt": "2026-07-13T13:51:37Z",
+  "updatedAt": "2026-07-13T13:51:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17618,
-      "createdAt": "2026-07-05T06:09:02Z",
-      "updatedAt": "2026-07-05T06:09:02Z"
+      "createdAt": "2026-07-13T13:51:37Z",
+      "updatedAt": "2026-07-13T13:51:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11610,
-      "createdAt": "2026-07-05T06:09:02Z",
-      "updatedAt": "2026-07-05T06:09:02Z"
+      "createdAt": "2026-07-13T13:51:37Z",
+      "updatedAt": "2026-07-13T13:51:37Z"
     }
   ]
 }

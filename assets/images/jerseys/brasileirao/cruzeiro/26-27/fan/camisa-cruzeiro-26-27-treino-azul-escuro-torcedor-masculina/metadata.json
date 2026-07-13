@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-26-27-treino-azul-escuro-torcedor-masculina",
-  "createdAt": "2026-07-05T04:53:29Z",
-  "updatedAt": "2026-07-05T04:53:29Z",
+  "createdAt": "2026-07-13T13:49:04Z",
+  "updatedAt": "2026-07-13T13:49:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11102,
-      "createdAt": "2026-07-05T04:53:29Z",
-      "updatedAt": "2026-07-05T04:53:29Z"
+      "createdAt": "2026-07-13T13:49:04Z",
+      "updatedAt": "2026-07-13T13:49:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4736,
-      "createdAt": "2026-07-05T04:53:29Z",
-      "updatedAt": "2026-07-05T04:53:29Z"
+      "createdAt": "2026-07-13T13:49:04Z",
+      "updatedAt": "2026-07-13T13:49:04Z"
     }
   ]
 }

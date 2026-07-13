@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-al-hilal-i-24-25-torcedor-puma-masculina-azul",
-  "createdAt": "2026-07-07T05:04:29Z",
-  "updatedAt": "2026-07-07T05:04:29Z",
+  "createdAt": "2026-07-13T13:38:46Z",
+  "updatedAt": "2026-07-13T13:38:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16654,
-      "createdAt": "2026-07-07T05:04:28Z",
-      "updatedAt": "2026-07-07T05:04:28Z"
+      "createdAt": "2026-07-13T13:38:45Z",
+      "updatedAt": "2026-07-13T13:38:45Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9326,
-      "createdAt": "2026-07-07T05:04:28Z",
-      "updatedAt": "2026-07-07T05:04:28Z"
+      "createdAt": "2026-07-13T13:38:46Z",
+      "updatedAt": "2026-07-13T13:38:46Z"
     }
   ]
 }

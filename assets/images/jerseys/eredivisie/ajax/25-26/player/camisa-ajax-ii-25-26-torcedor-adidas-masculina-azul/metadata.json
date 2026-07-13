@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-ii-25-26-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-09T03:06:33Z",
-  "updatedAt": "2026-07-09T03:06:33Z",
+  "createdAt": "2026-07-13T13:48:34Z",
+  "updatedAt": "2026-07-13T13:48:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 26676,
-      "createdAt": "2026-07-09T03:06:33Z",
-      "updatedAt": "2026-07-09T03:06:33Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11082,
-      "createdAt": "2026-07-09T03:06:33Z",
-      "updatedAt": "2026-07-09T03:06:33Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     }
   ]
 }

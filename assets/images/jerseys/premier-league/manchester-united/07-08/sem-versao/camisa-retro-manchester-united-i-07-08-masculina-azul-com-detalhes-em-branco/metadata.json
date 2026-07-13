@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-manchester-united-i-07-08-masculina-azul-com-detalhes-em-branco",
-  "createdAt": "2026-07-09T16:42:12Z",
-  "updatedAt": "2026-07-09T16:42:12Z",
+  "createdAt": "2026-07-13T13:31:56Z",
+  "updatedAt": "2026-07-13T13:31:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10926,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:55Z",
+      "updatedAt": "2026-07-13T13:31:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6466,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:55Z",
+      "updatedAt": "2026-07-13T13:31:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16168,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:55Z",
+      "updatedAt": "2026-07-13T13:31:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 13534,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:55Z",
+      "updatedAt": "2026-07-13T13:31:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 46038,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:55Z",
+      "updatedAt": "2026-07-13T13:31:55Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 13632,
-      "createdAt": "2026-07-09T16:42:11Z",
-      "updatedAt": "2026-07-09T16:42:11Z"
+      "createdAt": "2026-07-13T13:31:56Z",
+      "updatedAt": "2026-07-13T13:31:56Z"
     }
   ]
 }

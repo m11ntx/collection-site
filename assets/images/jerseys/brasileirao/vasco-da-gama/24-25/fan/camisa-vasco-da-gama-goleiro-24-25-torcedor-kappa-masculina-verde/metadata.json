@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-da-gama-goleiro-24-25-torcedor-kappa-masculina-verde",
-  "createdAt": "2026-07-05T16:03:39Z",
-  "updatedAt": "2026-07-05T16:03:39Z",
+  "createdAt": "2026-07-13T13:37:13Z",
+  "updatedAt": "2026-07-13T13:37:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8180,
-      "createdAt": "2026-07-05T16:03:38Z",
-      "updatedAt": "2026-07-05T16:03:38Z"
+      "createdAt": "2026-07-13T13:37:12Z",
+      "updatedAt": "2026-07-13T13:37:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5622,
-      "createdAt": "2026-07-05T16:03:38Z",
-      "updatedAt": "2026-07-05T16:03:38Z"
+      "createdAt": "2026-07-13T13:37:12Z",
+      "updatedAt": "2026-07-13T13:37:12Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16732,
-      "createdAt": "2026-07-05T16:03:38Z",
-      "updatedAt": "2026-07-05T16:03:38Z"
+      "createdAt": "2026-07-13T13:37:12Z",
+      "updatedAt": "2026-07-13T13:37:12Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 48336,
-      "createdAt": "2026-07-05T16:03:38Z",
-      "updatedAt": "2026-07-05T16:03:38Z"
+      "createdAt": "2026-07-13T13:37:12Z",
+      "updatedAt": "2026-07-13T13:37:12Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 48766,
-      "createdAt": "2026-07-05T16:03:38Z",
-      "updatedAt": "2026-07-05T16:03:38Z"
+      "createdAt": "2026-07-13T13:37:12Z",
+      "updatedAt": "2026-07-13T13:37:12Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20390,
-      "createdAt": "2026-07-05T16:03:39Z",
-      "updatedAt": "2026-07-05T16:03:39Z"
+      "createdAt": "2026-07-13T13:37:13Z",
+      "updatedAt": "2026-07-13T13:37:13Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 15480,
-      "createdAt": "2026-07-05T16:03:39Z",
-      "updatedAt": "2026-07-05T16:03:39Z"
+      "createdAt": "2026-07-13T13:37:13Z",
+      "updatedAt": "2026-07-13T13:37:13Z"
     }
   ]
 }

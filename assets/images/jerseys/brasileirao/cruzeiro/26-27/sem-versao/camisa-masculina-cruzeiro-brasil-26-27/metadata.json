@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-masculina-cruzeiro-brasil-26-27",
-  "createdAt": "2026-07-05T04:53:36Z",
-  "updatedAt": "2026-07-12T01:11:59Z",
+  "createdAt": "2026-07-13T13:51:22Z",
+  "updatedAt": "2026-07-13T13:51:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8146,
-      "createdAt": "2026-07-05T04:53:35Z",
-      "updatedAt": "2026-07-12T01:11:59Z"
+      "createdAt": "2026-07-13T13:51:22Z",
+      "updatedAt": "2026-07-13T13:51:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5132,
-      "createdAt": "2026-07-05T04:53:36Z",
-      "updatedAt": "2026-07-12T01:11:59Z"
+      "createdAt": "2026-07-13T13:51:22Z",
+      "updatedAt": "2026-07-13T13:51:22Z"
     }
   ]
 }

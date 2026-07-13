@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ii-alemanha-2014-15-retro",
+  "createdAt": "2026-07-13T13:51:46Z",
+  "updatedAt": "2026-07-13T13:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/2014-15/sem-versao/camisa-ii-alemanha-2014-15-retro/front.webp",
+      "hash": "6a23fb7d32c3bf174c1770d22846fe57cc690d24fe39cf3f2353173a018e9f39",
+      "width": 480,
+      "height": 480,
+      "size": 11838,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/2014-15/sem-versao/camisa-ii-alemanha-2014-15-retro/back.webp",
+      "hash": "b7fd1fb67faf3076e690dbc8afb358ed2d30ad2bc70ada77349efcbea68209c7",
+      "width": 480,
+      "height": 480,
+      "size": 8446,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    }
+  ]
+}

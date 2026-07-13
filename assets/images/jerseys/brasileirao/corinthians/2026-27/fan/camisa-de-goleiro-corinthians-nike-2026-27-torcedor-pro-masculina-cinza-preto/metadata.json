@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-de-goleiro-corinthians-nike-2026-27-torcedor-pro-masculina-cinza-preto",
+  "createdAt": "2026-07-13T13:51:46Z",
+  "updatedAt": "2026-07-13T13:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-pro-masculina-cinza-preto/front.webp",
+      "hash": "e6739a1f74ca2001843299d645594f837ee78075009558f62acba30a4256ab35",
+      "width": 480,
+      "height": 480,
+      "size": 14802,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/2026-27/fan/camisa-de-goleiro-corinthians-nike-2026-27-torcedor-pro-masculina-cinza-preto/back.webp",
+      "hash": "2d44c5f46dda378c5c0da10ce3b6c7ce6fcb4735da0d67e14c64ff91590eba76",
+      "width": 480,
+      "height": 480,
+      "size": 12828,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    }
+  ]
+}

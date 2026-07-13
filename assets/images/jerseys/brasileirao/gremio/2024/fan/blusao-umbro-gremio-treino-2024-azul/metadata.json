@@ -1,7 +1,7 @@
 {
   "productId": "source-blusao-umbro-gremio-treino-2024-azul",
-  "createdAt": "2026-07-05T16:05:34Z",
-  "updatedAt": "2026-07-05T16:05:34Z",
+  "createdAt": "2026-07-13T13:51:11Z",
+  "updatedAt": "2026-07-13T13:51:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 484,
       "size": 35218,
-      "createdAt": "2026-07-05T16:05:34Z",
-      "updatedAt": "2026-07-05T16:05:34Z"
+      "createdAt": "2026-07-13T13:51:11Z",
+      "updatedAt": "2026-07-13T13:51:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 412,
       "height": 507,
       "size": 23410,
-      "createdAt": "2026-07-05T16:05:34Z",
-      "updatedAt": "2026-07-05T16:05:34Z"
+      "createdAt": "2026-07-13T13:51:11Z",
+      "updatedAt": "2026-07-13T13:51:11Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-tottenham-i-24-25-torcedor-nike-feminina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T05:36:03Z",
-  "updatedAt": "2026-07-09T05:36:03Z",
+  "createdAt": "2026-07-13T13:38:03Z",
+  "updatedAt": "2026-07-13T13:38:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6890,
-      "createdAt": "2026-07-09T05:36:02Z",
-      "updatedAt": "2026-07-09T05:36:02Z"
+      "createdAt": "2026-07-13T13:38:03Z",
+      "updatedAt": "2026-07-13T13:38:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4602,
-      "createdAt": "2026-07-09T05:36:02Z",
-      "updatedAt": "2026-07-09T05:36:02Z"
+      "createdAt": "2026-07-13T13:38:03Z",
+      "updatedAt": "2026-07-13T13:38:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 600,
       "size": 46214,
-      "createdAt": "2026-07-09T05:36:02Z",
-      "updatedAt": "2026-07-09T05:36:02Z"
+      "createdAt": "2026-07-13T13:38:03Z",
+      "updatedAt": "2026-07-13T13:38:03Z"
     }
   ]
 }

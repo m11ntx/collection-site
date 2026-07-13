@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-liverpool-torcedor-home-25-26",
-  "createdAt": "2026-07-09T16:39:13Z",
-  "updatedAt": "2026-07-09T16:39:13Z",
+  "createdAt": "2026-07-13T13:47:23Z",
+  "updatedAt": "2026-07-13T13:47:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14854,
-      "createdAt": "2026-07-09T16:39:13Z",
-      "updatedAt": "2026-07-09T16:39:13Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8858,
-      "createdAt": "2026-07-09T16:39:13Z",
-      "updatedAt": "2026-07-09T16:39:13Z"
+      "createdAt": "2026-07-13T13:47:23Z",
+      "updatedAt": "2026-07-13T13:47:23Z"
     }
   ]
 }

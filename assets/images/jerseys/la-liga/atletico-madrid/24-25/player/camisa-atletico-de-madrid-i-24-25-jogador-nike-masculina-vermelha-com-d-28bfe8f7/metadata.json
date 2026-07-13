@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-de-madrid-i-24-25-jogador-nike-masculina-vermelha-com-detalhes-em-branco-e-azul",
-  "createdAt": "2026-07-09T03:13:17Z",
-  "updatedAt": "2026-07-09T03:13:17Z",
+  "createdAt": "2026-07-13T13:36:20Z",
+  "updatedAt": "2026-07-13T13:36:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13656,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:19Z",
+      "updatedAt": "2026-07-13T13:36:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23572,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 11088,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 45980,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 39752,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 23600,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 24426,
-      "createdAt": "2026-07-09T03:13:17Z",
-      "updatedAt": "2026-07-09T03:13:17Z"
+      "createdAt": "2026-07-13T13:36:20Z",
+      "updatedAt": "2026-07-13T13:36:20Z"
     }
   ]
 }

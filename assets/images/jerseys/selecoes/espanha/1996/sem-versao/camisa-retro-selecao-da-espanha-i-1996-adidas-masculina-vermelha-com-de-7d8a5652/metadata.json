@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-espanha-i-1996-adidas-masculina-vermelha-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T16:42:41Z",
-  "updatedAt": "2026-07-09T16:42:41Z",
+  "createdAt": "2026-07-13T13:26:49Z",
+  "updatedAt": "2026-07-13T13:26:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8976,
-      "createdAt": "2026-07-09T16:42:40Z",
-      "updatedAt": "2026-07-09T16:42:40Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6416,
-      "createdAt": "2026-07-09T16:42:40Z",
-      "updatedAt": "2026-07-09T16:42:40Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22922,
-      "createdAt": "2026-07-09T16:42:40Z",
-      "updatedAt": "2026-07-09T16:42:40Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18138,
-      "createdAt": "2026-07-09T16:42:40Z",
-      "updatedAt": "2026-07-09T16:42:40Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 45114,
-      "createdAt": "2026-07-09T16:42:40Z",
-      "updatedAt": "2026-07-09T16:42:40Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 49348,
-      "createdAt": "2026-07-09T16:42:41Z",
-      "updatedAt": "2026-07-09T16:42:41Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 9866,
-      "createdAt": "2026-07-09T16:42:41Z",
-      "updatedAt": "2026-07-09T16:42:41Z"
+      "createdAt": "2026-07-13T13:26:49Z",
+      "updatedAt": "2026-07-13T13:26:49Z"
     }
   ]
 }

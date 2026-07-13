@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-napoli-ii-24-25-jogador-ea7-masculina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T03:07:25Z",
-  "updatedAt": "2026-07-09T03:07:25Z",
+  "createdAt": "2026-07-13T13:39:37Z",
+  "updatedAt": "2026-07-13T13:39:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8890,
-      "createdAt": "2026-07-09T03:07:24Z",
-      "updatedAt": "2026-07-09T03:07:24Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11220,
-      "createdAt": "2026-07-09T03:07:24Z",
-      "updatedAt": "2026-07-09T03:07:24Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6388,
-      "createdAt": "2026-07-09T03:07:24Z",
-      "updatedAt": "2026-07-09T03:07:24Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 6830,
-      "createdAt": "2026-07-09T03:07:24Z",
-      "updatedAt": "2026-07-09T03:07:24Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 9238,
-      "createdAt": "2026-07-09T03:07:24Z",
-      "updatedAt": "2026-07-09T03:07:24Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 11614,
-      "createdAt": "2026-07-09T03:07:25Z",
-      "updatedAt": "2026-07-09T03:07:25Z"
+      "createdAt": "2026-07-13T13:39:36Z",
+      "updatedAt": "2026-07-13T13:39:36Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 10808,
-      "createdAt": "2026-07-09T03:07:25Z",
-      "updatedAt": "2026-07-09T03:07:25Z"
+      "createdAt": "2026-07-13T13:39:37Z",
+      "updatedAt": "2026-07-13T13:39:37Z"
     }
   ]
 }

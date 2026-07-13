@@ -1,0 +1,27 @@
+{
+  "productId": "source-corinthians-goleiro-ii-26-27-torcedor",
+  "createdAt": "2026-07-13T13:51:46Z",
+  "updatedAt": "2026-07-13T13:51:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/corinthians-goleiro-ii-26-27-torcedor/front.webp",
+      "hash": "6f03ea93145dea2e3afff3542614f4688c9e37d4e4faf4d9d928ccfb7e18c8cd",
+      "width": 480,
+      "height": 480,
+      "size": 18008,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/corinthians-goleiro-ii-26-27-torcedor/back.webp",
+      "hash": "495b24ad6c743c62ef8ddb0dc4396dcf60f6a1e025e0e7b9f33fe77a72aed82b",
+      "width": 480,
+      "height": 480,
+      "size": 20890,
+      "createdAt": "2026-07-13T13:51:46Z",
+      "updatedAt": "2026-07-13T13:51:46Z"
+    }
+  ]
+}

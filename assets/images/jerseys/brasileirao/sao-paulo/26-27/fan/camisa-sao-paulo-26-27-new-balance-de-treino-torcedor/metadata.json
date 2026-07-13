@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sao-paulo-26-27-new-balance-de-treino-torcedor",
+  "createdAt": "2026-07-13T13:51:44Z",
+  "updatedAt": "2026-07-13T13:51:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-26-27-new-balance-de-treino-torcedor/front.webp",
+      "hash": "b92382fb3685bb8800d8984311e40b118c7870e3f68c0b37e32313e5b8de7209",
+      "width": 480,
+      "height": 480,
+      "size": 11040,
+      "createdAt": "2026-07-13T13:51:44Z",
+      "updatedAt": "2026-07-13T13:51:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sao-paulo/26-27/fan/camisa-sao-paulo-26-27-new-balance-de-treino-torcedor/back.webp",
+      "hash": "6b5054c9e257600731c0ccb43893a68f90e004449aad0ad4ec1f9d89c2ee4f69",
+      "width": 480,
+      "height": 480,
+      "size": 6548,
+      "createdAt": "2026-07-13T13:51:44Z",
+      "updatedAt": "2026-07-13T13:51:44Z"
+    }
+  ]
+}

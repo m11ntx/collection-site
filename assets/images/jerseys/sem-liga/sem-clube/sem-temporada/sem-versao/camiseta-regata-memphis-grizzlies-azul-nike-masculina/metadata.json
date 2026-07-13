@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-memphis-grizzlies-azul-nike-masculina",
-  "createdAt": "2026-07-09T20:30:58Z",
-  "updatedAt": "2026-07-09T20:30:58Z",
+  "createdAt": "2026-07-13T13:24:54Z",
+  "updatedAt": "2026-07-13T13:24:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16498,
-      "createdAt": "2026-07-09T20:30:57Z",
-      "updatedAt": "2026-07-09T20:30:57Z"
+      "createdAt": "2026-07-13T13:24:53Z",
+      "updatedAt": "2026-07-13T13:24:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 35176,
-      "createdAt": "2026-07-09T20:30:57Z",
-      "updatedAt": "2026-07-09T20:30:57Z"
+      "createdAt": "2026-07-13T13:24:53Z",
+      "updatedAt": "2026-07-13T13:24:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 35514,
-      "createdAt": "2026-07-09T20:30:58Z",
-      "updatedAt": "2026-07-09T20:30:58Z"
+      "createdAt": "2026-07-13T13:24:53Z",
+      "updatedAt": "2026-07-13T13:24:53Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 28040,
-      "createdAt": "2026-07-09T20:30:58Z",
-      "updatedAt": "2026-07-09T20:30:58Z"
+      "createdAt": "2026-07-13T13:24:53Z",
+      "updatedAt": "2026-07-13T13:24:53Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34354,
-      "createdAt": "2026-07-09T20:30:58Z",
-      "updatedAt": "2026-07-09T20:30:58Z"
+      "createdAt": "2026-07-13T13:24:53Z",
+      "updatedAt": "2026-07-13T13:24:53Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 29120,
-      "createdAt": "2026-07-09T20:30:58Z",
-      "updatedAt": "2026-07-09T20:30:58Z"
+      "createdAt": "2026-07-13T13:24:54Z",
+      "updatedAt": "2026-07-13T13:24:54Z"
     }
   ]
 }

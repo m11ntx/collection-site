@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-fluminense-i-umbro-25-26-tricolor",
-  "createdAt": "2026-07-09T17:17:49Z",
-  "updatedAt": "2026-07-09T17:17:49Z",
+  "createdAt": "2026-07-13T13:47:36Z",
+  "updatedAt": "2026-07-13T13:47:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16312,
-      "createdAt": "2026-07-09T17:17:49Z",
-      "updatedAt": "2026-07-09T17:17:49Z"
+      "createdAt": "2026-07-13T13:47:36Z",
+      "updatedAt": "2026-07-13T13:47:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14282,
-      "createdAt": "2026-07-09T17:17:49Z",
-      "updatedAt": "2026-07-09T17:17:49Z"
+      "createdAt": "2026-07-13T13:47:36Z",
+      "updatedAt": "2026-07-13T13:47:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 67704,
-      "createdAt": "2026-07-09T17:17:49Z",
-      "updatedAt": "2026-07-09T17:17:49Z"
+      "createdAt": "2026-07-13T13:47:36Z",
+      "updatedAt": "2026-07-13T13:47:36Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 12200,
-      "createdAt": "2026-07-09T17:17:49Z",
-      "updatedAt": "2026-07-09T17:17:49Z"
+      "createdAt": "2026-07-13T13:47:36Z",
+      "updatedAt": "2026-07-13T13:47:36Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 10302,
-      "createdAt": "2026-07-09T17:17:49Z",
-      "updatedAt": "2026-07-09T17:17:49Z"
+      "createdAt": "2026-07-13T13:47:36Z",
+      "updatedAt": "2026-07-13T13:47:36Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-i-25-26-torcedor-nike-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-09T16:35:50Z",
-  "updatedAt": "2026-07-09T16:35:50Z",
+  "createdAt": "2026-07-13T13:48:11Z",
+  "updatedAt": "2026-07-13T13:48:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11404,
-      "createdAt": "2026-07-09T16:35:49Z",
-      "updatedAt": "2026-07-09T16:35:49Z"
+      "createdAt": "2026-07-13T13:48:11Z",
+      "updatedAt": "2026-07-13T13:48:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 32164,
-      "createdAt": "2026-07-09T16:35:50Z",
-      "updatedAt": "2026-07-09T16:35:50Z"
+      "createdAt": "2026-07-13T13:48:11Z",
+      "updatedAt": "2026-07-13T13:48:11Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 38966,
-      "createdAt": "2026-07-09T16:35:50Z",
-      "updatedAt": "2026-07-09T16:35:50Z"
+      "createdAt": "2026-07-13T13:48:11Z",
+      "updatedAt": "2026-07-13T13:48:11Z"
     }
   ]
 }

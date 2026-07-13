@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-gremio-i-24-25-umbro-azul-e-preto",
-  "createdAt": "2026-07-09T17:17:51Z",
-  "updatedAt": "2026-07-09T17:17:51Z",
+  "createdAt": "2026-07-13T13:41:21Z",
+  "updatedAt": "2026-07-13T13:41:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10396,
-      "createdAt": "2026-07-09T17:17:50Z",
-      "updatedAt": "2026-07-09T17:17:50Z"
+      "createdAt": "2026-07-13T13:41:21Z",
+      "updatedAt": "2026-07-13T13:41:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8394,
-      "createdAt": "2026-07-09T17:17:51Z",
-      "updatedAt": "2026-07-09T17:17:51Z"
+      "createdAt": "2026-07-13T13:41:21Z",
+      "updatedAt": "2026-07-13T13:41:21Z"
     }
   ]
 }

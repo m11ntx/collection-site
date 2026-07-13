@@ -1,7 +1,7 @@
 {
   "productId": "source-meias-futebol-antiderrapante-cano-baixo-amarelo-com-detalhes-no-preto-e-branco",
-  "createdAt": "2026-07-09T20:31:37Z",
-  "updatedAt": "2026-07-09T20:31:37Z",
+  "createdAt": "2026-07-13T13:44:20Z",
+  "updatedAt": "2026-07-13T13:44:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12166,
-      "createdAt": "2026-07-09T20:31:36Z",
-      "updatedAt": "2026-07-09T20:31:36Z"
+      "createdAt": "2026-07-13T13:44:19Z",
+      "updatedAt": "2026-07-13T13:44:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 32130,
-      "createdAt": "2026-07-09T20:31:37Z",
-      "updatedAt": "2026-07-09T20:31:37Z"
+      "createdAt": "2026-07-13T13:44:19Z",
+      "updatedAt": "2026-07-13T13:44:19Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 39804,
-      "createdAt": "2026-07-09T20:31:37Z",
-      "updatedAt": "2026-07-09T20:31:37Z"
+      "createdAt": "2026-07-13T13:44:19Z",
+      "updatedAt": "2026-07-13T13:44:19Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 29738,
-      "createdAt": "2026-07-09T20:31:37Z",
-      "updatedAt": "2026-07-09T20:31:37Z"
+      "createdAt": "2026-07-13T13:44:19Z",
+      "updatedAt": "2026-07-13T13:44:19Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 20746,
-      "createdAt": "2026-07-09T20:31:37Z",
-      "updatedAt": "2026-07-09T20:31:37Z"
+      "createdAt": "2026-07-13T13:44:20Z",
+      "updatedAt": "2026-07-13T13:44:20Z"
     }
   ]
 }

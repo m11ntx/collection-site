@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-edicao-especial-24-25-jogador-adidas-masculina-verde-com-detalhes-em-branco",
-  "createdAt": "2026-07-09T03:13:37Z",
-  "updatedAt": "2026-07-09T03:13:37Z",
+  "createdAt": "2026-07-13T13:32:07Z",
+  "updatedAt": "2026-07-13T13:32:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 30696,
-      "createdAt": "2026-07-09T03:13:36Z",
-      "updatedAt": "2026-07-09T03:13:36Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 28550,
-      "createdAt": "2026-07-09T03:13:36Z",
-      "updatedAt": "2026-07-09T03:13:36Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30520,
-      "createdAt": "2026-07-09T03:13:36Z",
-      "updatedAt": "2026-07-09T03:13:36Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 64120,
-      "createdAt": "2026-07-09T03:13:36Z",
-      "updatedAt": "2026-07-09T03:13:36Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 62914,
-      "createdAt": "2026-07-09T03:13:37Z",
-      "updatedAt": "2026-07-09T03:13:37Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 42434,
-      "createdAt": "2026-07-09T03:13:37Z",
-      "updatedAt": "2026-07-09T03:13:37Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 43440,
-      "createdAt": "2026-07-09T03:13:37Z",
-      "updatedAt": "2026-07-09T03:13:37Z"
+      "createdAt": "2026-07-13T13:32:06Z",
+      "updatedAt": "2026-07-13T13:32:06Z"
     }
   ]
 }

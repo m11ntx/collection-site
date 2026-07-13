@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paris-saint-germain-i-24-25-torcedor-nike-feminina-azul",
-  "createdAt": "2026-07-09T05:35:42Z",
-  "updatedAt": "2026-07-09T05:35:42Z",
+  "createdAt": "2026-07-13T13:38:08Z",
+  "updatedAt": "2026-07-13T13:38:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11448,
-      "createdAt": "2026-07-09T05:35:42Z",
-      "updatedAt": "2026-07-09T05:35:42Z"
+      "createdAt": "2026-07-13T13:38:08Z",
+      "updatedAt": "2026-07-13T13:38:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5038,
-      "createdAt": "2026-07-09T05:35:42Z",
-      "updatedAt": "2026-07-09T05:35:42Z"
+      "createdAt": "2026-07-13T13:38:08Z",
+      "updatedAt": "2026-07-13T13:38:08Z"
     }
   ]
 }
