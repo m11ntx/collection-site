@@ -926,9 +926,19 @@ const Catalog = (() => {
         const collection = Array.isArray(collections)
             ? collections.find((c) => c.id === league.collectionId)
             : null;
-        // Most leagues list clubs directly; a league with regions (Brasileirão
-        // today -- MI-06) lists region cards instead, one level up from clubs.
-        const forLeagueRegions = Array.isArray(regions)
+        // Most leagues list clubs directly; a league with regions (data-driven
+        // via config/normalization/regions.json in catalog-pipeline) lists
+        // region cards instead, one level up from clubs -- MI-06's original
+        // design. CS-64 (2026-07-13): Brasileirão specifically now skips that
+        // extra region-card level and lists all its clubs directly on its
+        // own league page instead, per explicit product decision -- the
+        // region data itself is untouched (still generated, still used for
+        // e.g. club breadcrumbs/regionId filtering elsewhere), only this
+        // one league's own page stops listing region cards. Add more league
+        // ids here if the same choice is ever made for another region-
+        // bearing league.
+        const SKIP_REGIONS_FOR_LEAGUES = ["brasileirao"];
+        const forLeagueRegions = (Array.isArray(regions) && !SKIP_REGIONS_FOR_LEAGUES.includes(league.id))
             ? regions.filter((r) => r.leagueId === league.id)
             : [];
 
