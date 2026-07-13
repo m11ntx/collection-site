@@ -1,5 +1,37 @@
 # CHANGELOG
 
+## CS-64 - Brasileirão skips its region-card level, lists clubs directly
+
+Validated locally, then approved. `assets/js/catalog.js`'s `initLeaguePage()`
+gained `SKIP_REGIONS_FOR_LEAGUES = ["brasileirao"]` -- for any league id in
+that list, its region cards are never fetched/rendered, and it falls
+straight to listing clubs, same as every other (non-region) league already
+does. Region *data* is completely untouched (`catalog-pipeline` still
+generates `regions.json`/`club.regionId` exactly as before, per MI-06 --
+see its `docs/collection-site-adapter.md` for the pipeline-side note); this
+is a display-only decision on one specific league's own page. To extend the
+same treatment to another region-bearing league later, add its id to that
+one array -- nothing else needs to change on either side.
+
+## CS-63 - Always-visible mobile search bar (no menu tap needed)
+
+Adds a second, always-visible row under the main mobile nav bar -- a
+`<button>` styled to read as a real search field (avoids the on-screen-
+keyboard flicker of a real `<input>` briefly gaining then losing focus) --
+that opens the exact same search overlay/engine as the desktop search
+button and the one still inside the hamburger menu (kept as-is, per
+explicit request: it can stay there too, just also be always visible). No
+search logic duplicated -- `ui.js`'s `initSearch()` gained a third trigger
+(`#searchOpenMobileBar`) wired to the identical `open()` closure.
+
+Applied to all 14 pages carrying the nav header: `scripts/gen/gen_pages.js`'s
+`NAV` template (regenerates the 7 institutional pages) plus a bulk patch of
+the other 7 hand-authored pages (`index.html`, catalog/club/collection/
+jersey/league/region). `.detail`'s mobile top padding bumped (`5.5rem` →
+`9rem`) to clear the extra row -- unverified in a real browser this
+session (no browser automation tool available); flagged for a visual
+mobile pass to fine-tune if the spacing looks off.
+
 ## CS-62 - NBA + Acessórios: a separate "Outros" section for the 163 products with no club
 
 163 products (126 NBA jerseys, 37 generic accessories) had no `clubId` at
