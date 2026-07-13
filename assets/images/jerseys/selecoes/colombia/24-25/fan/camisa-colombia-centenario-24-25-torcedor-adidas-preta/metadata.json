@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-colombia-centenario-24-25-torcedor-adidas-preta",
-  "createdAt": "2026-07-13T13:46:15Z",
-  "updatedAt": "2026-07-13T13:46:15Z",
+  "createdAt": "2026-07-07T04:07:48Z",
+  "updatedAt": "2026-07-07T04:07:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6266,
-      "createdAt": "2026-07-13T13:46:15Z",
-      "updatedAt": "2026-07-13T13:46:15Z"
+      "createdAt": "2026-07-07T04:07:47Z",
+      "updatedAt": "2026-07-07T04:07:47Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5008,
-      "createdAt": "2026-07-13T13:46:15Z",
-      "updatedAt": "2026-07-13T13:46:15Z"
+      "createdAt": "2026-07-07T04:07:48Z",
+      "updatedAt": "2026-07-07T04:07:48Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 11452,
-      "createdAt": "2026-07-13T13:46:15Z",
-      "updatedAt": "2026-07-13T13:46:15Z"
+      "createdAt": "2026-07-07T04:07:48Z",
+      "updatedAt": "2026-07-07T04:07:48Z"
     }
   ]
 }

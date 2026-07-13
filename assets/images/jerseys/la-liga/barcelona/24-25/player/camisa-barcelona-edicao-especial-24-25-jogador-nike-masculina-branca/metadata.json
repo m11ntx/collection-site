@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-branca",
-  "createdAt": "2026-07-13T13:38:24Z",
-  "updatedAt": "2026-07-13T13:38:24Z",
+  "createdAt": "2026-07-09T03:06:50Z",
+  "updatedAt": "2026-07-09T03:06:50Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 22002,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8720,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27310,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:06:50Z",
+      "updatedAt": "2026-07-09T03:06:50Z"
     }
   ]
 }

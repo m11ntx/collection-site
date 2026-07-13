@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-masculina-internacional-brasil-adidas-2026",
-  "createdAt": "2026-07-13T13:51:21Z",
-  "updatedAt": "2026-07-13T13:51:21Z",
+  "createdAt": "2026-07-05T05:51:09Z",
+  "updatedAt": "2026-07-12T01:11:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8692,
-      "createdAt": "2026-07-13T13:51:21Z",
-      "updatedAt": "2026-07-13T13:51:21Z"
+      "createdAt": "2026-07-05T05:51:09Z",
+      "updatedAt": "2026-07-12T01:11:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4766,
-      "createdAt": "2026-07-13T13:51:21Z",
-      "updatedAt": "2026-07-13T13:51:21Z"
+      "createdAt": "2026-07-12T01:11:58Z",
+      "updatedAt": "2026-07-12T01:11:58Z"
     }
   ]
 }

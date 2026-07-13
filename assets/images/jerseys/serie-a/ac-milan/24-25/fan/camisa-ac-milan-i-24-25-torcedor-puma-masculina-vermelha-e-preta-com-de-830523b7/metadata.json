@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ac-milan-i-24-25-torcedor-puma-masculina-vermelha-e-preta-com-detalhes-em-branco",
-  "createdAt": "2026-07-13T13:37:03Z",
-  "updatedAt": "2026-07-13T13:37:03Z",
+  "createdAt": "2026-07-09T22:09:42Z",
+  "updatedAt": "2026-07-09T22:09:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12334,
-      "createdAt": "2026-07-13T13:37:03Z",
-      "updatedAt": "2026-07-13T13:37:03Z"
+      "createdAt": "2026-07-09T22:09:42Z",
+      "updatedAt": "2026-07-09T22:09:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7054,
-      "createdAt": "2026-07-13T13:37:03Z",
-      "updatedAt": "2026-07-13T13:37:03Z"
+      "createdAt": "2026-07-09T22:09:42Z",
+      "updatedAt": "2026-07-09T22:09:42Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15466,
-      "createdAt": "2026-07-13T13:37:03Z",
-      "updatedAt": "2026-07-13T13:37:03Z"
+      "createdAt": "2026-07-09T22:09:42Z",
+      "updatedAt": "2026-07-09T22:09:42Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 4928,
-      "createdAt": "2026-07-13T13:37:03Z",
-      "updatedAt": "2026-07-13T13:37:03Z"
+      "createdAt": "2026-07-09T22:09:42Z",
+      "updatedAt": "2026-07-09T22:09:42Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 49852,
-      "createdAt": "2026-07-13T13:37:03Z",
-      "updatedAt": "2026-07-13T13:37:03Z"
+      "createdAt": "2026-07-09T22:09:42Z",
+      "updatedAt": "2026-07-09T22:09:42Z"
     }
   ]
 }

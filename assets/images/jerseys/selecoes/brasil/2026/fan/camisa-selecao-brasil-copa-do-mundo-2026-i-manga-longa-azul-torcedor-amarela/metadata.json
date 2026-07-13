@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasil-copa-do-mundo-2026-i-manga-longa-azul-torcedor-amarela",
-  "createdAt": "2026-07-13T13:51:29Z",
-  "updatedAt": "2026-07-13T13:51:29Z",
+  "createdAt": "2026-07-07T04:09:56Z",
+  "updatedAt": "2026-07-12T01:12:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11250,
-      "createdAt": "2026-07-13T13:51:29Z",
-      "updatedAt": "2026-07-13T13:51:29Z"
+      "createdAt": "2026-07-07T04:09:56Z",
+      "updatedAt": "2026-07-12T01:12:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7992,
-      "createdAt": "2026-07-13T13:51:29Z",
-      "updatedAt": "2026-07-13T13:51:29Z"
+      "createdAt": "2026-07-07T04:09:56Z",
+      "updatedAt": "2026-07-12T01:12:08Z"
     }
   ]
 }

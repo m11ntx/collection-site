@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-i-24-25-torcedor-umbro-feminina-verde-e-vermelha",
-  "createdAt": "2026-07-13T13:33:19Z",
-  "updatedAt": "2026-07-13T13:33:19Z",
+  "createdAt": "2026-07-09T05:36:09Z",
+  "updatedAt": "2026-07-09T05:36:09Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9394,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:08Z",
+      "updatedAt": "2026-07-09T05:36:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8194,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17666,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 71768,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 70748,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 13560,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 16710,
-      "createdAt": "2026-07-13T13:33:18Z",
-      "updatedAt": "2026-07-13T13:33:18Z"
+      "createdAt": "2026-07-09T05:36:09Z",
+      "updatedAt": "2026-07-09T05:36:09Z"
     }
   ]
 }

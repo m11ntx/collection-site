@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bayern-de-munique-125-anos-vermelha-adidas",
-  "createdAt": "2026-07-13T13:46:40Z",
-  "updatedAt": "2026-07-13T13:46:40Z",
+  "createdAt": "2026-07-07T01:32:21Z",
+  "updatedAt": "2026-07-07T01:32:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8028,
-      "createdAt": "2026-07-13T13:46:40Z",
-      "updatedAt": "2026-07-13T13:46:40Z"
+      "createdAt": "2026-07-07T01:32:21Z",
+      "updatedAt": "2026-07-07T01:32:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5510,
-      "createdAt": "2026-07-13T13:46:40Z",
-      "updatedAt": "2026-07-13T13:46:40Z"
+      "createdAt": "2026-07-07T01:32:21Z",
+      "updatedAt": "2026-07-07T01:32:21Z"
     }
   ]
 }

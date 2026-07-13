@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fc-porto-home-26-27-versao-torcedor-azul-e-banco",
-  "createdAt": "2026-07-13T13:51:30Z",
-  "updatedAt": "2026-07-13T13:51:30Z",
+  "createdAt": "2026-07-07T03:08:04Z",
+  "updatedAt": "2026-07-12T01:12:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10500,
-      "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "createdAt": "2026-07-07T03:08:04Z",
+      "updatedAt": "2026-07-12T01:12:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7766,
-      "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "createdAt": "2026-07-07T03:08:04Z",
+      "updatedAt": "2026-07-12T01:12:10Z"
     }
   ]
 }

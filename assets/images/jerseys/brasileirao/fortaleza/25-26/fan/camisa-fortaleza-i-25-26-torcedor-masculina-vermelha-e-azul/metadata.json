@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fortaleza-i-25-26-torcedor-masculina-vermelha-e-azul",
-  "createdAt": "2026-07-13T13:47:29Z",
-  "updatedAt": "2026-07-13T13:47:29Z",
+  "createdAt": "2026-07-05T16:55:30Z",
+  "updatedAt": "2026-07-05T16:55:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23274,
-      "createdAt": "2026-07-13T13:47:29Z",
-      "updatedAt": "2026-07-13T13:47:29Z"
+      "createdAt": "2026-07-05T16:55:29Z",
+      "updatedAt": "2026-07-05T16:55:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 73932,
-      "createdAt": "2026-07-13T13:47:29Z",
-      "updatedAt": "2026-07-13T13:47:29Z"
+      "createdAt": "2026-07-05T16:55:29Z",
+      "updatedAt": "2026-07-05T16:55:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 32212,
-      "createdAt": "2026-07-13T13:47:29Z",
-      "updatedAt": "2026-07-13T13:47:29Z"
+      "createdAt": "2026-07-05T16:55:29Z",
+      "updatedAt": "2026-07-05T16:55:29Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21382,
-      "createdAt": "2026-07-13T13:47:29Z",
-      "updatedAt": "2026-07-13T13:47:29Z"
+      "createdAt": "2026-07-05T16:55:29Z",
+      "updatedAt": "2026-07-05T16:55:29Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 87138,
-      "createdAt": "2026-07-13T13:47:29Z",
-      "updatedAt": "2026-07-13T13:47:29Z"
+      "createdAt": "2026-07-05T16:55:30Z",
+      "updatedAt": "2026-07-05T16:55:30Z"
     }
   ]
 }

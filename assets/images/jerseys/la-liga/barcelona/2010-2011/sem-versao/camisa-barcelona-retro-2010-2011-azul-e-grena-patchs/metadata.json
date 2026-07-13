@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-retro-2010-2011-azul-e-grena-patchs",
-  "createdAt": "2026-07-13T13:47:15Z",
-  "updatedAt": "2026-07-13T13:47:15Z",
+  "createdAt": "2026-07-09T16:36:01Z",
+  "updatedAt": "2026-07-09T16:36:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15824,
-      "createdAt": "2026-07-13T13:47:15Z",
-      "updatedAt": "2026-07-13T13:47:15Z"
+      "createdAt": "2026-07-09T16:36:01Z",
+      "updatedAt": "2026-07-09T16:36:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11218,
-      "createdAt": "2026-07-13T13:47:15Z",
-      "updatedAt": "2026-07-13T13:47:15Z"
+      "createdAt": "2026-07-09T16:36:01Z",
+      "updatedAt": "2026-07-09T16:36:01Z"
     }
   ]
 }

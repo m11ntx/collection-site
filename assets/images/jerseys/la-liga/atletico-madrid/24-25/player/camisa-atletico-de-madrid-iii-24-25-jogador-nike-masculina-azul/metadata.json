@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-de-madrid-iii-24-25-jogador-nike-masculina-azul",
-  "createdAt": "2026-07-13T13:38:11Z",
-  "updatedAt": "2026-07-13T13:38:11Z",
+  "createdAt": "2026-07-09T03:06:48Z",
+  "updatedAt": "2026-07-09T03:06:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23558,
-      "createdAt": "2026-07-13T13:38:11Z",
-      "updatedAt": "2026-07-13T13:38:11Z"
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15122,
-      "createdAt": "2026-07-13T13:38:11Z",
-      "updatedAt": "2026-07-13T13:38:11Z"
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
     }
   ]
 }

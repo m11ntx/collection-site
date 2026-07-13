@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-newcastle-ii-24-25-jogador-adidas-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-13T13:39:38Z",
-  "updatedAt": "2026-07-13T13:39:38Z",
+  "createdAt": "2026-07-09T03:07:26Z",
+  "updatedAt": "2026-07-09T03:07:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14768,
-      "createdAt": "2026-07-13T13:39:37Z",
-      "updatedAt": "2026-07-13T13:39:37Z"
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11538,
-      "createdAt": "2026-07-13T13:39:37Z",
-      "updatedAt": "2026-07-13T13:39:37Z"
+      "createdAt": "2026-07-09T03:07:25Z",
+      "updatedAt": "2026-07-09T03:07:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 25910,
-      "createdAt": "2026-07-13T13:39:37Z",
-      "updatedAt": "2026-07-13T13:39:37Z"
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 11922,
-      "createdAt": "2026-07-13T13:39:38Z",
-      "updatedAt": "2026-07-13T13:39:38Z"
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 11668,
-      "createdAt": "2026-07-13T13:39:38Z",
-      "updatedAt": "2026-07-13T13:39:38Z"
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 37244,
-      "createdAt": "2026-07-13T13:39:38Z",
-      "updatedAt": "2026-07-13T13:39:38Z"
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 24158,
-      "createdAt": "2026-07-13T13:39:38Z",
-      "updatedAt": "2026-07-13T13:39:38Z"
+      "createdAt": "2026-07-09T03:07:26Z",
+      "updatedAt": "2026-07-09T03:07:26Z"
     }
   ]
 }

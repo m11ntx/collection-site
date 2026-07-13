@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-26-27-goleiro-new-balance-masculina-torcedor",
-  "createdAt": "2026-07-13T13:51:44Z",
-  "updatedAt": "2026-07-13T13:51:44Z",
+  "createdAt": "2026-07-08T03:33:01Z",
+  "updatedAt": "2026-07-08T03:33:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11376,
-      "createdAt": "2026-07-13T13:51:44Z",
-      "updatedAt": "2026-07-13T13:51:44Z"
+      "createdAt": "2026-07-08T03:33:01Z",
+      "updatedAt": "2026-07-08T03:33:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6478,
-      "createdAt": "2026-07-13T13:51:44Z",
-      "updatedAt": "2026-07-13T13:51:44Z"
+      "createdAt": "2026-07-08T03:33:01Z",
+      "updatedAt": "2026-07-08T03:33:01Z"
     }
   ]
 }

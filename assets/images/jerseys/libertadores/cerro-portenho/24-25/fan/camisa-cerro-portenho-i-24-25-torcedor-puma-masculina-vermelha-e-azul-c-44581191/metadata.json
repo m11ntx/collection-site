@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cerro-portenho-i-24-25-torcedor-puma-masculina-vermelha-e-azul-com-detalhes-em-branco",
-  "createdAt": "2026-07-13T13:37:08Z",
-  "updatedAt": "2026-07-13T13:37:08Z",
+  "createdAt": "2026-07-09T19:42:39Z",
+  "updatedAt": "2026-07-09T19:42:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17744,
-      "createdAt": "2026-07-13T13:37:08Z",
-      "updatedAt": "2026-07-13T13:37:08Z"
+      "createdAt": "2026-07-09T19:42:39Z",
+      "updatedAt": "2026-07-09T19:42:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15624,
-      "createdAt": "2026-07-13T13:37:08Z",
-      "updatedAt": "2026-07-13T13:37:08Z"
+      "createdAt": "2026-07-09T19:42:39Z",
+      "updatedAt": "2026-07-09T19:42:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 475,
       "size": 9528,
-      "createdAt": "2026-07-13T13:37:08Z",
-      "updatedAt": "2026-07-13T13:37:08Z"
+      "createdAt": "2026-07-09T19:42:39Z",
+      "updatedAt": "2026-07-09T19:42:39Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 481,
       "size": 16020,
-      "createdAt": "2026-07-13T13:37:08Z",
-      "updatedAt": "2026-07-13T13:37:08Z"
+      "createdAt": "2026-07-09T19:42:39Z",
+      "updatedAt": "2026-07-09T19:42:39Z"
     }
   ]
 }

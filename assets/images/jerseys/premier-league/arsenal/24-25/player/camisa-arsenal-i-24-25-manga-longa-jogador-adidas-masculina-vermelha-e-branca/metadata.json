@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-i-24-25-manga-longa-jogador-adidas-masculina-vermelha-e-branca",
-  "createdAt": "2026-07-13T13:43:15Z",
-  "updatedAt": "2026-07-13T13:43:15Z",
+  "createdAt": "2026-07-09T22:50:33Z",
+  "updatedAt": "2026-07-09T22:50:33Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10444,
-      "createdAt": "2026-07-13T13:43:14Z",
-      "updatedAt": "2026-07-13T13:43:14Z"
+      "createdAt": "2026-07-09T22:50:33Z",
+      "updatedAt": "2026-07-09T22:50:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17522,
-      "createdAt": "2026-07-13T13:43:14Z",
-      "updatedAt": "2026-07-13T13:43:14Z"
+      "createdAt": "2026-07-09T22:50:33Z",
+      "updatedAt": "2026-07-09T22:50:33Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7264,
-      "createdAt": "2026-07-13T13:43:15Z",
-      "updatedAt": "2026-07-13T13:43:15Z"
+      "createdAt": "2026-07-09T22:50:33Z",
+      "updatedAt": "2026-07-09T22:50:33Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-conjunto-treino-inverno-corinthians-preto-25-26",
-  "createdAt": "2026-07-13T13:48:26Z",
-  "updatedAt": "2026-07-13T13:48:26Z",
+  "createdAt": "2026-07-09T22:52:30Z",
+  "updatedAt": "2026-07-09T22:52:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12114,
-      "createdAt": "2026-07-13T13:48:26Z",
-      "updatedAt": "2026-07-13T13:48:26Z"
+      "createdAt": "2026-07-09T22:52:30Z",
+      "updatedAt": "2026-07-09T22:52:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8148,
-      "createdAt": "2026-07-13T13:48:26Z",
-      "updatedAt": "2026-07-13T13:48:26Z"
+      "createdAt": "2026-07-09T22:52:30Z",
+      "updatedAt": "2026-07-09T22:52:30Z"
     }
   ]
 }

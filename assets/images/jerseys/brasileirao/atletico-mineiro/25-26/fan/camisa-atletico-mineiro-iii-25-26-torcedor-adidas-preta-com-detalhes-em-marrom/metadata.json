@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-iii-25-26-torcedor-adidas-preta-com-detalhes-em-marrom",
-  "createdAt": "2026-07-13T13:48:27Z",
-  "updatedAt": "2026-07-13T13:48:27Z",
+  "createdAt": "2026-07-05T16:55:16Z",
+  "updatedAt": "2026-07-05T16:55:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 495,
       "size": 12168,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-05T16:55:16Z",
+      "updatedAt": "2026-07-05T16:55:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 495,
       "size": 3036,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-05T16:55:16Z",
+      "updatedAt": "2026-07-05T16:55:16Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 495,
       "size": 10564,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-05T16:55:16Z",
+      "updatedAt": "2026-07-05T16:55:16Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 495,
       "size": 22320,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-05T16:55:16Z",
+      "updatedAt": "2026-07-05T16:55:16Z"
     }
   ]
 }

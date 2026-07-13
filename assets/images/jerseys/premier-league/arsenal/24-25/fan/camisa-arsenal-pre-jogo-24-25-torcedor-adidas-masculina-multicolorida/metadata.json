@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-pre-jogo-24-25-torcedor-adidas-masculina-multicolorida",
-  "createdAt": "2026-07-13T13:33:32Z",
-  "updatedAt": "2026-07-13T13:33:32Z",
+  "createdAt": "2026-07-07T02:50:35Z",
+  "updatedAt": "2026-07-07T02:50:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 28450,
-      "createdAt": "2026-07-13T13:33:31Z",
-      "updatedAt": "2026-07-13T13:33:31Z"
+      "createdAt": "2026-07-07T02:50:35Z",
+      "updatedAt": "2026-07-07T02:50:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 24018,
-      "createdAt": "2026-07-13T13:33:32Z",
-      "updatedAt": "2026-07-13T13:33:32Z"
+      "createdAt": "2026-07-07T02:50:35Z",
+      "updatedAt": "2026-07-07T02:50:35Z"
     }
   ]
 }

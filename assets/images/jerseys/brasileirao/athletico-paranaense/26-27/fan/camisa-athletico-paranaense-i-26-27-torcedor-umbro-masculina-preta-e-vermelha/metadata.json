@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-athletico-paranaense-i-26-27-torcedor-umbro-masculina-preta-e-vermelha",
-  "createdAt": "2026-07-13T13:51:25Z",
-  "updatedAt": "2026-07-13T13:51:25Z",
+  "createdAt": "2026-07-05T16:54:40Z",
+  "updatedAt": "2026-07-05T16:54:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9372,
-      "createdAt": "2026-07-13T13:51:25Z",
-      "updatedAt": "2026-07-13T13:51:25Z"
+      "createdAt": "2026-07-05T16:54:39Z",
+      "updatedAt": "2026-07-05T16:54:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7406,
-      "createdAt": "2026-07-13T13:51:25Z",
-      "updatedAt": "2026-07-13T13:51:25Z"
+      "createdAt": "2026-07-05T16:54:40Z",
+      "updatedAt": "2026-07-05T16:54:40Z"
     }
   ]
 }

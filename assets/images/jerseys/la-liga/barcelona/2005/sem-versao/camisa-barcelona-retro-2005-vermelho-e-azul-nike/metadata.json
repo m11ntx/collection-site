@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-retro-2005-vermelho-e-azul-nike",
-  "createdAt": "2026-07-13T13:47:31Z",
-  "updatedAt": "2026-07-13T13:47:31Z",
+  "createdAt": "2026-07-09T16:35:57Z",
+  "updatedAt": "2026-07-09T16:35:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15264,
-      "createdAt": "2026-07-13T13:47:31Z",
-      "updatedAt": "2026-07-13T13:47:31Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12730,
-      "createdAt": "2026-07-13T13:47:31Z",
-      "updatedAt": "2026-07-13T13:47:31Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 54180,
-      "createdAt": "2026-07-13T13:47:31Z",
-      "updatedAt": "2026-07-13T13:47:31Z"
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 57338,
-      "createdAt": "2026-07-13T13:47:31Z",
-      "updatedAt": "2026-07-13T13:47:31Z"
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 30620,
-      "createdAt": "2026-07-13T13:47:31Z",
-      "updatedAt": "2026-07-13T13:47:31Z"
+      "createdAt": "2026-07-09T16:35:57Z",
+      "updatedAt": "2026-07-09T16:35:57Z"
     }
   ]
 }

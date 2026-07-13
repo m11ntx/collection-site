@@ -1,7 +1,7 @@
 {
   "productId": "source-short-flamengo-25-26-branco",
-  "createdAt": "2026-07-13T13:46:32Z",
-  "updatedAt": "2026-07-13T13:46:32Z",
+  "createdAt": "2026-07-09T22:51:58Z",
+  "updatedAt": "2026-07-09T22:51:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 473,
       "height": 473,
       "size": 7870,
-      "createdAt": "2026-07-13T13:46:32Z",
-      "updatedAt": "2026-07-13T13:46:32Z"
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 473,
       "height": 473,
       "size": 9284,
-      "createdAt": "2026-07-13T13:46:32Z",
-      "updatedAt": "2026-07-13T13:46:32Z"
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 473,
       "height": 473,
       "size": 9422,
-      "createdAt": "2026-07-13T13:46:32Z",
-      "updatedAt": "2026-07-13T13:46:32Z"
+      "createdAt": "2026-07-09T22:51:58Z",
+      "updatedAt": "2026-07-09T22:51:58Z"
     }
   ]
 }

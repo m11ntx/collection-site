@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-al-hilal-iii-24-25-torcedor-puma-masculina-roxa",
-  "createdAt": "2026-07-13T13:38:45Z",
-  "updatedAt": "2026-07-13T13:38:45Z",
+  "createdAt": "2026-07-07T05:04:30Z",
+  "updatedAt": "2026-07-07T05:04:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15872,
-      "createdAt": "2026-07-13T13:38:45Z",
-      "updatedAt": "2026-07-13T13:38:45Z"
+      "createdAt": "2026-07-07T05:04:30Z",
+      "updatedAt": "2026-07-07T05:04:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6390,
-      "createdAt": "2026-07-13T13:38:45Z",
-      "updatedAt": "2026-07-13T13:38:45Z"
+      "createdAt": "2026-07-07T05:04:30Z",
+      "updatedAt": "2026-07-07T05:04:30Z"
     }
   ]
 }

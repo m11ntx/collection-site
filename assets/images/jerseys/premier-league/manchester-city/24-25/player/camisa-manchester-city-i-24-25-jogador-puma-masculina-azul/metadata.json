@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-i-24-25-jogador-puma-masculina-azul",
-  "createdAt": "2026-07-13T13:36:33Z",
-  "updatedAt": "2026-07-13T13:36:33Z",
+  "createdAt": "2026-07-09T03:07:18Z",
+  "updatedAt": "2026-07-09T03:07:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11918,
-      "createdAt": "2026-07-13T13:36:33Z",
-      "updatedAt": "2026-07-13T13:36:33Z"
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10928,
-      "createdAt": "2026-07-13T13:36:33Z",
-      "updatedAt": "2026-07-13T13:36:33Z"
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19580,
-      "createdAt": "2026-07-13T13:36:33Z",
-      "updatedAt": "2026-07-13T13:36:33Z"
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 13678,
-      "createdAt": "2026-07-13T13:36:33Z",
-      "updatedAt": "2026-07-13T13:36:33Z"
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 27612,
-      "createdAt": "2026-07-13T13:36:33Z",
-      "updatedAt": "2026-07-13T13:36:33Z"
+      "createdAt": "2026-07-09T03:07:18Z",
+      "updatedAt": "2026-07-09T03:07:18Z"
     }
   ]
 }

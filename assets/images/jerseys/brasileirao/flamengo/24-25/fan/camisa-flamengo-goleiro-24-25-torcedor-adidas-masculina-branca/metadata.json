@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-goleiro-24-25-torcedor-adidas-masculina-branca",
-  "createdAt": "2026-07-13T13:37:57Z",
-  "updatedAt": "2026-07-13T13:37:57Z",
+  "createdAt": "2026-07-05T06:09:04Z",
+  "updatedAt": "2026-07-05T06:09:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5908,
-      "createdAt": "2026-07-13T13:37:57Z",
-      "updatedAt": "2026-07-13T13:37:57Z"
+      "createdAt": "2026-07-05T06:09:04Z",
+      "updatedAt": "2026-07-05T06:09:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4228,
-      "createdAt": "2026-07-13T13:37:57Z",
-      "updatedAt": "2026-07-13T13:37:57Z"
+      "createdAt": "2026-07-05T06:09:04Z",
+      "updatedAt": "2026-07-05T06:09:04Z"
     }
   ]
 }

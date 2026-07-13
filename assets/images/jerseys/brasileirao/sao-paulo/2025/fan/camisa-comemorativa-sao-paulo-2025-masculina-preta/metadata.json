@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-comemorativa-sao-paulo-2025-masculina-preta",
-  "createdAt": "2026-07-13T13:48:18Z",
-  "updatedAt": "2026-07-13T13:48:18Z",
+  "createdAt": "2026-07-05T16:43:07Z",
+  "updatedAt": "2026-07-05T16:43:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8746,
-      "createdAt": "2026-07-13T13:48:18Z",
-      "updatedAt": "2026-07-13T13:48:18Z"
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6468,
-      "createdAt": "2026-07-13T13:48:18Z",
-      "updatedAt": "2026-07-13T13:48:18Z"
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9090,
-      "createdAt": "2026-07-13T13:48:18Z",
-      "updatedAt": "2026-07-13T13:48:18Z"
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
     }
   ]
 }

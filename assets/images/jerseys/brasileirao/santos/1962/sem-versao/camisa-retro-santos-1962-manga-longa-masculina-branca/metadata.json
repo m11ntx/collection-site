@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-santos-1962-manga-longa-masculina-branca",
-  "createdAt": "2026-07-13T13:43:22Z",
-  "updatedAt": "2026-07-13T13:43:22Z",
+  "createdAt": "2026-07-09T22:50:41Z",
+  "updatedAt": "2026-07-09T22:50:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6228,
-      "createdAt": "2026-07-13T13:43:22Z",
-      "updatedAt": "2026-07-13T13:43:22Z"
+      "createdAt": "2026-07-09T22:50:41Z",
+      "updatedAt": "2026-07-09T22:50:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4772,
-      "createdAt": "2026-07-13T13:43:22Z",
-      "updatedAt": "2026-07-13T13:43:22Z"
+      "createdAt": "2026-07-09T22:50:41Z",
+      "updatedAt": "2026-07-09T22:50:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10044,
-      "createdAt": "2026-07-13T13:43:22Z",
-      "updatedAt": "2026-07-13T13:43:22Z"
+      "createdAt": "2026-07-09T22:50:41Z",
+      "updatedAt": "2026-07-09T22:50:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 6256,
-      "createdAt": "2026-07-13T13:43:22Z",
-      "updatedAt": "2026-07-13T13:43:22Z"
+      "createdAt": "2026-07-09T22:50:41Z",
+      "updatedAt": "2026-07-09T22:50:41Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 8850,
-      "createdAt": "2026-07-13T13:43:22Z",
-      "updatedAt": "2026-07-13T13:43:22Z"
+      "createdAt": "2026-07-09T22:50:41Z",
+      "updatedAt": "2026-07-09T22:50:41Z"
     }
   ]
 }

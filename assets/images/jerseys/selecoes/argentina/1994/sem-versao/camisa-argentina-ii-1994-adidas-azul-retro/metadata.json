@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-argentina-ii-1994-adidas-azul-retro",
-  "createdAt": "2026-07-13T13:46:19Z",
-  "updatedAt": "2026-07-13T13:46:19Z",
+  "createdAt": "2026-07-09T16:35:29Z",
+  "updatedAt": "2026-07-09T16:35:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16276,
-      "createdAt": "2026-07-13T13:46:19Z",
-      "updatedAt": "2026-07-13T13:46:19Z"
+      "createdAt": "2026-07-09T16:35:29Z",
+      "updatedAt": "2026-07-09T16:35:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 34374,
-      "createdAt": "2026-07-13T13:46:19Z",
-      "updatedAt": "2026-07-13T13:46:19Z"
+      "createdAt": "2026-07-09T16:35:29Z",
+      "updatedAt": "2026-07-09T16:35:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12954,
-      "createdAt": "2026-07-13T13:46:19Z",
-      "updatedAt": "2026-07-13T13:46:19Z"
+      "createdAt": "2026-07-09T16:35:29Z",
+      "updatedAt": "2026-07-09T16:35:29Z"
     }
   ]
 }

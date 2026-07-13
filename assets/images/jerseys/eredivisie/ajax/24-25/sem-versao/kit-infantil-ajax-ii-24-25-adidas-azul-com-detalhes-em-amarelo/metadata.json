@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-ajax-ii-24-25-adidas-azul-com-detalhes-em-amarelo",
-  "createdAt": "2026-07-13T13:41:24Z",
-  "updatedAt": "2026-07-13T13:41:24Z",
+  "createdAt": "2026-07-09T20:44:56Z",
+  "updatedAt": "2026-07-09T20:44:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15298,
-      "createdAt": "2026-07-13T13:41:24Z",
-      "updatedAt": "2026-07-13T13:41:24Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 29222,
-      "createdAt": "2026-07-13T13:41:24Z",
-      "updatedAt": "2026-07-13T13:41:24Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10060,
-      "createdAt": "2026-07-13T13:41:24Z",
-      "updatedAt": "2026-07-13T13:41:24Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     }
   ]
 }

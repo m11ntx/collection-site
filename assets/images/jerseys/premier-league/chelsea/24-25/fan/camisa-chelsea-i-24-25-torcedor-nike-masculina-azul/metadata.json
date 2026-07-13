@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-i-24-25-torcedor-nike-masculina-azul",
-  "createdAt": "2026-07-13T13:38:20Z",
-  "updatedAt": "2026-07-13T13:38:20Z",
+  "createdAt": "2026-07-07T02:48:30Z",
+  "updatedAt": "2026-07-07T02:48:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13618,
-      "createdAt": "2026-07-13T13:38:20Z",
-      "updatedAt": "2026-07-13T13:38:20Z"
+      "createdAt": "2026-07-07T02:48:29Z",
+      "updatedAt": "2026-07-07T02:48:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8672,
-      "createdAt": "2026-07-13T13:38:20Z",
-      "updatedAt": "2026-07-13T13:38:20Z"
+      "createdAt": "2026-07-07T02:48:29Z",
+      "updatedAt": "2026-07-07T02:48:29Z"
     }
   ]
 }

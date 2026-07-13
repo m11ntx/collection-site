@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-goleiro-sao-paulo-26-27-torcedor-vinho",
-  "createdAt": "2026-07-13T13:51:44Z",
-  "updatedAt": "2026-07-13T13:51:44Z",
+  "createdAt": "2026-07-08T03:33:00Z",
+  "updatedAt": "2026-07-08T03:33:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8838,
-      "createdAt": "2026-07-13T13:51:44Z",
-      "updatedAt": "2026-07-13T13:51:44Z"
+      "createdAt": "2026-07-08T03:33:00Z",
+      "updatedAt": "2026-07-08T03:33:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5640,
-      "createdAt": "2026-07-13T13:51:44Z",
-      "updatedAt": "2026-07-13T13:51:44Z"
+      "createdAt": "2026-07-08T03:33:00Z",
+      "updatedAt": "2026-07-08T03:33:00Z"
     }
   ]
 }

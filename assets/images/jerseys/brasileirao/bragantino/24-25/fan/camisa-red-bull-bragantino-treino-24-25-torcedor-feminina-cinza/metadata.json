@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-red-bull-bragantino-treino-24-25-torcedor-feminina-cinza",
-  "createdAt": "2026-07-13T13:37:40Z",
-  "updatedAt": "2026-07-13T13:37:40Z",
+  "createdAt": "2026-07-09T05:35:46Z",
+  "updatedAt": "2026-07-09T05:35:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 25916,
-      "createdAt": "2026-07-13T13:37:39Z",
-      "updatedAt": "2026-07-13T13:37:39Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23832,
-      "createdAt": "2026-07-13T13:37:39Z",
-      "updatedAt": "2026-07-13T13:37:39Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 25554,
-      "createdAt": "2026-07-13T13:37:39Z",
-      "updatedAt": "2026-07-13T13:37:39Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 80008,
-      "createdAt": "2026-07-13T13:37:39Z",
-      "updatedAt": "2026-07-13T13:37:39Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 45200,
-      "createdAt": "2026-07-13T13:37:40Z",
-      "updatedAt": "2026-07-13T13:37:40Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 51534,
-      "createdAt": "2026-07-13T13:37:40Z",
-      "updatedAt": "2026-07-13T13:37:40Z"
+      "createdAt": "2026-07-09T05:35:46Z",
+      "updatedAt": "2026-07-09T05:35:46Z"
     }
   ]
 }

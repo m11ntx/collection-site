@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-borussia-dortmund-copas-24-25-jogador-puma-masculina-amarela-com-detalhes-em-preto",
-  "createdAt": "2026-07-13T13:39:46Z",
-  "updatedAt": "2026-07-13T13:39:46Z",
+  "createdAt": "2026-07-09T03:13:25Z",
+  "updatedAt": "2026-07-09T03:13:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15964,
-      "createdAt": "2026-07-13T13:39:45Z",
-      "updatedAt": "2026-07-13T13:39:45Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13512,
-      "createdAt": "2026-07-13T13:39:45Z",
-      "updatedAt": "2026-07-13T13:39:45Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17312,
-      "createdAt": "2026-07-13T13:39:45Z",
-      "updatedAt": "2026-07-13T13:39:45Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 14770,
-      "createdAt": "2026-07-13T13:39:45Z",
-      "updatedAt": "2026-07-13T13:39:45Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 23374,
-      "createdAt": "2026-07-13T13:39:45Z",
-      "updatedAt": "2026-07-13T13:39:45Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 22538,
-      "createdAt": "2026-07-13T13:39:46Z",
-      "updatedAt": "2026-07-13T13:39:46Z"
+      "createdAt": "2026-07-09T03:13:24Z",
+      "updatedAt": "2026-07-09T03:13:24Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 26886,
-      "createdAt": "2026-07-13T13:39:46Z",
-      "updatedAt": "2026-07-13T13:39:46Z"
+      "createdAt": "2026-07-09T03:13:25Z",
+      "updatedAt": "2026-07-09T03:13:25Z"
     }
   ]
 }

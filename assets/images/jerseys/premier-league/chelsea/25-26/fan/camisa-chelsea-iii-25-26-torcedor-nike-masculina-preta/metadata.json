@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-iii-25-26-torcedor-nike-masculina-preta",
-  "createdAt": "2026-07-13T13:48:25Z",
-  "updatedAt": "2026-07-13T13:48:25Z",
+  "createdAt": "2026-07-07T02:48:35Z",
+  "updatedAt": "2026-07-07T02:48:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8418,
-      "createdAt": "2026-07-13T13:48:25Z",
-      "updatedAt": "2026-07-13T13:48:25Z"
+      "createdAt": "2026-07-07T02:48:34Z",
+      "updatedAt": "2026-07-07T02:48:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 51346,
-      "createdAt": "2026-07-13T13:48:25Z",
-      "updatedAt": "2026-07-13T13:48:25Z"
+      "createdAt": "2026-07-07T02:48:35Z",
+      "updatedAt": "2026-07-07T02:48:35Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6432,
-      "createdAt": "2026-07-13T13:48:25Z",
-      "updatedAt": "2026-07-13T13:48:25Z"
+      "createdAt": "2026-07-07T02:48:35Z",
+      "updatedAt": "2026-07-07T02:48:35Z"
     }
   ]
 }

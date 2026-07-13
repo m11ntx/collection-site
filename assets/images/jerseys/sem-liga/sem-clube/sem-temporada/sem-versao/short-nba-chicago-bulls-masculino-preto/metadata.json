@@ -1,7 +1,7 @@
 {
   "productId": "source-short-nba-chicago-bulls-masculino-preto",
-  "createdAt": "2026-07-13T13:48:06Z",
-  "updatedAt": "2026-07-13T13:48:06Z",
+  "createdAt": "2026-07-09T20:32:06Z",
+  "updatedAt": "2026-07-09T20:32:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17000,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T20:32:05Z",
+      "updatedAt": "2026-07-09T20:32:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13656,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T20:32:05Z",
+      "updatedAt": "2026-07-09T20:32:05Z"
     }
   ]
 }

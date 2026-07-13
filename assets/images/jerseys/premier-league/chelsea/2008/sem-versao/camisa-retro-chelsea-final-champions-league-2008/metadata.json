@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-chelsea-final-champions-league-2008",
-  "createdAt": "2026-07-13T13:47:25Z",
-  "updatedAt": "2026-07-13T13:47:25Z",
+  "createdAt": "2026-07-09T16:41:28Z",
+  "updatedAt": "2026-07-09T16:41:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13252,
-      "createdAt": "2026-07-13T13:47:24Z",
-      "updatedAt": "2026-07-13T13:47:24Z"
+      "createdAt": "2026-07-09T16:41:28Z",
+      "updatedAt": "2026-07-09T16:41:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 21254,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-09T16:41:28Z",
+      "updatedAt": "2026-07-09T16:41:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6632,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-09T16:41:28Z",
+      "updatedAt": "2026-07-09T16:41:28Z"
     }
   ]
 }

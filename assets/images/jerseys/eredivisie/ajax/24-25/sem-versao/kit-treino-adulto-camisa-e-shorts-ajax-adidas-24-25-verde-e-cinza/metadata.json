@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-treino-adulto-camisa-e-shorts-ajax-adidas-24-25-verde-e-cinza",
-  "createdAt": "2026-07-13T13:44:32Z",
-  "updatedAt": "2026-07-13T13:44:32Z",
+  "createdAt": "2026-07-09T20:45:00Z",
+  "updatedAt": "2026-07-09T20:45:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9326,
-      "createdAt": "2026-07-13T13:44:32Z",
-      "updatedAt": "2026-07-13T13:44:32Z"
+      "createdAt": "2026-07-09T20:45:00Z",
+      "updatedAt": "2026-07-09T20:45:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10006,
-      "createdAt": "2026-07-13T13:44:32Z",
-      "updatedAt": "2026-07-13T13:44:32Z"
+      "createdAt": "2026-07-09T20:45:00Z",
+      "updatedAt": "2026-07-09T20:45:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6474,
-      "createdAt": "2026-07-13T13:44:32Z",
-      "updatedAt": "2026-07-13T13:44:32Z"
+      "createdAt": "2026-07-09T20:45:00Z",
+      "updatedAt": "2026-07-09T20:45:00Z"
     }
   ]
 }

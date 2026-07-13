@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-2024-torcedor-esquadrao-feminina-branca",
-  "createdAt": "2026-07-13T13:46:16Z",
-  "updatedAt": "2026-07-13T13:46:16Z",
+  "createdAt": "2026-07-09T05:35:05Z",
+  "updatedAt": "2026-07-09T05:35:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10230,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-09T05:35:05Z",
+      "updatedAt": "2026-07-09T05:35:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 33886,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-09T05:35:05Z",
+      "updatedAt": "2026-07-09T05:35:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6510,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-09T05:35:05Z",
+      "updatedAt": "2026-07-09T05:35:05Z"
     }
   ]
 }

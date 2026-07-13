@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-iv-24-25-torcedor-puma-masculina-bege-com-detalhes-em-cinza",
-  "createdAt": "2026-07-13T13:38:54Z",
-  "updatedAt": "2026-07-13T13:38:54Z",
+  "createdAt": "2026-07-09T22:10:33Z",
+  "updatedAt": "2026-07-09T22:10:33Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10626,
-      "createdAt": "2026-07-13T13:38:53Z",
-      "updatedAt": "2026-07-13T13:38:53Z"
+      "createdAt": "2026-07-09T22:10:32Z",
+      "updatedAt": "2026-07-09T22:10:32Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6076,
-      "createdAt": "2026-07-13T13:38:53Z",
-      "updatedAt": "2026-07-13T13:38:53Z"
+      "createdAt": "2026-07-09T22:10:32Z",
+      "updatedAt": "2026-07-09T22:10:32Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6288,
-      "createdAt": "2026-07-13T13:38:53Z",
-      "updatedAt": "2026-07-13T13:38:53Z"
+      "createdAt": "2026-07-09T22:10:32Z",
+      "updatedAt": "2026-07-09T22:10:32Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 10792,
-      "createdAt": "2026-07-13T13:38:54Z",
-      "updatedAt": "2026-07-13T13:38:54Z"
+      "createdAt": "2026-07-09T22:10:32Z",
+      "updatedAt": "2026-07-09T22:10:32Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 16364,
-      "createdAt": "2026-07-13T13:38:54Z",
-      "updatedAt": "2026-07-13T13:38:54Z"
+      "createdAt": "2026-07-09T22:10:32Z",
+      "updatedAt": "2026-07-09T22:10:32Z"
     }
   ]
 }

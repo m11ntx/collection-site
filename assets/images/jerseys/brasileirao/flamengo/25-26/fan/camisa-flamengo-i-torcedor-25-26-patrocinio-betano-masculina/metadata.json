@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-torcedor-25-26-patrocinio-betano-masculina",
-  "createdAt": "2026-07-13T13:48:23Z",
-  "updatedAt": "2026-07-13T13:48:23Z",
+  "createdAt": "2026-07-05T06:09:14Z",
+  "updatedAt": "2026-07-05T06:09:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16484,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-05T06:09:13Z",
+      "updatedAt": "2026-07-05T06:09:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 33344,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-05T06:09:13Z",
+      "updatedAt": "2026-07-05T06:09:13Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33094,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 7566,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-05T06:09:14Z",
+      "updatedAt": "2026-07-05T06:09:14Z"
     }
   ]
 }

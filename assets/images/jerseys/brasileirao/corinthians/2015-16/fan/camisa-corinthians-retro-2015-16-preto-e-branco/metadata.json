@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-retro-2015-16-preto-e-branco",
-  "createdAt": "2026-07-13T13:48:06Z",
-  "updatedAt": "2026-07-13T13:48:06Z",
+  "createdAt": "2026-07-09T16:36:52Z",
+  "updatedAt": "2026-07-09T16:36:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12146,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7334,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T16:36:52Z",
+      "updatedAt": "2026-07-09T16:36:52Z"
     }
   ]
 }

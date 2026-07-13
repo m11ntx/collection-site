@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-real-betis-1988-1989-hummel-masculina-verde-e-branca",
-  "createdAt": "2026-07-13T13:35:08Z",
-  "updatedAt": "2026-07-13T13:35:08Z",
+  "createdAt": "2026-07-09T16:43:57Z",
+  "updatedAt": "2026-07-09T16:43:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8006,
-      "createdAt": "2026-07-13T13:35:07Z",
-      "updatedAt": "2026-07-13T13:35:07Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13332,
-      "createdAt": "2026-07-13T13:35:08Z",
-      "updatedAt": "2026-07-13T13:35:08Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6372,
-      "createdAt": "2026-07-13T13:35:08Z",
-      "updatedAt": "2026-07-13T13:35:08Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 25616,
-      "createdAt": "2026-07-13T13:35:08Z",
-      "updatedAt": "2026-07-13T13:35:08Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 30592,
-      "createdAt": "2026-07-13T13:35:08Z",
-      "updatedAt": "2026-07-13T13:35:08Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 11952,
-      "createdAt": "2026-07-13T13:35:08Z",
-      "updatedAt": "2026-07-13T13:35:08Z"
+      "createdAt": "2026-07-09T16:43:57Z",
+      "updatedAt": "2026-07-09T16:43:57Z"
     }
   ]
 }

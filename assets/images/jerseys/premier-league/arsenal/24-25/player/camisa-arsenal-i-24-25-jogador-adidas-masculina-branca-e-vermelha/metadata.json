@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-i-24-25-jogador-adidas-masculina-branca-e-vermelha",
-  "createdAt": "2026-07-13T13:37:54Z",
-  "updatedAt": "2026-07-13T13:37:54Z",
+  "createdAt": "2026-07-09T03:06:44Z",
+  "updatedAt": "2026-07-09T03:06:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11518,
-      "createdAt": "2026-07-13T13:37:53Z",
-      "updatedAt": "2026-07-13T13:37:53Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14036,
-      "createdAt": "2026-07-13T13:37:54Z",
-      "updatedAt": "2026-07-13T13:37:54Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7802,
-      "createdAt": "2026-07-13T13:37:54Z",
-      "updatedAt": "2026-07-13T13:37:54Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     }
   ]
 }

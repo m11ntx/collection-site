@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-dc-united-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-vermelho-e-cinza",
-  "createdAt": "2026-07-13T13:36:56Z",
-  "updatedAt": "2026-07-13T13:36:56Z",
+  "createdAt": "2026-07-09T21:32:25Z",
+  "updatedAt": "2026-07-09T21:32:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23894,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-09T21:32:24Z",
+      "updatedAt": "2026-07-09T21:32:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9494,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 270,
       "size": 24070,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
     }
   ]
 }

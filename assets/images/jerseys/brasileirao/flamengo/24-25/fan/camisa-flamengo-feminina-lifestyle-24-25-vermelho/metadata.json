@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-feminina-lifestyle-24-25-vermelho",
-  "createdAt": "2026-07-13T13:45:46Z",
-  "updatedAt": "2026-07-13T13:45:46Z",
+  "createdAt": "2026-07-09T05:35:21Z",
+  "updatedAt": "2026-07-09T05:35:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13008,
-      "createdAt": "2026-07-13T13:45:46Z",
-      "updatedAt": "2026-07-13T13:45:46Z"
+      "createdAt": "2026-07-09T05:35:21Z",
+      "updatedAt": "2026-07-09T05:35:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 62514,
-      "createdAt": "2026-07-13T13:45:46Z",
-      "updatedAt": "2026-07-13T13:45:46Z"
+      "createdAt": "2026-07-09T05:35:21Z",
+      "updatedAt": "2026-07-09T05:35:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 72402,
-      "createdAt": "2026-07-13T13:45:46Z",
-      "updatedAt": "2026-07-13T13:45:46Z"
+      "createdAt": "2026-07-09T05:35:21Z",
+      "updatedAt": "2026-07-09T05:35:21Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 9712,
-      "createdAt": "2026-07-13T13:45:46Z",
-      "updatedAt": "2026-07-13T13:45:46Z"
+      "createdAt": "2026-07-09T05:35:21Z",
+      "updatedAt": "2026-07-09T05:35:21Z"
     }
   ]
 }

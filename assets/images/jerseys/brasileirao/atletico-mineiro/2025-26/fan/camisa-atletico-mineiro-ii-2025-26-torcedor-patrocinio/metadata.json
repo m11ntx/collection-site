@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-ii-2025-26-torcedor-patrocinio",
-  "createdAt": "2026-07-13T13:47:51Z",
-  "updatedAt": "2026-07-13T13:47:51Z",
+  "createdAt": "2026-07-05T16:55:12Z",
+  "updatedAt": "2026-07-05T16:55:12Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 495,
       "size": 8664,
-      "createdAt": "2026-07-13T13:47:51Z",
-      "updatedAt": "2026-07-13T13:47:51Z"
+      "createdAt": "2026-07-05T16:55:12Z",
+      "updatedAt": "2026-07-05T16:55:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 495,
       "size": 4310,
-      "createdAt": "2026-07-13T13:47:51Z",
-      "updatedAt": "2026-07-13T13:47:51Z"
+      "createdAt": "2026-07-05T16:55:12Z",
+      "updatedAt": "2026-07-05T16:55:12Z"
     }
   ]
 }

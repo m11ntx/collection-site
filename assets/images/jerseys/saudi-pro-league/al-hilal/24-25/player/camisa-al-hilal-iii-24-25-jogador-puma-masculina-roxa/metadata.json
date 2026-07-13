@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-al-hilal-iii-24-25-jogador-puma-masculina-roxa",
-  "createdAt": "2026-07-13T13:39:57Z",
-  "updatedAt": "2026-07-13T13:39:57Z",
+  "createdAt": "2026-07-09T03:06:36Z",
+  "updatedAt": "2026-07-09T03:06:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 25364,
-      "createdAt": "2026-07-13T13:39:57Z",
-      "updatedAt": "2026-07-13T13:39:57Z"
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 34586,
-      "createdAt": "2026-07-13T13:39:57Z",
-      "updatedAt": "2026-07-13T13:39:57Z"
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13144,
-      "createdAt": "2026-07-13T13:39:57Z",
-      "updatedAt": "2026-07-13T13:39:57Z"
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33728,
-      "createdAt": "2026-07-13T13:39:57Z",
-      "updatedAt": "2026-07-13T13:39:57Z"
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 37290,
-      "createdAt": "2026-07-13T13:39:57Z",
-      "updatedAt": "2026-07-13T13:39:57Z"
+      "createdAt": "2026-07-09T03:06:35Z",
+      "updatedAt": "2026-07-09T03:06:35Z"
     }
   ]
 }

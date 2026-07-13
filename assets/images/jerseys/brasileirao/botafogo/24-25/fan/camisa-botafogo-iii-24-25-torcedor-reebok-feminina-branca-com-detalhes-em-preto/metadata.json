@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-iii-24-25-torcedor-reebok-feminina-branca-com-detalhes-em-preto",
-  "createdAt": "2026-07-13T13:39:02Z",
-  "updatedAt": "2026-07-13T13:39:02Z",
+  "createdAt": "2026-07-09T05:35:13Z",
+  "updatedAt": "2026-07-09T05:35:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 3906,
-      "createdAt": "2026-07-13T13:39:01Z",
-      "updatedAt": "2026-07-13T13:39:01Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3848,
-      "createdAt": "2026-07-13T13:39:01Z",
-      "updatedAt": "2026-07-13T13:39:01Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 2448,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 7536,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 4284,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 15172,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 7270,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:12Z",
+      "updatedAt": "2026-07-09T05:35:12Z"
     }
   ]
 }

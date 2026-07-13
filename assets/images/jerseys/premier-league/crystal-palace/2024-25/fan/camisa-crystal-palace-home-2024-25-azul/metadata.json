@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-crystal-palace-home-2024-25-azul",
-  "createdAt": "2026-07-13T13:46:39Z",
-  "updatedAt": "2026-07-13T13:46:39Z",
+  "createdAt": "2026-07-07T02:48:38Z",
+  "updatedAt": "2026-07-07T02:48:38Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 26432,
-      "createdAt": "2026-07-13T13:46:39Z",
-      "updatedAt": "2026-07-13T13:46:39Z"
+      "createdAt": "2026-07-07T02:48:37Z",
+      "updatedAt": "2026-07-07T02:48:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 24958,
-      "createdAt": "2026-07-13T13:46:39Z",
-      "updatedAt": "2026-07-13T13:46:39Z"
+      "createdAt": "2026-07-07T02:48:38Z",
+      "updatedAt": "2026-07-07T02:48:38Z"
     }
   ]
 }

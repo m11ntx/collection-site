@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-i-25-26-jogador-adidas-feminina-vermelho",
-  "createdAt": "2026-07-13T13:48:12Z",
-  "updatedAt": "2026-07-13T13:48:12Z",
+  "createdAt": "2026-07-09T03:06:45Z",
+  "updatedAt": "2026-07-09T03:06:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19702,
-      "createdAt": "2026-07-13T13:48:12Z",
-      "updatedAt": "2026-07-13T13:48:12Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 47958,
-      "createdAt": "2026-07-13T13:48:12Z",
-      "updatedAt": "2026-07-13T13:48:12Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16258,
-      "createdAt": "2026-07-13T13:48:12Z",
-      "updatedAt": "2026-07-13T13:48:12Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 43994,
-      "createdAt": "2026-07-13T13:48:12Z",
-      "updatedAt": "2026-07-13T13:48:12Z"
+      "createdAt": "2026-07-09T03:06:44Z",
+      "updatedAt": "2026-07-09T03:06:44Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 14302,
-      "createdAt": "2026-07-13T13:48:12Z",
-      "updatedAt": "2026-07-13T13:48:12Z"
+      "createdAt": "2026-07-09T03:06:45Z",
+      "updatedAt": "2026-07-09T03:06:45Z"
     }
   ]
 }

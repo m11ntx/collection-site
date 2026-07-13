@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-ii-2025-26-tricolor-masculina-torcedor",
-  "createdAt": "2026-07-13T13:47:18Z",
-  "updatedAt": "2026-07-13T13:47:18Z",
+  "createdAt": "2026-07-05T16:55:23Z",
+  "updatedAt": "2026-07-05T16:55:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18216,
-      "createdAt": "2026-07-13T13:47:18Z",
-      "updatedAt": "2026-07-13T13:47:18Z"
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14084,
-      "createdAt": "2026-07-13T13:47:18Z",
-      "updatedAt": "2026-07-13T13:47:18Z"
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30776,
-      "createdAt": "2026-07-13T13:47:18Z",
-      "updatedAt": "2026-07-13T13:47:18Z"
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33016,
-      "createdAt": "2026-07-13T13:47:18Z",
-      "updatedAt": "2026-07-13T13:47:18Z"
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 66030,
-      "createdAt": "2026-07-13T13:47:18Z",
-      "updatedAt": "2026-07-13T13:47:18Z"
+      "createdAt": "2026-07-05T16:55:23Z",
+      "updatedAt": "2026-07-05T16:55:23Z"
     }
   ]
 }

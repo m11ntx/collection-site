@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-iii-25-26-bege-torcedor-masculino",
-  "createdAt": "2026-07-13T13:48:09Z",
-  "updatedAt": "2026-07-13T13:48:09Z",
+  "createdAt": "2026-07-05T06:09:16Z",
+  "updatedAt": "2026-07-05T06:09:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8008,
-      "createdAt": "2026-07-13T13:48:09Z",
-      "updatedAt": "2026-07-13T13:48:09Z"
+      "createdAt": "2026-07-05T06:09:16Z",
+      "updatedAt": "2026-07-05T06:09:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6200,
-      "createdAt": "2026-07-13T13:48:09Z",
-      "updatedAt": "2026-07-13T13:48:09Z"
+      "createdAt": "2026-07-05T06:09:16Z",
+      "updatedAt": "2026-07-05T06:09:16Z"
     }
   ]
 }

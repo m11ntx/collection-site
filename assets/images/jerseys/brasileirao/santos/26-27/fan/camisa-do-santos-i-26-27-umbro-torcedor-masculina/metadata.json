@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-santos-i-26-27-umbro-torcedor-masculina",
-  "createdAt": "2026-07-13T13:51:04Z",
-  "updatedAt": "2026-07-13T13:51:04Z",
+  "createdAt": "2026-07-05T02:59:06Z",
+  "updatedAt": "2026-07-05T02:59:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5522,
-      "createdAt": "2026-07-13T13:51:04Z",
-      "updatedAt": "2026-07-13T13:51:04Z"
+      "createdAt": "2026-07-05T02:59:06Z",
+      "updatedAt": "2026-07-05T02:59:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2332,
-      "createdAt": "2026-07-13T13:51:04Z",
-      "updatedAt": "2026-07-13T13:51:04Z"
+      "createdAt": "2026-07-05T02:59:06Z",
+      "updatedAt": "2026-07-05T02:59:06Z"
     }
   ]
 }

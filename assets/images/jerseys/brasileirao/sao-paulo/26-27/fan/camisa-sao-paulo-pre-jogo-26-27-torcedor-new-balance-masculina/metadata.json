@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-pre-jogo-26-27-torcedor-new-balance-masculina",
-  "createdAt": "2026-07-13T13:50:52Z",
-  "updatedAt": "2026-07-13T13:50:52Z",
+  "createdAt": "2026-07-05T16:43:10Z",
+  "updatedAt": "2026-07-05T16:43:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 33276,
-      "createdAt": "2026-07-13T13:50:52Z",
-      "updatedAt": "2026-07-13T13:50:52Z"
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7186,
-      "createdAt": "2026-07-13T13:50:52Z",
-      "updatedAt": "2026-07-13T13:50:52Z"
+      "createdAt": "2026-07-05T16:43:10Z",
+      "updatedAt": "2026-07-05T16:43:10Z"
     }
   ]
 }

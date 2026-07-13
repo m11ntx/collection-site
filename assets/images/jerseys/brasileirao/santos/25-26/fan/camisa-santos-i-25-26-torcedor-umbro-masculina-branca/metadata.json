@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-i-25-26-torcedor-umbro-masculina-branca",
-  "createdAt": "2026-07-13T13:47:19Z",
-  "updatedAt": "2026-07-13T13:47:19Z",
+  "createdAt": "2026-07-05T03:00:39Z",
+  "updatedAt": "2026-07-05T03:00:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5500,
-      "createdAt": "2026-07-13T13:47:19Z",
-      "updatedAt": "2026-07-13T13:47:19Z"
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3690,
-      "createdAt": "2026-07-13T13:47:19Z",
-      "updatedAt": "2026-07-13T13:47:19Z"
+      "createdAt": "2026-07-05T03:00:39Z",
+      "updatedAt": "2026-07-05T03:00:39Z"
     }
   ]
 }

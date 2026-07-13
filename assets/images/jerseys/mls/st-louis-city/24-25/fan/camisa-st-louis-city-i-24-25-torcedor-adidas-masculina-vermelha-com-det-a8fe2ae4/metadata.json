@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-st-louis-city-i-24-25-torcedor-adidas-masculina-vermelha-com-detalhes-em-azul-e-amarelo",
-  "createdAt": "2026-07-13T13:37:02Z",
-  "updatedAt": "2026-07-13T13:37:02Z",
+  "createdAt": "2026-07-09T20:58:51Z",
+  "updatedAt": "2026-07-09T20:58:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13000,
-      "createdAt": "2026-07-13T13:37:01Z",
-      "updatedAt": "2026-07-13T13:37:01Z"
+      "createdAt": "2026-07-09T20:58:50Z",
+      "updatedAt": "2026-07-09T20:58:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8114,
-      "createdAt": "2026-07-13T13:37:01Z",
-      "updatedAt": "2026-07-13T13:37:01Z"
+      "createdAt": "2026-07-09T20:58:50Z",
+      "updatedAt": "2026-07-09T20:58:50Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13500,
-      "createdAt": "2026-07-13T13:37:02Z",
-      "updatedAt": "2026-07-13T13:37:02Z"
+      "createdAt": "2026-07-09T20:58:50Z",
+      "updatedAt": "2026-07-09T20:58:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33694,
-      "createdAt": "2026-07-13T13:37:02Z",
-      "updatedAt": "2026-07-13T13:37:02Z"
+      "createdAt": "2026-07-09T20:58:51Z",
+      "updatedAt": "2026-07-09T20:58:51Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 36944,
-      "createdAt": "2026-07-13T13:37:02Z",
-      "updatedAt": "2026-07-13T13:37:02Z"
+      "createdAt": "2026-07-09T20:58:51Z",
+      "updatedAt": "2026-07-09T20:58:51Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 22114,
-      "createdAt": "2026-07-13T13:37:02Z",
-      "updatedAt": "2026-07-13T13:37:02Z"
+      "createdAt": "2026-07-09T20:58:51Z",
+      "updatedAt": "2026-07-09T20:58:51Z"
     }
   ]
 }

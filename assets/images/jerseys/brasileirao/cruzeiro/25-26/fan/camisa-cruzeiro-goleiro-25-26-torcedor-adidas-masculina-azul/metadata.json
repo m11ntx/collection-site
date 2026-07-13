@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-goleiro-25-26-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-13T13:48:56Z",
-  "updatedAt": "2026-07-13T13:48:56Z",
+  "createdAt": "2026-07-05T04:53:30Z",
+  "updatedAt": "2026-07-05T04:53:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19862,
-      "createdAt": "2026-07-13T13:48:56Z",
-      "updatedAt": "2026-07-13T13:48:56Z"
+      "createdAt": "2026-07-05T04:53:29Z",
+      "updatedAt": "2026-07-05T04:53:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7430,
-      "createdAt": "2026-07-13T13:48:56Z",
-      "updatedAt": "2026-07-13T13:48:56Z"
+      "createdAt": "2026-07-05T04:53:30Z",
+      "updatedAt": "2026-07-05T04:53:30Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-short-chelsea-i-24-25-masculino-nike-azul",
-  "createdAt": "2026-07-13T13:44:00Z",
-  "updatedAt": "2026-07-13T13:44:00Z",
+  "createdAt": "2026-07-09T22:50:59Z",
+  "updatedAt": "2026-07-09T22:50:59Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21620,
-      "createdAt": "2026-07-13T13:44:00Z",
-      "updatedAt": "2026-07-13T13:44:00Z"
+      "createdAt": "2026-07-09T22:50:58Z",
+      "updatedAt": "2026-07-09T22:50:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17338,
-      "createdAt": "2026-07-13T13:44:00Z",
-      "updatedAt": "2026-07-13T13:44:00Z"
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30908,
-      "createdAt": "2026-07-13T13:44:00Z",
-      "updatedAt": "2026-07-13T13:44:00Z"
+      "createdAt": "2026-07-09T22:50:59Z",
+      "updatedAt": "2026-07-09T22:50:59Z"
     }
   ]
 }

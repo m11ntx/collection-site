@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-ii-26-27-torcedor-masculina-listrada",
-  "createdAt": "2026-07-13T13:50:54Z",
-  "updatedAt": "2026-07-13T13:50:54Z",
+  "createdAt": "2026-07-05T03:00:42Z",
+  "updatedAt": "2026-07-05T03:00:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8262,
-      "createdAt": "2026-07-13T13:50:54Z",
-      "updatedAt": "2026-07-13T13:50:54Z"
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6116,
-      "createdAt": "2026-07-13T13:50:54Z",
-      "updatedAt": "2026-07-13T13:50:54Z"
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
     }
   ]
 }

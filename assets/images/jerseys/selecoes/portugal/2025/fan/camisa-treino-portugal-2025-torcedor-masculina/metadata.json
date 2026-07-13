@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-treino-portugal-2025-torcedor-masculina",
-  "createdAt": "2026-07-13T13:46:58Z",
-  "updatedAt": "2026-07-13T13:46:58Z",
+  "createdAt": "2026-07-07T04:14:08Z",
+  "updatedAt": "2026-07-07T04:14:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6970,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-07T04:14:07Z",
+      "updatedAt": "2026-07-07T04:14:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4756,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-07T04:14:07Z",
+      "updatedAt": "2026-07-07T04:14:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 640,
       "size": 49084,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-07T04:14:07Z",
+      "updatedAt": "2026-07-07T04:14:07Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 640,
       "size": 43024,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-07T04:14:08Z",
+      "updatedAt": "2026-07-07T04:14:08Z"
     }
   ]
 }

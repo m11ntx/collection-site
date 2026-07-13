@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-inter-de-milao-ii-1997-1998-masculina-umbro-branca-e-azul",
-  "createdAt": "2026-07-13T13:27:26Z",
-  "updatedAt": "2026-07-13T13:27:26Z",
+  "createdAt": "2026-07-09T16:38:47Z",
+  "updatedAt": "2026-07-09T16:38:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9308,
-      "createdAt": "2026-07-13T13:27:25Z",
-      "updatedAt": "2026-07-13T13:27:25Z"
+      "createdAt": "2026-07-09T16:38:47Z",
+      "updatedAt": "2026-07-09T16:38:47Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4356,
-      "createdAt": "2026-07-13T13:27:25Z",
-      "updatedAt": "2026-07-13T13:27:25Z"
+      "createdAt": "2026-07-09T16:38:47Z",
+      "updatedAt": "2026-07-09T16:38:47Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 42086,
-      "createdAt": "2026-07-13T13:27:26Z",
-      "updatedAt": "2026-07-13T13:27:26Z"
+      "createdAt": "2026-07-09T16:38:47Z",
+      "updatedAt": "2026-07-09T16:38:47Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 42018,
-      "createdAt": "2026-07-13T13:27:26Z",
-      "updatedAt": "2026-07-13T13:27:26Z"
+      "createdAt": "2026-07-09T16:38:47Z",
+      "updatedAt": "2026-07-09T16:38:47Z"
     }
   ]
 }

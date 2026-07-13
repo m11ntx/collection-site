@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-suica-away-26-27-torcedor-masculina",
-  "createdAt": "2026-07-13T13:49:20Z",
-  "updatedAt": "2026-07-13T13:49:20Z",
+  "createdAt": "2026-07-07T04:14:06Z",
+  "updatedAt": "2026-07-07T04:14:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 32636,
-      "createdAt": "2026-07-13T13:49:20Z",
-      "updatedAt": "2026-07-13T13:49:20Z"
+      "createdAt": "2026-07-07T04:14:06Z",
+      "updatedAt": "2026-07-07T04:14:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14602,
-      "createdAt": "2026-07-13T13:49:20Z",
-      "updatedAt": "2026-07-13T13:49:20Z"
+      "createdAt": "2026-07-07T04:14:06Z",
+      "updatedAt": "2026-07-07T04:14:06Z"
     }
   ]
 }

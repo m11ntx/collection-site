@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-bahia-i-25-26-branco-e-azul",
-  "createdAt": "2026-07-13T13:47:27Z",
-  "updatedAt": "2026-07-13T13:47:27Z",
+  "createdAt": "2026-07-09T17:17:37Z",
+  "updatedAt": "2026-07-09T17:17:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17008,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14202,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 56230,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 56578,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 33690,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 23832,
-      "createdAt": "2026-07-13T13:47:27Z",
-      "updatedAt": "2026-07-13T13:47:27Z"
+      "createdAt": "2026-07-09T17:17:37Z",
+      "updatedAt": "2026-07-09T17:17:37Z"
     }
   ]
 }

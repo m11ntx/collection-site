@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-home-2025-26-torcedor",
-  "createdAt": "2026-07-13T13:46:17Z",
-  "updatedAt": "2026-07-13T13:46:17Z",
+  "createdAt": "2026-07-05T16:04:49Z",
+  "updatedAt": "2026-07-05T16:04:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17898,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-05T16:04:49Z",
+      "updatedAt": "2026-07-05T16:04:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13428,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-05T16:04:49Z",
+      "updatedAt": "2026-07-05T16:04:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31662,
-      "createdAt": "2026-07-13T13:46:16Z",
-      "updatedAt": "2026-07-13T13:46:16Z"
+      "createdAt": "2026-07-05T16:04:49Z",
+      "updatedAt": "2026-07-05T16:04:49Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 32030,
-      "createdAt": "2026-07-13T13:46:17Z",
-      "updatedAt": "2026-07-13T13:46:17Z"
+      "createdAt": "2026-07-05T16:04:49Z",
+      "updatedAt": "2026-07-05T16:04:49Z"
     }
   ]
 }

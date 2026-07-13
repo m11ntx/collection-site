@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-de-treino-nike-do-sport-club-corinthians-paulista-24-25",
-  "createdAt": "2026-07-13T13:51:17Z",
-  "updatedAt": "2026-07-13T13:51:17Z",
+  "createdAt": "2026-07-05T16:01:53Z",
+  "updatedAt": "2026-07-05T16:01:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7206,
-      "createdAt": "2026-07-13T13:51:17Z",
-      "updatedAt": "2026-07-13T13:51:17Z"
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4522,
-      "createdAt": "2026-07-13T13:51:17Z",
-      "updatedAt": "2026-07-13T13:51:17Z"
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 25298,
-      "createdAt": "2026-07-13T13:51:17Z",
-      "updatedAt": "2026-07-13T13:51:17Z"
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 23362,
-      "createdAt": "2026-07-13T13:51:17Z",
-      "updatedAt": "2026-07-13T13:51:17Z"
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34852,
-      "createdAt": "2026-07-13T13:51:17Z",
-      "updatedAt": "2026-07-13T13:51:17Z"
+      "createdAt": "2026-07-05T16:01:53Z",
+      "updatedAt": "2026-07-05T16:01:53Z"
     }
   ]
 }

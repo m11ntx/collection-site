@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-treino-adulto-camisa-e-shorts-napoli-ea7-24-25-branco-e-azul",
-  "createdAt": "2026-07-13T13:44:43Z",
-  "updatedAt": "2026-07-13T13:44:43Z",
+  "createdAt": "2026-07-09T20:58:42Z",
+  "updatedAt": "2026-07-09T20:58:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6816,
-      "createdAt": "2026-07-13T13:44:43Z",
-      "updatedAt": "2026-07-13T13:44:43Z"
+      "createdAt": "2026-07-09T20:58:41Z",
+      "updatedAt": "2026-07-09T20:58:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4696,
-      "createdAt": "2026-07-13T13:44:43Z",
-      "updatedAt": "2026-07-13T13:44:43Z"
+      "createdAt": "2026-07-09T20:58:41Z",
+      "updatedAt": "2026-07-09T20:58:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 320,
       "size": 6566,
-      "createdAt": "2026-07-13T13:44:43Z",
-      "updatedAt": "2026-07-13T13:44:43Z"
+      "createdAt": "2026-07-09T20:58:41Z",
+      "updatedAt": "2026-07-09T20:58:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 320,
       "size": 5004,
-      "createdAt": "2026-07-13T13:44:43Z",
-      "updatedAt": "2026-07-13T13:44:43Z"
+      "createdAt": "2026-07-09T20:58:41Z",
+      "updatedAt": "2026-07-09T20:58:41Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-ii-25-26-torcedor-new-balance-feminina-vermelho-branco",
-  "createdAt": "2026-07-13T13:47:48Z",
-  "updatedAt": "2026-07-13T13:47:48Z",
+  "createdAt": "2026-07-09T05:35:54Z",
+  "updatedAt": "2026-07-09T05:35:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17860,
-      "createdAt": "2026-07-13T13:47:47Z",
-      "updatedAt": "2026-07-13T13:47:47Z"
+      "createdAt": "2026-07-09T05:35:54Z",
+      "updatedAt": "2026-07-09T05:35:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13574,
-      "createdAt": "2026-07-13T13:47:48Z",
-      "updatedAt": "2026-07-13T13:47:48Z"
+      "createdAt": "2026-07-09T05:35:54Z",
+      "updatedAt": "2026-07-09T05:35:54Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 39688,
-      "createdAt": "2026-07-13T13:47:48Z",
-      "updatedAt": "2026-07-13T13:47:48Z"
+      "createdAt": "2026-07-09T05:35:54Z",
+      "updatedAt": "2026-07-09T05:35:54Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33100,
-      "createdAt": "2026-07-13T13:47:48Z",
-      "updatedAt": "2026-07-13T13:47:48Z"
+      "createdAt": "2026-07-09T05:35:54Z",
+      "updatedAt": "2026-07-09T05:35:54Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-da-gama-iii-24-25-torcedor-kappa-masculina",
-  "createdAt": "2026-07-13T13:46:58Z",
-  "updatedAt": "2026-07-13T13:46:58Z",
+  "createdAt": "2026-07-09T23:38:37Z",
+  "updatedAt": "2026-07-09T23:38:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8836,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3926,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14852,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 12338,
-      "createdAt": "2026-07-13T13:46:58Z",
-      "updatedAt": "2026-07-13T13:46:58Z"
+      "createdAt": "2026-07-09T23:38:37Z",
+      "updatedAt": "2026-07-09T23:38:37Z"
     }
   ]
 }

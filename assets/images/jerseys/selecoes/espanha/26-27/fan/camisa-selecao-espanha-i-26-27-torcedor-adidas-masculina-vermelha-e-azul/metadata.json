@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-espanha-i-26-27-torcedor-adidas-masculina-vermelha-e-azul",
-  "createdAt": "2026-07-13T13:50:12Z",
-  "updatedAt": "2026-07-13T13:50:12Z",
+  "createdAt": "2026-07-07T04:11:46Z",
+  "updatedAt": "2026-07-07T04:11:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18412,
-      "createdAt": "2026-07-13T13:50:05Z",
-      "updatedAt": "2026-07-13T13:50:05Z"
+      "createdAt": "2026-07-07T04:11:09Z",
+      "updatedAt": "2026-07-07T04:11:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15742,
-      "createdAt": "2026-07-13T13:50:07Z",
-      "updatedAt": "2026-07-13T13:50:07Z"
+      "createdAt": "2026-07-07T04:11:21Z",
+      "updatedAt": "2026-07-07T04:11:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23060,
-      "createdAt": "2026-07-13T13:50:10Z",
-      "updatedAt": "2026-07-13T13:50:10Z"
+      "createdAt": "2026-07-07T04:11:34Z",
+      "updatedAt": "2026-07-07T04:11:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 34614,
-      "createdAt": "2026-07-13T13:50:12Z",
-      "updatedAt": "2026-07-13T13:50:12Z"
+      "createdAt": "2026-07-07T04:11:46Z",
+      "updatedAt": "2026-07-07T04:11:46Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-lille-i-24-25-torcedor-new-balance-masculina-vermelha-com-detalhes-em-azul",
-  "createdAt": "2026-07-13T13:36:39Z",
-  "updatedAt": "2026-07-13T13:36:39Z",
+  "createdAt": "2026-07-09T22:09:28Z",
+  "updatedAt": "2026-07-09T22:09:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14598,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7776,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 50196,
-      "createdAt": "2026-07-13T13:36:39Z",
-      "updatedAt": "2026-07-13T13:36:39Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 35838,
-      "createdAt": "2026-07-13T13:36:39Z",
-      "updatedAt": "2026-07-13T13:36:39Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     }
   ]
 }

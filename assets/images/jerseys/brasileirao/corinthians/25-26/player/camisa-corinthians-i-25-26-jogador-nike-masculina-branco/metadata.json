@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-i-25-26-jogador-nike-masculina-branco",
-  "createdAt": "2026-07-13T13:47:42Z",
-  "updatedAt": "2026-07-13T13:47:42Z",
+  "createdAt": "2026-07-09T02:59:11Z",
+  "updatedAt": "2026-07-09T02:59:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12446,
-      "createdAt": "2026-07-13T13:47:41Z",
-      "updatedAt": "2026-07-13T13:47:41Z"
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 63170,
-      "createdAt": "2026-07-13T13:47:41Z",
-      "updatedAt": "2026-07-13T13:47:41Z"
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31012,
-      "createdAt": "2026-07-13T13:47:41Z",
-      "updatedAt": "2026-07-13T13:47:41Z"
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 12894,
-      "createdAt": "2026-07-13T13:47:42Z",
-      "updatedAt": "2026-07-13T13:47:42Z"
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 55650,
-      "createdAt": "2026-07-13T13:47:42Z",
-      "updatedAt": "2026-07-13T13:47:42Z"
+      "createdAt": "2026-07-09T02:59:11Z",
+      "updatedAt": "2026-07-09T02:59:11Z"
     }
   ]
 }

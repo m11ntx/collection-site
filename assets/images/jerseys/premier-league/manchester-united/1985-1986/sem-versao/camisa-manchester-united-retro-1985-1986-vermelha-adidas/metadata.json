@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-retro-1985-1986-vermelha-adidas",
-  "createdAt": "2026-07-13T13:28:15Z",
-  "updatedAt": "2026-07-13T13:28:15Z",
+  "createdAt": "2026-07-09T16:39:27Z",
+  "updatedAt": "2026-07-09T16:39:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11530,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:26Z",
+      "updatedAt": "2026-07-09T16:39:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6860,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:26Z",
+      "updatedAt": "2026-07-09T16:39:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19316,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:27Z",
+      "updatedAt": "2026-07-09T16:39:27Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19848,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:27Z",
+      "updatedAt": "2026-07-09T16:39:27Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 23538,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:27Z",
+      "updatedAt": "2026-07-09T16:39:27Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 33774,
-      "createdAt": "2026-07-13T13:28:14Z",
-      "updatedAt": "2026-07-13T13:28:14Z"
+      "createdAt": "2026-07-09T16:39:27Z",
+      "updatedAt": "2026-07-09T16:39:27Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 16254,
-      "createdAt": "2026-07-13T13:28:15Z",
-      "updatedAt": "2026-07-13T13:28:15Z"
+      "createdAt": "2026-07-09T16:39:27Z",
+      "updatedAt": "2026-07-09T16:39:27Z"
     }
   ]
 }

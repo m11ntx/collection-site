@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-goleiro-ii-24-25-torcedor-umbro-masculina-amarela",
-  "createdAt": "2026-07-13T13:39:21Z",
-  "updatedAt": "2026-07-13T13:39:21Z",
+  "createdAt": "2026-07-05T03:00:16Z",
+  "updatedAt": "2026-07-05T03:00:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8052,
-      "createdAt": "2026-07-13T13:39:21Z",
-      "updatedAt": "2026-07-13T13:39:21Z"
+      "createdAt": "2026-07-05T03:00:16Z",
+      "updatedAt": "2026-07-05T03:00:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7664,
-      "createdAt": "2026-07-13T13:39:21Z",
-      "updatedAt": "2026-07-13T13:39:21Z"
+      "createdAt": "2026-07-05T03:00:16Z",
+      "updatedAt": "2026-07-05T03:00:16Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5468,
-      "createdAt": "2026-07-13T13:39:21Z",
-      "updatedAt": "2026-07-13T13:39:21Z"
+      "createdAt": "2026-07-05T03:00:16Z",
+      "updatedAt": "2026-07-05T03:00:16Z"
     }
   ]
 }

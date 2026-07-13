@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasileira-ii-24-25-torcedor-nike-masculina-azul-com-detalhes-em-verde",
-  "createdAt": "2026-07-13T13:35:29Z",
-  "updatedAt": "2026-07-13T13:35:29Z",
+  "createdAt": "2026-07-09T22:09:03Z",
+  "updatedAt": "2026-07-09T22:09:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 24426,
-      "createdAt": "2026-07-13T13:35:27Z",
-      "updatedAt": "2026-07-13T13:35:27Z"
+      "createdAt": "2026-07-09T22:09:02Z",
+      "updatedAt": "2026-07-09T22:09:02Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23004,
-      "createdAt": "2026-07-13T13:35:27Z",
-      "updatedAt": "2026-07-13T13:35:27Z"
+      "createdAt": "2026-07-09T22:09:02Z",
+      "updatedAt": "2026-07-09T22:09:02Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 600,
       "size": 77062,
-      "createdAt": "2026-07-13T13:35:28Z",
-      "updatedAt": "2026-07-13T13:35:28Z"
+      "createdAt": "2026-07-09T22:09:02Z",
+      "updatedAt": "2026-07-09T22:09:02Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 61806,
-      "createdAt": "2026-07-13T13:35:29Z",
-      "updatedAt": "2026-07-13T13:35:29Z"
+      "createdAt": "2026-07-09T22:09:03Z",
+      "updatedAt": "2026-07-09T22:09:03Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-argentina-26-27-edicao-especial-bege-jogador",
-  "createdAt": "2026-07-13T13:51:39Z",
-  "updatedAt": "2026-07-13T13:51:39Z",
+  "createdAt": "2026-07-09T03:08:19Z",
+  "updatedAt": "2026-07-09T03:08:19Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 663,
       "size": 33952,
-      "createdAt": "2026-07-13T13:51:39Z",
-      "updatedAt": "2026-07-13T13:51:39Z"
+      "createdAt": "2026-07-09T03:08:19Z",
+      "updatedAt": "2026-07-09T03:08:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 665,
       "size": 25270,
-      "createdAt": "2026-07-13T13:51:39Z",
-      "updatedAt": "2026-07-13T13:51:39Z"
+      "createdAt": "2026-07-09T03:08:19Z",
+      "updatedAt": "2026-07-09T03:08:19Z"
     }
   ]
 }

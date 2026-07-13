@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vitoria-away-24-25-torcedor-masculino-branco",
-  "createdAt": "2026-07-13T13:46:11Z",
-  "updatedAt": "2026-07-13T13:46:11Z",
+  "createdAt": "2026-07-05T16:55:49Z",
+  "updatedAt": "2026-07-05T16:55:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9284,
-      "createdAt": "2026-07-13T13:46:11Z",
-      "updatedAt": "2026-07-13T13:46:11Z"
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4124,
-      "createdAt": "2026-07-13T13:46:11Z",
-      "updatedAt": "2026-07-13T13:46:11Z"
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
     }
   ]
 }

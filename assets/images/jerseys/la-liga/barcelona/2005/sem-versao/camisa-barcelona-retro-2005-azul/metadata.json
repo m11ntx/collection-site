@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-retro-2005-azul",
-  "createdAt": "2026-07-13T13:47:40Z",
-  "updatedAt": "2026-07-13T13:47:40Z",
+  "createdAt": "2026-07-09T16:35:56Z",
+  "updatedAt": "2026-07-09T16:35:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17450,
-      "createdAt": "2026-07-13T13:47:40Z",
-      "updatedAt": "2026-07-13T13:47:40Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12000,
-      "createdAt": "2026-07-13T13:47:40Z",
-      "updatedAt": "2026-07-13T13:47:40Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16738,
-      "createdAt": "2026-07-13T13:47:40Z",
-      "updatedAt": "2026-07-13T13:47:40Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 54132,
-      "createdAt": "2026-07-13T13:47:40Z",
-      "updatedAt": "2026-07-13T13:47:40Z"
+      "createdAt": "2026-07-09T16:35:56Z",
+      "updatedAt": "2026-07-09T16:35:56Z"
     }
   ]
 }

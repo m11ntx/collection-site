@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-borussia-dortmund-ii-24-25-torcedor-puma-feminina-preta",
-  "createdAt": "2026-07-13T13:40:01Z",
-  "updatedAt": "2026-07-13T13:40:01Z",
+  "createdAt": "2026-07-09T05:35:10Z",
+  "updatedAt": "2026-07-09T05:35:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8828,
-      "createdAt": "2026-07-13T13:40:00Z",
-      "updatedAt": "2026-07-13T13:40:00Z"
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8724,
-      "createdAt": "2026-07-13T13:40:00Z",
-      "updatedAt": "2026-07-13T13:40:00Z"
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6388,
-      "createdAt": "2026-07-13T13:40:01Z",
-      "updatedAt": "2026-07-13T13:40:01Z"
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 4268,
-      "createdAt": "2026-07-13T13:40:01Z",
-      "updatedAt": "2026-07-13T13:40:01Z"
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 5748,
-      "createdAt": "2026-07-13T13:40:01Z",
-      "updatedAt": "2026-07-13T13:40:01Z"
+      "createdAt": "2026-07-09T05:35:10Z",
+      "updatedAt": "2026-07-09T05:35:10Z"
     }
   ]
 }

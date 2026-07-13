@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paysandu-ii-26-27-detalhes-em-azul",
-  "createdAt": "2026-07-13T13:51:27Z",
-  "updatedAt": "2026-07-13T13:51:27Z",
+  "createdAt": "2026-07-05T16:55:34Z",
+  "updatedAt": "2026-07-05T16:55:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6048,
-      "createdAt": "2026-07-13T13:51:27Z",
-      "updatedAt": "2026-07-13T13:51:27Z"
+      "createdAt": "2026-07-05T16:55:33Z",
+      "updatedAt": "2026-07-05T16:55:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3270,
-      "createdAt": "2026-07-13T13:51:27Z",
-      "updatedAt": "2026-07-13T13:51:27Z"
+      "createdAt": "2026-07-05T16:55:33Z",
+      "updatedAt": "2026-07-05T16:55:33Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14602,
-      "createdAt": "2026-07-13T13:51:27Z",
-      "updatedAt": "2026-07-13T13:51:27Z"
+      "createdAt": "2026-07-05T16:55:33Z",
+      "updatedAt": "2026-07-05T16:55:33Z"
     }
   ]
 }

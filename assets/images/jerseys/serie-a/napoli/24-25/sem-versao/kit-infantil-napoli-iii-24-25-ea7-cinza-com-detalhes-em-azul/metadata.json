@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-napoli-iii-24-25-ea7-cinza-com-detalhes-em-azul",
-  "createdAt": "2026-07-13T13:41:25Z",
-  "updatedAt": "2026-07-13T13:41:25Z",
+  "createdAt": "2026-07-09T17:18:00Z",
+  "updatedAt": "2026-07-09T17:18:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9730,
-      "createdAt": "2026-07-13T13:41:25Z",
-      "updatedAt": "2026-07-13T13:41:25Z"
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6678,
-      "createdAt": "2026-07-13T13:41:25Z",
-      "updatedAt": "2026-07-13T13:41:25Z"
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 4312,
-      "createdAt": "2026-07-13T13:41:25Z",
-      "updatedAt": "2026-07-13T13:41:25Z"
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 4596,
-      "createdAt": "2026-07-13T13:41:25Z",
-      "updatedAt": "2026-07-13T13:41:25Z"
+      "createdAt": "2026-07-09T17:18:00Z",
+      "updatedAt": "2026-07-09T17:18:00Z"
     }
   ]
 }

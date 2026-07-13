@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-seattle-sounders-ii-24-25-torcedor-adidas-masculina-vermelha-e-preta-com-detalhes-em-dourado",
-  "createdAt": "2026-07-13T13:37:01Z",
-  "updatedAt": "2026-07-13T13:37:01Z",
+  "createdAt": "2026-07-09T22:09:41Z",
+  "updatedAt": "2026-07-09T22:09:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 29248,
-      "createdAt": "2026-07-13T13:37:00Z",
-      "updatedAt": "2026-07-13T13:37:00Z"
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11768,
-      "createdAt": "2026-07-13T13:37:00Z",
-      "updatedAt": "2026-07-13T13:37:00Z"
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 720,
       "size": 63956,
-      "createdAt": "2026-07-13T13:37:00Z",
-      "updatedAt": "2026-07-13T13:37:00Z"
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 54254,
-      "createdAt": "2026-07-13T13:37:00Z",
-      "updatedAt": "2026-07-13T13:37:00Z"
+      "createdAt": "2026-07-09T22:09:41Z",
+      "updatedAt": "2026-07-09T22:09:41Z"
     }
   ]
 }

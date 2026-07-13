@@ -1,7 +1,7 @@
 {
   "productId": "source-meias-futebol-antiderrapante-cano-alto-branca-com-detalhes-preto",
-  "createdAt": "2026-07-13T13:44:05Z",
-  "updatedAt": "2026-07-13T13:44:05Z",
+  "createdAt": "2026-07-09T20:31:29Z",
+  "updatedAt": "2026-07-09T20:31:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14006,
-      "createdAt": "2026-07-13T13:44:05Z",
-      "updatedAt": "2026-07-13T13:44:05Z"
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 22284,
-      "createdAt": "2026-07-13T13:44:05Z",
-      "updatedAt": "2026-07-13T13:44:05Z"
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 42310,
-      "createdAt": "2026-07-13T13:44:05Z",
-      "updatedAt": "2026-07-13T13:44:05Z"
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 27040,
-      "createdAt": "2026-07-13T13:44:05Z",
-      "updatedAt": "2026-07-13T13:44:05Z"
+      "createdAt": "2026-07-09T20:31:28Z",
+      "updatedAt": "2026-07-09T20:31:28Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 38984,
-      "createdAt": "2026-07-13T13:44:05Z",
-      "updatedAt": "2026-07-13T13:44:05Z"
+      "createdAt": "2026-07-09T20:31:29Z",
+      "updatedAt": "2026-07-09T20:31:29Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-regata-treino-cr-flamengo-tiro-25-26-masculina-azul-ciano",
-  "createdAt": "2026-07-13T13:46:05Z",
-  "updatedAt": "2026-07-13T13:46:05Z",
+  "createdAt": "2026-07-05T06:10:09Z",
+  "updatedAt": "2026-07-05T06:10:09Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 415,
       "height": 415,
       "size": 5970,
-      "createdAt": "2026-07-13T13:46:05Z",
-      "updatedAt": "2026-07-13T13:46:05Z"
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 409,
       "height": 416,
       "size": 4350,
-      "createdAt": "2026-07-13T13:46:05Z",
-      "updatedAt": "2026-07-13T13:46:05Z"
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
     }
   ]
 }

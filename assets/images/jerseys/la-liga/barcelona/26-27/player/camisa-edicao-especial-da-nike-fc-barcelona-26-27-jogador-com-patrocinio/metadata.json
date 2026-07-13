@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-edicao-especial-da-nike-fc-barcelona-26-27-jogador-com-patrocinio",
-  "createdAt": "2026-07-13T13:51:44Z",
-  "updatedAt": "2026-07-13T13:51:44Z",
+  "createdAt": "2026-07-09T03:06:54Z",
+  "updatedAt": "2026-07-09T03:06:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10090,
-      "createdAt": "2026-07-13T13:51:43Z",
-      "updatedAt": "2026-07-13T13:51:43Z"
+      "createdAt": "2026-07-09T03:06:54Z",
+      "updatedAt": "2026-07-09T03:06:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8896,
-      "createdAt": "2026-07-13T13:51:43Z",
-      "updatedAt": "2026-07-13T13:51:43Z"
+      "createdAt": "2026-07-09T03:06:54Z",
+      "updatedAt": "2026-07-09T03:06:54Z"
     }
   ]
 }

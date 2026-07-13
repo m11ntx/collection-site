@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-everton-i-24-25-castore-azul-e-branco",
-  "createdAt": "2026-07-13T13:41:23Z",
-  "updatedAt": "2026-07-13T13:41:23Z",
+  "createdAt": "2026-07-09T17:17:45Z",
+  "updatedAt": "2026-07-09T17:17:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10412,
-      "createdAt": "2026-07-13T13:41:22Z",
-      "updatedAt": "2026-07-13T13:41:22Z"
+      "createdAt": "2026-07-09T17:17:45Z",
+      "updatedAt": "2026-07-09T17:17:45Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4508,
-      "createdAt": "2026-07-13T13:41:23Z",
-      "updatedAt": "2026-07-13T13:41:23Z"
+      "createdAt": "2026-07-09T17:17:45Z",
+      "updatedAt": "2026-07-09T17:17:45Z"
     }
   ]
 }

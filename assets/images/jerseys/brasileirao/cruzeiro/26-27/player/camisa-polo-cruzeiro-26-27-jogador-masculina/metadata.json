@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-polo-cruzeiro-26-27-jogador-masculina",
-  "createdAt": "2026-07-13T13:49:14Z",
-  "updatedAt": "2026-07-13T13:49:14Z",
+  "createdAt": "2026-07-05T04:53:36Z",
+  "updatedAt": "2026-07-05T04:53:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10800,
-      "createdAt": "2026-07-13T13:49:14Z",
-      "updatedAt": "2026-07-13T13:49:14Z"
+      "createdAt": "2026-07-05T04:53:36Z",
+      "updatedAt": "2026-07-05T04:53:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9406,
-      "createdAt": "2026-07-13T13:49:14Z",
-      "updatedAt": "2026-07-13T13:49:14Z"
+      "createdAt": "2026-07-05T04:53:36Z",
+      "updatedAt": "2026-07-05T04:53:36Z"
     }
   ]
 }

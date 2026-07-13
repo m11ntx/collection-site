@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-mexico-26-27-torcedor-masculina",
-  "createdAt": "2026-07-13T13:51:01Z",
-  "updatedAt": "2026-07-13T13:51:01Z",
+  "createdAt": "2026-07-07T05:11:10Z",
+  "updatedAt": "2026-07-07T05:11:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7004,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-07T05:11:09Z",
+      "updatedAt": "2026-07-07T05:11:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4574,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-07T05:11:09Z",
+      "updatedAt": "2026-07-07T05:11:09Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14300,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-07T05:11:09Z",
+      "updatedAt": "2026-07-07T05:11:09Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24990,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-07T05:11:09Z",
+      "updatedAt": "2026-07-07T05:11:09Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34756,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-07T05:11:10Z",
+      "updatedAt": "2026-07-07T05:11:10Z"
     }
   ]
 }

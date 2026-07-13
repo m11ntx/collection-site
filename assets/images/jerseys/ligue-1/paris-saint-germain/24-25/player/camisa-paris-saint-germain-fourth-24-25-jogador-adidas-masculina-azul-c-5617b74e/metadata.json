@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paris-saint-germain-fourth-24-25-jogador-adidas-masculina-azul-com-detalhes-em-branco",
-  "createdAt": "2026-07-13T13:38:40Z",
-  "updatedAt": "2026-07-13T13:38:40Z",
+  "createdAt": "2026-07-09T22:10:26Z",
+  "updatedAt": "2026-07-09T22:10:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16156,
-      "createdAt": "2026-07-13T13:38:40Z",
-      "updatedAt": "2026-07-13T13:38:40Z"
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 21238,
-      "createdAt": "2026-07-13T13:38:40Z",
-      "updatedAt": "2026-07-13T13:38:40Z"
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12508,
-      "createdAt": "2026-07-13T13:38:40Z",
-      "updatedAt": "2026-07-13T13:38:40Z"
+      "createdAt": "2026-07-09T22:10:25Z",
+      "updatedAt": "2026-07-09T22:10:25Z"
     }
   ]
 }

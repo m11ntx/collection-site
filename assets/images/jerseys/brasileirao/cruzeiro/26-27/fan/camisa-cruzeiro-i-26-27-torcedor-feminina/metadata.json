@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-i-26-27-torcedor-feminina",
-  "createdAt": "2026-07-13T13:49:12Z",
-  "updatedAt": "2026-07-13T13:49:12Z",
+  "createdAt": "2026-07-05T04:53:31Z",
+  "updatedAt": "2026-07-05T04:53:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9142,
-      "createdAt": "2026-07-13T13:49:12Z",
-      "updatedAt": "2026-07-13T13:49:12Z"
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7900,
-      "createdAt": "2026-07-13T13:49:12Z",
-      "updatedAt": "2026-07-13T13:49:12Z"
+      "createdAt": "2026-07-05T04:53:31Z",
+      "updatedAt": "2026-07-05T04:53:31Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-escocia-retro-1988-1989-amarela-umbro",
-  "createdAt": "2026-07-13T13:26:40Z",
-  "updatedAt": "2026-07-13T13:26:40Z",
+  "createdAt": "2026-07-09T16:38:00Z",
+  "updatedAt": "2026-07-09T16:38:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 30318,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 30454,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 42320,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 40428,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 38654,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 49352,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 32210,
-      "createdAt": "2026-07-13T13:26:40Z",
-      "updatedAt": "2026-07-13T13:26:40Z"
+      "createdAt": "2026-07-09T16:38:00Z",
+      "updatedAt": "2026-07-09T16:38:00Z"
     }
   ]
 }

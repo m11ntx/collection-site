@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-pre-jogo-2024-torcedor-adidas-masculina-branca-com-detalhes-em-bege-e-vinho",
-  "createdAt": "2026-07-13T13:31:37Z",
-  "updatedAt": "2026-07-13T13:31:37Z",
+  "createdAt": "2026-07-09T22:08:01Z",
+  "updatedAt": "2026-07-09T22:08:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6036,
-      "createdAt": "2026-07-13T13:31:36Z",
-      "updatedAt": "2026-07-13T13:31:36Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4672,
-      "createdAt": "2026-07-13T13:31:36Z",
-      "updatedAt": "2026-07-13T13:31:36Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7846,
-      "createdAt": "2026-07-13T13:31:36Z",
-      "updatedAt": "2026-07-13T13:31:36Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 37748,
-      "createdAt": "2026-07-13T13:31:37Z",
-      "updatedAt": "2026-07-13T13:31:37Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 38196,
-      "createdAt": "2026-07-13T13:31:37Z",
-      "updatedAt": "2026-07-13T13:31:37Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 13984,
-      "createdAt": "2026-07-13T13:31:37Z",
-      "updatedAt": "2026-07-13T13:31:37Z"
+      "createdAt": "2026-07-09T22:08:01Z",
+      "updatedAt": "2026-07-09T22:08:01Z"
     }
   ]
 }

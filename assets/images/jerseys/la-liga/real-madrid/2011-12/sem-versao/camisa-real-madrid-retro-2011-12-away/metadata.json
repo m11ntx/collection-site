@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-madrid-retro-2011-12-away",
-  "createdAt": "2026-07-13T13:46:54Z",
-  "updatedAt": "2026-07-13T13:46:54Z",
+  "createdAt": "2026-07-09T16:40:31Z",
+  "updatedAt": "2026-07-09T16:40:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12932,
-      "createdAt": "2026-07-13T13:46:54Z",
-      "updatedAt": "2026-07-13T13:46:54Z"
+      "createdAt": "2026-07-09T16:40:31Z",
+      "updatedAt": "2026-07-09T16:40:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8236,
-      "createdAt": "2026-07-13T13:46:54Z",
-      "updatedAt": "2026-07-13T13:46:54Z"
+      "createdAt": "2026-07-09T16:40:31Z",
+      "updatedAt": "2026-07-09T16:40:31Z"
     }
   ]
 }

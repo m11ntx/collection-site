@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-la-galaxy-ii-24-25-torcedor-adidas-masculina-verde-com-detalhes-coloridos",
-  "createdAt": "2026-07-13T13:36:49Z",
-  "updatedAt": "2026-07-13T13:36:49Z",
+  "createdAt": "2026-07-07T05:05:21Z",
+  "updatedAt": "2026-07-07T05:05:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9652,
-      "createdAt": "2026-07-13T13:36:48Z",
-      "updatedAt": "2026-07-13T13:36:48Z"
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7938,
-      "createdAt": "2026-07-13T13:36:48Z",
-      "updatedAt": "2026-07-13T13:36:48Z"
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 720,
       "size": 60984,
-      "createdAt": "2026-07-13T13:36:48Z",
-      "updatedAt": "2026-07-13T13:36:48Z"
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 42848,
-      "createdAt": "2026-07-13T13:36:48Z",
-      "updatedAt": "2026-07-13T13:36:48Z"
+      "createdAt": "2026-07-07T05:05:20Z",
+      "updatedAt": "2026-07-07T05:05:20Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 720,
       "size": 44662,
-      "createdAt": "2026-07-13T13:36:49Z",
-      "updatedAt": "2026-07-13T13:36:49Z"
+      "createdAt": "2026-07-07T05:05:21Z",
+      "updatedAt": "2026-07-07T05:05:21Z"
     }
   ]
 }

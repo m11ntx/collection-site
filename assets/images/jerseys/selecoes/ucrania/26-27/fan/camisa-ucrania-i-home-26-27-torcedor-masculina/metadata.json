@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ucrania-i-home-26-27-torcedor-masculina",
-  "createdAt": "2026-07-13T13:49:16Z",
-  "updatedAt": "2026-07-13T13:49:16Z",
+  "createdAt": "2026-07-09T19:42:51Z",
+  "updatedAt": "2026-07-09T19:42:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 24010,
-      "createdAt": "2026-07-13T13:49:16Z",
-      "updatedAt": "2026-07-13T13:49:16Z"
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 21384,
-      "createdAt": "2026-07-13T13:49:16Z",
-      "updatedAt": "2026-07-13T13:49:16Z"
+      "createdAt": "2026-07-09T19:42:50Z",
+      "updatedAt": "2026-07-09T19:42:50Z"
     }
   ]
 }

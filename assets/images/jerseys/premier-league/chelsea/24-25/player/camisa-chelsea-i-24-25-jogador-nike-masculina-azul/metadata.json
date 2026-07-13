@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-i-24-25-jogador-nike-masculina-azul",
-  "createdAt": "2026-07-13T13:38:23Z",
-  "updatedAt": "2026-07-13T13:38:23Z",
+  "createdAt": "2026-07-09T22:48:15Z",
+  "updatedAt": "2026-07-09T22:48:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17180,
-      "createdAt": "2026-07-13T13:38:23Z",
-      "updatedAt": "2026-07-13T13:38:23Z"
+      "createdAt": "2026-07-09T22:48:15Z",
+      "updatedAt": "2026-07-09T22:48:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 20808,
-      "createdAt": "2026-07-13T13:38:23Z",
-      "updatedAt": "2026-07-13T13:38:23Z"
+      "createdAt": "2026-07-09T22:48:15Z",
+      "updatedAt": "2026-07-09T22:48:15Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17164,
-      "createdAt": "2026-07-13T13:38:23Z",
-      "updatedAt": "2026-07-13T13:38:23Z"
+      "createdAt": "2026-07-09T22:48:15Z",
+      "updatedAt": "2026-07-09T22:48:15Z"
     }
   ]
 }

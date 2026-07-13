@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-inter-de-milao-ii-1992-1993-masculina-umbro-branca-com-detalhes-em-azul-e-preto",
-  "createdAt": "2026-07-13T13:34:18Z",
-  "updatedAt": "2026-07-13T13:34:18Z",
+  "createdAt": "2026-07-09T16:41:47Z",
+  "updatedAt": "2026-07-09T16:41:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8792,
-      "createdAt": "2026-07-13T13:34:17Z",
-      "updatedAt": "2026-07-13T13:34:17Z"
+      "createdAt": "2026-07-09T16:41:46Z",
+      "updatedAt": "2026-07-09T16:41:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18580,
-      "createdAt": "2026-07-13T13:34:17Z",
-      "updatedAt": "2026-07-13T13:34:17Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7044,
-      "createdAt": "2026-07-13T13:34:17Z",
-      "updatedAt": "2026-07-13T13:34:17Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 50890,
-      "createdAt": "2026-07-13T13:34:17Z",
-      "updatedAt": "2026-07-13T13:34:17Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 44992,
-      "createdAt": "2026-07-13T13:34:18Z",
-      "updatedAt": "2026-07-13T13:34:18Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 14996,
-      "createdAt": "2026-07-13T13:34:18Z",
-      "updatedAt": "2026-07-13T13:34:18Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 13950,
-      "createdAt": "2026-07-13T13:34:18Z",
-      "updatedAt": "2026-07-13T13:34:18Z"
+      "createdAt": "2026-07-09T16:41:47Z",
+      "updatedAt": "2026-07-09T16:41:47Z"
     }
   ]
 }

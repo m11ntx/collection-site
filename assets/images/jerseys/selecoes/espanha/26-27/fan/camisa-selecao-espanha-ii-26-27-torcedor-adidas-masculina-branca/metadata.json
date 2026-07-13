@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-espanha-ii-26-27-torcedor-adidas-masculina-branca",
-  "createdAt": "2026-07-13T13:50:05Z",
-  "updatedAt": "2026-07-13T13:50:05Z",
+  "createdAt": "2026-07-07T04:12:10Z",
+  "updatedAt": "2026-07-07T04:12:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14124,
-      "createdAt": "2026-07-13T13:50:00Z",
-      "updatedAt": "2026-07-13T13:50:00Z"
+      "createdAt": "2026-07-07T04:11:46Z",
+      "updatedAt": "2026-07-07T04:11:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11626,
-      "createdAt": "2026-07-13T13:50:02Z",
-      "updatedAt": "2026-07-13T13:50:02Z"
+      "createdAt": "2026-07-07T04:11:58Z",
+      "updatedAt": "2026-07-07T04:11:58Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30886,
-      "createdAt": "2026-07-13T13:50:05Z",
-      "updatedAt": "2026-07-13T13:50:05Z"
+      "createdAt": "2026-07-07T04:12:10Z",
+      "updatedAt": "2026-07-07T04:12:10Z"
     }
   ]
 }

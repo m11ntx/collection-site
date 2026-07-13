@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-regata-kappa-vasco-treino-2025-cinza",
-  "createdAt": "2026-07-13T13:48:21Z",
-  "updatedAt": "2026-07-13T13:48:21Z",
+  "createdAt": "2026-07-05T16:03:34Z",
+  "updatedAt": "2026-07-05T16:03:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4570,
-      "createdAt": "2026-07-13T13:48:21Z",
-      "updatedAt": "2026-07-13T13:48:21Z"
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4288,
-      "createdAt": "2026-07-13T13:48:21Z",
-      "updatedAt": "2026-07-13T13:48:21Z"
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 4814,
-      "createdAt": "2026-07-13T13:48:21Z",
-      "updatedAt": "2026-07-13T13:48:21Z"
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-brooklyn-nets-detalhes-verdes-nike-masculina",
-  "createdAt": "2026-07-13T13:47:14Z",
-  "updatedAt": "2026-07-13T13:47:14Z",
+  "createdAt": "2026-07-09T20:30:22Z",
+  "updatedAt": "2026-07-09T20:30:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20162,
-      "createdAt": "2026-07-13T13:47:13Z",
-      "updatedAt": "2026-07-13T13:47:13Z"
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18744,
-      "createdAt": "2026-07-13T13:47:14Z",
-      "updatedAt": "2026-07-13T13:47:14Z"
+      "createdAt": "2026-07-09T20:30:22Z",
+      "updatedAt": "2026-07-09T20:30:22Z"
     }
   ]
 }

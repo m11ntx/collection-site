@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-i-26-27-torcedor-puma-feminina-branca",
-  "createdAt": "2026-07-13T13:51:24Z",
-  "updatedAt": "2026-07-13T13:51:24Z",
+  "createdAt": "2026-07-09T05:35:07Z",
+  "updatedAt": "2026-07-09T05:35:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7176,
-      "createdAt": "2026-07-13T13:51:24Z",
-      "updatedAt": "2026-07-13T13:51:24Z"
+      "createdAt": "2026-07-09T05:35:07Z",
+      "updatedAt": "2026-07-09T05:35:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3020,
-      "createdAt": "2026-07-13T13:51:24Z",
-      "updatedAt": "2026-07-13T13:51:24Z"
+      "createdAt": "2026-07-09T05:35:07Z",
+      "updatedAt": "2026-07-09T05:35:07Z"
     }
   ]
 }

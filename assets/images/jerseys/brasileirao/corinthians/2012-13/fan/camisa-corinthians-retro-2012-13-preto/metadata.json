@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-retro-2012-13-preto",
-  "createdAt": "2026-07-13T13:48:06Z",
-  "updatedAt": "2026-07-13T13:48:06Z",
+  "createdAt": "2026-07-09T16:36:51Z",
+  "updatedAt": "2026-07-09T16:36:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11060,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 25244,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8054,
-      "createdAt": "2026-07-13T13:48:06Z",
-      "updatedAt": "2026-07-13T13:48:06Z"
+      "createdAt": "2026-07-09T16:36:51Z",
+      "updatedAt": "2026-07-09T16:36:51Z"
     }
   ]
 }

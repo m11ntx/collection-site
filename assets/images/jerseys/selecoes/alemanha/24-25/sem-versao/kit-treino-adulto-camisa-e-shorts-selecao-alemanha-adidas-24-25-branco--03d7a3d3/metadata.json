@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-treino-adulto-camisa-e-shorts-selecao-alemanha-adidas-24-25-branco-e-preto-com-detalhes-em-roxo",
-  "createdAt": "2026-07-13T13:44:35Z",
-  "updatedAt": "2026-07-13T13:44:35Z",
+  "createdAt": "2026-07-09T20:45:01Z",
+  "updatedAt": "2026-07-09T20:45:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8096,
-      "createdAt": "2026-07-13T13:44:35Z",
-      "updatedAt": "2026-07-13T13:44:35Z"
+      "createdAt": "2026-07-09T20:45:00Z",
+      "updatedAt": "2026-07-09T20:45:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9096,
-      "createdAt": "2026-07-13T13:44:35Z",
-      "updatedAt": "2026-07-13T13:44:35Z"
+      "createdAt": "2026-07-09T20:45:00Z",
+      "updatedAt": "2026-07-09T20:45:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 4750,
-      "createdAt": "2026-07-13T13:44:35Z",
-      "updatedAt": "2026-07-13T13:44:35Z"
+      "createdAt": "2026-07-09T20:45:01Z",
+      "updatedAt": "2026-07-09T20:45:01Z"
     }
   ]
 }

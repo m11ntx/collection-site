@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atalanta-home-2024-25-azul-patrocinio-lete",
-  "createdAt": "2026-07-13T13:46:06Z",
-  "updatedAt": "2026-07-13T13:46:06Z",
+  "createdAt": "2026-07-09T21:32:25Z",
+  "updatedAt": "2026-07-09T21:32:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13124,
-      "createdAt": "2026-07-13T13:46:06Z",
-      "updatedAt": "2026-07-13T13:46:06Z"
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 47114,
-      "createdAt": "2026-07-13T13:46:06Z",
-      "updatedAt": "2026-07-13T13:46:06Z"
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 38296,
-      "createdAt": "2026-07-13T13:46:06Z",
-      "updatedAt": "2026-07-13T13:46:06Z"
+      "createdAt": "2026-07-09T21:32:25Z",
+      "updatedAt": "2026-07-09T21:32:25Z"
     }
   ]
 }

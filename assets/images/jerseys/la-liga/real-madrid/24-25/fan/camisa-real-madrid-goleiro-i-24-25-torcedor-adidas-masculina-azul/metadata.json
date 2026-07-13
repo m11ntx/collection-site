@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-madrid-goleiro-i-24-25-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-13T13:37:20Z",
-  "updatedAt": "2026-07-13T13:37:20Z",
+  "createdAt": "2026-07-07T01:33:58Z",
+  "updatedAt": "2026-07-07T01:33:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 22958,
-      "createdAt": "2026-07-13T13:37:20Z",
-      "updatedAt": "2026-07-13T13:37:20Z"
+      "createdAt": "2026-07-07T01:33:56Z",
+      "updatedAt": "2026-07-07T01:33:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6274,
-      "createdAt": "2026-07-13T13:37:20Z",
-      "updatedAt": "2026-07-13T13:37:20Z"
+      "createdAt": "2026-07-07T01:33:57Z",
+      "updatedAt": "2026-07-07T01:33:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9802,
-      "createdAt": "2026-07-13T13:37:20Z",
-      "updatedAt": "2026-07-13T13:37:20Z"
+      "createdAt": "2026-07-07T01:33:57Z",
+      "updatedAt": "2026-07-07T01:33:57Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 39436,
-      "createdAt": "2026-07-13T13:37:20Z",
-      "updatedAt": "2026-07-13T13:37:20Z"
+      "createdAt": "2026-07-07T01:33:57Z",
+      "updatedAt": "2026-07-07T01:33:57Z"
     }
   ]
 }

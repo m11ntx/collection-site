@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-24-25-edicao-especial-jogador",
-  "createdAt": "2026-07-13T13:46:40Z",
-  "updatedAt": "2026-07-13T13:46:40Z",
+  "createdAt": "2026-07-09T03:06:49Z",
+  "updatedAt": "2026-07-09T03:06:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10122,
-      "createdAt": "2026-07-13T13:46:40Z",
-      "updatedAt": "2026-07-13T13:46:40Z"
+      "createdAt": "2026-07-09T03:06:48Z",
+      "updatedAt": "2026-07-09T03:06:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7536,
-      "createdAt": "2026-07-13T13:46:40Z",
-      "updatedAt": "2026-07-13T13:46:40Z"
+      "createdAt": "2026-07-09T03:06:49Z",
+      "updatedAt": "2026-07-09T03:06:49Z"
     }
   ]
 }

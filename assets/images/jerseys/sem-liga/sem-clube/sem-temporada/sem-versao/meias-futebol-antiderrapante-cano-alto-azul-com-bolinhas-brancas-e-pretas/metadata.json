@@ -1,7 +1,7 @@
 {
   "productId": "source-meias-futebol-antiderrapante-cano-alto-azul-com-bolinhas-brancas-e-pretas",
-  "createdAt": "2026-07-13T13:44:11Z",
-  "updatedAt": "2026-07-13T13:44:11Z",
+  "createdAt": "2026-07-09T20:31:26Z",
+  "updatedAt": "2026-07-09T20:31:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20124,
-      "createdAt": "2026-07-13T13:44:10Z",
-      "updatedAt": "2026-07-13T13:44:10Z"
+      "createdAt": "2026-07-09T20:31:25Z",
+      "updatedAt": "2026-07-09T20:31:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 38392,
-      "createdAt": "2026-07-13T13:44:10Z",
-      "updatedAt": "2026-07-13T13:44:10Z"
+      "createdAt": "2026-07-09T20:31:25Z",
+      "updatedAt": "2026-07-09T20:31:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 46366,
-      "createdAt": "2026-07-13T13:44:11Z",
-      "updatedAt": "2026-07-13T13:44:11Z"
+      "createdAt": "2026-07-09T20:31:25Z",
+      "updatedAt": "2026-07-09T20:31:25Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 32756,
-      "createdAt": "2026-07-13T13:44:11Z",
-      "updatedAt": "2026-07-13T13:44:11Z"
+      "createdAt": "2026-07-09T20:31:26Z",
+      "updatedAt": "2026-07-09T20:31:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 36908,
-      "createdAt": "2026-07-13T13:44:11Z",
-      "updatedAt": "2026-07-13T13:44:11Z"
+      "createdAt": "2026-07-09T20:31:26Z",
+      "updatedAt": "2026-07-09T20:31:26Z"
     }
   ]
 }

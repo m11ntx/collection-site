@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-ii-24-25-torcedor-umbro-masculina-branca-com-patrocinio",
-  "createdAt": "2026-07-13T13:37:11Z",
-  "updatedAt": "2026-07-13T13:37:11Z",
+  "createdAt": "2026-07-05T16:05:40Z",
+  "updatedAt": "2026-07-05T16:05:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10550,
-      "createdAt": "2026-07-13T13:37:11Z",
-      "updatedAt": "2026-07-13T13:37:11Z"
+      "createdAt": "2026-07-05T16:05:39Z",
+      "updatedAt": "2026-07-05T16:05:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6112,
-      "createdAt": "2026-07-13T13:37:11Z",
-      "updatedAt": "2026-07-13T13:37:11Z"
+      "createdAt": "2026-07-05T16:05:39Z",
+      "updatedAt": "2026-07-05T16:05:39Z"
     }
   ]
 }

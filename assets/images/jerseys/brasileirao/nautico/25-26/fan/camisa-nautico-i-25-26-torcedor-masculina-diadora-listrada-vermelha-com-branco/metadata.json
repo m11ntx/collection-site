@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-nautico-i-25-26-torcedor-masculina-diadora-listrada-vermelha-com-branco",
-  "createdAt": "2026-07-13T13:48:46Z",
-  "updatedAt": "2026-07-13T13:48:46Z",
+  "createdAt": "2026-07-05T16:55:31Z",
+  "updatedAt": "2026-07-05T16:55:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21800,
-      "createdAt": "2026-07-13T13:48:46Z",
-      "updatedAt": "2026-07-13T13:48:46Z"
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 19028,
-      "createdAt": "2026-07-13T13:48:46Z",
-      "updatedAt": "2026-07-13T13:48:46Z"
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 64536,
-      "createdAt": "2026-07-13T13:48:46Z",
-      "updatedAt": "2026-07-13T13:48:46Z"
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 34984,
-      "createdAt": "2026-07-13T13:48:46Z",
-      "updatedAt": "2026-07-13T13:48:46Z"
+      "createdAt": "2026-07-05T16:55:31Z",
+      "updatedAt": "2026-07-05T16:55:31Z"
     }
   ]
 }
