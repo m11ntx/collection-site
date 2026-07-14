@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vitoria-i-26-27-masculina-volt-vermelho-e-preto",
-  "createdAt": "2026-07-13T13:51:33Z",
-  "updatedAt": "2026-07-13T13:51:33Z",
+  "createdAt": "2026-07-09T22:13:36Z",
+  "updatedAt": "2026-07-09T22:13:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7764,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-09T22:13:36Z",
+      "updatedAt": "2026-07-09T22:13:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6566,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-09T22:13:36Z",
+      "updatedAt": "2026-07-09T22:13:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 39830,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-09T22:13:36Z",
+      "updatedAt": "2026-07-09T22:13:36Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-al-nassr-i-24-25-jogador-adidas-masculina-amarela-com-detalhes-em-azul",
-  "createdAt": "2026-07-13T13:37:53Z",
-  "updatedAt": "2026-07-13T13:37:53Z",
+  "createdAt": "2026-07-09T03:06:36Z",
+  "updatedAt": "2026-07-09T03:06:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12330,
-      "createdAt": "2026-07-13T13:37:52Z",
-      "updatedAt": "2026-07-13T13:37:52Z"
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14662,
-      "createdAt": "2026-07-13T13:37:52Z",
-      "updatedAt": "2026-07-13T13:37:52Z"
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8034,
-      "createdAt": "2026-07-13T13:37:53Z",
-      "updatedAt": "2026-07-13T13:37:53Z"
+      "createdAt": "2026-07-09T03:06:36Z",
+      "updatedAt": "2026-07-09T03:06:36Z"
     }
   ]
 }

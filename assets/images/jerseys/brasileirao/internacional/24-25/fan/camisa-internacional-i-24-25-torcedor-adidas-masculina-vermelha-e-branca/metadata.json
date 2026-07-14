@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-internacional-i-24-25-torcedor-adidas-masculina-vermelha-e-branca",
-  "createdAt": "2026-07-13T13:33:40Z",
-  "updatedAt": "2026-07-13T13:33:40Z",
+  "createdAt": "2026-07-05T05:51:04Z",
+  "updatedAt": "2026-07-05T05:51:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9160,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7286,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24426,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 26722,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-05T05:51:03Z",
+      "updatedAt": "2026-07-05T05:51:03Z"
     }
   ]
 }

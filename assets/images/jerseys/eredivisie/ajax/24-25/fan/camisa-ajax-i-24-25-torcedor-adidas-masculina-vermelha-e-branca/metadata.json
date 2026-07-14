@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-i-24-25-torcedor-adidas-masculina-vermelha-e-branca",
-  "createdAt": "2026-07-13T13:38:02Z",
-  "updatedAt": "2026-07-13T13:38:02Z",
+  "createdAt": "2026-07-07T03:07:52Z",
+  "updatedAt": "2026-07-07T03:07:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8828,
-      "createdAt": "2026-07-13T13:38:02Z",
-      "updatedAt": "2026-07-13T13:38:02Z"
+      "createdAt": "2026-07-07T03:07:52Z",
+      "updatedAt": "2026-07-07T03:07:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5144,
-      "createdAt": "2026-07-13T13:38:02Z",
-      "updatedAt": "2026-07-13T13:38:02Z"
+      "createdAt": "2026-07-07T03:07:52Z",
+      "updatedAt": "2026-07-07T03:07:52Z"
     }
   ]
 }

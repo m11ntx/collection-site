@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-belgica-i-26-27-jogador-adidas-masculina",
-  "createdAt": "2026-07-13T13:51:06Z",
-  "updatedAt": "2026-07-13T13:51:06Z",
+  "createdAt": "2026-07-09T19:18:15Z",
+  "updatedAt": "2026-07-09T19:18:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8492,
-      "createdAt": "2026-07-13T13:51:06Z",
-      "updatedAt": "2026-07-13T13:51:06Z"
+      "createdAt": "2026-07-09T19:18:15Z",
+      "updatedAt": "2026-07-09T19:18:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7968,
-      "createdAt": "2026-07-13T13:51:06Z",
-      "updatedAt": "2026-07-13T13:51:06Z"
+      "createdAt": "2026-07-09T19:18:15Z",
+      "updatedAt": "2026-07-09T19:18:15Z"
     }
   ]
 }

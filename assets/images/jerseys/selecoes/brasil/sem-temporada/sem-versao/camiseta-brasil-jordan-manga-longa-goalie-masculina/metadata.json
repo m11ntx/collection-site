@@ -1,0 +1,47 @@
+{
+  "productId": "source-camiseta-brasil-jordan-manga-longa-goalie-masculina",
+  "createdAt": "2026-07-14T19:16:25Z",
+  "updatedAt": "2026-07-14T19:16:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/sem-versao/camiseta-brasil-jordan-manga-longa-goalie-masculina/front.webp",
+      "hash": "995a89375e6fae6962f8f63a9091903a73dd1b426ccc2872eeccb318fddaf58a",
+      "width": 480,
+      "height": 480,
+      "size": 23846,
+      "createdAt": "2026-07-14T19:16:24Z",
+      "updatedAt": "2026-07-14T19:16:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/sem-versao/camiseta-brasil-jordan-manga-longa-goalie-masculina/back.webp",
+      "hash": "03b95726d94f8a5cd9f127b432dd0344a25df90d46094a29d31d746018640ac3",
+      "width": 480,
+      "height": 480,
+      "size": 23772,
+      "createdAt": "2026-07-14T19:16:25Z",
+      "updatedAt": "2026-07-14T19:16:25Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/sem-versao/camiseta-brasil-jordan-manga-longa-goalie-masculina/detail-1.webp",
+      "hash": "6b458de0dbd37cfb0b091850917e5526d98c922819d73477e49a6f03cd723800",
+      "width": 480,
+      "height": 480,
+      "size": 45724,
+      "createdAt": "2026-07-14T19:16:25Z",
+      "updatedAt": "2026-07-14T19:16:25Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/selecoes/brasil/sem-temporada/sem-versao/camiseta-brasil-jordan-manga-longa-goalie-masculina/detail-2.webp",
+      "hash": "db7adf915c61deaa5cae1aa47cc135beb07eff55cfb12c2f277ccfc8ec516d7c",
+      "width": 480,
+      "height": 480,
+      "size": 22446,
+      "createdAt": "2026-07-14T19:16:25Z",
+      "updatedAt": "2026-07-14T19:16:25Z"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-inglaterra-i-26-27-torcedor-nike-masculina-branca",
-  "createdAt": "2026-07-13T13:50:25Z",
-  "updatedAt": "2026-07-13T13:50:25Z",
+  "createdAt": "2026-07-07T04:13:29Z",
+  "updatedAt": "2026-07-07T04:13:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16372,
-      "createdAt": "2026-07-13T13:50:18Z",
-      "updatedAt": "2026-07-13T13:50:18Z"
+      "createdAt": "2026-07-07T04:12:53Z",
+      "updatedAt": "2026-07-07T04:12:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14280,
-      "createdAt": "2026-07-13T13:50:21Z",
-      "updatedAt": "2026-07-13T13:50:21Z"
+      "createdAt": "2026-07-07T04:13:05Z",
+      "updatedAt": "2026-07-07T04:13:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22746,
-      "createdAt": "2026-07-13T13:50:23Z",
-      "updatedAt": "2026-07-13T13:50:23Z"
+      "createdAt": "2026-07-07T04:13:17Z",
+      "updatedAt": "2026-07-07T04:13:17Z"
     }
   ]
 }

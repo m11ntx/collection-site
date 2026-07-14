@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-ii-26-27-torcedor-feminina-branca",
-  "createdAt": "2026-07-13T13:51:23Z",
-  "updatedAt": "2026-07-13T13:51:23Z",
+  "createdAt": "2026-07-05T04:53:33Z",
+  "updatedAt": "2026-07-05T04:53:33Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4426,
-      "createdAt": "2026-07-13T13:51:22Z",
-      "updatedAt": "2026-07-13T13:51:22Z"
+      "createdAt": "2026-07-05T04:53:33Z",
+      "updatedAt": "2026-07-05T04:53:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2704,
-      "createdAt": "2026-07-13T13:51:22Z",
-      "updatedAt": "2026-07-13T13:51:22Z"
+      "createdAt": "2026-07-05T04:53:33Z",
+      "updatedAt": "2026-07-05T04:53:33Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5082,
-      "createdAt": "2026-07-13T13:51:22Z",
-      "updatedAt": "2026-07-13T13:51:22Z"
+      "createdAt": "2026-07-05T04:53:33Z",
+      "updatedAt": "2026-07-05T04:53:33Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 7724,
-      "createdAt": "2026-07-13T13:51:22Z",
-      "updatedAt": "2026-07-13T13:51:22Z"
+      "createdAt": "2026-07-05T04:53:33Z",
+      "updatedAt": "2026-07-05T04:53:33Z"
     }
   ]
 }

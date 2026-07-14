@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-vasco-ii-26-27-nike-jogador-masculina",
-  "createdAt": "2026-07-13T13:51:11Z",
-  "updatedAt": "2026-07-13T13:51:11Z",
+  "createdAt": "2026-07-05T16:03:34Z",
+  "updatedAt": "2026-07-05T16:03:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10252,
-      "createdAt": "2026-07-13T13:51:08Z",
-      "updatedAt": "2026-07-13T13:51:08Z"
+      "createdAt": "2026-07-05T16:03:27Z",
+      "updatedAt": "2026-07-05T16:03:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2624,
-      "createdAt": "2026-07-13T13:51:11Z",
-      "updatedAt": "2026-07-13T13:51:11Z"
+      "createdAt": "2026-07-05T16:03:34Z",
+      "updatedAt": "2026-07-05T16:03:34Z"
     }
   ]
 }

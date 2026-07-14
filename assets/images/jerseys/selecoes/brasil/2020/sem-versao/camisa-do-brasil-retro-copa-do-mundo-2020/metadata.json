@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-brasil-retro-copa-do-mundo-2020",
-  "createdAt": "2026-07-13T13:47:10Z",
-  "updatedAt": "2026-07-13T13:47:10Z",
+  "createdAt": "2026-07-09T16:37:44Z",
+  "updatedAt": "2026-07-09T16:37:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8962,
-      "createdAt": "2026-07-13T13:47:10Z",
-      "updatedAt": "2026-07-13T13:47:10Z"
+      "createdAt": "2026-07-09T16:37:43Z",
+      "updatedAt": "2026-07-09T16:37:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7348,
-      "createdAt": "2026-07-13T13:47:10Z",
-      "updatedAt": "2026-07-13T13:47:10Z"
+      "createdAt": "2026-07-09T16:37:44Z",
+      "updatedAt": "2026-07-09T16:37:44Z"
     }
   ]
 }

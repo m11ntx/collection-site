@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-de-treino-masculina-puma-do-fluminense-torcedor-masculina",
-  "createdAt": "2026-07-13T13:51:43Z",
-  "updatedAt": "2026-07-13T13:51:43Z",
+  "createdAt": "2026-07-05T16:04:45Z",
+  "updatedAt": "2026-07-05T16:04:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9928,
-      "createdAt": "2026-07-13T13:51:43Z",
-      "updatedAt": "2026-07-13T13:51:43Z"
+      "createdAt": "2026-07-05T16:04:45Z",
+      "updatedAt": "2026-07-05T16:04:45Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4652,
-      "createdAt": "2026-07-13T13:51:43Z",
-      "updatedAt": "2026-07-13T13:51:43Z"
+      "createdAt": "2026-07-05T16:04:45Z",
+      "updatedAt": "2026-07-05T16:04:45Z"
     }
   ]
 }

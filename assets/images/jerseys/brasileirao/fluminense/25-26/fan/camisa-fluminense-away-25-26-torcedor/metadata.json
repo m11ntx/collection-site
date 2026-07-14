@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-away-25-26-torcedor",
-  "createdAt": "2026-07-13T13:48:03Z",
-  "updatedAt": "2026-07-13T13:48:03Z",
+  "createdAt": "2026-07-05T16:04:47Z",
+  "updatedAt": "2026-07-05T16:04:47Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9356,
-      "createdAt": "2026-07-13T13:48:03Z",
-      "updatedAt": "2026-07-13T13:48:03Z"
+      "createdAt": "2026-07-05T16:04:46Z",
+      "updatedAt": "2026-07-05T16:04:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4680,
-      "createdAt": "2026-07-13T13:48:03Z",
-      "updatedAt": "2026-07-13T13:48:03Z"
+      "createdAt": "2026-07-05T16:04:47Z",
+      "updatedAt": "2026-07-05T16:04:47Z"
     }
   ]
 }

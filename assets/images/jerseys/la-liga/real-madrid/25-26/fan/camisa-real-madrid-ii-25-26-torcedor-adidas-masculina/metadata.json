@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-madrid-ii-25-26-torcedor-adidas-masculina",
-  "createdAt": "2026-07-13T13:47:58Z",
-  "updatedAt": "2026-07-13T13:47:58Z",
+  "createdAt": "2026-07-07T01:34:11Z",
+  "updatedAt": "2026-07-07T01:34:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19462,
-      "createdAt": "2026-07-13T13:47:58Z",
-      "updatedAt": "2026-07-13T13:47:58Z"
+      "createdAt": "2026-07-07T01:34:09Z",
+      "updatedAt": "2026-07-07T01:34:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12226,
-      "createdAt": "2026-07-13T13:47:58Z",
-      "updatedAt": "2026-07-13T13:47:58Z"
+      "createdAt": "2026-07-07T01:34:10Z",
+      "updatedAt": "2026-07-07T01:34:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 29086,
-      "createdAt": "2026-07-13T13:47:58Z",
-      "updatedAt": "2026-07-13T13:47:58Z"
+      "createdAt": "2026-07-07T01:34:10Z",
+      "updatedAt": "2026-07-07T01:34:10Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 53144,
-      "createdAt": "2026-07-13T13:47:58Z",
-      "updatedAt": "2026-07-13T13:47:58Z"
+      "createdAt": "2026-07-07T01:34:10Z",
+      "updatedAt": "2026-07-07T01:34:10Z"
     }
   ]
 }

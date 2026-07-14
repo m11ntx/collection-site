@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-celtic-retro-1991-1992-verde-umbro",
-  "createdAt": "2026-07-13T13:26:10Z",
-  "updatedAt": "2026-07-13T13:26:10Z",
+  "createdAt": "2026-07-09T16:36:26Z",
+  "updatedAt": "2026-07-09T16:36:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17834,
-      "createdAt": "2026-07-13T13:26:09Z",
-      "updatedAt": "2026-07-13T13:26:09Z"
+      "createdAt": "2026-07-09T16:36:24Z",
+      "updatedAt": "2026-07-09T16:36:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14230,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:24Z",
+      "updatedAt": "2026-07-09T16:36:24Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 61294,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:24Z",
+      "updatedAt": "2026-07-09T16:36:24Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 44854,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:25Z",
+      "updatedAt": "2026-07-09T16:36:25Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 90488,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:25Z",
+      "updatedAt": "2026-07-09T16:36:25Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 108088,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:25Z",
+      "updatedAt": "2026-07-09T16:36:25Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 57172,
-      "createdAt": "2026-07-13T13:26:10Z",
-      "updatedAt": "2026-07-13T13:26:10Z"
+      "createdAt": "2026-07-09T16:36:26Z",
+      "updatedAt": "2026-07-09T16:36:26Z"
     }
   ]
 }

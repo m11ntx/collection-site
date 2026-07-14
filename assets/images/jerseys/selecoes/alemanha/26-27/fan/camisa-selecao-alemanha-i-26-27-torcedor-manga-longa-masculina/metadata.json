@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-alemanha-i-26-27-torcedor-manga-longa-masculina",
-  "createdAt": "2026-07-13T13:49:16Z",
-  "updatedAt": "2026-07-13T13:49:16Z",
+  "createdAt": "2026-07-07T04:09:26Z",
+  "updatedAt": "2026-07-07T04:09:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15824,
-      "createdAt": "2026-07-13T13:49:15Z",
-      "updatedAt": "2026-07-13T13:49:15Z"
+      "createdAt": "2026-07-07T04:09:26Z",
+      "updatedAt": "2026-07-07T04:09:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8516,
-      "createdAt": "2026-07-13T13:49:16Z",
-      "updatedAt": "2026-07-13T13:49:16Z"
+      "createdAt": "2026-07-07T04:09:26Z",
+      "updatedAt": "2026-07-07T04:09:26Z"
     }
   ]
 }

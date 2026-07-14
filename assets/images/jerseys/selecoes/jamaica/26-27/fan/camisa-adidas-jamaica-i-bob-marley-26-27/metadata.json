@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-adidas-jamaica-i-bob-marley-26-27",
-  "createdAt": "2026-07-13T13:50:55Z",
-  "updatedAt": "2026-07-13T13:50:55Z",
+  "createdAt": "2026-07-07T04:07:39Z",
+  "updatedAt": "2026-07-07T04:07:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 624,
       "size": 32998,
-      "createdAt": "2026-07-13T13:50:55Z",
-      "updatedAt": "2026-07-13T13:50:55Z"
+      "createdAt": "2026-07-07T04:07:38Z",
+      "updatedAt": "2026-07-07T04:07:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 646,
       "size": 31516,
-      "createdAt": "2026-07-13T13:50:55Z",
-      "updatedAt": "2026-07-13T13:50:55Z"
+      "createdAt": "2026-07-07T04:07:39Z",
+      "updatedAt": "2026-07-07T04:07:39Z"
     }
   ]
 }

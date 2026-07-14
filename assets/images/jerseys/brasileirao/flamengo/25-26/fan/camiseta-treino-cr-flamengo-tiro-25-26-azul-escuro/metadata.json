@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-treino-cr-flamengo-tiro-25-26-azul-escuro",
-  "createdAt": "2026-07-13T13:45:56Z",
-  "updatedAt": "2026-07-13T13:45:56Z",
+  "createdAt": "2026-07-05T06:09:55Z",
+  "updatedAt": "2026-07-05T06:09:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13360,
-      "createdAt": "2026-07-13T13:45:52Z",
-      "updatedAt": "2026-07-13T13:45:52Z"
+      "createdAt": "2026-07-05T06:09:43Z",
+      "updatedAt": "2026-07-05T06:09:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9510,
-      "createdAt": "2026-07-13T13:45:54Z",
-      "updatedAt": "2026-07-13T13:45:54Z"
+      "createdAt": "2026-07-05T06:09:49Z",
+      "updatedAt": "2026-07-05T06:09:49Z"
     }
   ]
 }

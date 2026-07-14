@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-flamengo-ii-25-26-adidas",
-  "createdAt": "2026-07-13T13:47:52Z",
-  "updatedAt": "2026-07-13T13:47:52Z",
+  "createdAt": "2026-07-09T17:17:48Z",
+  "updatedAt": "2026-07-09T17:17:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14072,
-      "createdAt": "2026-07-13T13:47:52Z",
-      "updatedAt": "2026-07-13T13:47:52Z"
+      "createdAt": "2026-07-09T17:17:48Z",
+      "updatedAt": "2026-07-09T17:17:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10260,
-      "createdAt": "2026-07-13T13:47:52Z",
-      "updatedAt": "2026-07-13T13:47:52Z"
+      "createdAt": "2026-07-09T17:17:48Z",
+      "updatedAt": "2026-07-09T17:17:48Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20792,
-      "createdAt": "2026-07-13T13:47:52Z",
-      "updatedAt": "2026-07-13T13:47:52Z"
+      "createdAt": "2026-07-09T17:17:48Z",
+      "updatedAt": "2026-07-09T17:17:48Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 42534,
-      "createdAt": "2026-07-13T13:47:52Z",
-      "updatedAt": "2026-07-13T13:47:52Z"
+      "createdAt": "2026-07-09T17:17:48Z",
+      "updatedAt": "2026-07-09T17:17:48Z"
     }
   ]
 }

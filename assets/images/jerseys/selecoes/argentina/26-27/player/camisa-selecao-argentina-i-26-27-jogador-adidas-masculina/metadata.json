@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-argentina-i-26-27-jogador-adidas-masculina",
-  "createdAt": "2026-07-13T13:49:37Z",
-  "updatedAt": "2026-07-13T13:49:37Z",
+  "createdAt": "2026-07-09T03:08:19Z",
+  "updatedAt": "2026-07-09T03:08:19Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20970,
-      "createdAt": "2026-07-13T13:49:21Z",
-      "updatedAt": "2026-07-13T13:49:21Z"
+      "createdAt": "2026-07-09T03:07:38Z",
+      "updatedAt": "2026-07-09T03:07:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 27290,
-      "createdAt": "2026-07-13T13:49:23Z",
-      "updatedAt": "2026-07-13T13:49:23Z"
+      "createdAt": "2026-07-09T03:07:44Z",
+      "updatedAt": "2026-07-09T03:07:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 40330,
-      "createdAt": "2026-07-13T13:49:26Z",
-      "updatedAt": "2026-07-13T13:49:26Z"
+      "createdAt": "2026-07-09T03:07:50Z",
+      "updatedAt": "2026-07-09T03:07:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 20806,
-      "createdAt": "2026-07-13T13:49:28Z",
-      "updatedAt": "2026-07-13T13:49:28Z"
+      "createdAt": "2026-07-09T03:07:56Z",
+      "updatedAt": "2026-07-09T03:07:56Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15118,
-      "createdAt": "2026-07-13T13:49:30Z",
-      "updatedAt": "2026-07-13T13:49:30Z"
+      "createdAt": "2026-07-09T03:08:02Z",
+      "updatedAt": "2026-07-09T03:08:02Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 27844,
-      "createdAt": "2026-07-13T13:49:32Z",
-      "updatedAt": "2026-07-13T13:49:32Z"
+      "createdAt": "2026-07-09T03:08:07Z",
+      "updatedAt": "2026-07-09T03:08:07Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 17108,
-      "createdAt": "2026-07-13T13:49:35Z",
-      "updatedAt": "2026-07-13T13:49:35Z"
+      "createdAt": "2026-07-09T03:08:13Z",
+      "updatedAt": "2026-07-09T03:08:13Z"
     }
   ]
 }

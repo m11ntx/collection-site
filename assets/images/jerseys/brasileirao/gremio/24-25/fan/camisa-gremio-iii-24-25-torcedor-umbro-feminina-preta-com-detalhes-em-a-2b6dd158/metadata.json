@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-iii-24-25-torcedor-umbro-feminina-preta-com-detalhes-em-azul-e-branco",
-  "createdAt": "2026-07-13T13:39:03Z",
-  "updatedAt": "2026-07-13T13:39:03Z",
+  "createdAt": "2026-07-09T05:35:30Z",
+  "updatedAt": "2026-07-09T05:35:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8290,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8286,
-      "createdAt": "2026-07-13T13:39:02Z",
-      "updatedAt": "2026-07-13T13:39:02Z"
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7642,
-      "createdAt": "2026-07-13T13:39:03Z",
-      "updatedAt": "2026-07-13T13:39:03Z"
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33310,
-      "createdAt": "2026-07-13T13:39:03Z",
-      "updatedAt": "2026-07-13T13:39:03Z"
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 34114,
-      "createdAt": "2026-07-13T13:39:03Z",
-      "updatedAt": "2026-07-13T13:39:03Z"
+      "createdAt": "2026-07-09T05:35:29Z",
+      "updatedAt": "2026-07-09T05:35:29Z"
     }
   ]
 }

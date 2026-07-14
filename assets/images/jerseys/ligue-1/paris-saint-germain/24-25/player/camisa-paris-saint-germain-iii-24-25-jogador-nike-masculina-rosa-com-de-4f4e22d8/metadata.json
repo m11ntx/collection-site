@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paris-saint-germain-iii-24-25-jogador-nike-masculina-rosa-com-detalhes-em-azul",
-  "createdAt": "2026-07-13T13:38:11Z",
-  "updatedAt": "2026-07-13T13:38:11Z",
+  "createdAt": "2026-07-09T22:10:13Z",
+  "updatedAt": "2026-07-09T22:10:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13824,
-      "createdAt": "2026-07-13T13:38:10Z",
-      "updatedAt": "2026-07-13T13:38:10Z"
+      "createdAt": "2026-07-09T22:10:13Z",
+      "updatedAt": "2026-07-09T22:10:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10422,
-      "createdAt": "2026-07-13T13:38:11Z",
-      "updatedAt": "2026-07-13T13:38:11Z"
+      "createdAt": "2026-07-09T22:10:13Z",
+      "updatedAt": "2026-07-09T22:10:13Z"
     }
   ]
 }

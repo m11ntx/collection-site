@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sporting-kansas-city-i-24-25-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-13T13:37:08Z",
-  "updatedAt": "2026-07-13T13:37:08Z",
+  "createdAt": "2026-07-07T05:05:51Z",
+  "updatedAt": "2026-07-07T05:05:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11372,
-      "createdAt": "2026-07-13T13:37:07Z",
-      "updatedAt": "2026-07-13T13:37:07Z"
+      "createdAt": "2026-07-07T05:05:50Z",
+      "updatedAt": "2026-07-07T05:05:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5916,
-      "createdAt": "2026-07-13T13:37:07Z",
-      "updatedAt": "2026-07-13T13:37:07Z"
+      "createdAt": "2026-07-07T05:05:50Z",
+      "updatedAt": "2026-07-07T05:05:50Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 720,
       "size": 78860,
-      "createdAt": "2026-07-13T13:37:07Z",
-      "updatedAt": "2026-07-13T13:37:07Z"
+      "createdAt": "2026-07-07T05:05:50Z",
+      "updatedAt": "2026-07-07T05:05:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 54080,
-      "createdAt": "2026-07-13T13:37:07Z",
-      "updatedAt": "2026-07-13T13:37:07Z"
+      "createdAt": "2026-07-07T05:05:50Z",
+      "updatedAt": "2026-07-07T05:05:50Z"
     }
   ]
 }

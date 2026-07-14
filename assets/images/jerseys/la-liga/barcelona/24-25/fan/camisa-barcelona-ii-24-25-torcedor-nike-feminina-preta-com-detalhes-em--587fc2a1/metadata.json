@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-ii-24-25-torcedor-nike-feminina-preta-com-detalhes-em-azul-e-vermelho",
-  "createdAt": "2026-07-13T13:40:08Z",
-  "updatedAt": "2026-07-13T13:40:08Z",
+  "createdAt": "2026-07-09T05:35:08Z",
+  "updatedAt": "2026-07-09T05:35:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4590,
-      "createdAt": "2026-07-13T13:40:07Z",
-      "updatedAt": "2026-07-13T13:40:07Z"
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5186,
-      "createdAt": "2026-07-13T13:40:07Z",
-      "updatedAt": "2026-07-13T13:40:07Z"
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 32504,
-      "createdAt": "2026-07-13T13:40:08Z",
-      "updatedAt": "2026-07-13T13:40:08Z"
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 7870,
-      "createdAt": "2026-07-13T13:40:08Z",
-      "updatedAt": "2026-07-13T13:40:08Z"
+      "createdAt": "2026-07-09T05:35:08Z",
+      "updatedAt": "2026-07-09T05:35:08Z"
     }
   ]
 }

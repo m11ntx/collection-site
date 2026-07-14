@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-juventus-i-1997-1998-kappa-mascukina-preta-e-branca",
-  "createdAt": "2026-07-13T13:27:44Z",
-  "updatedAt": "2026-07-13T13:27:44Z",
+  "createdAt": "2026-07-09T16:41:55Z",
+  "updatedAt": "2026-07-09T16:41:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11162,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:54Z",
+      "updatedAt": "2026-07-09T16:41:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8252,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20346,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 15760,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 16228,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20454,
-      "createdAt": "2026-07-13T13:27:43Z",
-      "updatedAt": "2026-07-13T13:27:43Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 10900,
-      "createdAt": "2026-07-13T13:27:44Z",
-      "updatedAt": "2026-07-13T13:27:44Z"
+      "createdAt": "2026-07-09T16:41:55Z",
+      "updatedAt": "2026-07-09T16:41:55Z"
     }
   ]
 }

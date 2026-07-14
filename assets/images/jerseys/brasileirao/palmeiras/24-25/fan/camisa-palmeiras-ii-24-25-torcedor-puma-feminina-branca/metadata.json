@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-palmeiras-ii-24-25-torcedor-puma-feminina-branca",
-  "createdAt": "2026-07-13T13:35:53Z",
-  "updatedAt": "2026-07-13T13:35:53Z",
+  "createdAt": "2026-07-09T05:35:41Z",
+  "updatedAt": "2026-07-09T05:35:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7782,
-      "createdAt": "2026-07-13T13:35:52Z",
-      "updatedAt": "2026-07-13T13:35:52Z"
+      "createdAt": "2026-07-09T05:35:41Z",
+      "updatedAt": "2026-07-09T05:35:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5616,
-      "createdAt": "2026-07-13T13:35:52Z",
-      "updatedAt": "2026-07-13T13:35:52Z"
+      "createdAt": "2026-07-09T05:35:41Z",
+      "updatedAt": "2026-07-09T05:35:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 49656,
-      "createdAt": "2026-07-13T13:35:52Z",
-      "updatedAt": "2026-07-13T13:35:52Z"
+      "createdAt": "2026-07-09T05:35:41Z",
+      "updatedAt": "2026-07-09T05:35:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33374,
-      "createdAt": "2026-07-13T13:35:52Z",
-      "updatedAt": "2026-07-13T13:35:52Z"
+      "createdAt": "2026-07-09T05:35:41Z",
+      "updatedAt": "2026-07-09T05:35:41Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 36070,
-      "createdAt": "2026-07-13T13:35:53Z",
-      "updatedAt": "2026-07-13T13:35:53Z"
+      "createdAt": "2026-07-09T05:35:41Z",
+      "updatedAt": "2026-07-09T05:35:41Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-corinthians-2011-masculina-grena",
-  "createdAt": "2026-07-13T13:39:18Z",
-  "updatedAt": "2026-07-13T13:39:18Z",
+  "createdAt": "2026-07-09T16:41:32Z",
+  "updatedAt": "2026-07-09T16:41:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14796,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9414,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:32Z",
+      "updatedAt": "2026-07-09T16:41:32Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 39530,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:32Z",
+      "updatedAt": "2026-07-09T16:41:32Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 39348,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:32Z",
+      "updatedAt": "2026-07-09T16:41:32Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 29484,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:32Z",
+      "updatedAt": "2026-07-09T16:41:32Z"
     }
   ]
 }

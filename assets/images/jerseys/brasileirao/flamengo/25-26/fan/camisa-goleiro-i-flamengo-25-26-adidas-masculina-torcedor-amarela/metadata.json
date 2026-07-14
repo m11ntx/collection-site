@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-goleiro-i-flamengo-25-26-adidas-masculina-torcedor-amarela",
-  "createdAt": "2026-07-13T13:47:25Z",
-  "updatedAt": "2026-07-13T13:47:25Z",
+  "createdAt": "2026-07-05T06:09:21Z",
+  "updatedAt": "2026-07-05T06:09:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23778,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 28600,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6580,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 5748,
-      "createdAt": "2026-07-13T13:47:25Z",
-      "updatedAt": "2026-07-13T13:47:25Z"
+      "createdAt": "2026-07-05T06:09:21Z",
+      "updatedAt": "2026-07-05T06:09:21Z"
     }
   ]
 }

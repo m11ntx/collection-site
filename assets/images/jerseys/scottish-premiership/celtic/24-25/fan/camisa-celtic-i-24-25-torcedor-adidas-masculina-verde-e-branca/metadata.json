@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-celtic-i-24-25-torcedor-adidas-masculina-verde-e-branca",
-  "createdAt": "2026-07-13T13:36:57Z",
-  "updatedAt": "2026-07-13T13:36:57Z",
+  "createdAt": "2026-07-07T03:08:01Z",
+  "updatedAt": "2026-07-07T03:08:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12984,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-07T03:08:00Z",
+      "updatedAt": "2026-07-07T03:08:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9126,
-      "createdAt": "2026-07-13T13:36:57Z",
-      "updatedAt": "2026-07-13T13:36:57Z"
+      "createdAt": "2026-07-07T03:08:00Z",
+      "updatedAt": "2026-07-07T03:08:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 46492,
-      "createdAt": "2026-07-13T13:36:57Z",
-      "updatedAt": "2026-07-13T13:36:57Z"
+      "createdAt": "2026-07-07T03:08:00Z",
+      "updatedAt": "2026-07-07T03:08:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30084,
-      "createdAt": "2026-07-13T13:36:57Z",
-      "updatedAt": "2026-07-13T13:36:57Z"
+      "createdAt": "2026-07-07T03:08:01Z",
+      "updatedAt": "2026-07-07T03:08:01Z"
     }
   ]
 }

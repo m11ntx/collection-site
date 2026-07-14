@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-palmeiras-treino-24-25-torcedor-puma-masculina-azul",
-  "createdAt": "2026-07-13T13:37:24Z",
-  "updatedAt": "2026-07-13T13:37:24Z",
+  "createdAt": "2026-07-05T06:21:23Z",
+  "updatedAt": "2026-07-05T06:21:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18480,
-      "createdAt": "2026-07-13T13:37:24Z",
-      "updatedAt": "2026-07-13T13:37:24Z"
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6316,
-      "createdAt": "2026-07-13T13:37:24Z",
-      "updatedAt": "2026-07-13T13:37:24Z"
+      "createdAt": "2026-07-05T06:21:23Z",
+      "updatedAt": "2026-07-05T06:21:23Z"
     }
   ]
 }

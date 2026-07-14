@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-edicao-especial-real-madrid-24-25-jogador-adidas-masculina-preta-com-detalhes-em-vermelho-e-cinza",
-  "createdAt": "2026-07-13T13:32:03Z",
-  "updatedAt": "2026-07-13T13:32:03Z",
+  "createdAt": "2026-07-09T03:13:28Z",
+  "updatedAt": "2026-07-09T03:13:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 29392,
-      "createdAt": "2026-07-13T13:32:02Z",
-      "updatedAt": "2026-07-13T13:32:02Z"
+      "createdAt": "2026-07-09T03:13:27Z",
+      "updatedAt": "2026-07-09T03:13:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11650,
-      "createdAt": "2026-07-13T13:32:02Z",
-      "updatedAt": "2026-07-13T13:32:02Z"
+      "createdAt": "2026-07-09T03:13:27Z",
+      "updatedAt": "2026-07-09T03:13:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 34200,
-      "createdAt": "2026-07-13T13:32:02Z",
-      "updatedAt": "2026-07-13T13:32:02Z"
+      "createdAt": "2026-07-09T03:13:27Z",
+      "updatedAt": "2026-07-09T03:13:27Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 64308,
-      "createdAt": "2026-07-13T13:32:02Z",
-      "updatedAt": "2026-07-13T13:32:02Z"
+      "createdAt": "2026-07-09T03:13:27Z",
+      "updatedAt": "2026-07-09T03:13:27Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 45948,
-      "createdAt": "2026-07-13T13:32:02Z",
-      "updatedAt": "2026-07-13T13:32:02Z"
+      "createdAt": "2026-07-09T03:13:27Z",
+      "updatedAt": "2026-07-09T03:13:27Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 25426,
-      "createdAt": "2026-07-13T13:32:03Z",
-      "updatedAt": "2026-07-13T13:32:03Z"
+      "createdAt": "2026-07-09T03:13:28Z",
+      "updatedAt": "2026-07-09T03:13:28Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 34922,
-      "createdAt": "2026-07-13T13:32:03Z",
-      "updatedAt": "2026-07-13T13:32:03Z"
+      "createdAt": "2026-07-09T03:13:28Z",
+      "updatedAt": "2026-07-09T03:13:28Z"
     }
   ]
 }

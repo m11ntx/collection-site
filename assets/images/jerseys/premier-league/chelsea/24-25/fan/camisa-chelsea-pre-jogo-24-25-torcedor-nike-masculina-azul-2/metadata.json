@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chelsea-pre-jogo-24-25-torcedor-nike-masculina-azul-2",
-  "createdAt": "2026-07-13T13:40:12Z",
-  "updatedAt": "2026-07-13T13:40:12Z",
+  "createdAt": "2026-07-07T02:48:37Z",
+  "updatedAt": "2026-07-07T02:48:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17744,
-      "createdAt": "2026-07-13T13:40:12Z",
-      "updatedAt": "2026-07-13T13:40:12Z"
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14080,
-      "createdAt": "2026-07-13T13:40:12Z",
-      "updatedAt": "2026-07-13T13:40:12Z"
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 61022,
-      "createdAt": "2026-07-13T13:40:12Z",
-      "updatedAt": "2026-07-13T13:40:12Z"
+      "createdAt": "2026-07-07T02:48:36Z",
+      "updatedAt": "2026-07-07T02:48:36Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 74662,
-      "createdAt": "2026-07-13T13:40:12Z",
-      "updatedAt": "2026-07-13T13:40:12Z"
+      "createdAt": "2026-07-07T02:48:37Z",
+      "updatedAt": "2026-07-07T02:48:37Z"
     }
   ]
 }

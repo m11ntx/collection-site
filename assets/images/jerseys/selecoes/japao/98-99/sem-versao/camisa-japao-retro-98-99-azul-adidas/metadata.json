@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-japao-retro-98-99-azul-adidas",
-  "createdAt": "2026-07-13T13:47:35Z",
-  "updatedAt": "2026-07-13T13:47:35Z",
+  "createdAt": "2026-07-09T16:38:56Z",
+  "updatedAt": "2026-07-09T16:38:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 25628,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T16:38:56Z",
+      "updatedAt": "2026-07-09T16:38:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 22652,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T16:38:56Z",
+      "updatedAt": "2026-07-09T16:38:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 76048,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T16:38:56Z",
+      "updatedAt": "2026-07-09T16:38:56Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30058,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T16:38:56Z",
+      "updatedAt": "2026-07-09T16:38:56Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 93118,
-      "createdAt": "2026-07-13T13:47:35Z",
-      "updatedAt": "2026-07-13T13:47:35Z"
+      "createdAt": "2026-07-09T16:38:56Z",
+      "updatedAt": "2026-07-09T16:38:56Z"
     }
   ]
 }

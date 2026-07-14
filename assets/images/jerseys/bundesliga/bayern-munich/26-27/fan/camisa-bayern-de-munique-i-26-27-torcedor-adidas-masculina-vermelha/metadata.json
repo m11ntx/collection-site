@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bayern-de-munique-i-26-27-torcedor-adidas-masculina-vermelha",
-  "createdAt": "2026-07-13T13:51:25Z",
-  "updatedAt": "2026-07-13T13:51:25Z",
+  "createdAt": "2026-07-07T01:32:34Z",
+  "updatedAt": "2026-07-12T01:12:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13386,
-      "createdAt": "2026-07-13T13:51:25Z",
-      "updatedAt": "2026-07-13T13:51:25Z"
+      "createdAt": "2026-07-07T01:32:33Z",
+      "updatedAt": "2026-07-12T01:12:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10782,
-      "createdAt": "2026-07-13T13:51:25Z",
-      "updatedAt": "2026-07-13T13:51:25Z"
+      "createdAt": "2026-07-07T01:32:33Z",
+      "updatedAt": "2026-07-12T01:12:03Z"
     }
   ]
 }

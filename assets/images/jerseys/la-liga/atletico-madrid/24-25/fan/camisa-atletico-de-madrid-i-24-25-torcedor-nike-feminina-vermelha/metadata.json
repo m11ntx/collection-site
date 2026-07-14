@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-de-madrid-i-24-25-torcedor-nike-feminina-vermelha",
-  "createdAt": "2026-07-13T13:38:43Z",
-  "updatedAt": "2026-07-13T13:38:43Z",
+  "createdAt": "2026-07-09T05:35:02Z",
+  "updatedAt": "2026-07-09T05:35:02Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16194,
-      "createdAt": "2026-07-13T13:38:43Z",
-      "updatedAt": "2026-07-13T13:38:43Z"
+      "createdAt": "2026-07-09T05:35:01Z",
+      "updatedAt": "2026-07-09T05:35:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10822,
-      "createdAt": "2026-07-13T13:38:43Z",
-      "updatedAt": "2026-07-13T13:38:43Z"
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
     }
   ]
 }

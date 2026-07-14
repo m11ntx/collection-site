@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasil-copa-2026-masculina-modelo-torcedor-vermelha",
-  "createdAt": "2026-07-13T13:51:16Z",
-  "updatedAt": "2026-07-13T13:51:16Z",
+  "createdAt": "2026-07-08T03:51:36Z",
+  "updatedAt": "2026-07-08T03:51:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14578,
-      "createdAt": "2026-07-13T13:51:16Z",
-      "updatedAt": "2026-07-13T13:51:16Z"
+      "createdAt": "2026-07-08T03:51:36Z",
+      "updatedAt": "2026-07-08T03:51:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12338,
-      "createdAt": "2026-07-13T13:51:16Z",
-      "updatedAt": "2026-07-13T13:51:16Z"
+      "createdAt": "2026-07-08T03:51:36Z",
+      "updatedAt": "2026-07-08T03:51:36Z"
     }
   ]
 }

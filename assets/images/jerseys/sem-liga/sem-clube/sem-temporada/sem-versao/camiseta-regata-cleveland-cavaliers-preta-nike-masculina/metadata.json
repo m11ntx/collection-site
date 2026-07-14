@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-cleveland-cavaliers-preta-nike-masculina",
-  "createdAt": "2026-07-13T13:24:27Z",
-  "updatedAt": "2026-07-13T13:24:27Z",
+  "createdAt": "2026-07-09T20:30:30Z",
+  "updatedAt": "2026-07-09T20:30:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21122,
-      "createdAt": "2026-07-13T13:24:26Z",
-      "updatedAt": "2026-07-13T13:24:26Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 16280,
-      "createdAt": "2026-07-13T13:24:27Z",
-      "updatedAt": "2026-07-13T13:24:27Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27444,
-      "createdAt": "2026-07-13T13:24:27Z",
-      "updatedAt": "2026-07-13T13:24:27Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 37880,
-      "createdAt": "2026-07-13T13:24:27Z",
-      "updatedAt": "2026-07-13T13:24:27Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 31950,
-      "createdAt": "2026-07-13T13:24:27Z",
-      "updatedAt": "2026-07-13T13:24:27Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 32234,
-      "createdAt": "2026-07-13T13:24:27Z",
-      "updatedAt": "2026-07-13T13:24:27Z"
+      "createdAt": "2026-07-09T20:30:30Z",
+      "updatedAt": "2026-07-09T20:30:30Z"
     }
   ]
 }

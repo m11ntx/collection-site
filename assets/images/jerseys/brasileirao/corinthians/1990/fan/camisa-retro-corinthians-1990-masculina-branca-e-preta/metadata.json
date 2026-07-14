@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-corinthians-1990-masculina-branca-e-preta",
-  "createdAt": "2026-07-13T13:39:18Z",
-  "updatedAt": "2026-07-13T13:39:18Z",
+  "createdAt": "2026-07-09T16:41:31Z",
+  "updatedAt": "2026-07-09T16:41:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14886,
-      "createdAt": "2026-07-13T13:39:17Z",
-      "updatedAt": "2026-07-13T13:39:17Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13320,
-      "createdAt": "2026-07-13T13:39:17Z",
-      "updatedAt": "2026-07-13T13:39:17Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24050,
-      "createdAt": "2026-07-13T13:39:17Z",
-      "updatedAt": "2026-07-13T13:39:17Z"
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 26642,
-      "createdAt": "2026-07-13T13:39:17Z",
-      "updatedAt": "2026-07-13T13:39:17Z"
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 37122,
-      "createdAt": "2026-07-13T13:39:18Z",
-      "updatedAt": "2026-07-13T13:39:18Z"
+      "createdAt": "2026-07-09T16:41:31Z",
+      "updatedAt": "2026-07-09T16:41:31Z"
     }
   ]
 }

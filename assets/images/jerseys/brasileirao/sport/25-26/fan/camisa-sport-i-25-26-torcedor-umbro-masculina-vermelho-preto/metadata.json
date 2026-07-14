@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sport-i-25-26-torcedor-umbro-masculina-vermelho-preto",
-  "createdAt": "2026-07-13T13:47:10Z",
-  "updatedAt": "2026-07-13T13:47:10Z",
+  "createdAt": "2026-07-05T16:55:46Z",
+  "updatedAt": "2026-07-05T16:55:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10570,
-      "createdAt": "2026-07-13T13:47:09Z",
-      "updatedAt": "2026-07-13T13:47:09Z"
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8910,
-      "createdAt": "2026-07-13T13:47:09Z",
-      "updatedAt": "2026-07-13T13:47:09Z"
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 57948,
-      "createdAt": "2026-07-13T13:47:09Z",
-      "updatedAt": "2026-07-13T13:47:09Z"
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 71088,
-      "createdAt": "2026-07-13T13:47:09Z",
-      "updatedAt": "2026-07-13T13:47:09Z"
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 52986,
-      "createdAt": "2026-07-13T13:47:10Z",
-      "updatedAt": "2026-07-13T13:47:10Z"
+      "createdAt": "2026-07-05T16:55:46Z",
+      "updatedAt": "2026-07-05T16:55:46Z"
     }
   ]
 }

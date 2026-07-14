@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chile-retro-2014-vermelha",
-  "createdAt": "2026-07-13T13:46:31Z",
-  "updatedAt": "2026-07-13T13:46:31Z",
+  "createdAt": "2026-07-09T16:36:44Z",
+  "updatedAt": "2026-07-09T16:36:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10060,
-      "createdAt": "2026-07-13T13:46:31Z",
-      "updatedAt": "2026-07-13T13:46:31Z"
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5286,
-      "createdAt": "2026-07-13T13:46:31Z",
-      "updatedAt": "2026-07-13T13:46:31Z"
+      "createdAt": "2026-07-09T16:36:44Z",
+      "updatedAt": "2026-07-09T16:36:44Z"
     }
   ]
 }

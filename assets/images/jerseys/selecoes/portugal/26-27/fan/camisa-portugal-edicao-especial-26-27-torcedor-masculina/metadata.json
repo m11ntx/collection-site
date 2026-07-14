@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-portugal-edicao-especial-26-27-torcedor-masculina",
-  "createdAt": "2026-07-13T13:49:19Z",
-  "updatedAt": "2026-07-13T13:49:19Z",
+  "createdAt": "2026-07-08T03:51:35Z",
+  "updatedAt": "2026-07-08T03:51:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 22958,
-      "createdAt": "2026-07-13T13:49:19Z",
-      "updatedAt": "2026-07-13T13:49:19Z"
+      "createdAt": "2026-07-08T03:51:35Z",
+      "updatedAt": "2026-07-08T03:51:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 20872,
-      "createdAt": "2026-07-13T13:49:19Z",
-      "updatedAt": "2026-07-13T13:49:19Z"
+      "createdAt": "2026-07-08T03:51:35Z",
+      "updatedAt": "2026-07-08T03:51:35Z"
     }
   ]
 }

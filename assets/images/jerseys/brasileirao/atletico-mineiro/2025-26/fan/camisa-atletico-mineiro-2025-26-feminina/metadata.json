@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-2025-26-feminina",
-  "createdAt": "2026-07-13T13:46:33Z",
-  "updatedAt": "2026-07-13T13:46:33Z",
+  "createdAt": "2026-07-09T05:35:02Z",
+  "updatedAt": "2026-07-09T05:35:02Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 411,
       "size": 7882,
-      "createdAt": "2026-07-13T13:46:33Z",
-      "updatedAt": "2026-07-13T13:46:33Z"
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 436,
       "size": 5160,
-      "createdAt": "2026-07-13T13:46:33Z",
-      "updatedAt": "2026-07-13T13:46:33Z"
+      "createdAt": "2026-07-09T05:35:02Z",
+      "updatedAt": "2026-07-09T05:35:02Z"
     }
   ]
 }

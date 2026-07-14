@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-palmeiras-i-1980-masculina-adidas-verde-com-detalhes-branco-com-patrocinio-da-coca-cola",
-  "createdAt": "2026-07-13T13:34:52Z",
-  "updatedAt": "2026-07-13T13:34:52Z",
+  "createdAt": "2026-07-09T16:42:21Z",
+  "updatedAt": "2026-07-09T16:42:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8038,
-      "createdAt": "2026-07-13T13:34:51Z",
-      "updatedAt": "2026-07-13T13:34:51Z"
+      "createdAt": "2026-07-09T16:42:20Z",
+      "updatedAt": "2026-07-09T16:42:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12192,
-      "createdAt": "2026-07-13T13:34:51Z",
-      "updatedAt": "2026-07-13T13:34:51Z"
+      "createdAt": "2026-07-09T16:42:20Z",
+      "updatedAt": "2026-07-09T16:42:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6608,
-      "createdAt": "2026-07-13T13:34:51Z",
-      "updatedAt": "2026-07-13T13:34:51Z"
+      "createdAt": "2026-07-09T16:42:20Z",
+      "updatedAt": "2026-07-09T16:42:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 61022,
-      "createdAt": "2026-07-13T13:34:51Z",
-      "updatedAt": "2026-07-13T13:34:51Z"
+      "createdAt": "2026-07-09T16:42:20Z",
+      "updatedAt": "2026-07-09T16:42:20Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 65002,
-      "createdAt": "2026-07-13T13:34:51Z",
-      "updatedAt": "2026-07-13T13:34:51Z"
+      "createdAt": "2026-07-09T16:42:20Z",
+      "updatedAt": "2026-07-09T16:42:20Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 12192,
-      "createdAt": "2026-07-13T13:34:52Z",
-      "updatedAt": "2026-07-13T13:34:52Z"
+      "createdAt": "2026-07-09T16:42:21Z",
+      "updatedAt": "2026-07-09T16:42:21Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 13478,
-      "createdAt": "2026-07-13T13:34:52Z",
-      "updatedAt": "2026-07-13T13:34:52Z"
+      "createdAt": "2026-07-09T16:42:21Z",
+      "updatedAt": "2026-07-09T16:42:21Z"
     }
   ]
 }

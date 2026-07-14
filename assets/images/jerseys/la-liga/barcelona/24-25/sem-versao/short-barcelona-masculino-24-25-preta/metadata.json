@@ -1,7 +1,7 @@
 {
   "productId": "source-short-barcelona-masculino-24-25-preta",
-  "createdAt": "2026-07-13T13:48:15Z",
-  "updatedAt": "2026-07-13T13:48:15Z",
+  "createdAt": "2026-07-09T22:52:26Z",
+  "updatedAt": "2026-07-09T22:52:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11066,
-      "createdAt": "2026-07-13T13:48:14Z",
-      "updatedAt": "2026-07-13T13:48:14Z"
+      "createdAt": "2026-07-09T22:52:25Z",
+      "updatedAt": "2026-07-09T22:52:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8346,
-      "createdAt": "2026-07-13T13:48:14Z",
-      "updatedAt": "2026-07-13T13:48:14Z"
+      "createdAt": "2026-07-09T22:52:25Z",
+      "updatedAt": "2026-07-09T22:52:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5718,
-      "createdAt": "2026-07-13T13:48:14Z",
-      "updatedAt": "2026-07-13T13:48:14Z"
+      "createdAt": "2026-07-09T22:52:25Z",
+      "updatedAt": "2026-07-09T22:52:25Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 58146,
-      "createdAt": "2026-07-13T13:48:15Z",
-      "updatedAt": "2026-07-13T13:48:15Z"
+      "createdAt": "2026-07-09T22:52:26Z",
+      "updatedAt": "2026-07-09T22:52:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 73382,
-      "createdAt": "2026-07-13T13:48:15Z",
-      "updatedAt": "2026-07-13T13:48:15Z"
+      "createdAt": "2026-07-09T22:52:26Z",
+      "updatedAt": "2026-07-09T22:52:26Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 6676,
-      "createdAt": "2026-07-13T13:48:15Z",
-      "updatedAt": "2026-07-13T13:48:15Z"
+      "createdAt": "2026-07-09T22:52:26Z",
+      "updatedAt": "2026-07-09T22:52:26Z"
     }
   ]
 }

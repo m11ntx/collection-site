@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-colombia-i-2014-adidas-masculina-amarela",
-  "createdAt": "2026-07-13T13:47:45Z",
-  "updatedAt": "2026-07-13T13:47:45Z",
+  "createdAt": "2026-07-09T16:41:30Z",
+  "updatedAt": "2026-07-09T16:41:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18666,
-      "createdAt": "2026-07-13T13:47:44Z",
-      "updatedAt": "2026-07-13T13:47:44Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8964,
-      "createdAt": "2026-07-13T13:47:45Z",
-      "updatedAt": "2026-07-13T13:47:45Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21320,
-      "createdAt": "2026-07-13T13:47:45Z",
-      "updatedAt": "2026-07-13T13:47:45Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 16574,
-      "createdAt": "2026-07-13T13:47:45Z",
-      "updatedAt": "2026-07-13T13:47:45Z"
+      "createdAt": "2026-07-09T16:41:30Z",
+      "updatedAt": "2026-07-09T16:41:30Z"
     }
   ]
 }

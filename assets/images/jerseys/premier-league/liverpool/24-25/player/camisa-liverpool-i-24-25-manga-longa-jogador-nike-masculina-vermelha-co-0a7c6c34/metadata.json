@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-liverpool-i-24-25-manga-longa-jogador-nike-masculina-vermelha-com-detalhes-em-branco",
-  "createdAt": "2026-07-13T13:43:17Z",
-  "updatedAt": "2026-07-13T13:43:17Z",
+  "createdAt": "2026-07-09T22:50:36Z",
+  "updatedAt": "2026-07-09T22:50:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18204,
-      "createdAt": "2026-07-13T13:43:17Z",
-      "updatedAt": "2026-07-13T13:43:17Z"
+      "createdAt": "2026-07-09T22:50:35Z",
+      "updatedAt": "2026-07-09T22:50:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18846,
-      "createdAt": "2026-07-13T13:43:17Z",
-      "updatedAt": "2026-07-13T13:43:17Z"
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17282,
-      "createdAt": "2026-07-13T13:43:17Z",
-      "updatedAt": "2026-07-13T13:43:17Z"
+      "createdAt": "2026-07-09T22:50:36Z",
+      "updatedAt": "2026-07-09T22:50:36Z"
     }
   ]
 }

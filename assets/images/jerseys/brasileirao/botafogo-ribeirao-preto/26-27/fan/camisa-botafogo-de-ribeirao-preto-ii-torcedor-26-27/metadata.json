@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-botafogo-de-ribeirao-preto-ii-torcedor-26-27",
+  "createdAt": "2026-07-14T19:16:37Z",
+  "updatedAt": "2026-07-14T19:16:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/botafogo-ribeirao-preto/26-27/fan/camisa-botafogo-de-ribeirao-preto-ii-torcedor-26-27/front.webp",
+      "hash": "854453e45a808e463eb5297cffad90a5bb0a1eb5cf0f2b85084e2b6ad39e5c6a",
+      "width": 480,
+      "height": 480,
+      "size": 10998,
+      "createdAt": "2026-07-14T19:16:37Z",
+      "updatedAt": "2026-07-14T19:16:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/botafogo-ribeirao-preto/26-27/fan/camisa-botafogo-de-ribeirao-preto-ii-torcedor-26-27/back.webp",
+      "hash": "8174f8d85f6e5b3b1fadbb255ffae2dedd7b25fc67671f659a38f391a7306a58",
+      "width": 480,
+      "height": 480,
+      "size": 8448,
+      "createdAt": "2026-07-14T19:16:37Z",
+      "updatedAt": "2026-07-14T19:16:37Z"
+    }
+  ]
+}

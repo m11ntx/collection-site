@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-manchester-united-98-99-masculina-umbro-branca-com-detalhes-em-preto-e-vermelho",
-  "createdAt": "2026-07-13T13:31:53Z",
-  "updatedAt": "2026-07-13T13:31:53Z",
+  "createdAt": "2026-07-09T16:43:55Z",
+  "updatedAt": "2026-07-09T16:43:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11878,
-      "createdAt": "2026-07-13T13:31:52Z",
-      "updatedAt": "2026-07-13T13:31:52Z"
+      "createdAt": "2026-07-09T16:43:54Z",
+      "updatedAt": "2026-07-09T16:43:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5350,
-      "createdAt": "2026-07-13T13:31:52Z",
-      "updatedAt": "2026-07-13T13:31:52Z"
+      "createdAt": "2026-07-09T16:43:54Z",
+      "updatedAt": "2026-07-09T16:43:54Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20270,
-      "createdAt": "2026-07-13T13:31:52Z",
-      "updatedAt": "2026-07-13T13:31:52Z"
+      "createdAt": "2026-07-09T16:43:54Z",
+      "updatedAt": "2026-07-09T16:43:54Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 60008,
-      "createdAt": "2026-07-13T13:31:53Z",
-      "updatedAt": "2026-07-13T13:31:53Z"
+      "createdAt": "2026-07-09T16:43:54Z",
+      "updatedAt": "2026-07-09T16:43:54Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 50206,
-      "createdAt": "2026-07-13T13:31:53Z",
-      "updatedAt": "2026-07-13T13:31:53Z"
+      "createdAt": "2026-07-09T16:43:54Z",
+      "updatedAt": "2026-07-09T16:43:54Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 13274,
-      "createdAt": "2026-07-13T13:31:53Z",
-      "updatedAt": "2026-07-13T13:31:53Z"
+      "createdAt": "2026-07-09T16:43:55Z",
+      "updatedAt": "2026-07-09T16:43:55Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 15676,
-      "createdAt": "2026-07-13T13:31:53Z",
-      "updatedAt": "2026-07-13T13:31:53Z"
+      "createdAt": "2026-07-09T16:43:55Z",
+      "updatedAt": "2026-07-09T16:43:55Z"
     }
   ]
 }

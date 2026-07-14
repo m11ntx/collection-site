@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-borussia-dortmund-pre-jogo-24-25-torcedor-puma-masculina-branca",
-  "createdAt": "2026-07-13T13:38:31Z",
-  "updatedAt": "2026-07-13T13:38:31Z",
+  "createdAt": "2026-07-07T02:48:27Z",
+  "updatedAt": "2026-07-07T02:48:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 3934,
-      "createdAt": "2026-07-13T13:38:30Z",
-      "updatedAt": "2026-07-13T13:38:30Z"
+      "createdAt": "2026-07-07T02:48:27Z",
+      "updatedAt": "2026-07-07T02:48:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2568,
-      "createdAt": "2026-07-13T13:38:30Z",
-      "updatedAt": "2026-07-13T13:38:30Z"
+      "createdAt": "2026-07-07T02:48:27Z",
+      "updatedAt": "2026-07-07T02:48:27Z"
     }
   ]
 }

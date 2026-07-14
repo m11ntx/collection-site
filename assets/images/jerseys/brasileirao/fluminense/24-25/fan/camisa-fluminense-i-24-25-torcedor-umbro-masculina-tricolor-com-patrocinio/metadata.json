@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-i-24-25-torcedor-umbro-masculina-tricolor-com-patrocinio",
-  "createdAt": "2026-07-13T13:36:47Z",
-  "updatedAt": "2026-07-13T13:36:47Z",
+  "createdAt": "2026-07-05T16:04:50Z",
+  "updatedAt": "2026-07-05T16:04:50Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16028,
-      "createdAt": "2026-07-13T13:36:47Z",
-      "updatedAt": "2026-07-13T13:36:47Z"
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12304,
-      "createdAt": "2026-07-13T13:36:47Z",
-      "updatedAt": "2026-07-13T13:36:47Z"
+      "createdAt": "2026-07-05T16:04:50Z",
+      "updatedAt": "2026-07-05T16:04:50Z"
     }
   ]
 }

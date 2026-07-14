@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-curacao-ii-26-27-amarelo",
-  "createdAt": "2026-07-13T13:51:05Z",
-  "updatedAt": "2026-07-13T13:51:05Z",
+  "createdAt": "2026-07-09T20:32:15Z",
+  "updatedAt": "2026-07-09T20:32:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 447,
       "size": 10914,
-      "createdAt": "2026-07-13T13:51:05Z",
-      "updatedAt": "2026-07-13T13:51:05Z"
+      "createdAt": "2026-07-09T20:32:14Z",
+      "updatedAt": "2026-07-09T20:32:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 461,
       "size": 8850,
-      "createdAt": "2026-07-13T13:51:05Z",
-      "updatedAt": "2026-07-13T13:51:05Z"
+      "createdAt": "2026-07-09T20:32:14Z",
+      "updatedAt": "2026-07-09T20:32:14Z"
     }
   ]
 }

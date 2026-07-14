@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-da-gama-i-25-26-torcedor-kappa-masculina-preta",
-  "createdAt": "2026-07-13T13:48:36Z",
-  "updatedAt": "2026-07-13T13:48:36Z",
+  "createdAt": "2026-07-05T16:03:41Z",
+  "updatedAt": "2026-07-05T16:03:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9002,
-      "createdAt": "2026-07-13T13:48:36Z",
-      "updatedAt": "2026-07-13T13:48:36Z"
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4812,
-      "createdAt": "2026-07-13T13:48:36Z",
-      "updatedAt": "2026-07-13T13:48:36Z"
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31252,
-      "createdAt": "2026-07-13T13:48:36Z",
-      "updatedAt": "2026-07-13T13:48:36Z"
+      "createdAt": "2026-07-05T16:03:41Z",
+      "updatedAt": "2026-07-05T16:03:41Z"
     }
   ]
 }

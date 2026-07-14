@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-treino-24-25-torcedor-adidas-masculina-cinza-e-preta",
-  "createdAt": "2026-07-13T13:33:47Z",
-  "updatedAt": "2026-07-13T13:33:47Z",
+  "createdAt": "2026-07-05T16:55:17Z",
+  "updatedAt": "2026-07-05T16:55:17Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4444,
-      "createdAt": "2026-07-13T13:33:47Z",
-      "updatedAt": "2026-07-13T13:33:47Z"
+      "createdAt": "2026-07-05T16:55:17Z",
+      "updatedAt": "2026-07-05T16:55:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3630,
-      "createdAt": "2026-07-13T13:33:47Z",
-      "updatedAt": "2026-07-13T13:33:47Z"
+      "createdAt": "2026-07-05T16:55:17Z",
+      "updatedAt": "2026-07-05T16:55:17Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33740,
-      "createdAt": "2026-07-13T13:33:47Z",
-      "updatedAt": "2026-07-13T13:33:47Z"
+      "createdAt": "2026-07-05T16:55:17Z",
+      "updatedAt": "2026-07-05T16:55:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 36604,
-      "createdAt": "2026-07-13T13:33:47Z",
-      "updatedAt": "2026-07-13T13:33:47Z"
+      "createdAt": "2026-07-05T16:55:17Z",
+      "updatedAt": "2026-07-05T16:55:17Z"
     }
   ]
 }

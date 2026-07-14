@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-25-26-third-jogador-adidas-masculina",
-  "createdAt": "2026-07-13T13:47:34Z",
-  "updatedAt": "2026-07-13T13:47:34Z",
+  "createdAt": "2026-07-09T03:06:40Z",
+  "updatedAt": "2026-07-09T03:06:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11876,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 20602,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19834,
-      "createdAt": "2026-07-13T13:47:34Z",
-      "updatedAt": "2026-07-13T13:47:34Z"
+      "createdAt": "2026-07-09T03:06:39Z",
+      "updatedAt": "2026-07-09T03:06:39Z"
     }
   ]
 }

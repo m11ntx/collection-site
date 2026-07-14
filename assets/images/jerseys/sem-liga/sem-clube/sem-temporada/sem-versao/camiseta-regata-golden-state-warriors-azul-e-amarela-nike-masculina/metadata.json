@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-golden-state-warriors-azul-e-amarela-nike-masculina",
-  "createdAt": "2026-07-13T13:24:37Z",
-  "updatedAt": "2026-07-13T13:24:37Z",
+  "createdAt": "2026-07-09T20:30:40Z",
+  "updatedAt": "2026-07-09T20:30:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17646,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:39Z",
+      "updatedAt": "2026-07-09T20:30:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14352,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:39Z",
+      "updatedAt": "2026-07-09T20:30:39Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16072,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:39Z",
+      "updatedAt": "2026-07-09T20:30:39Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24302,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:40Z",
+      "updatedAt": "2026-07-09T20:30:40Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15846,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:40Z",
+      "updatedAt": "2026-07-09T20:30:40Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 33604,
-      "createdAt": "2026-07-13T13:24:37Z",
-      "updatedAt": "2026-07-13T13:24:37Z"
+      "createdAt": "2026-07-09T20:30:40Z",
+      "updatedAt": "2026-07-09T20:30:40Z"
     }
   ]
 }

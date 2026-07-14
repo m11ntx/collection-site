@@ -1,7 +1,7 @@
 {
   "productId": "source-short-everton-i-24-25-masculino-castore-azul",
-  "createdAt": "2026-07-13T13:44:01Z",
-  "updatedAt": "2026-07-13T13:44:01Z",
+  "createdAt": "2026-07-09T20:44:20Z",
+  "updatedAt": "2026-07-09T20:44:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8122,
-      "createdAt": "2026-07-13T13:44:00Z",
-      "updatedAt": "2026-07-13T13:44:00Z"
+      "createdAt": "2026-07-09T20:44:19Z",
+      "updatedAt": "2026-07-09T20:44:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9274,
-      "createdAt": "2026-07-13T13:44:00Z",
-      "updatedAt": "2026-07-13T13:44:00Z"
+      "createdAt": "2026-07-09T20:44:19Z",
+      "updatedAt": "2026-07-09T20:44:19Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28832,
-      "createdAt": "2026-07-13T13:44:01Z",
-      "updatedAt": "2026-07-13T13:44:01Z"
+      "createdAt": "2026-07-09T20:44:20Z",
+      "updatedAt": "2026-07-09T20:44:20Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30002,
-      "createdAt": "2026-07-13T13:44:01Z",
-      "updatedAt": "2026-07-13T13:44:01Z"
+      "createdAt": "2026-07-09T20:44:20Z",
+      "updatedAt": "2026-07-09T20:44:20Z"
     }
   ]
 }

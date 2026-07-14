@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-jamaica-retro-1998-amarela-kappa",
-  "createdAt": "2026-07-13T13:27:38Z",
-  "updatedAt": "2026-07-13T13:27:38Z",
+  "createdAt": "2026-07-09T16:38:53Z",
+  "updatedAt": "2026-07-09T16:38:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17098,
-      "createdAt": "2026-07-13T13:27:36Z",
-      "updatedAt": "2026-07-13T13:27:36Z"
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11902,
-      "createdAt": "2026-07-13T13:27:36Z",
-      "updatedAt": "2026-07-13T13:27:36Z"
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27098,
-      "createdAt": "2026-07-13T13:27:37Z",
-      "updatedAt": "2026-07-13T13:27:37Z"
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19678,
-      "createdAt": "2026-07-13T13:27:37Z",
-      "updatedAt": "2026-07-13T13:27:37Z"
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 24098,
-      "createdAt": "2026-07-13T13:27:37Z",
-      "updatedAt": "2026-07-13T13:27:37Z"
+      "createdAt": "2026-07-09T16:38:52Z",
+      "updatedAt": "2026-07-09T16:38:52Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 48204,
-      "createdAt": "2026-07-13T13:27:37Z",
-      "updatedAt": "2026-07-13T13:27:37Z"
+      "createdAt": "2026-07-09T16:38:53Z",
+      "updatedAt": "2026-07-09T16:38:53Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 10932,
-      "createdAt": "2026-07-13T13:27:38Z",
-      "updatedAt": "2026-07-13T13:27:38Z"
+      "createdAt": "2026-07-09T16:38:53Z",
+      "updatedAt": "2026-07-09T16:38:53Z"
     }
   ]
 }

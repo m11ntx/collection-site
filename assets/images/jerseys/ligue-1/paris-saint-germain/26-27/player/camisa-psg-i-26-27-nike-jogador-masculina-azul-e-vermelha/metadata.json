@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-psg-i-26-27-nike-jogador-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-13T13:51:42Z",
-  "updatedAt": "2026-07-13T13:51:42Z",
+  "createdAt": "2026-07-07T01:33:42Z",
+  "updatedAt": "2026-07-07T01:33:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16298,
-      "createdAt": "2026-07-13T13:51:42Z",
-      "updatedAt": "2026-07-13T13:51:42Z"
+      "createdAt": "2026-07-07T01:33:40Z",
+      "updatedAt": "2026-07-07T01:33:40Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 19772,
-      "createdAt": "2026-07-13T13:51:42Z",
-      "updatedAt": "2026-07-13T13:51:42Z"
+      "createdAt": "2026-07-07T01:33:41Z",
+      "updatedAt": "2026-07-07T01:33:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 34020,
-      "createdAt": "2026-07-13T13:51:42Z",
-      "updatedAt": "2026-07-13T13:51:42Z"
+      "createdAt": "2026-07-07T01:33:42Z",
+      "updatedAt": "2026-07-07T01:33:42Z"
     }
   ]
 }

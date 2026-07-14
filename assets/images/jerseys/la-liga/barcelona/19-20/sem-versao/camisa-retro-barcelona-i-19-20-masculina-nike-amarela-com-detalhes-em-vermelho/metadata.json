@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-barcelona-i-19-20-masculina-nike-amarela-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-13T13:32:32Z",
-  "updatedAt": "2026-07-13T13:32:32Z",
+  "createdAt": "2026-07-09T16:41:10Z",
+  "updatedAt": "2026-07-09T16:41:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13578,
-      "createdAt": "2026-07-13T13:32:31Z",
-      "updatedAt": "2026-07-13T13:32:31Z"
+      "createdAt": "2026-07-09T16:41:09Z",
+      "updatedAt": "2026-07-09T16:41:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6734,
-      "createdAt": "2026-07-13T13:32:31Z",
-      "updatedAt": "2026-07-13T13:32:31Z"
+      "createdAt": "2026-07-09T16:41:09Z",
+      "updatedAt": "2026-07-09T16:41:09Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16952,
-      "createdAt": "2026-07-13T13:32:31Z",
-      "updatedAt": "2026-07-13T13:32:31Z"
+      "createdAt": "2026-07-09T16:41:09Z",
+      "updatedAt": "2026-07-09T16:41:09Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 46524,
-      "createdAt": "2026-07-13T13:32:31Z",
-      "updatedAt": "2026-07-13T13:32:31Z"
+      "createdAt": "2026-07-09T16:41:09Z",
+      "updatedAt": "2026-07-09T16:41:09Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 48094,
-      "createdAt": "2026-07-13T13:32:31Z",
-      "updatedAt": "2026-07-13T13:32:31Z"
+      "createdAt": "2026-07-09T16:41:09Z",
+      "updatedAt": "2026-07-09T16:41:09Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 14854,
-      "createdAt": "2026-07-13T13:32:32Z",
-      "updatedAt": "2026-07-13T13:32:32Z"
+      "createdAt": "2026-07-09T16:41:10Z",
+      "updatedAt": "2026-07-09T16:41:10Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 12258,
-      "createdAt": "2026-07-13T13:32:32Z",
-      "updatedAt": "2026-07-13T13:32:32Z"
+      "createdAt": "2026-07-09T16:41:10Z",
+      "updatedAt": "2026-07-09T16:41:10Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-ajax-i-24-25-adidas-vermelho-e-branco",
-  "createdAt": "2026-07-13T13:41:18Z",
-  "updatedAt": "2026-07-13T13:41:18Z",
+  "createdAt": "2026-07-09T20:44:56Z",
+  "updatedAt": "2026-07-09T20:44:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5960,
-      "createdAt": "2026-07-13T13:41:18Z",
-      "updatedAt": "2026-07-13T13:41:18Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5148,
-      "createdAt": "2026-07-13T13:41:18Z",
-      "updatedAt": "2026-07-13T13:41:18Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 2636,
-      "createdAt": "2026-07-13T13:41:18Z",
-      "updatedAt": "2026-07-13T13:41:18Z"
+      "createdAt": "2026-07-09T20:44:56Z",
+      "updatedAt": "2026-07-09T20:44:56Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-treino-atletico-mineiro-tiro-24-todos-os-patrocinios-preta",
-  "createdAt": "2026-07-13T13:46:38Z",
-  "updatedAt": "2026-07-13T13:46:38Z",
+  "createdAt": "2026-07-05T16:55:49Z",
+  "updatedAt": "2026-07-05T16:55:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11270,
-      "createdAt": "2026-07-13T13:46:37Z",
-      "updatedAt": "2026-07-13T13:46:37Z"
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8572,
-      "createdAt": "2026-07-13T13:46:38Z",
-      "updatedAt": "2026-07-13T13:46:38Z"
+      "createdAt": "2026-07-05T16:55:49Z",
+      "updatedAt": "2026-07-05T16:55:49Z"
     }
   ]
 }

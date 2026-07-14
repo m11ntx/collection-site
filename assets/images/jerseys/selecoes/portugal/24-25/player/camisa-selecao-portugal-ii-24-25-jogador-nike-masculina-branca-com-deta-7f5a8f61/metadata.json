@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-portugal-ii-24-25-jogador-nike-masculina-branca-com-detalhes-em-azul-e-preto",
-  "createdAt": "2026-07-13T13:30:51Z",
-  "updatedAt": "2026-07-13T13:30:51Z",
+  "createdAt": "2026-07-09T03:14:01Z",
+  "updatedAt": "2026-07-09T03:14:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 28102,
-      "createdAt": "2026-07-13T13:30:51Z",
-      "updatedAt": "2026-07-13T13:30:51Z"
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 26590,
-      "createdAt": "2026-07-13T13:30:51Z",
-      "updatedAt": "2026-07-13T13:30:51Z"
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 50472,
-      "createdAt": "2026-07-13T13:30:51Z",
-      "updatedAt": "2026-07-13T13:30:51Z"
+      "createdAt": "2026-07-09T03:14:00Z",
+      "updatedAt": "2026-07-09T03:14:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 52204,
-      "createdAt": "2026-07-13T13:30:51Z",
-      "updatedAt": "2026-07-13T13:30:51Z"
+      "createdAt": "2026-07-09T03:14:01Z",
+      "updatedAt": "2026-07-09T03:14:01Z"
     }
   ]
 }

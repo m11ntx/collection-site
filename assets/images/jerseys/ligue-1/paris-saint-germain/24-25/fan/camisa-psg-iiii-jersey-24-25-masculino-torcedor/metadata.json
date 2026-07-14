@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-psg-iiii-jersey-24-25-masculino-torcedor",
-  "createdAt": "2026-07-13T13:46:56Z",
-  "updatedAt": "2026-07-13T13:46:56Z",
+  "createdAt": "2026-07-07T01:33:45Z",
+  "updatedAt": "2026-07-07T01:33:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10120,
-      "createdAt": "2026-07-13T13:46:55Z",
-      "updatedAt": "2026-07-13T13:46:55Z"
+      "createdAt": "2026-07-07T01:33:44Z",
+      "updatedAt": "2026-07-07T01:33:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7012,
-      "createdAt": "2026-07-13T13:46:55Z",
-      "updatedAt": "2026-07-13T13:46:55Z"
+      "createdAt": "2026-07-07T01:33:45Z",
+      "updatedAt": "2026-07-07T01:33:45Z"
     }
   ]
 }

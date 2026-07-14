@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-home-i-26-27-torcedor-masculina-patrocinios",
-  "createdAt": "2026-07-13T13:49:11Z",
-  "updatedAt": "2026-07-13T13:49:11Z",
+  "createdAt": "2026-07-05T06:09:06Z",
+  "updatedAt": "2026-07-05T06:09:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13034,
-      "createdAt": "2026-07-13T13:49:11Z",
-      "updatedAt": "2026-07-13T13:49:11Z"
+      "createdAt": "2026-07-05T06:09:05Z",
+      "updatedAt": "2026-07-05T06:09:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12066,
-      "createdAt": "2026-07-13T13:49:11Z",
-      "updatedAt": "2026-07-13T13:49:11Z"
+      "createdAt": "2026-07-05T06:09:06Z",
+      "updatedAt": "2026-07-05T06:09:06Z"
     }
   ]
 }

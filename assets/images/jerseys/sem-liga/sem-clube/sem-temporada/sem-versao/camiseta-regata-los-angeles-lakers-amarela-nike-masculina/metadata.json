@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-lakers-amarela-nike-masculina",
-  "createdAt": "2026-07-13T13:24:44Z",
-  "updatedAt": "2026-07-13T13:24:44Z",
+  "createdAt": "2026-07-09T20:30:49Z",
+  "updatedAt": "2026-07-09T20:30:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15542,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 24426,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26510,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:48Z",
+      "updatedAt": "2026-07-09T20:30:48Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 28048,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 24346,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 26378,
-      "createdAt": "2026-07-13T13:24:44Z",
-      "updatedAt": "2026-07-13T13:24:44Z"
+      "createdAt": "2026-07-09T20:30:49Z",
+      "updatedAt": "2026-07-09T20:30:49Z"
     }
   ]
 }

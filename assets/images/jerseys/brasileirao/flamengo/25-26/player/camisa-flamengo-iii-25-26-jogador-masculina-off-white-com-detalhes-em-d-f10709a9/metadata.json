@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-iii-25-26-jogador-masculina-off-white-com-detalhes-em-dourado-preto-e-vermelho",
-  "createdAt": "2026-07-13T13:48:27Z",
-  "updatedAt": "2026-07-13T13:48:27Z",
+  "createdAt": "2026-07-09T22:12:39Z",
+  "updatedAt": "2026-07-09T22:12:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11518,
-      "createdAt": "2026-07-13T13:48:26Z",
-      "updatedAt": "2026-07-13T13:48:26Z"
+      "createdAt": "2026-07-09T22:12:38Z",
+      "updatedAt": "2026-07-09T22:12:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 43944,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-09T22:12:38Z",
+      "updatedAt": "2026-07-09T22:12:38Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10132,
-      "createdAt": "2026-07-13T13:48:27Z",
-      "updatedAt": "2026-07-13T13:48:27Z"
+      "createdAt": "2026-07-09T22:12:38Z",
+      "updatedAt": "2026-07-09T22:12:38Z"
     }
   ]
 }

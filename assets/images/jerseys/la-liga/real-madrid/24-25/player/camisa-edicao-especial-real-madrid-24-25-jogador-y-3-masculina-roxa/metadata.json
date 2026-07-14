@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-edicao-especial-real-madrid-24-25-jogador-y-3-masculina-roxa",
-  "createdAt": "2026-07-13T13:40:00Z",
-  "updatedAt": "2026-07-13T13:40:00Z",
+  "createdAt": "2026-07-09T03:07:05Z",
+  "updatedAt": "2026-07-09T03:07:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20034,
-      "createdAt": "2026-07-13T13:39:59Z",
-      "updatedAt": "2026-07-13T13:39:59Z"
+      "createdAt": "2026-07-09T03:07:04Z",
+      "updatedAt": "2026-07-09T03:07:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14184,
-      "createdAt": "2026-07-13T13:39:59Z",
-      "updatedAt": "2026-07-13T13:39:59Z"
+      "createdAt": "2026-07-09T03:07:04Z",
+      "updatedAt": "2026-07-09T03:07:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23676,
-      "createdAt": "2026-07-13T13:39:59Z",
-      "updatedAt": "2026-07-13T13:39:59Z"
+      "createdAt": "2026-07-09T03:07:05Z",
+      "updatedAt": "2026-07-09T03:07:05Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 53206,
-      "createdAt": "2026-07-13T13:39:59Z",
-      "updatedAt": "2026-07-13T13:39:59Z"
+      "createdAt": "2026-07-09T03:07:05Z",
+      "updatedAt": "2026-07-09T03:07:05Z"
     }
   ]
 }

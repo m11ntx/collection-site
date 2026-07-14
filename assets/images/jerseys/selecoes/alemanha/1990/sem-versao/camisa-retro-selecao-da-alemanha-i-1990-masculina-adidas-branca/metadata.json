@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-alemanha-i-1990-masculina-adidas-branca",
-  "createdAt": "2026-07-13T13:32:40Z",
-  "updatedAt": "2026-07-13T13:32:40Z",
+  "createdAt": "2026-07-09T16:40:48Z",
+  "updatedAt": "2026-07-09T16:40:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9006,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5810,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8192,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 7446,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 16612,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 47560,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 57766,
-      "createdAt": "2026-07-13T13:32:40Z",
-      "updatedAt": "2026-07-13T13:32:40Z"
+      "createdAt": "2026-07-09T16:40:48Z",
+      "updatedAt": "2026-07-09T16:40:48Z"
     }
   ]
 }

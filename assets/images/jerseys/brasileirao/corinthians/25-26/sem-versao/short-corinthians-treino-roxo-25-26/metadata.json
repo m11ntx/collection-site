@@ -1,7 +1,7 @@
 {
   "productId": "source-short-corinthians-treino-roxo-25-26",
-  "createdAt": "2026-07-13T13:47:01Z",
-  "updatedAt": "2026-07-13T13:47:01Z",
+  "createdAt": "2026-07-09T22:52:05Z",
+  "updatedAt": "2026-07-09T22:52:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5764,
-      "createdAt": "2026-07-13T13:47:01Z",
-      "updatedAt": "2026-07-13T13:47:01Z"
+      "createdAt": "2026-07-09T22:52:04Z",
+      "updatedAt": "2026-07-09T22:52:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4296,
-      "createdAt": "2026-07-13T13:47:01Z",
-      "updatedAt": "2026-07-13T13:47:01Z"
+      "createdAt": "2026-07-09T22:52:05Z",
+      "updatedAt": "2026-07-09T22:52:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5430,
-      "createdAt": "2026-07-13T13:47:01Z",
-      "updatedAt": "2026-07-13T13:47:01Z"
+      "createdAt": "2026-07-09T22:52:05Z",
+      "updatedAt": "2026-07-09T22:52:05Z"
     }
   ]
 }

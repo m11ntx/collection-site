@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-de-treino-sc-internacional-26-27-adidas-masculina-torcedor",
-  "createdAt": "2026-07-13T13:51:40Z",
-  "updatedAt": "2026-07-13T13:51:40Z",
+  "createdAt": "2026-07-05T05:51:08Z",
+  "updatedAt": "2026-07-05T05:51:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 526,
       "size": 15576,
-      "createdAt": "2026-07-13T13:51:39Z",
-      "updatedAt": "2026-07-13T13:51:39Z"
+      "createdAt": "2026-07-05T05:51:08Z",
+      "updatedAt": "2026-07-05T05:51:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 433,
       "size": 10338,
-      "createdAt": "2026-07-13T13:51:40Z",
-      "updatedAt": "2026-07-13T13:51:40Z"
+      "createdAt": "2026-07-05T05:51:08Z",
+      "updatedAt": "2026-07-05T05:51:08Z"
     }
   ]
 }

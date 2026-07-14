@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-inglaterra-ii-25-26-torcedor-nike-feminina-preta",
+  "createdAt": "2026-07-14T19:11:06Z",
+  "updatedAt": "2026-07-14T19:11:06Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/25-26/fan/camisa-selecao-inglaterra-ii-25-26-torcedor-nike-feminina-preta/front.webp",
+      "hash": "9f7ac9bb0bfed856764a7bcd600e6ea9d50d0618b5e78f0cefebc771f7bd2e01",
+      "width": 480,
+      "height": 480,
+      "size": 6518,
+      "createdAt": "2026-07-14T19:11:05Z",
+      "updatedAt": "2026-07-14T19:11:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/25-26/fan/camisa-selecao-inglaterra-ii-25-26-torcedor-nike-feminina-preta/back.webp",
+      "hash": "6309d0ae54bcee34999a4a69111a3ba257e2938aa34f0b43472303188cc0968c",
+      "width": 480,
+      "height": 480,
+      "size": 4754,
+      "createdAt": "2026-07-14T19:11:06Z",
+      "updatedAt": "2026-07-14T19:11:06Z"
+    }
+  ]
+}

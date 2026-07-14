@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-i-25-26-jogador-umbro-masculina-tricolor",
-  "createdAt": "2026-07-13T13:47:17Z",
-  "updatedAt": "2026-07-13T13:47:17Z",
+  "createdAt": "2026-07-09T02:59:22Z",
+  "updatedAt": "2026-07-09T02:59:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13066,
-      "createdAt": "2026-07-13T13:47:17Z",
-      "updatedAt": "2026-07-13T13:47:17Z"
+      "createdAt": "2026-07-09T02:59:22Z",
+      "updatedAt": "2026-07-09T02:59:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13162,
-      "createdAt": "2026-07-13T13:47:17Z",
-      "updatedAt": "2026-07-13T13:47:17Z"
+      "createdAt": "2026-07-09T02:59:22Z",
+      "updatedAt": "2026-07-09T02:59:22Z"
     }
   ]
 }

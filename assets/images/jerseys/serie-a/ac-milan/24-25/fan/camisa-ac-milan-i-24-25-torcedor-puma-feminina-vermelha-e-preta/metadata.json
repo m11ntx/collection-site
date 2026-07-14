@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ac-milan-i-24-25-torcedor-puma-feminina-vermelha-e-preta",
-  "createdAt": "2026-07-13T13:37:24Z",
-  "updatedAt": "2026-07-13T13:37:24Z",
+  "createdAt": "2026-07-09T05:34:59Z",
+  "updatedAt": "2026-07-09T05:34:59Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12164,
-      "createdAt": "2026-07-13T13:37:24Z",
-      "updatedAt": "2026-07-13T13:37:24Z"
+      "createdAt": "2026-07-09T05:34:59Z",
+      "updatedAt": "2026-07-09T05:34:59Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6904,
-      "createdAt": "2026-07-13T13:37:24Z",
-      "updatedAt": "2026-07-13T13:37:24Z"
+      "createdAt": "2026-07-09T05:34:59Z",
+      "updatedAt": "2026-07-09T05:34:59Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30420,
-      "createdAt": "2026-07-13T13:37:24Z",
-      "updatedAt": "2026-07-13T13:37:24Z"
+      "createdAt": "2026-07-09T05:34:59Z",
+      "updatedAt": "2026-07-09T05:34:59Z"
     }
   ]
 }

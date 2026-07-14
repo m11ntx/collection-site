@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-iii-25-26-torcedor-puma-masculina-verde",
-  "createdAt": "2026-07-13T13:48:54Z",
-  "updatedAt": "2026-07-13T13:48:54Z",
+  "createdAt": "2026-07-07T02:49:28Z",
+  "updatedAt": "2026-07-07T02:49:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 26586,
-      "createdAt": "2026-07-13T13:48:53Z",
-      "updatedAt": "2026-07-13T13:48:53Z"
+      "createdAt": "2026-07-07T02:49:27Z",
+      "updatedAt": "2026-07-07T02:49:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7812,
-      "createdAt": "2026-07-13T13:48:54Z",
-      "updatedAt": "2026-07-13T13:48:54Z"
+      "createdAt": "2026-07-07T02:49:28Z",
+      "updatedAt": "2026-07-07T02:49:28Z"
     }
   ]
 }

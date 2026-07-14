@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-corta-vento-selecao-franca-24-25-masculina-nike-azul",
-  "createdAt": "2026-07-13T13:40:20Z",
-  "updatedAt": "2026-07-13T13:40:20Z",
+  "createdAt": "2026-07-09T20:45:17Z",
+  "updatedAt": "2026-07-09T20:45:17Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13180,
-      "createdAt": "2026-07-13T13:40:20Z",
-      "updatedAt": "2026-07-13T13:40:20Z"
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9736,
-      "createdAt": "2026-07-13T13:40:20Z",
-      "updatedAt": "2026-07-13T13:40:20Z"
+      "createdAt": "2026-07-09T20:45:16Z",
+      "updatedAt": "2026-07-09T20:45:16Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26072,
-      "createdAt": "2026-07-13T13:40:20Z",
-      "updatedAt": "2026-07-13T13:40:20Z"
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30468,
-      "createdAt": "2026-07-13T13:40:20Z",
-      "updatedAt": "2026-07-13T13:40:20Z"
+      "createdAt": "2026-07-09T20:45:17Z",
+      "updatedAt": "2026-07-09T20:45:17Z"
     }
   ]
 }

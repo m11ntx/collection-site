@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-santos-masculino-2023",
-  "createdAt": "2026-07-13T13:47:10Z",
-  "updatedAt": "2026-07-13T13:47:10Z",
+  "createdAt": "2026-07-05T03:00:42Z",
+  "updatedAt": "2026-07-05T03:00:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7940,
-      "createdAt": "2026-07-13T13:47:10Z",
-      "updatedAt": "2026-07-13T13:47:10Z"
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7366,
-      "createdAt": "2026-07-13T13:47:10Z",
-      "updatedAt": "2026-07-13T13:47:10Z"
+      "createdAt": "2026-07-05T03:00:42Z",
+      "updatedAt": "2026-07-05T03:00:42Z"
     }
   ]
 }

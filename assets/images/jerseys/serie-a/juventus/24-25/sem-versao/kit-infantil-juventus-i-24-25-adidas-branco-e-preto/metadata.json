@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-juventus-i-24-25-adidas-branco-e-preto",
-  "createdAt": "2026-07-13T13:41:21Z",
-  "updatedAt": "2026-07-13T13:41:21Z",
+  "createdAt": "2026-07-09T17:17:53Z",
+  "updatedAt": "2026-07-09T17:17:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6874,
-      "createdAt": "2026-07-13T13:41:20Z",
-      "updatedAt": "2026-07-13T13:41:20Z"
+      "createdAt": "2026-07-09T17:17:53Z",
+      "updatedAt": "2026-07-09T17:17:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5860,
-      "createdAt": "2026-07-13T13:41:20Z",
-      "updatedAt": "2026-07-13T13:41:20Z"
+      "createdAt": "2026-07-09T17:17:53Z",
+      "updatedAt": "2026-07-09T17:17:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 3826,
-      "createdAt": "2026-07-13T13:41:21Z",
-      "updatedAt": "2026-07-13T13:41:21Z"
+      "createdAt": "2026-07-09T17:17:53Z",
+      "updatedAt": "2026-07-09T17:17:53Z"
     }
   ]
 }

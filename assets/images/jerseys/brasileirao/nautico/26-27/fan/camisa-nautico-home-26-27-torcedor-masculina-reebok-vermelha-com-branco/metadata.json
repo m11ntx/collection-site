@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-nautico-home-26-27-torcedor-masculina-reebok-vermelha-com-branco",
-  "createdAt": "2026-07-13T13:51:33Z",
-  "updatedAt": "2026-07-13T13:51:33Z",
+  "createdAt": "2026-07-05T16:55:32Z",
+  "updatedAt": "2026-07-12T01:12:17Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11136,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-05T16:55:32Z",
+      "updatedAt": "2026-07-12T01:12:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9512,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-05T16:55:32Z",
+      "updatedAt": "2026-07-12T01:12:16Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 53402,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-05T16:55:32Z",
+      "updatedAt": "2026-07-12T01:12:16Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 41660,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-05T16:55:32Z",
+      "updatedAt": "2026-07-12T01:12:16Z"
     }
   ]
 }

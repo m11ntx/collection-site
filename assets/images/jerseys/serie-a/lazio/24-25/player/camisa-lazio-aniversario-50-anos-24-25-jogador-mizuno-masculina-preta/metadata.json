@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-lazio-aniversario-50-anos-24-25-jogador-mizuno-masculina-preta",
-  "createdAt": "2026-07-13T13:40:09Z",
-  "updatedAt": "2026-07-13T13:40:09Z",
+  "createdAt": "2026-07-09T03:07:16Z",
+  "updatedAt": "2026-07-09T03:07:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7144,
-      "createdAt": "2026-07-13T13:40:09Z",
-      "updatedAt": "2026-07-13T13:40:09Z"
+      "createdAt": "2026-07-09T03:07:15Z",
+      "updatedAt": "2026-07-09T03:07:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9368,
-      "createdAt": "2026-07-13T13:40:09Z",
-      "updatedAt": "2026-07-13T13:40:09Z"
+      "createdAt": "2026-07-09T03:07:15Z",
+      "updatedAt": "2026-07-09T03:07:15Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8168,
-      "createdAt": "2026-07-13T13:40:09Z",
-      "updatedAt": "2026-07-13T13:40:09Z"
+      "createdAt": "2026-07-09T03:07:16Z",
+      "updatedAt": "2026-07-09T03:07:16Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 6948,
-      "createdAt": "2026-07-13T13:40:09Z",
-      "updatedAt": "2026-07-13T13:40:09Z"
+      "createdAt": "2026-07-09T03:07:16Z",
+      "updatedAt": "2026-07-09T03:07:16Z"
     }
   ]
 }

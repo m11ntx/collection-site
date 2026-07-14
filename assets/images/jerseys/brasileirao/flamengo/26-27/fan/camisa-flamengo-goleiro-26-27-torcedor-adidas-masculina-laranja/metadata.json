@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-goleiro-26-27-torcedor-adidas-masculina-laranja",
-  "createdAt": "2026-07-13T13:51:38Z",
-  "updatedAt": "2026-07-13T13:51:38Z",
+  "createdAt": "2026-07-05T06:09:04Z",
+  "updatedAt": "2026-07-05T06:09:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10396,
-      "createdAt": "2026-07-13T13:51:37Z",
-      "updatedAt": "2026-07-13T13:51:37Z"
+      "createdAt": "2026-07-05T06:09:04Z",
+      "updatedAt": "2026-07-05T06:09:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7808,
-      "createdAt": "2026-07-13T13:51:38Z",
-      "updatedAt": "2026-07-13T13:51:38Z"
+      "createdAt": "2026-07-05T06:09:04Z",
+      "updatedAt": "2026-07-05T06:09:04Z"
     }
   ]
 }

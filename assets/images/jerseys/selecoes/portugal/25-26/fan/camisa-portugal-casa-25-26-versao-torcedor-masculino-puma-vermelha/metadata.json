@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-portugal-casa-25-26-versao-torcedor-masculino-puma-vermelha",
-  "createdAt": "2026-07-13T13:46:09Z",
-  "updatedAt": "2026-07-13T13:46:09Z",
+  "createdAt": "2026-07-07T04:08:44Z",
+  "updatedAt": "2026-07-07T04:08:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6392,
-      "createdAt": "2026-07-13T13:46:07Z",
-      "updatedAt": "2026-07-13T13:46:07Z"
+      "createdAt": "2026-07-07T04:08:44Z",
+      "updatedAt": "2026-07-07T04:08:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5008,
-      "createdAt": "2026-07-13T13:46:08Z",
-      "updatedAt": "2026-07-13T13:46:08Z"
+      "createdAt": "2026-07-07T04:08:44Z",
+      "updatedAt": "2026-07-07T04:08:44Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12618,
-      "createdAt": "2026-07-13T13:46:08Z",
-      "updatedAt": "2026-07-13T13:46:08Z"
+      "createdAt": "2026-07-07T04:08:44Z",
+      "updatedAt": "2026-07-07T04:08:44Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 34072,
-      "createdAt": "2026-07-13T13:46:08Z",
-      "updatedAt": "2026-07-13T13:46:08Z"
+      "createdAt": "2026-07-07T04:08:44Z",
+      "updatedAt": "2026-07-07T04:08:44Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 31532,
-      "createdAt": "2026-07-13T13:46:09Z",
-      "updatedAt": "2026-07-13T13:46:09Z"
+      "createdAt": "2026-07-07T04:08:44Z",
+      "updatedAt": "2026-07-07T04:08:44Z"
     }
   ]
 }

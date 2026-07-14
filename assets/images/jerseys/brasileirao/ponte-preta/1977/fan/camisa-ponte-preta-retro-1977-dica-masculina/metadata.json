@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ponte-preta-retro-1977-dica-masculina",
-  "createdAt": "2026-07-13T13:48:38Z",
-  "updatedAt": "2026-07-13T13:48:38Z",
+  "createdAt": "2026-07-09T21:32:22Z",
+  "updatedAt": "2026-07-09T21:32:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11332,
-      "createdAt": "2026-07-13T13:48:38Z",
-      "updatedAt": "2026-07-13T13:48:38Z"
+      "createdAt": "2026-07-09T21:32:22Z",
+      "updatedAt": "2026-07-09T21:32:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8150,
-      "createdAt": "2026-07-13T13:48:38Z",
-      "updatedAt": "2026-07-13T13:48:38Z"
+      "createdAt": "2026-07-09T21:32:22Z",
+      "updatedAt": "2026-07-09T21:32:22Z"
     }
   ]
 }

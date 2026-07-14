@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fluminense-i-25-26-feminina-umbro-tricolor",
-  "createdAt": "2026-07-13T13:48:03Z",
-  "updatedAt": "2026-07-13T13:48:03Z",
+  "createdAt": "2026-07-09T05:35:26Z",
+  "updatedAt": "2026-07-09T05:35:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19880,
-      "createdAt": "2026-07-13T13:48:03Z",
-      "updatedAt": "2026-07-13T13:48:03Z"
+      "createdAt": "2026-07-09T05:35:25Z",
+      "updatedAt": "2026-07-09T05:35:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15862,
-      "createdAt": "2026-07-13T13:48:03Z",
-      "updatedAt": "2026-07-13T13:48:03Z"
+      "createdAt": "2026-07-09T05:35:26Z",
+      "updatedAt": "2026-07-09T05:35:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 40406,
-      "createdAt": "2026-07-13T13:48:03Z",
-      "updatedAt": "2026-07-13T13:48:03Z"
+      "createdAt": "2026-07-09T05:35:26Z",
+      "updatedAt": "2026-07-09T05:35:26Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-fc-heidenheim-i-24-25-torcedor-puma-masculina-vermelha-com-detalhes-em-azul-e-branco",
-  "createdAt": "2026-07-13T13:36:38Z",
-  "updatedAt": "2026-07-13T13:36:38Z",
+  "createdAt": "2026-07-09T22:09:28Z",
+  "updatedAt": "2026-07-09T22:09:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17620,
-      "createdAt": "2026-07-13T13:36:37Z",
-      "updatedAt": "2026-07-13T13:36:37Z"
+      "createdAt": "2026-07-09T22:09:27Z",
+      "updatedAt": "2026-07-09T22:09:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7994,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 30996,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30286,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 70038,
-      "createdAt": "2026-07-13T13:36:38Z",
-      "updatedAt": "2026-07-13T13:36:38Z"
+      "createdAt": "2026-07-09T22:09:28Z",
+      "updatedAt": "2026-07-09T22:09:28Z"
     }
   ]
 }

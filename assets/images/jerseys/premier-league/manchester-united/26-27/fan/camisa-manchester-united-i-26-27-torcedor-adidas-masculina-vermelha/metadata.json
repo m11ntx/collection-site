@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha",
-  "createdAt": "2026-07-13T13:51:30Z",
-  "updatedAt": "2026-07-13T13:51:30Z",
+  "createdAt": "2026-07-07T03:14:56Z",
+  "updatedAt": "2026-07-07T03:14:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10318,
-      "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "createdAt": "2026-07-07T03:14:55Z",
+      "updatedAt": "2026-07-07T03:14:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6216,
-      "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "createdAt": "2026-07-07T03:14:56Z",
+      "updatedAt": "2026-07-07T03:14:56Z"
     }
   ]
 }

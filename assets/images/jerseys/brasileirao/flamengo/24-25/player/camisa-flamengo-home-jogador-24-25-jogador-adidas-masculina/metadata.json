@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-home-jogador-24-25-jogador-adidas-masculina",
-  "createdAt": "2026-07-13T13:46:37Z",
-  "updatedAt": "2026-07-13T13:46:37Z",
+  "createdAt": "2026-07-09T02:59:18Z",
+  "updatedAt": "2026-07-09T02:59:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10782,
-      "createdAt": "2026-07-13T13:46:37Z",
-      "updatedAt": "2026-07-13T13:46:37Z"
+      "createdAt": "2026-07-09T02:59:17Z",
+      "updatedAt": "2026-07-09T02:59:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9898,
-      "createdAt": "2026-07-13T13:46:37Z",
-      "updatedAt": "2026-07-13T13:46:37Z"
+      "createdAt": "2026-07-09T02:59:17Z",
+      "updatedAt": "2026-07-09T02:59:17Z"
     }
   ]
 }

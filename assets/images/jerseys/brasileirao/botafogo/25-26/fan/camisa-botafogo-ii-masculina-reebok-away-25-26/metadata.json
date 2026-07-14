@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-ii-masculina-reebok-away-25-26",
-  "createdAt": "2026-07-13T13:48:19Z",
-  "updatedAt": "2026-07-13T13:48:19Z",
+  "createdAt": "2026-07-10T19:11:03Z",
+  "updatedAt": "2026-07-10T19:11:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8020,
-      "createdAt": "2026-07-13T13:48:18Z",
-      "updatedAt": "2026-07-13T13:48:18Z"
+      "createdAt": "2026-07-10T19:11:02Z",
+      "updatedAt": "2026-07-10T19:11:02Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17114,
-      "createdAt": "2026-07-13T13:48:18Z",
-      "updatedAt": "2026-07-13T13:48:18Z"
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10612,
-      "createdAt": "2026-07-13T13:48:19Z",
-      "updatedAt": "2026-07-13T13:48:19Z"
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 5084,
-      "createdAt": "2026-07-13T13:48:19Z",
-      "updatedAt": "2026-07-13T13:48:19Z"
+      "createdAt": "2026-07-10T19:11:03Z",
+      "updatedAt": "2026-07-10T19:11:03Z"
     }
   ]
 }

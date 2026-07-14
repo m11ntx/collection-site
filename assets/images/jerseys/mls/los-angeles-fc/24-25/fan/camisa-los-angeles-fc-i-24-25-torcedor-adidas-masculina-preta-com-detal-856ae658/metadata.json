@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-los-angeles-fc-i-24-25-torcedor-adidas-masculina-preta-com-detalhes-em-dourado",
-  "createdAt": "2026-07-13T13:33:44Z",
-  "updatedAt": "2026-07-13T13:33:44Z",
+  "createdAt": "2026-07-09T22:08:36Z",
+  "updatedAt": "2026-07-09T22:08:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10346,
-      "createdAt": "2026-07-13T13:33:42Z",
-      "updatedAt": "2026-07-13T13:33:42Z"
+      "createdAt": "2026-07-09T22:08:35Z",
+      "updatedAt": "2026-07-09T22:08:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5178,
-      "createdAt": "2026-07-13T13:33:42Z",
-      "updatedAt": "2026-07-13T13:33:42Z"
+      "createdAt": "2026-07-09T22:08:36Z",
+      "updatedAt": "2026-07-09T22:08:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17350,
-      "createdAt": "2026-07-13T13:33:42Z",
-      "updatedAt": "2026-07-13T13:33:42Z"
+      "createdAt": "2026-07-09T22:08:36Z",
+      "updatedAt": "2026-07-09T22:08:36Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 58374,
-      "createdAt": "2026-07-13T13:33:42Z",
-      "updatedAt": "2026-07-13T13:33:42Z"
+      "createdAt": "2026-07-09T22:08:36Z",
+      "updatedAt": "2026-07-09T22:08:36Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 36756,
-      "createdAt": "2026-07-13T13:33:43Z",
-      "updatedAt": "2026-07-13T13:33:43Z"
+      "createdAt": "2026-07-09T22:08:36Z",
+      "updatedAt": "2026-07-09T22:08:36Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 58294,
-      "createdAt": "2026-07-13T13:33:44Z",
-      "updatedAt": "2026-07-13T13:33:44Z"
+      "createdAt": "2026-07-09T22:08:36Z",
+      "updatedAt": "2026-07-09T22:08:36Z"
     }
   ]
 }

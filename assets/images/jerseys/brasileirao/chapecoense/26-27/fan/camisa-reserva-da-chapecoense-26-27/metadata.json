@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-reserva-da-chapecoense-26-27",
-  "createdAt": "2026-07-13T13:51:19Z",
-  "updatedAt": "2026-07-13T13:51:19Z",
+  "createdAt": "2026-07-06T02:11:01Z",
+  "updatedAt": "2026-07-06T02:11:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 183,
       "height": 275,
       "size": 2428,
-      "createdAt": "2026-07-13T13:51:19Z",
-      "updatedAt": "2026-07-13T13:51:19Z"
+      "createdAt": "2026-07-06T02:11:01Z",
+      "updatedAt": "2026-07-06T02:11:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 722,
       "size": 6114,
-      "createdAt": "2026-07-13T13:51:19Z",
-      "updatedAt": "2026-07-13T13:51:19Z"
+      "createdAt": "2026-07-06T02:11:01Z",
+      "updatedAt": "2026-07-06T02:11:01Z"
     }
   ]
 }

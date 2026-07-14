@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-atletico-mineiro-i-nike-26-27-torcedor-masculina",
+  "createdAt": "2026-07-14T19:16:33Z",
+  "updatedAt": "2026-07-14T19:16:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-i-nike-26-27-torcedor-masculina/front.webp",
+      "hash": "6566bed86829ca2be3eeab939378bba065db01f23ab85245457592ee4787e15b",
+      "width": 480,
+      "height": 480,
+      "size": 9132,
+      "createdAt": "2026-07-14T19:16:33Z",
+      "updatedAt": "2026-07-14T19:16:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-i-nike-26-27-torcedor-masculina/back.webp",
+      "hash": "81ce61dc23b36738263a32956c30d53a02881f4b6d22c1c04452026f0b9c905f",
+      "width": 480,
+      "height": 480,
+      "size": 3336,
+      "createdAt": "2026-07-14T19:16:33Z",
+      "updatedAt": "2026-07-14T19:16:33Z"
+    }
+  ]
+}

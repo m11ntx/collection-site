@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-franca-2000-adidas-masculina-azul",
-  "createdAt": "2026-07-13T13:27:03Z",
-  "updatedAt": "2026-07-13T13:27:03Z",
+  "createdAt": "2026-07-09T16:42:43Z",
+  "updatedAt": "2026-07-09T16:42:43Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11750,
-      "createdAt": "2026-07-13T13:27:02Z",
-      "updatedAt": "2026-07-13T13:27:02Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8190,
-      "createdAt": "2026-07-13T13:27:02Z",
-      "updatedAt": "2026-07-13T13:27:02Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 51246,
-      "createdAt": "2026-07-13T13:27:02Z",
-      "updatedAt": "2026-07-13T13:27:02Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 71944,
-      "createdAt": "2026-07-13T13:27:02Z",
-      "updatedAt": "2026-07-13T13:27:02Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 19912,
-      "createdAt": "2026-07-13T13:27:03Z",
-      "updatedAt": "2026-07-13T13:27:03Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 19100,
-      "createdAt": "2026-07-13T13:27:03Z",
-      "updatedAt": "2026-07-13T13:27:03Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 15594,
-      "createdAt": "2026-07-13T13:27:03Z",
-      "updatedAt": "2026-07-13T13:27:03Z"
+      "createdAt": "2026-07-09T16:42:43Z",
+      "updatedAt": "2026-07-09T16:42:43Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-da-gama-ii-24-25-torcedor-kappa-feminina-branca",
-  "createdAt": "2026-07-13T13:33:40Z",
-  "updatedAt": "2026-07-13T13:33:40Z",
+  "createdAt": "2026-07-09T05:36:05Z",
+  "updatedAt": "2026-07-09T05:36:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10418,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5318,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33290,
-      "createdAt": "2026-07-13T13:33:40Z",
-      "updatedAt": "2026-07-13T13:33:40Z"
+      "createdAt": "2026-07-09T05:36:05Z",
+      "updatedAt": "2026-07-09T05:36:05Z"
     }
   ]
 }

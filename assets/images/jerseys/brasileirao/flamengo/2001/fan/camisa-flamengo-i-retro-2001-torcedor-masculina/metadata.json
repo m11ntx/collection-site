@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-retro-2001-torcedor-masculina",
-  "createdAt": "2026-07-13T13:47:03Z",
-  "updatedAt": "2026-07-13T13:47:03Z",
+  "createdAt": "2026-07-09T16:38:20Z",
+  "updatedAt": "2026-07-09T16:38:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9420,
-      "createdAt": "2026-07-13T13:47:03Z",
-      "updatedAt": "2026-07-13T13:47:03Z"
+      "createdAt": "2026-07-09T16:38:20Z",
+      "updatedAt": "2026-07-09T16:38:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7942,
-      "createdAt": "2026-07-13T13:47:03Z",
-      "updatedAt": "2026-07-13T13:47:03Z"
+      "createdAt": "2026-07-09T16:38:20Z",
+      "updatedAt": "2026-07-09T16:38:20Z"
     }
   ]
 }

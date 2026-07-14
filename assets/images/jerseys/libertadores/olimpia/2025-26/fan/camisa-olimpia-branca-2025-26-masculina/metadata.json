@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-olimpia-branca-2025-26-masculina",
-  "createdAt": "2026-07-13T13:46:57Z",
-  "updatedAt": "2026-07-13T13:46:57Z",
+  "createdAt": "2026-07-07T05:05:29Z",
+  "updatedAt": "2026-07-07T05:05:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9924,
-      "createdAt": "2026-07-13T13:46:57Z",
-      "updatedAt": "2026-07-13T13:46:57Z"
+      "createdAt": "2026-07-07T05:05:29Z",
+      "updatedAt": "2026-07-07T05:05:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9352,
-      "createdAt": "2026-07-13T13:46:57Z",
-      "updatedAt": "2026-07-13T13:46:57Z"
+      "createdAt": "2026-07-07T05:05:29Z",
+      "updatedAt": "2026-07-07T05:05:29Z"
     }
   ]
 }

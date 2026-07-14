@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-aston-villa-home-2024-25",
-  "createdAt": "2026-07-13T13:46:11Z",
-  "updatedAt": "2026-07-13T13:46:11Z",
+  "createdAt": "2026-07-07T02:47:48Z",
+  "updatedAt": "2026-07-07T02:47:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 579,
       "size": 13494,
-      "createdAt": "2026-07-13T13:46:11Z",
-      "updatedAt": "2026-07-13T13:46:11Z"
+      "createdAt": "2026-07-07T02:47:48Z",
+      "updatedAt": "2026-07-07T02:47:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 581,
       "size": 7842,
-      "createdAt": "2026-07-13T13:46:11Z",
-      "updatedAt": "2026-07-13T13:46:11Z"
+      "createdAt": "2026-07-07T02:47:48Z",
+      "updatedAt": "2026-07-07T02:47:48Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-edicao-especial-24-25-jogador-nike-masculina-azul-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-13T13:38:25Z",
-  "updatedAt": "2026-07-13T13:38:25Z",
+  "createdAt": "2026-07-09T03:13:18Z",
+  "updatedAt": "2026-07-09T03:13:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21448,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:13:18Z",
+      "updatedAt": "2026-07-09T03:13:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10102,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:13:18Z",
+      "updatedAt": "2026-07-09T03:13:18Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26742,
-      "createdAt": "2026-07-13T13:38:24Z",
-      "updatedAt": "2026-07-13T13:38:24Z"
+      "createdAt": "2026-07-09T03:13:18Z",
+      "updatedAt": "2026-07-09T03:13:18Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atlanta-united-i-24-25-torcedor-adidas-masculina-preta-e-vermelha",
-  "createdAt": "2026-07-13T13:36:56Z",
-  "updatedAt": "2026-07-13T13:36:56Z",
+  "createdAt": "2026-07-07T05:04:39Z",
+  "updatedAt": "2026-07-07T05:04:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13156,
-      "createdAt": "2026-07-13T13:36:55Z",
-      "updatedAt": "2026-07-13T13:36:55Z"
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6508,
-      "createdAt": "2026-07-13T13:36:55Z",
-      "updatedAt": "2026-07-13T13:36:55Z"
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 720,
       "size": 44096,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 56910,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-07T05:04:38Z",
+      "updatedAt": "2026-07-07T05:04:38Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 720,
       "size": 42730,
-      "createdAt": "2026-07-13T13:36:56Z",
-      "updatedAt": "2026-07-13T13:36:56Z"
+      "createdAt": "2026-07-07T05:04:39Z",
+      "updatedAt": "2026-07-07T05:04:39Z"
     }
   ]
 }

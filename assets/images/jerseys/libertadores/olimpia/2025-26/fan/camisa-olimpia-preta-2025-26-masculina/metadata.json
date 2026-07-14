@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-olimpia-preta-2025-26-masculina",
-  "createdAt": "2026-07-13T13:46:57Z",
-  "updatedAt": "2026-07-13T13:46:57Z",
+  "createdAt": "2026-07-07T05:05:30Z",
+  "updatedAt": "2026-07-07T05:05:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 410,
       "height": 511,
       "size": 12212,
-      "createdAt": "2026-07-13T13:46:56Z",
-      "updatedAt": "2026-07-13T13:46:56Z"
+      "createdAt": "2026-07-07T05:05:29Z",
+      "updatedAt": "2026-07-07T05:05:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 390,
       "height": 484,
       "size": 10540,
-      "createdAt": "2026-07-13T13:46:57Z",
-      "updatedAt": "2026-07-13T13:46:57Z"
+      "createdAt": "2026-07-07T05:05:29Z",
+      "updatedAt": "2026-07-07T05:05:29Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-corinthians-pre-jogo-26-27-torcedor-vinho",
+  "createdAt": "2026-07-14T19:16:36Z",
+  "updatedAt": "2026-07-14T19:16:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/camisa-corinthians-pre-jogo-26-27-torcedor-vinho/front.webp",
+      "hash": "51e077d0bf516b7627c2f66d09f294a3b7eb57f879aa5d98dafa2a9af65e0568",
+      "width": 480,
+      "height": 473,
+      "size": 5900,
+      "createdAt": "2026-07-14T19:16:35Z",
+      "updatedAt": "2026-07-14T19:16:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/camisa-corinthians-pre-jogo-26-27-torcedor-vinho/back.webp",
+      "hash": "1ca23a1ac728386b0ca4416574ac996ce4275a6ddb4e988d76a5974b045d6077",
+      "width": 480,
+      "height": 472,
+      "size": 4574,
+      "createdAt": "2026-07-14T19:16:36Z",
+      "updatedAt": "2026-07-14T19:16:36Z"
+    }
+  ]
+}

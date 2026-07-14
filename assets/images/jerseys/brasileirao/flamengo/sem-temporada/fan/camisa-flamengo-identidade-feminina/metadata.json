@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-identidade-feminina",
-  "createdAt": "2026-07-13T13:45:47Z",
-  "updatedAt": "2026-07-13T13:45:47Z",
+  "createdAt": "2026-07-09T05:35:23Z",
+  "updatedAt": "2026-07-09T05:35:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 479,
       "size": 7054,
-      "createdAt": "2026-07-13T13:45:47Z",
-      "updatedAt": "2026-07-13T13:45:47Z"
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 481,
       "size": 5592,
-      "createdAt": "2026-07-13T13:45:47Z",
-      "updatedAt": "2026-07-13T13:45:47Z"
+      "createdAt": "2026-07-09T05:35:23Z",
+      "updatedAt": "2026-07-09T05:35:23Z"
     }
   ]
 }

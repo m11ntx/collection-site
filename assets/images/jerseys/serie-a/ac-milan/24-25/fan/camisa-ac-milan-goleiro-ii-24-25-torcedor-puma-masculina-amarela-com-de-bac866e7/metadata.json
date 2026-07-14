@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ac-milan-goleiro-ii-24-25-torcedor-puma-masculina-amarela-com-detalhes-em-preto",
-  "createdAt": "2026-07-13T13:38:31Z",
-  "updatedAt": "2026-07-13T13:38:31Z",
+  "createdAt": "2026-07-09T22:10:21Z",
+  "updatedAt": "2026-07-09T22:10:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10984,
-      "createdAt": "2026-07-13T13:38:31Z",
-      "updatedAt": "2026-07-13T13:38:31Z"
+      "createdAt": "2026-07-09T22:10:20Z",
+      "updatedAt": "2026-07-09T22:10:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4488,
-      "createdAt": "2026-07-13T13:38:31Z",
-      "updatedAt": "2026-07-13T13:38:31Z"
+      "createdAt": "2026-07-09T22:10:21Z",
+      "updatedAt": "2026-07-09T22:10:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14826,
-      "createdAt": "2026-07-13T13:38:31Z",
-      "updatedAt": "2026-07-13T13:38:31Z"
+      "createdAt": "2026-07-09T22:10:21Z",
+      "updatedAt": "2026-07-09T22:10:21Z"
     }
   ]
 }

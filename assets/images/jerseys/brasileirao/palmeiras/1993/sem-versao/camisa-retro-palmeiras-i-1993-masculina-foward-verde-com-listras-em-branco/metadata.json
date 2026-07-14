@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-palmeiras-i-1993-masculina-foward-verde-com-listras-em-branco",
-  "createdAt": "2026-07-13T13:29:23Z",
-  "updatedAt": "2026-07-13T13:29:23Z",
+  "createdAt": "2026-07-09T16:44:39Z",
+  "updatedAt": "2026-07-09T16:44:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12064,
-      "createdAt": "2026-07-13T13:29:22Z",
-      "updatedAt": "2026-07-13T13:29:22Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17314,
-      "createdAt": "2026-07-13T13:29:22Z",
-      "updatedAt": "2026-07-13T13:29:22Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9166,
-      "createdAt": "2026-07-13T13:29:22Z",
-      "updatedAt": "2026-07-13T13:29:22Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22372,
-      "createdAt": "2026-07-13T13:29:22Z",
-      "updatedAt": "2026-07-13T13:29:22Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 69788,
-      "createdAt": "2026-07-13T13:29:22Z",
-      "updatedAt": "2026-07-13T13:29:22Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 69590,
-      "createdAt": "2026-07-13T13:29:23Z",
-      "updatedAt": "2026-07-13T13:29:23Z"
+      "createdAt": "2026-07-09T16:44:38Z",
+      "updatedAt": "2026-07-09T16:44:38Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 20786,
-      "createdAt": "2026-07-13T13:29:23Z",
-      "updatedAt": "2026-07-13T13:29:23Z"
+      "createdAt": "2026-07-09T16:44:39Z",
+      "updatedAt": "2026-07-09T16:44:39Z"
     }
   ]
 }

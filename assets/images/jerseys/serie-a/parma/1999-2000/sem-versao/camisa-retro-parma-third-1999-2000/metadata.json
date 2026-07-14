@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-parma-third-1999-2000",
-  "createdAt": "2026-07-13T13:47:03Z",
-  "updatedAt": "2026-07-13T13:47:03Z",
+  "createdAt": "2026-07-09T21:32:24Z",
+  "updatedAt": "2026-07-09T21:32:24Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11988,
-      "createdAt": "2026-07-13T13:47:03Z",
-      "updatedAt": "2026-07-13T13:47:03Z"
+      "createdAt": "2026-07-09T21:32:23Z",
+      "updatedAt": "2026-07-09T21:32:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10428,
-      "createdAt": "2026-07-13T13:47:03Z",
-      "updatedAt": "2026-07-13T13:47:03Z"
+      "createdAt": "2026-07-09T21:32:24Z",
+      "updatedAt": "2026-07-09T21:32:24Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-retro-2003-04-vermelha-umbro",
-  "createdAt": "2026-07-13T13:30:06Z",
-  "updatedAt": "2026-07-13T13:30:06Z",
+  "createdAt": "2026-07-09T16:39:36Z",
+  "updatedAt": "2026-07-09T16:39:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11236,
-      "createdAt": "2026-07-13T13:30:06Z",
-      "updatedAt": "2026-07-13T13:30:06Z"
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 18382,
-      "createdAt": "2026-07-13T13:30:06Z",
-      "updatedAt": "2026-07-13T13:30:06Z"
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 34248,
-      "createdAt": "2026-07-13T13:30:06Z",
-      "updatedAt": "2026-07-13T13:30:06Z"
+      "createdAt": "2026-07-09T16:39:36Z",
+      "updatedAt": "2026-07-09T16:39:36Z"
     }
   ]
 }

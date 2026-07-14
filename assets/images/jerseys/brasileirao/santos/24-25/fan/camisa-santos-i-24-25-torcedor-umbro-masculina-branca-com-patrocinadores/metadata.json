@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-i-24-25-torcedor-umbro-masculina-branca-com-patrocinadores",
-  "createdAt": "2026-07-13T13:45:40Z",
-  "updatedAt": "2026-07-13T13:45:40Z",
+  "createdAt": "2026-07-05T03:00:31Z",
+  "updatedAt": "2026-07-05T03:00:31Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14492,
-      "createdAt": "2026-07-13T13:45:36Z",
-      "updatedAt": "2026-07-13T13:45:36Z"
+      "createdAt": "2026-07-05T03:00:17Z",
+      "updatedAt": "2026-07-05T03:00:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10962,
-      "createdAt": "2026-07-13T13:45:38Z",
-      "updatedAt": "2026-07-13T13:45:38Z"
+      "createdAt": "2026-07-05T03:00:24Z",
+      "updatedAt": "2026-07-05T03:00:24Z"
     }
   ]
 }

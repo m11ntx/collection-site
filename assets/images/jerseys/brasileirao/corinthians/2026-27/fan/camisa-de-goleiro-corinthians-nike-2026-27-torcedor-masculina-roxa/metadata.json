@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-de-goleiro-corinthians-nike-2026-27-torcedor-masculina-roxa",
-  "createdAt": "2026-07-13T13:51:33Z",
-  "updatedAt": "2026-07-13T13:51:33Z",
+  "createdAt": "2026-07-09T22:53:08Z",
+  "updatedAt": "2026-07-12T01:12:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 27366,
-      "createdAt": "2026-07-13T13:51:32Z",
-      "updatedAt": "2026-07-13T13:51:32Z"
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-12T01:12:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 27714,
-      "createdAt": "2026-07-13T13:51:32Z",
-      "updatedAt": "2026-07-13T13:51:32Z"
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-12T01:12:15Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 81424,
-      "createdAt": "2026-07-13T13:51:33Z",
-      "updatedAt": "2026-07-13T13:51:33Z"
+      "createdAt": "2026-07-09T22:53:08Z",
+      "updatedAt": "2026-07-09T22:53:08Z"
     }
   ]
 }

@@ -70,6 +70,16 @@
     "image": "botafogo"
   },
   {
+    "id": "botafogo-ribeirao-preto",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "botafogo-ribeirao-preto",
+    "name": "Botafogo-SP",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "bragantino",
     "leagueId": "brasileirao",
     "regionId": "sao-paulo",

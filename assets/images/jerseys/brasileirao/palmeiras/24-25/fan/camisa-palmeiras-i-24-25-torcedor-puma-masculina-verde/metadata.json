@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-palmeiras-i-24-25-torcedor-puma-masculina-verde",
-  "createdAt": "2026-07-13T13:30:24Z",
-  "updatedAt": "2026-07-13T13:30:24Z",
+  "createdAt": "2026-07-05T06:21:26Z",
+  "updatedAt": "2026-07-05T06:21:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9192,
-      "createdAt": "2026-07-13T13:30:24Z",
-      "updatedAt": "2026-07-13T13:30:24Z"
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5592,
-      "createdAt": "2026-07-13T13:30:24Z",
-      "updatedAt": "2026-07-13T13:30:24Z"
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24518,
-      "createdAt": "2026-07-13T13:30:24Z",
-      "updatedAt": "2026-07-13T13:30:24Z"
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24226,
-      "createdAt": "2026-07-13T13:30:24Z",
-      "updatedAt": "2026-07-13T13:30:24Z"
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 21652,
-      "createdAt": "2026-07-13T13:30:24Z",
-      "updatedAt": "2026-07-13T13:30:24Z"
+      "createdAt": "2026-07-05T06:21:26Z",
+      "updatedAt": "2026-07-05T06:21:26Z"
     }
   ]
 }

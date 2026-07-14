@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-casa-26-27-manga-longa",
-  "createdAt": "2026-07-13T13:51:06Z",
-  "updatedAt": "2026-07-13T13:51:06Z",
+  "createdAt": "2026-07-09T22:52:58Z",
+  "updatedAt": "2026-07-09T22:52:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12358,
-      "createdAt": "2026-07-13T13:51:06Z",
-      "updatedAt": "2026-07-13T13:51:06Z"
+      "createdAt": "2026-07-09T22:52:58Z",
+      "updatedAt": "2026-07-09T22:52:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8394,
-      "createdAt": "2026-07-13T13:51:06Z",
-      "updatedAt": "2026-07-13T13:51:06Z"
+      "createdAt": "2026-07-09T22:52:58Z",
+      "updatedAt": "2026-07-09T22:52:58Z"
     }
   ]
 }

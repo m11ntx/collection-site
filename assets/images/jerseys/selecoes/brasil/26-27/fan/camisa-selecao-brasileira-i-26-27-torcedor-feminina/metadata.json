@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasileira-i-26-27-torcedor-feminina",
-  "createdAt": "2026-07-13T13:49:07Z",
-  "updatedAt": "2026-07-13T13:49:07Z",
+  "createdAt": "2026-07-09T05:35:57Z",
+  "updatedAt": "2026-07-09T05:35:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11868,
-      "createdAt": "2026-07-13T13:49:07Z",
-      "updatedAt": "2026-07-13T13:49:07Z"
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9278,
-      "createdAt": "2026-07-13T13:49:07Z",
-      "updatedAt": "2026-07-13T13:49:07Z"
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 41724,
-      "createdAt": "2026-07-13T13:49:07Z",
-      "updatedAt": "2026-07-13T13:49:07Z"
+      "createdAt": "2026-07-09T05:35:56Z",
+      "updatedAt": "2026-07-09T05:35:56Z"
     }
   ]
 }

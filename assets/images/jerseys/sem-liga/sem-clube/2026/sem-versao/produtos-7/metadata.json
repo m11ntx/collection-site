@@ -1,0 +1,957 @@
+{
+  "productId": "source-produtos-7",
+  "createdAt": "2026-07-14T19:01:39Z",
+  "updatedAt": "2026-07-14T19:01:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/front.webp",
+      "hash": "a2d7d214f2c78f8e65d7755220fd5ddc119a2286c807dfd71602b849ddfc1069",
+      "width": 480,
+      "height": 480,
+      "size": 9870,
+      "createdAt": "2026-07-14T19:01:03Z",
+      "updatedAt": "2026-07-14T19:01:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/back.webp",
+      "hash": "610dbae525e1ac3fd6345a1743440f752214b328cdf4408bf6e520b4352e16fe",
+      "width": 240,
+      "height": 240,
+      "size": 3102,
+      "createdAt": "2026-07-14T19:01:03Z",
+      "updatedAt": "2026-07-14T19:01:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-1.webp",
+      "hash": "9073a1a46e74b990df61eccdefc2d1d5aecb75825ca91f060828e4e00bc0e6e4",
+      "width": 480,
+      "height": 480,
+      "size": 3112,
+      "createdAt": "2026-07-14T19:01:03Z",
+      "updatedAt": "2026-07-14T19:01:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-2.webp",
+      "hash": "1a27c374d4658776ec977e74ea6bffc89ba241726100d3b93c7176a35b3306af",
+      "width": 240,
+      "height": 240,
+      "size": 988,
+      "createdAt": "2026-07-14T19:01:04Z",
+      "updatedAt": "2026-07-14T19:01:04Z"
+    },
+    {
+      "view": "detail-3",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-3.webp",
+      "hash": "056ba08b9a321ef2ac65ae4e19880c073a63865e4ebead1a7fbc8dee7b21dc1f",
+      "width": 240,
+      "height": 240,
+      "size": 3466,
+      "createdAt": "2026-07-14T19:01:04Z",
+      "updatedAt": "2026-07-14T19:01:04Z"
+    },
+    {
+      "view": "detail-4",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-4.webp",
+      "hash": "025b778f375c1ac361027bba46697cce44c1de86b13bc7c8d835c49b2f180122",
+      "width": 240,
+      "height": 240,
+      "size": 4412,
+      "createdAt": "2026-07-14T19:01:04Z",
+      "updatedAt": "2026-07-14T19:01:04Z"
+    },
+    {
+      "view": "detail-5",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-5.webp",
+      "hash": "524e637aa016e73e2cff60133e9c203f9519f5217ca2711cf3a5b29c12bc6515",
+      "width": 240,
+      "height": 240,
+      "size": 3206,
+      "createdAt": "2026-07-14T19:01:04Z",
+      "updatedAt": "2026-07-14T19:01:04Z"
+    },
+    {
+      "view": "detail-6",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-6.webp",
+      "hash": "3bd01fc1a0f257c298bf1c0008e794822ddc558f272ff8e540cc4a1e9246b899",
+      "width": 240,
+      "height": 240,
+      "size": 2590,
+      "createdAt": "2026-07-14T19:01:05Z",
+      "updatedAt": "2026-07-14T19:01:05Z"
+    },
+    {
+      "view": "detail-7",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-7.webp",
+      "hash": "0ee4550299d7a6051a849101b9327cbf60628f0c952b57ff35b3e41584f1e166",
+      "width": 240,
+      "height": 240,
+      "size": 5382,
+      "createdAt": "2026-07-14T19:01:05Z",
+      "updatedAt": "2026-07-14T19:01:05Z"
+    },
+    {
+      "view": "detail-8",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-8.webp",
+      "hash": "831091521b10ce586f1a9a3c7e7242a1c6a2c609083caadc5a27055bd046026c",
+      "width": 240,
+      "height": 240,
+      "size": 2504,
+      "createdAt": "2026-07-14T19:01:06Z",
+      "updatedAt": "2026-07-14T19:01:06Z"
+    },
+    {
+      "view": "detail-9",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-9.webp",
+      "hash": "41f91d91eb54e7192f58a1629da5b2ed646b184c5da1ac0e928e3526b9b72629",
+      "width": 240,
+      "height": 240,
+      "size": 4910,
+      "createdAt": "2026-07-14T19:01:06Z",
+      "updatedAt": "2026-07-14T19:01:06Z"
+    },
+    {
+      "view": "detail-10",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-10.webp",
+      "hash": "89c9dd6bb541a9a50e2c4fc7ca4f2d557c3da08b8a4109e6d96a87d5892f9755",
+      "width": 240,
+      "height": 240,
+      "size": 5036,
+      "createdAt": "2026-07-14T19:01:06Z",
+      "updatedAt": "2026-07-14T19:01:06Z"
+    },
+    {
+      "view": "detail-11",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-11.webp",
+      "hash": "002c52be874f13ca6e11455e580d0cf1dab7ede56ecfe674cd0628c1f9ead6d2",
+      "width": 240,
+      "height": 240,
+      "size": 9814,
+      "createdAt": "2026-07-14T19:01:06Z",
+      "updatedAt": "2026-07-14T19:01:06Z"
+    },
+    {
+      "view": "detail-12",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-12.webp",
+      "hash": "1aa8ff64bf392476b0be93915a506244dd83356113c89d2d8fa86e6a25476c92",
+      "width": 240,
+      "height": 240,
+      "size": 8118,
+      "createdAt": "2026-07-14T19:01:06Z",
+      "updatedAt": "2026-07-14T19:01:06Z"
+    },
+    {
+      "view": "detail-13",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-13.webp",
+      "hash": "be3742a5f043818613b26fbf04f3746053d67c3ecf5b1e55f6c6d1ca1dd9fea4",
+      "width": 240,
+      "height": 240,
+      "size": 4568,
+      "createdAt": "2026-07-14T19:01:07Z",
+      "updatedAt": "2026-07-14T19:01:07Z"
+    },
+    {
+      "view": "detail-14",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-14.webp",
+      "hash": "dc246e4013873ab9b6f8f6e6aef683f93effe051f1e26ca95eeca9b5b4fc38a0",
+      "width": 240,
+      "height": 240,
+      "size": 3962,
+      "createdAt": "2026-07-14T19:01:07Z",
+      "updatedAt": "2026-07-14T19:01:07Z"
+    },
+    {
+      "view": "detail-15",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-15.webp",
+      "hash": "0702d6f121c8536e0e51451e20608f785dd10946b6c4f5b246e2970c915e843c",
+      "width": 240,
+      "height": 240,
+      "size": 6090,
+      "createdAt": "2026-07-14T19:01:08Z",
+      "updatedAt": "2026-07-14T19:01:08Z"
+    },
+    {
+      "view": "detail-16",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-16.webp",
+      "hash": "1b3ce026c0760938cda6d7d2894f4fc0a486a53f6e2ca5246b6e082085fbfbba",
+      "width": 240,
+      "height": 240,
+      "size": 2948,
+      "createdAt": "2026-07-14T19:01:08Z",
+      "updatedAt": "2026-07-14T19:01:08Z"
+    },
+    {
+      "view": "detail-17",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-17.webp",
+      "hash": "1fb6e1cc54f5c134474852160ecaf30c77251d52aacf47a15c538790395b0990",
+      "width": 240,
+      "height": 240,
+      "size": 9510,
+      "createdAt": "2026-07-14T19:01:08Z",
+      "updatedAt": "2026-07-14T19:01:08Z"
+    },
+    {
+      "view": "detail-18",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-18.webp",
+      "hash": "20125e4816e7596e07e15896007624a49d35aad767beffc22d2b2f29e460f02c",
+      "width": 240,
+      "height": 240,
+      "size": 8502,
+      "createdAt": "2026-07-14T19:01:09Z",
+      "updatedAt": "2026-07-14T19:01:09Z"
+    },
+    {
+      "view": "detail-19",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-19.webp",
+      "hash": "7080efe0b8279199e6ecfb326bf41856b7d611234bd56515a37e233d20cd6af1",
+      "width": 240,
+      "height": 240,
+      "size": 4898,
+      "createdAt": "2026-07-14T19:01:09Z",
+      "updatedAt": "2026-07-14T19:01:09Z"
+    },
+    {
+      "view": "detail-20",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-20.webp",
+      "hash": "7b11ebcd2e5135b3c61a0275f319ce8855fb4d44cac00b05f80036a463a1f645",
+      "width": 240,
+      "height": 240,
+      "size": 7268,
+      "createdAt": "2026-07-14T19:01:09Z",
+      "updatedAt": "2026-07-14T19:01:09Z"
+    },
+    {
+      "view": "detail-21",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-21.webp",
+      "hash": "a2ddf1d99aeb6ac72927548fa9c3cdf933f6ab00d85d1aa1c15ef5ed7deabb1c",
+      "width": 240,
+      "height": 240,
+      "size": 6844,
+      "createdAt": "2026-07-14T19:01:10Z",
+      "updatedAt": "2026-07-14T19:01:10Z"
+    },
+    {
+      "view": "detail-22",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-22.webp",
+      "hash": "bad4471a2c2d47a1723a9c5d9a4ce58cd6bbc346dbe6565e65d3aeafcdbc4339",
+      "width": 240,
+      "height": 240,
+      "size": 5052,
+      "createdAt": "2026-07-14T19:01:10Z",
+      "updatedAt": "2026-07-14T19:01:10Z"
+    },
+    {
+      "view": "detail-23",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-23.webp",
+      "hash": "d29578dc6fe0b4e86a212d8fabddb4c515ff5936ff0c813ca9d59a33fafb3de9",
+      "width": 240,
+      "height": 240,
+      "size": 2778,
+      "createdAt": "2026-07-14T19:01:10Z",
+      "updatedAt": "2026-07-14T19:01:10Z"
+    },
+    {
+      "view": "detail-24",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-24.webp",
+      "hash": "15a1dfb97ce14e08f4ab973bca768cfa54d17632ea849fea0b281afff0fe1c50",
+      "width": 240,
+      "height": 240,
+      "size": 6126,
+      "createdAt": "2026-07-14T19:01:11Z",
+      "updatedAt": "2026-07-14T19:01:11Z"
+    },
+    {
+      "view": "detail-25",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-25.webp",
+      "hash": "117299b61729c8414dc24e7e2552c793ece939e501d564cda07bf54112237f70",
+      "width": 240,
+      "height": 240,
+      "size": 5266,
+      "createdAt": "2026-07-14T19:01:11Z",
+      "updatedAt": "2026-07-14T19:01:11Z"
+    },
+    {
+      "view": "detail-26",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-26.webp",
+      "hash": "dacf0845f20cccb4823af8863f6b73828edb139c7ac544e4ca9da48ec91470f5",
+      "width": 240,
+      "height": 240,
+      "size": 6398,
+      "createdAt": "2026-07-14T19:01:11Z",
+      "updatedAt": "2026-07-14T19:01:11Z"
+    },
+    {
+      "view": "detail-27",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-27.webp",
+      "hash": "71dfc0928cd3397ac1ba1f34259fb49d8a6ebccea3150e9e963eba7186d3d3fb",
+      "width": 240,
+      "height": 240,
+      "size": 5572,
+      "createdAt": "2026-07-14T19:01:12Z",
+      "updatedAt": "2026-07-14T19:01:12Z"
+    },
+    {
+      "view": "detail-28",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-28.webp",
+      "hash": "49a225f37c0f6e82ae907d619cd70a014ecca99dae983669e8661815b1126829",
+      "width": 240,
+      "height": 240,
+      "size": 5260,
+      "createdAt": "2026-07-14T19:01:12Z",
+      "updatedAt": "2026-07-14T19:01:12Z"
+    },
+    {
+      "view": "detail-29",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-29.webp",
+      "hash": "dfbae21092337d55d4087b06df1ba887f4888c6bdcea73c56037497c7224c296",
+      "width": 240,
+      "height": 240,
+      "size": 5440,
+      "createdAt": "2026-07-14T19:01:13Z",
+      "updatedAt": "2026-07-14T19:01:13Z"
+    },
+    {
+      "view": "detail-30",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-30.webp",
+      "hash": "b5d2c00361b070b934b4a048325e33b04fddcbc4e45e4c45814a05be2931034a",
+      "width": 240,
+      "height": 240,
+      "size": 10414,
+      "createdAt": "2026-07-14T19:01:13Z",
+      "updatedAt": "2026-07-14T19:01:13Z"
+    },
+    {
+      "view": "detail-31",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-31.webp",
+      "hash": "24fec630ebd53064089eaef4e7522c6245ef1110a2ff526c7b79f75f3a19fc9f",
+      "width": 240,
+      "height": 240,
+      "size": 2746,
+      "createdAt": "2026-07-14T19:01:13Z",
+      "updatedAt": "2026-07-14T19:01:13Z"
+    },
+    {
+      "view": "detail-32",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-32.webp",
+      "hash": "7400fb974749406de287c90fb499641869652a49494c84c6572c5493db496bbe",
+      "width": 240,
+      "height": 240,
+      "size": 3702,
+      "createdAt": "2026-07-14T19:01:14Z",
+      "updatedAt": "2026-07-14T19:01:14Z"
+    },
+    {
+      "view": "detail-33",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-33.webp",
+      "hash": "c160e0c235fc0ff22d914e7db84386389ee1b3cf61e99176f2ca6f43823808f2",
+      "width": 240,
+      "height": 240,
+      "size": 2750,
+      "createdAt": "2026-07-14T19:01:14Z",
+      "updatedAt": "2026-07-14T19:01:14Z"
+    },
+    {
+      "view": "detail-34",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-34.webp",
+      "hash": "54c7747a3a718353fc24fbee352cb98f106f529bdaf1c58c6bd6ae0fc3ad97bb",
+      "width": 240,
+      "height": 240,
+      "size": 6354,
+      "createdAt": "2026-07-14T19:01:14Z",
+      "updatedAt": "2026-07-14T19:01:14Z"
+    },
+    {
+      "view": "detail-35",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-35.webp",
+      "hash": "638c2fc08258da29807fe8a1426bd4ae54d04f6ad73c0073a2c923472f7e7a80",
+      "width": 240,
+      "height": 240,
+      "size": 10018,
+      "createdAt": "2026-07-14T19:01:15Z",
+      "updatedAt": "2026-07-14T19:01:15Z"
+    },
+    {
+      "view": "detail-36",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-36.webp",
+      "hash": "423771213166159d7c2b7c90d3497060876129e48addb4fdac5890a6296f762e",
+      "width": 240,
+      "height": 240,
+      "size": 3228,
+      "createdAt": "2026-07-14T19:01:15Z",
+      "updatedAt": "2026-07-14T19:01:15Z"
+    },
+    {
+      "view": "detail-37",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-37.webp",
+      "hash": "0a2a5fbe0c664dbb4bc319289d0e399d2fd9538ec885875a97cc2548632d2890",
+      "width": 240,
+      "height": 240,
+      "size": 3370,
+      "createdAt": "2026-07-14T19:01:15Z",
+      "updatedAt": "2026-07-14T19:01:15Z"
+    },
+    {
+      "view": "detail-38",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-38.webp",
+      "hash": "0a0aaf239570c896f6ee20228cb2449ec444c2ad32d20162bd2fc486f4d32d3c",
+      "width": 240,
+      "height": 240,
+      "size": 5848,
+      "createdAt": "2026-07-14T19:01:16Z",
+      "updatedAt": "2026-07-14T19:01:16Z"
+    },
+    {
+      "view": "detail-39",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-39.webp",
+      "hash": "39d4c962e0944d7b40a607ec44a8b223d5149db9a01508ba3778be0e2625a0f6",
+      "width": 240,
+      "height": 240,
+      "size": 5486,
+      "createdAt": "2026-07-14T19:01:16Z",
+      "updatedAt": "2026-07-14T19:01:16Z"
+    },
+    {
+      "view": "detail-40",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-40.webp",
+      "hash": "0a4c1a0be82cb58068a664bea0ab6b098e55f54890141bf3ccd620190d6d8f66",
+      "width": 240,
+      "height": 240,
+      "size": 6860,
+      "createdAt": "2026-07-14T19:01:17Z",
+      "updatedAt": "2026-07-14T19:01:17Z"
+    },
+    {
+      "view": "detail-41",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-41.webp",
+      "hash": "49b2eb52a2b2bbea113d71346b67b7db12226d2f9a50ada43c07c08cf1b438fc",
+      "width": 240,
+      "height": 240,
+      "size": 6042,
+      "createdAt": "2026-07-14T19:01:19Z",
+      "updatedAt": "2026-07-14T19:01:19Z"
+    },
+    {
+      "view": "detail-42",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-42.webp",
+      "hash": "9b972158f5c7ba21c07aa9c097ef3be4320c1d41f1ace1e1a16114ed558b8d43",
+      "width": 240,
+      "height": 240,
+      "size": 4246,
+      "createdAt": "2026-07-14T19:01:19Z",
+      "updatedAt": "2026-07-14T19:01:19Z"
+    },
+    {
+      "view": "detail-43",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-43.webp",
+      "hash": "05c87e605ea906cc4b9a6829d477071f0682fb66fd8056168e969d150757b9f9",
+      "width": 240,
+      "height": 240,
+      "size": 3580,
+      "createdAt": "2026-07-14T19:01:19Z",
+      "updatedAt": "2026-07-14T19:01:19Z"
+    },
+    {
+      "view": "detail-44",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-44.webp",
+      "hash": "0e36f0d0a7d4b2007bbb31ea4659d041676842a521f04114e103cf049df4d3f1",
+      "width": 240,
+      "height": 240,
+      "size": 2974,
+      "createdAt": "2026-07-14T19:01:20Z",
+      "updatedAt": "2026-07-14T19:01:20Z"
+    },
+    {
+      "view": "detail-45",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-45.webp",
+      "hash": "38c96491eed21e0c8c11878b63d93af9c869bd85ba764ed28d0c64b9f590feba",
+      "width": 240,
+      "height": 240,
+      "size": 5550,
+      "createdAt": "2026-07-14T19:01:20Z",
+      "updatedAt": "2026-07-14T19:01:20Z"
+    },
+    {
+      "view": "detail-46",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-46.webp",
+      "hash": "8737b5a0b756d8e250c6cd3b78d91b2ce885801702fb70cfca9a558f68c1d88b",
+      "width": 240,
+      "height": 240,
+      "size": 5306,
+      "createdAt": "2026-07-14T19:01:21Z",
+      "updatedAt": "2026-07-14T19:01:21Z"
+    },
+    {
+      "view": "detail-47",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-47.webp",
+      "hash": "ae9e1161dfa1c2f48bf23efced99634ede754d1a18e532478bafa610b00857d5",
+      "width": 240,
+      "height": 240,
+      "size": 3242,
+      "createdAt": "2026-07-14T19:01:21Z",
+      "updatedAt": "2026-07-14T19:01:21Z"
+    },
+    {
+      "view": "detail-48",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-48.webp",
+      "hash": "9e237115e321bf9d9c17b9a4abeef02d199be3141d9c2958487ad152f1dba9c0",
+      "width": 240,
+      "height": 240,
+      "size": 3282,
+      "createdAt": "2026-07-14T19:01:21Z",
+      "updatedAt": "2026-07-14T19:01:21Z"
+    },
+    {
+      "view": "detail-49",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-49.webp",
+      "hash": "7bff8824232cfb9a4013a3e43fa183598602bf9b7a92541166cdf3dd1bd04712",
+      "width": 240,
+      "height": 240,
+      "size": 3708,
+      "createdAt": "2026-07-14T19:01:22Z",
+      "updatedAt": "2026-07-14T19:01:22Z"
+    },
+    {
+      "view": "detail-50",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-50.webp",
+      "hash": "1b03557d6d5cfee9df3670cc6874935950554ae8820342fb90d34575b23dfbb3",
+      "width": 240,
+      "height": 240,
+      "size": 1986,
+      "createdAt": "2026-07-14T19:01:22Z",
+      "updatedAt": "2026-07-14T19:01:22Z"
+    },
+    {
+      "view": "detail-51",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-51.webp",
+      "hash": "a8518bc2814bc83d32454bf8159ac76b48ccaef12cae137fac90b306addde00b",
+      "width": 240,
+      "height": 240,
+      "size": 4386,
+      "createdAt": "2026-07-14T19:01:23Z",
+      "updatedAt": "2026-07-14T19:01:23Z"
+    },
+    {
+      "view": "detail-52",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-52.webp",
+      "hash": "7bb96ae1bd39eb6a2cbf8af864c4889a8723be3f150d40ccf941cac0deda72a4",
+      "width": 240,
+      "height": 240,
+      "size": 3320,
+      "createdAt": "2026-07-14T19:01:23Z",
+      "updatedAt": "2026-07-14T19:01:23Z"
+    },
+    {
+      "view": "detail-53",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-53.webp",
+      "hash": "b74e849ecfe528caa20e9c7946b445ea4f8af87e5a58c22ad67553e0d30386fb",
+      "width": 240,
+      "height": 240,
+      "size": 4064,
+      "createdAt": "2026-07-14T19:01:23Z",
+      "updatedAt": "2026-07-14T19:01:23Z"
+    },
+    {
+      "view": "detail-54",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-54.webp",
+      "hash": "a4425e8bedf7fef55ee35aa1ef496789a905b209b0c8d190f71b2c21427fcf7c",
+      "width": 240,
+      "height": 240,
+      "size": 7560,
+      "createdAt": "2026-07-14T19:01:24Z",
+      "updatedAt": "2026-07-14T19:01:24Z"
+    },
+    {
+      "view": "detail-55",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-55.webp",
+      "hash": "c9259d31231ea317fd6d8df01e3446947259b8b9a1454a572cdac919fd3fe804",
+      "width": 240,
+      "height": 240,
+      "size": 3280,
+      "createdAt": "2026-07-14T19:01:24Z",
+      "updatedAt": "2026-07-14T19:01:24Z"
+    },
+    {
+      "view": "detail-56",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-56.webp",
+      "hash": "36c1bea89b2ef6e49daf5d145749c53eac5ceeadf9c559d46cd2704de2859255",
+      "width": 240,
+      "height": 240,
+      "size": 1916,
+      "createdAt": "2026-07-14T19:01:24Z",
+      "updatedAt": "2026-07-14T19:01:24Z"
+    },
+    {
+      "view": "detail-57",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-57.webp",
+      "hash": "e718e1f5f15db94c461de7f5a424ce02521c36f19d0b5b5b8c432a366efa9f42",
+      "width": 240,
+      "height": 240,
+      "size": 3972,
+      "createdAt": "2026-07-14T19:01:25Z",
+      "updatedAt": "2026-07-14T19:01:25Z"
+    },
+    {
+      "view": "detail-58",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-58.webp",
+      "hash": "554536de3a60e2cedd63c7035e3b212048ab19cef4ac789ed9f7f3a53ae828cf",
+      "width": 240,
+      "height": 240,
+      "size": 5214,
+      "createdAt": "2026-07-14T19:01:25Z",
+      "updatedAt": "2026-07-14T19:01:25Z"
+    },
+    {
+      "view": "detail-59",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-59.webp",
+      "hash": "89f7ee5177dcea8dac973ce45f91452169be06bfe6ea98a7129d481fe801fb88",
+      "width": 240,
+      "height": 240,
+      "size": 3122,
+      "createdAt": "2026-07-14T19:01:25Z",
+      "updatedAt": "2026-07-14T19:01:25Z"
+    },
+    {
+      "view": "detail-60",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-60.webp",
+      "hash": "0f05dbc362e57d9b2148f38deead362491f6d23c4d2e6c22e20db5a9c0aefeac",
+      "width": 240,
+      "height": 240,
+      "size": 11758,
+      "createdAt": "2026-07-14T19:01:26Z",
+      "updatedAt": "2026-07-14T19:01:26Z"
+    },
+    {
+      "view": "detail-61",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-61.webp",
+      "hash": "26c181f35460d37009ac4607c320eacabcd7b2e3ebc9a1e2a75a0d136aa701b3",
+      "width": 240,
+      "height": 240,
+      "size": 4572,
+      "createdAt": "2026-07-14T19:01:26Z",
+      "updatedAt": "2026-07-14T19:01:26Z"
+    },
+    {
+      "view": "detail-62",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-62.webp",
+      "hash": "c138ac6220f91bd7dc33fcc3e358077e3a8ab4d3c02cd1e6bd0a1dcd5f2e5bba",
+      "width": 240,
+      "height": 240,
+      "size": 4408,
+      "createdAt": "2026-07-14T19:01:26Z",
+      "updatedAt": "2026-07-14T19:01:26Z"
+    },
+    {
+      "view": "detail-63",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-63.webp",
+      "hash": "036844dab1e5f699616864cd625d49d05e914bdf31ee0144138b5f744b8af713",
+      "width": 240,
+      "height": 240,
+      "size": 2190,
+      "createdAt": "2026-07-14T19:01:26Z",
+      "updatedAt": "2026-07-14T19:01:26Z"
+    },
+    {
+      "view": "detail-64",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-64.webp",
+      "hash": "5dc57425f85a18cdd46d8ba118446267047b03676569f2e24475d40f08c205d0",
+      "width": 240,
+      "height": 240,
+      "size": 5332,
+      "createdAt": "2026-07-14T19:01:27Z",
+      "updatedAt": "2026-07-14T19:01:27Z"
+    },
+    {
+      "view": "detail-65",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-65.webp",
+      "hash": "fa16a92e9ed38baf58e4287d619a7e29679f664aa3492097d34667ec960964a3",
+      "width": 240,
+      "height": 240,
+      "size": 3916,
+      "createdAt": "2026-07-14T19:01:27Z",
+      "updatedAt": "2026-07-14T19:01:27Z"
+    },
+    {
+      "view": "detail-66",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-66.webp",
+      "hash": "17ba737a1e3aa77a800ebe92e79b21613bb4ec3739e47243e9dd1727670a78be",
+      "width": 240,
+      "height": 248,
+      "size": 3766,
+      "createdAt": "2026-07-14T19:01:28Z",
+      "updatedAt": "2026-07-14T19:01:28Z"
+    },
+    {
+      "view": "detail-67",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-67.webp",
+      "hash": "8b2145365576cf667eff82bd3265bc46f3ef9b63e779d2fa7ed565a71b4104d5",
+      "width": 240,
+      "height": 248,
+      "size": 1796,
+      "createdAt": "2026-07-14T19:01:28Z",
+      "updatedAt": "2026-07-14T19:01:28Z"
+    },
+    {
+      "view": "detail-68",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-68.webp",
+      "hash": "b5de9cfc57c8dadb22ac669436d07b0da49aa151658e9d9cdd435cf620cf4c7f",
+      "width": 240,
+      "height": 240,
+      "size": 8764,
+      "createdAt": "2026-07-14T19:01:28Z",
+      "updatedAt": "2026-07-14T19:01:28Z"
+    },
+    {
+      "view": "detail-69",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-69.webp",
+      "hash": "39a93ff6215b9099e9e48800efd264170a8372400af411addf804801e4d49ef4",
+      "width": 240,
+      "height": 240,
+      "size": 8070,
+      "createdAt": "2026-07-14T19:01:28Z",
+      "updatedAt": "2026-07-14T19:01:28Z"
+    },
+    {
+      "view": "detail-70",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-70.webp",
+      "hash": "a3624e1309709cd0f33275946d2e068357b87cd47c98d8b247450371a611acab",
+      "width": 240,
+      "height": 240,
+      "size": 2992,
+      "createdAt": "2026-07-14T19:01:28Z",
+      "updatedAt": "2026-07-14T19:01:28Z"
+    },
+    {
+      "view": "detail-71",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-71.webp",
+      "hash": "6f78c97cb5d96b8adf87bff3403e45d30c7908f88275b82d01c52cc25bf44ec8",
+      "width": 240,
+      "height": 240,
+      "size": 6240,
+      "createdAt": "2026-07-14T19:01:29Z",
+      "updatedAt": "2026-07-14T19:01:29Z"
+    },
+    {
+      "view": "detail-72",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-72.webp",
+      "hash": "6ffcdba97a3f642adf4c78ad83b6e55f47fa64b4f79e0fb48cba0e35cfb318b8",
+      "width": 240,
+      "height": 240,
+      "size": 2306,
+      "createdAt": "2026-07-14T19:01:31Z",
+      "updatedAt": "2026-07-14T19:01:31Z"
+    },
+    {
+      "view": "detail-73",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-73.webp",
+      "hash": "c119aefb03ad2129490307e27cd077a037b37032621c7670853cf38ab18c2d93",
+      "width": 240,
+      "height": 240,
+      "size": 4294,
+      "createdAt": "2026-07-14T19:01:31Z",
+      "updatedAt": "2026-07-14T19:01:31Z"
+    },
+    {
+      "view": "detail-74",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-74.webp",
+      "hash": "212c6126bccf3980c990dc418e4613655bc4913c0db2ac82b6988f06b67b7137",
+      "width": 240,
+      "height": 240,
+      "size": 11722,
+      "createdAt": "2026-07-14T19:01:32Z",
+      "updatedAt": "2026-07-14T19:01:32Z"
+    },
+    {
+      "view": "detail-75",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-75.webp",
+      "hash": "67bf592783fd7c0087183cb15fcefb73bb2bc0c3dd7bfbb7730cf0fbf212b4fb",
+      "width": 240,
+      "height": 297,
+      "size": 3256,
+      "createdAt": "2026-07-14T19:01:32Z",
+      "updatedAt": "2026-07-14T19:01:32Z"
+    },
+    {
+      "view": "detail-76",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-76.webp",
+      "hash": "1bea7efdad8d8349121750184016bd9f0b6a475d8bef9760cfee6d211d4963ec",
+      "width": 240,
+      "height": 240,
+      "size": 4294,
+      "createdAt": "2026-07-14T19:01:32Z",
+      "updatedAt": "2026-07-14T19:01:32Z"
+    },
+    {
+      "view": "detail-77",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-77.webp",
+      "hash": "02c781b978c407f3bdc3965624ec084ea19113b074e36285d94bf8c05e494bab",
+      "width": 240,
+      "height": 240,
+      "size": 2980,
+      "createdAt": "2026-07-14T19:01:32Z",
+      "updatedAt": "2026-07-14T19:01:32Z"
+    },
+    {
+      "view": "detail-78",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-78.webp",
+      "hash": "6a047f32317d61455c54a9756e14223e489767dffe42f4657ade9abd7bc9a6c0",
+      "width": 240,
+      "height": 240,
+      "size": 4942,
+      "createdAt": "2026-07-14T19:01:33Z",
+      "updatedAt": "2026-07-14T19:01:33Z"
+    },
+    {
+      "view": "detail-79",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-79.webp",
+      "hash": "5054b17f4722d0b320677db785fddd769e8ba3b6f85d40c5089a09cfe43017f2",
+      "width": 240,
+      "height": 240,
+      "size": 3040,
+      "createdAt": "2026-07-14T19:01:33Z",
+      "updatedAt": "2026-07-14T19:01:33Z"
+    },
+    {
+      "view": "detail-80",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-80.webp",
+      "hash": "646082b7cf1306927559874df630a3e7d8d7252daeaacc8cb25734b4e359aeaa",
+      "width": 240,
+      "height": 240,
+      "size": 3244,
+      "createdAt": "2026-07-14T19:01:33Z",
+      "updatedAt": "2026-07-14T19:01:33Z"
+    },
+    {
+      "view": "detail-81",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-81.webp",
+      "hash": "d3a33872a350d48dc0b4d09774e22bbae69783b6701e0adf8d10ba9afb055931",
+      "width": 240,
+      "height": 240,
+      "size": 1708,
+      "createdAt": "2026-07-14T19:01:34Z",
+      "updatedAt": "2026-07-14T19:01:34Z"
+    },
+    {
+      "view": "detail-82",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-82.webp",
+      "hash": "3f95dc9c27b0978154162eff8ae42ffd8b6967ad4a6e9592ad79aa35971e690b",
+      "width": 240,
+      "height": 240,
+      "size": 5036,
+      "createdAt": "2026-07-14T19:01:34Z",
+      "updatedAt": "2026-07-14T19:01:34Z"
+    },
+    {
+      "view": "detail-83",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-83.webp",
+      "hash": "10cb0f0db0bde6057c38863ea6da8ec93a4206e3cae8fcb053d18c3b7db41b12",
+      "width": 240,
+      "height": 240,
+      "size": 4068,
+      "createdAt": "2026-07-14T19:01:35Z",
+      "updatedAt": "2026-07-14T19:01:35Z"
+    },
+    {
+      "view": "detail-84",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-84.webp",
+      "hash": "75ea01bfe2a39947bb4036e83572cd5ecebb81e0564f5b8aa4d1cd69e5104ff7",
+      "width": 240,
+      "height": 240,
+      "size": 4818,
+      "createdAt": "2026-07-14T19:01:35Z",
+      "updatedAt": "2026-07-14T19:01:35Z"
+    },
+    {
+      "view": "detail-85",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-85.webp",
+      "hash": "457707f4c1f684dd8c7613e9f777a13e4af251fa98198477d7f9e8dcb6598152",
+      "width": 240,
+      "height": 240,
+      "size": 4668,
+      "createdAt": "2026-07-14T19:01:35Z",
+      "updatedAt": "2026-07-14T19:01:35Z"
+    },
+    {
+      "view": "detail-86",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-86.webp",
+      "hash": "17605abff6c9000445309d239b28a1a391b396987df8b53b89c34b3d735845b6",
+      "width": 240,
+      "height": 240,
+      "size": 3182,
+      "createdAt": "2026-07-14T19:01:36Z",
+      "updatedAt": "2026-07-14T19:01:36Z"
+    },
+    {
+      "view": "detail-87",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-87.webp",
+      "hash": "4b2b5beef23050a091cb9f0d03997a5490bbfc62fc197d8e5fe2b44b687ddca4",
+      "width": 240,
+      "height": 240,
+      "size": 3606,
+      "createdAt": "2026-07-14T19:01:36Z",
+      "updatedAt": "2026-07-14T19:01:36Z"
+    },
+    {
+      "view": "detail-88",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-88.webp",
+      "hash": "b2d9e7e3e23d868654325887e59b555de49dd15af052499e34c5743cc28cef95",
+      "width": 240,
+      "height": 240,
+      "size": 3486,
+      "createdAt": "2026-07-14T19:01:36Z",
+      "updatedAt": "2026-07-14T19:01:36Z"
+    },
+    {
+      "view": "detail-89",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-89.webp",
+      "hash": "0f47a9d2f177695e2c1fc13932338953f4cc46e759a7a268a67d9f62146313ab",
+      "width": 240,
+      "height": 240,
+      "size": 2636,
+      "createdAt": "2026-07-14T19:01:37Z",
+      "updatedAt": "2026-07-14T19:01:37Z"
+    },
+    {
+      "view": "detail-90",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-90.webp",
+      "hash": "83c888d96180df7c87fd3d04f8d8dcda01c35e7165ba0649812a95234e754437",
+      "width": 240,
+      "height": 240,
+      "size": 5608,
+      "createdAt": "2026-07-14T19:01:37Z",
+      "updatedAt": "2026-07-14T19:01:37Z"
+    },
+    {
+      "view": "detail-91",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-91.webp",
+      "hash": "e2993dcd157da1bd852f94edfb680dec17ff5a81593a2ea71e7ff7f4f174320b",
+      "width": 240,
+      "height": 240,
+      "size": 3244,
+      "createdAt": "2026-07-14T19:01:38Z",
+      "updatedAt": "2026-07-14T19:01:38Z"
+    },
+    {
+      "view": "detail-92",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-92.webp",
+      "hash": "b5c0c8f888547382e98514ec65e61ca2b5ab3220197949a3e2b97a192c24501f",
+      "width": 240,
+      "height": 240,
+      "size": 5034,
+      "createdAt": "2026-07-14T19:01:38Z",
+      "updatedAt": "2026-07-14T19:01:38Z"
+    },
+    {
+      "view": "detail-93",
+      "path": "assets/images/jerseys/sem-liga/sem-clube/2026/sem-versao/produtos-7/detail-93.webp",
+      "hash": "6692204a44d6c0ab212b989c14ff3740783ea62119e660ffd8077619e1dd2d95",
+      "width": 240,
+      "height": 240,
+      "size": 2314,
+      "createdAt": "2026-07-14T19:01:39Z",
+      "updatedAt": "2026-07-14T19:01:39Z"
+    }
+  ]
+}

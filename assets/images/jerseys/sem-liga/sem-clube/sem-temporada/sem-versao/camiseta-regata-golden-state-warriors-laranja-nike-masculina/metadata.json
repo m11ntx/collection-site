@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-golden-state-warriors-laranja-nike-masculina",
-  "createdAt": "2026-07-13T13:24:40Z",
-  "updatedAt": "2026-07-13T13:24:40Z",
+  "createdAt": "2026-07-09T20:30:44Z",
+  "updatedAt": "2026-07-09T20:30:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14852,
-      "createdAt": "2026-07-13T13:24:39Z",
-      "updatedAt": "2026-07-13T13:24:39Z"
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 29320,
-      "createdAt": "2026-07-13T13:24:39Z",
-      "updatedAt": "2026-07-13T13:24:39Z"
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19210,
-      "createdAt": "2026-07-13T13:24:39Z",
-      "updatedAt": "2026-07-13T13:24:39Z"
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33790,
-      "createdAt": "2026-07-13T13:24:39Z",
-      "updatedAt": "2026-07-13T13:24:39Z"
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 37424,
-      "createdAt": "2026-07-13T13:24:40Z",
-      "updatedAt": "2026-07-13T13:24:40Z"
+      "createdAt": "2026-07-09T20:30:43Z",
+      "updatedAt": "2026-07-09T20:30:43Z"
     }
   ]
 }

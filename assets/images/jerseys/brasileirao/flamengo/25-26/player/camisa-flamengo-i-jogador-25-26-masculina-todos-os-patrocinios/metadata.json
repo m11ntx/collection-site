@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-jogador-25-26-masculina-todos-os-patrocinios",
-  "createdAt": "2026-07-13T13:48:24Z",
-  "updatedAt": "2026-07-13T13:48:24Z",
+  "createdAt": "2026-07-09T02:59:18Z",
+  "updatedAt": "2026-07-09T02:59:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18280,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-09T02:59:18Z",
+      "updatedAt": "2026-07-09T02:59:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17064,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-09T02:59:18Z",
+      "updatedAt": "2026-07-09T02:59:18Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33344,
-      "createdAt": "2026-07-13T13:48:23Z",
-      "updatedAt": "2026-07-13T13:48:23Z"
+      "createdAt": "2026-07-09T02:59:18Z",
+      "updatedAt": "2026-07-09T02:59:18Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33094,
-      "createdAt": "2026-07-13T13:48:24Z",
-      "updatedAt": "2026-07-13T13:48:24Z"
+      "createdAt": "2026-07-09T02:59:18Z",
+      "updatedAt": "2026-07-09T02:59:18Z"
     }
   ]
 }

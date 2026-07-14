@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-25-26-home-torcedor-masculina-todos-os-patrocinios",
-  "createdAt": "2026-07-13T13:46:53Z",
-  "updatedAt": "2026-07-13T13:46:53Z",
+  "createdAt": "2026-07-05T16:43:07Z",
+  "updatedAt": "2026-07-05T16:43:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12572,
-      "createdAt": "2026-07-13T13:46:53Z",
-      "updatedAt": "2026-07-13T13:46:53Z"
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7368,
-      "createdAt": "2026-07-13T13:46:53Z",
-      "updatedAt": "2026-07-13T13:46:53Z"
+      "createdAt": "2026-07-05T16:43:07Z",
+      "updatedAt": "2026-07-05T16:43:07Z"
     }
   ]
 }

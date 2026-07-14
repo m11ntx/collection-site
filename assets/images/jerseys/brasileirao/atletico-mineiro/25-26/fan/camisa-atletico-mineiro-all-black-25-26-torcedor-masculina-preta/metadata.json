@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-all-black-25-26-torcedor-masculina-preta",
-  "createdAt": "2026-07-13T13:46:53Z",
-  "updatedAt": "2026-07-13T13:46:53Z",
+  "createdAt": "2026-07-05T16:55:10Z",
+  "updatedAt": "2026-07-05T16:55:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13066,
-      "createdAt": "2026-07-13T13:46:42Z",
-      "updatedAt": "2026-07-13T13:46:42Z"
+      "createdAt": "2026-07-05T16:54:42Z",
+      "updatedAt": "2026-07-05T16:54:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9742,
-      "createdAt": "2026-07-13T13:46:45Z",
-      "updatedAt": "2026-07-13T13:46:45Z"
+      "createdAt": "2026-07-05T16:54:49Z",
+      "updatedAt": "2026-07-05T16:54:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18892,
-      "createdAt": "2026-07-13T13:46:47Z",
-      "updatedAt": "2026-07-13T13:46:47Z"
+      "createdAt": "2026-07-05T16:54:55Z",
+      "updatedAt": "2026-07-05T16:54:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17700,
-      "createdAt": "2026-07-13T13:46:50Z",
-      "updatedAt": "2026-07-13T13:46:50Z"
+      "createdAt": "2026-07-05T16:55:03Z",
+      "updatedAt": "2026-07-05T16:55:03Z"
     }
   ]
 }

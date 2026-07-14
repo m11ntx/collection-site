@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-ii-24-25-jogador-puma-masculina-preta-com-detalhes-em-amarelo-e-azul",
-  "createdAt": "2026-07-13T13:38:27Z",
-  "updatedAt": "2026-07-13T13:38:27Z",
+  "createdAt": "2026-07-09T03:13:35Z",
+  "updatedAt": "2026-07-09T03:13:35Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13072,
-      "createdAt": "2026-07-13T13:38:27Z",
-      "updatedAt": "2026-07-13T13:38:27Z"
+      "createdAt": "2026-07-09T03:13:35Z",
+      "updatedAt": "2026-07-09T03:13:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9608,
-      "createdAt": "2026-07-13T13:38:27Z",
-      "updatedAt": "2026-07-13T13:38:27Z"
+      "createdAt": "2026-07-09T03:13:35Z",
+      "updatedAt": "2026-07-09T03:13:35Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19968,
-      "createdAt": "2026-07-13T13:38:27Z",
-      "updatedAt": "2026-07-13T13:38:27Z"
+      "createdAt": "2026-07-09T03:13:35Z",
+      "updatedAt": "2026-07-09T03:13:35Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 23366,
-      "createdAt": "2026-07-13T13:38:27Z",
-      "updatedAt": "2026-07-13T13:38:27Z"
+      "createdAt": "2026-07-09T03:13:35Z",
+      "updatedAt": "2026-07-09T03:13:35Z"
     }
   ]
 }

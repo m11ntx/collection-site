@@ -1,7 +1,7 @@
 {
   "productId": "source-regata-treino-cr-flamengo-tiro-25-26-azul-escuro",
-  "createdAt": "2026-07-13T13:47:13Z",
-  "updatedAt": "2026-07-13T13:47:13Z",
+  "createdAt": "2026-07-05T06:10:09Z",
+  "updatedAt": "2026-07-05T06:10:09Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6248,
-      "createdAt": "2026-07-13T13:47:13Z",
-      "updatedAt": "2026-07-13T13:47:13Z"
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3466,
-      "createdAt": "2026-07-13T13:47:13Z",
-      "updatedAt": "2026-07-13T13:47:13Z"
+      "createdAt": "2026-07-05T06:10:09Z",
+      "updatedAt": "2026-07-05T06:10:09Z"
     }
   ]
 }

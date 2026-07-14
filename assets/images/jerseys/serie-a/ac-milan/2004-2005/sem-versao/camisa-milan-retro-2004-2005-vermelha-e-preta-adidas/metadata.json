@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-milan-retro-2004-2005-vermelha-e-preta-adidas",
-  "createdAt": "2026-07-13T13:28:57Z",
-  "updatedAt": "2026-07-13T13:28:57Z",
+  "createdAt": "2026-07-09T16:40:19Z",
+  "updatedAt": "2026-07-09T16:40:19Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12296,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9354,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 36314,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 28142,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 40592,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 45232,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 33182,
-      "createdAt": "2026-07-13T13:28:57Z",
-      "updatedAt": "2026-07-13T13:28:57Z"
+      "createdAt": "2026-07-09T16:40:19Z",
+      "updatedAt": "2026-07-09T16:40:19Z"
     }
   ]
 }

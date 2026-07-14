@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-nike-ii-2026-27-jogadora-feminina",
-  "createdAt": "2026-07-13T13:51:01Z",
-  "updatedAt": "2026-07-13T13:51:01Z",
+  "createdAt": "2026-07-09T19:18:06Z",
+  "updatedAt": "2026-07-09T19:18:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6612,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-09T19:18:06Z",
+      "updatedAt": "2026-07-09T19:18:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8116,
-      "createdAt": "2026-07-13T13:51:01Z",
-      "updatedAt": "2026-07-13T13:51:01Z"
+      "createdAt": "2026-07-09T19:18:06Z",
+      "updatedAt": "2026-07-09T19:18:06Z"
     }
   ]
 }

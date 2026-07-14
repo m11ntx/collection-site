@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasil-25-26-torcedor-nike-masculina",
-  "createdAt": "2026-07-13T13:48:11Z",
-  "updatedAt": "2026-07-13T13:48:11Z",
+  "createdAt": "2026-07-07T04:09:56Z",
+  "updatedAt": "2026-07-07T04:09:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20334,
-      "createdAt": "2026-07-13T13:48:11Z",
-      "updatedAt": "2026-07-13T13:48:11Z"
+      "createdAt": "2026-07-07T04:09:54Z",
+      "updatedAt": "2026-07-07T04:09:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 74652,
-      "createdAt": "2026-07-13T13:48:11Z",
-      "updatedAt": "2026-07-13T13:48:11Z"
+      "createdAt": "2026-07-07T04:09:55Z",
+      "updatedAt": "2026-07-07T04:09:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 42770,
-      "createdAt": "2026-07-13T13:48:11Z",
-      "updatedAt": "2026-07-13T13:48:11Z"
+      "createdAt": "2026-07-07T04:09:55Z",
+      "updatedAt": "2026-07-07T04:09:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 44122,
-      "createdAt": "2026-07-13T13:48:11Z",
-      "updatedAt": "2026-07-13T13:48:11Z"
+      "createdAt": "2026-07-07T04:09:55Z",
+      "updatedAt": "2026-07-07T04:09:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15724,
-      "createdAt": "2026-07-13T13:48:11Z",
-      "updatedAt": "2026-07-13T13:48:11Z"
+      "createdAt": "2026-07-07T04:09:55Z",
+      "updatedAt": "2026-07-07T04:09:55Z"
     }
   ]
 }

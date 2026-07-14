@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha",
-  "createdAt": "2026-07-13T13:51:26Z",
-  "updatedAt": "2026-07-13T13:51:26Z",
+  "createdAt": "2026-07-07T01:33:39Z",
+  "updatedAt": "2026-07-12T01:12:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11974,
-      "createdAt": "2026-07-13T13:51:26Z",
-      "updatedAt": "2026-07-13T13:51:26Z"
+      "createdAt": "2026-07-07T01:33:38Z",
+      "updatedAt": "2026-07-12T01:12:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8428,
-      "createdAt": "2026-07-13T13:51:26Z",
-      "updatedAt": "2026-07-13T13:51:26Z"
+      "createdAt": "2026-07-07T01:33:38Z",
+      "updatedAt": "2026-07-12T01:12:05Z"
     }
   ]
 }

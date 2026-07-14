@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-newcastle-1995-1996-manga-longa-adidas-masculina-vinho-com-listras-em-azul-e-detalhes-em-branco",
-  "createdAt": "2026-07-13T13:42:01Z",
-  "updatedAt": "2026-07-13T13:42:01Z",
+  "createdAt": "2026-07-09T20:58:30Z",
+  "updatedAt": "2026-07-09T20:58:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9372,
-      "createdAt": "2026-07-13T13:42:00Z",
-      "updatedAt": "2026-07-13T13:42:00Z"
+      "createdAt": "2026-07-09T20:58:29Z",
+      "updatedAt": "2026-07-09T20:58:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5946,
-      "createdAt": "2026-07-13T13:42:00Z",
-      "updatedAt": "2026-07-13T13:42:00Z"
+      "createdAt": "2026-07-09T20:58:29Z",
+      "updatedAt": "2026-07-09T20:58:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15968,
-      "createdAt": "2026-07-13T13:42:01Z",
-      "updatedAt": "2026-07-13T13:42:01Z"
+      "createdAt": "2026-07-09T20:58:29Z",
+      "updatedAt": "2026-07-09T20:58:29Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 74194,
-      "createdAt": "2026-07-13T13:42:01Z",
-      "updatedAt": "2026-07-13T13:42:01Z"
+      "createdAt": "2026-07-09T20:58:29Z",
+      "updatedAt": "2026-07-09T20:58:29Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 92054,
-      "createdAt": "2026-07-13T13:42:01Z",
-      "updatedAt": "2026-07-13T13:42:01Z"
+      "createdAt": "2026-07-09T20:58:30Z",
+      "updatedAt": "2026-07-09T20:58:30Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 15534,
-      "createdAt": "2026-07-13T13:42:01Z",
-      "updatedAt": "2026-07-13T13:42:01Z"
+      "createdAt": "2026-07-09T20:58:30Z",
+      "updatedAt": "2026-07-09T20:58:30Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 15224,
-      "createdAt": "2026-07-13T13:42:01Z",
-      "updatedAt": "2026-07-13T13:42:01Z"
+      "createdAt": "2026-07-09T20:58:30Z",
+      "updatedAt": "2026-07-09T20:58:30Z"
     }
   ]
 }

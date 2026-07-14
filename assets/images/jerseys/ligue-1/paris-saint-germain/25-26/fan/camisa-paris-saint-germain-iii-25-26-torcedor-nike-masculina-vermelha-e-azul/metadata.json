@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paris-saint-germain-iii-25-26-torcedor-nike-masculina-vermelha-e-azul",
-  "createdAt": "2026-07-13T13:48:31Z",
-  "updatedAt": "2026-07-13T13:48:31Z",
+  "createdAt": "2026-07-07T01:33:26Z",
+  "updatedAt": "2026-07-07T01:33:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13274,
-      "createdAt": "2026-07-13T13:48:31Z",
-      "updatedAt": "2026-07-13T13:48:31Z"
+      "createdAt": "2026-07-07T01:33:25Z",
+      "updatedAt": "2026-07-07T01:33:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 55824,
-      "createdAt": "2026-07-13T13:48:31Z",
-      "updatedAt": "2026-07-13T13:48:31Z"
+      "createdAt": "2026-07-07T01:33:25Z",
+      "updatedAt": "2026-07-07T01:33:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8218,
-      "createdAt": "2026-07-13T13:48:31Z",
-      "updatedAt": "2026-07-13T13:48:31Z"
+      "createdAt": "2026-07-07T01:33:26Z",
+      "updatedAt": "2026-07-07T01:33:26Z"
     }
   ]
 }

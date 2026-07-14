@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-home-torcedor-masculina-26-27",
-  "createdAt": "2026-07-13T13:49:37Z",
-  "updatedAt": "2026-07-13T13:49:37Z",
+  "createdAt": "2026-07-05T16:43:09Z",
+  "updatedAt": "2026-07-05T16:43:09Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9644,
-      "createdAt": "2026-07-13T13:49:37Z",
-      "updatedAt": "2026-07-13T13:49:37Z"
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23868,
-      "createdAt": "2026-07-13T13:49:37Z",
-      "updatedAt": "2026-07-13T13:49:37Z"
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24814,
-      "createdAt": "2026-07-13T13:49:37Z",
-      "updatedAt": "2026-07-13T13:49:37Z"
+      "createdAt": "2026-07-05T16:43:09Z",
+      "updatedAt": "2026-07-05T16:43:09Z"
     }
   ]
 }
