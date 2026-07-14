@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-boca-juniors-iii-24-25-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-07T05:04:44Z",
-  "updatedAt": "2026-07-07T05:04:44Z",
+  "createdAt": "2026-07-13T13:39:51Z",
+  "updatedAt": "2026-07-13T13:39:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10628,
-      "createdAt": "2026-07-07T05:04:43Z",
-      "updatedAt": "2026-07-07T05:04:43Z"
+      "createdAt": "2026-07-13T13:39:51Z",
+      "updatedAt": "2026-07-13T13:39:51Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6950,
-      "createdAt": "2026-07-07T05:04:44Z",
-      "updatedAt": "2026-07-07T05:04:44Z"
+      "createdAt": "2026-07-13T13:39:51Z",
+      "updatedAt": "2026-07-13T13:39:51Z"
     }
   ]
 }

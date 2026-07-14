@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-iii-24-25-torcedor-reebok-masculina-branca-com-detalhes-em-preto",
-  "createdAt": "2026-07-05T04:24:48Z",
-  "updatedAt": "2026-07-05T04:24:48Z",
+  "createdAt": "2026-07-13T13:39:00Z",
+  "updatedAt": "2026-07-13T13:39:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 3700,
-      "createdAt": "2026-07-05T04:24:48Z",
-      "updatedAt": "2026-07-05T04:24:48Z"
+      "createdAt": "2026-07-13T13:39:00Z",
+      "updatedAt": "2026-07-13T13:39:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2576,
-      "createdAt": "2026-07-05T04:24:48Z",
-      "updatedAt": "2026-07-05T04:24:48Z"
+      "createdAt": "2026-07-13T13:39:00Z",
+      "updatedAt": "2026-07-13T13:39:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 2956,
-      "createdAt": "2026-07-05T04:24:48Z",
-      "updatedAt": "2026-07-05T04:24:48Z"
+      "createdAt": "2026-07-13T13:39:00Z",
+      "updatedAt": "2026-07-13T13:39:00Z"
     }
   ]
 }

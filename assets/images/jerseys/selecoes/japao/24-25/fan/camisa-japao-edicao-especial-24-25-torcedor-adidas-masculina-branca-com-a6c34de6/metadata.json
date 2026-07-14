@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-japao-edicao-especial-24-25-torcedor-adidas-masculina-branca-com-detalhes-em-preto",
-  "createdAt": "2026-07-09T22:08:23Z",
-  "updatedAt": "2026-07-09T22:08:23Z",
+  "createdAt": "2026-07-13T13:33:14Z",
+  "updatedAt": "2026-07-13T13:33:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11454,
-      "createdAt": "2026-07-09T22:08:22Z",
-      "updatedAt": "2026-07-09T22:08:22Z"
+      "createdAt": "2026-07-13T13:33:13Z",
+      "updatedAt": "2026-07-13T13:33:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4714,
-      "createdAt": "2026-07-09T22:08:22Z",
-      "updatedAt": "2026-07-09T22:08:22Z"
+      "createdAt": "2026-07-13T13:33:14Z",
+      "updatedAt": "2026-07-13T13:33:14Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 15986,
-      "createdAt": "2026-07-09T22:08:22Z",
-      "updatedAt": "2026-07-09T22:08:22Z"
+      "createdAt": "2026-07-13T13:33:14Z",
+      "updatedAt": "2026-07-13T13:33:14Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 35268,
-      "createdAt": "2026-07-09T22:08:22Z",
-      "updatedAt": "2026-07-09T22:08:22Z"
+      "createdAt": "2026-07-13T13:33:14Z",
+      "updatedAt": "2026-07-13T13:33:14Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 30174,
-      "createdAt": "2026-07-09T22:08:23Z",
-      "updatedAt": "2026-07-09T22:08:23Z"
+      "createdAt": "2026-07-13T13:33:14Z",
+      "updatedAt": "2026-07-13T13:33:14Z"
     }
   ]
 }

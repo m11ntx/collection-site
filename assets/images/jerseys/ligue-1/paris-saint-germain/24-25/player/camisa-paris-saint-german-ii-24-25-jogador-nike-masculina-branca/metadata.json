@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-paris-saint-german-ii-24-25-jogador-nike-masculina-branca",
-  "createdAt": "2026-07-09T20:32:18Z",
-  "updatedAt": "2026-07-09T20:32:18Z",
+  "createdAt": "2026-07-13T13:38:28Z",
+  "updatedAt": "2026-07-13T13:38:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13788,
-      "createdAt": "2026-07-09T20:32:17Z",
-      "updatedAt": "2026-07-09T20:32:17Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8960,
-      "createdAt": "2026-07-09T20:32:17Z",
-      "updatedAt": "2026-07-09T20:32:17Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18320,
-      "createdAt": "2026-07-09T20:32:17Z",
-      "updatedAt": "2026-07-09T20:32:17Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 31674,
-      "createdAt": "2026-07-09T20:32:17Z",
-      "updatedAt": "2026-07-09T20:32:17Z"
+      "createdAt": "2026-07-13T13:38:28Z",
+      "updatedAt": "2026-07-13T13:38:28Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 42064,
-      "createdAt": "2026-07-09T20:32:18Z",
-      "updatedAt": "2026-07-09T20:32:18Z"
+      "createdAt": "2026-07-13T13:38:28Z",
+      "updatedAt": "2026-07-13T13:38:28Z"
     }
   ]
 }

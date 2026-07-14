@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasileira-2026-jogador-nike-masculina-azul",
-  "createdAt": "2026-07-09T03:08:21Z",
-  "updatedAt": "2026-07-09T03:08:21Z",
+  "createdAt": "2026-07-13T13:49:05Z",
+  "updatedAt": "2026-07-13T13:49:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21124,
-      "createdAt": "2026-07-09T03:08:21Z",
-      "updatedAt": "2026-07-09T03:08:21Z"
+      "createdAt": "2026-07-13T13:49:05Z",
+      "updatedAt": "2026-07-13T13:49:05Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 27530,
-      "createdAt": "2026-07-09T03:08:21Z",
-      "updatedAt": "2026-07-09T03:08:21Z"
+      "createdAt": "2026-07-13T13:49:05Z",
+      "updatedAt": "2026-07-13T13:49:05Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31740,
-      "createdAt": "2026-07-09T03:08:21Z",
-      "updatedAt": "2026-07-09T03:08:21Z"
+      "createdAt": "2026-07-13T13:49:05Z",
+      "updatedAt": "2026-07-13T13:49:05Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17666,
-      "createdAt": "2026-07-09T03:08:21Z",
-      "updatedAt": "2026-07-09T03:08:21Z"
+      "createdAt": "2026-07-13T13:49:05Z",
+      "updatedAt": "2026-07-13T13:49:05Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-ii-25-26-torcedor-umbro-listrada-com-detalhes-em-amarelo",
-  "createdAt": "2026-07-05T03:00:40Z",
-  "updatedAt": "2026-07-05T03:00:40Z",
+  "createdAt": "2026-07-13T13:48:30Z",
+  "updatedAt": "2026-07-13T13:48:30Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14070,
-      "createdAt": "2026-07-05T03:00:40Z",
-      "updatedAt": "2026-07-05T03:00:40Z"
+      "createdAt": "2026-07-13T13:48:29Z",
+      "updatedAt": "2026-07-13T13:48:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11456,
-      "createdAt": "2026-07-05T03:00:40Z",
-      "updatedAt": "2026-07-05T03:00:40Z"
+      "createdAt": "2026-07-13T13:48:29Z",
+      "updatedAt": "2026-07-13T13:48:29Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13818,
-      "createdAt": "2026-07-05T03:00:40Z",
-      "updatedAt": "2026-07-05T03:00:40Z"
+      "createdAt": "2026-07-13T13:48:30Z",
+      "updatedAt": "2026-07-13T13:48:30Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 27472,
-      "createdAt": "2026-07-05T03:00:40Z",
-      "updatedAt": "2026-07-05T03:00:40Z"
+      "createdAt": "2026-07-13T13:48:30Z",
+      "updatedAt": "2026-07-13T13:48:30Z"
     }
   ]
 }

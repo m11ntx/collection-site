@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-everton-iii-1988-masculina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T16:41:35Z",
-  "updatedAt": "2026-07-09T16:41:35Z",
+  "createdAt": "2026-07-13T13:37:51Z",
+  "updatedAt": "2026-07-13T13:37:51Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16332,
-      "createdAt": "2026-07-09T16:41:35Z",
-      "updatedAt": "2026-07-09T16:41:35Z"
+      "createdAt": "2026-07-13T13:37:51Z",
+      "updatedAt": "2026-07-13T13:37:51Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14328,
-      "createdAt": "2026-07-09T16:41:35Z",
-      "updatedAt": "2026-07-09T16:41:35Z"
+      "createdAt": "2026-07-13T13:37:51Z",
+      "updatedAt": "2026-07-13T13:37:51Z"
     }
   ]
 }

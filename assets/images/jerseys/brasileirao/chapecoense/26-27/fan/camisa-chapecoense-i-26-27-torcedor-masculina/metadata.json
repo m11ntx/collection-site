@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-chapecoense-i-26-27-torcedor-masculina",
-  "createdAt": "2026-07-05T16:55:26Z",
-  "updatedAt": "2026-07-05T16:55:26Z",
+  "createdAt": "2026-07-13T13:51:00Z",
+  "updatedAt": "2026-07-13T13:51:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12036,
-      "createdAt": "2026-07-05T16:55:26Z",
-      "updatedAt": "2026-07-05T16:55:26Z"
+      "createdAt": "2026-07-13T13:51:00Z",
+      "updatedAt": "2026-07-13T13:51:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9704,
-      "createdAt": "2026-07-05T16:55:26Z",
-      "updatedAt": "2026-07-05T16:55:26Z"
+      "createdAt": "2026-07-13T13:51:00Z",
+      "updatedAt": "2026-07-13T13:51:00Z"
     }
   ]
 }

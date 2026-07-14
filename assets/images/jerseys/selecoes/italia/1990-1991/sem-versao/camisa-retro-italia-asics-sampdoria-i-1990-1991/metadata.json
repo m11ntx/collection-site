@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-italia-asics-sampdoria-i-1990-1991",
-  "createdAt": "2026-07-09T16:43:13Z",
-  "updatedAt": "2026-07-09T16:43:13Z",
+  "createdAt": "2026-07-13T13:51:29Z",
+  "updatedAt": "2026-07-13T13:51:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 360,
       "size": 14916,
-      "createdAt": "2026-07-09T16:43:13Z",
-      "updatedAt": "2026-07-09T16:43:13Z"
+      "createdAt": "2026-07-13T13:51:29Z",
+      "updatedAt": "2026-07-13T13:51:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 360,
       "size": 9482,
-      "createdAt": "2026-07-09T16:43:13Z",
-      "updatedAt": "2026-07-09T16:43:13Z"
+      "createdAt": "2026-07-13T13:51:29Z",
+      "updatedAt": "2026-07-13T13:51:29Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-senegal-branca-26-27-home-i-jogador",
-  "createdAt": "2026-07-09T03:08:39Z",
-  "updatedAt": "2026-07-09T03:08:39Z",
+  "createdAt": "2026-07-13T13:51:04Z",
+  "updatedAt": "2026-07-13T13:51:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12402,
-      "createdAt": "2026-07-09T03:08:39Z",
-      "updatedAt": "2026-07-09T03:08:39Z"
+      "createdAt": "2026-07-13T13:51:04Z",
+      "updatedAt": "2026-07-13T13:51:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3906,
-      "createdAt": "2026-07-09T03:08:39Z",
-      "updatedAt": "2026-07-09T03:08:39Z"
+      "createdAt": "2026-07-13T13:51:04Z",
+      "updatedAt": "2026-07-13T13:51:04Z"
     }
   ]
 }

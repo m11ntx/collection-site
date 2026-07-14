@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-internacional-manga-longa-25-26-torcedor",
-  "createdAt": "2026-07-05T05:51:08Z",
-  "updatedAt": "2026-07-05T05:51:08Z",
+  "createdAt": "2026-07-13T13:46:58Z",
+  "updatedAt": "2026-07-13T13:46:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12516,
-      "createdAt": "2026-07-05T05:51:07Z",
-      "updatedAt": "2026-07-05T05:51:07Z"
+      "createdAt": "2026-07-13T13:46:57Z",
+      "updatedAt": "2026-07-13T13:46:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15186,
-      "createdAt": "2026-07-05T05:51:08Z",
-      "updatedAt": "2026-07-05T05:51:08Z"
+      "createdAt": "2026-07-13T13:46:57Z",
+      "updatedAt": "2026-07-13T13:46:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14818,
-      "createdAt": "2026-07-05T05:51:08Z",
-      "updatedAt": "2026-07-05T05:51:08Z"
+      "createdAt": "2026-07-13T13:46:57Z",
+      "updatedAt": "2026-07-13T13:46:57Z"
     }
   ]
 }

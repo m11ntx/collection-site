@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-25-26-torcedor-feminina",
-  "createdAt": "2026-07-09T05:35:23Z",
-  "updatedAt": "2026-07-09T05:35:23Z",
+  "createdAt": "2026-07-13T13:46:18Z",
+  "updatedAt": "2026-07-13T13:46:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11640,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:46:18Z",
+      "updatedAt": "2026-07-13T13:46:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7772,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:46:18Z",
+      "updatedAt": "2026-07-13T13:46:18Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28814,
-      "createdAt": "2026-07-09T05:35:22Z",
-      "updatedAt": "2026-07-09T05:35:22Z"
+      "createdAt": "2026-07-13T13:46:18Z",
+      "updatedAt": "2026-07-13T13:46:18Z"
     }
   ]
 }

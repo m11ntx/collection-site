@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-roma-retro-away-2020-21",
-  "createdAt": "2026-07-09T16:43:13Z",
-  "updatedAt": "2026-07-09T16:43:13Z",
+  "createdAt": "2026-07-13T13:46:13Z",
+  "updatedAt": "2026-07-13T13:46:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9198,
-      "createdAt": "2026-07-09T16:43:13Z",
-      "updatedAt": "2026-07-09T16:43:13Z"
+      "createdAt": "2026-07-13T13:46:12Z",
+      "updatedAt": "2026-07-13T13:46:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6706,
-      "createdAt": "2026-07-09T16:43:13Z",
-      "updatedAt": "2026-07-09T16:43:13Z"
+      "createdAt": "2026-07-13T13:46:13Z",
+      "updatedAt": "2026-07-13T13:46:13Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19488,
-      "createdAt": "2026-07-09T16:43:13Z",
-      "updatedAt": "2026-07-09T16:43:13Z"
+      "createdAt": "2026-07-13T13:46:13Z",
+      "updatedAt": "2026-07-13T13:46:13Z"
     }
   ]
 }

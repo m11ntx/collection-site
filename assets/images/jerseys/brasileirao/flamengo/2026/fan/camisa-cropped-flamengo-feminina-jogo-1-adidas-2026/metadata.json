@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cropped-flamengo-feminina-jogo-1-adidas-2026",
-  "createdAt": "2026-07-09T05:35:17Z",
-  "updatedAt": "2026-07-09T05:35:17Z",
+  "createdAt": "2026-07-13T13:51:38Z",
+  "updatedAt": "2026-07-13T13:51:38Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9298,
-      "createdAt": "2026-07-09T05:35:16Z",
-      "updatedAt": "2026-07-09T05:35:16Z"
+      "createdAt": "2026-07-13T13:51:38Z",
+      "updatedAt": "2026-07-13T13:51:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8538,
-      "createdAt": "2026-07-09T05:35:16Z",
-      "updatedAt": "2026-07-09T05:35:16Z"
+      "createdAt": "2026-07-13T13:51:38Z",
+      "updatedAt": "2026-07-13T13:51:38Z"
     }
   ]
 }

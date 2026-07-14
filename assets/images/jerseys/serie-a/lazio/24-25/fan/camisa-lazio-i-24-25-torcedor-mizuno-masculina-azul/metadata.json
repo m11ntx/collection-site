@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-lazio-i-24-25-torcedor-mizuno-masculina-azul",
-  "createdAt": "2026-07-07T02:49:03Z",
-  "updatedAt": "2026-07-07T02:49:03Z",
+  "createdAt": "2026-07-13T13:37:25Z",
+  "updatedAt": "2026-07-13T13:37:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10146,
-      "createdAt": "2026-07-07T02:49:01Z",
-      "updatedAt": "2026-07-07T02:49:01Z"
+      "createdAt": "2026-07-13T13:37:24Z",
+      "updatedAt": "2026-07-13T13:37:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4652,
-      "createdAt": "2026-07-07T02:49:01Z",
-      "updatedAt": "2026-07-07T02:49:01Z"
+      "createdAt": "2026-07-13T13:37:24Z",
+      "updatedAt": "2026-07-13T13:37:24Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 52942,
-      "createdAt": "2026-07-07T02:49:02Z",
-      "updatedAt": "2026-07-07T02:49:02Z"
+      "createdAt": "2026-07-13T13:37:24Z",
+      "updatedAt": "2026-07-13T13:37:24Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 44142,
-      "createdAt": "2026-07-07T02:49:02Z",
-      "updatedAt": "2026-07-07T02:49:02Z"
+      "createdAt": "2026-07-13T13:37:25Z",
+      "updatedAt": "2026-07-13T13:37:25Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 47684,
-      "createdAt": "2026-07-07T02:49:02Z",
-      "updatedAt": "2026-07-07T02:49:02Z"
+      "createdAt": "2026-07-13T13:37:25Z",
+      "updatedAt": "2026-07-13T13:37:25Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 41560,
-      "createdAt": "2026-07-07T02:49:03Z",
-      "updatedAt": "2026-07-07T02:49:03Z"
+      "createdAt": "2026-07-13T13:37:25Z",
+      "updatedAt": "2026-07-13T13:37:25Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 38780,
-      "createdAt": "2026-07-07T02:49:03Z",
-      "updatedAt": "2026-07-07T02:49:03Z"
+      "createdAt": "2026-07-13T13:37:25Z",
+      "updatedAt": "2026-07-13T13:37:25Z"
     }
   ]
 }

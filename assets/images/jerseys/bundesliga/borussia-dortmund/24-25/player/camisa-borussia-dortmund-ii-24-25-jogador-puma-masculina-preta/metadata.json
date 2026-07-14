@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-borussia-dortmund-ii-24-25-jogador-puma-masculina-preta",
-  "createdAt": "2026-07-09T03:07:00Z",
-  "updatedAt": "2026-07-09T03:07:00Z",
+  "createdAt": "2026-07-13T13:38:23Z",
+  "updatedAt": "2026-07-13T13:38:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10212,
-      "createdAt": "2026-07-09T03:07:00Z",
-      "updatedAt": "2026-07-09T03:07:00Z"
+      "createdAt": "2026-07-13T13:38:23Z",
+      "updatedAt": "2026-07-13T13:38:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10048,
-      "createdAt": "2026-07-09T03:07:00Z",
-      "updatedAt": "2026-07-09T03:07:00Z"
+      "createdAt": "2026-07-13T13:38:23Z",
+      "updatedAt": "2026-07-13T13:38:23Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10576,
-      "createdAt": "2026-07-09T03:07:00Z",
-      "updatedAt": "2026-07-09T03:07:00Z"
+      "createdAt": "2026-07-13T13:38:23Z",
+      "updatedAt": "2026-07-13T13:38:23Z"
     }
   ]
 }

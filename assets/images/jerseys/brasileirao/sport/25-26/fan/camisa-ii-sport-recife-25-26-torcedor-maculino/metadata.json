@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ii-sport-recife-25-26-torcedor-maculino",
-  "createdAt": "2026-07-05T16:55:30Z",
-  "updatedAt": "2026-07-05T16:55:30Z",
+  "createdAt": "2026-07-13T13:48:07Z",
+  "updatedAt": "2026-07-13T13:48:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10464,
-      "createdAt": "2026-07-05T16:55:30Z",
-      "updatedAt": "2026-07-05T16:55:30Z"
+      "createdAt": "2026-07-13T13:48:07Z",
+      "updatedAt": "2026-07-13T13:48:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7606,
-      "createdAt": "2026-07-05T16:55:30Z",
-      "updatedAt": "2026-07-05T16:55:30Z"
+      "createdAt": "2026-07-13T13:48:07Z",
+      "updatedAt": "2026-07-13T13:48:07Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-inter-de-milao-ronaldo-1997-1998-masculina-azul",
-  "createdAt": "2026-07-09T16:41:50Z",
-  "updatedAt": "2026-07-09T16:41:50Z",
+  "createdAt": "2026-07-13T13:34:16Z",
+  "updatedAt": "2026-07-13T13:34:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15946,
-      "createdAt": "2026-07-09T16:41:49Z",
-      "updatedAt": "2026-07-09T16:41:49Z"
+      "createdAt": "2026-07-13T13:34:15Z",
+      "updatedAt": "2026-07-13T13:34:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 25702,
-      "createdAt": "2026-07-09T16:41:50Z",
-      "updatedAt": "2026-07-09T16:41:50Z"
+      "createdAt": "2026-07-13T13:34:15Z",
+      "updatedAt": "2026-07-13T13:34:15Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9064,
-      "createdAt": "2026-07-09T16:41:50Z",
-      "updatedAt": "2026-07-09T16:41:50Z"
+      "createdAt": "2026-07-13T13:34:15Z",
+      "updatedAt": "2026-07-13T13:34:15Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18426,
-      "createdAt": "2026-07-09T16:41:50Z",
-      "updatedAt": "2026-07-09T16:41:50Z"
+      "createdAt": "2026-07-13T13:34:16Z",
+      "updatedAt": "2026-07-13T13:34:16Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 23748,
-      "createdAt": "2026-07-09T16:41:50Z",
-      "updatedAt": "2026-07-09T16:41:50Z"
+      "createdAt": "2026-07-13T13:34:16Z",
+      "updatedAt": "2026-07-13T13:34:16Z"
     }
   ]
 }

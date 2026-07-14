@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-belgica-i-24-25-jogador-adidas-masculina-vermelha-com-detalhes-em-dourado-e-preto",
-  "createdAt": "2026-07-09T03:13:23Z",
-  "updatedAt": "2026-07-09T03:13:23Z",
+  "createdAt": "2026-07-13T13:32:11Z",
+  "updatedAt": "2026-07-13T13:32:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11710,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10226,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 13322,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 62248,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 46818,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 14526,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 12334,
-      "createdAt": "2026-07-09T03:13:23Z",
-      "updatedAt": "2026-07-09T03:13:23Z"
+      "createdAt": "2026-07-13T13:32:11Z",
+      "updatedAt": "2026-07-13T13:32:11Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-retro-1982-vermelha-e-preta-adidas",
-  "createdAt": "2026-07-09T16:38:21Z",
-  "updatedAt": "2026-07-09T16:38:21Z",
+  "createdAt": "2026-07-13T13:26:57Z",
+  "updatedAt": "2026-07-13T13:26:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8690,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:56Z",
+      "updatedAt": "2026-07-13T13:26:56Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6748,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 49446,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 40528,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15144,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 13104,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 18480,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:26:57Z",
+      "updatedAt": "2026-07-13T13:26:57Z"
     }
   ]
 }

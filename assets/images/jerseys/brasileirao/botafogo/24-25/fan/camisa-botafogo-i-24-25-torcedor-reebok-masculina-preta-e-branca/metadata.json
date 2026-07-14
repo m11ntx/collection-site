@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-i-24-25-torcedor-reebok-masculina-preta-e-branca",
-  "createdAt": "2026-07-05T04:24:46Z",
-  "updatedAt": "2026-07-05T04:24:46Z",
+  "createdAt": "2026-07-13T13:36:34Z",
+  "updatedAt": "2026-07-13T13:36:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11206,
-      "createdAt": "2026-07-05T04:24:45Z",
-      "updatedAt": "2026-07-05T04:24:45Z"
+      "createdAt": "2026-07-13T13:36:34Z",
+      "updatedAt": "2026-07-13T13:36:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10918,
-      "createdAt": "2026-07-05T04:24:45Z",
-      "updatedAt": "2026-07-05T04:24:45Z"
+      "createdAt": "2026-07-13T13:36:34Z",
+      "updatedAt": "2026-07-13T13:36:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9938,
-      "createdAt": "2026-07-05T04:24:45Z",
-      "updatedAt": "2026-07-05T04:24:45Z"
+      "createdAt": "2026-07-13T13:36:34Z",
+      "updatedAt": "2026-07-13T13:36:34Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-treino-26-27-torcedor-masculina",
-  "createdAt": "2026-07-05T04:53:35Z",
-  "updatedAt": "2026-07-05T04:53:35Z",
+  "createdAt": "2026-07-13T13:49:21Z",
+  "updatedAt": "2026-07-13T13:49:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19282,
-      "createdAt": "2026-07-05T04:53:35Z",
-      "updatedAt": "2026-07-05T04:53:35Z"
+      "createdAt": "2026-07-13T13:49:21Z",
+      "updatedAt": "2026-07-13T13:49:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11308,
-      "createdAt": "2026-07-05T04:53:35Z",
-      "updatedAt": "2026-07-05T04:53:35Z"
+      "createdAt": "2026-07-13T13:49:21Z",
+      "updatedAt": "2026-07-13T13:49:21Z"
     }
   ]
 }

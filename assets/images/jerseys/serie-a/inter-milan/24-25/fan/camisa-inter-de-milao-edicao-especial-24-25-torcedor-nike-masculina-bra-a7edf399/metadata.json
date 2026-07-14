@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-inter-de-milao-edicao-especial-24-25-torcedor-nike-masculina-branca-com-detalhes-em-cinza-e-verde-e-preto",
-  "createdAt": "2026-07-09T22:08:49Z",
-  "updatedAt": "2026-07-09T22:08:49Z",
+  "createdAt": "2026-07-13T13:34:39Z",
+  "updatedAt": "2026-07-13T13:34:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17144,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 27656,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10080,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 45614,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 31360,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 12766,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 19562,
-      "createdAt": "2026-07-09T22:08:48Z",
-      "updatedAt": "2026-07-09T22:08:48Z"
+      "createdAt": "2026-07-13T13:34:38Z",
+      "updatedAt": "2026-07-13T13:34:38Z"
     }
   ]
 }

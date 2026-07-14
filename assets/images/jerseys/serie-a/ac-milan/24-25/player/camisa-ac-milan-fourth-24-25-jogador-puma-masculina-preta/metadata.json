@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ac-milan-fourth-24-25-jogador-puma-masculina-preta",
-  "createdAt": "2026-07-09T03:06:31Z",
-  "updatedAt": "2026-07-09T03:06:31Z",
+  "createdAt": "2026-07-13T13:32:08Z",
+  "updatedAt": "2026-07-13T13:32:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12708,
-      "createdAt": "2026-07-09T03:06:30Z",
-      "updatedAt": "2026-07-09T03:06:30Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10400,
-      "createdAt": "2026-07-09T03:06:30Z",
-      "updatedAt": "2026-07-09T03:06:30Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14022,
-      "createdAt": "2026-07-09T03:06:30Z",
-      "updatedAt": "2026-07-09T03:06:30Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 59854,
-      "createdAt": "2026-07-09T03:06:30Z",
-      "updatedAt": "2026-07-09T03:06:30Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 47458,
-      "createdAt": "2026-07-09T03:06:30Z",
-      "updatedAt": "2026-07-09T03:06:30Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 24486,
-      "createdAt": "2026-07-09T03:06:31Z",
-      "updatedAt": "2026-07-09T03:06:31Z"
+      "createdAt": "2026-07-13T13:32:07Z",
+      "updatedAt": "2026-07-13T13:32:07Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 28898,
-      "createdAt": "2026-07-09T03:06:31Z",
-      "updatedAt": "2026-07-09T03:06:31Z"
+      "createdAt": "2026-07-13T13:32:08Z",
+      "updatedAt": "2026-07-13T13:32:08Z"
     }
   ]
 }

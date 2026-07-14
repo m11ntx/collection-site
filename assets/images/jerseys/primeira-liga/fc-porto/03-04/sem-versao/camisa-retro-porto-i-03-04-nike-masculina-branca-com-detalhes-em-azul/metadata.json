@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-porto-i-03-04-nike-masculina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T16:42:27Z",
-  "updatedAt": "2026-07-09T16:42:27Z",
+  "createdAt": "2026-07-13T13:47:46Z",
+  "updatedAt": "2026-07-13T13:47:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13520,
-      "createdAt": "2026-07-09T16:42:27Z",
-      "updatedAt": "2026-07-09T16:42:27Z"
+      "createdAt": "2026-07-13T13:47:46Z",
+      "updatedAt": "2026-07-13T13:47:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8978,
-      "createdAt": "2026-07-09T16:42:27Z",
-      "updatedAt": "2026-07-09T16:42:27Z"
+      "createdAt": "2026-07-13T13:47:46Z",
+      "updatedAt": "2026-07-13T13:47:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21394,
-      "createdAt": "2026-07-09T16:42:27Z",
-      "updatedAt": "2026-07-09T16:42:27Z"
+      "createdAt": "2026-07-13T13:47:46Z",
+      "updatedAt": "2026-07-13T13:47:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 24078,
-      "createdAt": "2026-07-09T16:42:27Z",
-      "updatedAt": "2026-07-09T16:42:27Z"
+      "createdAt": "2026-07-13T13:47:46Z",
+      "updatedAt": "2026-07-13T13:47:46Z"
     }
   ]
 }

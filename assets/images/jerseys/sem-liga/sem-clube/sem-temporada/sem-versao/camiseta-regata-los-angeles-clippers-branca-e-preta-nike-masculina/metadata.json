@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-clippers-branca-e-preta-nike-masculina",
-  "createdAt": "2026-07-09T20:30:47Z",
-  "updatedAt": "2026-07-09T20:30:47Z",
+  "createdAt": "2026-07-13T13:24:42Z",
+  "updatedAt": "2026-07-13T13:24:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13516,
-      "createdAt": "2026-07-09T20:30:46Z",
-      "updatedAt": "2026-07-09T20:30:46Z"
+      "createdAt": "2026-07-13T13:24:42Z",
+      "updatedAt": "2026-07-13T13:24:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13538,
-      "createdAt": "2026-07-09T20:30:46Z",
-      "updatedAt": "2026-07-09T20:30:46Z"
+      "createdAt": "2026-07-13T13:24:42Z",
+      "updatedAt": "2026-07-13T13:24:42Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10102,
-      "createdAt": "2026-07-09T20:30:47Z",
-      "updatedAt": "2026-07-09T20:30:47Z"
+      "createdAt": "2026-07-13T13:24:42Z",
+      "updatedAt": "2026-07-13T13:24:42Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22102,
-      "createdAt": "2026-07-09T20:30:47Z",
-      "updatedAt": "2026-07-09T20:30:47Z"
+      "createdAt": "2026-07-13T13:24:42Z",
+      "updatedAt": "2026-07-13T13:24:42Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 15306,
-      "createdAt": "2026-07-09T20:30:47Z",
-      "updatedAt": "2026-07-09T20:30:47Z"
+      "createdAt": "2026-07-13T13:24:42Z",
+      "updatedAt": "2026-07-13T13:24:42Z"
     }
   ]
 }

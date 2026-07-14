@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-1-torcedor-2025-branco-puma-masculina",
-  "createdAt": "2026-07-05T16:55:18Z",
-  "updatedAt": "2026-07-05T16:55:18Z",
+  "createdAt": "2026-07-13T13:47:18Z",
+  "updatedAt": "2026-07-13T13:47:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12216,
-      "createdAt": "2026-07-05T16:55:17Z",
-      "updatedAt": "2026-07-05T16:55:17Z"
+      "createdAt": "2026-07-13T13:47:17Z",
+      "updatedAt": "2026-07-13T13:47:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4836,
-      "createdAt": "2026-07-05T16:55:18Z",
-      "updatedAt": "2026-07-05T16:55:18Z"
+      "createdAt": "2026-07-13T13:47:17Z",
+      "updatedAt": "2026-07-13T13:47:17Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33450,
-      "createdAt": "2026-07-05T16:55:18Z",
-      "updatedAt": "2026-07-05T16:55:18Z"
+      "createdAt": "2026-07-13T13:47:17Z",
+      "updatedAt": "2026-07-13T13:47:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 54902,
-      "createdAt": "2026-07-05T16:55:18Z",
-      "updatedAt": "2026-07-05T16:55:18Z"
+      "createdAt": "2026-07-13T13:47:17Z",
+      "updatedAt": "2026-07-13T13:47:17Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 46054,
-      "createdAt": "2026-07-05T16:55:18Z",
-      "updatedAt": "2026-07-05T16:55:18Z"
+      "createdAt": "2026-07-13T13:47:17Z",
+      "updatedAt": "2026-07-13T13:47:17Z"
     }
   ]
 }

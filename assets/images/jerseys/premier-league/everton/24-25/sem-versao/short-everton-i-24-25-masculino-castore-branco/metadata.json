@@ -1,7 +1,7 @@
 {
   "productId": "source-short-everton-i-24-25-masculino-castore-branco",
-  "createdAt": "2026-07-09T20:44:20Z",
-  "updatedAt": "2026-07-09T20:44:20Z",
+  "createdAt": "2026-07-13T13:44:00Z",
+  "updatedAt": "2026-07-13T13:44:00Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 5680,
-      "createdAt": "2026-07-09T20:44:20Z",
-      "updatedAt": "2026-07-09T20:44:20Z"
+      "createdAt": "2026-07-13T13:44:00Z",
+      "updatedAt": "2026-07-13T13:44:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5650,
-      "createdAt": "2026-07-09T20:44:20Z",
-      "updatedAt": "2026-07-09T20:44:20Z"
+      "createdAt": "2026-07-13T13:44:00Z",
+      "updatedAt": "2026-07-13T13:44:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 14210,
-      "createdAt": "2026-07-09T20:44:20Z",
-      "updatedAt": "2026-07-09T20:44:20Z"
+      "createdAt": "2026-07-13T13:44:00Z",
+      "updatedAt": "2026-07-13T13:44:00Z"
     }
   ]
 }

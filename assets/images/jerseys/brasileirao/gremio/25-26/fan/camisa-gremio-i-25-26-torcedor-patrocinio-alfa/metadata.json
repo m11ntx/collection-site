@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-i-25-26-torcedor-patrocinio-alfa",
-  "createdAt": "2026-07-05T16:05:37Z",
-  "updatedAt": "2026-07-05T16:05:37Z",
+  "createdAt": "2026-07-13T13:47:19Z",
+  "updatedAt": "2026-07-13T13:47:19Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14192,
-      "createdAt": "2026-07-05T16:05:37Z",
-      "updatedAt": "2026-07-05T16:05:37Z"
+      "createdAt": "2026-07-13T13:47:19Z",
+      "updatedAt": "2026-07-13T13:47:19Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9490,
-      "createdAt": "2026-07-05T16:05:37Z",
-      "updatedAt": "2026-07-05T16:05:37Z"
+      "createdAt": "2026-07-13T13:47:19Z",
+      "updatedAt": "2026-07-13T13:47:19Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-real-madrid-ii-adidas-25-26-preto",
-  "createdAt": "2026-07-09T17:18:09Z",
-  "updatedAt": "2026-07-09T17:18:09Z",
+  "createdAt": "2026-07-13T13:47:59Z",
+  "updatedAt": "2026-07-13T13:47:59Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 26580,
-      "createdAt": "2026-07-09T17:18:08Z",
-      "updatedAt": "2026-07-09T17:18:08Z"
+      "createdAt": "2026-07-13T13:47:58Z",
+      "updatedAt": "2026-07-13T13:47:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 20618,
-      "createdAt": "2026-07-09T17:18:08Z",
-      "updatedAt": "2026-07-09T17:18:08Z"
+      "createdAt": "2026-07-13T13:47:58Z",
+      "updatedAt": "2026-07-13T13:47:58Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 56250,
-      "createdAt": "2026-07-09T17:18:09Z",
-      "updatedAt": "2026-07-09T17:18:09Z"
+      "createdAt": "2026-07-13T13:47:58Z",
+      "updatedAt": "2026-07-13T13:47:58Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 47420,
-      "createdAt": "2026-07-09T17:18:09Z",
-      "updatedAt": "2026-07-09T17:18:09Z"
+      "createdAt": "2026-07-13T13:47:59Z",
+      "updatedAt": "2026-07-13T13:47:59Z"
     }
   ]
 }

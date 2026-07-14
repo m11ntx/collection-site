@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-liverpool-i-1996-1997-torcedor-reebok-masculina-vermelha-com-detalhes-em-branco",
-  "createdAt": "2026-07-09T16:42:08Z",
-  "updatedAt": "2026-07-09T16:42:08Z",
+  "createdAt": "2026-07-13T13:23:56Z",
+  "updatedAt": "2026-07-13T13:23:56Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12428,
-      "createdAt": "2026-07-09T16:42:07Z",
-      "updatedAt": "2026-07-09T16:42:07Z"
+      "createdAt": "2026-07-13T13:23:55Z",
+      "updatedAt": "2026-07-13T13:23:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8720,
-      "createdAt": "2026-07-09T16:42:07Z",
-      "updatedAt": "2026-07-09T16:42:07Z"
+      "createdAt": "2026-07-13T13:23:55Z",
+      "updatedAt": "2026-07-13T13:23:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26136,
-      "createdAt": "2026-07-09T16:42:07Z",
-      "updatedAt": "2026-07-09T16:42:07Z"
+      "createdAt": "2026-07-13T13:23:55Z",
+      "updatedAt": "2026-07-13T13:23:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 23242,
-      "createdAt": "2026-07-09T16:42:08Z",
-      "updatedAt": "2026-07-09T16:42:08Z"
+      "createdAt": "2026-07-13T13:23:55Z",
+      "updatedAt": "2026-07-13T13:23:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 29556,
-      "createdAt": "2026-07-09T16:42:08Z",
-      "updatedAt": "2026-07-09T16:42:08Z"
+      "createdAt": "2026-07-13T13:23:56Z",
+      "updatedAt": "2026-07-13T13:23:56Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 28302,
-      "createdAt": "2026-07-09T16:42:08Z",
-      "updatedAt": "2026-07-09T16:42:08Z"
+      "createdAt": "2026-07-13T13:23:56Z",
+      "updatedAt": "2026-07-13T13:23:56Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 25838,
-      "createdAt": "2026-07-09T16:42:08Z",
-      "updatedAt": "2026-07-09T16:42:08Z"
+      "createdAt": "2026-07-13T13:23:56Z",
+      "updatedAt": "2026-07-13T13:23:56Z"
     }
   ]
 }

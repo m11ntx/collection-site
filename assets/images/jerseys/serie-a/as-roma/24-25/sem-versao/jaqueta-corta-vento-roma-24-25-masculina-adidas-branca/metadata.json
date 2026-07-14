@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-corta-vento-roma-24-25-masculina-adidas-branca",
-  "createdAt": "2026-07-09T20:44:17Z",
-  "updatedAt": "2026-07-09T20:44:17Z",
+  "createdAt": "2026-07-13T13:40:26Z",
+  "updatedAt": "2026-07-13T13:40:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4066,
-      "createdAt": "2026-07-09T20:44:17Z",
-      "updatedAt": "2026-07-09T20:44:17Z"
+      "createdAt": "2026-07-13T13:40:26Z",
+      "updatedAt": "2026-07-13T13:40:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4326,
-      "createdAt": "2026-07-09T20:44:17Z",
-      "updatedAt": "2026-07-09T20:44:17Z"
+      "createdAt": "2026-07-13T13:40:26Z",
+      "updatedAt": "2026-07-13T13:40:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 2600,
-      "createdAt": "2026-07-09T20:44:17Z",
-      "updatedAt": "2026-07-09T20:44:17Z"
+      "createdAt": "2026-07-13T13:40:26Z",
+      "updatedAt": "2026-07-13T13:40:26Z"
     }
   ]
 }

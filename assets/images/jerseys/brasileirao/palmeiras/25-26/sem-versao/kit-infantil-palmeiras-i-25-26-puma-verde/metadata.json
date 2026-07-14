@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-palmeiras-i-25-26-puma-verde",
-  "createdAt": "2026-07-09T17:18:02Z",
-  "updatedAt": "2026-07-09T17:18:02Z",
+  "createdAt": "2026-07-13T13:47:12Z",
+  "updatedAt": "2026-07-13T13:47:12Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10918,
-      "createdAt": "2026-07-09T17:18:01Z",
-      "updatedAt": "2026-07-09T17:18:01Z"
+      "createdAt": "2026-07-13T13:47:12Z",
+      "updatedAt": "2026-07-13T13:47:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7088,
-      "createdAt": "2026-07-09T17:18:01Z",
-      "updatedAt": "2026-07-09T17:18:01Z"
+      "createdAt": "2026-07-13T13:47:12Z",
+      "updatedAt": "2026-07-13T13:47:12Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21586,
-      "createdAt": "2026-07-09T17:18:02Z",
-      "updatedAt": "2026-07-09T17:18:02Z"
+      "createdAt": "2026-07-13T13:47:12Z",
+      "updatedAt": "2026-07-13T13:47:12Z"
     }
   ]
 }

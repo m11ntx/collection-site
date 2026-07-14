@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cropped-selecao-brasileira-2026-feminina",
-  "createdAt": "2026-07-09T05:59:34Z",
-  "updatedAt": "2026-07-09T05:59:34Z",
+  "createdAt": "2026-07-13T13:50:55Z",
+  "updatedAt": "2026-07-13T13:50:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13566,
-      "createdAt": "2026-07-09T05:59:34Z",
-      "updatedAt": "2026-07-09T05:59:34Z"
+      "createdAt": "2026-07-13T13:50:55Z",
+      "updatedAt": "2026-07-13T13:50:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11312,
-      "createdAt": "2026-07-09T05:59:34Z",
-      "updatedAt": "2026-07-09T05:59:34Z"
+      "createdAt": "2026-07-13T13:50:55Z",
+      "updatedAt": "2026-07-13T13:50:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 55442,
-      "createdAt": "2026-07-09T05:59:34Z",
-      "updatedAt": "2026-07-09T05:59:34Z"
+      "createdAt": "2026-07-13T13:50:55Z",
+      "updatedAt": "2026-07-13T13:50:55Z"
     }
   ]
 }

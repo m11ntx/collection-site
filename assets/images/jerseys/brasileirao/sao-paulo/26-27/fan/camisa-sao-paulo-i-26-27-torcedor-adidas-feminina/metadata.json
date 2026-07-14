@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-i-26-27-torcedor-adidas-feminina",
-  "createdAt": "2026-07-09T05:35:54Z",
-  "updatedAt": "2026-07-09T05:35:54Z",
+  "createdAt": "2026-07-13T13:50:53Z",
+  "updatedAt": "2026-07-13T13:50:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10204,
-      "createdAt": "2026-07-09T05:35:53Z",
-      "updatedAt": "2026-07-09T05:35:53Z"
+      "createdAt": "2026-07-13T13:50:52Z",
+      "updatedAt": "2026-07-13T13:50:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8714,
-      "createdAt": "2026-07-09T05:35:53Z",
-      "updatedAt": "2026-07-09T05:35:53Z"
+      "createdAt": "2026-07-13T13:50:52Z",
+      "updatedAt": "2026-07-13T13:50:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31440,
-      "createdAt": "2026-07-09T05:35:53Z",
-      "updatedAt": "2026-07-09T05:35:53Z"
+      "createdAt": "2026-07-13T13:50:53Z",
+      "updatedAt": "2026-07-13T13:50:53Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-palmeiras-1999-edicao-especial",
-  "createdAt": "2026-07-09T16:42:19Z",
-  "updatedAt": "2026-07-09T16:42:19Z",
+  "createdAt": "2026-07-13T13:47:01Z",
+  "updatedAt": "2026-07-13T13:47:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15774,
-      "createdAt": "2026-07-09T16:42:19Z",
-      "updatedAt": "2026-07-09T16:42:19Z"
+      "createdAt": "2026-07-13T13:47:01Z",
+      "updatedAt": "2026-07-13T13:47:01Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14896,
-      "createdAt": "2026-07-09T16:42:19Z",
-      "updatedAt": "2026-07-09T16:42:19Z"
+      "createdAt": "2026-07-13T13:47:01Z",
+      "updatedAt": "2026-07-13T13:47:01Z"
     }
   ]
 }

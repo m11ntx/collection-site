@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-kappa-vasco-iii-2024-torcedor-plus-preta",
-  "createdAt": "2026-07-05T16:03:34Z",
-  "updatedAt": "2026-07-05T16:03:34Z",
+  "createdAt": "2026-07-13T13:47:25Z",
+  "updatedAt": "2026-07-13T13:47:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7850,
-      "createdAt": "2026-07-05T16:03:34Z",
-      "updatedAt": "2026-07-05T16:03:34Z"
+      "createdAt": "2026-07-13T13:47:25Z",
+      "updatedAt": "2026-07-13T13:47:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4124,
-      "createdAt": "2026-07-05T16:03:34Z",
-      "updatedAt": "2026-07-05T16:03:34Z"
+      "createdAt": "2026-07-13T13:47:25Z",
+      "updatedAt": "2026-07-13T13:47:25Z"
     }
   ]
 }

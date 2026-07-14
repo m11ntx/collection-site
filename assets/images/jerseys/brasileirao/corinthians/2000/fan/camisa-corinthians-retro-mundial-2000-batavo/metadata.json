@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-retro-mundial-2000-batavo",
-  "createdAt": "2026-07-09T16:36:52Z",
-  "updatedAt": "2026-07-09T16:36:52Z",
+  "createdAt": "2026-07-13T13:46:40Z",
+  "updatedAt": "2026-07-13T13:46:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9640,
-      "createdAt": "2026-07-09T16:36:52Z",
-      "updatedAt": "2026-07-09T16:36:52Z"
+      "createdAt": "2026-07-13T13:46:40Z",
+      "updatedAt": "2026-07-13T13:46:40Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5326,
-      "createdAt": "2026-07-09T16:36:52Z",
-      "updatedAt": "2026-07-09T16:36:52Z"
+      "createdAt": "2026-07-13T13:46:40Z",
+      "updatedAt": "2026-07-13T13:46:40Z"
     }
   ]
 }

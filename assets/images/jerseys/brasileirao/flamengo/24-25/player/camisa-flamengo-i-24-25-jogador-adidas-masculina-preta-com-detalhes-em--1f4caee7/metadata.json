@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-i-24-25-jogador-adidas-masculina-preta-com-detalhes-em-vermelho-com-patch",
-  "createdAt": "2026-07-09T22:08:03Z",
-  "updatedAt": "2026-07-09T22:08:03Z",
+  "createdAt": "2026-07-13T13:31:41Z",
+  "updatedAt": "2026-07-13T13:31:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16586,
-      "createdAt": "2026-07-09T22:08:02Z",
-      "updatedAt": "2026-07-09T22:08:02Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10384,
-      "createdAt": "2026-07-09T22:08:02Z",
-      "updatedAt": "2026-07-09T22:08:02Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 57836,
-      "createdAt": "2026-07-09T22:08:02Z",
-      "updatedAt": "2026-07-09T22:08:02Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 40210,
-      "createdAt": "2026-07-09T22:08:03Z",
-      "updatedAt": "2026-07-09T22:08:03Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 21152,
-      "createdAt": "2026-07-09T22:08:03Z",
-      "updatedAt": "2026-07-09T22:08:03Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 14560,
-      "createdAt": "2026-07-09T22:08:03Z",
-      "updatedAt": "2026-07-09T22:08:03Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 19470,
-      "createdAt": "2026-07-09T22:08:03Z",
-      "updatedAt": "2026-07-09T22:08:03Z"
+      "createdAt": "2026-07-13T13:31:41Z",
+      "updatedAt": "2026-07-13T13:31:41Z"
     }
   ]
 }

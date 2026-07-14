@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-i-nike-2026-27-jogador-masculina",
-  "createdAt": "2026-07-05T16:55:16Z",
-  "updatedAt": "2026-07-05T16:55:16Z",
+  "createdAt": "2026-07-13T13:51:41Z",
+  "updatedAt": "2026-07-13T13:51:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16452,
-      "createdAt": "2026-07-05T16:55:15Z",
-      "updatedAt": "2026-07-05T16:55:15Z"
+      "createdAt": "2026-07-13T13:51:41Z",
+      "updatedAt": "2026-07-13T13:51:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11908,
-      "createdAt": "2026-07-05T16:55:16Z",
-      "updatedAt": "2026-07-05T16:55:16Z"
+      "createdAt": "2026-07-13T13:51:41Z",
+      "updatedAt": "2026-07-13T13:51:41Z"
     }
   ]
 }

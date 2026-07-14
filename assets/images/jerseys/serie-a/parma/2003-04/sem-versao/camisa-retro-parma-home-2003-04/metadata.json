@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-parma-home-2003-04",
-  "createdAt": "2026-07-09T21:32:24Z",
-  "updatedAt": "2026-07-09T21:32:24Z",
+  "createdAt": "2026-07-13T13:47:53Z",
+  "updatedAt": "2026-07-13T13:47:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20004,
-      "createdAt": "2026-07-09T21:32:24Z",
-      "updatedAt": "2026-07-09T21:32:24Z"
+      "createdAt": "2026-07-13T13:47:53Z",
+      "updatedAt": "2026-07-13T13:47:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15392,
-      "createdAt": "2026-07-09T21:32:24Z",
-      "updatedAt": "2026-07-09T21:32:24Z"
+      "createdAt": "2026-07-13T13:47:53Z",
+      "updatedAt": "2026-07-13T13:47:53Z"
     }
   ]
 }

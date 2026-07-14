@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-i-25-26-torcedor-nike-masculina-branco-preto",
-  "createdAt": "2026-07-05T16:01:48Z",
-  "updatedAt": "2026-07-05T16:01:48Z",
+  "createdAt": "2026-07-13T13:47:26Z",
+  "updatedAt": "2026-07-13T13:47:26Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7458,
-      "createdAt": "2026-07-05T16:01:47Z",
-      "updatedAt": "2026-07-05T16:01:47Z"
+      "createdAt": "2026-07-13T13:47:26Z",
+      "updatedAt": "2026-07-13T13:47:26Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 30684,
-      "createdAt": "2026-07-05T16:01:48Z",
-      "updatedAt": "2026-07-05T16:01:48Z"
+      "createdAt": "2026-07-13T13:47:26Z",
+      "updatedAt": "2026-07-13T13:47:26Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27086,
-      "createdAt": "2026-07-05T16:01:48Z",
-      "updatedAt": "2026-07-05T16:01:48Z"
+      "createdAt": "2026-07-13T13:47:26Z",
+      "updatedAt": "2026-07-13T13:47:26Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 10340,
-      "createdAt": "2026-07-05T16:01:48Z",
-      "updatedAt": "2026-07-05T16:01:48Z"
+      "createdAt": "2026-07-13T13:47:26Z",
+      "updatedAt": "2026-07-13T13:47:26Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 4144,
-      "createdAt": "2026-07-05T16:01:48Z",
-      "updatedAt": "2026-07-05T16:01:48Z"
+      "createdAt": "2026-07-13T13:47:26Z",
+      "updatedAt": "2026-07-13T13:47:26Z"
     }
   ]
 }

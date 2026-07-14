@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-de-madrid-pre-jogo-24-25-torcedor-nike-masculina-vermelha-com-detalhes-em-azul",
-  "createdAt": "2026-07-09T22:10:07Z",
-  "updatedAt": "2026-07-09T22:10:07Z",
+  "createdAt": "2026-07-13T13:37:57Z",
+  "updatedAt": "2026-07-13T13:37:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15408,
-      "createdAt": "2026-07-09T22:10:06Z",
-      "updatedAt": "2026-07-09T22:10:06Z"
+      "createdAt": "2026-07-13T13:37:57Z",
+      "updatedAt": "2026-07-13T13:37:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14962,
-      "createdAt": "2026-07-09T22:10:06Z",
-      "updatedAt": "2026-07-09T22:10:06Z"
+      "createdAt": "2026-07-13T13:37:57Z",
+      "updatedAt": "2026-07-13T13:37:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 53992,
-      "createdAt": "2026-07-09T22:10:06Z",
-      "updatedAt": "2026-07-09T22:10:06Z"
+      "createdAt": "2026-07-13T13:37:57Z",
+      "updatedAt": "2026-07-13T13:37:57Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 48496,
-      "createdAt": "2026-07-09T22:10:06Z",
-      "updatedAt": "2026-07-09T22:10:06Z"
+      "createdAt": "2026-07-13T13:37:57Z",
+      "updatedAt": "2026-07-13T13:37:57Z"
     }
   ]
 }

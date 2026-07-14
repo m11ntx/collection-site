@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-ii-26-27-torcedor-new-balance-masculina-azul",
-  "createdAt": "2026-07-05T16:05:41Z",
-  "updatedAt": "2026-07-05T16:05:41Z",
+  "createdAt": "2026-07-13T13:50:53Z",
+  "updatedAt": "2026-07-13T13:50:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6698,
-      "createdAt": "2026-07-05T16:05:40Z",
-      "updatedAt": "2026-07-05T16:05:40Z"
+      "createdAt": "2026-07-13T13:50:53Z",
+      "updatedAt": "2026-07-13T13:50:53Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7264,
-      "createdAt": "2026-07-05T16:05:41Z",
-      "updatedAt": "2026-07-05T16:05:41Z"
+      "createdAt": "2026-07-13T13:50:53Z",
+      "updatedAt": "2026-07-13T13:50:53Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33730,
-      "createdAt": "2026-07-05T16:05:41Z",
-      "updatedAt": "2026-07-05T16:05:41Z"
+      "createdAt": "2026-07-13T13:50:53Z",
+      "updatedAt": "2026-07-13T13:50:53Z"
     }
   ]
 }

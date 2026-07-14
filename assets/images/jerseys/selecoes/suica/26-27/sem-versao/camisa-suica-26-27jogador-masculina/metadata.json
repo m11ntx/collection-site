@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-suica-26-27jogador-masculina",
-  "createdAt": "2026-07-07T04:14:06Z",
-  "updatedAt": "2026-07-07T04:14:06Z",
+  "createdAt": "2026-07-13T13:51:07Z",
+  "updatedAt": "2026-07-13T13:51:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8374,
-      "createdAt": "2026-07-07T04:14:05Z",
-      "updatedAt": "2026-07-07T04:14:05Z"
+      "createdAt": "2026-07-13T13:51:07Z",
+      "updatedAt": "2026-07-13T13:51:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6424,
-      "createdAt": "2026-07-07T04:14:06Z",
-      "updatedAt": "2026-07-07T04:14:06Z"
+      "createdAt": "2026-07-13T13:51:07Z",
+      "updatedAt": "2026-07-13T13:51:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12046,
-      "createdAt": "2026-07-07T04:14:06Z",
-      "updatedAt": "2026-07-07T04:14:06Z"
+      "createdAt": "2026-07-13T13:51:07Z",
+      "updatedAt": "2026-07-13T13:51:07Z"
     }
   ]
 }

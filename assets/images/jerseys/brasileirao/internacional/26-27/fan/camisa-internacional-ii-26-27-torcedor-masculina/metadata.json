@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-internacional-ii-26-27-torcedor-masculina",
-  "createdAt": "2026-07-05T05:51:06Z",
-  "updatedAt": "2026-07-05T05:51:06Z",
+  "createdAt": "2026-07-13T13:51:20Z",
+  "updatedAt": "2026-07-13T13:51:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7928,
-      "createdAt": "2026-07-05T05:51:06Z",
-      "updatedAt": "2026-07-05T05:51:06Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 471,
       "size": 4694,
-      "createdAt": "2026-07-05T05:51:06Z",
-      "updatedAt": "2026-07-05T05:51:06Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 38502,
-      "createdAt": "2026-07-05T05:51:06Z",
-      "updatedAt": "2026-07-05T05:51:06Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     }
   ]
 }

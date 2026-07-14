@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-aniversario-al-hilal-24-25-torcedor-puma-masculina-azul-com-detalhes-em-branco",
-  "createdAt": "2026-07-09T22:10:56Z",
-  "updatedAt": "2026-07-09T22:10:56Z",
+  "createdAt": "2026-07-13T13:39:52Z",
+  "updatedAt": "2026-07-13T13:39:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8574,
-      "createdAt": "2026-07-09T22:10:55Z",
-      "updatedAt": "2026-07-09T22:10:55Z"
+      "createdAt": "2026-07-13T13:39:52Z",
+      "updatedAt": "2026-07-13T13:39:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4726,
-      "createdAt": "2026-07-09T22:10:56Z",
-      "updatedAt": "2026-07-09T22:10:56Z"
+      "createdAt": "2026-07-13T13:39:52Z",
+      "updatedAt": "2026-07-13T13:39:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 21082,
-      "createdAt": "2026-07-09T22:10:56Z",
-      "updatedAt": "2026-07-09T22:10:56Z"
+      "createdAt": "2026-07-13T13:39:52Z",
+      "updatedAt": "2026-07-13T13:39:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 25152,
-      "createdAt": "2026-07-09T22:10:56Z",
-      "updatedAt": "2026-07-09T22:10:56Z"
+      "createdAt": "2026-07-13T13:39:52Z",
+      "updatedAt": "2026-07-13T13:39:52Z"
     }
   ]
 }

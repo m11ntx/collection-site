@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-brasil-adidas-2026",
-  "createdAt": "2026-07-05T06:09:03Z",
-  "updatedAt": "2026-07-12T01:11:57Z",
+  "createdAt": "2026-07-13T13:51:21Z",
+  "updatedAt": "2026-07-13T13:51:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8328,
-      "createdAt": "2026-07-05T06:09:03Z",
-      "updatedAt": "2026-07-12T01:11:57Z"
+      "createdAt": "2026-07-13T13:51:21Z",
+      "updatedAt": "2026-07-13T13:51:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4982,
-      "createdAt": "2026-07-12T01:11:57Z",
-      "updatedAt": "2026-07-12T01:11:57Z"
+      "createdAt": "2026-07-13T13:51:21Z",
+      "updatedAt": "2026-07-13T13:51:21Z"
     }
   ]
 }

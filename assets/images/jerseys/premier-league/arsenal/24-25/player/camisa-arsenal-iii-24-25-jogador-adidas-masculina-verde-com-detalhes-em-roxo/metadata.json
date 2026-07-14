@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-iii-24-25-jogador-adidas-masculina-verde-com-detalhes-em-roxo",
-  "createdAt": "2026-07-09T03:06:46Z",
-  "updatedAt": "2026-07-09T03:06:46Z",
+  "createdAt": "2026-07-13T13:37:54Z",
+  "updatedAt": "2026-07-13T13:37:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11462,
-      "createdAt": "2026-07-09T03:06:45Z",
-      "updatedAt": "2026-07-09T03:06:45Z"
+      "createdAt": "2026-07-13T13:37:54Z",
+      "updatedAt": "2026-07-13T13:37:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13260,
-      "createdAt": "2026-07-09T03:06:45Z",
-      "updatedAt": "2026-07-09T03:06:45Z"
+      "createdAt": "2026-07-13T13:37:54Z",
+      "updatedAt": "2026-07-13T13:37:54Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 9244,
-      "createdAt": "2026-07-09T03:06:45Z",
-      "updatedAt": "2026-07-09T03:06:45Z"
+      "createdAt": "2026-07-13T13:37:54Z",
+      "updatedAt": "2026-07-13T13:37:54Z"
     }
   ]
 }

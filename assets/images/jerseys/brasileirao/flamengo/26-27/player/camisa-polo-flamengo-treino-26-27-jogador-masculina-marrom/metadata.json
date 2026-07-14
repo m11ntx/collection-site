@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-polo-flamengo-treino-26-27-jogador-masculina-marrom",
-  "createdAt": "2026-07-05T06:09:23Z",
-  "updatedAt": "2026-07-05T06:09:23Z",
+  "createdAt": "2026-07-13T13:49:14Z",
+  "updatedAt": "2026-07-13T13:49:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10166,
-      "createdAt": "2026-07-05T06:09:22Z",
-      "updatedAt": "2026-07-05T06:09:22Z"
+      "createdAt": "2026-07-13T13:49:14Z",
+      "updatedAt": "2026-07-13T13:49:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8976,
-      "createdAt": "2026-07-05T06:09:23Z",
-      "updatedAt": "2026-07-05T06:09:23Z"
+      "createdAt": "2026-07-13T13:49:14Z",
+      "updatedAt": "2026-07-13T13:49:14Z"
     }
   ]
 }

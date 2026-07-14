@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-pre-jogo-arsenal-fc-26-27-adidas-masculina-torcedor",
-  "createdAt": "2026-07-09T22:53:15Z",
-  "updatedAt": "2026-07-09T22:53:15Z",
+  "createdAt": "2026-07-13T13:51:41Z",
+  "updatedAt": "2026-07-13T13:51:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 475,
       "size": 10544,
-      "createdAt": "2026-07-09T22:53:15Z",
-      "updatedAt": "2026-07-09T22:53:15Z"
+      "createdAt": "2026-07-13T13:51:40Z",
+      "updatedAt": "2026-07-13T13:51:40Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7948,
-      "createdAt": "2026-07-09T22:53:15Z",
-      "updatedAt": "2026-07-09T22:53:15Z"
+      "createdAt": "2026-07-13T13:51:41Z",
+      "updatedAt": "2026-07-13T13:51:41Z"
     }
   ]
 }

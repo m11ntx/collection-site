@@ -1,7 +1,7 @@
 {
   "productId": "source-meias-futebol-antiderrapante-cano-alto-laranja-com-detalhes-pretos",
-  "createdAt": "2026-07-09T20:31:30Z",
-  "updatedAt": "2026-07-09T20:31:30Z",
+  "createdAt": "2026-07-13T13:44:07Z",
+  "updatedAt": "2026-07-13T13:44:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16658,
-      "createdAt": "2026-07-09T20:31:29Z",
-      "updatedAt": "2026-07-09T20:31:29Z"
+      "createdAt": "2026-07-13T13:44:06Z",
+      "updatedAt": "2026-07-13T13:44:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 28652,
-      "createdAt": "2026-07-09T20:31:29Z",
-      "updatedAt": "2026-07-09T20:31:29Z"
+      "createdAt": "2026-07-13T13:44:07Z",
+      "updatedAt": "2026-07-13T13:44:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 31336,
-      "createdAt": "2026-07-09T20:31:30Z",
-      "updatedAt": "2026-07-09T20:31:30Z"
+      "createdAt": "2026-07-13T13:44:07Z",
+      "updatedAt": "2026-07-13T13:44:07Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 47540,
-      "createdAt": "2026-07-09T20:31:30Z",
-      "updatedAt": "2026-07-09T20:31:30Z"
+      "createdAt": "2026-07-13T13:44:07Z",
+      "updatedAt": "2026-07-13T13:44:07Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 42830,
-      "createdAt": "2026-07-09T20:31:30Z",
-      "updatedAt": "2026-07-09T20:31:30Z"
+      "createdAt": "2026-07-13T13:44:07Z",
+      "updatedAt": "2026-07-13T13:44:07Z"
     }
   ]
 }

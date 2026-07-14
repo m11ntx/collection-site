@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-nova-zelandia-away-26-27-torcedor-masculino-preto",
-  "createdAt": "2026-07-09T20:32:19Z",
-  "updatedAt": "2026-07-09T20:32:19Z",
+  "createdAt": "2026-07-13T13:51:08Z",
+  "updatedAt": "2026-07-13T13:51:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11004,
-      "createdAt": "2026-07-09T20:32:18Z",
-      "updatedAt": "2026-07-09T20:32:18Z"
+      "createdAt": "2026-07-13T13:51:08Z",
+      "updatedAt": "2026-07-13T13:51:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 225,
       "height": 225,
       "size": 3854,
-      "createdAt": "2026-07-09T20:32:19Z",
-      "updatedAt": "2026-07-09T20:32:19Z"
+      "createdAt": "2026-07-13T13:51:08Z",
+      "updatedAt": "2026-07-13T13:51:08Z"
     }
   ]
 }

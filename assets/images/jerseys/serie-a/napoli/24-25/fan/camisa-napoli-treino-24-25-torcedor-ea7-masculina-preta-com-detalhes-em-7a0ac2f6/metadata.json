@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-napoli-treino-24-25-torcedor-ea7-masculina-preta-com-detalhes-em-azul-e-com-patrocinio",
-  "createdAt": "2026-07-09T22:10:02Z",
-  "updatedAt": "2026-07-09T22:10:02Z",
+  "createdAt": "2026-07-13T13:37:46Z",
+  "updatedAt": "2026-07-13T13:37:46Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18980,
-      "createdAt": "2026-07-09T22:10:01Z",
-      "updatedAt": "2026-07-09T22:10:01Z"
+      "createdAt": "2026-07-13T13:37:46Z",
+      "updatedAt": "2026-07-13T13:37:46Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 27876,
-      "createdAt": "2026-07-09T22:10:01Z",
-      "updatedAt": "2026-07-09T22:10:01Z"
+      "createdAt": "2026-07-13T13:37:46Z",
+      "updatedAt": "2026-07-13T13:37:46Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 54078,
-      "createdAt": "2026-07-09T22:10:01Z",
-      "updatedAt": "2026-07-09T22:10:01Z"
+      "createdAt": "2026-07-13T13:37:46Z",
+      "updatedAt": "2026-07-13T13:37:46Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 46678,
-      "createdAt": "2026-07-09T22:10:02Z",
-      "updatedAt": "2026-07-09T22:10:02Z"
+      "createdAt": "2026-07-13T13:37:46Z",
+      "updatedAt": "2026-07-13T13:37:46Z"
     }
   ]
 }

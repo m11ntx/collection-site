@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-iv-24-25-torcedor-reebok-masculina-preta-com-detalhes-em-amarelo-e-branco",
-  "createdAt": "2026-07-09T22:10:50Z",
-  "updatedAt": "2026-07-09T22:10:50Z",
+  "createdAt": "2026-07-13T13:39:32Z",
+  "updatedAt": "2026-07-13T13:39:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23522,
-      "createdAt": "2026-07-09T22:10:50Z",
-      "updatedAt": "2026-07-09T22:10:50Z"
+      "createdAt": "2026-07-13T13:39:31Z",
+      "updatedAt": "2026-07-13T13:39:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10994,
-      "createdAt": "2026-07-09T22:10:50Z",
-      "updatedAt": "2026-07-09T22:10:50Z"
+      "createdAt": "2026-07-13T13:39:31Z",
+      "updatedAt": "2026-07-13T13:39:31Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 20064,
-      "createdAt": "2026-07-09T22:10:50Z",
-      "updatedAt": "2026-07-09T22:10:50Z"
+      "createdAt": "2026-07-13T13:39:31Z",
+      "updatedAt": "2026-07-13T13:39:31Z"
     }
   ]
 }

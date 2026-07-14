@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-mineiro-i-2025-26-torcedor",
-  "createdAt": "2026-07-05T16:55:11Z",
-  "updatedAt": "2026-07-05T16:55:11Z",
+  "createdAt": "2026-07-13T13:46:04Z",
+  "updatedAt": "2026-07-13T13:46:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12130,
-      "createdAt": "2026-07-05T16:55:10Z",
-      "updatedAt": "2026-07-05T16:55:10Z"
+      "createdAt": "2026-07-13T13:46:04Z",
+      "updatedAt": "2026-07-13T13:46:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8100,
-      "createdAt": "2026-07-05T16:55:11Z",
-      "updatedAt": "2026-07-05T16:55:11Z"
+      "createdAt": "2026-07-13T13:46:04Z",
+      "updatedAt": "2026-07-13T13:46:04Z"
     }
   ]
 }

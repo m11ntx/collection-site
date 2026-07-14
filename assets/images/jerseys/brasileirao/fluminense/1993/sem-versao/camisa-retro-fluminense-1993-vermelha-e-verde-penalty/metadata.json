@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-fluminense-1993-vermelha-e-verde-penalty",
-  "createdAt": "2026-07-09T16:38:27Z",
-  "updatedAt": "2026-07-09T16:38:27Z",
+  "createdAt": "2026-07-13T13:30:17Z",
+  "updatedAt": "2026-07-13T13:30:17Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14860,
-      "createdAt": "2026-07-09T16:38:26Z",
-      "updatedAt": "2026-07-09T16:38:26Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11080,
-      "createdAt": "2026-07-09T16:38:26Z",
-      "updatedAt": "2026-07-09T16:38:26Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16712,
-      "createdAt": "2026-07-09T16:38:26Z",
-      "updatedAt": "2026-07-09T16:38:26Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 19168,
-      "createdAt": "2026-07-09T16:38:27Z",
-      "updatedAt": "2026-07-09T16:38:27Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 22760,
-      "createdAt": "2026-07-09T16:38:27Z",
-      "updatedAt": "2026-07-09T16:38:27Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 16310,
-      "createdAt": "2026-07-09T16:38:27Z",
-      "updatedAt": "2026-07-09T16:38:27Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 13926,
-      "createdAt": "2026-07-09T16:38:27Z",
-      "updatedAt": "2026-07-09T16:38:27Z"
+      "createdAt": "2026-07-13T13:30:17Z",
+      "updatedAt": "2026-07-13T13:30:17Z"
     }
   ]
 }

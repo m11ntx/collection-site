@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-regata-los-angeles-lakers-amarela-nike-masculina-gola-v",
-  "createdAt": "2026-07-09T20:30:50Z",
-  "updatedAt": "2026-07-09T20:30:50Z",
+  "createdAt": "2026-07-13T13:24:45Z",
+  "updatedAt": "2026-07-13T13:24:45Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14046,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:44Z",
+      "updatedAt": "2026-07-13T13:24:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 20694,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:45Z",
+      "updatedAt": "2026-07-13T13:24:45Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12972,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:45Z",
+      "updatedAt": "2026-07-13T13:24:45Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22552,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:45Z",
+      "updatedAt": "2026-07-13T13:24:45Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 24124,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:45Z",
+      "updatedAt": "2026-07-13T13:24:45Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 26896,
-      "createdAt": "2026-07-09T20:30:49Z",
-      "updatedAt": "2026-07-09T20:30:49Z"
+      "createdAt": "2026-07-13T13:24:45Z",
+      "updatedAt": "2026-07-13T13:24:45Z"
     }
   ]
 }

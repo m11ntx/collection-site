@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-tottenham-ii-24-25-jogador-nike-masculina-azul",
-  "createdAt": "2026-07-09T03:08:41Z",
-  "updatedAt": "2026-07-09T03:08:41Z",
+  "createdAt": "2026-07-13T13:38:27Z",
+  "updatedAt": "2026-07-13T13:38:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14256,
-      "createdAt": "2026-07-09T03:08:41Z",
-      "updatedAt": "2026-07-09T03:08:41Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14634,
-      "createdAt": "2026-07-09T03:08:41Z",
-      "updatedAt": "2026-07-09T03:08:41Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 41994,
-      "createdAt": "2026-07-09T03:08:41Z",
-      "updatedAt": "2026-07-09T03:08:41Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 46076,
-      "createdAt": "2026-07-09T03:08:41Z",
-      "updatedAt": "2026-07-09T03:08:41Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 49428,
-      "createdAt": "2026-07-09T03:08:41Z",
-      "updatedAt": "2026-07-09T03:08:41Z"
+      "createdAt": "2026-07-13T13:38:27Z",
+      "updatedAt": "2026-07-13T13:38:27Z"
     }
   ]
 }

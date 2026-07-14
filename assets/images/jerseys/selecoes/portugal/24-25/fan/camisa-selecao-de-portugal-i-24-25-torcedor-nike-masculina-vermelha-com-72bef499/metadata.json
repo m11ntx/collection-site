@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-de-portugal-i-24-25-torcedor-nike-masculina-vermelha-com-detalhes-em-preto-e-verde",
-  "createdAt": "2026-07-09T22:07:44Z",
-  "updatedAt": "2026-07-09T22:07:44Z",
+  "createdAt": "2026-07-13T13:30:28Z",
+  "updatedAt": "2026-07-13T13:30:28Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7028,
-      "createdAt": "2026-07-09T22:07:44Z",
-      "updatedAt": "2026-07-09T22:07:44Z"
+      "createdAt": "2026-07-13T13:30:27Z",
+      "updatedAt": "2026-07-13T13:30:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5112,
-      "createdAt": "2026-07-09T22:07:44Z",
-      "updatedAt": "2026-07-09T22:07:44Z"
+      "createdAt": "2026-07-13T13:30:27Z",
+      "updatedAt": "2026-07-13T13:30:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 73592,
-      "createdAt": "2026-07-09T22:07:44Z",
-      "updatedAt": "2026-07-09T22:07:44Z"
+      "createdAt": "2026-07-13T13:30:28Z",
+      "updatedAt": "2026-07-13T13:30:28Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 59590,
-      "createdAt": "2026-07-09T22:07:44Z",
-      "updatedAt": "2026-07-09T22:07:44Z"
+      "createdAt": "2026-07-13T13:30:28Z",
+      "updatedAt": "2026-07-13T13:30:28Z"
     }
   ]
 }

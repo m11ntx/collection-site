@@ -1,7 +1,7 @@
 {
   "productId": "source-conjunto-liverpool-treino-ii-24-25-masculino-nike-verde-e-cinza",
-  "createdAt": "2026-07-09T22:49:30Z",
-  "updatedAt": "2026-07-09T22:49:30Z",
+  "createdAt": "2026-07-13T13:41:49Z",
+  "updatedAt": "2026-07-13T13:41:49Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10052,
-      "createdAt": "2026-07-09T22:49:30Z",
-      "updatedAt": "2026-07-09T22:49:30Z"
+      "createdAt": "2026-07-13T13:41:48Z",
+      "updatedAt": "2026-07-13T13:41:48Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10046,
-      "createdAt": "2026-07-09T22:49:30Z",
-      "updatedAt": "2026-07-09T22:49:30Z"
+      "createdAt": "2026-07-13T13:41:49Z",
+      "updatedAt": "2026-07-13T13:41:49Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7682,
-      "createdAt": "2026-07-09T22:49:30Z",
-      "updatedAt": "2026-07-09T22:49:30Z"
+      "createdAt": "2026-07-13T13:41:49Z",
+      "updatedAt": "2026-07-13T13:41:49Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 33970,
-      "createdAt": "2026-07-09T22:49:30Z",
-      "updatedAt": "2026-07-09T22:49:30Z"
+      "createdAt": "2026-07-13T13:41:49Z",
+      "updatedAt": "2026-07-13T13:41:49Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 30414,
-      "createdAt": "2026-07-09T22:49:30Z",
-      "updatedAt": "2026-07-09T22:49:30Z"
+      "createdAt": "2026-07-13T13:41:49Z",
+      "updatedAt": "2026-07-13T13:41:49Z"
     }
   ]
 }
