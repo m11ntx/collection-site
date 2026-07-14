@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3237,
+    "products": 3236,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,10 +8,10 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3200,
+    "available": 3199,
     "unavailable": 37,
     "inventoryTracked": 0,
-    "withManufacturer": 2595
+    "withManufacturer": 2594
   },
   "byCollection": {
     "acessorios": 37,
@@ -19,7 +19,7 @@
     "europa": 1393,
     "nba": 126,
     "resto-do-mundo": 223,
-    "selecoes": 642
+    "selecoes": 641
   },
   "byLeague": {
     "allsvenskan": 1,
@@ -34,7 +34,7 @@
     "primeira-liga": 19,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 642,
+    "selecoes": 641,
     "serie-a": 297,
     "super-lig": 1,
     "unknown": 163
@@ -42,7 +42,7 @@
   "byRegion": {
     "africa": 11,
     "americas": 226,
-    "asia": 44,
+    "asia": 43,
     "europa": 359,
     "minas-gerais": 85,
     "nordeste": 72,
@@ -145,7 +145,7 @@
     "italia": 51,
     "iugoslavia": 1,
     "jamaica": 3,
-    "japao": 37,
+    "japao": 36,
     "juventus": 56,
     "la-galaxy": 5,
     "lazio": 24,
@@ -397,7 +397,7 @@
     "24/35": 1,
     "25/26": 314,
     "2526": 1,
-    "26/27": 236,
+    "26/27": 235,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -427,16 +427,16 @@
     "current": 111,
     "manga-longa": 194,
     "retro": 760,
-    "unknown": 2172
+    "unknown": 2171
   },
   "byVersion": {
-    "fan": 1359,
+    "fan": 1358,
     "player": 305,
     "unknown": 1573
   },
   "byGender": {
     "kids": 222,
-    "men": 2310,
+    "men": 2309,
     "unknown": 522,
     "women": 183
   }
