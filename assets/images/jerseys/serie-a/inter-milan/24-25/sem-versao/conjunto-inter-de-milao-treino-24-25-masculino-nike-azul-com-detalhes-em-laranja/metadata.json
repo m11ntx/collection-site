@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-com-detalhes-em-laranja",
+  "createdAt": "2026-07-14T23:11:03Z",
+  "updatedAt": "2026-07-14T23:11:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-com-detalhes-em-laranja/front.webp",
+      "hash": "cd4dc412e5a427eb09368d98d654a9fba55ee9688e30a75a6bb61265971e8ded",
+      "width": 480,
+      "height": 480,
+      "size": 14066,
+      "createdAt": "2026-07-14T23:11:03Z",
+      "updatedAt": "2026-07-14T23:11:03Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-com-detalhes-em-laranja/back.webp",
+      "hash": "ee99a4234c5992835eb0ac464e93c8c34cb6cae61f73fc49853cf83df789f374",
+      "width": 480,
+      "height": 480,
+      "size": 11712,
+      "createdAt": "2026-07-14T23:11:03Z",
+      "updatedAt": "2026-07-14T23:11:03Z"
+    }
+  ]
+}

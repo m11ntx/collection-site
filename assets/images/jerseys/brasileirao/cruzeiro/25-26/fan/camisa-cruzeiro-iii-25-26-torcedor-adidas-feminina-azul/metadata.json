@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cruzeiro-iii-25-26-torcedor-adidas-feminina-azul",
+  "createdAt": "2026-07-14T23:13:22Z",
+  "updatedAt": "2026-07-14T23:13:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-iii-25-26-torcedor-adidas-feminina-azul/front.webp",
+      "hash": "08178a40dfa756a99c23aafea7d16bdf795259df914090749f48ce03b1eb6a09",
+      "width": 480,
+      "height": 480,
+      "size": 16360,
+      "createdAt": "2026-07-14T23:13:22Z",
+      "updatedAt": "2026-07-14T23:13:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/25-26/fan/camisa-cruzeiro-iii-25-26-torcedor-adidas-feminina-azul/back.webp",
+      "hash": "102b7c9a9593da95d32565360d55854064cb88090e7d9c1b9e8578bb9ca08e8b",
+      "width": 480,
+      "height": 480,
+      "size": 7082,
+      "createdAt": "2026-07-14T23:13:22Z",
+      "updatedAt": "2026-07-14T23:13:22Z"
+    }
+  ]
+}

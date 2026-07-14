@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-feminina-palmeiras-brasil-amarela-25-26",
+  "createdAt": "2026-07-14T23:14:02Z",
+  "updatedAt": "2026-07-14T23:14:02Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/sem-versao/camisa-feminina-palmeiras-brasil-amarela-25-26/front.webp",
+      "hash": "458e48e48cd792f3bdc125988c1e24da6a120e0a093f76c9c158170de3fe7896",
+      "width": 480,
+      "height": 472,
+      "size": 9244,
+      "createdAt": "2026-07-14T23:14:01Z",
+      "updatedAt": "2026-07-14T23:14:01Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/palmeiras/25-26/sem-versao/camisa-feminina-palmeiras-brasil-amarela-25-26/back.webp",
+      "hash": "3c6dbe627c646e2586397f63c7736dd062b8a65f380b2ce9577a07f78788ce4e",
+      "width": 480,
+      "height": 510,
+      "size": 7662,
+      "createdAt": "2026-07-14T23:14:01Z",
+      "updatedAt": "2026-07-14T23:14:01Z"
+    }
+  ]
+}

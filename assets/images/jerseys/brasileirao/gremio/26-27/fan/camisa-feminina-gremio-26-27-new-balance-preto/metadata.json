@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-feminina-gremio-26-27-new-balance-preto",
+  "createdAt": "2026-07-14T23:13:57Z",
+  "updatedAt": "2026-07-14T23:13:57Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-feminina-gremio-26-27-new-balance-preto/front.webp",
+      "hash": "0561399aab5caf8d8e0fd2d850a93d295bf3d223e4a33c9f172d933495f37b49",
+      "width": 480,
+      "height": 480,
+      "size": 13018,
+      "createdAt": "2026-07-14T23:13:57Z",
+      "updatedAt": "2026-07-14T23:13:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-feminina-gremio-26-27-new-balance-preto/back.webp",
+      "hash": "5bf63d7c394b72310ea3957f3e0bf5344b164153fb89c6585934c5a7c048d07e",
+      "width": 480,
+      "height": 480,
+      "size": 12294,
+      "createdAt": "2026-07-14T23:13:57Z",
+      "updatedAt": "2026-07-14T23:13:57Z"
+    }
+  ]
+}

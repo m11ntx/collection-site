@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-brasil-24-25-amarelo",
+  "createdAt": "2026-07-14T23:12:39Z",
+  "updatedAt": "2026-07-14T23:12:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/kit-infantil-brasil-24-25-amarelo/front.webp",
+      "hash": "6c2a467665e1f7e351bcda13c82c45fb778c270a23cd440eafa8d1e095b04098",
+      "width": 480,
+      "height": 480,
+      "size": 14136,
+      "createdAt": "2026-07-14T23:12:39Z",
+      "updatedAt": "2026-07-14T23:12:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/brasil/24-25/sem-versao/kit-infantil-brasil-24-25-amarelo/back.webp",
+      "hash": "ee2e80f73b3c6639501ce7833407df3b06d6fc80eed8e3e0ffd50d5a90a49243",
+      "width": 480,
+      "height": 480,
+      "size": 12350,
+      "createdAt": "2026-07-14T23:12:39Z",
+      "updatedAt": "2026-07-14T23:12:39Z"
+    }
+  ]
+}

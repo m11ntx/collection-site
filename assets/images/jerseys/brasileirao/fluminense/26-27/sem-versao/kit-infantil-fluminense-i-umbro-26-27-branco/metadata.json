@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-fluminense-i-umbro-26-27-branco",
+  "createdAt": "2026-07-14T23:14:22Z",
+  "updatedAt": "2026-07-14T23:14:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/sem-versao/kit-infantil-fluminense-i-umbro-26-27-branco/front.webp",
+      "hash": "90496eb9da8b159f427e9b8949fbd247e980aa2c8bc2fa8424ee5f279c2d2d12",
+      "width": 480,
+      "height": 480,
+      "size": 12466,
+      "createdAt": "2026-07-14T23:14:21Z",
+      "updatedAt": "2026-07-14T23:14:21Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/sem-versao/kit-infantil-fluminense-i-umbro-26-27-branco/back.webp",
+      "hash": "6dc7ff8fbbb9389f2bf4909b1fa5209bd94abb51cc594ee5ce2cc447462c321e",
+      "width": 480,
+      "height": 480,
+      "size": 10830,
+      "createdAt": "2026-07-14T23:14:22Z",
+      "updatedAt": "2026-07-14T23:14:22Z"
+    }
+  ]
+}

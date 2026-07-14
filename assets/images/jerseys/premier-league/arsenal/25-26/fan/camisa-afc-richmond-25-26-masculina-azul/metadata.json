@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-afc-richmond-25-26-masculina-azul",
+  "createdAt": "2026-07-14T23:13:22Z",
+  "updatedAt": "2026-07-14T23:13:22Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/fan/camisa-afc-richmond-25-26-masculina-azul/front.webp",
+      "hash": "60bfc1ea27574242ea3a67f4fd45a6c0a2c5cd876b93d71d990179269e25dab1",
+      "width": 480,
+      "height": 480,
+      "size": 12328,
+      "createdAt": "2026-07-14T23:13:22Z",
+      "updatedAt": "2026-07-14T23:13:22Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/25-26/fan/camisa-afc-richmond-25-26-masculina-azul/back.webp",
+      "hash": "2e78297a551714c0bdd60a04deaaa8ed06519fcad0a5d89ced72f90c2f8a672d",
+      "width": 480,
+      "height": 480,
+      "size": 5858,
+      "createdAt": "2026-07-14T23:13:22Z",
+      "updatedAt": "2026-07-14T23:13:22Z"
+    }
+  ]
+}

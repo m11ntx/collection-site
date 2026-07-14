@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-corinthians-ii-25-26-torcedor-nike-juvenil",
+  "createdAt": "2026-07-14T23:14:17Z",
+  "updatedAt": "2026-07-14T23:14:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-do-corinthians-ii-25-26-torcedor-nike-juvenil/front.webp",
+      "hash": "d1cf72b4660c8b5cf26e20510bc0b08aa1de170633cf7cbefdf88ec4988a584a",
+      "width": 480,
+      "height": 480,
+      "size": 4822,
+      "createdAt": "2026-07-14T23:14:16Z",
+      "updatedAt": "2026-07-14T23:14:16Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-do-corinthians-ii-25-26-torcedor-nike-juvenil/back.webp",
+      "hash": "fb5e563c3ee4d2324c49baa2d7506f74fc86ca17097f6233aaa71bb3dec32f51",
+      "width": 480,
+      "height": 480,
+      "size": 5848,
+      "createdAt": "2026-07-14T23:14:17Z",
+      "updatedAt": "2026-07-14T23:14:17Z"
+    }
+  ]
+}

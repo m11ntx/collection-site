@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-e-preto",
+  "createdAt": "2026-07-14T23:11:04Z",
+  "updatedAt": "2026-07-14T23:11:04Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-e-preto/front.webp",
+      "hash": "b2891826a730ff7365cde61fe1dc4531c750c0e997c9e10164f41ebf9e5a437c",
+      "width": 480,
+      "height": 480,
+      "size": 13822,
+      "createdAt": "2026-07-14T23:11:04Z",
+      "updatedAt": "2026-07-14T23:11:04Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-treino-24-25-masculino-nike-azul-e-preto/back.webp",
+      "hash": "271ac4df64dc8049830b48f45d131f7b9808ef180e2f55957f03ca02e0a963a1",
+      "width": 480,
+      "height": 480,
+      "size": 9516,
+      "createdAt": "2026-07-14T23:11:04Z",
+      "updatedAt": "2026-07-14T23:11:04Z"
+    }
+  ]
+}

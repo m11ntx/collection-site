@@ -1,0 +1,27 @@
+{
+  "productId": "source-conjunto-inter-de-milao-24-25-masculino-nike-azul",
+  "createdAt": "2026-07-14T23:10:52Z",
+  "updatedAt": "2026-07-14T23:10:52Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-24-25-masculino-nike-azul/front.webp",
+      "hash": "40b39370bc25c5b326af28a8aec7fc5c87eccc5daf0d7d1958839f4ee89605aa",
+      "width": 480,
+      "height": 480,
+      "size": 8522,
+      "createdAt": "2026-07-14T23:10:52Z",
+      "updatedAt": "2026-07-14T23:10:52Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/inter-milan/24-25/sem-versao/conjunto-inter-de-milao-24-25-masculino-nike-azul/back.webp",
+      "hash": "54e33a4642cbd0e0a062b436de157cabf7cbfe571c5472a50ad68126ee86868d",
+      "width": 480,
+      "height": 480,
+      "size": 7516,
+      "createdAt": "2026-07-14T23:10:52Z",
+      "updatedAt": "2026-07-14T23:10:52Z"
+    }
+  ]
+}
