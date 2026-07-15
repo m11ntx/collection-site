@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado",
+  "createdAt": "2026-07-15T00:16:03Z",
+  "updatedAt": "2026-07-15T00:16:03Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/juventus-da-mooca/24-25/fan/camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado/front.webp",
+      "hash": "27e61ba4575ab0da67c144f9f086c43eed98b2d5c82dc046c564eba60d1159b8",
+      "width": 480,
+      "height": 480,
+      "size": 25146,
+      "createdAt": "2026-07-15T00:16:02Z",
+      "updatedAt": "2026-07-15T00:16:02Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/juventus-da-mooca/24-25/fan/camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado/back.webp",
+      "hash": "33aef102a8ceaccc42567fa7f4430403deec1f56ce6014d4214dd1c6fc352209",
+      "width": 480,
+      "height": 480,
+      "size": 24984,
+      "createdAt": "2026-07-15T00:16:03Z",
+      "updatedAt": "2026-07-15T00:16:03Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/brasileirao/juventus-da-mooca/24-25/fan/camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado/detail-1.webp",
+      "hash": "1a11213f19a50429ef6a26e7ad418df86f93518c7f92647e8f2080a9f2470109",
+      "width": 480,
+      "height": 480,
+      "size": 46376,
+      "createdAt": "2026-07-15T00:16:03Z",
+      "updatedAt": "2026-07-15T00:16:03Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/brasileirao/juventus-da-mooca/24-25/fan/camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado/detail-2.webp",
+      "hash": "546f68307c49ccafc6641a49de96db9370445f1601211574ba41784c6358cbe3",
+      "width": 480,
+      "height": 480,
+      "size": 69590,
+      "createdAt": "2026-07-15T00:16:03Z",
+      "updatedAt": "2026-07-15T00:16:03Z"
+    }
+  ]
+}

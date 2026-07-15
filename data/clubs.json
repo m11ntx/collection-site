@@ -180,6 +180,16 @@
     "image": "internacional"
   },
   {
+    "id": "juventus-da-mooca",
+    "leagueId": "brasileirao",
+    "regionId": "sao-paulo",
+    "slug": "juventus-da-mooca",
+    "name": "Juventus da Mooca",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "nautico",
     "leagueId": "brasileirao",
     "regionId": "nordeste",
@@ -1100,6 +1110,16 @@
     "image": "rangers"
   },
   {
+    "id": "africa-do-sul",
+    "leagueId": "selecoes",
+    "regionId": "africa",
+    "slug": "africa-do-sul",
+    "name": "África do Sul",
+    "country": "South Africa",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "alemanha",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1148,6 +1168,16 @@
     "country": "Belgium",
     "badge": null,
     "image": "belgica"
+  },
+  {
+    "id": "bosnia-e-herzegovina",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "bosnia-e-herzegovina",
+    "name": "Bósnia e Herzegovina",
+    "country": "Bosnia and Herzegovina",
+    "badge": null,
+    "image": null
   },
   {
     "id": "brasil",
@@ -1320,6 +1350,16 @@
     "image": "franca"
   },
   {
+    "id": "haiti",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "haiti",
+    "name": "Haiti",
+    "country": "Haiti",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "holanda",
     "leagueId": "selecoes",
     "regionId": "europa",
@@ -1480,6 +1520,16 @@
     "image": "pais-de-gales"
   },
   {
+    "id": "panama",
+    "leagueId": "selecoes",
+    "regionId": "americas",
+    "slug": "panama",
+    "name": "Panamá",
+    "country": "Panama",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "paraguai",
     "leagueId": "selecoes",
     "regionId": "americas",
@@ -1568,6 +1618,16 @@
     "country": "Tunisia",
     "badge": null,
     "image": "tunisia"
+  },
+  {
+    "id": "turquia",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "turquia",
+    "name": "Turquia",
+    "country": "Turkey",
+    "badge": null,
+    "image": null
   },
   {
     "id": "ucrania",

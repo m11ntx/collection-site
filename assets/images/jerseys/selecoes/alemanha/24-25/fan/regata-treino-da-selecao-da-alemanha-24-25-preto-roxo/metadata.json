@@ -1,0 +1,27 @@
+{
+  "productId": "source-regata-treino-da-selecao-da-alemanha-24-25-preto-roxo",
+  "createdAt": "2026-07-15T00:16:17Z",
+  "updatedAt": "2026-07-15T00:16:17Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/regata-treino-da-selecao-da-alemanha-24-25-preto-roxo/front.webp",
+      "hash": "2f2bd6dd5c646bbb8df133174e40a2b0b0d1d5c9082b4702423dd00a33ad5ea8",
+      "width": 480,
+      "height": 480,
+      "size": 5946,
+      "createdAt": "2026-07-15T00:16:17Z",
+      "updatedAt": "2026-07-15T00:16:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/alemanha/24-25/fan/regata-treino-da-selecao-da-alemanha-24-25-preto-roxo/back.webp",
+      "hash": "61bbc09086e70eabc17fad1405e3d11ac7d0aed59aa86eddd54dd3d22549bf9a",
+      "width": 480,
+      "height": 480,
+      "size": 2986,
+      "createdAt": "2026-07-15T00:16:17Z",
+      "updatedAt": "2026-07-15T00:16:17Z"
+    }
+  ]
+}

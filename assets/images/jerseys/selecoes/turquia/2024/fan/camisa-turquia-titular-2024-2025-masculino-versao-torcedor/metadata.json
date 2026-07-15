@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-turquia-titular-2024-2025-masculino-versao-torcedor",
+  "createdAt": "2026-07-15T00:15:33Z",
+  "updatedAt": "2026-07-15T00:15:33Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/turquia/2024/fan/camisa-turquia-titular-2024-2025-masculino-versao-torcedor/front.webp",
+      "hash": "40f3fc54ae6d75ef21817625aaf05453cb446f306d11c03e6abf28689410c532",
+      "width": 480,
+      "height": 480,
+      "size": 6326,
+      "createdAt": "2026-07-15T00:15:33Z",
+      "updatedAt": "2026-07-15T00:15:33Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/turquia/2024/fan/camisa-turquia-titular-2024-2025-masculino-versao-torcedor/back.webp",
+      "hash": "f51b4dec9d2716ab0f80e07acba9afc7827da7e532f2cbee678859dee07be583",
+      "width": 480,
+      "height": 480,
+      "size": 5580,
+      "createdAt": "2026-07-15T00:15:33Z",
+      "updatedAt": "2026-07-15T00:15:33Z"
+    }
+  ]
+}

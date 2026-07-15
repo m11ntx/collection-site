@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-da-selecao-do-bosnia-e-herzegovina-26-27-away-masculina-modelo-torcedor",
+  "createdAt": "2026-07-15T00:17:15Z",
+  "updatedAt": "2026-07-15T00:17:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/bosnia-e-herzegovina/26-27/fan/camisa-da-selecao-do-bosnia-e-herzegovina-26-27-away-masculina-modelo-torcedor/front.webp",
+      "hash": "5e04712778e9d2a30fa7a2e564d2f2ed2415c611577fa49b9473f881f9d74aec",
+      "width": 480,
+      "height": 480,
+      "size": 9686,
+      "createdAt": "2026-07-15T00:17:15Z",
+      "updatedAt": "2026-07-15T00:17:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/bosnia-e-herzegovina/26-27/fan/camisa-da-selecao-do-bosnia-e-herzegovina-26-27-away-masculina-modelo-torcedor/back.webp",
+      "hash": "a6114645a5cdaa8fcb85a899e4a1990ca6f95c1d23ebeacbb840ad8d4f408a25",
+      "width": 480,
+      "height": 480,
+      "size": 4068,
+      "createdAt": "2026-07-15T00:17:15Z",
+      "updatedAt": "2026-07-15T00:17:15Z"
+    }
+  ]
+}
