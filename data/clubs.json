@@ -187,7 +187,7 @@
     "name": "Juventus da Mooca",
     "country": "Brazil",
     "badge": null,
-    "image": null
+    "image": "juventus-da-mooca"
   },
   {
     "id": "nautico",
@@ -1117,7 +1117,7 @@
     "name": "África do Sul",
     "country": "South Africa",
     "badge": null,
-    "image": null
+    "image": "africa-do-sul"
   },
   {
     "id": "alemanha",
@@ -1177,7 +1177,7 @@
     "name": "Bósnia e Herzegovina",
     "country": "Bosnia and Herzegovina",
     "badge": null,
-    "image": null
+    "image": "bosnia-e-herzegovina"
   },
   {
     "id": "brasil",
@@ -1357,7 +1357,7 @@
     "name": "Haiti",
     "country": "Haiti",
     "badge": null,
-    "image": null
+    "image": "haiti"
   },
   {
     "id": "holanda",
@@ -1527,7 +1527,7 @@
     "name": "Panamá",
     "country": "Panama",
     "badge": null,
-    "image": null
+    "image": "panama"
   },
   {
     "id": "paraguai",
@@ -1627,7 +1627,7 @@
     "name": "Turquia",
     "country": "Turkey",
     "badge": null,
-    "image": null
+    "image": "turquia"
   },
   {
     "id": "ucrania",
