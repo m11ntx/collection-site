@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-real-betis-i-24-25-torcedor-masculina-verde-com-patrocinadores",
-  "createdAt": "2026-07-07T03:08:21Z",
-  "updatedAt": "2026-07-07T03:08:21Z",
+  "createdAt": "2026-07-13T13:45:44Z",
+  "updatedAt": "2026-07-13T13:45:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14384,
-      "createdAt": "2026-07-07T03:08:08Z",
-      "updatedAt": "2026-07-07T03:08:08Z"
+      "createdAt": "2026-07-13T13:45:41Z",
+      "updatedAt": "2026-07-13T13:45:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 17614,
-      "createdAt": "2026-07-07T03:08:08Z",
-      "updatedAt": "2026-07-07T03:08:08Z"
+      "createdAt": "2026-07-13T13:45:41Z",
+      "updatedAt": "2026-07-13T13:45:41Z"
     }
   ]
 }

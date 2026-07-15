@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-bahia-ii-24-25-esquadrao-azul-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-09T17:17:38Z",
-  "updatedAt": "2026-07-09T17:17:38Z",
+  "createdAt": "2026-07-13T13:41:32Z",
+  "updatedAt": "2026-07-13T13:41:32Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16604,
-      "createdAt": "2026-07-09T17:17:37Z",
-      "updatedAt": "2026-07-09T17:17:37Z"
+      "createdAt": "2026-07-13T13:41:31Z",
+      "updatedAt": "2026-07-13T13:41:31Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15916,
-      "createdAt": "2026-07-09T17:17:38Z",
-      "updatedAt": "2026-07-09T17:17:38Z"
+      "createdAt": "2026-07-13T13:41:32Z",
+      "updatedAt": "2026-07-13T13:41:32Z"
     }
   ]
 }

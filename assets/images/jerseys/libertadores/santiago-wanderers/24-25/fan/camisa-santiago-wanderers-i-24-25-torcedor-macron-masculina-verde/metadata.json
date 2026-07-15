@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santiago-wanderers-i-24-25-torcedor-macron-masculina-verde",
-  "createdAt": "2026-07-07T05:05:48Z",
-  "updatedAt": "2026-07-07T05:05:48Z",
+  "createdAt": "2026-07-13T13:36:41Z",
+  "updatedAt": "2026-07-13T13:36:41Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17238,
-      "createdAt": "2026-07-07T05:05:48Z",
-      "updatedAt": "2026-07-07T05:05:48Z"
+      "createdAt": "2026-07-13T13:36:41Z",
+      "updatedAt": "2026-07-13T13:36:41Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15272,
-      "createdAt": "2026-07-07T05:05:48Z",
-      "updatedAt": "2026-07-07T05:05:48Z"
+      "createdAt": "2026-07-13T13:36:41Z",
+      "updatedAt": "2026-07-13T13:36:41Z"
     }
   ]
 }

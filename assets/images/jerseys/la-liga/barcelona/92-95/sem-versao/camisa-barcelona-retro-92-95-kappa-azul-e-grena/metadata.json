@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-retro-92-95-kappa-azul-e-grena",
-  "createdAt": "2026-07-09T16:36:04Z",
-  "updatedAt": "2026-07-09T16:36:04Z",
+  "createdAt": "2026-07-13T13:25:52Z",
+  "updatedAt": "2026-07-13T13:25:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13142,
-      "createdAt": "2026-07-09T16:36:03Z",
-      "updatedAt": "2026-07-09T16:36:03Z"
+      "createdAt": "2026-07-13T13:25:51Z",
+      "updatedAt": "2026-07-13T13:25:51Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11754,
-      "createdAt": "2026-07-09T16:36:03Z",
-      "updatedAt": "2026-07-09T16:36:03Z"
+      "createdAt": "2026-07-13T13:25:51Z",
+      "updatedAt": "2026-07-13T13:25:51Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 23896,
-      "createdAt": "2026-07-09T16:36:03Z",
-      "updatedAt": "2026-07-09T16:36:03Z"
+      "createdAt": "2026-07-13T13:25:51Z",
+      "updatedAt": "2026-07-13T13:25:51Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 55956,
-      "createdAt": "2026-07-09T16:36:03Z",
-      "updatedAt": "2026-07-09T16:36:03Z"
+      "createdAt": "2026-07-13T13:25:51Z",
+      "updatedAt": "2026-07-13T13:25:51Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 27194,
-      "createdAt": "2026-07-09T16:36:04Z",
-      "updatedAt": "2026-07-09T16:36:04Z"
+      "createdAt": "2026-07-13T13:25:51Z",
+      "updatedAt": "2026-07-13T13:25:51Z"
     }
   ]
 }

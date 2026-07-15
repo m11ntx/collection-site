@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-nike-corinthians-pre-jogo-25-26-masculina-preto",
-  "createdAt": "2026-07-14T19:16:31Z",
-  "updatedAt": "2026-07-14T19:16:31Z",
+  "createdAt": "2026-07-13T13:51:45Z",
+  "updatedAt": "2026-07-15T10:36:39Z",
   "images": [
     {
       "view": "front",
@@ -10,18 +10,18 @@
       "width": 480,
       "height": 480,
       "size": 9898,
-      "createdAt": "2026-07-14T19:16:30Z",
-      "updatedAt": "2026-07-14T19:16:30Z"
+      "createdAt": "2026-07-13T13:51:45Z",
+      "updatedAt": "2026-07-13T13:51:45Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/corinthians/25-26/fan/camisa-nike-corinthians-pre-jogo-25-26-masculina-preto/back.webp",
-      "hash": "10cf1b71ce8df54ebe3f88eea4a082b2a9bd6eef8c9e8f7226f7334e52a110b3",
+      "hash": "9c2f2d9431c2ac6073a178467447bd5384b0fcc3f2be12b30126940d9af0bb85",
       "width": 480,
       "height": 480,
-      "size": 7158,
-      "createdAt": "2026-07-14T19:16:31Z",
-      "updatedAt": "2026-07-14T19:16:31Z"
+      "size": 7694,
+      "createdAt": "2026-07-13T13:51:45Z",
+      "updatedAt": "2026-07-15T10:36:39Z"
     }
   ]
 }

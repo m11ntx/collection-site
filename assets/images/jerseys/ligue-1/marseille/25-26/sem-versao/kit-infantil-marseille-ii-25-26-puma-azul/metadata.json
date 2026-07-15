@@ -1,7 +1,7 @@
 {
   "productId": "source-kit-infantil-marseille-ii-25-26-puma-azul",
-  "createdAt": "2026-07-15T00:16:32Z",
-  "updatedAt": "2026-07-15T00:16:32Z",
+  "createdAt": "2026-07-15T10:36:11Z",
+  "updatedAt": "2026-07-15T10:36:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7400,
-      "createdAt": "2026-07-15T00:16:31Z",
-      "updatedAt": "2026-07-15T00:16:31Z"
+      "createdAt": "2026-07-15T10:36:11Z",
+      "updatedAt": "2026-07-15T10:36:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3084,
-      "createdAt": "2026-07-15T00:16:31Z",
-      "updatedAt": "2026-07-15T00:16:31Z"
+      "createdAt": "2026-07-15T10:36:11Z",
+      "updatedAt": "2026-07-15T10:36:11Z"
     }
   ]
 }

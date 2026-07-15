@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-treino-flamengo-i-26-27-adidas-torcedor-marrom-e-bege",
-  "createdAt": "2026-07-05T06:09:26Z",
-  "updatedAt": "2026-07-05T06:09:26Z",
+  "createdAt": "2026-07-13T13:51:29Z",
+  "updatedAt": "2026-07-13T13:51:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 475,
       "size": 8604,
-      "createdAt": "2026-07-05T06:09:25Z",
-      "updatedAt": "2026-07-05T06:09:25Z"
+      "createdAt": "2026-07-13T13:51:28Z",
+      "updatedAt": "2026-07-13T13:51:28Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14278,
-      "createdAt": "2026-07-05T06:09:26Z",
-      "updatedAt": "2026-07-05T06:09:26Z"
+      "createdAt": "2026-07-13T13:51:28Z",
+      "updatedAt": "2026-07-13T13:51:28Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 3376,
-      "createdAt": "2026-07-05T06:09:26Z",
-      "updatedAt": "2026-07-05T06:09:26Z"
+      "createdAt": "2026-07-13T13:51:29Z",
+      "updatedAt": "2026-07-13T13:51:29Z"
     }
   ]
 }

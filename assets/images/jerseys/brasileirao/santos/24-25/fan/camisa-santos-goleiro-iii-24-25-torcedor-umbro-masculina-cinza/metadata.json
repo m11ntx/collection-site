@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-goleiro-iii-24-25-torcedor-umbro-masculina-cinza",
-  "createdAt": "2026-07-05T03:00:17Z",
-  "updatedAt": "2026-07-05T03:00:17Z",
+  "createdAt": "2026-07-13T13:39:21Z",
+  "updatedAt": "2026-07-13T13:39:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14738,
-      "createdAt": "2026-07-05T03:00:16Z",
-      "updatedAt": "2026-07-05T03:00:16Z"
+      "createdAt": "2026-07-13T13:39:20Z",
+      "updatedAt": "2026-07-13T13:39:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14676,
-      "createdAt": "2026-07-05T03:00:16Z",
-      "updatedAt": "2026-07-05T03:00:16Z"
+      "createdAt": "2026-07-13T13:39:21Z",
+      "updatedAt": "2026-07-13T13:39:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 5510,
-      "createdAt": "2026-07-05T03:00:16Z",
-      "updatedAt": "2026-07-05T03:00:16Z"
+      "createdAt": "2026-07-13T13:39:21Z",
+      "updatedAt": "2026-07-13T13:39:21Z"
     }
   ]
 }

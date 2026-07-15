@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-liverpool-pre-jogo-24-25-torcedor-nike-masculina-vermelha",
-  "createdAt": "2026-07-07T01:33:16Z",
-  "updatedAt": "2026-07-07T01:33:16Z",
+  "createdAt": "2026-07-13T13:37:58Z",
+  "updatedAt": "2026-07-13T13:37:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10238,
-      "createdAt": "2026-07-07T01:33:15Z",
-      "updatedAt": "2026-07-07T01:33:15Z"
+      "createdAt": "2026-07-13T13:37:58Z",
+      "updatedAt": "2026-07-13T13:37:58Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8260,
-      "createdAt": "2026-07-07T01:33:15Z",
-      "updatedAt": "2026-07-07T01:33:15Z"
+      "createdAt": "2026-07-13T13:37:58Z",
+      "updatedAt": "2026-07-13T13:37:58Z"
     }
   ]
 }

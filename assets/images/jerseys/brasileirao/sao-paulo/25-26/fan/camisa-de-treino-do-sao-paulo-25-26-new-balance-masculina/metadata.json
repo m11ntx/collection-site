@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-de-treino-do-sao-paulo-25-26-new-balance-masculina",
-  "createdAt": "2026-07-06T02:11:00Z",
-  "updatedAt": "2026-07-06T02:11:00Z",
+  "createdAt": "2026-07-13T13:46:40Z",
+  "updatedAt": "2026-07-13T13:46:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6472,
-      "createdAt": "2026-07-06T02:11:00Z",
-      "updatedAt": "2026-07-06T02:11:00Z"
+      "createdAt": "2026-07-13T13:46:39Z",
+      "updatedAt": "2026-07-13T13:46:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5496,
-      "createdAt": "2026-07-06T02:11:00Z",
-      "updatedAt": "2026-07-06T02:11:00Z"
+      "createdAt": "2026-07-13T13:46:40Z",
+      "updatedAt": "2026-07-13T13:46:40Z"
     }
   ]
 }

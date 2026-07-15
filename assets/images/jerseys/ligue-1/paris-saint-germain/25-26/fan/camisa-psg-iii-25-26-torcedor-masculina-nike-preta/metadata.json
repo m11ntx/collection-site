@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-psg-iii-25-26-torcedor-masculina-nike-preta",
-  "createdAt": "2026-07-07T01:33:44Z",
-  "updatedAt": "2026-07-07T01:33:44Z",
+  "createdAt": "2026-07-13T13:48:54Z",
+  "updatedAt": "2026-07-13T13:48:54Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 19540,
-      "createdAt": "2026-07-07T01:33:43Z",
-      "updatedAt": "2026-07-07T01:33:43Z"
+      "createdAt": "2026-07-13T13:48:54Z",
+      "updatedAt": "2026-07-13T13:48:54Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 16612,
-      "createdAt": "2026-07-07T01:33:43Z",
-      "updatedAt": "2026-07-07T01:33:43Z"
+      "createdAt": "2026-07-13T13:48:54Z",
+      "updatedAt": "2026-07-13T13:48:54Z"
     }
   ]
 }

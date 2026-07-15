@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-aston-villa-1-versao-jogador-2024-2025",
-  "createdAt": "2026-07-07T02:47:48Z",
-  "updatedAt": "2026-07-07T02:47:48Z",
+  "createdAt": "2026-07-13T13:46:14Z",
+  "updatedAt": "2026-07-13T13:46:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18642,
-      "createdAt": "2026-07-07T02:47:47Z",
-      "updatedAt": "2026-07-07T02:47:47Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 29122,
-      "createdAt": "2026-07-07T02:47:47Z",
-      "updatedAt": "2026-07-07T02:47:47Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 33142,
-      "createdAt": "2026-07-07T02:47:48Z",
-      "updatedAt": "2026-07-07T02:47:48Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     }
   ]
 }

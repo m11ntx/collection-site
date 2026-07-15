@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-i-26-27-torcedor-puma-masculina-azul",
-  "createdAt": "2026-07-07T02:49:25Z",
-  "updatedAt": "2026-07-07T02:49:25Z",
+  "createdAt": "2026-07-13T13:51:24Z",
+  "updatedAt": "2026-07-13T13:51:24Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8094,
-      "createdAt": "2026-07-07T02:49:25Z",
-      "updatedAt": "2026-07-07T02:49:25Z"
+      "createdAt": "2026-07-13T13:51:24Z",
+      "updatedAt": "2026-07-13T13:51:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5274,
-      "createdAt": "2026-07-07T02:49:25Z",
-      "updatedAt": "2026-07-07T02:49:25Z"
+      "createdAt": "2026-07-13T13:51:24Z",
+      "updatedAt": "2026-07-13T13:51:24Z"
     }
   ]
 }

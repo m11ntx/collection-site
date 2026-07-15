@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-santos-2012-2013-home-i-branco",
-  "createdAt": "2026-07-05T03:00:08Z",
-  "updatedAt": "2026-07-05T03:00:08Z",
+  "createdAt": "2026-07-13T13:45:34Z",
+  "updatedAt": "2026-07-13T13:45:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14024,
-      "createdAt": "2026-07-05T02:59:37Z",
-      "updatedAt": "2026-07-05T02:59:37Z"
+      "createdAt": "2026-07-13T13:45:25Z",
+      "updatedAt": "2026-07-13T13:45:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10536,
-      "createdAt": "2026-07-05T02:59:45Z",
-      "updatedAt": "2026-07-05T02:59:45Z"
+      "createdAt": "2026-07-13T13:45:27Z",
+      "updatedAt": "2026-07-13T13:45:27Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22658,
-      "createdAt": "2026-07-05T02:59:52Z",
-      "updatedAt": "2026-07-05T02:59:52Z"
+      "createdAt": "2026-07-13T13:45:30Z",
+      "updatedAt": "2026-07-13T13:45:30Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21158,
-      "createdAt": "2026-07-05T02:59:59Z",
-      "updatedAt": "2026-07-05T02:59:59Z"
+      "createdAt": "2026-07-13T13:45:32Z",
+      "updatedAt": "2026-07-13T13:45:32Z"
     }
   ]
 }

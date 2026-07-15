@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-jogador-home-25-26-branco-masculina",
-  "createdAt": "2026-07-09T02:59:08Z",
-  "updatedAt": "2026-07-09T02:59:08Z",
+  "createdAt": "2026-07-13T13:47:38Z",
+  "updatedAt": "2026-07-13T13:47:38Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15092,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:37Z",
+      "updatedAt": "2026-07-13T13:47:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 65480,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:37Z",
+      "updatedAt": "2026-07-13T13:47:37Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 44016,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:37Z",
+      "updatedAt": "2026-07-13T13:47:37Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 21746,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:38Z",
+      "updatedAt": "2026-07-13T13:47:38Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 23666,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:38Z",
+      "updatedAt": "2026-07-13T13:47:38Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 6600,
-      "createdAt": "2026-07-09T02:59:08Z",
-      "updatedAt": "2026-07-09T02:59:08Z"
+      "createdAt": "2026-07-13T13:47:38Z",
+      "updatedAt": "2026-07-13T13:47:38Z"
     }
   ]
 }

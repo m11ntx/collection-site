@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-palmeiras-home-2026-jogador-masculina",
-  "createdAt": "2026-07-05T06:21:20Z",
-  "updatedAt": "2026-07-05T06:21:20Z",
+  "createdAt": "2026-07-13T13:49:10Z",
+  "updatedAt": "2026-07-13T13:49:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11500,
-      "createdAt": "2026-07-05T06:21:19Z",
-      "updatedAt": "2026-07-05T06:21:19Z"
+      "createdAt": "2026-07-13T13:49:10Z",
+      "updatedAt": "2026-07-13T13:49:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8512,
-      "createdAt": "2026-07-05T06:21:19Z",
-      "updatedAt": "2026-07-05T06:21:19Z"
+      "createdAt": "2026-07-13T13:49:10Z",
+      "updatedAt": "2026-07-13T13:49:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17184,
-      "createdAt": "2026-07-05T06:21:19Z",
-      "updatedAt": "2026-07-05T06:21:19Z"
+      "createdAt": "2026-07-13T13:49:10Z",
+      "updatedAt": "2026-07-13T13:49:10Z"
     }
   ]
 }

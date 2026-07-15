@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-united-iii-26-27-torcedor-adidas-masculina-bege",
-  "createdAt": "2026-07-07T02:49:41Z",
-  "updatedAt": "2026-07-07T02:49:41Z",
+  "createdAt": "2026-07-13T13:51:23Z",
+  "updatedAt": "2026-07-13T13:51:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8630,
-      "createdAt": "2026-07-07T02:49:40Z",
-      "updatedAt": "2026-07-07T02:49:40Z"
+      "createdAt": "2026-07-13T13:51:23Z",
+      "updatedAt": "2026-07-13T13:51:23Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5350,
-      "createdAt": "2026-07-07T02:49:41Z",
-      "updatedAt": "2026-07-07T02:49:41Z"
+      "createdAt": "2026-07-13T13:51:23Z",
+      "updatedAt": "2026-07-13T13:51:23Z"
     }
   ]
 }

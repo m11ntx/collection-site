@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde",
-  "createdAt": "2026-07-09T22:48:46Z",
-  "updatedAt": "2026-07-09T22:48:46Z",
+  "createdAt": "2026-07-13T13:40:18Z",
+  "updatedAt": "2026-07-13T13:40:18Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9900,
-      "createdAt": "2026-07-09T22:48:46Z",
-      "updatedAt": "2026-07-09T22:48:46Z"
+      "createdAt": "2026-07-13T13:40:18Z",
+      "updatedAt": "2026-07-13T13:40:18Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15344,
-      "createdAt": "2026-07-09T22:48:46Z",
-      "updatedAt": "2026-07-09T22:48:46Z"
+      "createdAt": "2026-07-13T13:40:18Z",
+      "updatedAt": "2026-07-13T13:40:18Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7064,
-      "createdAt": "2026-07-09T22:48:46Z",
-      "updatedAt": "2026-07-09T22:48:46Z"
+      "createdAt": "2026-07-13T13:40:18Z",
+      "updatedAt": "2026-07-13T13:40:18Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 15656,
-      "createdAt": "2026-07-09T22:48:46Z",
-      "updatedAt": "2026-07-09T22:48:46Z"
+      "createdAt": "2026-07-13T13:40:18Z",
+      "updatedAt": "2026-07-13T13:40:18Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 10528,
-      "createdAt": "2026-07-09T22:48:46Z",
-      "updatedAt": "2026-07-09T22:48:46Z"
+      "createdAt": "2026-07-13T13:40:18Z",
+      "updatedAt": "2026-07-13T13:40:18Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-al-hilal-ii-24-25-torcedor-puma-masculina-branca-com-detalhes-em-azul",
-  "createdAt": "2026-07-07T05:04:29Z",
-  "updatedAt": "2026-07-07T05:04:29Z",
+  "createdAt": "2026-07-13T13:38:37Z",
+  "updatedAt": "2026-07-13T13:38:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11140,
-      "createdAt": "2026-07-07T05:04:29Z",
-      "updatedAt": "2026-07-07T05:04:29Z"
+      "createdAt": "2026-07-13T13:38:37Z",
+      "updatedAt": "2026-07-13T13:38:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4326,
-      "createdAt": "2026-07-07T05:04:29Z",
-      "updatedAt": "2026-07-07T05:04:29Z"
+      "createdAt": "2026-07-13T13:38:37Z",
+      "updatedAt": "2026-07-13T13:38:37Z"
     }
   ]
 }

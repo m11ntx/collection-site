@@ -1,7 +1,7 @@
 {
   "productId": "source-regata-treino-cruzeiro-25-26-masculina-azul",
-  "createdAt": "2026-07-05T04:53:37Z",
-  "updatedAt": "2026-07-05T04:53:37Z",
+  "createdAt": "2026-07-13T13:46:07Z",
+  "updatedAt": "2026-07-13T13:46:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 4334,
-      "createdAt": "2026-07-05T04:53:37Z",
-      "updatedAt": "2026-07-05T04:53:37Z"
+      "createdAt": "2026-07-13T13:46:07Z",
+      "updatedAt": "2026-07-13T13:46:07Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 3156,
-      "createdAt": "2026-07-05T04:53:37Z",
-      "updatedAt": "2026-07-05T04:53:37Z"
+      "createdAt": "2026-07-13T13:46:07Z",
+      "updatedAt": "2026-07-13T13:46:07Z"
     }
   ]
 }

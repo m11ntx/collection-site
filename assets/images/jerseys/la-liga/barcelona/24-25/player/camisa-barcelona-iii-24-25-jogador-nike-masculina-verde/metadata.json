@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-iii-24-25-jogador-nike-masculina-verde",
-  "createdAt": "2026-07-09T03:06:53Z",
-  "updatedAt": "2026-07-09T03:06:53Z",
+  "createdAt": "2026-07-13T13:38:10Z",
+  "updatedAt": "2026-07-13T13:38:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14844,
-      "createdAt": "2026-07-09T03:06:53Z",
-      "updatedAt": "2026-07-09T03:06:53Z"
+      "createdAt": "2026-07-13T13:38:09Z",
+      "updatedAt": "2026-07-13T13:38:09Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14140,
-      "createdAt": "2026-07-09T03:06:53Z",
-      "updatedAt": "2026-07-09T03:06:53Z"
+      "createdAt": "2026-07-13T13:38:09Z",
+      "updatedAt": "2026-07-13T13:38:09Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 26786,
-      "createdAt": "2026-07-09T03:06:53Z",
-      "updatedAt": "2026-07-09T03:06:53Z"
+      "createdAt": "2026-07-13T13:38:10Z",
+      "updatedAt": "2026-07-13T13:38:10Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 16024,
-      "createdAt": "2026-07-09T03:06:53Z",
-      "updatedAt": "2026-07-09T03:06:53Z"
+      "createdAt": "2026-07-13T13:38:10Z",
+      "updatedAt": "2026-07-13T13:38:10Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 28446,
-      "createdAt": "2026-07-09T03:06:53Z",
-      "updatedAt": "2026-07-09T03:06:53Z"
+      "createdAt": "2026-07-13T13:38:10Z",
+      "updatedAt": "2026-07-13T13:38:10Z"
     }
   ]
 }

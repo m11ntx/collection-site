@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-treino-24-25-torcedor-nike-masculina-bege",
-  "createdAt": "2026-07-05T16:01:52Z",
-  "updatedAt": "2026-07-05T16:01:52Z",
+  "createdAt": "2026-07-13T13:39:10Z",
+  "updatedAt": "2026-07-13T13:39:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6226,
-      "createdAt": "2026-07-05T16:01:51Z",
-      "updatedAt": "2026-07-05T16:01:51Z"
+      "createdAt": "2026-07-13T13:39:10Z",
+      "updatedAt": "2026-07-13T13:39:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4374,
-      "createdAt": "2026-07-05T16:01:52Z",
-      "updatedAt": "2026-07-05T16:01:52Z"
+      "createdAt": "2026-07-13T13:39:10Z",
+      "updatedAt": "2026-07-13T13:39:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19298,
-      "createdAt": "2026-07-05T16:01:52Z",
-      "updatedAt": "2026-07-05T16:01:52Z"
+      "createdAt": "2026-07-13T13:39:10Z",
+      "updatedAt": "2026-07-13T13:39:10Z"
     }
   ]
 }

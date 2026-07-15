@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-ii-24-25-torcedor-esquadrao-masculina-tricolor",
-  "createdAt": "2026-07-05T16:55:24Z",
-  "updatedAt": "2026-07-05T16:55:24Z",
+  "createdAt": "2026-07-13T13:39:27Z",
+  "updatedAt": "2026-07-13T13:39:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17726,
-      "createdAt": "2026-07-05T16:55:23Z",
-      "updatedAt": "2026-07-05T16:55:23Z"
+      "createdAt": "2026-07-13T13:39:27Z",
+      "updatedAt": "2026-07-13T13:39:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15872,
-      "createdAt": "2026-07-05T16:55:23Z",
-      "updatedAt": "2026-07-05T16:55:23Z"
+      "createdAt": "2026-07-13T13:39:27Z",
+      "updatedAt": "2026-07-13T13:39:27Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-i-24-25-jogador-adidas-masculina-preta-e-branca",
-  "createdAt": "2026-07-09T03:07:15Z",
-  "updatedAt": "2026-07-09T03:07:15Z",
+  "createdAt": "2026-07-13T13:38:05Z",
+  "updatedAt": "2026-07-13T13:38:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10570,
-      "createdAt": "2026-07-09T03:07:14Z",
-      "updatedAt": "2026-07-09T03:07:14Z"
+      "createdAt": "2026-07-13T13:38:04Z",
+      "updatedAt": "2026-07-13T13:38:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8138,
-      "createdAt": "2026-07-09T03:07:14Z",
-      "updatedAt": "2026-07-09T03:07:14Z"
+      "createdAt": "2026-07-13T13:38:04Z",
+      "updatedAt": "2026-07-13T13:38:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8588,
-      "createdAt": "2026-07-09T03:07:14Z",
-      "updatedAt": "2026-07-09T03:07:14Z"
+      "createdAt": "2026-07-13T13:38:04Z",
+      "updatedAt": "2026-07-13T13:38:04Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 10104,
-      "createdAt": "2026-07-09T03:07:14Z",
-      "updatedAt": "2026-07-09T03:07:14Z"
+      "createdAt": "2026-07-13T13:38:04Z",
+      "updatedAt": "2026-07-13T13:38:04Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 6974,
-      "createdAt": "2026-07-09T03:07:15Z",
-      "updatedAt": "2026-07-09T03:07:15Z"
+      "createdAt": "2026-07-13T13:38:05Z",
+      "updatedAt": "2026-07-13T13:38:05Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 8856,
-      "createdAt": "2026-07-09T03:07:15Z",
-      "updatedAt": "2026-07-09T03:07:15Z"
+      "createdAt": "2026-07-13T13:38:05Z",
+      "updatedAt": "2026-07-13T13:38:05Z"
     }
   ]
 }

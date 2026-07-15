@@ -1,7 +1,7 @@
 {
   "productId": "source-conjunto-de-treino-inverno-cruzeiro-azul-25-26",
-  "createdAt": "2026-07-09T22:51:51Z",
-  "updatedAt": "2026-07-09T22:51:51Z",
+  "createdAt": "2026-07-13T13:46:05Z",
+  "updatedAt": "2026-07-13T13:46:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14494,
-      "createdAt": "2026-07-09T22:51:51Z",
-      "updatedAt": "2026-07-09T22:51:51Z"
+      "createdAt": "2026-07-13T13:46:04Z",
+      "updatedAt": "2026-07-13T13:46:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 320,
       "size": 12226,
-      "createdAt": "2026-07-09T22:51:51Z",
-      "updatedAt": "2026-07-09T22:51:51Z"
+      "createdAt": "2026-07-13T13:46:04Z",
+      "updatedAt": "2026-07-13T13:46:04Z"
     }
   ]
 }

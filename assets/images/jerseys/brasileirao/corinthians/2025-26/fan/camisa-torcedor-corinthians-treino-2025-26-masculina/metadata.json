@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-torcedor-corinthians-treino-2025-26-masculina",
-  "createdAt": "2026-07-05T16:01:53Z",
-  "updatedAt": "2026-07-05T16:01:53Z",
+  "createdAt": "2026-07-13T13:46:13Z",
+  "updatedAt": "2026-07-13T13:46:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8790,
-      "createdAt": "2026-07-05T16:01:53Z",
-      "updatedAt": "2026-07-05T16:01:53Z"
+      "createdAt": "2026-07-13T13:46:13Z",
+      "updatedAt": "2026-07-13T13:46:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6274,
-      "createdAt": "2026-07-05T16:01:53Z",
-      "updatedAt": "2026-07-05T16:01:53Z"
+      "createdAt": "2026-07-13T13:46:13Z",
+      "updatedAt": "2026-07-13T13:46:13Z"
     }
   ]
 }

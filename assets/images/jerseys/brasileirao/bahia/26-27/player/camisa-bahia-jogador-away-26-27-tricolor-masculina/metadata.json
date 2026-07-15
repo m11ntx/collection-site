@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-jogador-away-26-27-tricolor-masculina",
-  "createdAt": "2026-07-09T02:59:07Z",
-  "updatedAt": "2026-07-09T02:59:07Z",
+  "createdAt": "2026-07-13T13:51:34Z",
+  "updatedAt": "2026-07-13T13:51:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14806,
-      "createdAt": "2026-07-09T02:59:06Z",
-      "updatedAt": "2026-07-09T02:59:06Z"
+      "createdAt": "2026-07-13T13:51:34Z",
+      "updatedAt": "2026-07-13T13:51:34Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8666,
-      "createdAt": "2026-07-09T02:59:06Z",
-      "updatedAt": "2026-07-09T02:59:06Z"
+      "createdAt": "2026-07-13T13:51:34Z",
+      "updatedAt": "2026-07-13T13:51:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 24310,
-      "createdAt": "2026-07-09T02:59:06Z",
-      "updatedAt": "2026-07-09T02:59:06Z"
+      "createdAt": "2026-07-13T13:51:34Z",
+      "updatedAt": "2026-07-13T13:51:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 39932,
-      "createdAt": "2026-07-09T02:59:07Z",
-      "updatedAt": "2026-07-09T02:59:07Z"
+      "createdAt": "2026-07-13T13:51:34Z",
+      "updatedAt": "2026-07-13T13:51:34Z"
     }
   ]
 }

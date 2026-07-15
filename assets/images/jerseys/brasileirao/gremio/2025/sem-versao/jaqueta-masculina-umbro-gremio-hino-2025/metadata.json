@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-masculina-umbro-gremio-hino-2025",
-  "createdAt": "2026-07-09T22:52:59Z",
-  "updatedAt": "2026-07-09T22:52:59Z",
+  "createdAt": "2026-07-13T13:51:11Z",
+  "updatedAt": "2026-07-13T13:51:11Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 558,
       "size": 9928,
-      "createdAt": "2026-07-09T22:52:59Z",
-      "updatedAt": "2026-07-09T22:52:59Z"
+      "createdAt": "2026-07-13T13:51:11Z",
+      "updatedAt": "2026-07-13T13:51:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 568,
       "size": 7864,
-      "createdAt": "2026-07-09T22:52:59Z",
-      "updatedAt": "2026-07-09T22:52:59Z"
+      "createdAt": "2026-07-13T13:51:11Z",
+      "updatedAt": "2026-07-13T13:51:11Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 497,
       "size": 9338,
-      "createdAt": "2026-07-09T22:52:59Z",
-      "updatedAt": "2026-07-09T22:52:59Z"
+      "createdAt": "2026-07-13T13:51:11Z",
+      "updatedAt": "2026-07-13T13:51:11Z"
     }
   ]
 }

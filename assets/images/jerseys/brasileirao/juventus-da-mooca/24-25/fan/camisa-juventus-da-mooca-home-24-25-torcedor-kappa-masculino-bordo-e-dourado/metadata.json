@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-da-mooca-home-24-25-torcedor-kappa-masculino-bordo-e-dourado",
-  "createdAt": "2026-07-15T00:16:03Z",
-  "updatedAt": "2026-07-15T00:16:03Z",
+  "createdAt": "2026-07-15T10:36:01Z",
+  "updatedAt": "2026-07-15T10:36:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 25146,
-      "createdAt": "2026-07-15T00:16:02Z",
-      "updatedAt": "2026-07-15T00:16:02Z"
+      "createdAt": "2026-07-15T10:36:00Z",
+      "updatedAt": "2026-07-15T10:36:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 24984,
-      "createdAt": "2026-07-15T00:16:03Z",
-      "updatedAt": "2026-07-15T00:16:03Z"
+      "createdAt": "2026-07-15T10:36:00Z",
+      "updatedAt": "2026-07-15T10:36:00Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 46376,
-      "createdAt": "2026-07-15T00:16:03Z",
-      "updatedAt": "2026-07-15T00:16:03Z"
+      "createdAt": "2026-07-15T10:36:00Z",
+      "updatedAt": "2026-07-15T10:36:00Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 69590,
-      "createdAt": "2026-07-15T00:16:03Z",
-      "updatedAt": "2026-07-15T00:16:03Z"
+      "createdAt": "2026-07-15T10:36:01Z",
+      "updatedAt": "2026-07-15T10:36:01Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-iii-24-25-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-07T01:32:58Z",
-  "updatedAt": "2026-07-07T01:32:58Z",
+  "createdAt": "2026-07-13T13:38:37Z",
+  "updatedAt": "2026-07-13T13:38:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13138,
-      "createdAt": "2026-07-07T01:32:57Z",
-      "updatedAt": "2026-07-07T01:32:57Z"
+      "createdAt": "2026-07-13T13:38:37Z",
+      "updatedAt": "2026-07-13T13:38:37Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11840,
-      "createdAt": "2026-07-07T01:32:58Z",
-      "updatedAt": "2026-07-07T01:32:58Z"
+      "createdAt": "2026-07-13T13:38:37Z",
+      "updatedAt": "2026-07-13T13:38:37Z"
     }
   ]
 }

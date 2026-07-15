@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-i-new-balance-25-26",
-  "createdAt": "2026-07-05T16:43:10Z",
-  "updatedAt": "2026-07-05T16:43:10Z",
+  "createdAt": "2026-07-13T13:51:08Z",
+  "updatedAt": "2026-07-13T13:51:08Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10548,
-      "createdAt": "2026-07-05T16:43:09Z",
-      "updatedAt": "2026-07-05T16:43:09Z"
+      "createdAt": "2026-07-13T13:51:08Z",
+      "updatedAt": "2026-07-13T13:51:08Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5678,
-      "createdAt": "2026-07-05T16:43:10Z",
-      "updatedAt": "2026-07-05T16:43:10Z"
+      "createdAt": "2026-07-13T13:51:08Z",
+      "updatedAt": "2026-07-13T13:51:08Z"
     }
   ]
 }

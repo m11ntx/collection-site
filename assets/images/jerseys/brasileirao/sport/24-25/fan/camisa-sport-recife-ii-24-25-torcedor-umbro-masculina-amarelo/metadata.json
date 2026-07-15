@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sport-recife-ii-24-25-torcedor-umbro-masculina-amarelo",
-  "createdAt": "2026-07-05T16:55:47Z",
-  "updatedAt": "2026-07-05T16:55:47Z",
+  "createdAt": "2026-07-13T13:46:03Z",
+  "updatedAt": "2026-07-13T13:46:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 7980,
-      "createdAt": "2026-07-05T16:55:47Z",
-      "updatedAt": "2026-07-05T16:55:47Z"
+      "createdAt": "2026-07-13T13:46:03Z",
+      "updatedAt": "2026-07-13T13:46:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5058,
-      "createdAt": "2026-07-05T16:55:47Z",
-      "updatedAt": "2026-07-05T16:55:47Z"
+      "createdAt": "2026-07-13T13:46:03Z",
+      "updatedAt": "2026-07-13T13:46:03Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 8866,
-      "createdAt": "2026-07-05T16:55:47Z",
-      "updatedAt": "2026-07-05T16:55:47Z"
+      "createdAt": "2026-07-13T13:46:03Z",
+      "updatedAt": "2026-07-13T13:46:03Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-gremio-i-24-25-torcedor-umbro-feminina-azul-e-preta",
-  "createdAt": "2026-07-09T05:35:28Z",
-  "updatedAt": "2026-07-09T05:35:28Z",
+  "createdAt": "2026-07-13T13:38:12Z",
+  "updatedAt": "2026-07-13T13:38:12Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15318,
-      "createdAt": "2026-07-09T05:35:28Z",
-      "updatedAt": "2026-07-09T05:35:28Z"
+      "createdAt": "2026-07-13T13:38:12Z",
+      "updatedAt": "2026-07-13T13:38:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 14204,
-      "createdAt": "2026-07-09T05:35:28Z",
-      "updatedAt": "2026-07-09T05:35:28Z"
+      "createdAt": "2026-07-13T13:38:12Z",
+      "updatedAt": "2026-07-13T13:38:12Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12496,
-      "createdAt": "2026-07-09T05:35:28Z",
-      "updatedAt": "2026-07-09T05:35:28Z"
+      "createdAt": "2026-07-13T13:38:12Z",
+      "updatedAt": "2026-07-13T13:38:12Z"
     }
   ]
 }

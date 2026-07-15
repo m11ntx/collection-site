@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-25-26-preta-com-listra-tansversal-branca-todos-os-patrocinios",
-  "createdAt": "2026-07-06T02:11:01Z",
-  "updatedAt": "2026-07-06T02:11:01Z",
+  "createdAt": "2026-07-13T13:48:29Z",
+  "updatedAt": "2026-07-13T13:48:29Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16002,
-      "createdAt": "2026-07-06T02:11:01Z",
-      "updatedAt": "2026-07-06T02:11:01Z"
+      "createdAt": "2026-07-13T13:48:29Z",
+      "updatedAt": "2026-07-13T13:48:29Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10026,
-      "createdAt": "2026-07-06T02:11:01Z",
-      "updatedAt": "2026-07-06T02:11:01Z"
+      "createdAt": "2026-07-13T13:48:29Z",
+      "updatedAt": "2026-07-13T13:48:29Z"
     }
   ]
 }

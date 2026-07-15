@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-botafogo-reebok-fourth-25-26-patrocinio-vbet",
-  "createdAt": "2026-07-05T04:24:49Z",
-  "updatedAt": "2026-07-05T04:24:49Z",
+  "createdAt": "2026-07-13T13:47:21Z",
+  "updatedAt": "2026-07-13T13:47:21Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 25314,
-      "createdAt": "2026-07-05T04:24:49Z",
-      "updatedAt": "2026-07-05T04:24:49Z"
+      "createdAt": "2026-07-13T13:47:21Z",
+      "updatedAt": "2026-07-13T13:47:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7100,
-      "createdAt": "2026-07-05T04:24:49Z",
-      "updatedAt": "2026-07-05T04:24:49Z"
+      "createdAt": "2026-07-13T13:47:21Z",
+      "updatedAt": "2026-07-13T13:47:21Z"
     }
   ]
 }

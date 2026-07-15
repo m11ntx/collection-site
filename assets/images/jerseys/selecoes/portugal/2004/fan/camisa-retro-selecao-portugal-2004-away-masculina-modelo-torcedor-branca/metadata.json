@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-retro-selecao-portugal-2004-away-masculina-modelo-torcedor-branca",
+  "createdAt": "2026-07-15T10:36:46Z",
+  "updatedAt": "2026-07-15T10:36:46Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/portugal/2004/fan/camisa-retro-selecao-portugal-2004-away-masculina-modelo-torcedor-branca/front.webp",
+      "hash": "8141c3349c15767fb8d8470535982de42695eeb549a5b67243dd7cb3f4421a0a",
+      "width": 480,
+      "height": 480,
+      "size": 15436,
+      "createdAt": "2026-07-15T10:36:46Z",
+      "updatedAt": "2026-07-15T10:36:46Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/portugal/2004/fan/camisa-retro-selecao-portugal-2004-away-masculina-modelo-torcedor-branca/back.webp",
+      "hash": "12d4561e220d0c8fb0cd4232af6945c1b3e1e97934622828c315d52502eb575a",
+      "width": 480,
+      "height": 480,
+      "size": 12226,
+      "createdAt": "2026-07-15T10:36:46Z",
+      "updatedAt": "2026-07-15T10:36:46Z"
+    }
+  ]
+}

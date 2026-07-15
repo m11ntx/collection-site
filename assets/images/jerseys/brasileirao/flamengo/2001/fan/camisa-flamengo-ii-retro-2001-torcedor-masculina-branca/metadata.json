@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-flamengo-ii-retro-2001-torcedor-masculina-branca",
-  "createdAt": "2026-07-09T16:38:21Z",
-  "updatedAt": "2026-07-09T16:38:21Z",
+  "createdAt": "2026-07-13T13:47:03Z",
+  "updatedAt": "2026-07-13T13:47:03Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9534,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:47:03Z",
+      "updatedAt": "2026-07-13T13:47:03Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5700,
-      "createdAt": "2026-07-09T16:38:21Z",
-      "updatedAt": "2026-07-09T16:38:21Z"
+      "createdAt": "2026-07-13T13:47:03Z",
+      "updatedAt": "2026-07-13T13:47:03Z"
     }
   ]
 }

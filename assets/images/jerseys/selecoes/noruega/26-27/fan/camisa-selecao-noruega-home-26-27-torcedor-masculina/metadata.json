@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-noruega-home-26-27-torcedor-masculina",
-  "createdAt": "2026-07-07T04:13:59Z",
-  "updatedAt": "2026-07-07T04:13:59Z",
+  "createdAt": "2026-07-13T13:50:57Z",
+  "updatedAt": "2026-07-13T13:50:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13192,
-      "createdAt": "2026-07-07T04:13:59Z",
-      "updatedAt": "2026-07-07T04:13:59Z"
+      "createdAt": "2026-07-13T13:50:57Z",
+      "updatedAt": "2026-07-13T13:50:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8100,
-      "createdAt": "2026-07-07T04:13:59Z",
-      "updatedAt": "2026-07-07T04:13:59Z"
+      "createdAt": "2026-07-13T13:50:57Z",
+      "updatedAt": "2026-07-13T13:50:57Z"
     }
   ]
 }

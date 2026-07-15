@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-lyon-i-25-26-torcedor-adidas-masculina-branca",
-  "createdAt": "2026-07-07T02:49:20Z",
-  "updatedAt": "2026-07-07T02:49:20Z",
+  "createdAt": "2026-07-13T13:48:34Z",
+  "updatedAt": "2026-07-13T13:48:34Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14032,
-      "createdAt": "2026-07-07T02:49:19Z",
-      "updatedAt": "2026-07-07T02:49:19Z"
+      "createdAt": "2026-07-13T13:48:33Z",
+      "updatedAt": "2026-07-13T13:48:33Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 2980,
-      "createdAt": "2026-07-07T02:49:19Z",
-      "updatedAt": "2026-07-07T02:49:19Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6242,
-      "createdAt": "2026-07-07T02:49:19Z",
-      "updatedAt": "2026-07-07T02:49:19Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 38838,
-      "createdAt": "2026-07-07T02:49:19Z",
-      "updatedAt": "2026-07-07T02:49:19Z"
+      "createdAt": "2026-07-13T13:48:34Z",
+      "updatedAt": "2026-07-13T13:48:34Z"
     }
   ]
 }

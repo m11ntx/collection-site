@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-fluminense-home-i-26-27-torcedor-masculina",
-  "createdAt": "2026-07-05T16:04:44Z",
-  "updatedAt": "2026-07-05T16:04:44Z",
+  "createdAt": "2026-07-13T13:49:14Z",
+  "updatedAt": "2026-07-13T13:49:14Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20132,
-      "createdAt": "2026-07-05T16:04:44Z",
-      "updatedAt": "2026-07-05T16:04:44Z"
+      "createdAt": "2026-07-13T13:49:13Z",
+      "updatedAt": "2026-07-13T13:49:13Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15072,
-      "createdAt": "2026-07-05T16:04:44Z",
-      "updatedAt": "2026-07-05T16:04:44Z"
+      "createdAt": "2026-07-13T13:49:13Z",
+      "updatedAt": "2026-07-13T13:49:13Z"
     }
   ]
 }

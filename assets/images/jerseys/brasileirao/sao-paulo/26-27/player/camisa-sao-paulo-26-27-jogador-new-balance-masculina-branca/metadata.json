@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-sao-paulo-26-27-jogador-new-balance-masculina-branca",
-  "createdAt": "2026-07-05T16:43:08Z",
-  "updatedAt": "2026-07-05T16:43:08Z",
+  "createdAt": "2026-07-13T13:50:52Z",
+  "updatedAt": "2026-07-13T13:50:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14938,
-      "createdAt": "2026-07-05T16:43:08Z",
-      "updatedAt": "2026-07-05T16:43:08Z"
+      "createdAt": "2026-07-13T13:50:52Z",
+      "updatedAt": "2026-07-13T13:50:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10978,
-      "createdAt": "2026-07-05T16:43:08Z",
-      "updatedAt": "2026-07-05T16:43:08Z"
+      "createdAt": "2026-07-13T13:50:52Z",
+      "updatedAt": "2026-07-13T13:50:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 17902,
-      "createdAt": "2026-07-05T16:43:08Z",
-      "updatedAt": "2026-07-05T16:43:08Z"
+      "createdAt": "2026-07-13T13:50:52Z",
+      "updatedAt": "2026-07-13T13:50:52Z"
     }
   ]
 }

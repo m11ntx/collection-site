@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-juventus-i-2014-2015-nike-masculina-preta-e-branca",
-  "createdAt": "2026-07-09T16:41:58Z",
-  "updatedAt": "2026-07-09T16:41:58Z",
+  "createdAt": "2026-07-13T13:27:48Z",
+  "updatedAt": "2026-07-13T13:27:48Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11170,
-      "createdAt": "2026-07-09T16:41:57Z",
-      "updatedAt": "2026-07-09T16:41:57Z"
+      "createdAt": "2026-07-13T13:27:47Z",
+      "updatedAt": "2026-07-13T13:27:47Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9324,
-      "createdAt": "2026-07-09T16:41:57Z",
-      "updatedAt": "2026-07-09T16:41:57Z"
+      "createdAt": "2026-07-13T13:27:47Z",
+      "updatedAt": "2026-07-13T13:27:47Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 22922,
-      "createdAt": "2026-07-09T16:41:57Z",
-      "updatedAt": "2026-07-09T16:41:57Z"
+      "createdAt": "2026-07-13T13:27:47Z",
+      "updatedAt": "2026-07-13T13:27:47Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 18544,
-      "createdAt": "2026-07-09T16:41:57Z",
-      "updatedAt": "2026-07-09T16:41:57Z"
+      "createdAt": "2026-07-13T13:27:48Z",
+      "updatedAt": "2026-07-13T13:27:48Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 47542,
-      "createdAt": "2026-07-09T16:41:57Z",
-      "updatedAt": "2026-07-09T16:41:57Z"
+      "createdAt": "2026-07-13T13:27:48Z",
+      "updatedAt": "2026-07-13T13:27:48Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 58498,
-      "createdAt": "2026-07-09T16:41:58Z",
-      "updatedAt": "2026-07-09T16:41:58Z"
+      "createdAt": "2026-07-13T13:27:48Z",
+      "updatedAt": "2026-07-13T13:27:48Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 50650,
-      "createdAt": "2026-07-09T16:41:58Z",
-      "updatedAt": "2026-07-09T16:41:58Z"
+      "createdAt": "2026-07-13T13:27:48Z",
+      "updatedAt": "2026-07-13T13:27:48Z"
     }
   ]
 }

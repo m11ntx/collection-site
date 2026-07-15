@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-corinthians-batavo-i-1999-branco",
-  "createdAt": "2026-07-09T16:41:33Z",
-  "updatedAt": "2026-07-09T16:41:33Z",
+  "createdAt": "2026-07-13T13:47:12Z",
+  "updatedAt": "2026-07-13T13:47:12Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11106,
-      "createdAt": "2026-07-09T16:41:32Z",
-      "updatedAt": "2026-07-09T16:41:32Z"
+      "createdAt": "2026-07-13T13:47:11Z",
+      "updatedAt": "2026-07-13T13:47:11Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7388,
-      "createdAt": "2026-07-09T16:41:33Z",
-      "updatedAt": "2026-07-09T16:41:33Z"
+      "createdAt": "2026-07-13T13:47:11Z",
+      "updatedAt": "2026-07-13T13:47:11Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 16742,
-      "createdAt": "2026-07-09T16:41:33Z",
-      "updatedAt": "2026-07-09T16:41:33Z"
+      "createdAt": "2026-07-13T13:47:11Z",
+      "updatedAt": "2026-07-13T13:47:11Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 30364,
-      "createdAt": "2026-07-09T16:41:33Z",
-      "updatedAt": "2026-07-09T16:41:33Z"
+      "createdAt": "2026-07-13T13:47:11Z",
+      "updatedAt": "2026-07-13T13:47:11Z"
     }
   ]
 }

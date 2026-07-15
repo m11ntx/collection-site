@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-i-24-25-torcedor-adidas-masculina-azul-com-patrocinios",
-  "createdAt": "2026-07-05T04:53:30Z",
-  "updatedAt": "2026-07-05T04:53:30Z",
+  "createdAt": "2026-07-13T13:32:58Z",
+  "updatedAt": "2026-07-13T13:32:58Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14004,
-      "createdAt": "2026-07-05T04:53:30Z",
-      "updatedAt": "2026-07-05T04:53:30Z"
+      "createdAt": "2026-07-13T13:32:57Z",
+      "updatedAt": "2026-07-13T13:32:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5740,
-      "createdAt": "2026-07-05T04:53:30Z",
-      "updatedAt": "2026-07-05T04:53:30Z"
+      "createdAt": "2026-07-13T13:32:57Z",
+      "updatedAt": "2026-07-13T13:32:57Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 59482,
-      "createdAt": "2026-07-05T04:53:30Z",
-      "updatedAt": "2026-07-05T04:53:30Z"
+      "createdAt": "2026-07-13T13:32:58Z",
+      "updatedAt": "2026-07-13T13:32:58Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 66666,
-      "createdAt": "2026-07-05T04:53:30Z",
-      "updatedAt": "2026-07-05T04:53:30Z"
+      "createdAt": "2026-07-13T13:32:58Z",
+      "updatedAt": "2026-07-13T13:32:58Z"
     }
   ]
 }

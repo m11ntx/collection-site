@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-regata-gremio-treino-24-25-torcedor-umbro-masculina-azul",
-  "createdAt": "2026-07-05T16:05:45Z",
-  "updatedAt": "2026-07-05T16:05:45Z",
+  "createdAt": "2026-07-13T13:38:13Z",
+  "updatedAt": "2026-07-13T13:38:13Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14640,
-      "createdAt": "2026-07-05T16:05:44Z",
-      "updatedAt": "2026-07-05T16:05:44Z"
+      "createdAt": "2026-07-13T13:38:12Z",
+      "updatedAt": "2026-07-13T13:38:12Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 13410,
-      "createdAt": "2026-07-05T16:05:45Z",
-      "updatedAt": "2026-07-05T16:05:45Z"
+      "createdAt": "2026-07-13T13:38:12Z",
+      "updatedAt": "2026-07-13T13:38:12Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7972,
-      "createdAt": "2026-07-05T16:05:45Z",
-      "updatedAt": "2026-07-05T16:05:45Z"
+      "createdAt": "2026-07-13T13:38:13Z",
+      "updatedAt": "2026-07-13T13:38:13Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-ii-25-26-jogador-nike-masculina-preta",
-  "createdAt": "2026-07-09T02:59:14Z",
-  "updatedAt": "2026-07-09T02:59:14Z",
+  "createdAt": "2026-07-13T13:47:50Z",
+  "updatedAt": "2026-07-13T13:47:50Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10960,
-      "createdAt": "2026-07-09T02:59:13Z",
-      "updatedAt": "2026-07-09T02:59:13Z"
+      "createdAt": "2026-07-13T13:47:50Z",
+      "updatedAt": "2026-07-13T13:47:50Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8494,
-      "createdAt": "2026-07-09T02:59:13Z",
-      "updatedAt": "2026-07-09T02:59:13Z"
+      "createdAt": "2026-07-13T13:47:50Z",
+      "updatedAt": "2026-07-13T13:47:50Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18132,
-      "createdAt": "2026-07-09T02:59:13Z",
-      "updatedAt": "2026-07-09T02:59:13Z"
+      "createdAt": "2026-07-13T13:47:50Z",
+      "updatedAt": "2026-07-13T13:47:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 20814,
-      "createdAt": "2026-07-09T02:59:13Z",
-      "updatedAt": "2026-07-09T02:59:13Z"
+      "createdAt": "2026-07-13T13:47:50Z",
+      "updatedAt": "2026-07-13T13:47:50Z"
     }
   ]
 }

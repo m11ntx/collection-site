@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-i-24-25-torcedor-puma-masculina-azul",
-  "createdAt": "2026-07-07T02:49:23Z",
-  "updatedAt": "2026-07-07T02:49:23Z",
+  "createdAt": "2026-07-13T13:36:36Z",
+  "updatedAt": "2026-07-13T13:36:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9478,
-      "createdAt": "2026-07-07T02:49:22Z",
-      "updatedAt": "2026-07-07T02:49:22Z"
+      "createdAt": "2026-07-13T13:36:35Z",
+      "updatedAt": "2026-07-13T13:36:35Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6110,
-      "createdAt": "2026-07-07T02:49:22Z",
-      "updatedAt": "2026-07-07T02:49:22Z"
+      "createdAt": "2026-07-13T13:36:35Z",
+      "updatedAt": "2026-07-13T13:36:35Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 47134,
-      "createdAt": "2026-07-07T02:49:22Z",
-      "updatedAt": "2026-07-07T02:49:22Z"
+      "createdAt": "2026-07-13T13:36:35Z",
+      "updatedAt": "2026-07-13T13:36:35Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 45696,
-      "createdAt": "2026-07-07T02:49:23Z",
-      "updatedAt": "2026-07-07T02:49:23Z"
+      "createdAt": "2026-07-13T13:36:36Z",
+      "updatedAt": "2026-07-13T13:36:36Z"
     }
   ]
 }

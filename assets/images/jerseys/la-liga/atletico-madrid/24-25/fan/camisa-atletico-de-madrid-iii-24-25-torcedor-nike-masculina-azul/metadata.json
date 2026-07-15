@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-atletico-de-madrid-iii-24-25-torcedor-nike-masculina-azul",
-  "createdAt": "2026-07-07T02:47:56Z",
-  "updatedAt": "2026-07-07T02:47:56Z",
+  "createdAt": "2026-07-13T13:38:52Z",
+  "updatedAt": "2026-07-13T13:38:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 22766,
-      "createdAt": "2026-07-07T02:47:55Z",
-      "updatedAt": "2026-07-07T02:47:55Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10842,
-      "createdAt": "2026-07-07T02:47:56Z",
-      "updatedAt": "2026-07-07T02:47:56Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 600,
       "size": 62920,
-      "createdAt": "2026-07-07T02:47:56Z",
-      "updatedAt": "2026-07-07T02:47:56Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 320,
       "size": 31574,
-      "createdAt": "2026-07-07T02:47:56Z",
-      "updatedAt": "2026-07-07T02:47:56Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     }
   ]
 }

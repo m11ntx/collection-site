@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-palmeiras-ii-25-26-jogador-puma-masculina-branco",
-  "createdAt": "2026-07-09T02:59:27Z",
-  "updatedAt": "2026-07-09T02:59:27Z",
+  "createdAt": "2026-07-13T13:47:01Z",
+  "updatedAt": "2026-07-13T13:47:01Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12938,
-      "createdAt": "2026-07-09T02:59:27Z",
-      "updatedAt": "2026-07-09T02:59:27Z"
+      "createdAt": "2026-07-13T13:47:00Z",
+      "updatedAt": "2026-07-13T13:47:00Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7434,
-      "createdAt": "2026-07-09T02:59:27Z",
-      "updatedAt": "2026-07-09T02:59:27Z"
+      "createdAt": "2026-07-13T13:47:00Z",
+      "updatedAt": "2026-07-13T13:47:00Z"
     }
   ]
 }

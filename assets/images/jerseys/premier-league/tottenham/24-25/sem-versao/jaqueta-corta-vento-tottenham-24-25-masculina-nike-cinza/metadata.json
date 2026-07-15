@@ -1,7 +1,7 @@
 {
   "productId": "source-jaqueta-corta-vento-tottenham-24-25-masculina-nike-cinza",
-  "createdAt": "2026-07-09T22:48:53Z",
-  "updatedAt": "2026-07-09T22:48:53Z",
+  "createdAt": "2026-07-13T13:40:24Z",
+  "updatedAt": "2026-07-13T13:40:24Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9982,
-      "createdAt": "2026-07-09T22:48:52Z",
-      "updatedAt": "2026-07-09T22:48:52Z"
+      "createdAt": "2026-07-13T13:40:24Z",
+      "updatedAt": "2026-07-13T13:40:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 4344,
-      "createdAt": "2026-07-09T22:48:52Z",
-      "updatedAt": "2026-07-09T22:48:52Z"
+      "createdAt": "2026-07-13T13:40:24Z",
+      "updatedAt": "2026-07-13T13:40:24Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 7992,
-      "createdAt": "2026-07-09T22:48:52Z",
-      "updatedAt": "2026-07-09T22:48:52Z"
+      "createdAt": "2026-07-13T13:40:24Z",
+      "updatedAt": "2026-07-13T13:40:24Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 600,
       "size": 28858,
-      "createdAt": "2026-07-09T22:48:53Z",
-      "updatedAt": "2026-07-09T22:48:53Z"
+      "createdAt": "2026-07-13T13:40:24Z",
+      "updatedAt": "2026-07-13T13:40:24Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 600,
       "size": 27716,
-      "createdAt": "2026-07-09T22:48:53Z",
-      "updatedAt": "2026-07-09T22:48:53Z"
+      "createdAt": "2026-07-13T13:40:24Z",
+      "updatedAt": "2026-07-13T13:40:24Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-arsenal-iii-24-25-torcedor-adidas-feminina-azul",
-  "createdAt": "2026-07-09T05:35:01Z",
-  "updatedAt": "2026-07-09T05:35:01Z",
+  "createdAt": "2026-07-13T13:38:42Z",
+  "updatedAt": "2026-07-13T13:38:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10240,
-      "createdAt": "2026-07-09T05:35:00Z",
-      "updatedAt": "2026-07-09T05:35:00Z"
+      "createdAt": "2026-07-13T13:38:42Z",
+      "updatedAt": "2026-07-13T13:38:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5940,
-      "createdAt": "2026-07-09T05:35:00Z",
-      "updatedAt": "2026-07-09T05:35:00Z"
+      "createdAt": "2026-07-13T13:38:42Z",
+      "updatedAt": "2026-07-13T13:38:42Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasileira-edicao-especial-torcedor-nike-masculina-branca",
-  "createdAt": "2026-07-07T04:10:05Z",
-  "updatedAt": "2026-07-07T04:10:05Z",
+  "createdAt": "2026-07-13T13:24:05Z",
+  "updatedAt": "2026-07-13T13:24:05Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 20304,
-      "createdAt": "2026-07-07T04:10:03Z",
-      "updatedAt": "2026-07-07T04:10:03Z"
+      "createdAt": "2026-07-13T13:24:04Z",
+      "updatedAt": "2026-07-13T13:24:04Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 42594,
-      "createdAt": "2026-07-07T04:10:03Z",
-      "updatedAt": "2026-07-07T04:10:03Z"
+      "createdAt": "2026-07-13T13:24:04Z",
+      "updatedAt": "2026-07-13T13:24:04Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 19946,
-      "createdAt": "2026-07-07T04:10:03Z",
-      "updatedAt": "2026-07-07T04:10:03Z"
+      "createdAt": "2026-07-13T13:24:05Z",
+      "updatedAt": "2026-07-13T13:24:05Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 26362,
-      "createdAt": "2026-07-07T04:10:04Z",
-      "updatedAt": "2026-07-07T04:10:04Z"
+      "createdAt": "2026-07-13T13:24:05Z",
+      "updatedAt": "2026-07-13T13:24:05Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 20826,
-      "createdAt": "2026-07-07T04:10:04Z",
-      "updatedAt": "2026-07-07T04:10:04Z"
+      "createdAt": "2026-07-13T13:24:05Z",
+      "updatedAt": "2026-07-13T13:24:05Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20834,
-      "createdAt": "2026-07-07T04:10:04Z",
-      "updatedAt": "2026-07-07T04:10:04Z"
+      "createdAt": "2026-07-13T13:24:05Z",
+      "updatedAt": "2026-07-13T13:24:05Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 37462,
-      "createdAt": "2026-07-07T04:10:04Z",
-      "updatedAt": "2026-07-07T04:10:04Z"
+      "createdAt": "2026-07-13T13:24:05Z",
+      "updatedAt": "2026-07-13T13:24:05Z"
     }
   ]
 }

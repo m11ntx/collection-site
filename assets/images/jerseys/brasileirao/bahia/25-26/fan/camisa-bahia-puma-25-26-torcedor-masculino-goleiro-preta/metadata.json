@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-bahia-puma-25-26-torcedor-masculino-goleiro-preta",
-  "createdAt": "2026-07-05T16:55:25Z",
-  "updatedAt": "2026-07-05T16:55:25Z",
+  "createdAt": "2026-07-13T13:48:22Z",
+  "updatedAt": "2026-07-13T13:48:22Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 21166,
-      "createdAt": "2026-07-05T16:55:25Z",
-      "updatedAt": "2026-07-05T16:55:25Z"
+      "createdAt": "2026-07-13T13:48:21Z",
+      "updatedAt": "2026-07-13T13:48:21Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5852,
-      "createdAt": "2026-07-05T16:55:25Z",
-      "updatedAt": "2026-07-05T16:55:25Z"
+      "createdAt": "2026-07-13T13:48:21Z",
+      "updatedAt": "2026-07-13T13:48:21Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 59244,
-      "createdAt": "2026-07-05T16:55:25Z",
-      "updatedAt": "2026-07-05T16:55:25Z"
+      "createdAt": "2026-07-13T13:48:21Z",
+      "updatedAt": "2026-07-13T13:48:21Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 58546,
-      "createdAt": "2026-07-05T16:55:25Z",
-      "updatedAt": "2026-07-05T16:55:25Z"
+      "createdAt": "2026-07-13T13:48:22Z",
+      "updatedAt": "2026-07-13T13:48:22Z"
     }
   ]
 }

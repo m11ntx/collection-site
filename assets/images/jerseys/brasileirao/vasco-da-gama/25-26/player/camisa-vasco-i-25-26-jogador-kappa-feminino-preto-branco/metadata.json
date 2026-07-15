@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-vasco-i-25-26-jogador-kappa-feminino-preto-branco",
-  "createdAt": "2026-07-05T06:09:26Z",
-  "updatedAt": "2026-07-05T06:09:26Z",
+  "createdAt": "2026-07-15T10:36:27Z",
+  "updatedAt": "2026-07-15T10:36:27Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9964,
-      "createdAt": "2026-07-05T06:09:26Z",
-      "updatedAt": "2026-07-05T06:09:26Z"
+      "createdAt": "2026-07-15T10:36:27Z",
+      "updatedAt": "2026-07-15T10:36:27Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5508,
-      "createdAt": "2026-07-05T06:09:26Z",
-      "updatedAt": "2026-07-05T06:09:26Z"
+      "createdAt": "2026-07-15T10:36:27Z",
+      "updatedAt": "2026-07-15T10:36:27Z"
     }
   ]
 }

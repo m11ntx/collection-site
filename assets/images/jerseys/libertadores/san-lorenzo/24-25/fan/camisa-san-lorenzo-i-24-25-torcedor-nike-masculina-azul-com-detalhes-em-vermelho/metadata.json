@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-san-lorenzo-i-24-25-torcedor-nike-masculina-azul-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-07T05:05:46Z",
-  "updatedAt": "2026-07-07T05:05:46Z",
+  "createdAt": "2026-07-13T13:36:42Z",
+  "updatedAt": "2026-07-13T13:36:42Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10476,
-      "createdAt": "2026-07-07T05:05:45Z",
-      "updatedAt": "2026-07-07T05:05:45Z"
+      "createdAt": "2026-07-13T13:36:42Z",
+      "updatedAt": "2026-07-13T13:36:42Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6920,
-      "createdAt": "2026-07-07T05:05:45Z",
-      "updatedAt": "2026-07-07T05:05:45Z"
+      "createdAt": "2026-07-13T13:36:42Z",
+      "updatedAt": "2026-07-13T13:36:42Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 48890,
-      "createdAt": "2026-07-07T05:05:45Z",
-      "updatedAt": "2026-07-07T05:05:45Z"
+      "createdAt": "2026-07-13T13:36:42Z",
+      "updatedAt": "2026-07-13T13:36:42Z"
     }
   ]
 }

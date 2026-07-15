@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-fluminense-iii-2012",
-  "createdAt": "2026-07-09T16:41:41Z",
-  "updatedAt": "2026-07-09T16:41:41Z",
+  "createdAt": "2026-07-13T13:47:02Z",
+  "updatedAt": "2026-07-13T13:47:02Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12946,
-      "createdAt": "2026-07-09T16:41:41Z",
-      "updatedAt": "2026-07-09T16:41:41Z"
+      "createdAt": "2026-07-13T13:47:02Z",
+      "updatedAt": "2026-07-13T13:47:02Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 8016,
-      "createdAt": "2026-07-09T16:41:41Z",
-      "updatedAt": "2026-07-09T16:41:41Z"
+      "createdAt": "2026-07-13T13:47:02Z",
+      "updatedAt": "2026-07-13T13:47:02Z"
     }
   ]
 }

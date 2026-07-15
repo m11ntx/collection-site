@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-ajax-ii-24-25-jogador-adidas-masculina-azul-com-detalhes-em-amarelo",
-  "createdAt": "2026-07-09T03:06:33Z",
-  "updatedAt": "2026-07-09T03:06:33Z",
+  "createdAt": "2026-07-13T13:37:52Z",
+  "updatedAt": "2026-07-13T13:37:52Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 26672,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:37:52Z",
+      "updatedAt": "2026-07-13T13:37:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15422,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:37:52Z",
+      "updatedAt": "2026-07-13T13:37:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 28104,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:37:52Z",
+      "updatedAt": "2026-07-13T13:37:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 17964,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:37:52Z",
+      "updatedAt": "2026-07-13T13:37:52Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 21010,
-      "createdAt": "2026-07-09T03:06:32Z",
-      "updatedAt": "2026-07-09T03:06:32Z"
+      "createdAt": "2026-07-13T13:37:52Z",
+      "updatedAt": "2026-07-13T13:37:52Z"
     }
   ]
 }

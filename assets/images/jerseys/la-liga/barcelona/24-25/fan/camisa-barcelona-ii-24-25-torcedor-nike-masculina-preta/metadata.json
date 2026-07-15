@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-barcelona-ii-24-25-torcedor-nike-masculina-preta",
-  "createdAt": "2026-07-07T02:48:07Z",
-  "updatedAt": "2026-07-07T02:48:07Z",
+  "createdAt": "2026-07-13T13:38:53Z",
+  "updatedAt": "2026-07-13T13:38:53Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 6504,
-      "createdAt": "2026-07-07T02:48:05Z",
-      "updatedAt": "2026-07-07T02:48:05Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5374,
-      "createdAt": "2026-07-07T02:48:05Z",
-      "updatedAt": "2026-07-07T02:48:05Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 600,
       "size": 106140,
-      "createdAt": "2026-07-07T02:48:05Z",
-      "updatedAt": "2026-07-07T02:48:05Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 600,
       "size": 52068,
-      "createdAt": "2026-07-07T02:48:06Z",
-      "updatedAt": "2026-07-07T02:48:06Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 600,
       "size": 94406,
-      "createdAt": "2026-07-07T02:48:06Z",
-      "updatedAt": "2026-07-07T02:48:06Z"
+      "createdAt": "2026-07-13T13:38:52Z",
+      "updatedAt": "2026-07-13T13:38:52Z"
     }
   ]
 }

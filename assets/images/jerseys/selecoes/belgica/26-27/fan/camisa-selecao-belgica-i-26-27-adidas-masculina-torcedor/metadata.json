@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-belgica-i-26-27-adidas-masculina-torcedor",
-  "createdAt": "2026-07-07T04:23:13Z",
-  "updatedAt": "2026-07-07T04:23:13Z",
+  "createdAt": "2026-07-13T13:51:06Z",
+  "updatedAt": "2026-07-13T13:51:06Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13068,
-      "createdAt": "2026-07-07T04:23:12Z",
-      "updatedAt": "2026-07-07T04:23:12Z"
+      "createdAt": "2026-07-13T13:51:06Z",
+      "updatedAt": "2026-07-13T13:51:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 11124,
-      "createdAt": "2026-07-07T04:23:13Z",
-      "updatedAt": "2026-07-07T04:23:13Z"
+      "createdAt": "2026-07-13T13:51:06Z",
+      "updatedAt": "2026-07-13T13:51:06Z"
     }
   ]
 }

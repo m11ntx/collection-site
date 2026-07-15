@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-athletico-paranaense-pre-jogo-24-25-torcedor-umbro-masculina-cinza-com-detalhes-em-vermelho",
-  "createdAt": "2026-07-09T22:10:18Z",
-  "updatedAt": "2026-07-09T22:10:18Z",
+  "createdAt": "2026-07-13T13:38:23Z",
+  "updatedAt": "2026-07-13T13:38:23Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 16484,
-      "createdAt": "2026-07-09T22:10:18Z",
-      "updatedAt": "2026-07-09T22:10:18Z"
+      "createdAt": "2026-07-13T13:38:22Z",
+      "updatedAt": "2026-07-13T13:38:22Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 15850,
-      "createdAt": "2026-07-09T22:10:18Z",
-      "updatedAt": "2026-07-09T22:10:18Z"
+      "createdAt": "2026-07-13T13:38:22Z",
+      "updatedAt": "2026-07-13T13:38:22Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 10152,
-      "createdAt": "2026-07-09T22:10:18Z",
-      "updatedAt": "2026-07-09T22:10:18Z"
+      "createdAt": "2026-07-13T13:38:23Z",
+      "updatedAt": "2026-07-13T13:38:23Z"
     }
   ]
 }

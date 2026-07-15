@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-manchester-city-pre-jogo-24-25-torcedor-puma-masculina-rosa",
-  "createdAt": "2026-07-07T02:49:33Z",
-  "updatedAt": "2026-07-07T02:49:33Z",
+  "createdAt": "2026-07-13T13:38:37Z",
+  "updatedAt": "2026-07-13T13:38:37Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 17230,
-      "createdAt": "2026-07-07T02:49:32Z",
-      "updatedAt": "2026-07-07T02:49:32Z"
+      "createdAt": "2026-07-13T13:38:36Z",
+      "updatedAt": "2026-07-13T13:38:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12976,
-      "createdAt": "2026-07-07T02:49:33Z",
-      "updatedAt": "2026-07-07T02:49:33Z"
+      "createdAt": "2026-07-13T13:38:36Z",
+      "updatedAt": "2026-07-13T13:38:36Z"
     }
   ]
 }

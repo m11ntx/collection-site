@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-retro-2012-13",
-  "createdAt": "2026-07-09T16:36:52Z",
-  "updatedAt": "2026-07-09T16:36:52Z",
+  "createdAt": "2026-07-13T13:47:16Z",
+  "updatedAt": "2026-07-13T13:47:16Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 9910,
-      "createdAt": "2026-07-09T16:36:52Z",
-      "updatedAt": "2026-07-09T16:36:52Z"
+      "createdAt": "2026-07-13T13:47:16Z",
+      "updatedAt": "2026-07-13T13:47:16Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5804,
-      "createdAt": "2026-07-09T16:36:52Z",
-      "updatedAt": "2026-07-09T16:36:52Z"
+      "createdAt": "2026-07-13T13:47:16Z",
+      "updatedAt": "2026-07-13T13:47:16Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "productId": "source-camiseta-brasil-jordan-manga-longa-goalie-masculina",
-  "createdAt": "2026-07-14T19:16:25Z",
-  "updatedAt": "2026-07-14T19:16:25Z",
+  "createdAt": "2026-07-15T10:36:44Z",
+  "updatedAt": "2026-07-15T10:36:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 23846,
-      "createdAt": "2026-07-14T19:16:24Z",
-      "updatedAt": "2026-07-14T19:16:24Z"
+      "createdAt": "2026-07-15T10:36:43Z",
+      "updatedAt": "2026-07-15T10:36:43Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23772,
-      "createdAt": "2026-07-14T19:16:25Z",
-      "updatedAt": "2026-07-14T19:16:25Z"
+      "createdAt": "2026-07-15T10:36:43Z",
+      "updatedAt": "2026-07-15T10:36:43Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 45724,
-      "createdAt": "2026-07-14T19:16:25Z",
-      "updatedAt": "2026-07-14T19:16:25Z"
+      "createdAt": "2026-07-15T10:36:44Z",
+      "updatedAt": "2026-07-15T10:36:44Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 22446,
-      "createdAt": "2026-07-14T19:16:25Z",
-      "updatedAt": "2026-07-14T19:16:25Z"
+      "createdAt": "2026-07-15T10:36:44Z",
+      "updatedAt": "2026-07-15T10:36:44Z"
     }
   ]
 }

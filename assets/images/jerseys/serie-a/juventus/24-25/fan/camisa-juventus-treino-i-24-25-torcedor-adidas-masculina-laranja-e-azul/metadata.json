@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-treino-i-24-25-torcedor-adidas-masculina-laranja-e-azul",
-  "createdAt": "2026-07-07T01:33:02Z",
-  "updatedAt": "2026-07-07T01:33:02Z",
+  "createdAt": "2026-07-13T13:37:59Z",
+  "updatedAt": "2026-07-13T13:37:59Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8432,
-      "createdAt": "2026-07-07T01:33:01Z",
-      "updatedAt": "2026-07-07T01:33:01Z"
+      "createdAt": "2026-07-13T13:37:59Z",
+      "updatedAt": "2026-07-13T13:37:59Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6646,
-      "createdAt": "2026-07-07T01:33:02Z",
-      "updatedAt": "2026-07-07T01:33:02Z"
+      "createdAt": "2026-07-13T13:37:59Z",
+      "updatedAt": "2026-07-13T13:37:59Z"
     }
   ]
 }

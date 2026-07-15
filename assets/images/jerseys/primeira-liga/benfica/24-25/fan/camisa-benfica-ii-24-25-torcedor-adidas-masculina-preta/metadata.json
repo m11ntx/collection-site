@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-benfica-ii-24-25-torcedor-adidas-masculina-preta",
-  "createdAt": "2026-07-07T03:07:58Z",
-  "updatedAt": "2026-07-07T03:07:58Z",
+  "createdAt": "2026-07-13T13:37:36Z",
+  "updatedAt": "2026-07-13T13:37:36Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 15808,
-      "createdAt": "2026-07-07T03:07:58Z",
-      "updatedAt": "2026-07-07T03:07:58Z"
+      "createdAt": "2026-07-13T13:37:36Z",
+      "updatedAt": "2026-07-13T13:37:36Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 12860,
-      "createdAt": "2026-07-07T03:07:58Z",
-      "updatedAt": "2026-07-07T03:07:58Z"
+      "createdAt": "2026-07-13T13:37:36Z",
+      "updatedAt": "2026-07-13T13:37:36Z"
     }
   ]
 }

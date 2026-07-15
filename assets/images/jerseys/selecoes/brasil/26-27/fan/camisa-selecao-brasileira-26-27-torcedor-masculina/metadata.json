@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-selecao-brasileira-26-27-torcedor-masculina",
-  "createdAt": "2026-07-08T03:51:36Z",
-  "updatedAt": "2026-07-08T03:51:36Z",
+  "createdAt": "2026-07-13T13:49:07Z",
+  "updatedAt": "2026-07-13T13:49:07Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11958,
-      "createdAt": "2026-07-08T03:51:35Z",
-      "updatedAt": "2026-07-08T03:51:35Z"
+      "createdAt": "2026-07-13T13:49:06Z",
+      "updatedAt": "2026-07-13T13:49:06Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6942,
-      "createdAt": "2026-07-08T03:51:35Z",
-      "updatedAt": "2026-07-08T03:51:35Z"
+      "createdAt": "2026-07-13T13:49:07Z",
+      "updatedAt": "2026-07-13T13:49:07Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18340,
-      "createdAt": "2026-07-08T03:51:35Z",
-      "updatedAt": "2026-07-08T03:51:35Z"
+      "createdAt": "2026-07-13T13:49:07Z",
+      "updatedAt": "2026-07-13T13:49:07Z"
     }
   ]
 }

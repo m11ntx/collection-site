@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-arsenal-edicao-especial-26-27-torcedor",
-  "createdAt": "2026-07-09T22:53:14Z",
-  "updatedAt": "2026-07-09T22:53:14Z",
+  "createdAt": "2026-07-13T13:51:40Z",
+  "updatedAt": "2026-07-13T13:51:40Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11022,
-      "createdAt": "2026-07-09T22:53:14Z",
-      "updatedAt": "2026-07-09T22:53:14Z"
+      "createdAt": "2026-07-13T13:51:40Z",
+      "updatedAt": "2026-07-13T13:51:40Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7938,
-      "createdAt": "2026-07-09T22:53:14Z",
-      "updatedAt": "2026-07-09T22:53:14Z"
+      "createdAt": "2026-07-13T13:51:40Z",
+      "updatedAt": "2026-07-13T13:51:40Z"
     }
   ]
 }

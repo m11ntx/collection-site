@@ -1,7 +1,7 @@
 {
   "productId": "source-retro-cruzeiro-93-94-away",
-  "createdAt": "2026-07-09T16:44:54Z",
-  "updatedAt": "2026-07-09T16:44:54Z",
+  "createdAt": "2026-07-13T13:46:25Z",
+  "updatedAt": "2026-07-13T13:46:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13250,
-      "createdAt": "2026-07-09T16:44:53Z",
-      "updatedAt": "2026-07-09T16:44:53Z"
+      "createdAt": "2026-07-13T13:46:24Z",
+      "updatedAt": "2026-07-13T13:46:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 25630,
-      "createdAt": "2026-07-09T16:44:54Z",
-      "updatedAt": "2026-07-09T16:44:54Z"
+      "createdAt": "2026-07-13T13:46:25Z",
+      "updatedAt": "2026-07-13T13:46:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 11768,
-      "createdAt": "2026-07-09T16:44:54Z",
-      "updatedAt": "2026-07-09T16:44:54Z"
+      "createdAt": "2026-07-13T13:46:25Z",
+      "updatedAt": "2026-07-13T13:46:25Z"
     }
   ]
 }

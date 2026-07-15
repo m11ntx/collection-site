@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-do-santos-retro-12-13-listrada",
-  "createdAt": "2026-07-05T02:59:07Z",
-  "updatedAt": "2026-07-05T02:59:07Z",
+  "createdAt": "2026-07-13T13:45:25Z",
+  "updatedAt": "2026-07-13T13:45:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11134,
-      "createdAt": "2026-07-05T02:59:07Z",
-      "updatedAt": "2026-07-05T02:59:07Z"
+      "createdAt": "2026-07-13T13:45:24Z",
+      "updatedAt": "2026-07-13T13:45:24Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7652,
-      "createdAt": "2026-07-05T02:59:07Z",
-      "updatedAt": "2026-07-05T02:59:07Z"
+      "createdAt": "2026-07-13T13:45:25Z",
+      "updatedAt": "2026-07-13T13:45:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 49512,
-      "createdAt": "2026-07-05T02:59:07Z",
-      "updatedAt": "2026-07-05T02:59:07Z"
+      "createdAt": "2026-07-13T13:45:25Z",
+      "updatedAt": "2026-07-13T13:45:25Z"
     }
   ]
 }

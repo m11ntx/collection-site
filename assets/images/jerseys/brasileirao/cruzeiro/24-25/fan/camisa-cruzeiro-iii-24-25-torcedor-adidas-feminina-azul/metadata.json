@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-cruzeiro-iii-24-25-torcedor-adidas-feminina-azul",
-  "createdAt": "2026-07-09T05:35:18Z",
-  "updatedAt": "2026-07-09T05:35:18Z",
+  "createdAt": "2026-07-13T13:38:50Z",
+  "updatedAt": "2026-07-13T13:38:50Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 18644,
-      "createdAt": "2026-07-09T05:35:18Z",
-      "updatedAt": "2026-07-09T05:35:18Z"
+      "createdAt": "2026-07-13T13:38:49Z",
+      "updatedAt": "2026-07-13T13:38:49Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5008,
-      "createdAt": "2026-07-09T05:35:18Z",
-      "updatedAt": "2026-07-09T05:35:18Z"
+      "createdAt": "2026-07-13T13:38:50Z",
+      "updatedAt": "2026-07-13T13:38:50Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 27842,
-      "createdAt": "2026-07-09T05:35:18Z",
-      "updatedAt": "2026-07-09T05:35:18Z"
+      "createdAt": "2026-07-13T13:38:50Z",
+      "updatedAt": "2026-07-13T13:38:50Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 69256,
-      "createdAt": "2026-07-09T05:35:18Z",
-      "updatedAt": "2026-07-09T05:35:18Z"
+      "createdAt": "2026-07-13T13:38:50Z",
+      "updatedAt": "2026-07-13T13:38:50Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 54882,
-      "createdAt": "2026-07-09T05:35:18Z",
-      "updatedAt": "2026-07-09T05:35:18Z"
+      "createdAt": "2026-07-13T13:38:50Z",
+      "updatedAt": "2026-07-13T13:38:50Z"
     }
   ]
 }

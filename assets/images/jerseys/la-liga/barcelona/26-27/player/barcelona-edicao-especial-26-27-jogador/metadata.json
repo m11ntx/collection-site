@@ -1,7 +1,7 @@
 {
   "productId": "source-barcelona-edicao-especial-26-27-jogador",
-  "createdAt": "2026-07-09T03:07:03Z",
-  "updatedAt": "2026-07-09T03:07:03Z",
+  "createdAt": "2026-07-13T13:51:44Z",
+  "updatedAt": "2026-07-13T13:51:44Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11706,
-      "createdAt": "2026-07-09T03:07:03Z",
-      "updatedAt": "2026-07-09T03:07:03Z"
+      "createdAt": "2026-07-13T13:51:44Z",
+      "updatedAt": "2026-07-13T13:51:44Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 10600,
-      "createdAt": "2026-07-09T03:07:03Z",
-      "updatedAt": "2026-07-09T03:07:03Z"
+      "createdAt": "2026-07-13T13:51:44Z",
+      "updatedAt": "2026-07-13T13:51:44Z"
     }
   ]
 }

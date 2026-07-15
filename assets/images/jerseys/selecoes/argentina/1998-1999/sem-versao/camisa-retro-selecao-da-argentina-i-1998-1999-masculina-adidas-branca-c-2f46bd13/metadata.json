@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-selecao-da-argentina-i-1998-1999-masculina-adidas-branca-com-detalhes-em-azul-e-preto",
-  "createdAt": "2026-07-09T16:42:36Z",
-  "updatedAt": "2026-07-09T16:42:36Z",
+  "createdAt": "2026-07-13T13:36:04Z",
+  "updatedAt": "2026-07-13T13:36:04Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 8740,
-      "createdAt": "2026-07-09T16:42:35Z",
-      "updatedAt": "2026-07-09T16:42:35Z"
+      "createdAt": "2026-07-13T13:36:02Z",
+      "updatedAt": "2026-07-13T13:36:02Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 7254,
-      "createdAt": "2026-07-09T16:42:35Z",
-      "updatedAt": "2026-07-09T16:42:35Z"
+      "createdAt": "2026-07-13T13:36:02Z",
+      "updatedAt": "2026-07-13T13:36:02Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18816,
-      "createdAt": "2026-07-09T16:42:35Z",
-      "updatedAt": "2026-07-09T16:42:35Z"
+      "createdAt": "2026-07-13T13:36:03Z",
+      "updatedAt": "2026-07-13T13:36:03Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 480,
       "size": 43954,
-      "createdAt": "2026-07-09T16:42:36Z",
-      "updatedAt": "2026-07-09T16:42:36Z"
+      "createdAt": "2026-07-13T13:36:03Z",
+      "updatedAt": "2026-07-13T13:36:03Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 480,
       "size": 59184,
-      "createdAt": "2026-07-09T16:42:36Z",
-      "updatedAt": "2026-07-09T16:42:36Z"
+      "createdAt": "2026-07-13T13:36:03Z",
+      "updatedAt": "2026-07-13T13:36:03Z"
     },
     {
       "view": "detail-4",
@@ -60,8 +60,8 @@
       "width": 480,
       "height": 480,
       "size": 20102,
-      "createdAt": "2026-07-09T16:42:36Z",
-      "updatedAt": "2026-07-09T16:42:36Z"
+      "createdAt": "2026-07-13T13:36:03Z",
+      "updatedAt": "2026-07-13T13:36:03Z"
     },
     {
       "view": "detail-5",
@@ -70,8 +70,8 @@
       "width": 480,
       "height": 480,
       "size": 36902,
-      "createdAt": "2026-07-09T16:42:36Z",
-      "updatedAt": "2026-07-09T16:42:36Z"
+      "createdAt": "2026-07-13T13:36:04Z",
+      "updatedAt": "2026-07-13T13:36:04Z"
     }
   ]
 }

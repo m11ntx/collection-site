@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-benfica-ii-25-26-torcedor-adidas-masculina-vermelha",
-  "createdAt": "2026-07-07T03:08:00Z",
-  "updatedAt": "2026-07-07T03:08:00Z",
+  "createdAt": "2026-07-13T13:47:57Z",
+  "updatedAt": "2026-07-13T13:47:57Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 14158,
-      "createdAt": "2026-07-07T03:07:59Z",
-      "updatedAt": "2026-07-07T03:07:59Z"
+      "createdAt": "2026-07-13T13:47:57Z",
+      "updatedAt": "2026-07-13T13:47:57Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 9116,
-      "createdAt": "2026-07-07T03:07:59Z",
-      "updatedAt": "2026-07-07T03:07:59Z"
+      "createdAt": "2026-07-13T13:47:57Z",
+      "updatedAt": "2026-07-13T13:47:57Z"
     }
   ]
 }

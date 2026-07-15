@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-brasil-selecao-brasileira-treinamento-preta-26-27",
-  "createdAt": "2026-07-09T20:46:00Z",
-  "updatedAt": "2026-07-09T20:46:00Z",
+  "createdAt": "2026-07-13T13:51:20Z",
+  "updatedAt": "2026-07-13T13:51:20Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 413,
       "size": 6276,
-      "createdAt": "2026-07-09T20:46:00Z",
-      "updatedAt": "2026-07-09T20:46:00Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 413,
       "size": 4372,
-      "createdAt": "2026-07-09T20:46:00Z",
-      "updatedAt": "2026-07-09T20:46:00Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 413,
       "size": 8712,
-      "createdAt": "2026-07-09T20:46:00Z",
-      "updatedAt": "2026-07-09T20:46:00Z"
+      "createdAt": "2026-07-13T13:51:20Z",
+      "updatedAt": "2026-07-13T13:51:20Z"
     }
   ]
 }

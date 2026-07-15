@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santa-cruz-25-26-away-torcedor-volt-masculina",
-  "createdAt": "2026-07-05T16:55:42Z",
-  "updatedAt": "2026-07-05T16:55:42Z",
+  "createdAt": "2026-07-13T13:47:15Z",
+  "updatedAt": "2026-07-13T13:47:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 10538,
-      "createdAt": "2026-07-05T16:55:41Z",
-      "updatedAt": "2026-07-05T16:55:41Z"
+      "createdAt": "2026-07-13T13:47:15Z",
+      "updatedAt": "2026-07-13T13:47:15Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 6576,
-      "createdAt": "2026-07-05T16:55:42Z",
-      "updatedAt": "2026-07-05T16:55:42Z"
+      "createdAt": "2026-07-13T13:47:15Z",
+      "updatedAt": "2026-07-13T13:47:15Z"
     }
   ]
 }

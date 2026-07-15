@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-los-angeles-fc-ii-24-25-torcedor-adidas-masculina-verde",
-  "createdAt": "2026-07-07T05:05:25Z",
-  "updatedAt": "2026-07-07T05:05:25Z",
+  "createdAt": "2026-07-13T13:36:55Z",
+  "updatedAt": "2026-07-13T13:36:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12614,
-      "createdAt": "2026-07-07T05:05:23Z",
-      "updatedAt": "2026-07-07T05:05:23Z"
+      "createdAt": "2026-07-13T13:36:55Z",
+      "updatedAt": "2026-07-13T13:36:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5592,
-      "createdAt": "2026-07-07T05:05:23Z",
-      "updatedAt": "2026-07-07T05:05:23Z"
+      "createdAt": "2026-07-13T13:36:55Z",
+      "updatedAt": "2026-07-13T13:36:55Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 720,
       "size": 60202,
-      "createdAt": "2026-07-07T05:05:24Z",
-      "updatedAt": "2026-07-07T05:05:24Z"
+      "createdAt": "2026-07-13T13:36:55Z",
+      "updatedAt": "2026-07-13T13:36:55Z"
     },
     {
       "view": "detail-2",
@@ -40,8 +40,8 @@
       "width": 480,
       "height": 720,
       "size": 54132,
-      "createdAt": "2026-07-07T05:05:24Z",
-      "updatedAt": "2026-07-07T05:05:24Z"
+      "createdAt": "2026-07-13T13:36:55Z",
+      "updatedAt": "2026-07-13T13:36:55Z"
     },
     {
       "view": "detail-3",
@@ -50,8 +50,8 @@
       "width": 480,
       "height": 720,
       "size": 74942,
-      "createdAt": "2026-07-07T05:05:24Z",
-      "updatedAt": "2026-07-07T05:05:24Z"
+      "createdAt": "2026-07-13T13:36:55Z",
+      "updatedAt": "2026-07-13T13:36:55Z"
     }
   ]
 }

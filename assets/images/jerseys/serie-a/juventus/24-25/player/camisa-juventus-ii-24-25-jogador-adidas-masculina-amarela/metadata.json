@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-ii-24-25-jogador-adidas-masculina-amarela",
-  "createdAt": "2026-07-09T03:07:15Z",
-  "updatedAt": "2026-07-09T03:07:15Z",
+  "createdAt": "2026-07-13T13:38:25Z",
+  "updatedAt": "2026-07-13T13:38:25Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 13730,
-      "createdAt": "2026-07-09T03:07:15Z",
-      "updatedAt": "2026-07-09T03:07:15Z"
+      "createdAt": "2026-07-13T13:38:25Z",
+      "updatedAt": "2026-07-13T13:38:25Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 19136,
-      "createdAt": "2026-07-09T03:07:15Z",
-      "updatedAt": "2026-07-09T03:07:15Z"
+      "createdAt": "2026-07-13T13:38:25Z",
+      "updatedAt": "2026-07-13T13:38:25Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 12056,
-      "createdAt": "2026-07-09T03:07:15Z",
-      "updatedAt": "2026-07-09T03:07:15Z"
+      "createdAt": "2026-07-13T13:38:25Z",
+      "updatedAt": "2026-07-13T13:38:25Z"
     }
   ]
 }

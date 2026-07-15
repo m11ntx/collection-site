@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-juventus-i-25-26-torcedor-adidas-masculina-azul",
-  "createdAt": "2026-07-07T01:32:56Z",
-  "updatedAt": "2026-07-07T01:32:56Z",
+  "createdAt": "2026-07-13T13:47:55Z",
+  "updatedAt": "2026-07-13T13:47:55Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12664,
-      "createdAt": "2026-07-07T01:32:55Z",
-      "updatedAt": "2026-07-07T01:32:55Z"
+      "createdAt": "2026-07-13T13:47:55Z",
+      "updatedAt": "2026-07-13T13:47:55Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 5192,
-      "createdAt": "2026-07-07T01:32:55Z",
-      "updatedAt": "2026-07-07T01:32:55Z"
+      "createdAt": "2026-07-13T13:47:55Z",
+      "updatedAt": "2026-07-13T13:47:55Z"
     }
   ]
 }

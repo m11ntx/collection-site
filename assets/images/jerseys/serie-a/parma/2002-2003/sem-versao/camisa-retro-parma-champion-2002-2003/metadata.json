@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-retro-parma-champion-2002-2003",
-  "createdAt": "2026-07-09T21:32:24Z",
-  "updatedAt": "2026-07-09T21:32:24Z",
+  "createdAt": "2026-07-13T13:48:10Z",
+  "updatedAt": "2026-07-13T13:48:10Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 11118,
-      "createdAt": "2026-07-09T21:32:24Z",
-      "updatedAt": "2026-07-09T21:32:24Z"
+      "createdAt": "2026-07-13T13:48:10Z",
+      "updatedAt": "2026-07-13T13:48:10Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 23736,
-      "createdAt": "2026-07-09T21:32:24Z",
-      "updatedAt": "2026-07-09T21:32:24Z"
+      "createdAt": "2026-07-13T13:48:10Z",
+      "updatedAt": "2026-07-13T13:48:10Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 6338,
-      "createdAt": "2026-07-09T21:32:24Z",
-      "updatedAt": "2026-07-09T21:32:24Z"
+      "createdAt": "2026-07-13T13:48:10Z",
+      "updatedAt": "2026-07-13T13:48:10Z"
     }
   ]
 }

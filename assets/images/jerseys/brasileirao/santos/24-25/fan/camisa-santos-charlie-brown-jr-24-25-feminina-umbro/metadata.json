@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-santos-charlie-brown-jr-24-25-feminina-umbro",
-  "createdAt": "2026-07-09T05:35:51Z",
-  "updatedAt": "2026-07-09T05:35:51Z",
+  "createdAt": "2026-07-13T13:46:15Z",
+  "updatedAt": "2026-07-13T13:46:15Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 480,
       "size": 12014,
-      "createdAt": "2026-07-09T05:35:51Z",
-      "updatedAt": "2026-07-09T05:35:51Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 480,
       "size": 16644,
-      "createdAt": "2026-07-09T05:35:51Z",
-      "updatedAt": "2026-07-09T05:35:51Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     },
     {
       "view": "detail-1",
@@ -30,8 +30,8 @@
       "width": 480,
       "height": 480,
       "size": 18972,
-      "createdAt": "2026-07-09T05:35:51Z",
-      "updatedAt": "2026-07-09T05:35:51Z"
+      "createdAt": "2026-07-13T13:46:14Z",
+      "updatedAt": "2026-07-13T13:46:14Z"
     }
   ]
 }

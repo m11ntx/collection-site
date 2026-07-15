@@ -1,7 +1,7 @@
 {
   "productId": "source-camisa-corinthians-pre-jogo-26-27-torcedor-vinho",
-  "createdAt": "2026-07-14T19:16:36Z",
-  "updatedAt": "2026-07-14T19:16:36Z",
+  "createdAt": "2026-07-15T10:36:39Z",
+  "updatedAt": "2026-07-15T10:36:39Z",
   "images": [
     {
       "view": "front",
@@ -10,8 +10,8 @@
       "width": 480,
       "height": 473,
       "size": 5900,
-      "createdAt": "2026-07-14T19:16:35Z",
-      "updatedAt": "2026-07-14T19:16:35Z"
+      "createdAt": "2026-07-15T10:36:39Z",
+      "updatedAt": "2026-07-15T10:36:39Z"
     },
     {
       "view": "back",
@@ -20,8 +20,8 @@
       "width": 480,
       "height": 472,
       "size": 4574,
-      "createdAt": "2026-07-14T19:16:36Z",
-      "updatedAt": "2026-07-14T19:16:36Z"
+      "createdAt": "2026-07-15T10:36:39Z",
+      "updatedAt": "2026-07-15T10:36:39Z"
     }
   ]
 }
