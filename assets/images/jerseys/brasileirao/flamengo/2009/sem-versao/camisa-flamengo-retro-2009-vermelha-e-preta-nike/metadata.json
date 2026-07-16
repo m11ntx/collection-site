@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-flamengo-retro-2009-vermelha-e-preta-nike",
   "createdAt": "2026-07-13T13:27:00Z",
-  "updatedAt": "2026-07-13T13:27:00Z",
+  "updatedAt": "2026-07-16T12:01:03Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/flamengo/2009/sem-versao/camisa-flamengo-retro-2009-vermelha-e-preta-nike/front.webp",
-      "hash": "c1d7ee37348d71f9d46c698036ed56ce801a2e671846c0e20553c105a78149bc",
+      "hash": "3bb7b4f9e48313f3d368b1943108807fc736b472090ce1f3156567779b0c39ad",
       "width": 480,
       "height": 480,
-      "size": 12378,
+      "size": 15100,
       "createdAt": "2026-07-13T13:26:59Z",
-      "updatedAt": "2026-07-13T13:26:59Z"
+      "updatedAt": "2026-07-16T12:01:03Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/flamengo/2009/sem-versao/camisa-flamengo-retro-2009-vermelha-e-preta-nike/back.webp",
-      "hash": "74db323f9b288f76a9143ff9c818929b649546cf777231d1cb2a983ae2188eb7",
+      "hash": "db63e0e4a849f0ced70a79bc37d19f7b40803f0be5a1e93518ccb97c17f5f405",
       "width": 480,
       "height": 480,
-      "size": 11594,
+      "size": 10950,
       "createdAt": "2026-07-13T13:26:59Z",
-      "updatedAt": "2026-07-13T13:26:59Z"
+      "updatedAt": "2026-07-16T12:01:03Z"
     },
     {
       "view": "detail-1",
@@ -60,16 +60,6 @@
       "width": 480,
       "height": 480,
       "size": 63544,
-      "createdAt": "2026-07-13T13:27:00Z",
-      "updatedAt": "2026-07-13T13:27:00Z"
-    },
-    {
-      "view": "detail-5",
-      "path": "assets/images/jerseys/brasileirao/flamengo/2009/sem-versao/camisa-flamengo-retro-2009-vermelha-e-preta-nike/detail-5.webp",
-      "hash": "c1be557f912bfaf2b064ad34d89f08ed2ca14805ef9410f053cd5c582f186a4a",
-      "width": 480,
-      "height": 480,
-      "size": 55960,
       "createdAt": "2026-07-13T13:27:00Z",
       "updatedAt": "2026-07-13T13:27:00Z"
     }

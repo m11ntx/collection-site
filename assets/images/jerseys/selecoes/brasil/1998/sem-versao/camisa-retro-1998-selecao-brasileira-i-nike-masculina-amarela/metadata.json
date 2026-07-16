@@ -1,57 +1,57 @@
 {
   "productId": "source-camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela",
   "createdAt": "2026-07-13T13:23:45Z",
-  "updatedAt": "2026-07-13T13:23:45Z",
+  "updatedAt": "2026-07-16T12:00:47Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/selecoes/brasil/1998/sem-versao/camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela/front.webp",
-      "hash": "4f716ecd189a48f85d4e48a900b5f23e5290d6efb358d973a388460b9741576d",
+      "hash": "685977ede6673dc4c7caf5eb81fb958fb7cb623526b93021c2d9317722f3175e",
       "width": 480,
       "height": 480,
-      "size": 8972,
+      "size": 10864,
       "createdAt": "2026-07-13T13:23:44Z",
-      "updatedAt": "2026-07-13T13:23:44Z"
+      "updatedAt": "2026-07-16T12:00:44Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/selecoes/brasil/1998/sem-versao/camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela/back.webp",
-      "hash": "3a20f1bd606683f71323fb64b017dba86e2f0d62065b9395c5002ab1284310bc",
+      "hash": "5b2401307c736539deb03f6f026fc85eb9d7d104b6de493a458685fb8d46d5ad",
       "width": 480,
       "height": 480,
-      "size": 6524,
+      "size": 7130,
       "createdAt": "2026-07-13T13:23:44Z",
-      "updatedAt": "2026-07-13T13:23:44Z"
+      "updatedAt": "2026-07-16T12:00:45Z"
     },
     {
       "view": "detail-1",
       "path": "assets/images/jerseys/selecoes/brasil/1998/sem-versao/camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela/detail-1.webp",
-      "hash": "aa2827723eb210fdb2dbbaf87c51837cc447806d24a2bb22d7bf393a2762293c",
+      "hash": "7c57225017e7c0ce0ab910146cd3f3c6688716f8dddf40b0a1d2f26c3ede9099",
       "width": 480,
       "height": 480,
-      "size": 15518,
+      "size": 16074,
       "createdAt": "2026-07-13T13:23:44Z",
-      "updatedAt": "2026-07-13T13:23:44Z"
+      "updatedAt": "2026-07-16T12:00:45Z"
     },
     {
       "view": "detail-2",
       "path": "assets/images/jerseys/selecoes/brasil/1998/sem-versao/camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela/detail-2.webp",
-      "hash": "7baa66f4b68c213c145b70046e1f3988255ae99421681e6da7606ba07264dcc0",
+      "hash": "8f8ecac41013fc46b73d8bbe6b9e43852b0e6765830b0f52f1e16b72f63208b2",
       "width": 480,
       "height": 480,
-      "size": 14996,
+      "size": 12306,
       "createdAt": "2026-07-13T13:23:44Z",
-      "updatedAt": "2026-07-13T13:23:44Z"
+      "updatedAt": "2026-07-16T12:00:46Z"
     },
     {
       "view": "detail-3",
       "path": "assets/images/jerseys/selecoes/brasil/1998/sem-versao/camisa-retro-1998-selecao-brasileira-i-nike-masculina-amarela/detail-3.webp",
-      "hash": "39254b990cbfd7ac1e575f3b438fc36d7ec1027d892e39bd10096bd448d24b0a",
+      "hash": "ddddc1c4f5cc44557aab200fcb4b3f0c0ead5462bd10884aa46d34a27ff5f7a2",
       "width": 480,
       "height": 480,
-      "size": 15352,
+      "size": 15708,
       "createdAt": "2026-07-13T13:23:45Z",
-      "updatedAt": "2026-07-13T13:23:45Z"
+      "updatedAt": "2026-07-16T12:00:47Z"
     },
     {
       "view": "detail-4",

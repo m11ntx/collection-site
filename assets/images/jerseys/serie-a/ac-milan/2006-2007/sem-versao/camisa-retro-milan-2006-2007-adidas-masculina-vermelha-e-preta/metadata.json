@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-retro-milan-2006-2007-adidas-masculina-vermelha-e-preta",
   "createdAt": "2026-07-13T13:28:59Z",
-  "updatedAt": "2026-07-13T13:28:59Z",
+  "updatedAt": "2026-07-16T12:01:14Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/serie-a/ac-milan/2006-2007/sem-versao/camisa-retro-milan-2006-2007-adidas-masculina-vermelha-e-preta/front.webp",
-      "hash": "5af3a14e290e1ab3b329836f299b8efc5e39f9678846c0e1b332cc16c83bb930",
+      "hash": "c1d7e3ad6129d5fbc6e2eeaa44f08bc0327b8d8d41bf1f4dd23d86db02671d7f",
       "width": 480,
       "height": 480,
-      "size": 14708,
+      "size": 16866,
       "createdAt": "2026-07-13T13:28:59Z",
-      "updatedAt": "2026-07-13T13:28:59Z"
+      "updatedAt": "2026-07-16T12:01:13Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/serie-a/ac-milan/2006-2007/sem-versao/camisa-retro-milan-2006-2007-adidas-masculina-vermelha-e-preta/back.webp",
-      "hash": "c0f989bf9c3e4c3133847529cd07d11688e4ae45a22f3ee8d02877877dbe7351",
+      "hash": "18862ea87207e1088bab70d09b8e1f0e760d070dca3c1132ff600b9318dcfc78",
       "width": 480,
       "height": 480,
-      "size": 10786,
+      "size": 11114,
       "createdAt": "2026-07-13T13:28:59Z",
-      "updatedAt": "2026-07-13T13:28:59Z"
+      "updatedAt": "2026-07-16T12:01:14Z"
     },
     {
       "view": "detail-1",

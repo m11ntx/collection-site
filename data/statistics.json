@@ -8,8 +8,8 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3288,
-    "unavailable": 0,
+    "available": 3287,
+    "unavailable": 1,
     "inventoryTracked": 0,
     "withManufacturer": 2627
   },
