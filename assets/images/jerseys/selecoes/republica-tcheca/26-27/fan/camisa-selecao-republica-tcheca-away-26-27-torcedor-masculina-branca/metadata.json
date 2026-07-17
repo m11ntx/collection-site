@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-republica-tcheca-away-26-27-torcedor-masculina-branca",
+  "createdAt": "2026-07-17T10:33:25Z",
+  "updatedAt": "2026-07-17T10:33:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/republica-tcheca/26-27/fan/camisa-selecao-republica-tcheca-away-26-27-torcedor-masculina-branca/front.webp",
+      "hash": "cbc61049fe9e928bb1d548f61126aa03e17eca813484d87e62d031e30b1729c1",
+      "width": 480,
+      "height": 480,
+      "size": 9114,
+      "createdAt": "2026-07-17T10:33:24Z",
+      "updatedAt": "2026-07-17T10:33:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/republica-tcheca/26-27/fan/camisa-selecao-republica-tcheca-away-26-27-torcedor-masculina-branca/back.webp",
+      "hash": "5528e0e91be36ef9bdbee5efe655633a57109d4df92a076f47492991718a15ed",
+      "width": 480,
+      "height": 480,
+      "size": 4172,
+      "createdAt": "2026-07-17T10:33:25Z",
+      "updatedAt": "2026-07-17T10:33:25Z"
+    }
+  ]
+}
