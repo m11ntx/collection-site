@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3289,
+    "products": 3294,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,8 +8,8 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3288,
-    "unavailable": 1,
+    "available": 3292,
+    "unavailable": 2,
     "inventoryTracked": 0,
     "withManufacturer": 2627
   },
@@ -19,7 +19,7 @@
     "europa": 1403,
     "nba": 126,
     "resto-do-mundo": 223,
-    "selecoes": 658
+    "selecoes": 663
   },
   "byLeague": {
     "allsvenskan": 1,
@@ -34,7 +34,7 @@
     "primeira-liga": 20,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 658,
+    "selecoes": 663,
     "serie-a": 300,
     "super-lig": 1,
     "unknown": 163
@@ -43,7 +43,7 @@
     "africa": 14,
     "americas": 231,
     "asia": 43,
-    "europa": 368,
+    "europa": 373,
     "minas-gerais": 94,
     "nordeste": 72,
     "norte": 8,
@@ -121,7 +121,7 @@
     "emirados-arabes-unidos": 1,
     "equador": 6,
     "escocia": 13,
-    "espanha": 43,
+    "espanha": 48,
     "estados-unidos": 4,
     "everton": 32,
     "fc-cincinnati": 3,
@@ -404,7 +404,7 @@
     "24/35": 1,
     "25/26": 326,
     "2526": 1,
-    "26/27": 258,
+    "26/27": 260,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -428,22 +428,22 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 206
+    "unknown": 209
   },
   "byCategory": {
-    "current": 119,
+    "current": 120,
     "manga-longa": 195,
     "retro": 761,
-    "unknown": 2214
+    "unknown": 2218
   },
   "byVersion": {
-    "fan": 1399,
-    "player": 307,
-    "unknown": 1583
+    "fan": 1401,
+    "player": 309,
+    "unknown": 1584
   },
   "byGender": {
     "kids": 229,
-    "men": 2337,
+    "men": 2342,
     "unknown": 523,
     "women": 200
   }
