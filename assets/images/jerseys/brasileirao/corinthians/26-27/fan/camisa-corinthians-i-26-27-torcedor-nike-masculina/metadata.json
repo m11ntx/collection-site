@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-corinthians-i-26-27-torcedor-nike-masculina",
   "createdAt": "2026-07-13T13:51:00Z",
-  "updatedAt": "2026-07-13T13:51:00Z",
+  "updatedAt": "2026-07-22T12:07:32Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/camisa-corinthians-i-26-27-torcedor-nike-masculina/front.webp",
-      "hash": "bd91fc889a8ac3cd0a80f2d4ee35aab4f765f01a7a50027aaf0311e976ee5a8a",
+      "hash": "50949209d35d682d405d14556ea9eade881cf81c9020b533d3a5ad4295632e12",
       "width": 480,
       "height": 480,
-      "size": 6986,
+      "size": 7326,
       "createdAt": "2026-07-13T13:51:00Z",
-      "updatedAt": "2026-07-13T13:51:00Z"
+      "updatedAt": "2026-07-22T12:07:32Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/corinthians/26-27/fan/camisa-corinthians-i-26-27-torcedor-nike-masculina/back.webp",
-      "hash": "5432702223597b6e8921ab53105974d88bc4481016bbf14608da210bd6bca863",
+      "hash": "7766d0d065683d6b647a67030986800aa6dd2e9b1cb7ae7a711fe4a25ed4c25c",
       "width": 480,
       "height": 480,
-      "size": 3700,
+      "size": 3674,
       "createdAt": "2026-07-13T13:51:00Z",
-      "updatedAt": "2026-07-13T13:51:00Z"
+      "updatedAt": "2026-07-22T12:07:32Z"
     }
   ]
 }
