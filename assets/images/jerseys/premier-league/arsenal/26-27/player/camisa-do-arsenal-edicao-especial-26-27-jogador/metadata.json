@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-arsenal-edicao-especial-26-27-jogador",
+  "createdAt": "2026-07-23T11:30:18Z",
+  "updatedAt": "2026-07-23T11:30:18Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/player/camisa-do-arsenal-edicao-especial-26-27-jogador/front.webp",
+      "hash": "a73c64a648c588f34f67f97b3141a3a854b1c1435a93d2153b9441619baa3c25",
+      "width": 480,
+      "height": 480,
+      "size": 12540,
+      "createdAt": "2026-07-23T11:30:17Z",
+      "updatedAt": "2026-07-23T11:30:17Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/arsenal/26-27/player/camisa-do-arsenal-edicao-especial-26-27-jogador/back.webp",
+      "hash": "0eef1aeada02f2381276c385c7f7ecd0e89b24e5dafd59a049709a1127db0055",
+      "width": 480,
+      "height": 480,
+      "size": 7284,
+      "createdAt": "2026-07-23T11:30:18Z",
+      "updatedAt": "2026-07-23T11:30:18Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-vasco-nike-ii-2026-27-torcedor-pro-masculina",
+  "createdAt": "2026-07-23T11:30:25Z",
+  "updatedAt": "2026-07-23T11:30:25Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2026-27/fan/camisa-vasco-nike-ii-2026-27-torcedor-pro-masculina/front.webp",
+      "hash": "5ea243427db1050ee1d4aa649fb56968aa0b520d17ec9c1eee071ee33c936aed",
+      "width": 480,
+      "height": 480,
+      "size": 6212,
+      "createdAt": "2026-07-23T11:30:24Z",
+      "updatedAt": "2026-07-23T11:30:24Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/2026-27/fan/camisa-vasco-nike-ii-2026-27-torcedor-pro-masculina/back.webp",
+      "hash": "eda7298b1b8d6d1cc703859dc247b32b11b43be362f8884252e0119a88716dcf",
+      "width": 480,
+      "height": 480,
+      "size": 2868,
+      "createdAt": "2026-07-23T11:30:25Z",
+      "updatedAt": "2026-07-23T11:30:25Z"
+    }
+  ]
+}

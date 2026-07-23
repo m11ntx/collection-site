@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-masculina-umbro-santos-treino-26-27-torcedor",
+  "createdAt": "2026-07-23T11:30:27Z",
+  "updatedAt": "2026-07-23T11:30:27Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-masculina-umbro-santos-treino-26-27-torcedor/front.webp",
+      "hash": "29edeeb697a2246e31ad3c76ab6c351b10bdda78ce785d4a7d141165e5b5e4f8",
+      "width": 480,
+      "height": 480,
+      "size": 5654,
+      "createdAt": "2026-07-23T11:30:27Z",
+      "updatedAt": "2026-07-23T11:30:27Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-masculina-umbro-santos-treino-26-27-torcedor/back.webp",
+      "hash": "58310eb55c15310ea7163c3ec48d6ea8157d35e826c305327ee3a85ccede7276",
+      "width": 480,
+      "height": 480,
+      "size": 3402,
+      "createdAt": "2026-07-23T11:30:27Z",
+      "updatedAt": "2026-07-23T11:30:27Z"
+    }
+  ]
+}
