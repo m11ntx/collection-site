@@ -1,17 +1,27 @@
 {
   "productId": "source-camisa-selecao-espanha-away-2-estrelas-masculino-torcedor-branca",
   "createdAt": "2026-07-21T11:28:33Z",
-  "updatedAt": "2026-07-21T11:28:33Z",
+  "updatedAt": "2026-07-24T12:01:41Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/fan/camisa-selecao-espanha-away-2-estrelas-masculino-torcedor-branca/front.webp",
-      "hash": "ac321d5834fba0307bf2d3b52d0ff6cf2a0e6982e5be1a8b2959061728759361",
+      "hash": "d2a0ecc38eb1266d4e7dede595892ca4b5b33e843a6ab28a7942776c6127ff89",
       "width": 480,
       "height": 480,
-      "size": 16928,
+      "size": 14090,
       "createdAt": "2026-07-21T11:28:33Z",
-      "updatedAt": "2026-07-21T11:28:33Z"
+      "updatedAt": "2026-07-24T12:01:40Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/fan/camisa-selecao-espanha-away-2-estrelas-masculino-torcedor-branca/back.webp",
+      "hash": "59c93e4b20e5c72c3fc1e79812d80fcb613a1a8e115ec2a75eafc6fcb610e9e2",
+      "width": 480,
+      "height": 480,
+      "size": 13010,
+      "createdAt": "2026-07-24T12:01:41Z",
+      "updatedAt": "2026-07-24T12:01:41Z"
     }
   ]
 }

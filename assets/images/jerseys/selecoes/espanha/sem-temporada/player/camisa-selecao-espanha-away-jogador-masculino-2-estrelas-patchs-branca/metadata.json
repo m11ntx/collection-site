@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-espanha-away-jogador-masculino-2-estrelas-patchs-branca",
+  "createdAt": "2026-07-24T12:01:50Z",
+  "updatedAt": "2026-07-24T12:01:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/player/camisa-selecao-espanha-away-jogador-masculino-2-estrelas-patchs-branca/front.webp",
+      "hash": "90db937e1b3cb27f6d832f9c8ce954f99e4272b6aeb67e31b987802bfbe1caf0",
+      "width": 480,
+      "height": 480,
+      "size": 17352,
+      "createdAt": "2026-07-24T12:01:49Z",
+      "updatedAt": "2026-07-24T12:01:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/player/camisa-selecao-espanha-away-jogador-masculino-2-estrelas-patchs-branca/back.webp",
+      "hash": "281167212e686f62a7733e4dec62d406eb15cfa43da3fb1fda15184a8f6fff16",
+      "width": 480,
+      "height": 480,
+      "size": 9260,
+      "createdAt": "2026-07-24T12:01:50Z",
+      "updatedAt": "2026-07-24T12:01:50Z"
+    }
+  ]
+}

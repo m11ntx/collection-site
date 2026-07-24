@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3312,
+    "products": 3322,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,34 +8,34 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3311,
+    "available": 3321,
     "unavailable": 1,
     "inventoryTracked": 0,
-    "withManufacturer": 2635
+    "withManufacturer": 2637
   },
   "byCollection": {
     "acessorios": 37,
     "brasil": 851,
-    "europa": 1408,
+    "europa": 1412,
     "nba": 126,
     "resto-do-mundo": 223,
-    "selecoes": 667
+    "selecoes": 673
   },
   "byLeague": {
     "allsvenskan": 1,
     "brasileirao": 851,
     "bundesliga": 109,
-    "eredivisie": 27,
-    "la-liga": 339,
+    "eredivisie": 28,
+    "la-liga": 340,
     "libertadores": 105,
-    "ligue-1": 87,
+    "ligue-1": 88,
     "mls": 87,
     "premier-league": 502,
     "primeira-liga": 20,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 667,
-    "serie-a": 301,
+    "selecoes": 673,
+    "serie-a": 302,
     "super-lig": 1,
     "unknown": 163
   },
@@ -43,7 +43,7 @@
     "africa": 14,
     "americas": 231,
     "asia": 43,
-    "europa": 377,
+    "europa": 383,
     "minas-gerais": 94,
     "nordeste": 72,
     "norte": 8,
@@ -51,13 +51,13 @@
     "rio-de-janeiro": 318,
     "sao-paulo": 254,
     "sul": 105,
-    "unknown": 1794
+    "unknown": 1798
   },
   "byClub": {
     "ac-milan": 81,
     "africa-do-sul": 2,
     "aik": 1,
-    "ajax": 26,
+    "ajax": 27,
     "al-hilal": 12,
     "al-nassr": 18,
     "alemanha": 59,
@@ -66,7 +66,7 @@
     "argelia": 2,
     "argentina": 55,
     "arsenal": 80,
-    "as-roma": 21,
+    "as-roma": 22,
     "aston-villa": 7,
     "atalanta": 3,
     "athletic-bilbao": 3,
@@ -121,7 +121,7 @@
     "emirados-arabes-unidos": 1,
     "equador": 6,
     "escocia": 13,
-    "espanha": 52,
+    "espanha": 56,
     "estados-unidos": 4,
     "everton": 32,
     "fc-cincinnati": 3,
@@ -133,7 +133,7 @@
     "flamengo": 182,
     "fluminense": 49,
     "fortaleza": 4,
-    "franca": 35,
+    "franca": 37,
     "galatasaray": 1,
     "gremio": 36,
     "haiti": 1,
@@ -198,7 +198,7 @@
     "rangers": 2,
     "rb-leipzig": 8,
     "real-betis": 5,
-    "real-madrid": 155,
+    "real-madrid": 156,
     "real-salt-lake": 1,
     "remo": 2,
     "republica-tcheca": 2,
@@ -225,7 +225,7 @@
     "turquia": 2,
     "ucrania": 1,
     "universidad-do-chile": 2,
-    "unknown": 163,
+    "unknown": 164,
     "uruguai": 8,
     "vasco-da-gama": 51,
     "vitoria": 5,
@@ -404,7 +404,7 @@
     "24/35": 1,
     "25/26": 327,
     "2526": 1,
-    "26/27": 271,
+    "26/27": 279,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -428,23 +428,23 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 213
+    "unknown": 215
   },
   "byCategory": {
-    "current": 123,
+    "current": 124,
     "manga-longa": 195,
     "retro": 761,
-    "unknown": 2233
+    "unknown": 2242
   },
   "byVersion": {
-    "fan": 1411,
-    "player": 316,
+    "fan": 1415,
+    "player": 322,
     "unknown": 1585
   },
   "byGender": {
     "kids": 230,
-    "men": 2358,
-    "unknown": 523,
-    "women": 201
+    "men": 2365,
+    "unknown": 524,
+    "women": 203
   }
 }

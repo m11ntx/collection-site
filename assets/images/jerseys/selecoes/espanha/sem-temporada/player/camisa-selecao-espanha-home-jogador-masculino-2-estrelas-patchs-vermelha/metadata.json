@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-selecao-espanha-home-jogador-masculino-2-estrelas-patchs-vermelha",
   "createdAt": "2026-07-23T11:30:31Z",
-  "updatedAt": "2026-07-23T11:30:31Z",
+  "updatedAt": "2026-07-24T12:01:44Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/player/camisa-selecao-espanha-home-jogador-masculino-2-estrelas-patchs-vermelha/front.webp",
-      "hash": "732207003b7ab9bfaa272917304e36f6bad99a3c37d22ae7266b161e5bd37221",
+      "hash": "03d8bc761be03dc3efe4e9e702d7d212d0cb67bd441e10cf9f8ceaa6aa0fffe6",
       "width": 480,
       "height": 480,
-      "size": 19254,
+      "size": 17194,
       "createdAt": "2026-07-23T11:30:30Z",
-      "updatedAt": "2026-07-23T11:30:30Z"
+      "updatedAt": "2026-07-24T12:01:44Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/selecoes/espanha/sem-temporada/player/camisa-selecao-espanha-home-jogador-masculino-2-estrelas-patchs-vermelha/back.webp",
-      "hash": "3ba441c1478aec5e342e7da1b1b694660e80e61728d2eae8e9a9f723b0d220b8",
+      "hash": "9337fc433bd1fa83579be62461d5c342034d43ff9fa7dd538300499ff305b54f",
       "width": 480,
       "height": 480,
-      "size": 16660,
+      "size": 14750,
       "createdAt": "2026-07-23T11:30:31Z",
-      "updatedAt": "2026-07-23T11:30:31Z"
+      "updatedAt": "2026-07-24T12:01:44Z"
     }
   ]
 }

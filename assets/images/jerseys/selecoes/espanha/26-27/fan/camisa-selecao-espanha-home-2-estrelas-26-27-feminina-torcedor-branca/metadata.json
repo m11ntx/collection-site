@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-espanha-home-2-estrelas-26-27-feminina-torcedor-branca",
+  "createdAt": "2026-07-24T12:01:49Z",
+  "updatedAt": "2026-07-24T12:01:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-home-2-estrelas-26-27-feminina-torcedor-branca/front.webp",
+      "hash": "1833bb9e5f32698b88253fe8bc282d271cd23b45ced890c1b006731cbb997913",
+      "width": 480,
+      "height": 480,
+      "size": 10218,
+      "createdAt": "2026-07-24T12:01:49Z",
+      "updatedAt": "2026-07-24T12:01:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-home-2-estrelas-26-27-feminina-torcedor-branca/back.webp",
+      "hash": "e9d3fbd71b43d6ab10c163ef6a1b0ba0cb94c2f875792f4da8933e6614271813",
+      "width": 480,
+      "height": 480,
+      "size": 8806,
+      "createdAt": "2026-07-24T12:01:49Z",
+      "updatedAt": "2026-07-24T12:01:49Z"
+    }
+  ]
+}

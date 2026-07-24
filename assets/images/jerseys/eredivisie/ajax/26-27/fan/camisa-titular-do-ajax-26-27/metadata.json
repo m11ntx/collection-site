@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-titular-do-ajax-26-27",
+  "createdAt": "2026-07-24T12:01:48Z",
+  "updatedAt": "2026-07-24T12:01:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/26-27/fan/camisa-titular-do-ajax-26-27/front.webp",
+      "hash": "2e196c95b0c7a0958fff3d3681b9c15d6a6f07e8de2b4692af00b95acd90f0c1",
+      "width": 480,
+      "height": 480,
+      "size": 10682,
+      "createdAt": "2026-07-24T12:01:47Z",
+      "updatedAt": "2026-07-24T12:01:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/26-27/fan/camisa-titular-do-ajax-26-27/back.webp",
+      "hash": "f9a9cc0e0883951874368bb25ff0fb4466cc1a17f9ed88c042f10cc797f177b3",
+      "width": 480,
+      "height": 480,
+      "size": 5100,
+      "createdAt": "2026-07-24T12:01:48Z",
+      "updatedAt": "2026-07-24T12:01:48Z"
+    }
+  ]
+}
