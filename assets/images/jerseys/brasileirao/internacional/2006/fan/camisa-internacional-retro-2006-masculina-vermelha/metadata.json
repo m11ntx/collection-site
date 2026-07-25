@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-retro-2006-masculina-vermelha",
+  "createdAt": "2026-07-25T10:15:42Z",
+  "updatedAt": "2026-07-25T10:15:42Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/2006/fan/camisa-internacional-retro-2006-masculina-vermelha/front.webp",
+      "hash": "9c425dbf7a64c84f789b7ba2bab295d18fd178da8940432c0695f44e6511efc3",
+      "width": 480,
+      "height": 480,
+      "size": 10554,
+      "createdAt": "2026-07-25T10:15:41Z",
+      "updatedAt": "2026-07-25T10:15:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/2006/fan/camisa-internacional-retro-2006-masculina-vermelha/back.webp",
+      "hash": "c3b7d9510443b6dbfc80a6f135912ae28c07603d5d001c1a7e5a47626e75c438",
+      "width": 480,
+      "height": 480,
+      "size": 5980,
+      "createdAt": "2026-07-25T10:15:42Z",
+      "updatedAt": "2026-07-25T10:15:42Z"
+    }
+  ]
+}

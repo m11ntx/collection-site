@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-cabo-verde-away-26-27-torcedor-masculina-branca",
+  "createdAt": "2026-07-25T10:15:50Z",
+  "updatedAt": "2026-07-25T10:15:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/cabo-verde/26-27/fan/camisa-cabo-verde-away-26-27-torcedor-masculina-branca/front.webp",
+      "hash": "6fabd557a16b351597b6eaad35c48dbc83d7cc7173cdc3815d729f6e2199a4ad",
+      "width": 480,
+      "height": 480,
+      "size": 11880,
+      "createdAt": "2026-07-25T10:15:50Z",
+      "updatedAt": "2026-07-25T10:15:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/cabo-verde/26-27/fan/camisa-cabo-verde-away-26-27-torcedor-masculina-branca/back.webp",
+      "hash": "0ea2973fc32fc26e1af818193619f6b908c21fee8a2cbf692840e9f130d2f10b",
+      "width": 480,
+      "height": 480,
+      "size": 8770,
+      "createdAt": "2026-07-25T10:15:50Z",
+      "updatedAt": "2026-07-25T10:15:50Z"
+    }
+  ]
+}

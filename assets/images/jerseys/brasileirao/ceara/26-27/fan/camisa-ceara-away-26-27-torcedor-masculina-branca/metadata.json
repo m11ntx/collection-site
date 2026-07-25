@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ceara-away-26-27-torcedor-masculina-branca",
+  "createdAt": "2026-07-25T10:15:49Z",
+  "updatedAt": "2026-07-25T10:15:49Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/ceara/26-27/fan/camisa-ceara-away-26-27-torcedor-masculina-branca/front.webp",
+      "hash": "80c2794369c2b2e93c9259eb451519d5694bab8b812b7363f6d3cfbef0961847",
+      "width": 480,
+      "height": 480,
+      "size": 10162,
+      "createdAt": "2026-07-25T10:15:49Z",
+      "updatedAt": "2026-07-25T10:15:49Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/ceara/26-27/fan/camisa-ceara-away-26-27-torcedor-masculina-branca/back.webp",
+      "hash": "da8b9b50af0f71554e8db18f293bce857de49b85db413b3c5d3a1ba77dd4fb53",
+      "width": 480,
+      "height": 480,
+      "size": 3482,
+      "createdAt": "2026-07-25T10:15:49Z",
+      "updatedAt": "2026-07-25T10:15:49Z"
+    }
+  ]
+}

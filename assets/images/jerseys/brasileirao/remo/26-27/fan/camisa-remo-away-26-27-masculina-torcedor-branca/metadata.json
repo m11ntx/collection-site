@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-remo-away-26-27-masculina-torcedor-branca",
+  "createdAt": "2026-07-25T10:15:41Z",
+  "updatedAt": "2026-07-25T10:15:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-away-26-27-masculina-torcedor-branca/front.webp",
+      "hash": "f9d8f20e717d7f743307885196169299e49974683b5d97c7d9fe617343f1a973",
+      "width": 480,
+      "height": 480,
+      "size": 8436,
+      "createdAt": "2026-07-25T10:15:41Z",
+      "updatedAt": "2026-07-25T10:15:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-away-26-27-masculina-torcedor-branca/back.webp",
+      "hash": "2a4093f69c52644992445c8f4d0fbf36ba661a8ced6149ce8e20c7e6eaac932e",
+      "width": 480,
+      "height": 480,
+      "size": 4450,
+      "createdAt": "2026-07-25T10:15:41Z",
+      "updatedAt": "2026-07-25T10:15:41Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-espanha-home-2-estrelas-patch-26-27-masculino-torcedor-vermelha",
+  "createdAt": "2026-07-25T10:15:32Z",
+  "updatedAt": "2026-07-25T10:15:32Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-home-2-estrelas-patch-26-27-masculino-torcedor-vermelha/front.webp",
+      "hash": "dbe25d459d72bb78f318be3a14d6aa543434a3c30b8eb417fb3c8c7e86ebbbb0",
+      "width": 480,
+      "height": 480,
+      "size": 13104,
+      "createdAt": "2026-07-25T10:15:31Z",
+      "updatedAt": "2026-07-25T10:15:31Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-home-2-estrelas-patch-26-27-masculino-torcedor-vermelha/back.webp",
+      "hash": "5a1d7ae874ffa7afb53021679b533312a63a3fa98fb154afb45139ba20639936",
+      "width": 480,
+      "height": 480,
+      "size": 10628,
+      "createdAt": "2026-07-25T10:15:32Z",
+      "updatedAt": "2026-07-25T10:15:32Z"
+    }
+  ]
+}

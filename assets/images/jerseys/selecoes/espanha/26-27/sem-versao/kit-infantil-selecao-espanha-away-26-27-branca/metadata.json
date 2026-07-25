@@ -1,0 +1,27 @@
+{
+  "productId": "source-kit-infantil-selecao-espanha-away-26-27-branca",
+  "createdAt": "2026-07-25T10:15:37Z",
+  "updatedAt": "2026-07-25T10:15:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/sem-versao/kit-infantil-selecao-espanha-away-26-27-branca/front.webp",
+      "hash": "5513f59ffa48496d6770e4cbc088ff60c60db18f0f2ec9919b52731c88c7517c",
+      "width": 480,
+      "height": 480,
+      "size": 11654,
+      "createdAt": "2026-07-25T10:15:37Z",
+      "updatedAt": "2026-07-25T10:15:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/sem-versao/kit-infantil-selecao-espanha-away-26-27-branca/back.webp",
+      "hash": "d48acb20d2b25c84ce6dc8db5ce018dc30f96ddecfe46fb71eadb9df7625f44d",
+      "width": 480,
+      "height": 480,
+      "size": 9574,
+      "createdAt": "2026-07-25T10:15:37Z",
+      "updatedAt": "2026-07-25T10:15:37Z"
+    }
+  ]
+}

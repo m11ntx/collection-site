@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-lyon-home-26-27-torcedor-adidas-branca",
+  "createdAt": "2026-07-25T10:15:47Z",
+  "updatedAt": "2026-07-25T10:15:47Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/lyon/26-27/fan/pre-venda-camisa-lyon-home-26-27-torcedor-adidas-branca/front.webp",
+      "hash": "1bd0c2b18389117f4856e2dea59de2b72e8587d5f30ce16b304e3b22d4c5b14d",
+      "width": 480,
+      "height": 480,
+      "size": 12182,
+      "createdAt": "2026-07-25T10:15:47Z",
+      "updatedAt": "2026-07-25T10:15:47Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/lyon/26-27/fan/pre-venda-camisa-lyon-home-26-27-torcedor-adidas-branca/back.webp",
+      "hash": "caba0eeeef2a00864b792f161172bbea2c5903ddb136ea6d4e66949c7b4ca402",
+      "width": 480,
+      "height": 480,
+      "size": 5634,
+      "createdAt": "2026-07-25T10:15:47Z",
+      "updatedAt": "2026-07-25T10:15:47Z"
+    }
+  ]
+}

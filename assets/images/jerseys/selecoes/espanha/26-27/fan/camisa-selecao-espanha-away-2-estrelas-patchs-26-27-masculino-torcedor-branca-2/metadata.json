@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-espanha-away-2-estrelas-patchs-26-27-masculino-torcedor-branca-2",
+  "createdAt": "2026-07-25T10:15:36Z",
+  "updatedAt": "2026-07-25T10:15:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-away-2-estrelas-patchs-26-27-masculino-torcedor-branca-2/front.webp",
+      "hash": "ffa6a9d21fb8a929186d4689f84078cd938a3dbc9a24d6f939bb91f9d25d1179",
+      "width": 480,
+      "height": 480,
+      "size": 16018,
+      "createdAt": "2026-07-25T10:15:35Z",
+      "updatedAt": "2026-07-25T10:15:35Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/espanha/26-27/fan/camisa-selecao-espanha-away-2-estrelas-patchs-26-27-masculino-torcedor-branca-2/back.webp",
+      "hash": "59c93e4b20e5c72c3fc1e79812d80fcb613a1a8e115ec2a75eafc6fcb610e9e2",
+      "width": 480,
+      "height": 480,
+      "size": 13010,
+      "createdAt": "2026-07-25T10:15:36Z",
+      "updatedAt": "2026-07-25T10:15:36Z"
+    }
+  ]
+}
