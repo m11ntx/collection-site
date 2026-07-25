@@ -48,14 +48,6 @@
     "image": "sul"
   },
   {
-    "id": "europa",
-    "leagueId": "ligue-1",
-    "slug": "europa",
-    "name": "Europa",
-    "country": null,
-    "image": "europa"
-  },
-  {
     "id": "africa",
     "leagueId": "selecoes",
     "slug": "africa",
@@ -78,6 +70,14 @@
     "name": "Ásia",
     "country": null,
     "image": "asia"
+  },
+  {
+    "id": "europa",
+    "leagueId": "selecoes",
+    "slug": "europa",
+    "name": "Europa",
+    "country": null,
+    "image": "europa"
   },
   {
     "id": "oceania",
