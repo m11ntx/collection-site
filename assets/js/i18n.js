@@ -106,7 +106,7 @@
                 segmentFilterLabel: "Filtrar"
             },
             clubCard: { viewJerseys: "Ver camisas" },
-            jerseyCard: { viewDetails: "Ver Detalhes" },
+            jerseyCard: { viewDetails: "Ver Detalhes", new: "Novo" },
             filters: {
                 reset: "Limpar", resultCount: "{count} de {total} camisas",
                 empty: "Nenhum filtro disponível.",
@@ -288,7 +288,7 @@
                 segmentFilterLabel: "Filter"
             },
             clubCard: { viewJerseys: "View jerseys" },
-            jerseyCard: { viewDetails: "View Details" },
+            jerseyCard: { viewDetails: "View Details", new: "New" },
             filters: {
                 reset: "Reset", resultCount: "{count} of {total} jerseys",
                 empty: "No filters available.",

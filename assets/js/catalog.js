@@ -41,6 +41,31 @@ const Catalog = (() => {
         return year;
     }
 
+    // A product is "new" for NEW_WINDOW_DAYS after it first entered our catalog
+    // (products.json `addedAt`, stamped once by the pipeline and preserved --
+    // NOT createdAt, which is just the run time). Used to badge it "Novo" and
+    // float it to the top, so a just-added jersey is highlighted regardless of
+    // whether its title carries a year/season (which otherwise sinks it to the
+    // bottom via seasonSortKey). Products predating the field have no addedAt
+    // and are never flagged.
+    const NEW_WINDOW_DAYS = 30;
+    function addedAtKey(p) {
+        const t = p && p.addedAt ? Date.parse(p.addedAt) : NaN;
+        return isNaN(t) ? 0 : t;
+    }
+    function isNew(p) {
+        const t = addedAtKey(p);
+        return t > 0 && (Date.now() - t) <= NEW_WINDOW_DAYS * 86400000;
+    }
+    // Newly-added products first (newest addedAt first); the rest keep the
+    // existing season-descending order.
+    function productSort(a, b) {
+        const an = isNew(a), bn = isNew(b);
+        if (an !== bn) return an ? -1 : 1;
+        if (an && bn) return addedAtKey(b) - addedAtKey(a);
+        return seasonSortKey(b.season) - seasonSortKey(a.season);
+    }
+
     // Generic, name-driven placeholder (jersey icon + monogram) for any
     // entity without a real image yet — scales to any number of
     // collections/leagues/clubs, no per-entity artwork needed. Falls back to
@@ -513,6 +538,7 @@ const Catalog = (() => {
             <article class="jersey-card reveal" role="listitem" data-id="${esc(p.id)}">
                 <div class="jersey-card__media">
                     <div class="jersey-card__img">${jerseyMedia(p)}</div>
+                    ${isNew(p) ? `<span class="badge badge--new jersey-card__new">${esc(I18N.t("jerseyCard.new"))}</span>` : ""}
                     ${p.type ? `<span class="badge jersey-card__type">${esc(I18N.fieldLabel("type", p.type))}</span>` : ""}
                 </div>
                 <div class="jersey-card__body">
@@ -890,7 +916,7 @@ const Catalog = (() => {
             const products = await API.getProducts();
             jerseys = (Array.isArray(products)
                 ? products.filter((p) => p.collectionId === collection.id)
-                : []).sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+                : []).sort(productSort);
         }
 
         const render = () => {
@@ -1106,7 +1132,7 @@ const Catalog = (() => {
         // newest season first (CS-23)
         const jerseys = (Array.isArray(products)
             ? products.filter((p) => p.clubId === club.id)
-            : []).sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+            : []).sort(productSort);
 
         document.title = `M11NTX | ${club.name}`;
         if (window.SEO) {
@@ -1225,7 +1251,7 @@ const Catalog = (() => {
         const [products, clubs, collections, leagues] = await Promise.all([
             API.getProducts(), API.getClubs(), API.getCollections(), API.getLeagues()
         ]);
-        const sorted = [...products].sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+        const sorted = [...products].sort(productSort);
         await Filters.attach({
             controls: "filterControls", list: "jerseysGrid", hideSingle: true,
             data: { products: sorted, clubs, collections, leagues },
@@ -1300,7 +1326,7 @@ const Catalog = (() => {
             API.getProducts(), API.getClubs(), API.getLeagues(), API.getCollections()
         ]);
         // Newest season first (same rule as the catalog page, CS-23).
-        const sorted = [...products].sort((a, b) => seasonSortKey(b.season) - seasonSortKey(a.season));
+        const sorted = [...products].sort(productSort);
         const engine = Search.create({ items: Filters.enrich(sorted, { clubs, leagues, collections }) });
         Search.mount(engine, input, { onChange: renderSearchResults });
     }

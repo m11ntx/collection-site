@@ -1381,6 +1381,20 @@ body::after{
     left:.8rem;
     z-index:1;
 }
+/* "Novo" highlight -- top-right, solid gold so it reads at a glance against the
+   outline type badge on the left. Products carry addedAt from the pipeline. */
+.jersey-card__new{
+    position:absolute;
+    top:.8rem;
+    right:.8rem;
+    z-index:2;
+}
+.badge--new{
+    color:#0d1117;
+    background:var(--color-gold);
+    border-color:var(--color-gold);
+    box-shadow:0 2px 10px rgba(226,193,90,.35);
+}
 .jersey-card__body{
     display:flex;
     flex-direction:column;
