@@ -41,13 +41,19 @@ const Catalog = (() => {
         return year;
     }
 
-    // A product is "new" for NEW_WINDOW_DAYS after it first entered our catalog
-    // (products.json `addedAt`, stamped once by the pipeline and preserved --
-    // NOT createdAt, which is just the run time). Used to badge it "Novo" and
-    // float it to the top, so a just-added jersey is highlighted regardless of
-    // whether its title carries a year/season (which otherwise sinks it to the
-    // bottom via seasonSortKey). Products predating the field have no addedAt
-    // and are never flagged.
+    // `addedAt` is when a product first entered our catalog (products.json,
+    // stamped once by the pipeline and preserved -- NOT createdAt, which is just
+    // the run time). Products predating the field have no addedAt.
+    //
+    // Two SEPARATE behaviors, deliberately decoupled:
+    //  - the "Novo" BADGE is time-limited (isNew: within NEW_WINDOW_DAYS), so it
+    //    disappears on its own after the window;
+    //  - the ORDERING is PERMANENT: products sort by addedAt (newest first) and
+    //    never fall back down when the badge expires. A just-added jersey floats
+    //    to the top regardless of whether its title carries a year/season (which
+    //    otherwise sinks it via seasonSortKey), and stays in recency order
+    //    afterwards; the baseline (no addedAt) keeps season-descending order
+    //    below it.
     const NEW_WINDOW_DAYS = 30;
     function addedAtKey(p) {
         const t = p && p.addedAt ? Date.parse(p.addedAt) : NaN;
@@ -57,13 +63,10 @@ const Catalog = (() => {
         const t = addedAtKey(p);
         return t > 0 && (Date.now() - t) <= NEW_WINDOW_DAYS * 86400000;
     }
-    // Newly-added products first (newest addedAt first); the rest keep the
-    // existing season-descending order.
     function productSort(a, b) {
-        const an = isNew(a), bn = isNew(b);
-        if (an !== bn) return an ? -1 : 1;
-        if (an && bn) return addedAtKey(b) - addedAtKey(a);
-        return seasonSortKey(b.season) - seasonSortKey(a.season);
+        const aa = addedAtKey(a), ba = addedAtKey(b);
+        if (aa !== ba) return ba - aa;                 // added first, newest addedAt first (permanent)
+        return seasonSortKey(b.season) - seasonSortKey(a.season);  // baseline/tie: by season
     }
 
     // Generic, name-driven placeholder (jersey icon + monogram) for any
