@@ -1,57 +1,27 @@
 {
   "productId": "source-jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde",
   "createdAt": "2026-07-13T13:40:18Z",
-  "updatedAt": "2026-07-13T13:40:18Z",
+  "updatedAt": "2026-07-26T11:00:56Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde/front.webp",
-      "hash": "bea500078471d2ec5e700e59445cc9629a02cfbd6983d3bb0f2c9e2420f00770",
+      "hash": "7b2046b1fb61981c312a7705566aeb27a7d6fb1e59efc4e51374355e343a830e",
       "width": 480,
       "height": 480,
-      "size": 9900,
+      "size": 8338,
       "createdAt": "2026-07-13T13:40:18Z",
-      "updatedAt": "2026-07-13T13:40:18Z"
+      "updatedAt": "2026-07-26T11:00:56Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde/back.webp",
-      "hash": "8613e168104265e6f22506c0401abba39f039b368b78f048738aba16f06b15ef",
+      "hash": "b8b19e70e724f1cfc1852f449c7d129591ffcb85dcf5460966f9296ddc1e1c18",
       "width": 480,
       "height": 480,
-      "size": 15344,
+      "size": 6070,
       "createdAt": "2026-07-13T13:40:18Z",
-      "updatedAt": "2026-07-13T13:40:18Z"
-    },
-    {
-      "view": "detail-1",
-      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde/detail-1.webp",
-      "hash": "8d01d6b22ecc773de21caa740f9e1ae61d8e79eb5f0d14dbc59aa1fa19ece44a",
-      "width": 480,
-      "height": 480,
-      "size": 7064,
-      "createdAt": "2026-07-13T13:40:18Z",
-      "updatedAt": "2026-07-13T13:40:18Z"
-    },
-    {
-      "view": "detail-2",
-      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde/detail-2.webp",
-      "hash": "6250aed139fccc6754c48239a8be499407b57aca24e5d9f9af64c110845ecd4b",
-      "width": 480,
-      "height": 480,
-      "size": 15656,
-      "createdAt": "2026-07-13T13:40:18Z",
-      "updatedAt": "2026-07-13T13:40:18Z"
-    },
-    {
-      "view": "detail-3",
-      "path": "assets/images/jerseys/brasileirao/palmeiras/24-25/sem-versao/jaqueta-corta-vento-palmeiras-24-25-masculina-puma-verde/detail-3.webp",
-      "hash": "d65d06890a7ed9c13f133faefc4d67cc250e84f318cda42ee3827f624adbd5fa",
-      "width": 480,
-      "height": 480,
-      "size": 10528,
-      "createdAt": "2026-07-13T13:40:18Z",
-      "updatedAt": "2026-07-13T13:40:18Z"
+      "updatedAt": "2026-07-26T11:00:56Z"
     }
   ]
 }

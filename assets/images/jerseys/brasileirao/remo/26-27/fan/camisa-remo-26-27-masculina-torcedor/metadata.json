@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-remo-26-27-masculina-torcedor",
+  "createdAt": "2026-07-26T11:02:07Z",
+  "updatedAt": "2026-07-26T11:02:07Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-26-27-masculina-torcedor/front.webp",
+      "hash": "aab8ca501f556c798bfc2f6f42071b49ee56bf361b76a483d5c006bd90bd5661",
+      "width": 480,
+      "height": 480,
+      "size": 10278,
+      "createdAt": "2026-07-26T11:02:07Z",
+      "updatedAt": "2026-07-26T11:02:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-26-27-masculina-torcedor/back.webp",
+      "hash": "a5bdd773fcf8f45e62dfcaa88812b060aedd014db920f839c9b495394ab89a8b",
+      "width": 480,
+      "height": 480,
+      "size": 9336,
+      "createdAt": "2026-07-26T11:02:07Z",
+      "updatedAt": "2026-07-26T11:02:07Z"
+    }
+  ]
+}

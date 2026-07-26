@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-titular-da-as-roma-26-27-torcedor-masculina",
+  "createdAt": "2026-07-26T11:02:05Z",
+  "updatedAt": "2026-07-26T11:02:05Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/as-roma/26-27/fan/pre-venda-camisa-titular-da-as-roma-26-27-torcedor-masculina/front.webp",
+      "hash": "6736cfcdf886dd86524b531b8852cd7c918b28fbc66d4fd3e7077a9cb713be6f",
+      "width": 480,
+      "height": 480,
+      "size": 10966,
+      "createdAt": "2026-07-26T11:02:05Z",
+      "updatedAt": "2026-07-26T11:02:05Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/as-roma/26-27/fan/pre-venda-camisa-titular-da-as-roma-26-27-torcedor-masculina/back.webp",
+      "hash": "d7a4a3dff6ad79ffb594c3741efa9ba9db3e92beeb38031f87512cedab24fbde",
+      "width": 480,
+      "height": 480,
+      "size": 6826,
+      "createdAt": "2026-07-26T11:02:05Z",
+      "updatedAt": "2026-07-26T11:02:05Z"
+    }
+  ]
+}

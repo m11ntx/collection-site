@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-sport-recife-iii-25-26-torcedor-masculina-azul",
+  "createdAt": "2026-07-26T11:02:09Z",
+  "updatedAt": "2026-07-26T11:02:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-sport-recife-iii-25-26-torcedor-masculina-azul/front.webp",
+      "hash": "29329d737846aee75ef1d8d7c3feb0f0ae3f9c417e8ca752eeaf74dc32f415aa",
+      "width": 480,
+      "height": 480,
+      "size": 11600,
+      "createdAt": "2026-07-26T11:02:09Z",
+      "updatedAt": "2026-07-26T11:02:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/sport/25-26/fan/camisa-sport-recife-iii-25-26-torcedor-masculina-azul/back.webp",
+      "hash": "30e5ef7611ab407c7e19bc1cc0f1185c0e9f8b3542816c5ab9d88f7db1d29075",
+      "width": 480,
+      "height": 480,
+      "size": 6676,
+      "createdAt": "2026-07-26T11:02:09Z",
+      "updatedAt": "2026-07-26T11:02:09Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-remo-home-26-27-masculina-torcedor-azul",
+  "createdAt": "2026-07-26T11:02:08Z",
+  "updatedAt": "2026-07-26T11:02:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-home-26-27-masculina-torcedor-azul/front.webp",
+      "hash": "28142e4801c1a20d49c68251e7eaa9c657dac6e7146e2334b5f58e4409ae32d3",
+      "width": 480,
+      "height": 480,
+      "size": 8566,
+      "createdAt": "2026-07-26T11:02:08Z",
+      "updatedAt": "2026-07-26T11:02:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/remo/26-27/fan/camisa-remo-home-26-27-masculina-torcedor-azul/back.webp",
+      "hash": "6f99cb0fa38f459dd6bf30e57edcaf3d669f99ba7e9252cd4ac31c807b93ba98",
+      "width": 480,
+      "height": 480,
+      "size": 4900,
+      "createdAt": "2026-07-26T11:02:08Z",
+      "updatedAt": "2026-07-26T11:02:08Z"
+    }
+  ]
+}
