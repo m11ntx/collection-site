@@ -16,10 +16,10 @@
   "byCollection": {
     "acessorios": 37,
     "brasil": 865,
-    "europa": 1426,
+    "europa": 1425,
     "nba": 126,
     "resto-do-mundo": 224,
-    "selecoes": 687
+    "selecoes": 688
   },
   "byLeague": {
     "allsvenskan": 1,
@@ -28,20 +28,20 @@
     "eredivisie": 29,
     "la-liga": 343,
     "libertadores": 106,
-    "ligue-1": 91,
+    "ligue-1": 90,
     "mls": 87,
     "premier-league": 505,
     "primeira-liga": 20,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 687,
+    "selecoes": 688,
     "serie-a": 304,
     "super-lig": 1,
     "unknown": 163
   },
   "byRegion": {
     "africa": 15,
-    "americas": 233,
+    "americas": 234,
     "asia": 43,
     "europa": 394,
     "minas-gerais": 96,
@@ -51,7 +51,7 @@
     "rio-de-janeiro": 319,
     "sao-paulo": 255,
     "sul": 108,
-    "unknown": 1813
+    "unknown": 1812
   },
   "byClub": {
     "ac-milan": 81,
@@ -225,8 +225,8 @@
     "turquia": 2,
     "ucrania": 1,
     "universidad-do-chile": 2,
-    "unknown": 164,
-    "uruguai": 9,
+    "unknown": 163,
+    "uruguai": 10,
     "vasco-da-gama": 51,
     "vitoria": 5,
     "wolverhampton-wanderers": 2
