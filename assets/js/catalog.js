@@ -69,6 +69,23 @@ const Catalog = (() => {
         return seasonSortKey(b.season) - seasonSortKey(a.season);  // baseline/tie: by season
     }
 
+    // RN-001: browse surfaces list only AVAILABLE jerseys. Availability is read
+    // per size, honouring RN-007 — `stock: null` means UNTRACKED (still
+    // sellable), so only a size explicitly flagged unavailable (stock 0) counts
+    // as out of stock. A jersey is browsable when at least one size is sellable;
+    // with no sizes we fall back to the product flag. This deliberately does NOT
+    // use Filters.inStock, which treats null stock as 0 and would wrongly hide
+    // every untracked jersey. A product the pipeline marked unavailable (every
+    // size stock 0 — left the source, or a duplicate the operator consolidated
+    // via disabled_products.json) drops out of every listing here while its
+    // record and its direct detail link survive (RN-002). Detail lookups (by
+    // slug) intentionally do NOT filter.
+    function isBrowsable(p) {
+        const sizes = Array.isArray(p && p.sizes) ? p.sizes : [];
+        if (sizes.length) return sizes.some((s) => s && s.available !== false);
+        return !p || p.available !== false;
+    }
+
     // Generic, name-driven placeholder (jersey icon + monogram) for any
     // entity without a real image yet — scales to any number of
     // collections/leagues/clubs, no per-entity artwork needed. Falls back to
@@ -918,7 +935,7 @@ const Catalog = (() => {
         if (!hasLeagues) {
             const products = await API.getProducts();
             jerseys = (Array.isArray(products)
-                ? products.filter((p) => p.collectionId === collection.id)
+                ? products.filter((p) => p.collectionId === collection.id && isBrowsable(p))
                 : []).sort(productSort);
         }
 
@@ -1134,7 +1151,7 @@ const Catalog = (() => {
         // jerseys belonging to this club (data-driven, scalable filter),
         // newest season first (CS-23)
         const jerseys = (Array.isArray(products)
-            ? products.filter((p) => p.clubId === club.id)
+            ? products.filter((p) => p.clubId === club.id && isBrowsable(p))
             : []).sort(productSort);
 
         document.title = `M11NTX | ${club.name}`;
@@ -1254,7 +1271,7 @@ const Catalog = (() => {
         const [products, clubs, collections, leagues] = await Promise.all([
             API.getProducts(), API.getClubs(), API.getCollections(), API.getLeagues()
         ]);
-        const sorted = [...products].sort(productSort);
+        const sorted = products.filter(isBrowsable).sort(productSort);
         await Filters.attach({
             controls: "filterControls", list: "jerseysGrid", hideSingle: true,
             data: { products: sorted, clubs, collections, leagues },
@@ -1329,7 +1346,7 @@ const Catalog = (() => {
             API.getProducts(), API.getClubs(), API.getLeagues(), API.getCollections()
         ]);
         // Newest season first (same rule as the catalog page, CS-23).
-        const sorted = [...products].sort(productSort);
+        const sorted = products.filter(isBrowsable).sort(productSort);
         const engine = Search.create({ items: Filters.enrich(sorted, { clubs, leagues, collections }) });
         Search.mount(engine, input, { onChange: renderSearchResults });
     }
