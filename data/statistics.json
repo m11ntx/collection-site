@@ -15,34 +15,33 @@
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 865,
-    "europa": 1424,
+    "brasil": 866,
+    "europa": 1425,
     "nba": 126,
     "resto-do-mundo": 224,
-    "selecoes": 688,
-    "unknown": 1
+    "selecoes": 687
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 865,
+    "brasileirao": 866,
     "bundesliga": 111,
     "eredivisie": 29,
     "la-liga": 343,
     "libertadores": 106,
-    "ligue-1": 90,
+    "ligue-1": 91,
     "mls": 87,
     "premier-league": 504,
     "primeira-liga": 20,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 688,
+    "selecoes": 687,
     "serie-a": 304,
     "super-lig": 1,
-    "unknown": 164
+    "unknown": 163
   },
   "byRegion": {
     "africa": 15,
-    "americas": 234,
+    "americas": 233,
     "asia": 43,
     "europa": 394,
     "minas-gerais": 96,
@@ -51,7 +50,7 @@
     "oceania": 2,
     "rio-de-janeiro": 319,
     "sao-paulo": 255,
-    "sul": 108,
+    "sul": 109,
     "unknown": 1812
   },
   "byClub": {
@@ -144,7 +143,7 @@
     "inglaterra": 54,
     "inter-miami": 27,
     "inter-milan": 61,
-    "internacional": 46,
+    "internacional": 47,
     "irlanda": 3,
     "islandia": 1,
     "italia": 51,
@@ -227,7 +226,7 @@
     "ucrania": 1,
     "universidad-do-chile": 2,
     "unknown": 164,
-    "uruguai": 10,
+    "uruguai": 9,
     "vasco-da-gama": 51,
     "vitoria": 5,
     "wolverhampton-wanderers": 2
