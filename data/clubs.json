@@ -580,16 +580,6 @@
     "image": "universidad-do-chile"
   },
   {
-    "id": "franca",
-    "leagueId": "ligue-1",
-    "regionId": "europa",
-    "slug": "franca",
-    "name": "França",
-    "country": "France",
-    "badge": null,
-    "image": "franca"
-  },
-  {
     "id": "lille",
     "leagueId": "ligue-1",
     "regionId": null,
@@ -1348,6 +1338,16 @@
     "country": "Philippines",
     "badge": null,
     "image": "filipinas"
+  },
+  {
+    "id": "franca",
+    "leagueId": "selecoes",
+    "regionId": "europa",
+    "slug": "franca",
+    "name": "França",
+    "country": "France",
+    "badge": null,
+    "image": "franca"
   },
   {
     "id": "haiti",
