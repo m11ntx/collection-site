@@ -1,5 +1,22 @@
 # CHANGELOG
 
+## RN-001 — listagens escondem jerseys indisponíveis
+
+As superfícies de navegação (página de clube, coleção-plana, catálogo e busca)
+filtravam só por `clubId`/`collectionId`, sem checar disponibilidade — então
+produtos marcados `available=false` pelo pipeline (fora da fonte, ou duplicatas
+que o operador consolidou via `disabled_products.json`) seguiam aparecendo. Caso
+concreto: a duplicata "Camisa titular Chapecoense Kappa 26/27" continuava na
+página do clube mesmo com o dado já publicado indisponível.
+
+- `assets/js/catalog.js`: novo `isBrowsable(p)` — disponível quando ao menos uma
+  size é vendável. Honra RN-007 (`stock: null` = não-rastreado = vendável); só
+  size com `available=false` (stock 0) conta como fora de estoque. **Não** usa
+  `Filters.inStock`, que trata `null` como 0 e esconderia todo produto
+  não-rastreado. Aplicado nas 4 listagens; o detalhe (lookup por slug) segue sem
+  filtrar, então registro e link direto sobrevivem (RN-002).
+- `catalog.min.js` regenerado.
+
 ## CS-64 - Brasileirão skips its region-card level, lists clubs directly
 
 Validated locally, then approved. `assets/js/catalog.js`'s `initLeaguePage()`
