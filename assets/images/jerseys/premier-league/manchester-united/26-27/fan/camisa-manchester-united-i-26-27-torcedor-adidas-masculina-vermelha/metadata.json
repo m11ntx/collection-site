@@ -1,27 +1,37 @@
 {
   "productId": "source-camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha",
   "createdAt": "2026-07-13T13:51:30Z",
-  "updatedAt": "2026-07-13T13:51:30Z",
+  "updatedAt": "2026-07-29T19:18:08Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/premier-league/manchester-united/26-27/fan/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha/front.webp",
-      "hash": "0034439764fb993af86eb82f9ccfd156783f2e8abfc8bcfcfbaba4b79fb000d3",
+      "hash": "de9af1d881329390d732e3385eacb6cd6135a4adf4907a95f2d43e4f92ee213b",
       "width": 480,
       "height": 480,
-      "size": 10318,
+      "size": 11618,
       "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "updatedAt": "2026-07-29T19:18:08Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/premier-league/manchester-united/26-27/fan/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha/back.webp",
-      "hash": "c4fccdfda79d97cfc882d2bd176d4c7ee4e1a65ffe17df993271f801b7f84b49",
+      "hash": "2c14de481374e5873bf887b10b85898381f7c5cf16a9f914b03d703aa59d2a45",
       "width": 480,
       "height": 480,
-      "size": 6216,
+      "size": 6022,
       "createdAt": "2026-07-13T13:51:30Z",
-      "updatedAt": "2026-07-13T13:51:30Z"
+      "updatedAt": "2026-07-29T19:18:08Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-united/26-27/fan/camisa-manchester-united-i-26-27-torcedor-adidas-masculina-vermelha/detail-1.webp",
+      "hash": "f82826140682466b299b8353ada3f523a56e936b23a19985f96be325fcd4a27c",
+      "width": 480,
+      "height": 480,
+      "size": 68816,
+      "createdAt": "2026-07-29T19:18:08Z",
+      "updatedAt": "2026-07-29T19:18:08Z"
     }
   ]
 }

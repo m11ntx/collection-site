@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-newcastle-26-27-home-i-masculina-modelo-torcedor-branca-e-preta-detalhe-em-azul",
   "createdAt": "2026-07-26T11:02:12Z",
-  "updatedAt": "2026-07-26T11:02:12Z",
+  "updatedAt": "2026-07-29T19:18:09Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/premier-league/newcastle-united/26-27/fan/camisa-newcastle-26-27-home-i-masculina-modelo-torcedor-branca-e-preta--d6fafe9d/front.webp",
-      "hash": "de830f8784547874d7335702736c0ca48fb0e8f869b00e02ca187822de11c9fa",
+      "hash": "9577ea5ebfc86b58e4c347d231b560480efe3becf7d5ea062e8c4ef08b23be06",
       "width": 480,
       "height": 480,
-      "size": 11402,
+      "size": 12918,
       "createdAt": "2026-07-26T11:02:11Z",
-      "updatedAt": "2026-07-26T11:02:11Z"
+      "updatedAt": "2026-07-29T19:18:09Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/premier-league/newcastle-united/26-27/fan/camisa-newcastle-26-27-home-i-masculina-modelo-torcedor-branca-e-preta--d6fafe9d/back.webp",
-      "hash": "f0f9a274124222267bbf2e8c2c75287ce47c206b6637614d9492e4bf35cf17b8",
+      "hash": "33dfebf1b6bee32c6bcd0db0608c42694323d575fcd5130422d9ffb05e0c086c",
       "width": 480,
       "height": 480,
-      "size": 8374,
+      "size": 9566,
       "createdAt": "2026-07-26T11:02:11Z",
-      "updatedAt": "2026-07-26T11:02:11Z"
+      "updatedAt": "2026-07-29T19:18:09Z"
     },
     {
       "view": "detail-1",
