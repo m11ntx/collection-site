@@ -8,18 +8,18 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3301,
-    "unavailable": 72,
+    "available": 3304,
+    "unavailable": 69,
     "inventoryTracked": 0,
     "withManufacturer": 2653
   },
   "byCollection": {
     "acessorios": 37,
     "brasil": 867,
-    "europa": 1429,
+    "europa": 1428,
     "nba": 126,
     "resto-do-mundo": 225,
-    "selecoes": 688,
+    "selecoes": 689,
     "unknown": 1
   },
   "byLeague": {
@@ -29,13 +29,13 @@
     "eredivisie": 29,
     "la-liga": 343,
     "libertadores": 106,
-    "ligue-1": 91,
+    "ligue-1": 90,
     "mls": 88,
     "premier-league": 507,
     "primeira-liga": 21,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 688,
+    "selecoes": 689,
     "serie-a": 304,
     "super-lig": 1,
     "unknown": 164
