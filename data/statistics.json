@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3365,
+    "products": 3373,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,50 +8,51 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3296,
-    "unavailable": 69,
+    "available": 3301,
+    "unavailable": 72,
     "inventoryTracked": 0,
-    "withManufacturer": 2647
+    "withManufacturer": 2653
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 866,
-    "europa": 1425,
+    "brasil": 867,
+    "europa": 1429,
     "nba": 126,
-    "resto-do-mundo": 224,
-    "selecoes": 687
+    "resto-do-mundo": 225,
+    "selecoes": 688,
+    "unknown": 1
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 866,
+    "brasileirao": 867,
     "bundesliga": 111,
     "eredivisie": 29,
     "la-liga": 343,
     "libertadores": 106,
     "ligue-1": 91,
-    "mls": 87,
-    "premier-league": 504,
-    "primeira-liga": 20,
+    "mls": 88,
+    "premier-league": 507,
+    "primeira-liga": 21,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 687,
+    "selecoes": 688,
     "serie-a": 304,
     "super-lig": 1,
-    "unknown": 163
+    "unknown": 164
   },
   "byRegion": {
     "africa": 15,
-    "americas": 233,
+    "americas": 234,
     "asia": 43,
     "europa": 394,
     "minas-gerais": 96,
-    "nordeste": 75,
+    "nordeste": 76,
     "norte": 12,
     "oceania": 2,
     "rio-de-janeiro": 319,
     "sao-paulo": 255,
     "sul": 109,
-    "unknown": 1812
+    "unknown": 1818
   },
   "byClub": {
     "ac-milan": 81,
@@ -64,7 +65,7 @@
     "america-mexico": 2,
     "america-mineiro": 1,
     "argelia": 2,
-    "argentina": 55,
+    "argentina": 56,
     "arsenal": 79,
     "as-roma": 23,
     "aston-villa": 7,
@@ -82,7 +83,7 @@
     "bayer-leverkusen": 4,
     "bayern-munich": 62,
     "belgica": 7,
-    "benfica": 11,
+    "benfica": 12,
     "boca-juniors": 36,
     "borussia-dortmund": 32,
     "borussia-monchengladbach": 1,
@@ -141,7 +142,7 @@
     "houston-dyanmo": 3,
     "hungria": 1,
     "inglaterra": 54,
-    "inter-miami": 27,
+    "inter-miami": 28,
     "inter-milan": 61,
     "internacional": 47,
     "irlanda": 3,
@@ -156,20 +157,20 @@
     "lazio": 24,
     "leeds-united": 1,
     "lille": 1,
-    "liverpool": 64,
+    "liverpool": 65,
     "lorient": 1,
     "los-angeles-fc": 2,
     "lyon": 6,
     "malasia": 1,
-    "manchester-city": 60,
-    "manchester-united": 129,
+    "manchester-city": 61,
+    "manchester-united": 130,
     "marrocos": 2,
     "marseille": 7,
     "mexico": 24,
     "minnesota": 3,
     "nacional-uruguai": 1,
     "napoli": 42,
-    "nautico": 3,
+    "nautico": 4,
     "new-england-revolution": 1,
     "new-york-city-fc": 3,
     "new-york-red-bull": 1,
@@ -225,7 +226,7 @@
     "turquia": 2,
     "ucrania": 1,
     "universidad-do-chile": 2,
-    "unknown": 164,
+    "unknown": 165,
     "uruguai": 9,
     "vasco-da-gama": 51,
     "vitoria": 5,
@@ -395,7 +396,7 @@
     "2024/25": 17,
     "2025": 22,
     "2025/26": 33,
-    "2026": 26,
+    "2026": 27,
     "2026/27": 11,
     "21/20": 1,
     "23/24": 1,
@@ -404,7 +405,7 @@
     "24/35": 1,
     "25/26": 328,
     "2526": 1,
-    "26/27": 315,
+    "26/27": 322,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -431,19 +432,19 @@
     "unknown": 216
   },
   "byCategory": {
-    "current": 139,
+    "current": 144,
     "manga-longa": 197,
-    "retro": 764,
-    "unknown": 2265
+    "retro": 765,
+    "unknown": 2267
   },
   "byVersion": {
-    "fan": 1450,
+    "fan": 1455,
     "player": 325,
-    "unknown": 1590
+    "unknown": 1593
   },
   "byGender": {
     "kids": 235,
-    "men": 2398,
+    "men": 2406,
     "unknown": 529,
     "women": 203
   }

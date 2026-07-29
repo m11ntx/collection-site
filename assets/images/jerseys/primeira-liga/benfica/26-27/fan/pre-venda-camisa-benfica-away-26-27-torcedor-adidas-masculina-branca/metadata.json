@@ -1,0 +1,37 @@
+{
+  "productId": "source-pre-venda-camisa-benfica-away-26-27-torcedor-adidas-masculina-branca",
+  "createdAt": "2026-07-29T11:58:58Z",
+  "updatedAt": "2026-07-29T11:58:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/benfica/26-27/fan/pre-venda-camisa-benfica-away-26-27-torcedor-adidas-masculina-branca/front.webp",
+      "hash": "fa5434182e696cc573c1ebc42e2fcd237f73fd7b16fc24d4b777f28293b1f454",
+      "width": 480,
+      "height": 480,
+      "size": 17704,
+      "createdAt": "2026-07-29T11:58:57Z",
+      "updatedAt": "2026-07-29T11:58:57Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/benfica/26-27/fan/pre-venda-camisa-benfica-away-26-27-torcedor-adidas-masculina-branca/back.webp",
+      "hash": "f14ca20d4af18772eadc8501eb982f8bb828353f5ddfb277ec2f2fc6cbc3c1f3",
+      "width": 480,
+      "height": 480,
+      "size": 7660,
+      "createdAt": "2026-07-29T11:58:58Z",
+      "updatedAt": "2026-07-29T11:58:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/primeira-liga/benfica/26-27/fan/pre-venda-camisa-benfica-away-26-27-torcedor-adidas-masculina-branca/detail-1.webp",
+      "hash": "5f626b967279070d831a3966a5c3589761841892303c3ed0e17cf8e44b5a7257",
+      "width": 480,
+      "height": 480,
+      "size": 53488,
+      "createdAt": "2026-07-29T11:58:58Z",
+      "updatedAt": "2026-07-29T11:58:58Z"
+    }
+  ]
+}

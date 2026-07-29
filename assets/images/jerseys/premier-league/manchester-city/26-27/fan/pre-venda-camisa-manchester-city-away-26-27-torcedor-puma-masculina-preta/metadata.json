@@ -1,0 +1,37 @@
+{
+  "productId": "source-pre-venda-camisa-manchester-city-away-26-27-torcedor-puma-masculina-preta",
+  "createdAt": "2026-07-29T11:58:58Z",
+  "updatedAt": "2026-07-29T11:58:58Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/premier-league/manchester-city/26-27/fan/pre-venda-camisa-manchester-city-away-26-27-torcedor-puma-masculina-preta/front.webp",
+      "hash": "b992153c684fa686bea23c041d842c74302562d1c50c01854fa403a8c4906e3d",
+      "width": 480,
+      "height": 480,
+      "size": 16508,
+      "createdAt": "2026-07-29T11:58:58Z",
+      "updatedAt": "2026-07-29T11:58:58Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/premier-league/manchester-city/26-27/fan/pre-venda-camisa-manchester-city-away-26-27-torcedor-puma-masculina-preta/back.webp",
+      "hash": "e45932969ad8f4d51e0d0c7cacf8ace58ea01e2f03886d82969ee7cdb76ee232",
+      "width": 480,
+      "height": 480,
+      "size": 6510,
+      "createdAt": "2026-07-29T11:58:58Z",
+      "updatedAt": "2026-07-29T11:58:58Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/premier-league/manchester-city/26-27/fan/pre-venda-camisa-manchester-city-away-26-27-torcedor-puma-masculina-preta/detail-1.webp",
+      "hash": "d99703d52f5e17c5f57a47f0d20b5bc6f802c2c4bdee6cfb665ec29153812c86",
+      "width": 480,
+      "height": 480,
+      "size": 27186,
+      "createdAt": "2026-07-29T11:58:58Z",
+      "updatedAt": "2026-07-29T11:58:58Z"
+    }
+  ]
+}
