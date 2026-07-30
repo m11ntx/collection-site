@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-athletico-paranaense-away-26-27-torcedor-umbro-masculina-branca",
+  "createdAt": "2026-07-30T11:38:11Z",
+  "updatedAt": "2026-07-30T11:38:11Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/26-27/fan/camisa-athletico-paranaense-away-26-27-torcedor-umbro-masculina-branca/front.webp",
+      "hash": "98e16250368219b4050adf66981743f188ed38d349a673461c216162aed89a6a",
+      "width": 480,
+      "height": 480,
+      "size": 9588,
+      "createdAt": "2026-07-30T11:38:11Z",
+      "updatedAt": "2026-07-30T11:38:11Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/athletico-paranaense/26-27/fan/camisa-athletico-paranaense-away-26-27-torcedor-umbro-masculina-branca/back.webp",
+      "hash": "110cdfe5653bef692048c0ad924dec5997b4c0054959590938428372013106b7",
+      "width": 480,
+      "height": 480,
+      "size": 6086,
+      "createdAt": "2026-07-30T11:38:11Z",
+      "updatedAt": "2026-07-30T11:38:11Z"
+    }
+  ]
+}

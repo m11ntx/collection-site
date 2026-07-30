@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-nautico-away-26-27-reebok-torcedor-masculina-c-patrocinio-branca",
+  "createdAt": "2026-07-30T11:38:09Z",
+  "updatedAt": "2026-07-30T11:38:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/camisa-nautico-away-26-27-reebok-torcedor-masculina-c-patrocinio-branca/front.webp",
+      "hash": "30d9bad374d737c4811b0040cc01c94f387ac3ea17905fe7a2731ee55e0de06c",
+      "width": 480,
+      "height": 480,
+      "size": 11692,
+      "createdAt": "2026-07-30T11:38:09Z",
+      "updatedAt": "2026-07-30T11:38:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/nautico/26-27/fan/camisa-nautico-away-26-27-reebok-torcedor-masculina-c-patrocinio-branca/back.webp",
+      "hash": "9395aa5c4cd828fc5a1cfb4c37be76c03b143d6021b0871cdd20a1027cc886d1",
+      "width": 480,
+      "height": 480,
+      "size": 6248,
+      "createdAt": "2026-07-30T11:38:09Z",
+      "updatedAt": "2026-07-30T11:38:09Z"
+    }
+  ]
+}

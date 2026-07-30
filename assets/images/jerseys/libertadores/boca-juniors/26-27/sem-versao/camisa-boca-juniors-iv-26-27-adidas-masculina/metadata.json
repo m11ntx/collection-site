@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-boca-juniors-iv-26-27-adidas-masculina",
+  "createdAt": "2026-07-30T11:38:09Z",
+  "updatedAt": "2026-07-30T11:38:09Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/26-27/sem-versao/camisa-boca-juniors-iv-26-27-adidas-masculina/front.webp",
+      "hash": "ba23c8f6c8fcd9a9a04b8cf6d6d23ef6584f2b0f4689b975e0c528b305322657",
+      "width": 480,
+      "height": 480,
+      "size": 15974,
+      "createdAt": "2026-07-30T11:38:08Z",
+      "updatedAt": "2026-07-30T11:38:08Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/libertadores/boca-juniors/26-27/sem-versao/camisa-boca-juniors-iv-26-27-adidas-masculina/back.webp",
+      "hash": "d8104d9328570af66e5eaf3aad0aebb2e8607569efdc70e0ea2e811bc5b26b6e",
+      "width": 480,
+      "height": 480,
+      "size": 10860,
+      "createdAt": "2026-07-30T11:38:09Z",
+      "updatedAt": "2026-07-30T11:38:09Z"
+    }
+  ]
+}

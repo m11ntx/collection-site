@@ -620,6 +620,16 @@
     "image": "marseille"
   },
   {
+    "id": "monaco",
+    "leagueId": "ligue-1",
+    "regionId": null,
+    "slug": "monaco",
+    "name": "AS Monaco",
+    "country": "France",
+    "badge": null,
+    "image": "monaco"
+  },
+  {
     "id": "paris-saint-germain",
     "leagueId": "ligue-1",
     "regionId": null,

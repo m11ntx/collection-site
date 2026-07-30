@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-porto-away-26-27-new-balance-torcedor-masculina",
+  "createdAt": "2026-07-30T11:38:08Z",
+  "updatedAt": "2026-07-30T11:38:08Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/26-27/fan/pre-venda-camisa-porto-away-26-27-new-balance-torcedor-masculina/front.webp",
+      "hash": "adca8d4f3be4f846459219f3ba9a3e4a24f1958771a0bd4c764cc7d187c12c6a",
+      "width": 480,
+      "height": 480,
+      "size": 11064,
+      "createdAt": "2026-07-30T11:38:07Z",
+      "updatedAt": "2026-07-30T11:38:07Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/primeira-liga/fc-porto/26-27/fan/pre-venda-camisa-porto-away-26-27-new-balance-torcedor-masculina/back.webp",
+      "hash": "4297cd48b5b4e6eba68b7d7f0f37a917dd88bdfc86b82560d7457bd7a4884c07",
+      "width": 480,
+      "height": 480,
+      "size": 7904,
+      "createdAt": "2026-07-30T11:38:08Z",
+      "updatedAt": "2026-07-30T11:38:08Z"
+    }
+  ]
+}

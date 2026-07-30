@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ac-milan-third-26-27-torcedor-puma-masculina",
+  "createdAt": "2026-07-30T11:38:10Z",
+  "updatedAt": "2026-07-30T11:38:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-third-26-27-torcedor-puma-masculina/front.webp",
+      "hash": "16c9216b7ade070e99d6c1c05e2351cfc3684b94d06f61f185f3134c80cab804",
+      "width": 480,
+      "height": 480,
+      "size": 9632,
+      "createdAt": "2026-07-30T11:38:09Z",
+      "updatedAt": "2026-07-30T11:38:09Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-third-26-27-torcedor-puma-masculina/back.webp",
+      "hash": "375254236bd9c26a7ce64d46ce3f37f1a62a7c44c1b48850a3b8dfa5f72c8674",
+      "width": 480,
+      "height": 480,
+      "size": 5390,
+      "createdAt": "2026-07-30T11:38:10Z",
+      "updatedAt": "2026-07-30T11:38:10Z"
+    }
+  ]
+}
