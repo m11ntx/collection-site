@@ -1,0 +1,47 @@
+{
+  "productId": "source-camisa-psg-x-dior-26-27",
+  "createdAt": "2026-07-31T13:37:45Z",
+  "updatedAt": "2026-07-31T13:37:45Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/sem-versao/camisa-psg-x-dior-26-27/front.webp",
+      "hash": "dfc727acf42dd193b70d9dc83fa95cedcd276ee2402d97a3c127490a8b337aa2",
+      "width": 480,
+      "height": 480,
+      "size": 24988,
+      "createdAt": "2026-07-31T13:37:44Z",
+      "updatedAt": "2026-07-31T13:37:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/sem-versao/camisa-psg-x-dior-26-27/back.webp",
+      "hash": "38ca78407d61715029f1b1553eb97a563b54771688c221a58262169124605f55",
+      "width": 480,
+      "height": 480,
+      "size": 22026,
+      "createdAt": "2026-07-31T13:37:44Z",
+      "updatedAt": "2026-07-31T13:37:44Z"
+    },
+    {
+      "view": "detail-1",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/sem-versao/camisa-psg-x-dior-26-27/detail-1.webp",
+      "hash": "e670d5919d7b64220068d1b43018aa966c72145f6ee5fba69beb940d1f96a66c",
+      "width": 480,
+      "height": 480,
+      "size": 32928,
+      "createdAt": "2026-07-31T13:37:44Z",
+      "updatedAt": "2026-07-31T13:37:44Z"
+    },
+    {
+      "view": "detail-2",
+      "path": "assets/images/jerseys/ligue-1/paris-saint-germain/26-27/sem-versao/camisa-psg-x-dior-26-27/detail-2.webp",
+      "hash": "8b255a98649b458d7566b30b459694846e0fb72cdc72fa62185701e2cbc66c13",
+      "width": 480,
+      "height": 480,
+      "size": 62680,
+      "createdAt": "2026-07-31T13:37:45Z",
+      "updatedAt": "2026-07-31T13:37:45Z"
+    }
+  ]
+}

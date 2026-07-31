@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-ac-milan-branca-ii-26-27-torcedor-masculina",
   "createdAt": "2026-07-13T13:51:40Z",
-  "updatedAt": "2026-07-13T13:51:40Z",
+  "updatedAt": "2026-07-31T13:37:38Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-branca-ii-26-27-torcedor-masculina/front.webp",
-      "hash": "5865291e5976c41748c86d048c32882d15e592e496fe237a5be6231b59467793",
+      "hash": "859e4b80c434dfd6dfa0d9268ca96f7e356eeadf0f6218e1ce7dbb8394075275",
       "width": 480,
       "height": 480,
-      "size": 9402,
+      "size": 15716,
       "createdAt": "2026-07-13T13:51:40Z",
-      "updatedAt": "2026-07-13T13:51:40Z"
+      "updatedAt": "2026-07-31T13:37:38Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/serie-a/ac-milan/26-27/fan/camisa-ac-milan-branca-ii-26-27-torcedor-masculina/back.webp",
-      "hash": "f1fb8dc9867c8a926be65903adde3d76c7876a52da78722508613d23cff0c410",
+      "hash": "9518cc22a9b44cc93206287ca33c55108eb64677029e5165597076f08471f7a7",
       "width": 480,
       "height": 480,
-      "size": 3334,
+      "size": 5654,
       "createdAt": "2026-07-13T13:51:40Z",
-      "updatedAt": "2026-07-13T13:51:40Z"
+      "updatedAt": "2026-07-31T13:37:38Z"
     }
   ]
 }
