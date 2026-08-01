@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-ajax-amsterdam-iii-26-27-torcedor-masculina",
+  "createdAt": "2026-08-01T06:28:00Z",
+  "updatedAt": "2026-08-01T06:28:00Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/eredivisie/ajax/26-27/fan/camisa-ajax-amsterdam-iii-26-27-torcedor-masculina/front.webp",
+      "hash": "5a7c8792add2c61389ba8cebabac61aad760c370ca77ee07f37043dab7902729",
+      "width": 480,
+      "height": 480,
+      "size": 10288,
+      "createdAt": "2026-08-01T06:28:00Z",
+      "updatedAt": "2026-08-01T06:28:00Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/eredivisie/ajax/26-27/fan/camisa-ajax-amsterdam-iii-26-27-torcedor-masculina/back.webp",
+      "hash": "089603b57861904db6c4a66cf5a13ce89cb91f24dd8763df1bea771b1e484437",
+      "width": 480,
+      "height": 480,
+      "size": 12976,
+      "createdAt": "2026-08-01T06:28:00Z",
+      "updatedAt": "2026-08-01T06:28:00Z"
+    }
+  ]
+}

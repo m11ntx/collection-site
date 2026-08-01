@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-selecao-inglaterra-i-22-23-torcedor-nike-masculina-branca",
+  "createdAt": "2026-08-01T06:27:59Z",
+  "updatedAt": "2026-08-01T06:27:59Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/inglaterra/22-23/fan/camisa-selecao-inglaterra-i-22-23-torcedor-nike-masculina-branca/front.webp",
+      "hash": "f651608730923345b1cffa5ffac04b109d793c51604dc0ef10c5d378a26b91f5",
+      "width": 480,
+      "height": 480,
+      "size": 9582,
+      "createdAt": "2026-08-01T06:27:59Z",
+      "updatedAt": "2026-08-01T06:27:59Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/inglaterra/22-23/fan/camisa-selecao-inglaterra-i-22-23-torcedor-nike-masculina-branca/back.webp",
+      "hash": "9476c4fd744365e740030a5478240a0c04b2a02ab158855c6403975480f1c044",
+      "width": 480,
+      "height": 480,
+      "size": 6418,
+      "createdAt": "2026-08-01T06:27:59Z",
+      "updatedAt": "2026-08-01T06:27:59Z"
+    }
+  ]
+}
