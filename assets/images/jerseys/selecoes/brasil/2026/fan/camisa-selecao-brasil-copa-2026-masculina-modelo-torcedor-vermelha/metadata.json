@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-selecao-brasil-copa-2026-masculina-modelo-torcedor-vermelha",
   "createdAt": "2026-07-13T13:51:16Z",
-  "updatedAt": "2026-07-13T13:51:16Z",
+  "updatedAt": "2026-08-02T07:16:33Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-2026-masculina-modelo-torcedor-vermelha/front.webp",
-      "hash": "7d11e44231627aed9bcaefe01f45ca528a95a5e8e7602396e051d471b22cfd6e",
+      "hash": "aa9c5adc25a9c991e2dcf7a386627f4ee08ef086282c138de249e876ea21a861",
       "width": 480,
       "height": 480,
-      "size": 14578,
+      "size": 16302,
       "createdAt": "2026-07-13T13:51:16Z",
-      "updatedAt": "2026-07-13T13:51:16Z"
+      "updatedAt": "2026-08-02T07:16:28Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/selecoes/brasil/2026/fan/camisa-selecao-brasil-copa-2026-masculina-modelo-torcedor-vermelha/back.webp",
-      "hash": "71e432f0b039413027162ff5dbd602c8eda8cbc5ee1bd51cfe59259125cb578d",
+      "hash": "f0673c4b3af44be54140f7f966077adf3f68d353ea733aec1b0a059ba7817872",
       "width": 480,
       "height": 480,
-      "size": 12338,
+      "size": 14102,
       "createdAt": "2026-07-13T13:51:16Z",
-      "updatedAt": "2026-07-13T13:51:16Z"
+      "updatedAt": "2026-08-02T07:16:30Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-flamengo-terceiro-uniforme-26-27-masculina-torcedor",
+  "createdAt": "2026-08-02T07:16:41Z",
+  "updatedAt": "2026-08-02T07:16:41Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/pre-venda-camisa-flamengo-terceiro-uniforme-26-27-masculina-torcedor/front.webp",
+      "hash": "535661c5f2623d4423568015cd6170ca5913c34fbe7f55da111480d383c12e2b",
+      "width": 480,
+      "height": 480,
+      "size": 24376,
+      "createdAt": "2026-08-02T07:16:41Z",
+      "updatedAt": "2026-08-02T07:16:41Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/flamengo/26-27/fan/pre-venda-camisa-flamengo-terceiro-uniforme-26-27-masculina-torcedor/back.webp",
+      "hash": "e0e13fa4f99b1901d0718db5062586257541f1073cd1ffa77c6f58fdca4c75fc",
+      "width": 480,
+      "height": 480,
+      "size": 20740,
+      "createdAt": "2026-08-02T07:16:41Z",
+      "updatedAt": "2026-08-02T07:16:41Z"
+    }
+  ]
+}
