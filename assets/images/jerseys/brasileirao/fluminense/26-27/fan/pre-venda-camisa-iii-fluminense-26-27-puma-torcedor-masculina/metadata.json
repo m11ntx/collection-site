@@ -1,0 +1,27 @@
+{
+  "productId": "source-pre-venda-camisa-iii-fluminense-26-27-puma-torcedor-masculina",
+  "createdAt": "2026-08-04T06:29:39Z",
+  "updatedAt": "2026-08-04T06:29:39Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/pre-venda-camisa-iii-fluminense-26-27-puma-torcedor-masculina/front.webp",
+      "hash": "b066ca1fdd3744d41be2d2b9c806c84f5e999c3ecac34b9bf5f687491a378feb",
+      "width": 480,
+      "height": 480,
+      "size": 19602,
+      "createdAt": "2026-08-04T06:29:39Z",
+      "updatedAt": "2026-08-04T06:29:39Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/pre-venda-camisa-iii-fluminense-26-27-puma-torcedor-masculina/back.webp",
+      "hash": "39cef810381bd8248027790d9355bbf7085ae30e573d34660544bd7a36b467c2",
+      "width": 480,
+      "height": 480,
+      "size": 8292,
+      "createdAt": "2026-08-04T06:29:39Z",
+      "updatedAt": "2026-08-04T06:29:39Z"
+    }
+  ]
+}

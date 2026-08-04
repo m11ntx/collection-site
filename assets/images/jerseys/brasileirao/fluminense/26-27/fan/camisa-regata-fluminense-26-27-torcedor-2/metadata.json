@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-regata-fluminense-26-27-torcedor-2",
   "createdAt": "2026-07-23T11:30:21Z",
-  "updatedAt": "2026-07-30T11:38:02Z",
+  "updatedAt": "2026-08-04T06:29:45Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/camisa-regata-fluminense-26-27-torcedor-2/front.webp",
-      "hash": "08cf7d881304e1527c6fa0cf81a19610a8a98cfae105fb5f45954c328c111563",
+      "hash": "2b818109e3062aaa92f6d349e2bd82a28100655712db9a2118a26ab9f1b98cb0",
       "width": 480,
       "height": 480,
-      "size": 11972,
+      "size": 7126,
       "createdAt": "2026-07-23T11:30:21Z",
-      "updatedAt": "2026-07-30T11:38:02Z"
+      "updatedAt": "2026-08-04T06:29:45Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/fluminense/26-27/fan/camisa-regata-fluminense-26-27-torcedor-2/back.webp",
-      "hash": "2c87f2ed3f68dd2a58c0c4cae4b943dcccfb09483805d9b3d825505402c8ff4a",
+      "hash": "8f0a5f19ad642c0243f2c66896cf91f888ba002d9290ad7781c033a2425e2a1b",
       "width": 480,
       "height": 480,
-      "size": 10068,
+      "size": 6816,
       "createdAt": "2026-07-23T11:30:21Z",
-      "updatedAt": "2026-07-30T11:38:02Z"
+      "updatedAt": "2026-08-04T06:29:45Z"
     }
   ]
 }
