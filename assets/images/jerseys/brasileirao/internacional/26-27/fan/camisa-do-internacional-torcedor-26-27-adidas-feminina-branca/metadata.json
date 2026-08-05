@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-internacional-torcedor-26-27-adidas-feminina-branca",
+  "createdAt": "2026-08-05T07:00:55Z",
+  "updatedAt": "2026-08-05T07:00:55Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-do-internacional-torcedor-26-27-adidas-feminina-branca/front.webp",
+      "hash": "e7f1e09dc39088c82346eedddc1382544a436fde5199b3fdaec7cb0ee948d2ef",
+      "width": 480,
+      "height": 480,
+      "size": 6068,
+      "createdAt": "2026-08-05T07:00:55Z",
+      "updatedAt": "2026-08-05T07:00:55Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-do-internacional-torcedor-26-27-adidas-feminina-branca/back.webp",
+      "hash": "687cc4e786cad36545f6923b812e8a80d50da9cec57e297a8124573ca8650185",
+      "width": 480,
+      "height": 480,
+      "size": 5238,
+      "createdAt": "2026-08-05T07:00:55Z",
+      "updatedAt": "2026-08-05T07:00:55Z"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-do-vasco-i-26-27-nike-jogador-masculina-preta",
+  "createdAt": "2026-08-05T07:00:48Z",
+  "updatedAt": "2026-08-05T07:00:48Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/player/camisa-do-vasco-i-26-27-nike-jogador-masculina-preta/front.webp",
+      "hash": "0334739e8ffe024ae6b4f15905fbcb632c8f5d2effc89eea2b478b72193e6b68",
+      "width": 480,
+      "height": 480,
+      "size": 15538,
+      "createdAt": "2026-08-05T07:00:48Z",
+      "updatedAt": "2026-08-05T07:00:48Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/player/camisa-do-vasco-i-26-27-nike-jogador-masculina-preta/back.webp",
+      "hash": "57d767a05ad248aefe306b0ed5d0b05dd118c66dc2274df47b096bbecdf13b59",
+      "width": 480,
+      "height": 480,
+      "size": 10624,
+      "createdAt": "2026-08-05T07:00:48Z",
+      "updatedAt": "2026-08-05T07:00:48Z"
+    }
+  ]
+}

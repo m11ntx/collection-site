@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-ii-26-27-torcedor-masculina-branca",
+  "createdAt": "2026-08-05T07:00:44Z",
+  "updatedAt": "2026-08-05T07:00:44Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-internacional-ii-26-27-torcedor-masculina-branca/front.webp",
+      "hash": "ccb8f6a5b308a8e0ee471fe739778a9f4e09188320e12a1ed4d2af0f7c7a526d",
+      "width": 480,
+      "height": 480,
+      "size": 6194,
+      "createdAt": "2026-08-05T07:00:44Z",
+      "updatedAt": "2026-08-05T07:00:44Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-internacional-ii-26-27-torcedor-masculina-branca/back.webp",
+      "hash": "5cc55aa67d1a766ccb2c3674cb96d058fc5e2153b033d7635acc22dd269a9cb1",
+      "width": 480,
+      "height": 480,
+      "size": 4852,
+      "createdAt": "2026-08-05T07:00:44Z",
+      "updatedAt": "2026-08-05T07:00:44Z"
+    }
+  ]
+}

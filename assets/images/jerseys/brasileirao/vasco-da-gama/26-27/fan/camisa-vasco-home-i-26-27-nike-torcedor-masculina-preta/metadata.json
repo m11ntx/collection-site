@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-vasco-home-i-26-27-nike-torcedor-masculina-preta",
+  "createdAt": "2026-08-05T07:00:36Z",
+  "updatedAt": "2026-08-05T07:00:36Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/camisa-vasco-home-i-26-27-nike-torcedor-masculina-preta/front.webp",
+      "hash": "eca18c820d4e2d636bef9c5b904a958830cc45b9012a92d6ed73006cad1d5d99",
+      "width": 480,
+      "height": 480,
+      "size": 10128,
+      "createdAt": "2026-08-05T07:00:36Z",
+      "updatedAt": "2026-08-05T07:00:36Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/vasco-da-gama/26-27/fan/camisa-vasco-home-i-26-27-nike-torcedor-masculina-preta/back.webp",
+      "hash": "9010d2197fc68e46b14ceb1211fa515a02d6e88e927a6381fddee89a4a7927b1",
+      "width": 480,
+      "height": 480,
+      "size": 5376,
+      "createdAt": "2026-08-05T07:00:36Z",
+      "updatedAt": "2026-08-05T07:00:36Z"
+    }
+  ]
+}

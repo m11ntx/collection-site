@@ -1,27 +1,27 @@
 {
   "productId": "source-camisa-atletico-mineiro-nike-torcedor-26-27-treino-masculina",
   "createdAt": "2026-07-15T10:36:39Z",
-  "updatedAt": "2026-07-15T10:36:39Z",
+  "updatedAt": "2026-08-05T07:00:52Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-nike-torcedor-26-27-treino-masculina/front.webp",
-      "hash": "7e3d5044d78207469e1ba9c460e72745e89d9fdde222aaedda44f3e297652d41",
+      "hash": "0266f31a19daea3d8f4e68eca6d180837eea7b2d2ed26e4ba367de6e96180000",
       "width": 480,
       "height": 480,
-      "size": 5188,
+      "size": 7222,
       "createdAt": "2026-07-15T10:36:39Z",
-      "updatedAt": "2026-07-15T10:36:39Z"
+      "updatedAt": "2026-08-05T07:00:52Z"
     },
     {
       "view": "back",
       "path": "assets/images/jerseys/brasileirao/atletico-mineiro/26-27/fan/camisa-atletico-mineiro-nike-torcedor-26-27-treino-masculina/back.webp",
-      "hash": "d77ecf47b758b96cc446d979bc91634648b7aab9fb5574998c4c8a6a15f09e45",
+      "hash": "81cf34252ab444f994c77c2c5061eefaf25e21904495698555785bca626e1646",
       "width": 480,
       "height": 480,
-      "size": 4250,
+      "size": 6324,
       "createdAt": "2026-07-15T10:36:39Z",
-      "updatedAt": "2026-07-15T10:36:39Z"
+      "updatedAt": "2026-08-05T07:00:52Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-internacional-i-sc-26-27-torcedor-masculina-vermelha",
+  "createdAt": "2026-08-05T07:00:37Z",
+  "updatedAt": "2026-08-05T07:00:37Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-internacional-i-sc-26-27-torcedor-masculina-vermelha/front.webp",
+      "hash": "acb1eb81b87c6c758c0c5eddc0eca318b9fbdf4bd46f8740ce292387523a685e",
+      "width": 480,
+      "height": 480,
+      "size": 9560,
+      "createdAt": "2026-08-05T07:00:37Z",
+      "updatedAt": "2026-08-05T07:00:37Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/internacional/26-27/fan/camisa-internacional-i-sc-26-27-torcedor-masculina-vermelha/back.webp",
+      "hash": "d10e5134d6fc7bca36526f35ec83226d9ebe1d1821b03b4889df3cd1db2daba8",
+      "width": 480,
+      "height": 480,
+      "size": 8250,
+      "createdAt": "2026-08-05T07:00:37Z",
+      "updatedAt": "2026-08-05T07:00:37Z"
+    }
+  ]
+}

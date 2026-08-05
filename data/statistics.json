@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3385,
+    "products": 3394,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,14 +8,14 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3320,
-    "unavailable": 65,
+    "available": 3327,
+    "unavailable": 67,
     "inventoryTracked": 0,
-    "withManufacturer": 2665
+    "withManufacturer": 2671
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 872,
+    "brasil": 881,
     "europa": 1435,
     "nba": 126,
     "resto-do-mundo": 227,
@@ -24,7 +24,7 @@
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 872,
+    "brasileirao": 881,
     "bundesliga": 112,
     "eredivisie": 29,
     "la-liga": 343,
@@ -45,13 +45,13 @@
     "americas": 233,
     "asia": 43,
     "europa": 393,
-    "minas-gerais": 96,
+    "minas-gerais": 103,
     "nordeste": 77,
     "norte": 11,
     "oceania": 2,
-    "rio-de-janeiro": 322,
+    "rio-de-janeiro": 323,
     "sao-paulo": 256,
-    "sul": 110,
+    "sul": 111,
     "unknown": 1827
   },
   "byClub": {
@@ -74,7 +74,7 @@
     "athletico-paranaense": 23,
     "atlanta-united": 3,
     "atletico-madrid": 36,
-    "atletico-mineiro": 44,
+    "atletico-mineiro": 51,
     "austin-fc": 2,
     "austria": 1,
     "avai": 1,
@@ -144,7 +144,7 @@
     "inglaterra": 55,
     "inter-miami": 29,
     "inter-milan": 61,
-    "internacional": 47,
+    "internacional": 48,
     "irlanda": 3,
     "islandia": 1,
     "italia": 51,
@@ -229,7 +229,7 @@
     "universidad-do-chile": 2,
     "unknown": 165,
     "uruguai": 8,
-    "vasco-da-gama": 51,
+    "vasco-da-gama": 52,
     "vitoria": 5,
     "wolverhampton-wanderers": 2
   },
@@ -407,7 +407,7 @@
     "24/35": 1,
     "25/26": 328,
     "2526": 1,
-    "26/27": 333,
+    "26/27": 342,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -434,20 +434,20 @@
     "unknown": 216
   },
   "byCategory": {
-    "current": 161,
+    "current": 166,
     "manga-longa": 197,
     "retro": 765,
-    "unknown": 2262
+    "unknown": 2266
   },
   "byVersion": {
-    "fan": 1469,
-    "player": 322,
-    "unknown": 1594
+    "fan": 1475,
+    "player": 323,
+    "unknown": 1596
   },
   "byGender": {
-    "kids": 235,
-    "men": 2417,
+    "kids": 237,
+    "men": 2422,
     "unknown": 530,
-    "women": 203
+    "women": 205
   }
 }
