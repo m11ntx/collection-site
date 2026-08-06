@@ -520,6 +520,17 @@ const Catalog = (() => {
         const primary = Array.isArray(p.images) && p.images.length
             ? (p.images.find((im) => im.primary) || p.images[0])
             : null;
+        // A registered video plays in place of the photo on listing cards
+        // (autoplay + muted + loop, like an animated preview). The primary photo
+        // is the poster, so there's an instant frame before the video loads.
+        if (p.video) {
+            const poster = primary && primary.url && window.ImageLoader
+                ? ImageLoader.getImage("jerseys", primary.url) : "";
+            return `<video class="jersey-card__photo jersey-card__video" `
+                 + `src="${esc(p.video)}"${poster ? ` poster="${esc(poster)}"` : ""} `
+                 + `autoplay loop muted playsinline preload="metadata" `
+                 + `aria-label="${esc(p.name)}"></video>`;
+        }
         if (primary && primary.url && window.ImageLoader) {
             return ImageLoader.imageTag(ImageLoader.getImage("jerseys", primary.url), {
                 alt: p.name, className: "jersey-card__photo"
