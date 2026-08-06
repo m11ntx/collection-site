@@ -525,6 +525,15 @@ const Catalog = (() => {
         return p.video ? [p.video] : [];
     }
 
+    // Which video plays on a listing card: the operator's chosen catalogVideo
+    // when it's one of the product's videos, otherwise the first. With a single
+    // video the choice is moot; with several it decides the card's preview.
+    function catalogVideo(p) {
+        const vids = productVideos(p);
+        if (!vids.length) return "";
+        return vids.indexOf(p && p.catalogVideo) !== -1 ? p.catalogVideo : vids[0];
+    }
+
     function jerseyMedia(p) {
         const primary = Array.isArray(p.images) && p.images.length
             ? (p.images.find((im) => im.primary) || p.images[0])
@@ -532,12 +541,12 @@ const Catalog = (() => {
         // A registered video plays in place of the photo on listing cards
         // (autoplay + muted + loop, like an animated preview). The primary photo
         // is the poster, so there's an instant frame before the video loads.
-        const vids = productVideos(p);
-        if (vids.length) {
+        const cardVideo = catalogVideo(p);
+        if (cardVideo) {
             const poster = primary && primary.url && window.ImageLoader
                 ? ImageLoader.getImage("jerseys", primary.url) : "";
             return `<video class="jersey-card__photo jersey-card__video" `
-                 + `src="${esc(vids[0])}"${poster ? ` poster="${esc(poster)}"` : ""} `
+                 + `src="${esc(cardVideo)}"${poster ? ` poster="${esc(poster)}"` : ""} `
                  + `autoplay loop muted playsinline preload="metadata" `
                  + `aria-label="${esc(p.name)}"></video>`;
         }
