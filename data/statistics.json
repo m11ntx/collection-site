@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3394,
+    "products": 3410,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,23 +8,23 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3326,
-    "unavailable": 68,
+    "available": 3339,
+    "unavailable": 71,
     "inventoryTracked": 0,
-    "withManufacturer": 2671
+    "withManufacturer": 2674
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 881,
+    "brasil": 896,
     "europa": 1435,
     "nba": 126,
     "resto-do-mundo": 227,
-    "selecoes": 687,
+    "selecoes": 688,
     "unknown": 1
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 881,
+    "brasileirao": 896,
     "bundesliga": 112,
     "eredivisie": 29,
     "la-liga": 343,
@@ -35,23 +35,23 @@
     "primeira-liga": 23,
     "saudi-pro-league": 30,
     "scottish-premiership": 22,
-    "selecoes": 687,
+    "selecoes": 688,
     "serie-a": 305,
     "super-lig": 1,
     "unknown": 164
   },
   "byRegion": {
     "africa": 15,
-    "americas": 233,
+    "americas": 234,
     "asia": 43,
     "europa": 393,
-    "minas-gerais": 103,
+    "minas-gerais": 106,
     "nordeste": 77,
     "norte": 11,
     "oceania": 2,
-    "rio-de-janeiro": 323,
-    "sao-paulo": 256,
-    "sul": 111,
+    "rio-de-janeiro": 326,
+    "sao-paulo": 264,
+    "sul": 112,
     "unknown": 1827
   },
   "byClub": {
@@ -88,7 +88,7 @@
     "borussia-dortmund": 33,
     "borussia-monchengladbach": 1,
     "bosnia-e-herzegovina": 1,
-    "botafogo": 36,
+    "botafogo": 37,
     "botafogo-ribeirao-preto": 1,
     "bragantino": 15,
     "brasil": 102,
@@ -112,7 +112,7 @@
     "corinthians": 81,
     "costa-rica": 1,
     "croacia": 8,
-    "cruzeiro": 51,
+    "cruzeiro": 54,
     "crystal-palace": 1,
     "curacao": 2,
     "dc-united": 2,
@@ -131,12 +131,12 @@
     "fc-porto": 6,
     "filipinas": 1,
     "fiorentina": 10,
-    "flamengo": 185,
+    "flamengo": 187,
     "fluminense": 50,
     "fortaleza": 5,
     "franca": 37,
     "galatasaray": 1,
-    "gremio": 36,
+    "gremio": 37,
     "haiti": 1,
     "holanda": 18,
     "houston-dyanmo": 3,
@@ -166,7 +166,7 @@
     "manchester-united": 131,
     "marrocos": 2,
     "marseille": 7,
-    "mexico": 24,
+    "mexico": 25,
     "minnesota": 3,
     "monaco": 1,
     "nacional-uruguai": 1,
@@ -209,7 +209,7 @@
     "san-lorenzo": 2,
     "santa-cruz": 8,
     "santiago-wanderers": 2,
-    "santos": 40,
+    "santos": 48,
     "sao-paulo": 26,
     "seattle-fc": 1,
     "senegal": 2,
@@ -407,7 +407,7 @@
     "24/35": 1,
     "25/26": 328,
     "2526": 1,
-    "26/27": 342,
+    "26/27": 358,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -434,19 +434,19 @@
     "unknown": 216
   },
   "byCategory": {
-    "current": 166,
-    "manga-longa": 197,
+    "current": 178,
+    "manga-longa": 199,
     "retro": 765,
-    "unknown": 2266
+    "unknown": 2268
   },
   "byVersion": {
-    "fan": 1475,
-    "player": 323,
+    "fan": 1487,
+    "player": 327,
     "unknown": 1596
   },
   "byGender": {
     "kids": 237,
-    "men": 2422,
+    "men": 2438,
     "unknown": 530,
     "women": 205
   }

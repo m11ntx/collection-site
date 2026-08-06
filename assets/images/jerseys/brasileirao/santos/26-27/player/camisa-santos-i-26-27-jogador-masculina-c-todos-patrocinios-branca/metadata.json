@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-i-26-27-jogador-masculina-c-todos-patrocinios-branca",
+  "createdAt": "2026-08-06T12:18:15Z",
+  "updatedAt": "2026-08-06T12:18:15Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-i-26-27-jogador-masculina-c-todos-patrocinios-branca/front.webp",
+      "hash": "cd5b45114e18c72c72d85ceac341bda6c959f1b2fa57431ea40112f8703190c7",
+      "width": 480,
+      "height": 480,
+      "size": 14040,
+      "createdAt": "2026-08-06T12:18:15Z",
+      "updatedAt": "2026-08-06T12:18:15Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-i-26-27-jogador-masculina-c-todos-patrocinios-branca/back.webp",
+      "hash": "126e5d8012bc271df9f451b4ded1bead12e26ff54b3dc9afe5cf9f334a21ba21",
+      "width": 480,
+      "height": 480,
+      "size": 12002,
+      "createdAt": "2026-08-06T12:18:15Z",
+      "updatedAt": "2026-08-06T12:18:15Z"
+    }
+  ]
+}

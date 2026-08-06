@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-mexico-gold-adidas-26-27-masculina-torcedor",
+  "createdAt": "2026-08-06T12:18:10Z",
+  "updatedAt": "2026-08-06T12:18:10Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-gold-adidas-26-27-masculina-torcedor/front.webp",
+      "hash": "578cd7282fc788e1be6f5bea1e826ecd3300919781ff9b82ea31ecf9361311db",
+      "width": 480,
+      "height": 480,
+      "size": 12810,
+      "createdAt": "2026-08-06T12:18:10Z",
+      "updatedAt": "2026-08-06T12:18:10Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/selecoes/mexico/26-27/fan/camisa-mexico-gold-adidas-26-27-masculina-torcedor/back.webp",
+      "hash": "4b9bfeb3439f7f02358fbe9d30d02a97a91326bb55383c04bc04d8f6d48338e4",
+      "width": 480,
+      "height": 480,
+      "size": 10794,
+      "createdAt": "2026-08-06T12:18:10Z",
+      "updatedAt": "2026-08-06T12:18:10Z"
+    }
+  ]
+}

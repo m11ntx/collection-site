@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-ii-26-27-torcedor-c-patrocinio-masculina-preto-e-branco",
+  "createdAt": "2026-08-06T12:18:12Z",
+  "updatedAt": "2026-08-06T12:18:12Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-ii-26-27-torcedor-c-patrocinio-masculina-preto-e-branco/front.webp",
+      "hash": "35f5cb46980ae3c1011a7b1f65a6387234eec822b266814705418a2031c32233",
+      "width": 480,
+      "height": 480,
+      "size": 14112,
+      "createdAt": "2026-08-06T12:18:12Z",
+      "updatedAt": "2026-08-06T12:18:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/fan/camisa-santos-ii-26-27-torcedor-c-patrocinio-masculina-preto-e-branco/back.webp",
+      "hash": "fe4e37ee865876c84de274ed905f3f3f44d03abc9b1fdeb1cde080321c2ab2ef",
+      "width": 480,
+      "height": 480,
+      "size": 8520,
+      "createdAt": "2026-08-06T12:18:12Z",
+      "updatedAt": "2026-08-06T12:18:12Z"
+    }
+  ]
+}

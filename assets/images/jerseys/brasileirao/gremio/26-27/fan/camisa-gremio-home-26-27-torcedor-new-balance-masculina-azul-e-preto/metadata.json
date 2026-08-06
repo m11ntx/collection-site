@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-gremio-home-26-27-torcedor-new-balance-masculina-azul-e-preto",
+  "createdAt": "2026-08-06T12:17:50Z",
+  "updatedAt": "2026-08-06T12:17:50Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-home-26-27-torcedor-new-balance-masculina-azul-e-preto/front.webp",
+      "hash": "3d2f7437c9fbb8d4f501dbfc25e0c8475428c5e9b3661ac941818bd74598aaf2",
+      "width": 480,
+      "height": 480,
+      "size": 12558,
+      "createdAt": "2026-08-06T12:17:50Z",
+      "updatedAt": "2026-08-06T12:17:50Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/gremio/26-27/fan/camisa-gremio-home-26-27-torcedor-new-balance-masculina-azul-e-preto/back.webp",
+      "hash": "761a65463e236ccc863b43d0e1269972fbdba217e971852a5717475db0218ac5",
+      "width": 480,
+      "height": 480,
+      "size": 10482,
+      "createdAt": "2026-08-06T12:17:50Z",
+      "updatedAt": "2026-08-06T12:17:50Z"
+    }
+  ]
+}

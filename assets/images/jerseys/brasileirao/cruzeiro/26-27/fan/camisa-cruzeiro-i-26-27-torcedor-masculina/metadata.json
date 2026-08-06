@@ -1,17 +1,27 @@
 {
   "productId": "source-camisa-cruzeiro-i-26-27-torcedor-masculina",
   "createdAt": "2026-07-13T13:49:11Z",
-  "updatedAt": "2026-07-13T13:49:11Z",
+  "updatedAt": "2026-08-06T12:17:38Z",
   "images": [
     {
       "view": "front",
       "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-torcedor-masculina/front.webp",
-      "hash": "bb339ea6f87bf917ca20b97fbdd43217563d45b943296eb0ecb815d428e28008",
+      "hash": "099f4b691516f8ad68f913e16ce76e506a469bea1a280d650590756c77129c60",
       "width": 480,
       "height": 480,
-      "size": 9210,
+      "size": 9048,
       "createdAt": "2026-07-13T13:49:11Z",
-      "updatedAt": "2026-07-13T13:49:11Z"
+      "updatedAt": "2026-08-06T12:17:38Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/cruzeiro/26-27/fan/camisa-cruzeiro-i-26-27-torcedor-masculina/back.webp",
+      "hash": "b2a72cc9542f965b03ec48a79706d2e5406b609af872e09b1f7b623cb2b067f5",
+      "width": 480,
+      "height": 480,
+      "size": 7312,
+      "createdAt": "2026-08-06T12:17:38Z",
+      "updatedAt": "2026-08-06T12:17:38Z"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-ii-26-27-jogador-masculina-c-todos-patrocinios-listrada",
+  "createdAt": "2026-08-06T12:18:13Z",
+  "updatedAt": "2026-08-06T12:18:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-ii-26-27-jogador-masculina-c-todos-patrocinios-listrada/front.webp",
+      "hash": "1527845e414b5c7f443ecbefbbd5b94c48de4f2e24020afb4558337e01c73b13",
+      "width": 480,
+      "height": 480,
+      "size": 16630,
+      "createdAt": "2026-08-06T12:18:13Z",
+      "updatedAt": "2026-08-06T12:18:13Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-ii-26-27-jogador-masculina-c-todos-patrocinios-listrada/back.webp",
+      "hash": "f37c96cdb872aa5e88845ef9ca560a3da1c0f399ee9bda3031c388e33e2f998e",
+      "width": 480,
+      "height": 480,
+      "size": 13540,
+      "createdAt": "2026-08-06T12:18:13Z",
+      "updatedAt": "2026-08-06T12:18:13Z"
+    }
+  ]
+}

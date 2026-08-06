@@ -1,0 +1,27 @@
+{
+  "productId": "source-camisa-santos-away-ii-26-27-jogador-masculina-c-patrocinio-listrada",
+  "createdAt": "2026-08-06T12:18:13Z",
+  "updatedAt": "2026-08-06T12:18:13Z",
+  "images": [
+    {
+      "view": "front",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-away-ii-26-27-jogador-masculina-c-patrocinio-listrada/front.webp",
+      "hash": "22d8394aec641caf4e74ab1a96563ecddd9bf2a9e757e29646ad83fc28d90a38",
+      "width": 480,
+      "height": 480,
+      "size": 13852,
+      "createdAt": "2026-08-06T12:18:12Z",
+      "updatedAt": "2026-08-06T12:18:12Z"
+    },
+    {
+      "view": "back",
+      "path": "assets/images/jerseys/brasileirao/santos/26-27/player/camisa-santos-away-ii-26-27-jogador-masculina-c-patrocinio-listrada/back.webp",
+      "hash": "d6a57d95af6dcb674b024e25813b90519a936da61c1ec2e12466f50ed7686389",
+      "width": 480,
+      "height": 480,
+      "size": 11336,
+      "createdAt": "2026-08-06T12:18:13Z",
+      "updatedAt": "2026-08-06T12:18:13Z"
+    }
+  ]
+}
