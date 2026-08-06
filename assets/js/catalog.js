@@ -745,23 +745,16 @@ const Catalog = (() => {
     function jerseyStories(p) {
         const vids = productVideos(p);
         if (!vids.length) return "";
-        const imgs = Array.isArray(p.images) ? p.images : [];
-        const primary = imgs.find((im) => im.primary) || imgs[0] || null;
-        function thumbFor(i) {
-            const im = imgs[i] || primary;                  // vary the cover per bubble
-            return im && im.url && window.ImageLoader ? ImageLoader.getImage("jerseys", im.url) : "";
-        }
-        const rings = vids.map((v, i) => {
-            const t = thumbFor(i);
-            return `<button type="button" class="story-ring" data-i="${i}" aria-haspopup="dialog"
+        const rings = vids.map((v, i) =>
+            `<button type="button" class="story-ring" data-i="${i}" aria-haspopup="dialog"
                     aria-label="Ver vídeo ${i + 1} de ${vids.length}">
                 <span class="story-ring__ring"><span class="story-ring__thumb">
-                    ${t ? `<img src="${esc(t)}" alt="" loading="lazy" decoding="async">` : ""}
+                    <video class="story-ring__vid" src="${esc(v)}#t=0.5" muted playsinline
+                           preload="metadata" tabindex="-1"></video>
                     <span class="story-ring__play" aria-hidden="true">&#9658;</span>
                 </span></span>
-                <span class="story-ring__label">Vídeo ${i + 1}</span>
-            </button>`;
-        }).join("");
+            </button>`
+        ).join("");
         const bars = vids.map(() => `<span class="stories__bar"><i></i></span>`).join("");
         const slides = vids.map((v, i) =>
             `<video class="stories__video${i === 0 ? " is-active" : ""}" data-i="${i}" `
