@@ -174,3 +174,8 @@ function minFile(rel, fn) {
 CSS_FILES.forEach(function (f) { minFile(f, minifyCSS); });
 JS_FILES.forEach(function (f) { minFile(f, minifyJS); });
 console.log("done.");
+
+// Cache-busting: re-stamp the HTML asset refs with the fresh content hashes, so
+// a JS/CSS update is never served stale behind Cloudflare's 4h asset cache
+// (the HTML/JSON cache is only 10min). Runs automatically after every minify.
+require("./stamp-version.js");
