@@ -516,6 +516,15 @@ const Catalog = (() => {
         return brandedMark("club-hero__mark", [90, 63], name);
     }
 
+    // A product can carry one or more videos: `videos` (array) is canonical,
+    // `video` (string) is accepted as a single-item shorthand. Paths resolve
+    // against <base href="../"> like every other asset.
+    function productVideos(p) {
+        if (!p) return [];
+        if (Array.isArray(p.videos)) return p.videos.filter(Boolean);
+        return p.video ? [p.video] : [];
+    }
+
     function jerseyMedia(p) {
         const primary = Array.isArray(p.images) && p.images.length
             ? (p.images.find((im) => im.primary) || p.images[0])
@@ -523,11 +532,12 @@ const Catalog = (() => {
         // A registered video plays in place of the photo on listing cards
         // (autoplay + muted + loop, like an animated preview). The primary photo
         // is the poster, so there's an instant frame before the video loads.
-        if (p.video) {
+        const vids = productVideos(p);
+        if (vids.length) {
             const poster = primary && primary.url && window.ImageLoader
                 ? ImageLoader.getImage("jerseys", primary.url) : "";
             return `<video class="jersey-card__photo jersey-card__video" `
-                 + `src="${esc(p.video)}"${poster ? ` poster="${esc(poster)}"` : ""} `
+                 + `src="${esc(vids[0])}"${poster ? ` poster="${esc(poster)}"` : ""} `
                  + `autoplay loop muted playsinline preload="metadata" `
                  + `aria-label="${esc(p.name)}"></video>`;
         }
@@ -725,6 +735,71 @@ const Catalog = (() => {
             </div>`;
     }
 
+    // Instagram-stories style player for a product's video(s): a 9:16 frame
+    // with one progress bar per video that fills as it plays, auto-advancing to
+    // the next, tap zones for prev/next, and a mute toggle. Rendered on the
+    // jersey detail page only when the product has at least one video.
+    function jerseyStories(p) {
+        const vids = productVideos(p);
+        if (!vids.length) return "";
+        const bars = vids.map(() => `<span class="stories__bar"><i></i></span>`).join("");
+        const slides = vids.map((v, i) =>
+            `<video class="stories__video${i === 0 ? " is-active" : ""}" data-i="${i}" `
+            + `src="${esc(v)}" muted playsinline preload="${i === 0 ? "auto" : "metadata"}"></video>`
+        ).join("");
+        return `
+            <div class="stories" data-count="${vids.length}">
+                <div class="stories__frame">
+                    <div class="stories__bars">${bars}</div>
+                    <div class="stories__slides">${slides}</div>
+                    <button type="button" class="stories__zone stories__zone--prev" aria-label="Anterior"></button>
+                    <button type="button" class="stories__zone stories__zone--next" aria-label="Próximo"></button>
+                    <button type="button" class="stories__sound" aria-label="Som" aria-pressed="false">
+                        <span class="stories__sound-on" hidden>&#128266;</span><span class="stories__sound-off">&#128263;</span>
+                    </button>
+                </div>
+            </div>`;
+    }
+
+    function wireStories(root) {
+        const box = root && root.querySelector(".stories");
+        if (!box) return;
+        const vids = Array.prototype.slice.call(box.querySelectorAll(".stories__video"));
+        const bars = Array.prototype.slice.call(box.querySelectorAll(".stories__bar > i"));
+        if (!vids.length) return;
+        let idx = 0;
+        function paint() { bars.forEach((b, i) => { b.style.width = i < idx ? "100%" : "0%"; }); }
+        function show(i, play = true) {
+            idx = (i + vids.length) % vids.length;
+            vids.forEach((v, k) => { if (k !== idx) { v.pause(); v.classList.remove("is-active"); } });
+            const v = vids[idx];
+            v.classList.add("is-active");
+            try { v.currentTime = 0; } catch (e) {}
+            paint();
+            if (play) v.play().catch(() => {});
+        }
+        vids.forEach((v, i) => {
+            v.addEventListener("timeupdate", () => {
+                if (i === idx && v.duration) bars[i].style.width = (v.currentTime / v.duration * 100) + "%";
+            });
+            v.addEventListener("ended", () => show(idx + 1));
+        });
+        box.querySelector(".stories__zone--next").addEventListener("click", () => show(idx + 1));
+        box.querySelector(".stories__zone--prev").addEventListener("click", () => show(idx - 1));
+        const sound = box.querySelector(".stories__sound");
+        sound.addEventListener("click", () => {
+            const unmute = vids[idx].muted;                 // currently muted -> turn sound on
+            vids.forEach((v) => { v.muted = !unmute; });
+            sound.setAttribute("aria-pressed", String(unmute));
+            box.querySelector(".stories__sound-on").hidden = !unmute;
+            box.querySelector(".stories__sound-off").hidden = unmute;
+            vids[idx].play().catch(() => {});
+        });
+        show(0);
+    }
+    // wire the stories player every time the jersey detail page (re)renders
+    document.addEventListener("jersey:rendered", (e) => wireStories(e.detail && e.detail.root));
+
     function specRow(label, valueHtml) {
         return valueHtml
             ? `<div class="spec"><dt>${esc(label)}</dt><dd>${valueHtml}</dd></div>`
@@ -805,7 +880,7 @@ const Catalog = (() => {
             </nav>
 
             <div class="jersey">
-                <div class="jersey__gallery">${jerseyGallery(p)}</div>
+                <div class="jersey__gallery">${jerseyStories(p)}${jerseyGallery(p)}</div>
                 <div class="jersey__info">
                     <p class="detail__eyebrow">${I18N.t("jerseyDetail.eyebrow")}</p>
                     <h1 class="detail__title">${name}</h1>

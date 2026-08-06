@@ -1473,6 +1473,48 @@ body::after{
 }
 .gallery__mark{ width:40%; max-width:220px; opacity:.08; }
 
+/* Instagram-stories player for product video(s) */
+.stories{ margin:0 0 1.1rem; }
+.stories__frame{
+    position:relative;
+    width:100%;
+    max-width:340px;
+    margin:0 auto;
+    aspect-ratio:9 / 16;
+    background:#000;
+    border-radius:16px;
+    overflow:hidden;
+    box-shadow:0 10px 30px rgba(0,0,0,.45);
+}
+.stories__slides{ position:absolute; inset:0; }
+.stories__video{
+    position:absolute; inset:0;
+    width:100%; height:100%;
+    object-fit:cover;
+    opacity:0; visibility:hidden;
+}
+.stories__video.is-active{ opacity:1; visibility:visible; }
+.stories__bars{
+    position:absolute; top:8px; left:8px; right:8px; z-index:3;
+    display:flex; gap:4px;
+}
+.stories__bar{
+    flex:1; height:3px; border-radius:3px;
+    background:rgba(255,255,255,.35); overflow:hidden;
+}
+.stories__bar > i{ display:block; height:100%; width:0; background:#fff; }
+.stories__zone{
+    position:absolute; top:0; bottom:0; width:35%; z-index:2;
+    background:transparent; border:0; padding:0; cursor:pointer;
+}
+.stories__zone--prev{ left:0; }
+.stories__zone--next{ right:0; }
+.stories__sound{
+    position:absolute; top:22px; right:12px; z-index:4;
+    width:38px; height:38px; border-radius:50%;
+    background:rgba(0,0,0,.5); border:0; color:#fff; cursor:pointer;
+    font-size:17px; line-height:1; display:grid; place-items:center;
+}
 .gallery__thumbs{
     display:flex;
     flex-wrap:wrap;
