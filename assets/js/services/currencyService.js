@@ -91,6 +91,20 @@
         return typeof text === "string" && text ? text : null;
     }
 
+    /** The pre-formatted ORIGINAL ("de") price for the active currency, present
+     * only when an operator override/promotion lowered the price. Returned only
+     * when it's genuinely higher than the current price (a real markdown); null
+     * otherwise, so the caller shows a strike-through only when it makes sense. */
+    function compareAtFormattedFor(product, currency) {
+        const cur = currency || getCurrency();
+        const locale = CURRENCY_TO_LOCALE[cur] || CURRENCY_TO_LOCALE[DEFAULT_CURRENCY];
+        const text = product && product.compareAtFormatted && product.compareAtFormatted[locale];
+        if (typeof text !== "string" || !text) return null;
+        const now = product.price && product.price[cur];
+        const was = product.compareAtPrice && product.compareAtPrice[cur];
+        return (typeof now === "number" && typeof was === "number" && was > now) ? text : null;
+    }
+
     /** Same contract as formattedPriceFor(), for the personalization
      * surcharge (product.personalizationFormattedPrice) -- null when the
      * product has no personalization option. */
@@ -113,6 +127,7 @@
         seedInitialCurrency: seedInitialCurrency,
         priceFor: priceFor,
         formattedPriceFor: formattedPriceFor,
+        compareAtFormattedFor: compareAtFormattedFor,
         personalizationFormattedPriceFor: personalizationFormattedPriceFor,
     };
 });

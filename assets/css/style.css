@@ -1411,6 +1411,11 @@ body::after{
 .jersey-card__name{ font-size:1.05rem; font-weight:700; }
 .jersey-card__meta{ color:var(--color-gray); font-size:.82rem; }
 .jersey-card__price{ color:var(--color-gold); font-size:.95rem; font-weight:700; margin-top:.1rem; }
+/* de/por + selo de promoção (override/promoção do admin) */
+.price-was{ color:var(--color-muted, #9a9aa2); font-weight:600; text-decoration:line-through; opacity:.75; margin-right:.15rem; }
+.price-now{ color:var(--color-gold); }
+.jersey__price .price-now{ color:inherit; }
+.price-badge{ display:inline-block; margin-left:.4rem; background:var(--color-gold); color:#141414; font-size:.62em; font-weight:800; letter-spacing:.03em; padding:.05em .45em; border-radius:5px; vertical-align:middle; }
 .jersey-card__cta{
     align-self:stretch;
     width:100%;

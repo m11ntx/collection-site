@@ -564,7 +564,15 @@ const Catalog = (() => {
     function jerseyPriceHtml(p) {
         if (!window.CurrencyService) return "";
         const text = CurrencyService.formattedPriceFor(p);
-        return text ? `<p class="jersey-card__price">${esc(text)}</p>` : "";
+        if (!text) return "";
+        // de/por: when an operator override/promotion lowered the price, strike
+        // the original and (if promoting) show the promo label.
+        const was = CurrencyService.compareAtFormattedFor(p);
+        const label = p && p.promotion && p.promotion.label;
+        const badge = label ? `<span class="price-badge">${esc(label)}</span>` : "";
+        const old = was ? `<span class="price-was">${esc(was)}</span> ` : "";
+        const cls = "jersey-card__price" + (was ? " is-promo" : "");
+        return `<p class="${cls}">${old}<span class="price-now">${esc(text)}</span>${badge}</p>`;
     }
 
     // Personalization (name + number printing): a plain observation, not an
