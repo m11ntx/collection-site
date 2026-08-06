@@ -1,0 +1,286 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>M11NTX — Admin</title>
+<style>
+  :root{ --bg:#0e0e10; --panel:#17171b; --line:#2a2a31; --gold:#c9a24b; --txt:#e8e8ea; --mut:#9a9aa2; }
+  *{ box-sizing:border-box; }
+  body{ margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--txt); }
+  a{ color:var(--gold); }
+  button{ font:inherit; cursor:pointer; border-radius:8px; border:1px solid var(--line); background:#1f1f25; color:var(--txt); padding:.5rem .8rem; }
+  button.primary{ background:var(--gold); color:#141414; border-color:var(--gold); font-weight:700; }
+  button:disabled{ opacity:.5; cursor:not-allowed; }
+  input,select{ font:inherit; background:#1f1f25; color:var(--txt); border:1px solid var(--line); border-radius:8px; padding:.55rem .7rem; width:100%; }
+  .hidden{ display:none !important; }
+  .muted{ color:var(--mut); }
+  .err{ color:#ff8a8a; }
+  .ok{ color:#8ae08a; }
+
+  /* login */
+  .login{ min-height:100vh; display:grid; place-items:center; padding:1rem; }
+  .login form{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:1.6rem; width:min(360px,100%); display:grid; gap:.8rem; }
+  .login h1{ margin:.2rem 0 .4rem; font-size:1.3rem; letter-spacing:.06em; }
+  .login .brand{ color:var(--gold); font-weight:800; letter-spacing:.12em; }
+
+  /* app */
+  header.bar{ display:flex; align-items:center; gap:1rem; padding:.7rem 1rem; border-bottom:1px solid var(--line); background:var(--panel); position:sticky; top:0; z-index:5; }
+  header.bar .brand{ color:var(--gold); font-weight:800; letter-spacing:.12em; }
+  header.bar .sp{ flex:1; }
+  main{ display:grid; grid-template-columns:340px 1fr; gap:0; height:calc(100vh - 57px); }
+  .list{ border-right:1px solid var(--line); overflow:auto; padding:.7rem; }
+  .list input{ margin-bottom:.6rem; }
+  .prod{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; }
+  .prod:hover{ background:#1f1f25; }
+  .prod.active{ background:#1f1f25; border-color:var(--gold); }
+  .prod small{ display:block; color:var(--mut); font-size:.75rem; }
+  .editor{ overflow:auto; padding:1.2rem; }
+  .editor h2{ margin:.2rem 0 .2rem; font-size:1.1rem; }
+  .editor .pid{ color:var(--mut); font-size:.8rem; word-break:break-all; margin-bottom:1rem; }
+  .grid{ display:flex; flex-wrap:wrap; gap:.7rem; margin:.5rem 0 1.2rem; }
+  .thumb{ width:120px; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#000; position:relative; }
+  .thumb img,.thumb video{ width:100%; height:120px; object-fit:cover; display:block; }
+  .thumb .cap{ font-size:.7rem; padding:.3rem .4rem; color:var(--mut); }
+  .thumb .badge{ position:absolute; top:6px; left:6px; background:var(--gold); color:#141414; font-size:.65rem; font-weight:700; padding:.1rem .4rem; border-radius:5px; }
+  .thumb .radio{ position:absolute; top:6px; right:6px; }
+  .section{ border-top:1px solid var(--line); padding-top:1rem; margin-top:.4rem; }
+  .drop{ border:1px dashed var(--line); border-radius:10px; padding:1rem; text-align:center; color:var(--mut); }
+  .row{ display:flex; gap:.6rem; align-items:center; flex-wrap:wrap; }
+  .toast{ position:fixed; bottom:16px; right:16px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:.7rem 1rem; z-index:20; max-width:360px; }
+</style>
+</head>
+<body>
+
+<!-- LOGIN -->
+<section id="login" class="login">
+  <form id="loginForm">
+    <div><span class="brand">M11NTX</span> · Admin</div>
+    <h1>Entrar</h1>
+    <label>E-mail<input id="email" type="email" autocomplete="username" required></label>
+    <label>Senha<input id="password" type="password" autocomplete="current-password" required></label>
+    <button class="primary" type="submit" id="loginBtn">Entrar</button>
+    <div id="loginMsg" class="err"></div>
+  </form>
+</section>
+
+<!-- APP -->
+<div id="app" class="hidden">
+  <header class="bar">
+    <span class="brand">M11NTX</span><span class="muted">Admin · Mídia</span>
+    <span class="sp"></span>
+    <span id="who" class="muted"></span>
+    <button id="logout">Sair</button>
+  </header>
+  <main>
+    <aside class="list">
+      <input id="search" type="search" placeholder="Buscar produto (nome, clube, id)…">
+      <div id="prodList"></div>
+    </aside>
+    <section class="editor">
+      <div id="empty" class="muted">Selecione um produto à esquerda para gerenciar fotos e vídeos.</div>
+      <div id="detail" class="hidden">
+        <h2 id="pName"></h2>
+        <div class="pid" id="pId"></div>
+
+        <h3>Fotos atuais (catálogo)</h3>
+        <div class="grid" id="curImages"></div>
+
+        <div class="section">
+          <h3>Vídeos</h3>
+          <p class="muted" style="margin-top:0;font-size:.85rem">Marque qual vídeo toca no card do catálogo. Todos aparecem como stories na página do produto.</p>
+          <div class="grid" id="videos"></div>
+        </div>
+
+        <div class="section">
+          <h3>Fotos extras (modelo etc.)</h3>
+          <div class="grid" id="extraImages"></div>
+        </div>
+
+        <div class="section">
+          <h3>Enviar mídia</h3>
+          <div class="row">
+            <input id="file" type="file" accept="image/*,video/mp4" multiple style="max-width:340px">
+            <button id="uploadBtn">Enviar</button>
+            <span id="upMsg" class="muted"></span>
+          </div>
+          <p class="muted" style="font-size:.8rem">Imagens 1:1 (quadradas) para o catálogo; vídeos 9:16 (.mp4).</p>
+        </div>
+
+        <div class="section row">
+          <button class="primary" id="saveBtn">Salvar alterações</button>
+          <span id="saveMsg"></span>
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+<script>
+(function(){
+  "use strict";
+  // --- config -------------------------------------------------------------
+  const SUPABASE_URL = "https://rhychbqeskwutlytaupd.supabase.co";
+  const SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJoeWNoYnFlc2t3dXRseXRhdXBkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYwMjg3MDgsImV4cCI6MjEwMTYwNDcwOH0.-37etmhqujU5lR_GO6GGvNgzi4bPJ_FOFrxl-tb9Z9c";
+  const CDN = "https://cdn.m11ntx.com";
+  const BUCKET = "product-media";
+  const sb = window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON);
+
+  const $ = (id) => document.getElementById(id);
+  const esc = (s) => String(s==null?"":s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  function toast(msg, ok){ const t=$("toast"); t.textContent=msg; t.className="toast"+(ok?" ok":""); setTimeout(()=>t.classList.add("hidden"), 3200); }
+
+  // Resolve an asset path/url for preview: CDN for repo-relative "assets/...",
+  // Supabase public URL for a storage path, or a full URL as-is.
+  function mediaUrl(p){
+    if(!p) return "";
+    if(/^https?:\/\//.test(p)) return p;
+    if(p.indexOf("assets/")===0) return CDN + "/" + p;
+    return sb.storage.from(BUCKET).getPublicUrl(p).data.publicUrl;  // storage key
+  }
+
+  let PRODUCTS = [];
+  let current = null;         // selected product (from products.json)
+  let draft = null;           // {extra_images:[], videos:[], catalog_video, saved:bool}
+
+  // --- auth ---------------------------------------------------------------
+  $("loginForm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+    $("loginBtn").disabled = true; $("loginMsg").textContent = "";
+    const { error } = await sb.auth.signInWithPassword({ email:$("email").value, password:$("password").value });
+    $("loginBtn").disabled = false;
+    if(error) $("loginMsg").textContent = error.message || "Falha no login.";
+  });
+  $("logout").addEventListener("click", () => sb.auth.signOut());
+
+  sb.auth.onAuthStateChange((_e, session) => showAuthed(session));
+  sb.auth.getSession().then(({data}) => showAuthed(data.session));
+
+  async function showAuthed(session){
+    const authed = !!session;
+    $("login").classList.toggle("hidden", authed);
+    $("app").classList.toggle("hidden", !authed);
+    if(authed){
+      $("who").textContent = session.user.email || "";
+      if(!PRODUCTS.length) await loadProducts();
+    }
+  }
+
+  // --- products list ------------------------------------------------------
+  async function loadProducts(){
+    try{
+      const res = await fetch("../data/products.json", { cache:"no-store" });
+      PRODUCTS = await res.json();
+      renderList("");
+    }catch(err){ toast("Não consegui carregar products.json: "+err.message); }
+  }
+
+  $("search").addEventListener("input", (e) => renderList(e.target.value));
+
+  function renderList(q){
+    q = (q||"").trim().toLowerCase();
+    const items = (q ? PRODUCTS.filter(p =>
+      (p.name||"").toLowerCase().includes(q) ||
+      (p.clubId||"").toLowerCase().includes(q) ||
+      (p.id||"").toLowerCase().includes(q)) : PRODUCTS).slice(0, 200);
+    $("prodList").innerHTML = items.map(p =>
+      `<div class="prod${current&&current.id===p.id?" active":""}" data-id="${esc(p.id)}">
+         ${esc(p.name||p.id)}<small>${esc(p.clubId||"")} · ${esc(p.season||"")}</small></div>`).join("")
+      || `<div class="muted">Nada encontrado.</div>`;
+  }
+  $("prodList").addEventListener("click", (e) => {
+    const el = e.target.closest(".prod"); if(!el) return;
+    select(el.getAttribute("data-id"));
+  });
+
+  // --- editor -------------------------------------------------------------
+  function productVideos(p){ return Array.isArray(p.videos)?p.videos.filter(Boolean):(p.video?[p.video]:[]); }
+
+  async function select(id){
+    current = PRODUCTS.find(p => p.id===id); if(!current) return;
+    renderList($("search").value);
+    $("empty").classList.add("hidden"); $("detail").classList.remove("hidden");
+    $("pName").textContent = current.name || current.id;
+    $("pId").textContent = current.id;
+
+    // load any saved override for this product
+    const { data } = await sb.from("product_overrides").select("*").eq("id", id).maybeSingle();
+    draft = {
+      extra_images: (data && data.extra_images) || [],
+      videos: (data && data.videos && data.videos.length ? data.videos : productVideos(current)),
+      catalog_video: (data && data.catalog_video) || current.catalogVideo || (productVideos(current)[0]||""),
+    };
+    renderEditor();
+  }
+
+  function thumb(inner, cap, opts){
+    opts = opts||{};
+    return `<div class="thumb">${opts.badge?`<span class="badge">${esc(opts.badge)}</span>`:""}${opts.radio||""}${inner}<div class="cap">${esc(cap||"")}</div></div>`;
+  }
+
+  function renderEditor(){
+    // current catalog photos (from products.json)
+    const imgs = Array.isArray(current.images)?current.images:[];
+    $("curImages").innerHTML = imgs.map(im =>
+      thumb(`<img src="${esc(mediaUrl(im.url))}" loading="lazy" alt="">`, im.primary?"principal":"", {badge:im.primary?"principal":""})).join("")
+      || `<span class="muted">Sem fotos.</span>`;
+
+    // videos with catalog radio
+    $("videos").innerHTML = draft.videos.map((v,i) => thumb(
+      `<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
+      "Vídeo "+(i+1),
+      { radio:`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">`,
+        badge: draft.catalog_video===v?"catálogo":"" })).join("")
+      || `<span class="muted">Sem vídeos ainda.</span>`;
+
+    // extra images (overrides)
+    $("extraImages").innerHTML = draft.extra_images.map(u =>
+      thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`, "extra")).join("")
+      || `<span class="muted">Sem fotos extras.</span>`;
+  }
+
+  $("videos").addEventListener("change", (e) => {
+    const r = e.target.closest('input[name="catvid"]'); if(!r) return;
+    draft.catalog_video = r.getAttribute("data-v"); renderEditor();
+  });
+
+  // --- upload -------------------------------------------------------------
+  $("uploadBtn").addEventListener("click", async () => {
+    const files = Array.from($("file").files||[]); if(!files.length || !current) return;
+    $("uploadBtn").disabled = true; $("upMsg").textContent = "Enviando…";
+    let done = 0;
+    for(const f of files){
+      const safe = f.name.replace(/[^a-zA-Z0-9._-]+/g, "-").toLowerCase();
+      const key = `${current.id}/${Date.now()}-${safe}`;
+      const { error } = await sb.storage.from(BUCKET).upload(key, f, { upsert:true, contentType:f.type });
+      if(error){ toast("Erro no upload: "+error.message); continue; }
+      if(f.type.startsWith("video/")){ draft.videos.push(key); if(!draft.catalog_video) draft.catalog_video = key; }
+      else draft.extra_images.push(key);
+      done++;
+    }
+    $("uploadBtn").disabled = false; $("upMsg").textContent = `${done} arquivo(s) enviado(s).`;
+    $("file").value = ""; renderEditor();
+  });
+
+  // --- save ---------------------------------------------------------------
+  $("saveBtn").addEventListener("click", async () => {
+    if(!current) return;
+    $("saveBtn").disabled = true; $("saveMsg").textContent = "";
+    const row = {
+      id: current.id, name: current.name || current.id,
+      extra_images: draft.extra_images, videos: draft.videos,
+      catalog_video: draft.catalog_video || null,
+    };
+    const { error } = await sb.from("product_overrides").upsert(row);
+    $("saveBtn").disabled = false;
+    if(error){ $("saveMsg").className="err"; $("saveMsg").textContent = error.message; }
+    else { $("saveMsg").className="ok"; $("saveMsg").textContent = "Salvo ✓"; toast("Alterações salvas.", true); }
+  });
+})();
+</script>
+</body>
+</html>
