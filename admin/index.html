@@ -6,110 +6,187 @@
 <meta name="robots" content="noindex, nofollow">
 <title>M11NTX — Admin</title>
 <style>
-  :root{ --bg:#0e0e10; --panel:#17171b; --line:#2a2a31; --gold:#c9a24b; --txt:#e8e8ea; --mut:#9a9aa2; }
+  :root{ --bg:#0e0e10; --panel:#17171b; --panel2:#1f1f25; --line:#2a2a31; --gold:#c9a24b; --txt:#e8e8ea; --mut:#9a9aa2; --red:#ff8a8a; --green:#8ae08a; }
   *{ box-sizing:border-box; }
   body{ margin:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif; background:var(--bg); color:var(--txt); }
-  a{ color:var(--gold); }
-  button{ font:inherit; cursor:pointer; border-radius:8px; border:1px solid var(--line); background:#1f1f25; color:var(--txt); padding:.5rem .8rem; }
+  button{ font:inherit; cursor:pointer; border-radius:8px; border:1px solid var(--line); background:var(--panel2); color:var(--txt); padding:.5rem .8rem; }
   button.primary{ background:var(--gold); color:#141414; border-color:var(--gold); font-weight:700; }
+  button.ghost{ background:transparent; }
+  button.danger{ border-color:#5a2a2a; color:var(--red); }
   button:disabled{ opacity:.5; cursor:not-allowed; }
-  input,select{ font:inherit; background:#1f1f25; color:var(--txt); border:1px solid var(--line); border-radius:8px; padding:.55rem .7rem; width:100%; }
+  input,select,textarea{ font:inherit; background:var(--panel2); color:var(--txt); border:1px solid var(--line); border-radius:8px; padding:.5rem .6rem; width:100%; }
+  label.fld{ display:grid; gap:.25rem; font-size:.82rem; color:var(--mut); }
   .hidden{ display:none !important; }
-  .muted{ color:var(--mut); }
-  .err{ color:#ff8a8a; }
-  .ok{ color:#8ae08a; }
+  .muted{ color:var(--mut); } .err{ color:var(--red); } .ok{ color:var(--green); }
+  h2,h3{ margin:.2rem 0 .6rem; }
 
-  /* login */
   .login{ min-height:100vh; display:grid; place-items:center; padding:1rem; }
   .login form{ background:var(--panel); border:1px solid var(--line); border-radius:14px; padding:1.6rem; width:min(360px,100%); display:grid; gap:.8rem; }
-  .login h1{ margin:.2rem 0 .4rem; font-size:1.3rem; letter-spacing:.06em; }
-  .login .brand{ color:var(--gold); font-weight:800; letter-spacing:.12em; }
+  .brand{ color:var(--gold); font-weight:800; letter-spacing:.12em; }
 
-  /* app */
   header.bar{ display:flex; align-items:center; gap:1rem; padding:.7rem 1rem; border-bottom:1px solid var(--line); background:var(--panel); position:sticky; top:0; z-index:5; }
-  header.bar .brand{ color:var(--gold); font-weight:800; letter-spacing:.12em; }
   header.bar .sp{ flex:1; }
-  main{ display:grid; grid-template-columns:340px 1fr; gap:0; height:calc(100vh - 57px); }
-  .list{ border-right:1px solid var(--line); overflow:auto; padding:.7rem; }
-  .list input{ margin-bottom:.6rem; }
-  .prod{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; }
-  .prod:hover{ background:#1f1f25; }
-  .prod.active{ background:#1f1f25; border-color:var(--gold); }
-  .prod small{ display:block; color:var(--mut); font-size:.75rem; }
-  .editor{ overflow:auto; padding:1.2rem; }
-  .editor h2{ margin:.2rem 0 .2rem; font-size:1.1rem; }
-  .editor .pid{ color:var(--mut); font-size:.8rem; word-break:break-all; margin-bottom:1rem; }
-  .grid{ display:flex; flex-wrap:wrap; gap:.7rem; margin:.5rem 0 1.2rem; }
+  main{ display:grid; grid-template-columns:360px 1fr; height:calc(100vh - 57px); }
+  .list{ border-right:1px solid var(--line); overflow:auto; padding:.7rem; display:flex; flex-direction:column; gap:.5rem; }
+  .filters{ display:grid; gap:.4rem; }
+  .filters .row2{ display:grid; grid-template-columns:1fr 1fr; gap:.4rem; }
+  .count{ font-size:.75rem; color:var(--mut); padding:.1rem .2rem; }
+  #prodList{ overflow:auto; }
+  .prod{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; display:flex; align-items:center; gap:.5rem; }
+  .prod:hover{ background:var(--panel2); }
+  .prod.active{ background:var(--panel2); border-color:var(--gold); }
+  .prod .nm{ flex:1; } .prod small{ display:block; color:var(--mut); font-size:.72rem; }
+  .dot{ width:8px; height:8px; border-radius:50%; background:var(--gold); flex:none; }
+  .dot.off{ background:transparent; }
+
+  .editor{ overflow:auto; padding:1.1rem 1.3rem; }
+  .pid{ color:var(--mut); font-size:.78rem; word-break:break-all; margin-bottom:.6rem; }
+  .tabs{ display:flex; gap:.3rem; border-bottom:1px solid var(--line); margin-bottom:1rem; flex-wrap:wrap; }
+  .tab{ padding:.5rem .8rem; border:1px solid transparent; border-bottom:none; border-radius:8px 8px 0 0; color:var(--mut); background:transparent; }
+  .tab.active{ color:var(--txt); background:var(--panel2); border-color:var(--line); }
+  .pane{ display:none; } .pane.active{ display:block; }
+
+  .grid{ display:flex; flex-wrap:wrap; gap:.7rem; margin:.4rem 0 1rem; }
   .thumb{ width:120px; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:#000; position:relative; }
   .thumb img,.thumb video{ width:100%; height:120px; object-fit:cover; display:block; }
-  .thumb .cap{ font-size:.7rem; padding:.3rem .4rem; color:var(--mut); }
-  .thumb .badge{ position:absolute; top:6px; left:6px; background:var(--gold); color:#141414; font-size:.65rem; font-weight:700; padding:.1rem .4rem; border-radius:5px; }
-  .thumb .radio{ position:absolute; top:6px; right:6px; }
-  .section{ border-top:1px solid var(--line); padding-top:1rem; margin-top:.4rem; }
-  .drop{ border:1px dashed var(--line); border-radius:10px; padding:1rem; text-align:center; color:var(--mut); }
+  .thumb.dim{ opacity:.35; }
+  .thumb .cap{ font-size:.7rem; padding:.3rem .4rem; color:var(--mut); display:flex; justify-content:space-between; align-items:center; gap:.3rem; }
+  .thumb .badge{ position:absolute; top:6px; left:6px; background:var(--gold); color:#141414; font-size:.62rem; font-weight:700; padding:.1rem .4rem; border-radius:5px; }
+  .thumb .x{ position:absolute; top:5px; right:5px; width:22px; height:22px; border-radius:50%; background:rgba(0,0,0,.6); border:0; color:#fff; line-height:1; padding:0; font-size:15px; }
+  .thumb .radio{ transform:scale(1.1); }
+  .drop{ border:1px dashed var(--line); border-radius:10px; padding:1rem; }
   .row{ display:flex; gap:.6rem; align-items:center; flex-wrap:wrap; }
-  .toast{ position:fixed; bottom:16px; right:16px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:.7rem 1rem; z-index:20; max-width:360px; }
+  .cols{ display:grid; grid-template-columns:repeat(3,1fr); gap:.7rem; max-width:520px; }
+  .save-bar{ position:sticky; bottom:0; background:linear-gradient(transparent,var(--bg) 30%); padding-top:1rem; margin-top:1.2rem; }
+  .toast{ position:fixed; bottom:16px; right:16px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:.7rem 1rem; z-index:20; max-width:380px; }
+  .pill{ font-size:.7rem; padding:.15rem .5rem; border:1px solid var(--line); border-radius:20px; color:var(--mut); }
 </style>
 </head>
 <body>
 
-<!-- LOGIN -->
 <section id="login" class="login">
   <form id="loginForm">
     <div><span class="brand">M11NTX</span> · Admin</div>
-    <h1>Entrar</h1>
-    <label>E-mail<input id="email" type="email" autocomplete="username" required></label>
-    <label>Senha<input id="password" type="password" autocomplete="current-password" required></label>
+    <h2 style="margin:.2rem 0">Entrar</h2>
+    <label class="fld">E-mail<input id="email" type="email" autocomplete="username" required></label>
+    <label class="fld">Senha<input id="password" type="password" autocomplete="current-password" required></label>
     <button class="primary" type="submit" id="loginBtn">Entrar</button>
     <div id="loginMsg" class="err"></div>
   </form>
 </section>
 
-<!-- APP -->
 <div id="app" class="hidden">
   <header class="bar">
-    <span class="brand">M11NTX</span><span class="muted">Admin · Mídia</span>
+    <span class="brand">M11NTX</span><span class="muted">Admin</span>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
-    <button id="logout">Sair</button>
+    <button id="logout" class="ghost">Sair</button>
   </header>
   <main>
     <aside class="list">
-      <input id="search" type="search" placeholder="Buscar produto (nome, clube, id)…">
+      <div class="filters">
+        <input id="search" type="search" placeholder="Buscar (nome, clube, id)…">
+        <div class="row2">
+          <select id="fCollection"><option value="">Coleção: todas</option></select>
+          <select id="fLeague"><option value="">Liga: todas</option></select>
+        </div>
+        <div class="row2">
+          <select id="fClub"><option value="">Clube: todos</option></select>
+          <select id="fFlag">
+            <option value="">Filtro: nenhum</option>
+            <option value="over">Só com alterações</option>
+            <option value="video">Só com vídeo</option>
+            <option value="promo">Só com promoção</option>
+            <option value="off">Só indisponíveis</option>
+          </select>
+        </div>
+      </div>
+      <div class="count" id="count"></div>
       <div id="prodList"></div>
     </aside>
+
     <section class="editor">
-      <div id="empty" class="muted">Selecione um produto à esquerda para gerenciar fotos e vídeos.</div>
+      <div id="empty" class="muted">Selecione um produto à esquerda.</div>
       <div id="detail" class="hidden">
-        <h2 id="pName"></h2>
+        <div class="row" style="justify-content:space-between">
+          <h2 id="pName" style="margin:0"></h2>
+          <span id="pFlags"></span>
+        </div>
         <div class="pid" id="pId"></div>
 
-        <h3>Fotos atuais (catálogo)</h3>
-        <div class="grid" id="curImages"></div>
-
-        <div class="section">
-          <h3>Vídeos</h3>
-          <p class="muted" style="margin-top:0;font-size:.85rem">Marque qual vídeo toca no card do catálogo. Todos aparecem como stories na página do produto.</p>
-          <div class="grid" id="videos"></div>
+        <div class="tabs">
+          <button class="tab active" data-pane="media">Mídia</button>
+          <button class="tab" data-pane="price">Preço</button>
+          <button class="tab" data-pane="promo">Promoção</button>
+          <button class="tab" data-pane="avail">Disponibilidade</button>
         </div>
 
-        <div class="section">
-          <h3>Fotos extras (modelo etc.)</h3>
+        <!-- MÍDIA -->
+        <div class="pane active" id="pane-media">
+          <h3>Fotos do catálogo</h3>
+          <p class="muted" style="margin-top:0;font-size:.82rem">Vindas da fonte. Use o × para ocultar uma foto no site.</p>
+          <div class="grid" id="curImages"></div>
+
+          <h3>Fotos extras</h3>
           <div class="grid" id="extraImages"></div>
-        </div>
 
-        <div class="section">
-          <h3>Enviar mídia</h3>
-          <div class="row">
-            <input id="file" type="file" accept="image/*,video/mp4" multiple style="max-width:340px">
-            <button id="uploadBtn">Enviar</button>
-            <span id="upMsg" class="muted"></span>
+          <h3>Vídeos <span class="pill">marque o do catálogo</span></h3>
+          <div class="grid" id="videos"></div>
+
+          <div class="drop">
+            <div class="row">
+              <input id="file" type="file" accept="image/*,video/mp4" multiple style="max-width:340px">
+              <button id="uploadBtn">Enviar arquivos</button>
+              <span id="upMsg" class="muted"></span>
+            </div>
+            <p class="muted" style="font-size:.8rem;margin:.5rem 0 0">Imagens 1:1 (quadradas); vídeos 9:16 (.mp4). Salve depois de enviar.</p>
           </div>
-          <p class="muted" style="font-size:.8rem">Imagens 1:1 (quadradas) para o catálogo; vídeos 9:16 (.mp4).</p>
         </div>
 
-        <div class="section row">
+        <!-- PREÇO -->
+        <div class="pane" id="pane-price">
+          <h3>Preço</h3>
+          <p class="muted" id="priceCurrent" style="margin-top:0;font-size:.85rem"></p>
+          <p class="muted" style="font-size:.82rem">Deixe em branco para manter o preço calculado pelo pipeline. Preencha para forçar um valor.</p>
+          <div class="cols">
+            <label class="fld">BRL<input id="prBRL" type="number" step="0.01" placeholder="—"></label>
+            <label class="fld">USD<input id="prUSD" type="number" step="0.01" placeholder="—"></label>
+            <label class="fld">EUR<input id="prEUR" type="number" step="0.01" placeholder="—"></label>
+          </div>
+          <div class="row" style="margin-top:.6rem"><button class="ghost danger" id="clearPrice">Limpar override de preço</button></div>
+        </div>
+
+        <!-- PROMOÇÃO -->
+        <div class="pane" id="pane-promo">
+          <h3>Promoção</h3>
+          <label class="row" style="gap:.5rem;margin-bottom:.7rem"><input type="checkbox" id="promoActive" style="width:auto"> <span>Promoção ativa</span></label>
+          <div class="cols" style="grid-template-columns:1fr 1fr">
+            <label class="fld">Tipo
+              <select id="promoType"><option value="percent">Desconto (%)</option><option value="price">Preço promocional (BRL)</option></select>
+            </label>
+            <label class="fld">Valor<input id="promoValue" type="number" step="0.01" placeholder="ex.: 15"></label>
+            <label class="fld">Início<input id="promoStart" type="date"></label>
+            <label class="fld">Fim<input id="promoEnd" type="date"></label>
+          </div>
+          <label class="fld" style="max-width:520px;margin-top:.6rem">Rótulo (opcional)<input id="promoLabel" placeholder="ex.: Semana do Torcedor"></label>
+        </div>
+
+        <!-- DISPONIBILIDADE -->
+        <div class="pane" id="pane-avail">
+          <h3>Disponibilidade</h3>
+          <p class="muted" id="availCurrent" style="margin-top:0;font-size:.85rem"></p>
+          <label class="fld" style="max-width:340px">Override
+            <select id="availOverride">
+              <option value="">Automático (segue o estoque)</option>
+              <option value="true">Forçar DISPONÍVEL</option>
+              <option value="false">Forçar INDISPONÍVEL (esconder)</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="save-bar row">
           <button class="primary" id="saveBtn">Salvar alterações</button>
+          <button class="ghost danger" id="resetBtn">Descartar tudo deste produto</button>
           <span id="saveMsg"></span>
         </div>
       </div>
@@ -123,7 +200,6 @@
 <script>
 (function(){
   "use strict";
-  // --- config -------------------------------------------------------------
   const SUPABASE_URL = "https://rhychbqeskwutlytaupd.supabase.co";
   const SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJoeWNoYnFlc2t3dXRseXRhdXBkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYwMjg3MDgsImV4cCI6MjEwMTYwNDcwOH0.-37etmhqujU5lR_GO6GGvNgzi4bPJ_FOFrxl-tb9Z9c";
   const CDN = "https://cdn.m11ntx.com";
@@ -132,153 +208,223 @@
 
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s==null?"":s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
-  function toast(msg, ok){ const t=$("toast"); t.textContent=msg; t.className="toast"+(ok?" ok":""); setTimeout(()=>t.classList.add("hidden"), 3200); }
+  function toast(msg, ok){ const t=$("toast"); t.textContent=msg; t.className="toast"+(ok?" ok":" err"); setTimeout(()=>t.classList.add("hidden"), 3400); }
+  function mediaUrl(p){ if(!p) return ""; if(/^https?:\/\//.test(p)) return p; if(p.indexOf("assets/")===0) return CDN+"/"+p; return sb.storage.from(BUCKET).getPublicUrl(p).data.publicUrl; }
 
-  // Resolve an asset path/url for preview: CDN for repo-relative "assets/...",
-  // Supabase public URL for a storage path, or a full URL as-is.
-  function mediaUrl(p){
-    if(!p) return "";
-    if(/^https?:\/\//.test(p)) return p;
-    if(p.indexOf("assets/")===0) return CDN + "/" + p;
-    return sb.storage.from(BUCKET).getPublicUrl(p).data.publicUrl;  // storage key
-  }
+  let PRODUCTS = [], OVER = {};        // OVER: id -> override row (cached)
+  let current = null, draft = null;
 
-  let PRODUCTS = [];
-  let current = null;         // selected product (from products.json)
-  let draft = null;           // {extra_images:[], videos:[], catalog_video, saved:bool}
-
-  // --- auth ---------------------------------------------------------------
+  // ---- auth ----
   $("loginForm").addEventListener("submit", async (e) => {
-    e.preventDefault();
-    $("loginBtn").disabled = true; $("loginMsg").textContent = "";
+    e.preventDefault(); $("loginBtn").disabled=true; $("loginMsg").textContent="";
     const { error } = await sb.auth.signInWithPassword({ email:$("email").value, password:$("password").value });
-    $("loginBtn").disabled = false;
-    if(error) $("loginMsg").textContent = error.message || "Falha no login.";
+    $("loginBtn").disabled=false; if(error) $("loginMsg").textContent = error.message || "Falha no login.";
   });
   $("logout").addEventListener("click", () => sb.auth.signOut());
-
-  sb.auth.onAuthStateChange((_e, session) => showAuthed(session));
+  sb.auth.onAuthStateChange((_e, s) => showAuthed(s));
   sb.auth.getSession().then(({data}) => showAuthed(data.session));
 
   async function showAuthed(session){
-    const authed = !!session;
-    $("login").classList.toggle("hidden", authed);
-    $("app").classList.toggle("hidden", !authed);
-    if(authed){
-      $("who").textContent = session.user.email || "";
-      if(!PRODUCTS.length) await loadProducts();
-    }
+    const on = !!session;
+    $("login").classList.toggle("hidden", on);
+    $("app").classList.toggle("hidden", !on);
+    if(on){ $("who").textContent = session.user.email||""; if(!PRODUCTS.length) await boot(); }
   }
 
-  // --- products list ------------------------------------------------------
-  async function loadProducts(){
+  async function boot(){
     try{
-      const res = await fetch("../data/products.json", { cache:"no-store" });
-      PRODUCTS = await res.json();
-      renderList("");
-    }catch(err){ toast("Não consegui carregar products.json: "+err.message); }
+      const [pRes] = await Promise.all([ fetch("../data/products.json",{cache:"no-store"}) ]);
+      PRODUCTS = await pRes.json();
+    }catch(err){ toast("Erro ao carregar products.json: "+err.message); return; }
+    // cache overrides (id + flags) so the list can badge them
+    const { data } = await sb.from("product_overrides").select("*");
+    OVER = {}; (data||[]).forEach(r => OVER[r.id]=r);
+    buildFilterOptions(); renderList();
   }
 
-  $("search").addEventListener("input", (e) => renderList(e.target.value));
+  // ---- filters ----
+  function uniq(key){ return [...new Set(PRODUCTS.map(p=>p[key]).filter(Boolean))].sort(); }
+  function buildFilterOptions(){
+    fill("fCollection","Coleção", uniq("collectionId"));
+    fill("fLeague","Liga", uniq("leagueId"));
+    fill("fClub","Clube", uniq("clubId"));
+  }
+  function fill(id,label,vals){
+    $(id).innerHTML = `<option value="">${label}: todas</option>` + vals.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
+  }
+  ["search","fCollection","fLeague","fClub","fFlag"].forEach(id => $(id).addEventListener("input", renderList));
 
-  function renderList(q){
-    q = (q||"").trim().toLowerCase();
-    const items = (q ? PRODUCTS.filter(p =>
-      (p.name||"").toLowerCase().includes(q) ||
-      (p.clubId||"").toLowerCase().includes(q) ||
-      (p.id||"").toLowerCase().includes(q)) : PRODUCTS).slice(0, 200);
-    $("prodList").innerHTML = items.map(p =>
+  function vids(p){ const o=OVER[p.id]; if(o&&o.videos&&o.videos.length) return o.videos; return Array.isArray(p.videos)?p.videos.filter(Boolean):(p.video?[p.video]:[]); }
+  function hasPromo(p){ const o=OVER[p.id]; return !!(o&&o.promotion&&o.promotion.active); }
+  function isOff(p){ const o=OVER[p.id]; if(o&&o.available_override===false) return true; return p.available===false; }
+
+  function matches(p){
+    const q=$("search").value.trim().toLowerCase();
+    if(q && !((p.name||"").toLowerCase().includes(q)||(p.clubId||"").toLowerCase().includes(q)||(p.id||"").toLowerCase().includes(q))) return false;
+    if($("fCollection").value && p.collectionId!==$("fCollection").value) return false;
+    if($("fLeague").value && p.leagueId!==$("fLeague").value) return false;
+    if($("fClub").value && p.clubId!==$("fClub").value) return false;
+    const f=$("fFlag").value;
+    if(f==="over" && !OVER[p.id]) return false;
+    if(f==="video" && !vids(p).length) return false;
+    if(f==="promo" && !hasPromo(p)) return false;
+    if(f==="off" && !isOff(p)) return false;
+    return true;
+  }
+
+  function renderList(){
+    const all = PRODUCTS.filter(matches);
+    $("count").textContent = `${all.length} produto(s)`;
+    $("prodList").innerHTML = all.slice(0,300).map(p =>
       `<div class="prod${current&&current.id===p.id?" active":""}" data-id="${esc(p.id)}">
-         ${esc(p.name||p.id)}<small>${esc(p.clubId||"")} · ${esc(p.season||"")}</small></div>`).join("")
-      || `<div class="muted">Nada encontrado.</div>`;
+         <span class="dot${OVER[p.id]?"":" off"}" title="tem alterações"></span>
+         <span class="nm">${esc(p.name||p.id)}<small>${esc(p.clubId||"")} · ${esc(p.season||"")}${isOff(p)?" · oculto":""}</small></span>
+       </div>`).join("") || `<div class="muted">Nada encontrado.</div>`;
+    if(all.length>300) $("count").textContent += " (mostrando 300)";
   }
-  $("prodList").addEventListener("click", (e) => {
-    const el = e.target.closest(".prod"); if(!el) return;
-    select(el.getAttribute("data-id"));
-  });
+  $("prodList").addEventListener("click", (e)=>{ const el=e.target.closest(".prod"); if(el) select(el.dataset.id); });
 
-  // --- editor -------------------------------------------------------------
-  function productVideos(p){ return Array.isArray(p.videos)?p.videos.filter(Boolean):(p.video?[p.video]:[]); }
+  // ---- tabs ----
+  document.querySelectorAll(".tab").forEach(t => t.addEventListener("click", ()=>{
+    document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+    document.querySelectorAll(".pane").forEach(x=>x.classList.remove("active"));
+    t.classList.add("active"); $("pane-"+t.dataset.pane).classList.add("active");
+  }));
 
-  async function select(id){
-    current = PRODUCTS.find(p => p.id===id); if(!current) return;
-    renderList($("search").value);
+  // ---- select product ----
+  function sourceVideos(p){ return Array.isArray(p.videos)?p.videos.filter(Boolean):(p.video?[p.video]:[]); }
+
+  function select(id){
+    current = PRODUCTS.find(p=>p.id===id); if(!current) return;
+    renderList();
     $("empty").classList.add("hidden"); $("detail").classList.remove("hidden");
-    $("pName").textContent = current.name || current.id;
-    $("pId").textContent = current.id;
-
-    // load any saved override for this product
-    const { data } = await sb.from("product_overrides").select("*").eq("id", id).maybeSingle();
+    $("pName").textContent = current.name||current.id; $("pId").textContent = current.id;
+    const o = OVER[id] || {};
     draft = {
-      extra_images: (data && data.extra_images) || [],
-      videos: (data && data.videos && data.videos.length ? data.videos : productVideos(current)),
-      catalog_video: (data && data.catalog_video) || current.catalogVideo || (productVideos(current)[0]||""),
+      hidden_images: (o.hidden_images||[]).slice(),
+      extra_images: (o.extra_images||[]).slice(),
+      videos: (o.videos&&o.videos.length? o.videos : sourceVideos(current)).slice(),
+      catalog_video: o.catalog_video || current.catalogVideo || (sourceVideos(current)[0]||""),
+      price_override: o.price_override || null,
+      promotion: o.promotion || null,
+      available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
     };
     renderEditor();
   }
 
-  function thumb(inner, cap, opts){
-    opts = opts||{};
-    return `<div class="thumb">${opts.badge?`<span class="badge">${esc(opts.badge)}</span>`:""}${opts.radio||""}${inner}<div class="cap">${esc(cap||"")}</div></div>`;
+  function flagPills(){
+    const f=[];
+    if(draft.videos.length) f.push("vídeo");
+    if(draft.promotion&&draft.promotion.active) f.push("promo");
+    if(draft.price_override) f.push("preço");
+    if(draft.available_override===false) f.push("oculto");
+    $("pFlags").innerHTML = f.map(x=>`<span class="pill">${esc(x)}</span>`).join(" ");
+  }
+
+  function thumb(inner, capLeft, o){
+    o=o||{};
+    return `<div class="thumb${o.dim?" dim":""}">${o.badge?`<span class="badge">${esc(o.badge)}</span>`:""}`+
+      `${o.x?`<button class="x" data-act="${esc(o.x.act)}" data-v="${esc(o.x.v)}" title="${esc(o.x.title||"remover")}">×</button>`:""}`+
+      `${inner}<div class="cap"><span>${esc(capLeft||"")}</span>${o.right||""}</div></div>`;
   }
 
   function renderEditor(){
-    // current catalog photos (from products.json)
+    flagPills();
+    // catalog photos (source) -- can hide
     const imgs = Array.isArray(current.images)?current.images:[];
-    $("curImages").innerHTML = imgs.map(im =>
-      thumb(`<img src="${esc(mediaUrl(im.url))}" loading="lazy" alt="">`, im.primary?"principal":"", {badge:im.primary?"principal":""})).join("")
-      || `<span class="muted">Sem fotos.</span>`;
+    $("curImages").innerHTML = imgs.map(im => {
+      const hidden = draft.hidden_images.includes(im.url);
+      return thumb(`<img src="${esc(mediaUrl(im.url))}" loading="lazy" alt="">`,
+        im.primary?"principal":"", { dim:hidden, badge:im.primary?"principal":"",
+          x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"} });
+    }).join("") || `<span class="muted">Sem fotos.</span>`;
 
-    // videos with catalog radio
-    $("videos").innerHTML = draft.videos.map((v,i) => thumb(
-      `<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
-      "Vídeo "+(i+1),
-      { radio:`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">`,
-        badge: draft.catalog_video===v?"catálogo":"" })).join("")
-      || `<span class="muted">Sem vídeos ainda.</span>`;
-
-    // extra images (overrides)
+    // extra images -- can remove
     $("extraImages").innerHTML = draft.extra_images.map(u =>
-      thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`, "extra")).join("")
-      || `<span class="muted">Sem fotos extras.</span>`;
+      thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`, "extra",
+        { x:{act:"delImg", v:u, title:"remover"} })).join("") || `<span class="muted">Nenhuma.</span>`;
+
+    // videos -- radio (catalog) + remove
+    $("videos").innerHTML = draft.videos.map((v,i) =>
+      thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`, "Vídeo "+(i+1),
+        { badge: draft.catalog_video===v?"catálogo":"",
+          x:{act:"delVid", v:v, title:"remover"},
+          right:`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">` })).join("")
+      || `<span class="muted">Nenhum vídeo.</span>`;
+
+    // price
+    const price = current.price||{}; const fp = current.formattedPrice||{};
+    $("priceCurrent").textContent = `Atual (pipeline): ${fp["pt-BR"]||("R$ "+(price.BRL||"?"))}  ·  USD ${price.USD||"?"}  ·  EUR ${price.EUR||"?"}`;
+    const po = draft.price_override||{};
+    $("prBRL").value = po.BRL??""; $("prUSD").value = po.USD??""; $("prEUR").value = po.EUR??"";
+
+    // promo
+    const pr = draft.promotion||{};
+    $("promoActive").checked = !!pr.active; $("promoType").value = pr.type||"percent";
+    $("promoValue").value = pr.value??""; $("promoStart").value = pr.startsAt||""; $("promoEnd").value = pr.endsAt||""; $("promoLabel").value = pr.label||"";
+
+    // availability
+    $("availCurrent").textContent = `Estado atual no catálogo: ${current.available===false?"indisponível":"disponível"}.`;
+    $("availOverride").value = draft.available_override===true?"true":draft.available_override===false?"false":"";
   }
 
-  $("videos").addEventListener("change", (e) => {
-    const r = e.target.closest('input[name="catvid"]'); if(!r) return;
-    draft.catalog_video = r.getAttribute("data-v"); renderEditor();
+  // media actions (hide/unhide source, remove extra/video)
+  document.addEventListener("click", async (e)=>{
+    const b = e.target.closest(".thumb .x"); if(!b || !draft) return;
+    const act=b.dataset.act, v=b.dataset.v;
+    if(act==="hide"){ if(!draft.hidden_images.includes(v)) draft.hidden_images.push(v); }
+    else if(act==="unhide"){ draft.hidden_images = draft.hidden_images.filter(x=>x!==v); }
+    else if(act==="delImg"){ draft.extra_images = draft.extra_images.filter(x=>x!==v); await removeStorage(v); }
+    else if(act==="delVid"){ draft.videos = draft.videos.filter(x=>x!==v); if(draft.catalog_video===v) draft.catalog_video = draft.videos[0]||""; await removeStorage(v); }
+    renderEditor();
   });
+  async function removeStorage(key){ if(key && key.indexOf("assets/")!==0 && !/^https?:/.test(key)){ try{ await sb.storage.from(BUCKET).remove([key]); }catch(_){} } }
 
-  // --- upload -------------------------------------------------------------
-  $("uploadBtn").addEventListener("click", async () => {
-    const files = Array.from($("file").files||[]); if(!files.length || !current) return;
-    $("uploadBtn").disabled = true; $("upMsg").textContent = "Enviando…";
-    let done = 0;
+  $("videos").addEventListener("change", (e)=>{ const r=e.target.closest('input[name="catvid"]'); if(r){ draft.catalog_video=r.dataset.v; renderEditor(); }});
+
+  // upload
+  $("uploadBtn").addEventListener("click", async ()=>{
+    const files=Array.from($("file").files||[]); if(!files.length||!current) return;
+    $("uploadBtn").disabled=true; $("upMsg").textContent="Enviando…"; let n=0;
     for(const f of files){
-      const safe = f.name.replace(/[^a-zA-Z0-9._-]+/g, "-").toLowerCase();
-      const key = `${current.id}/${Date.now()}-${safe}`;
-      const { error } = await sb.storage.from(BUCKET).upload(key, f, { upsert:true, contentType:f.type });
-      if(error){ toast("Erro no upload: "+error.message); continue; }
-      if(f.type.startsWith("video/")){ draft.videos.push(key); if(!draft.catalog_video) draft.catalog_video = key; }
+      const safe=f.name.replace(/[^a-zA-Z0-9._-]+/g,"-").toLowerCase();
+      const key=`${current.id}/${Date.now()}-${safe}`;
+      const { error }=await sb.storage.from(BUCKET).upload(key,f,{upsert:true,contentType:f.type});
+      if(error){ toast("Upload falhou: "+error.message); continue; }
+      if(f.type.startsWith("video/")){ draft.videos.push(key); if(!draft.catalog_video) draft.catalog_video=key; }
       else draft.extra_images.push(key);
-      done++;
+      n++;
     }
-    $("uploadBtn").disabled = false; $("upMsg").textContent = `${done} arquivo(s) enviado(s).`;
-    $("file").value = ""; renderEditor();
+    $("uploadBtn").disabled=false; $("upMsg").textContent=`${n} enviado(s). Não esqueça de Salvar.`; $("file").value=""; renderEditor();
   });
 
-  // --- save ---------------------------------------------------------------
-  $("saveBtn").addEventListener("click", async () => {
-    if(!current) return;
-    $("saveBtn").disabled = true; $("saveMsg").textContent = "";
-    const row = {
-      id: current.id, name: current.name || current.id,
-      extra_images: draft.extra_images, videos: draft.videos,
-      catalog_video: draft.catalog_video || null,
-    };
-    const { error } = await sb.from("product_overrides").upsert(row);
-    $("saveBtn").disabled = false;
-    if(error){ $("saveMsg").className="err"; $("saveMsg").textContent = error.message; }
-    else { $("saveMsg").className="ok"; $("saveMsg").textContent = "Salvo ✓"; toast("Alterações salvas.", true); }
+  // save
+  function collectDraft(){
+    const num = v => v===""||v==null? null : Number(v);
+    const po = { BRL:num($("prBRL").value), USD:num($("prUSD").value), EUR:num($("prEUR").value) };
+    draft.price_override = (po.BRL||po.USD||po.EUR)? po : null;
+    const active=$("promoActive").checked, val=num($("promoValue").value);
+    draft.promotion = (active||val)? { active, type:$("promoType").value, value:val, startsAt:$("promoStart").value||null, endsAt:$("promoEnd").value||null, label:$("promoLabel").value||null } : null;
+    const av=$("availOverride").value; draft.available_override = av===""? null : av==="true";
+  }
+  $("saveBtn").addEventListener("click", async ()=>{
+    if(!current) return; collectDraft();
+    $("saveBtn").disabled=true; $("saveMsg").textContent="";
+    const row = { id:current.id, name:current.name||current.id,
+      hidden_images:draft.hidden_images, extra_images:draft.extra_images,
+      videos:draft.videos, catalog_video:draft.catalog_video||null,
+      price_override:draft.price_override, promotion:draft.promotion,
+      available_override:draft.available_override };
+    const { error }=await sb.from("product_overrides").upsert(row);
+    $("saveBtn").disabled=false;
+    if(error){ $("saveMsg").className="err"; $("saveMsg").textContent=error.message; }
+    else { OVER[current.id]=row; $("saveMsg").className="ok"; $("saveMsg").textContent="Salvo ✓"; toast("Alterações salvas.",true); flagPills(); renderList(); }
+  });
+  $("resetBtn").addEventListener("click", async ()=>{
+    if(!current || !confirm("Descartar TODAS as alterações deste produto?")) return;
+    const { error }=await sb.from("product_overrides").delete().eq("id",current.id);
+    if(error){ toast(error.message); return; }
+    delete OVER[current.id]; toast("Alterações removidas.",true); select(current.id); renderList();
   });
 })();
 </script>

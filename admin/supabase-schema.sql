@@ -17,6 +17,7 @@ create table if not exists public.product_overrides (
     id                  text primary key,               -- product id no catálogo
     name                text,                            -- só p/ leitura humana no admin
     extra_images        jsonb   not null default '[]'::jsonb,  -- [{url,alt,position,primary}]
+    hidden_images       jsonb   not null default '[]'::jsonb,  -- urls de fotos da fonte a ocultar
     videos              jsonb   not null default '[]'::jsonb,  -- ["product-media/<id>/<file>.mp4", ...]
     catalog_video       text,                            -- qual vídeo toca no card (default = 1o)
     -- Próximas fases (ficam null por enquanto):
