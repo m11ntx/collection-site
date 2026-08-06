@@ -735,28 +735,53 @@ const Catalog = (() => {
             </div>`;
     }
 
-    // Instagram-stories style player for a product's video(s): a 9:16 frame
-    // with one progress bar per video that fills as it plays, auto-advancing to
-    // the next, tap zones for prev/next, and a mute toggle. Rendered on the
-    // jersey detail page only when the product has at least one video.
+    // Instagram-stories entry point for a product's video(s): one circular
+    // "story ring" per video (gradient ring + a product thumb + play badge) that
+    // signals there are videos. Clicking a ring OPENS a fullscreen stories player
+    // STARTING AT THAT video and auto-advancing through the rest -- 9:16, one
+    // progress bar per video, tap zones for prev/next, mute toggle -- instead of
+    // playing inline on the page. Ring 1 -> starts at video 1; ring 2 -> starts
+    // at video 2; and so on.
     function jerseyStories(p) {
         const vids = productVideos(p);
         if (!vids.length) return "";
+        const imgs = Array.isArray(p.images) ? p.images : [];
+        const primary = imgs.find((im) => im.primary) || imgs[0] || null;
+        function thumbFor(i) {
+            const im = imgs[i] || primary;                  // vary the cover per bubble
+            return im && im.url && window.ImageLoader ? ImageLoader.getImage("jerseys", im.url) : "";
+        }
+        const rings = vids.map((v, i) => {
+            const t = thumbFor(i);
+            return `<button type="button" class="story-ring" data-i="${i}" aria-haspopup="dialog"
+                    aria-label="Ver vídeo ${i + 1} de ${vids.length}">
+                <span class="story-ring__ring"><span class="story-ring__thumb">
+                    ${t ? `<img src="${esc(t)}" alt="" loading="lazy" decoding="async">` : ""}
+                    <span class="story-ring__play" aria-hidden="true">&#9658;</span>
+                </span></span>
+                <span class="story-ring__label">Vídeo ${i + 1}</span>
+            </button>`;
+        }).join("");
         const bars = vids.map(() => `<span class="stories__bar"><i></i></span>`).join("");
         const slides = vids.map((v, i) =>
             `<video class="stories__video${i === 0 ? " is-active" : ""}" data-i="${i}" `
-            + `src="${esc(v)}" muted playsinline preload="${i === 0 ? "auto" : "metadata"}"></video>`
+            + `src="${esc(v)}" muted playsinline preload="none"></video>`
         ).join("");
         return `
             <div class="stories" data-count="${vids.length}">
-                <div class="stories__frame">
-                    <div class="stories__bars">${bars}</div>
-                    <div class="stories__slides">${slides}</div>
-                    <button type="button" class="stories__zone stories__zone--prev" aria-label="Anterior"></button>
-                    <button type="button" class="stories__zone stories__zone--next" aria-label="Próximo"></button>
-                    <button type="button" class="stories__sound" aria-label="Som" aria-pressed="false">
-                        <span class="stories__sound-on" hidden>&#128266;</span><span class="stories__sound-off">&#128263;</span>
-                    </button>
+                <div class="story-rings">${rings}</div>
+                <div class="story-modal" role="dialog" aria-modal="true"
+                     aria-label="Vídeos do produto" hidden>
+                    <button type="button" class="story-modal__close" aria-label="Fechar">&times;</button>
+                    <div class="stories__frame">
+                        <div class="stories__bars">${bars}</div>
+                        <div class="stories__slides">${slides}</div>
+                        <button type="button" class="stories__zone stories__zone--prev" aria-label="Anterior"></button>
+                        <button type="button" class="stories__zone stories__zone--next" aria-label="Próximo"></button>
+                        <button type="button" class="stories__sound" aria-label="Som" aria-pressed="false">
+                            <span class="stories__sound-on" hidden>&#128266;</span><span class="stories__sound-off">&#128263;</span>
+                        </button>
+                    </div>
                 </div>
             </div>`;
     }
@@ -764,40 +789,60 @@ const Catalog = (() => {
     function wireStories(root) {
         const box = root && root.querySelector(".stories");
         if (!box) return;
+        const rings = Array.prototype.slice.call(box.querySelectorAll(".story-ring"));
+        const modal = box.querySelector(".story-modal");
         const vids = Array.prototype.slice.call(box.querySelectorAll(".stories__video"));
         const bars = Array.prototype.slice.call(box.querySelectorAll(".stories__bar > i"));
-        if (!vids.length) return;
+        if (!vids.length || !modal || !rings.length) return;
         let idx = 0;
         function paint() { bars.forEach((b, i) => { b.style.width = i < idx ? "100%" : "0%"; }); }
-        function show(i, play = true) {
+        function show(i, play) {
             idx = (i + vids.length) % vids.length;
             vids.forEach((v, k) => { if (k !== idx) { v.pause(); v.classList.remove("is-active"); } });
             const v = vids[idx];
             v.classList.add("is-active");
             try { v.currentTime = 0; } catch (e) {}
             paint();
-            if (play) v.play().catch(() => {});
+            if (play !== false) v.play().catch(() => {});
         }
+        function open(start) {
+            modal.hidden = false;
+            document.body.classList.add("stories-open");
+            show(start || 0);
+        }
+        function close() {
+            vids.forEach((v) => v.pause());
+            modal.hidden = true;
+            document.body.classList.remove("stories-open");
+        }
+        function next() { if (idx >= vids.length - 1) close(); else show(idx + 1); }
+
+        rings.forEach((r) => r.addEventListener("click", () => {
+            const start = parseInt(r.getAttribute("data-i"), 10);
+            open(isNaN(start) ? 0 : start);
+        }));
+        modal.querySelector(".story-modal__close").addEventListener("click", close);
+        modal.addEventListener("click", (e) => { if (e.target === modal) close(); });
+        document.addEventListener("keydown", (e) => { if (!modal.hidden && e.key === "Escape") close(); });
         vids.forEach((v, i) => {
             v.addEventListener("timeupdate", () => {
                 if (i === idx && v.duration) bars[i].style.width = (v.currentTime / v.duration * 100) + "%";
             });
-            v.addEventListener("ended", () => show(idx + 1));
+            v.addEventListener("ended", next);
         });
-        box.querySelector(".stories__zone--next").addEventListener("click", () => show(idx + 1));
-        box.querySelector(".stories__zone--prev").addEventListener("click", () => show(idx - 1));
-        const sound = box.querySelector(".stories__sound");
+        modal.querySelector(".stories__zone--next").addEventListener("click", next);
+        modal.querySelector(".stories__zone--prev").addEventListener("click", () => show(idx - 1));
+        const sound = modal.querySelector(".stories__sound");
         sound.addEventListener("click", () => {
             const unmute = vids[idx].muted;                 // currently muted -> turn sound on
             vids.forEach((v) => { v.muted = !unmute; });
             sound.setAttribute("aria-pressed", String(unmute));
-            box.querySelector(".stories__sound-on").hidden = !unmute;
-            box.querySelector(".stories__sound-off").hidden = unmute;
+            modal.querySelector(".stories__sound-on").hidden = !unmute;
+            modal.querySelector(".stories__sound-off").hidden = unmute;
             vids[idx].play().catch(() => {});
         });
-        show(0);
     }
-    // wire the stories player every time the jersey detail page (re)renders
+    // wire the stories ring every time the jersey detail page (re)renders
     document.addEventListener("jersey:rendered", (e) => wireStories(e.detail && e.detail.root));
 
     function specRow(label, valueHtml) {
