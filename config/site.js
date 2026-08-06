@@ -17,6 +17,13 @@
         // Production canonical base (also used by seo.js when present)
         url: "https://m11ntx.github.io/collection-site",
 
+        // Catalog assets (jersey/club/league/... images + product videos) are
+        // served from Cloudflare R2 via this CDN so the GitHub Pages deploy stays
+        // small and fast (the repo no longer carries the ~30k image files). Small
+        // brand assets (logo, symbol, hero) still ship in the repo. Empty string
+        // = serve everything from the repo (local dev / fallback).
+        assetBase: "https://cdn.m11ntx.com",
+
         // Official channel — the only place the Instagram URL should live
         instagram: "https://www.instagram.com/m11ntx/",
 

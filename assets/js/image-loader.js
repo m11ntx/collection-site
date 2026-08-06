@@ -17,6 +17,18 @@ const ImageLoader = (() => {
     const DEFAULT_EXT = "webp";
     const FALLBACK = BASE + "symbol.png";
 
+    // Catalog images/videos live on the CDN (Cloudflare R2); the repo only keeps
+    // small brand assets. assetUrl() rewrites a repo-relative "assets/..." path
+    // to the CDN when a base is configured (config/site.js `assetBase`); anything
+    // already absolute (http/https/data) or non-asset is left untouched. Empty
+    // base = serve from the repo (local dev / fallback).
+    const ASSET_BASE = ((typeof window !== "undefined" && window.CONFIG
+        && window.CONFIG.assetBase) || "").replace(/\/+$/, "");
+    function assetUrl(path) {
+        if (!ASSET_BASE || typeof path !== "string") return path;
+        return path.slice(0, 7) === "assets/" ? ASSET_BASE + "/" + path : path;
+    }
+
     const CATEGORIES = [
         "collections", "leagues", "regions", "clubs", "jerseys",
         "players", "badges", "manufacturers", "countries"
@@ -44,6 +56,9 @@ const ImageLoader = (() => {
      * @returns {string} resolved path (branded fallback if invalid)
      */
     function getImage(category, name, ext = DEFAULT_EXT) {
+        return assetUrl(rawImage(category, name, ext));
+    }
+    function rawImage(category, name, ext) {
         if (!name) return FALLBACK;
         // already a path or a filename with extension -> use as-is
         if (name.indexOf("/") !== -1 || /\.[a-z0-9]{2,4}$/i.test(name)) return name;
@@ -142,7 +157,7 @@ const ImageLoader = (() => {
         });
     }
 
-    return { getImage, imageTag, hydrate, slugify, genericMark, CATEGORIES, FALLBACK };
+    return { getImage, imageTag, hydrate, slugify, genericMark, assetUrl, CATEGORIES, FALLBACK };
 })();
 
 window.ImageLoader = ImageLoader;

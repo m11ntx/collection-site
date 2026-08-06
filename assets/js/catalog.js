@@ -546,7 +546,7 @@ const Catalog = (() => {
             const poster = primary && primary.url && window.ImageLoader
                 ? ImageLoader.getImage("jerseys", primary.url) : "";
             return `<video class="jersey-card__photo jersey-card__video" `
-                 + `src="${esc(cardVideo)}"${poster ? ` poster="${esc(poster)}"` : ""} `
+                 + `src="${esc(ImageLoader.assetUrl(cardVideo))}"${poster ? ` poster="${esc(poster)}"` : ""} `
                  + `autoplay loop muted playsinline preload="metadata" `
                  + `aria-label="${esc(p.name)}"></video>`;
         }
@@ -758,7 +758,7 @@ const Catalog = (() => {
             `<button type="button" class="story-ring" data-i="${i}" aria-haspopup="dialog"
                     aria-label="Ver vídeo ${i + 1} de ${vids.length}">
                 <span class="story-ring__ring"><span class="story-ring__thumb">
-                    <video class="story-ring__vid" src="${esc(v)}#t=0.5" muted playsinline
+                    <video class="story-ring__vid" src="${esc(ImageLoader.assetUrl(v))}#t=0.5" muted playsinline
                            preload="metadata" tabindex="-1"></video>
                     <span class="story-ring__play" aria-hidden="true">&#9658;</span>
                 </span></span>
@@ -767,7 +767,7 @@ const Catalog = (() => {
         const bars = vids.map(() => `<span class="stories__bar"><i></i></span>`).join("");
         const slides = vids.map((v, i) =>
             `<video class="stories__video${i === 0 ? " is-active" : ""}" data-i="${i}" `
-            + `src="${esc(v)}" muted playsinline preload="none"></video>`
+            + `src="${esc(ImageLoader.assetUrl(v))}" muted playsinline preload="none"></video>`
         ).join("");
         return `
             <div class="stories" data-count="${vids.length}">
