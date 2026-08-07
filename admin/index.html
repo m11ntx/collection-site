@@ -307,10 +307,13 @@
     return true;
   }
 
-  function recency(p){ return p.addedAt || p.createdAt || p.updatedAt || ""; }  // ISO -> compara lexicograficamente
+  // MESMA ordenação da página de catálogo (catalog.js productSort): addedAt mais
+  // novo primeiro; empate/sem addedAt -> season decrescente.
+  function seasonSortKey(s){ const m=String(s==null?"":s).match(/(\d{2,4})/); if(!m) return -Infinity; let y=parseInt(m[1],10); if(m[1].length===2) y+= y<=30?2000:1900; return y; }
+  function addedAtKey(p){ const t=p&&p.addedAt?Date.parse(p.addedAt):NaN; return isNaN(t)?0:t; }
+  function productSort(a,b){ const aa=addedAtKey(a),ba=addedAtKey(b); if(aa!==ba) return ba-aa; return seasonSortKey(b.season)-seasonSortKey(a.season); }
   function renderList(){
-    const all = PRODUCTS.filter(matches)
-      .sort((a,b) => recency(b).localeCompare(recency(a)));   // mais novo -> mais antigo
+    const all = PRODUCTS.filter(matches).sort(productSort);
     $("count").textContent = `${all.length} produto(s)`;
     $("prodList").innerHTML = all.slice(0,300).map(p =>
       `<div class="prod${current&&current.id===p.id?" active":""}" data-id="${esc(p.id)}">
