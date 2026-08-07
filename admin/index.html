@@ -346,6 +346,7 @@
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
       hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
+      primary_image: o.primary_image || (((current.images||[]).find(x=>x.primary)||(current.images||[])[0]||{}).url || ""),
     };
     renderEditor();
   }
@@ -368,21 +369,25 @@
 
   function renderEditor(){
     flagPills();
-    // catalog photos (source) -- can hide
+    // catalog photos (source) -- ocultar + escolher a principal (★)
     const imgs = Array.isArray(current.images)?current.images:[];
     $("curImages").innerHTML = imgs.map(im => {
-      const hidden = draft.hidden_images.includes(im.url);
+      const hidden = draft.hidden_images.includes(im.url), isP = draft.primary_image===im.url && !hidden;
       return thumb(`<img src="${esc(mediaUrl(im.url))}" loading="lazy" alt="">`,
-        im.primary?"principal":"", { dim:hidden, badge:im.primary?"principal":"",
-          x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"} });
+        hidden?"oculta":(isP?"principal":""),
+        { dim:hidden, badge: isP?"★ principal":"",
+          x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"},
+          right: hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(im.url)}" title="Foto principal (capa do card)">${isP?"★ principal":"☆ usar"}</button>` });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
-    // extra images -- OCULTAR (some do site, fica no admin), igual às fotos da fonte
+    // extra images -- ocultar + também podem ser a principal
     $("extraImages").innerHTML = draft.extra_images.map(u => {
-      const h = draft.hidden_media.has(u);
+      const h = draft.hidden_media.has(u), isP = draft.primary_image===u && !h;
       return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
-        h?"oculta":"extra",
-        { dim:h, x:{act:"toggleHide", v:u, title: h?"mostrar":"ocultar"} });
+        h?"oculta":(isP?"principal":"extra"),
+        { dim:h, badge: isP?"★ principal":"",
+          x:{act:"toggleHide", v:u, title: h?"mostrar":"ocultar"},
+          right: h?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto principal (capa do card)">${isP?"★ principal":"☆ usar"}</button>` });
     }).join("") || `<span class="muted">Nenhuma.</span>`;
 
     // videos -- OCULTAR (fica visível/recuperável, some só do site) + botão "★ catálogo"
@@ -422,6 +427,7 @@
   });
 
   $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
+  document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-setprimary]"); if(b && draft){ draft.primary_image=b.dataset.setprimary; renderEditor(); }});
 
   // upload
   $("uploadBtn").addEventListener("click", async ()=>{
@@ -457,16 +463,24 @@
     let catalog = (draft.catalog_video && !draft.hidden_media.has(draft.catalog_video))
       ? draft.catalog_video
       : (draft.videos.find(v=>!draft.hidden_media.has(v)) || null);   // 1o vídeo visível
+    // principal: se estiver oculta/vazia, re-escolhe a 1a foto visível
+    const isHidden = (u)=> draft.hidden_images.includes(u) || draft.hidden_media.has(u);
+    let primary = draft.primary_image;
+    if(!primary || isHidden(primary)){
+      const all = (current.images||[]).map(im=>im.url).concat(draft.extra_images);
+      primary = all.find(u=>!isHidden(u)) || null;
+    }
     const row = { id:current.id, name:current.name||current.id,
       hidden_images:draft.hidden_images, extra_images:draft.extra_images,
       videos:draft.videos, catalog_video:catalog, hidden_media:hidden,
+      primary_image:primary,
       price_override:draft.price_override, promotion:draft.promotion,
       available_override:draft.available_override };
     const { error }=await sb.from("product_overrides").upsert(row);
     $("saveBtn").disabled=false;
     if(error){ $("saveMsg").className="err"; $("saveMsg").textContent=error.message; }
     else {
-      OVER[current.id]=row; draft.catalog_video=catalog||"";
+      OVER[current.id]=row; draft.catalog_video=catalog||""; draft.primary_image=primary||"";
       $("saveMsg").className="ok"; $("saveMsg").textContent="Salvo ✓"; toast("Alterações salvas.",true);
       flagPills(); renderEditor(); renderList();
     }
