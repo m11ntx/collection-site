@@ -254,7 +254,13 @@
         <div class="section">
           <h3>Produtos da campanha (<span id="cCount">0</span>)</h3>
           <p class="muted" style="margin-top:0;font-size:.82rem">Um produto só pode estar em <b>uma</b> promoção. Produtos que já têm promoção própria ou já estão em outra campanha não podem ser adicionados (evita desconto duplo).</p>
-          <input id="cSearch" type="search" placeholder="Buscar produto para adicionar…" style="max-width:420px">
+          <div class="row" style="gap:.4rem;margin:.3rem 0 .6rem">
+            <select id="scCollection" style="max-width:170px"><option value="">Coleção…</option></select>
+            <select id="scLeague" style="max-width:170px"><option value="">Liga…</option></select>
+            <select id="scClub" style="max-width:170px"><option value="">Clube…</option></select>
+            <button id="scAdd">+ Adicionar todos os livres do escopo</button>
+          </div>
+          <input id="cSearch" type="search" placeholder="Ou buscar produto avulso…" style="max-width:420px">
           <div id="cResults" class="camp-list"></div>
           <h4 style="margin:.8rem 0 .3rem">Nesta campanha</h4>
           <div id="cProducts" class="camp-list"></div>
@@ -342,9 +348,15 @@
     fill("fCollection","Coleção", uniq("collectionId"));
     fill("fLeague","Liga", uniq("leagueId"));
     fill("fClub","Clube", uniq("clubId"));
+    fillScope("scCollection","Coleção", uniq("collectionId"));
+    fillScope("scLeague","Liga", uniq("leagueId"));
+    fillScope("scClub","Clube", uniq("clubId"));
   }
   function fill(id,label,vals){
     $(id).innerHTML = `<option value="">${label}: todas</option>` + vals.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
+  }
+  function fillScope(id,label,vals){
+    $(id).innerHTML = `<option value="">${label}…</option>` + vals.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
   }
   ["search","fCollection","fLeague","fClub","fFlag"].forEach(id => $(id).addEventListener("input", renderList));
 
@@ -409,6 +421,7 @@
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
       hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
       primary_image: o.primary_image || (((current.images||[]).find(x=>x.primary)||(current.images||[])[0]||{}).url || ""),
+      image_order: (o.image_order && o.image_order.length ? o.image_order.slice() : (current.images||[]).map(im=>im.url)),
     };
     renderEditor();
   }
@@ -432,14 +445,20 @@
   function renderEditor(){
     flagPills();
     // catalog photos (source) -- ocultar + escolher a principal (★)
-    const imgs = Array.isArray(current.images)?current.images:[];
-    $("curImages").innerHTML = imgs.map(im => {
-      const hidden = draft.hidden_images.includes(im.url), isP = draft.primary_image===im.url && !hidden;
-      return thumb(`<img src="${esc(mediaUrl(im.url))}" loading="lazy" alt="">`,
+    const byUrl = {}; (current.images||[]).forEach(im=>{ byUrl[im.url]=im; });
+    // ordem = draft.image_order (válidas) + quaisquer fotos novas no fim
+    const order = draft.image_order.filter(u=>byUrl[u]);
+    (current.images||[]).forEach(im=>{ if(order.indexOf(im.url)===-1) order.push(im.url); });
+    draft.image_order = order;                       // canoniza
+    $("curImages").innerHTML = order.map((u,idx) => {
+      const hidden=draft.hidden_images.includes(u), isP=draft.primary_image===u && !hidden;
+      const moves = `<button class="setcat" data-move="up" data-url="${esc(u)}" title="mover p/ antes"${idx===0?" disabled":""}>‹</button> `+
+                    `<button class="setcat" data-move="down" data-url="${esc(u)}" title="mover p/ depois"${idx===order.length-1?" disabled":""}>›</button>`;
+      return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
         hidden?"oculta":(isP?"principal":""),
         { dim:hidden, badge: isP?"★ principal":"",
-          x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"},
-          right: hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(im.url)}" title="Foto principal (capa do card)">${isP?"★ principal":"☆ usar"}</button>` });
+          x:{act:hidden?"unhide":"hide", v:u, title:hidden?"mostrar":"ocultar"},
+          right: (hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto principal (capa)">${isP?"★":"☆"}</button> `)+moves });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
     // extra images -- ocultar + também podem ser a principal
@@ -490,6 +509,10 @@
 
   $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
   document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-setprimary]"); if(b && draft){ draft.primary_image=b.dataset.setprimary; renderEditor(); }});
+  document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-move]"); if(!b||!draft) return;
+    const u=b.dataset.url, dir=b.dataset.move==="up"?-1:1, a=draft.image_order, i=a.indexOf(u), j=i+dir;
+    if(i<0||j<0||j>=a.length) return; [a[i],a[j]]=[a[j],a[i]]; renderEditor();
+  });
 
   // upload
   $("uploadBtn").addEventListener("click", async ()=>{
@@ -535,7 +558,7 @@
     const row = { id:current.id, name:current.name||current.id,
       hidden_images:draft.hidden_images, extra_images:draft.extra_images,
       videos:draft.videos, catalog_video:catalog, hidden_media:hidden,
-      primary_image:primary,
+      primary_image:primary, image_order:draft.image_order,
       price_override:draft.price_override, promotion:draft.promotion,
       available_override:draft.available_override };
     const { error }=await sb.from("product_overrides").upsert(row);
@@ -644,6 +667,23 @@
     if(block){ toast("Não dá pra adicionar: "+block); return; }
     if(!cDraft.product_ids.includes(pid)) cDraft.product_ids.push(pid);
     renderCampProducts(); $("cSearch").dispatchEvent(new Event("input"));
+  });
+
+  // escopo em massa: adiciona todos os produtos livres de um clube/liga/coleção
+  $("scAdd").addEventListener("click", ()=>{
+    if(!cDraft) return;
+    const col=$("scCollection").value, lg=$("scLeague").value, cl=$("scClub").value;
+    if(!col && !lg && !cl){ toast("Escolha ao menos um escopo (coleção/liga/clube)."); return; }
+    const inScope = PRODUCTS.filter(p =>
+      (!col||p.collectionId===col) && (!lg||p.leagueId===lg) && (!cl||p.clubId===cl));
+    let added=0, skipped=0;
+    inScope.forEach(p=>{
+      if(cDraft.product_ids.includes(p.id)) return;
+      if(promoBlock(p.id, cDraft.id)){ skipped++; return; }
+      cDraft.product_ids.push(p.id); added++;
+    });
+    renderCampProducts();
+    toast(`Adicionados ${added}${skipped?` · ${skipped} ignorados (já em promoção)`:""}.`, added>0);
   });
 
   function collectCamp(){
