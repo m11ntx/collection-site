@@ -525,13 +525,14 @@ const Catalog = (() => {
         return p.video ? [p.video] : [];
     }
 
-    // Which video plays on a listing card: the operator's chosen catalogVideo
-    // when it's one of the product's videos, otherwise the first. With a single
-    // video the choice is moot; with several it decides the card's preview.
+    // Which video plays on a listing card: ONLY the operator's chosen
+    // catalogVideo (when it's one of the product's videos). No default -- a
+    // product can have videos as stories with NO card video (card shows the
+    // image). The pipeline sets catalogVideo when a card video is intended.
     function catalogVideo(p) {
         const vids = productVideos(p);
         if (!vids.length) return "";
-        return vids.indexOf(p && p.catalogVideo) !== -1 ? p.catalogVideo : vids[0];
+        return vids.indexOf(p && p.catalogVideo) !== -1 ? p.catalogVideo : "";
     }
 
     function jerseyMedia(p) {

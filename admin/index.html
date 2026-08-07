@@ -95,9 +95,12 @@
   .thumb:hover{ transform:translateY(-2px); box-shadow:var(--shadow); border-color:var(--gold-dim); }
   .thumb img,.thumb video{ width:100%; height:132px; object-fit:cover; display:block; }
   .thumb.dim{ opacity:.4; filter:grayscale(.4); }
-  .thumb .cap{ font-size:.68rem; padding:.35rem .45rem; color:var(--mut); display:flex; justify-content:space-between; align-items:center; gap:.3rem; background:var(--panel2); flex-wrap:wrap; }
+  .thumb .cap{ font-size:.68rem; padding:.4rem .45rem; color:var(--mut); display:flex; flex-direction:column; align-items:flex-start; gap:.35rem; background:var(--panel2); }
+  .cap-label{ max-width:100%; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  .cap-actions{ display:flex; align-items:center; gap:.25rem; }
   .thumb .badge{ position:absolute; top:7px; left:7px; background:linear-gradient(180deg,var(--gold),var(--gold-dim)); color:#17130c; font-size:.6rem; font-weight:800; padding:.12rem .45rem; border-radius:6px; letter-spacing:.02em; }
-  .thumb .x{ position:absolute; top:6px; right:6px; width:23px; height:23px; border-radius:50%; background:rgba(0,0,0,.55); backdrop-filter:blur(2px); border:0; color:#fff; line-height:1; padding:0; font-size:15px; opacity:0; transition:opacity .12s; }
+  .thumb .x{ position:absolute; top:6px; right:6px; width:24px; height:24px; border-radius:50%; background:rgba(0,0,0,.55); backdrop-filter:blur(2px); border:0; color:#fff; padding:0; display:grid; place-items:center; opacity:0; transition:opacity .12s; }
+  .thumb .x .lucide{ width:14px; height:14px; }
   .thumb .del{ position:absolute; top:6px; right:33px; width:23px; height:23px; border-radius:50%; background:rgba(0,0,0,.55); backdrop-filter:blur(2px); border:0; color:#ff9b9b; line-height:1; padding:0; display:grid; place-items:center; opacity:0; transition:opacity .12s; }
   .thumb .del:hover{ color:#ff6b6b; }
   .thumb:hover .x, .thumb:hover .del{ opacity:1; }
@@ -535,7 +538,7 @@
       hidden_images: (o.hidden_images||[]).slice(),
       extra_images: (o.extra_images||[]).slice(),
       videos: (o.videos&&o.videos.length? o.videos : sourceVideos(current)).slice(),
-      catalog_video: o.catalog_video || current.catalogVideo || (sourceVideos(current)[0]||""),
+      catalog_video: OVER[id] ? (o.catalog_video||"") : (current.catalogVideo || sourceVideos(current)[0] || ""),
       price_override: o.price_override || null,
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
@@ -562,7 +565,7 @@
       `${o.badge?`<span class="badge">${esc(o.badge)}</span>`:""}`+
       `${o.x?`<button class="x" data-act="${esc(o.x.act)}" data-v="${esc(o.x.v)}" title="${esc(o.x.act==="unhide"?"mostrar":"ocultar")}"><i data-lucide="${o.x.act==="unhide"?"eye":"eye-off"}"></i></button>`:""}`+
       `${o.del?`<button class="del" data-del="${esc(o.del)}" title="Excluir (permanente)"><i data-lucide="trash-2"></i></button>`:""}`+
-      `${inner}<div class="cap"><span>${esc(capLeft||"")}</span>${o.right||""}</div></div>`;
+      `${inner}<div class="cap"><span class="cap-label">${esc(capLeft||"")}</span>${o.right?`<div class="cap-actions">${o.right}</div>`:""}</div></div>`;
   }
   function arrowBtns(u, kind, idx, len){
     return `<button class="setcat" data-move="up" data-kind="${kind}" data-url="${esc(u)}" title="antes"${idx===0?" disabled":""}><i data-lucide="chevron-left"></i></button> `+
@@ -685,7 +688,7 @@
     toast("Arquivo excluído. Salve para aplicar no site.", true); renderEditor();
   });
 
-  $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
+  $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video = (draft.catalog_video===b.dataset.setcat) ? "" : b.dataset.setcat; renderEditor(); }});
   document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-setprimary]"); if(b && draft){ draft.primary_image=b.dataset.setprimary; renderEditor(); }});
   document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-move]"); if(!b||!draft) return;
     const u=b.dataset.url, dir=b.dataset.move==="up"?-1:1;
@@ -738,9 +741,9 @@
     // Mídia NUNCA é deletada: mantém as listas completas e guarda o que está
     // OCULTO (hidden_media). O ocultado some do site mas continua no admin.
     const hidden = Array.from(draft.hidden_media);
-    let catalog = (draft.catalog_video && !draft.hidden_media.has(draft.catalog_video))
-      ? draft.catalog_video
-      : (draft.videos.find(v=>!draft.hidden_media.has(v)) || null);   // 1o vídeo visível
+    // vídeo do card: respeita a escolha (pode ser NENHUM); só invalida se oculto/ausente
+    const catalog = (draft.catalog_video && draft.videos.includes(draft.catalog_video)
+                     && !draft.hidden_media.has(draft.catalog_video)) ? draft.catalog_video : null;
     // principal: se estiver oculta/vazia, re-escolhe a 1a foto visível
     const isHidden = (u)=> draft.hidden_images.includes(u) || draft.hidden_media.has(u);
     let primary = draft.primary_image;
