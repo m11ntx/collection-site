@@ -54,6 +54,8 @@
   .thumb .badge{ position:absolute; top:6px; left:6px; background:var(--gold); color:#141414; font-size:.62rem; font-weight:700; padding:.1rem .4rem; border-radius:5px; }
   .thumb .x{ position:absolute; top:5px; right:5px; width:22px; height:22px; border-radius:50%; background:rgba(0,0,0,.6); border:0; color:#fff; line-height:1; padding:0; font-size:15px; }
   .thumb .radio{ transform:scale(1.1); }
+  .setcat{ font-size:.68rem; padding:.15rem .45rem; border-radius:6px; border:1px solid var(--line); background:transparent; color:var(--mut); cursor:pointer; }
+  .setcat.is-on{ background:var(--gold); color:#141414; border-color:var(--gold); font-weight:700; }
   .drop{ border:1px dashed var(--line); border-radius:10px; padding:1rem; }
   .row{ display:flex; gap:.6rem; align-items:center; flex-wrap:wrap; }
   .cols{ display:grid; grid-template-columns:repeat(3,1fr); gap:.7rem; max-width:520px; }
@@ -150,7 +152,8 @@
           <h3>Fotos extras</h3>
           <div class="grid" id="extraImages"></div>
 
-          <h3>Vídeos <span class="pill">marque o do catálogo</span></h3>
+          <h3>Vídeos <span class="pill">★ = toca no card do catálogo</span></h3>
+          <p class="muted" style="margin-top:0;font-size:.82rem">Clique em <b>☆ usar</b> no vídeo que deve tocar no <b>card do catálogo</b> (fica ★). <b>Todos</b> os vídeos aparecem como stories na página do produto.</p>
           <div class="grid" id="videos"></div>
 
           <div class="drop">
@@ -368,14 +371,14 @@
         { dim:rm, x:{act:"toggleImg", v:u, title: rm?"manter":"remover"} });
     }).join("") || `<span class="muted">Nenhuma.</span>`;
 
-    // videos -- radio (catálogo) + toggle remover (mesma lógica das fotos)
+    // videos -- botão "★ catálogo" (qual toca no card) + toggle remover
     $("videos").innerHTML = draft.videos.map((v,i) => {
-      const rm = draft.removed.has(v);
+      const rm = draft.removed.has(v), isCat = draft.catalog_video===v && !rm;
       return thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
         rm?"marcado p/ remover":("Vídeo "+(i+1)),
-        { dim:rm, badge: (draft.catalog_video===v && !rm)?"catálogo":"",
+        { dim:rm, badge: isCat?"▶ catálogo":"",
           x:{act:"toggleVid", v:v, title: rm?"manter":"remover"},
-          right: rm?"":`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">` });
+          right: rm?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Este vídeo toca no card do catálogo">${isCat?"★ catálogo":"☆ usar"}</button>` });
     }).join("") || `<span class="muted">Nenhum vídeo.</span>`;
 
     // price
@@ -407,7 +410,7 @@
   });
   async function removeStorage(key){ if(key && key.indexOf("assets/")!==0 && !/^https?:/.test(key)){ try{ await sb.storage.from(BUCKET).remove([key]); }catch(_){} } }
 
-  $("videos").addEventListener("change", (e)=>{ const r=e.target.closest('input[name="catvid"]'); if(r){ draft.catalog_video=r.dataset.v; renderEditor(); }});
+  $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
 
   // upload
   $("uploadBtn").addEventListener("click", async ()=>{
