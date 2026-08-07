@@ -62,6 +62,12 @@
   .save-bar{ position:sticky; bottom:0; background:linear-gradient(transparent,var(--bg) 30%); padding-top:1rem; margin-top:1.2rem; }
   .toast{ position:fixed; bottom:16px; right:16px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:.7rem 1rem; z-index:20; max-width:380px; }
   .pill{ font-size:.7rem; padding:.15rem .5rem; border:1px solid var(--line); border-radius:20px; color:var(--mut); }
+  .is-view{ color:var(--txt); border-color:var(--gold); }
+  .camp-list{ display:flex; flex-direction:column; gap:.35rem; margin:.4rem 0; }
+  .camp-row{ display:flex; align-items:center; gap:.5rem; padding:.4rem .55rem; border:1px solid var(--line); border-radius:8px; font-size:.85rem; }
+  .camp-row .nm{ flex:1; } .camp-row.blocked{ opacity:.6; }
+  .camp-item{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; }
+  .camp-item:hover{ background:var(--panel2); } .camp-item.active{ background:var(--panel2); border-color:var(--gold); }
 
   /* ---- mobile ---- */
   @media (max-width: 820px){
@@ -99,13 +105,15 @@
 
 <div id="app" class="hidden">
   <header class="bar">
-    <span class="brand">M11NTX</span><span class="muted">Admin</span>
+    <span class="brand">M11NTX</span>
+    <button id="viewProducts" class="ghost is-view">Produtos</button>
+    <button id="viewCampaigns" class="ghost">Campanhas</button>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
     <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site">Publicar agora</button>
     <button id="logout" class="ghost">Sair</button>
   </header>
-  <main>
+  <main id="productsMain">
     <aside class="list">
       <div class="filters">
         <input id="search" type="search" placeholder="Buscar (nome, clube, id)…">
@@ -212,6 +220,45 @@
           <button class="primary" id="saveBtn">Salvar alterações</button>
           <button class="ghost danger" id="resetBtn">Descartar tudo deste produto</button>
           <span id="saveMsg"></span>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== CAMPANHAS ===== -->
+  <main id="campaignsMain" class="hidden">
+    <aside class="list">
+      <button class="primary" id="newCampaign" style="width:100%;margin-bottom:.6rem">+ Nova campanha</button>
+      <div id="campList"></div>
+    </aside>
+    <section class="editor">
+      <div id="campEmpty" class="muted">Selecione ou crie uma campanha.</div>
+      <div id="campDetail" class="hidden">
+        <div class="cols" style="grid-template-columns:1fr 1fr">
+          <label class="fld">Nome da campanha<input id="cName" placeholder="ex.: Semana do Torcedor"></label>
+          <label class="fld">Rótulo/selo (no site)<input id="cLabel" placeholder="ex.: -20%"></label>
+          <label class="fld">Tipo
+            <select id="cType"><option value="percent">Desconto (%)</option><option value="price">Preço promocional (BRL)</option></select>
+          </label>
+          <label class="fld">Valor<input id="cValue" type="number" step="0.01" placeholder="ex.: 20"></label>
+          <label class="fld">Início<input id="cStart" type="date"></label>
+          <label class="fld">Fim<input id="cEnd" type="date"></label>
+        </div>
+        <label class="row" style="gap:.5rem;margin:.7rem 0"><input type="checkbox" id="cActive" style="width:auto"> <span>Campanha ativa</span></label>
+
+        <div class="section">
+          <h3>Produtos da campanha (<span id="cCount">0</span>)</h3>
+          <p class="muted" style="margin-top:0;font-size:.82rem">Um produto só pode estar em <b>uma</b> promoção. Produtos que já têm promoção própria ou já estão em outra campanha não podem ser adicionados (evita desconto duplo).</p>
+          <input id="cSearch" type="search" placeholder="Buscar produto para adicionar…" style="max-width:420px">
+          <div id="cResults" class="camp-list"></div>
+          <h4 style="margin:.8rem 0 .3rem">Nesta campanha</h4>
+          <div id="cProducts" class="camp-list"></div>
+        </div>
+
+        <div class="save-bar row">
+          <button class="primary" id="cSave">Salvar campanha</button>
+          <button class="ghost danger" id="cDelete">Excluir campanha</button>
+          <span id="cMsg"></span>
         </div>
       </div>
     </section>
@@ -493,6 +540,127 @@
     const { error }=await sb.from("product_overrides").delete().eq("id",current.id);
     if(error){ toast(error.message); return; }
     delete OVER[current.id]; toast("Alterações removidas.",true); select(current.id); renderList();
+  });
+
+  // ===================== CAMPANHAS (promoção com escopo) =====================
+  let CAMPAIGNS = [], curCamp = null, cDraft = null;
+
+  function setView(v){
+    const prod = v !== "campaigns";
+    $("productsMain").classList.toggle("hidden", !prod);
+    $("campaignsMain").classList.toggle("hidden", prod);
+    $("viewProducts").classList.toggle("is-view", prod);
+    $("viewCampaigns").classList.toggle("is-view", !prod);
+    if(!prod) loadCampaigns();
+  }
+  $("viewProducts").addEventListener("click", ()=>setView("products"));
+  $("viewCampaigns").addEventListener("click", ()=>setView("campaigns"));
+
+  async function loadCampaigns(){
+    const { data, error } = await sb.from("campaigns").select("*");
+    if(error){ toast("Erro ao carregar campanhas (rodou o SQL da tabela?): "+error.message); return; }
+    CAMPAIGNS = data || []; renderCampList();
+  }
+  function prodName(id){ const p=PRODUCTS.find(x=>x.id===id); return p ? (p.name||id) : id; }
+
+  // Por que um produto NÃO pode entrar na campanha (null = livre). Garante que
+  // um produto fique em UMA só promoção -> nunca acumula desconto.
+  function promoBlock(pid, exceptId){
+    const o = OVER[pid];
+    if(o && o.promotion && o.promotion.active) return "tem promoção própria";
+    for(const c of CAMPAIGNS){
+      if(c.id===exceptId) continue;
+      if((c.product_ids||[]).includes(pid)) return "já na campanha “"+(c.name||"")+"”";
+    }
+    return null;
+  }
+
+  function renderCampList(){
+    $("campList").innerHTML = CAMPAIGNS.map(c =>
+      `<div class="camp-item${curCamp&&curCamp.id===c.id?" active":""}" data-cid="${esc(c.id)}">
+         ${esc(c.name||"(sem nome)")}
+         <small style="display:block;color:var(--mut)">${c.active?"ativa":"inativa"} · ${(c.product_ids||[]).length} produto(s)${c.type==="percent"&&c.value?" · "+c.value+"%":""}</small>
+       </div>`).join("") || `<div class="muted">Nenhuma campanha ainda.</div>`;
+  }
+  $("campList").addEventListener("click",(e)=>{ const el=e.target.closest("[data-cid]"); if(el) selectCampaign(el.dataset.cid); });
+
+  function editorFromDraft(){
+    $("campEmpty").classList.add("hidden"); $("campDetail").classList.remove("hidden");
+    $("cName").value=cDraft.name||""; $("cLabel").value=cDraft.label||"";
+    $("cType").value=cDraft.type||"percent"; $("cValue").value=cDraft.value??"";
+    $("cStart").value=cDraft.starts_at||""; $("cEnd").value=cDraft.ends_at||"";
+    $("cActive").checked=cDraft.active!==false;
+    renderCampProducts(); $("cResults").innerHTML=""; $("cSearch").value="";
+  }
+  function selectCampaign(id){
+    curCamp = CAMPAIGNS.find(c=>c.id===id); if(!curCamp) return;
+    cDraft = { id:curCamp.id, name:curCamp.name, label:curCamp.label, type:curCamp.type||"percent",
+               value:curCamp.value, starts_at:curCamp.starts_at, ends_at:curCamp.ends_at,
+               active:curCamp.active, product_ids:(curCamp.product_ids||[]).slice() };
+    renderCampList(); editorFromDraft();
+  }
+  $("newCampaign").addEventListener("click", ()=>{
+    curCamp=null; cDraft={ name:"", label:"", type:"percent", value:null, starts_at:"", ends_at:"", active:true, product_ids:[] };
+    renderCampList(); editorFromDraft();
+  });
+
+  function renderCampProducts(){
+    $("cCount").textContent = cDraft.product_ids.length;
+    $("cProducts").innerHTML = cDraft.product_ids.map(pid =>
+      `<div class="camp-row"><span class="nm">${esc(prodName(pid))}<small style="display:block;color:var(--mut)">${esc(pid)}</small></span>
+         <button class="ghost danger" data-rm="${esc(pid)}">remover</button></div>`).join("")
+      || `<div class="muted">Nenhum produto ainda.</div>`;
+  }
+  $("cProducts").addEventListener("click",(e)=>{ const b=e.target.closest("[data-rm]"); if(b){ cDraft.product_ids=cDraft.product_ids.filter(x=>x!==b.dataset.rm); renderCampProducts(); }});
+
+  $("cSearch").addEventListener("input",(e)=>{
+    const q=e.target.value.trim().toLowerCase();
+    if(!q){ $("cResults").innerHTML=""; return; }
+    const hits = PRODUCTS.filter(p => (p.name||"").toLowerCase().includes(q)||(p.clubId||"").toLowerCase().includes(q)||(p.id||"").toLowerCase().includes(q)).slice(0,25);
+    $("cResults").innerHTML = hits.map(p=>{
+      if(cDraft.product_ids.includes(p.id)) return `<div class="camp-row blocked"><span class="nm">${esc(p.name||p.id)}</span><small class="muted">já nesta campanha</small></div>`;
+      const block = promoBlock(p.id, cDraft.id);
+      return `<div class="camp-row${block?" blocked":""}"><span class="nm">${esc(p.name||p.id)}<small style="display:block;color:var(--mut)">${esc(p.clubId||"")} · ${esc(p.season||"")}</small></span>`+
+        (block ? `<small class="err">${esc(block)}</small>` : `<button data-add="${esc(p.id)}">adicionar</button>`)+`</div>`;
+    }).join("") || `<div class="muted">Nada encontrado.</div>`;
+  });
+  $("cResults").addEventListener("click",(e)=>{
+    const b=e.target.closest("[data-add]"); if(!b) return;
+    const pid=b.dataset.add, block=promoBlock(pid, cDraft.id);
+    if(block){ toast("Não dá pra adicionar: "+block); return; }
+    if(!cDraft.product_ids.includes(pid)) cDraft.product_ids.push(pid);
+    renderCampProducts(); $("cSearch").dispatchEvent(new Event("input"));
+  });
+
+  function collectCamp(){
+    const num=v=>v===""||v==null?null:Number(v);
+    cDraft.name=$("cName").value.trim(); cDraft.label=$("cLabel").value.trim()||null;
+    cDraft.type=$("cType").value; cDraft.value=num($("cValue").value);
+    cDraft.starts_at=$("cStart").value||null; cDraft.ends_at=$("cEnd").value||null;
+    cDraft.active=$("cActive").checked;
+  }
+  $("cSave").addEventListener("click", async ()=>{
+    if(!cDraft) return; collectCamp();
+    if(!cDraft.name){ toast("Dê um nome à campanha."); return; }
+    $("cSave").disabled=true; $("cMsg").textContent="";
+    const row={ name:cDraft.name, label:cDraft.label, type:cDraft.type, value:cDraft.value,
+                starts_at:cDraft.starts_at, ends_at:cDraft.ends_at, active:cDraft.active,
+                product_ids:cDraft.product_ids };
+    if(cDraft.id) row.id=cDraft.id;
+    const { data, error }=await sb.from("campaigns").upsert(row).select().single();
+    $("cSave").disabled=false;
+    if(error){ $("cMsg").className="err"; $("cMsg").textContent=error.message; return; }
+    $("cMsg").className="ok"; $("cMsg").textContent="Salvo ✓"; toast("Campanha salva.",true);
+    await loadCampaigns(); if(data) selectCampaign(data.id);
+  });
+  $("cDelete").addEventListener("click", async ()=>{
+    if(!cDraft || !cDraft.id){ curCamp=null; cDraft=null; $("campDetail").classList.add("hidden"); $("campEmpty").classList.remove("hidden"); return; }
+    if(!confirm("Excluir esta campanha?")) return;
+    const { error }=await sb.from("campaigns").delete().eq("id",cDraft.id);
+    if(error){ toast(error.message); return; }
+    toast("Campanha excluída.",true); curCamp=null; cDraft=null;
+    $("campDetail").classList.add("hidden"); $("campEmpty").classList.remove("hidden");
+    await loadCampaigns();
   });
 })();
 </script>

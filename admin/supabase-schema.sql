@@ -82,6 +82,32 @@ create policy "authenticated modify"
     on storage.objects for update
     to authenticated using (bucket_id = 'product-media');
 
+-- 4) Campanhas de promoção (uma promo + a lista de produtos que participam) ---
+create table if not exists public.campaigns (
+    id           uuid primary key default gen_random_uuid(),
+    name         text not null,
+    label        text,
+    type         text not null default 'percent',   -- 'percent' | 'price'
+    value        numeric,
+    starts_at    date,
+    ends_at      date,
+    active       boolean not null default true,
+    product_ids  jsonb   not null default '[]'::jsonb,
+    updated_at   timestamptz not null default now(),
+    updated_by   uuid references auth.users(id)
+);
+
+drop trigger if exists trg_campaigns_touch on public.campaigns;
+create trigger trg_campaigns_touch
+    before insert or update on public.campaigns
+    for each row execute function public.touch_updated_at();
+
+alter table public.campaigns enable row level security;
+drop policy if exists "authenticated read camp"  on public.campaigns;
+drop policy if exists "authenticated write camp" on public.campaigns;
+create policy "authenticated read camp"  on public.campaigns for select to authenticated using (true);
+create policy "authenticated write camp" on public.campaigns for all    to authenticated using (true) with check (true);
+
 -- ============================================================================
 -- Pronto. Depois disto:
 --   1. Authentication -> Users -> Add user: crie SEU login (email + senha).
