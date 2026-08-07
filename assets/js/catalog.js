@@ -566,13 +566,12 @@ const Catalog = (() => {
         const text = CurrencyService.formattedPriceFor(p);
         if (!text) return "";
         // de/por: when an operator override/promotion lowered the price, strike
-        // the original and (if promoting) show the promo label.
+        // the original. The promo LABEL is shown as a badge over the card image
+        // (jersey-card__promo), like the "Novo" badge -- not next to the price.
         const was = CurrencyService.compareAtFormattedFor(p);
-        const label = p && p.promotion && p.promotion.label;
-        const badge = label ? `<span class="price-badge">${esc(label)}</span>` : "";
         const old = was ? `<span class="price-was">${esc(was)}</span> ` : "";
         const cls = "jersey-card__price" + (was ? " is-promo" : "");
-        return `<p class="${cls}">${old}<span class="price-now">${esc(text)}</span>${badge}</p>`;
+        return `<p class="${cls}">${old}<span class="price-now">${esc(text)}</span></p>`;
     }
 
     // Personalization (name + number printing): a plain observation, not an
@@ -596,6 +595,7 @@ const Catalog = (() => {
             <article class="jersey-card reveal" role="listitem" data-id="${esc(p.id)}">
                 <div class="jersey-card__media">
                     <div class="jersey-card__img">${jerseyMedia(p)}</div>
+                    ${p.promotion && p.promotion.label ? `<span class="badge badge--promo jersey-card__promo">${esc(p.promotion.label)}</span>` : ""}
                     ${isNew(p) ? `<span class="badge badge--new jersey-card__new">${esc(I18N.t("jerseyCard.new"))}</span>` : ""}
                     ${p.type ? `<span class="badge jersey-card__type">${esc(I18N.fieldLabel("type", p.type))}</span>` : ""}
                 </div>

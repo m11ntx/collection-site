@@ -81,7 +81,7 @@
   .pv-card{ width:230px; border:1px solid var(--line2); border-radius:14px; overflow:hidden; background:var(--panel); box-shadow:var(--shadow); }
   .pv-media{ position:relative; aspect-ratio:1/1; background:#fff; }
   .pv-media img,.pv-media video{ width:100%; height:100%; object-fit:cover; display:block; }
-  .pv-badge{ position:absolute; top:8px; left:8px; background:linear-gradient(180deg,var(--gold),var(--gold-dim)); color:#17130c; font-size:.64rem; font-weight:800; padding:.14rem .5rem; border-radius:6px; }
+  .pv-badge{ position:absolute; top:8px; left:8px; background:#e0483d; color:#fff; font-size:.64rem; font-weight:800; padding:.14rem .5rem; border-radius:6px; box-shadow:0 2px 8px rgba(224,72,61,.4); }
   .pv-body{ padding:.7rem .8rem; }
   .pv-name{ font-size:.85rem; font-weight:600; line-height:1.25; max-height:2.5em; overflow:hidden; }
   .pv-price{ margin-top:.45rem; font-weight:800; color:var(--gold); font-size:1.05rem; }
@@ -98,7 +98,10 @@
   .thumb .cap{ font-size:.68rem; padding:.35rem .45rem; color:var(--mut); display:flex; justify-content:space-between; align-items:center; gap:.3rem; background:var(--panel2); flex-wrap:wrap; }
   .thumb .badge{ position:absolute; top:7px; left:7px; background:linear-gradient(180deg,var(--gold),var(--gold-dim)); color:#17130c; font-size:.6rem; font-weight:800; padding:.12rem .45rem; border-radius:6px; letter-spacing:.02em; }
   .thumb .x{ position:absolute; top:6px; right:6px; width:23px; height:23px; border-radius:50%; background:rgba(0,0,0,.55); backdrop-filter:blur(2px); border:0; color:#fff; line-height:1; padding:0; font-size:15px; opacity:0; transition:opacity .12s; }
-  .thumb:hover .x{ opacity:1; }
+  .thumb .del{ position:absolute; top:6px; right:33px; width:23px; height:23px; border-radius:50%; background:rgba(0,0,0,.55); backdrop-filter:blur(2px); border:0; color:#ff9b9b; line-height:1; padding:0; display:grid; place-items:center; opacity:0; transition:opacity .12s; }
+  .thumb .del:hover{ color:#ff6b6b; }
+  .thumb:hover .x, .thumb:hover .del{ opacity:1; }
+  .thumb .del .lucide{ width:14px; height:14px; }
   .setcat{ font-size:.66rem; padding:.18rem .45rem; border-radius:7px; border:1px solid var(--line2); background:transparent; color:var(--mut); cursor:pointer; }
   .setcat:hover{ color:var(--txt); border-color:var(--gold-dim); }
   .setcat.is-on{ background:var(--gold); color:#17130c; border-color:var(--gold); font-weight:800; }
@@ -557,7 +560,8 @@
     o=o||{};
     return `<div class="thumb${o.dim?" dim":""}"${o.drag?` draggable="true" data-drag="${esc(o.drag)}"`:""}>`+
       `${o.badge?`<span class="badge">${esc(o.badge)}</span>`:""}`+
-      `${o.x?`<button class="x" data-act="${esc(o.x.act)}" data-v="${esc(o.x.v)}" title="${esc(o.x.title||"remover")}"><i data-lucide="${o.x.act==="unhide"?"eye":"eye-off"}"></i></button>`:""}`+
+      `${o.x?`<button class="x" data-act="${esc(o.x.act)}" data-v="${esc(o.x.v)}" title="${esc(o.x.act==="unhide"?"mostrar":"ocultar")}"><i data-lucide="${o.x.act==="unhide"?"eye":"eye-off"}"></i></button>`:""}`+
+      `${o.del?`<button class="del" data-del="${esc(o.del)}" title="Excluir (permanente)"><i data-lucide="trash-2"></i></button>`:""}`+
       `${inner}<div class="cap"><span>${esc(capLeft||"")}</span>${o.right||""}</div></div>`;
   }
   function arrowBtns(u, kind, idx, len){
@@ -580,8 +584,8 @@
       const hideAct = isSrc ? (hidden?"unhide":"hide") : "toggleHide";
       return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
         hidden?"oculta":(isP?"capa":(isSrc?"":"extra")),
-        { dim:hidden, drag:u, badge: isP?"★ capa":"",
-          x:{act:hideAct, v:u, title:hidden?"mostrar":"ocultar"},
+        { dim:hidden, drag:u, badge: isP?"★ capa":"", del: isSrc?null:u,
+          x:{act:hideAct, v:u},
           right: (hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto de capa">${isP?"★":"☆"}</button> `)+arrowBtns(u,"img",idx,order.length) });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
@@ -590,8 +594,8 @@
       const h = draft.hidden_media.has(v), isCat = draft.catalog_video===v && !h;
       return thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
         h?"oculto":("Vídeo "+(idx+1)),
-        { dim:h, drag:v, badge: isCat?"▶ catálogo":"",
-          x:{act:"toggleHide", v:v, title: h?"mostrar":"ocultar"},
+        { dim:h, drag:v, badge: isCat?"▶ catálogo":"", del:v,
+          x:{act:"toggleHide", v:v},
           right: (h?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Toca no card do catálogo">${isCat?"★":"☆"}</button> `)+arrowBtns(v,"vid",idx,draft.videos.length) });
     }).join("") || `<span class="muted">Nenhum vídeo.</span>`;
 
@@ -662,6 +666,23 @@
     else if(act==="unhide"){ draft.hidden_images = draft.hidden_images.filter(x=>x!==v); }
     else if(act==="toggleHide"){ if(draft.hidden_media.has(v)) draft.hidden_media.delete(v); else draft.hidden_media.add(v); }
     renderEditor();
+  });
+  // EXCLUIR (permanente) foto extra / vídeo
+  document.addEventListener("click", async (e)=>{
+    const b=e.target.closest(".thumb .del"); if(!b||!draft) return;
+    const v=b.dataset.del;
+    if(!(await confirmDialog("Excluir este arquivo permanentemente? Não dá pra desfazer.", {title:"Excluir mídia", ok:"Excluir", danger:true}))) return;
+    if(draft.videos.includes(v)){
+      draft.videos = draft.videos.filter(x=>x!==v);
+      if(draft.catalog_video===v) draft.catalog_video = draft.videos.find(x=>!draft.hidden_media.has(x))||"";
+    } else {
+      draft.extra_images = draft.extra_images.filter(x=>x!==v);
+      draft.image_order = draft.image_order.filter(x=>x!==v);
+      if(draft.primary_image===v) draft.primary_image="";
+    }
+    draft.hidden_media.delete(v);
+    if(v && v.indexOf("assets/")!==0 && !/^https?:/.test(v)){ try{ await sb.storage.from(BUCKET).remove([v]); }catch(_){} }
+    toast("Arquivo excluído. Salve para aplicar no site.", true); renderEditor();
   });
 
   $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
