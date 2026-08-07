@@ -60,6 +60,26 @@
   .save-bar{ position:sticky; bottom:0; background:linear-gradient(transparent,var(--bg) 30%); padding-top:1rem; margin-top:1.2rem; }
   .toast{ position:fixed; bottom:16px; right:16px; background:var(--panel); border:1px solid var(--line); border-radius:10px; padding:.7rem 1rem; z-index:20; max-width:380px; }
   .pill{ font-size:.7rem; padding:.15rem .5rem; border:1px solid var(--line); border-radius:20px; color:var(--mut); }
+
+  /* ---- mobile ---- */
+  @media (max-width: 820px){
+    main{ grid-template-columns:1fr; height:auto; }
+    .list{ border-right:none; border-bottom:1px solid var(--line); max-height:42vh; }
+    .editor{ padding:1rem; }
+    .filters .row2{ grid-template-columns:1fr; }
+    .cols{ grid-template-columns:1fr 1fr !important; max-width:none; }
+    header.bar{ flex-wrap:wrap; gap:.5rem; padding:.6rem .8rem; }
+    header.bar #who{ order:3; flex-basis:100%; font-size:.8rem; }
+    .tabs{ position:sticky; top:0; background:var(--bg); z-index:2; }
+    .tab{ padding:.5rem .6rem; font-size:.9rem; }
+    .thumb{ width:calc(33.33% - .5rem); }
+    .save-bar{ flex-direction:column; align-items:stretch; }
+    .save-bar button{ width:100%; }
+  }
+  @media (max-width: 460px){
+    .thumb{ width:calc(50% - .4rem); }
+    .cols{ grid-template-columns:1fr !important; }
+  }
 </style>
 </head>
 <body>
@@ -308,6 +328,7 @@
       price_override: o.price_override || null,
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
+      removed: new Set(),   // extra images / vídeos marcados p/ remover (aplica no Salvar)
     };
     renderEditor();
   }
@@ -339,18 +360,23 @@
           x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"} });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
-    // extra images -- can remove
-    $("extraImages").innerHTML = draft.extra_images.map(u =>
-      thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`, "extra",
-        { x:{act:"delImg", v:u, title:"remover"} })).join("") || `<span class="muted">Nenhuma.</span>`;
+    // extra images -- toggle "marcar p/ remover" (aplica no Salvar), como as fotos
+    $("extraImages").innerHTML = draft.extra_images.map(u => {
+      const rm = draft.removed.has(u);
+      return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
+        rm?"marcada p/ remover":"extra",
+        { dim:rm, x:{act:"toggleImg", v:u, title: rm?"manter":"remover"} });
+    }).join("") || `<span class="muted">Nenhuma.</span>`;
 
-    // videos -- radio (catalog) + remove
-    $("videos").innerHTML = draft.videos.map((v,i) =>
-      thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`, "Vídeo "+(i+1),
-        { badge: draft.catalog_video===v?"catálogo":"",
-          x:{act:"delVid", v:v, title:"remover"},
-          right:`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">` })).join("")
-      || `<span class="muted">Nenhum vídeo.</span>`;
+    // videos -- radio (catálogo) + toggle remover (mesma lógica das fotos)
+    $("videos").innerHTML = draft.videos.map((v,i) => {
+      const rm = draft.removed.has(v);
+      return thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
+        rm?"marcado p/ remover":("Vídeo "+(i+1)),
+        { dim:rm, badge: (draft.catalog_video===v && !rm)?"catálogo":"",
+          x:{act:"toggleVid", v:v, title: rm?"manter":"remover"},
+          right: rm?"":`<input class="radio" type="radio" name="catvid" ${draft.catalog_video===v?"checked":""} data-v="${esc(v)}">` });
+    }).join("") || `<span class="muted">Nenhum vídeo.</span>`;
 
     // price
     const price = current.price||{}; const fp = current.formattedPrice||{};
@@ -374,8 +400,9 @@
     const act=b.dataset.act, v=b.dataset.v;
     if(act==="hide"){ if(!draft.hidden_images.includes(v)) draft.hidden_images.push(v); }
     else if(act==="unhide"){ draft.hidden_images = draft.hidden_images.filter(x=>x!==v); }
-    else if(act==="delImg"){ draft.extra_images = draft.extra_images.filter(x=>x!==v); await removeStorage(v); }
-    else if(act==="delVid"){ draft.videos = draft.videos.filter(x=>x!==v); if(draft.catalog_video===v) draft.catalog_video = draft.videos[0]||""; await removeStorage(v); }
+    else if(act==="toggleImg" || act==="toggleVid"){    // marca/desmarca; só aplica no Salvar
+      if(draft.removed.has(v)) draft.removed.delete(v); else draft.removed.add(v);
+    }
     renderEditor();
   });
   async function removeStorage(key){ if(key && key.indexOf("assets/")!==0 && !/^https?:/.test(key)){ try{ await sb.storage.from(BUCKET).remove([key]); }catch(_){} } }
@@ -410,15 +437,27 @@
   $("saveBtn").addEventListener("click", async ()=>{
     if(!current) return; collectDraft();
     $("saveBtn").disabled=true; $("saveMsg").textContent="";
+    // aplica as remoções marcadas: tira das listas, ajusta o catalogVideo e
+    // (só aqui) apaga os arquivos do Storage.
+    const removed = draft.removed;
+    const extra = draft.extra_images.filter(u=>!removed.has(u));
+    const videos = draft.videos.filter(v=>!removed.has(v));
+    let catalog = (draft.catalog_video && !removed.has(draft.catalog_video)) ? draft.catalog_video : (videos[0]||null);
+    for(const k of removed) await removeStorage(k);
     const row = { id:current.id, name:current.name||current.id,
-      hidden_images:draft.hidden_images, extra_images:draft.extra_images,
-      videos:draft.videos, catalog_video:draft.catalog_video||null,
+      hidden_images:draft.hidden_images, extra_images:extra,
+      videos:videos, catalog_video:catalog,
       price_override:draft.price_override, promotion:draft.promotion,
       available_override:draft.available_override };
     const { error }=await sb.from("product_overrides").upsert(row);
     $("saveBtn").disabled=false;
     if(error){ $("saveMsg").className="err"; $("saveMsg").textContent=error.message; }
-    else { OVER[current.id]=row; $("saveMsg").className="ok"; $("saveMsg").textContent="Salvo ✓"; toast("Alterações salvas.",true); flagPills(); renderList(); }
+    else {
+      OVER[current.id]=row;
+      draft.extra_images=extra; draft.videos=videos; draft.catalog_video=catalog||""; draft.removed=new Set();
+      $("saveMsg").className="ok"; $("saveMsg").textContent="Salvo ✓"; toast("Alterações salvas.",true);
+      flagPills(); renderEditor(); renderList();
+    }
   });
   $("resetBtn").addEventListener("click", async ()=>{
     if(!current || !confirm("Descartar TODAS as alterações deste produto?")) return;
