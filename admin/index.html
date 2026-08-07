@@ -68,10 +68,14 @@
   .camp-row .nm{ flex:1; } .camp-row.blocked{ opacity:.6; }
   .camp-item{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; }
   .camp-item:hover{ background:var(--panel2); } .camp-item.active{ background:var(--panel2); border-color:var(--gold); }
+  #dupsMain{ display:block; height:calc(100vh - 57px); overflow:auto; padding:1.2rem 1.4rem; }
+  .dup-group{ border:1px solid var(--line); border-radius:10px; padding:.7rem .8rem; margin:.6rem 0; max-width:760px; }
+  .dup-head{ font-weight:700; margin-bottom:.4rem; }
 
   /* ---- mobile ---- */
   @media (max-width: 820px){
     main{ grid-template-columns:1fr; height:auto; }
+    #dupsMain{ height:auto; }
     .list{ border-right:none; border-bottom:1px solid var(--line); max-height:42vh; }
     .editor{ padding:1rem; }
     .filters .row2{ grid-template-columns:1fr; }
@@ -108,6 +112,7 @@
     <span class="brand">M11NTX</span>
     <button id="viewProducts" class="ghost is-view">Produtos</button>
     <button id="viewCampaigns" class="ghost">Campanhas</button>
+    <button id="viewDups" class="ghost">Duplicatas</button>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
     <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site">Publicar agora</button>
@@ -262,6 +267,13 @@
         </div>
       </div>
     </section>
+  </main>
+
+  <!-- ===== DUPLICATAS ===== -->
+  <main id="dupsMain" class="hidden">
+    <h2 style="margin-top:0">Possíveis duplicatas</h2>
+    <p class="muted" style="max-width:720px">Agrupadas por <b>clube + temporada + tipo/kit</b>. São <b>candidatas</b> (você confirma visualmente). Escolha qual manter e clique em <b>Consolidar</b> — os demais ficam <b>indisponíveis</b> (escondidos no site, preservados no histórico). Depois use <b>Publicar agora</b>.</p>
+    <div id="dupsList"></div>
   </main>
 </div>
 
@@ -546,15 +558,17 @@
   let CAMPAIGNS = [], curCamp = null, cDraft = null;
 
   function setView(v){
-    const prod = v !== "campaigns";
-    $("productsMain").classList.toggle("hidden", !prod);
-    $("campaignsMain").classList.toggle("hidden", prod);
-    $("viewProducts").classList.toggle("is-view", prod);
-    $("viewCampaigns").classList.toggle("is-view", !prod);
-    if(!prod) loadCampaigns();
+    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain" };
+    Object.entries(map).forEach(([k,id])=> $(id).classList.toggle("hidden", k!==v));
+    $("viewProducts").classList.toggle("is-view", v==="products");
+    $("viewCampaigns").classList.toggle("is-view", v==="campaigns");
+    $("viewDups").classList.toggle("is-view", v==="dups");
+    if(v==="campaigns") loadCampaigns();
+    if(v==="dups") renderDups();
   }
   $("viewProducts").addEventListener("click", ()=>setView("products"));
   $("viewCampaigns").addEventListener("click", ()=>setView("campaigns"));
+  $("viewDups").addEventListener("click", ()=>setView("dups"));
 
   async function loadCampaigns(){
     const { data, error } = await sb.from("campaigns").select("*");
@@ -661,6 +675,62 @@
     toast("Campanha excluída.",true); curCamp=null; cDraft=null;
     $("campDetail").classList.add("hidden"); $("campEmpty").classList.remove("hidden");
     await loadCampaigns();
+  });
+
+  // ===================== DUPLICATAS =====================
+  function kitToken(name){
+    const s=(name||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"");
+    if(/\bgoleiro\b|\bgk\b/.test(s)) return "goleiro";
+    if(/\btreino\b|\btraining\b|corta.?vento|jaqueta|conjunto|short|meia/.test(s)) return "treino/acessorio";
+    if(/\bretro\b/.test(s)) return "retro";
+    if(/\biii\b|terceir|third/.test(s)) return "III";
+    if(/\bii\b|\baway\b|\bfora\b|visitante|segundo/.test(s)) return "II";
+    if(/\bi\b|\bhome\b|\bcasa\b|primeir/.test(s)) return "I";
+    return "?";
+  }
+  function dupKey(p){ return [p.clubId||"", p.season||"", p.version||"", p.gender||"", kitToken(p.name)].join("|"); }
+
+  function renderDups(){
+    const groups={};
+    PRODUCTS.forEach(p=>{ const k=dupKey(p); (groups[k]=groups[k]||[]).push(p); });
+    const dups=Object.entries(groups).filter(([,arr])=>arr.length>=2).sort((a,b)=>b[1].length-a[1].length);
+    $("dupsList").innerHTML = dups.map(([k,arr],gi)=>{
+      const [club,season,ver,gen,kit]=k.split("|");
+      // keeper padrão: maior externalId (mais recente); empate -> addedAt mais novo
+      const keeper=arr.slice().sort((a,b)=> String(b.externalId||"").localeCompare(String(a.externalId||"")) || addedAtKey(b)-addedAtKey(a))[0];
+      return `<div class="dup-group">
+        <div class="dup-head">${esc(club)} · ${esc(season)} · ${esc(ver||"?")}/${esc(gen||"?")} · kit ${esc(kit)} <span class="muted">(${arr.length})</span></div>
+        ${arr.map(p=>{
+          const off=isOff(p);
+          return `<label class="camp-row"><input type="radio" name="keep-${gi}" value="${esc(p.id)}" ${p.id===keeper.id?"checked":""} style="width:auto">
+            <span class="nm">${esc(p.name||p.id)}<small style="display:block;color:var(--mut)">${esc(p.id)}${off?' · <span class="err">já indisponível</span>':""}</small></span></label>`;
+        }).join("")}
+        <div class="row" style="margin-top:.4rem"><button class="primary" data-consolidate="1">Consolidar (manter o marcado, esconder os demais)</button></div>
+      </div>`;
+    }).join("") || `<div class="muted">Nenhum grupo de possíveis duplicatas encontrado.</div>`;
+  }
+
+  $("dupsList").addEventListener("click", async (e)=>{
+    const b=e.target.closest("[data-consolidate]"); if(!b) return;
+    const group=b.closest(".dup-group");
+    const checked=group.querySelector('input[type=radio]:checked');
+    const keeperId=checked?checked.value:null;
+    const ids=Array.from(group.querySelectorAll('input[type=radio]')).map(r=>r.value);
+    if(!keeperId){ toast("Escolha qual manter."); return; }
+    if(!confirm(`Manter o selecionado e esconder os outros ${ids.length-1}?`)) return;
+    b.disabled=true;
+    for(const id of ids){
+      const p=PRODUCTS.find(x=>x.id===id);
+      if(id===keeperId){
+        if(OVER[id]){ await sb.from("product_overrides").upsert({id, available_override:null}); OVER[id].available_override=null; }
+        continue;
+      }
+      const { error }=await sb.from("product_overrides").upsert({id, name:(p&&p.name)||id, available_override:false});
+      if(error){ toast("Erro em "+id+": "+error.message); continue; }
+      OVER[id]=Object.assign(OVER[id]||{id}, {name:(p&&p.name)||id, available_override:false});
+    }
+    b.disabled=false; toast("Consolidado. Use 'Publicar agora' pra refletir no site.", true);
+    renderDups();
   });
 })();
 </script>
