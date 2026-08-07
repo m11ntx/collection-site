@@ -345,7 +345,7 @@
       price_override: o.price_override || null,
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
-      removed: new Set(),   // extra images / vídeos marcados p/ remover (aplica no Salvar)
+      hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
     };
     renderEditor();
   }
@@ -377,22 +377,22 @@
           x:{act:hidden?"unhide":"hide", v:im.url, title:hidden?"mostrar":"ocultar"} });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
-    // extra images -- toggle "marcar p/ remover" (aplica no Salvar), como as fotos
+    // extra images -- OCULTAR (some do site, fica no admin), igual às fotos da fonte
     $("extraImages").innerHTML = draft.extra_images.map(u => {
-      const rm = draft.removed.has(u);
+      const h = draft.hidden_media.has(u);
       return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
-        rm?"marcada p/ remover":"extra",
-        { dim:rm, x:{act:"toggleImg", v:u, title: rm?"manter":"remover"} });
+        h?"oculta":"extra",
+        { dim:h, x:{act:"toggleHide", v:u, title: h?"mostrar":"ocultar"} });
     }).join("") || `<span class="muted">Nenhuma.</span>`;
 
-    // videos -- botão "★ catálogo" (qual toca no card) + toggle remover
+    // videos -- OCULTAR (fica visível/recuperável, some só do site) + botão "★ catálogo"
     $("videos").innerHTML = draft.videos.map((v,i) => {
-      const rm = draft.removed.has(v), isCat = draft.catalog_video===v && !rm;
+      const h = draft.hidden_media.has(v), isCat = draft.catalog_video===v && !h;
       return thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
-        rm?"marcado p/ remover":("Vídeo "+(i+1)),
-        { dim:rm, badge: isCat?"▶ catálogo":"",
-          x:{act:"toggleVid", v:v, title: rm?"manter":"remover"},
-          right: rm?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Este vídeo toca no card do catálogo">${isCat?"★ catálogo":"☆ usar"}</button>` });
+        h?"oculto":("Vídeo "+(i+1)),
+        { dim:h, badge: isCat?"▶ catálogo":"",
+          x:{act:"toggleHide", v:v, title: h?"mostrar":"ocultar"},
+          right: h?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Este vídeo toca no card do catálogo">${isCat?"★ catálogo":"☆ usar"}</button>` });
     }).join("") || `<span class="muted">Nenhum vídeo.</span>`;
 
     // price
@@ -411,18 +411,15 @@
     $("availOverride").value = draft.available_override===true?"true":draft.available_override===false?"false":"";
   }
 
-  // media actions (hide/unhide source, remove extra/video)
-  document.addEventListener("click", async (e)=>{
+  // media actions -- tudo é OCULTAR/MOSTRAR (nunca deleta; some só do site)
+  document.addEventListener("click", (e)=>{
     const b = e.target.closest(".thumb .x"); if(!b || !draft) return;
     const act=b.dataset.act, v=b.dataset.v;
     if(act==="hide"){ if(!draft.hidden_images.includes(v)) draft.hidden_images.push(v); }
     else if(act==="unhide"){ draft.hidden_images = draft.hidden_images.filter(x=>x!==v); }
-    else if(act==="toggleImg" || act==="toggleVid"){    // marca/desmarca; só aplica no Salvar
-      if(draft.removed.has(v)) draft.removed.delete(v); else draft.removed.add(v);
-    }
+    else if(act==="toggleHide"){ if(draft.hidden_media.has(v)) draft.hidden_media.delete(v); else draft.hidden_media.add(v); }
     renderEditor();
   });
-  async function removeStorage(key){ if(key && key.indexOf("assets/")!==0 && !/^https?:/.test(key)){ try{ await sb.storage.from(BUCKET).remove([key]); }catch(_){} } }
 
   $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
 
@@ -453,28 +450,23 @@
   }
   $("saveBtn").addEventListener("click", async ()=>{
     if(!current) return; collectDraft();
-    // Nunca remover mídia silenciosamente: só aplica remoção do que foi
-    // EXPLICITAMENTE marcado no × e ainda assim pede confirmação.
-    const removed = draft.removed;
-    if(removed.size && !confirm(`Você marcou ${removed.size} item(ns) de mídia para REMOVER. Remover ao salvar?`)){
-      return;   // cancela o salvamento; nada é removido
-    }
     $("saveBtn").disabled=true; $("saveMsg").textContent="";
-    const extra = draft.extra_images.filter(u=>!removed.has(u));
-    const videos = draft.videos.filter(v=>!removed.has(v));
-    let catalog = (draft.catalog_video && !removed.has(draft.catalog_video)) ? draft.catalog_video : (videos[0]||null);
-    for(const k of removed) await removeStorage(k);
+    // Mídia NUNCA é deletada: mantém as listas completas e guarda o que está
+    // OCULTO (hidden_media). O ocultado some do site mas continua no admin.
+    const hidden = Array.from(draft.hidden_media);
+    let catalog = (draft.catalog_video && !draft.hidden_media.has(draft.catalog_video))
+      ? draft.catalog_video
+      : (draft.videos.find(v=>!draft.hidden_media.has(v)) || null);   // 1o vídeo visível
     const row = { id:current.id, name:current.name||current.id,
-      hidden_images:draft.hidden_images, extra_images:extra,
-      videos:videos, catalog_video:catalog,
+      hidden_images:draft.hidden_images, extra_images:draft.extra_images,
+      videos:draft.videos, catalog_video:catalog, hidden_media:hidden,
       price_override:draft.price_override, promotion:draft.promotion,
       available_override:draft.available_override };
     const { error }=await sb.from("product_overrides").upsert(row);
     $("saveBtn").disabled=false;
     if(error){ $("saveMsg").className="err"; $("saveMsg").textContent=error.message; }
     else {
-      OVER[current.id]=row;
-      draft.extra_images=extra; draft.videos=videos; draft.catalog_video=catalog||""; draft.removed=new Set();
+      OVER[current.id]=row; draft.catalog_video=catalog||"";
       $("saveMsg").className="ok"; $("saveMsg").textContent="Salvo ✓"; toast("Alterações salvas.",true);
       flagPills(); renderEditor(); renderList();
     }
