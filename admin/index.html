@@ -69,8 +69,20 @@
   .camp-item{ padding:.5rem .6rem; border-radius:8px; cursor:pointer; border:1px solid transparent; font-size:.9rem; }
   .camp-item:hover{ background:var(--panel2); } .camp-item.active{ background:var(--panel2); border-color:var(--gold); }
   #dupsMain{ display:block; height:calc(100vh - 57px); overflow:auto; padding:1.2rem 1.4rem; }
-  .dup-group{ border:1px solid var(--line); border-radius:10px; padding:.7rem .8rem; margin:.6rem 0; max-width:760px; }
-  .dup-head{ font-weight:700; margin-bottom:.4rem; }
+  .dup-group{ border:1px solid var(--line); border-radius:12px; padding:.9rem 1rem; margin:.7rem 0; max-width:900px; background:var(--panel); }
+  .dup-head{ font-weight:700; margin-bottom:.6rem; }
+  .dup-grid{ display:flex; flex-wrap:wrap; gap:.7rem; }
+  .dup-card{ width:150px; border:1px solid var(--line); border-radius:10px; overflow:hidden; background:var(--panel2); cursor:pointer; display:flex; flex-direction:column; }
+  .dup-card.is-hidden{ opacity:.55; }
+  .dup-thumb{ position:relative; height:150px; background:#000; }
+  .dup-thumb img{ width:100%; height:100%; object-fit:cover; display:block; }
+  .dup-flag{ position:absolute; top:6px; left:6px; background:#5a2a2a; color:#ffd9d9; font-size:.62rem; padding:.1rem .4rem; border-radius:5px; }
+  .dup-nm{ font-size:.78rem; padding:.4rem .5rem 0; line-height:1.2; }
+  .dup-toggle{ font-size:.75rem; color:var(--mut); padding:.4rem .5rem .5rem; display:flex; gap:.35rem; align-items:center; }
+  .dup-toggle input{ width:auto; }
+  /* drag-and-drop */
+  .thumb[draggable="true"]{ cursor:grab; }
+  .thumb.dragging{ opacity:.4; outline:2px dashed var(--gold); }
 
   /* ---- mobile ---- */
   @media (max-width: 820px){
@@ -159,15 +171,12 @@
 
         <!-- MÍDIA -->
         <div class="pane active" id="pane-media">
-          <h3>Fotos do catálogo</h3>
-          <p class="muted" style="margin-top:0;font-size:.82rem">Vindas da fonte. Use o × para ocultar uma foto no site.</p>
-          <div class="grid" id="curImages"></div>
+          <h3>Fotos <span class="pill">arraste p/ ordenar · ★ capa · × ocultar</span></h3>
+          <p class="muted" style="margin-top:0;font-size:.82rem">Fonte + extras enviadas, na ordem da galeria. <b>Arraste</b> (ou use ‹ ›) para reordenar; <b>★</b> define a capa; <b>×</b> oculta no site.</p>
+          <div class="grid" id="allImages"></div>
 
-          <h3>Fotos extras</h3>
-          <div class="grid" id="extraImages"></div>
-
-          <h3>Vídeos <span class="pill">★ = toca no card do catálogo</span></h3>
-          <p class="muted" style="margin-top:0;font-size:.82rem">Clique em <b>☆ usar</b> no vídeo que deve tocar no <b>card do catálogo</b> (fica ★). <b>Todos</b> os vídeos aparecem como stories na página do produto.</p>
+          <h3>Vídeos <span class="pill">arraste p/ ordenar · ★ toca no card</span></h3>
+          <p class="muted" style="margin-top:0;font-size:.82rem"><b>Arraste</b> (ou ‹ ›) para ordenar os stories; <b>★</b> marca qual toca no <b>card do catálogo</b>. Todos aparecem como stories no produto.</p>
           <div class="grid" id="videos"></div>
 
           <div class="drop">
@@ -421,7 +430,8 @@
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
       hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
       primary_image: o.primary_image || (((current.images||[]).find(x=>x.primary)||(current.images||[])[0]||{}).url || ""),
-      image_order: (o.image_order && o.image_order.length ? o.image_order.slice() : (current.images||[]).map(im=>im.url)),
+      image_order: (o.image_order && o.image_order.length ? o.image_order.slice()
+                    : (current.images||[]).map(im=>im.url).concat(o.extra_images||[])),
     };
     renderEditor();
   }
@@ -437,48 +447,44 @@
 
   function thumb(inner, capLeft, o){
     o=o||{};
-    return `<div class="thumb${o.dim?" dim":""}">${o.badge?`<span class="badge">${esc(o.badge)}</span>`:""}`+
+    return `<div class="thumb${o.dim?" dim":""}"${o.drag?` draggable="true" data-drag="${esc(o.drag)}"`:""}>`+
+      `${o.badge?`<span class="badge">${esc(o.badge)}</span>`:""}`+
       `${o.x?`<button class="x" data-act="${esc(o.x.act)}" data-v="${esc(o.x.v)}" title="${esc(o.x.title||"remover")}">×</button>`:""}`+
       `${inner}<div class="cap"><span>${esc(capLeft||"")}</span>${o.right||""}</div></div>`;
+  }
+  function arrowBtns(u, kind, idx, len){
+    return `<button class="setcat" data-move="up" data-kind="${kind}" data-url="${esc(u)}" title="antes"${idx===0?" disabled":""}>‹</button> `+
+           `<button class="setcat" data-move="down" data-kind="${kind}" data-url="${esc(u)}" title="depois"${idx===len-1?" disabled":""}>›</button>`;
   }
 
   function renderEditor(){
     flagPills();
-    // catalog photos (source) -- ocultar + escolher a principal (★)
+    // FOTOS unificadas (fonte + extras), na ordem da galeria, arrastáveis
     const byUrl = {}; (current.images||[]).forEach(im=>{ byUrl[im.url]=im; });
-    // ordem = draft.image_order (válidas) + quaisquer fotos novas no fim
-    const order = draft.image_order.filter(u=>byUrl[u]);
-    (current.images||[]).forEach(im=>{ if(order.indexOf(im.url)===-1) order.push(im.url); });
-    draft.image_order = order;                       // canoniza
-    $("curImages").innerHTML = order.map((u,idx) => {
-      const hidden=draft.hidden_images.includes(u), isP=draft.primary_image===u && !hidden;
-      const moves = `<button class="setcat" data-move="up" data-url="${esc(u)}" title="mover p/ antes"${idx===0?" disabled":""}>‹</button> `+
-                    `<button class="setcat" data-move="down" data-url="${esc(u)}" title="mover p/ depois"${idx===order.length-1?" disabled":""}>›</button>`;
+    const all = (current.images||[]).map(im=>im.url).concat(draft.extra_images);
+    const order = draft.image_order.filter(u=>all.indexOf(u)!==-1);
+    all.forEach(u=>{ if(order.indexOf(u)===-1) order.push(u); });   // novas no fim
+    draft.image_order = order;                                       // canoniza
+    $("allImages").innerHTML = order.map((u,idx) => {
+      const isSrc = !!byUrl[u];
+      const hidden = isSrc ? draft.hidden_images.includes(u) : draft.hidden_media.has(u);
+      const isP = draft.primary_image===u && !hidden;
+      const hideAct = isSrc ? (hidden?"unhide":"hide") : "toggleHide";
       return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
-        hidden?"oculta":(isP?"principal":""),
-        { dim:hidden, badge: isP?"★ principal":"",
-          x:{act:hidden?"unhide":"hide", v:u, title:hidden?"mostrar":"ocultar"},
-          right: (hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto principal (capa)">${isP?"★":"☆"}</button> `)+moves });
+        hidden?"oculta":(isP?"capa":(isSrc?"":"extra")),
+        { dim:hidden, drag:u, badge: isP?"★ capa":"",
+          x:{act:hideAct, v:u, title:hidden?"mostrar":"ocultar"},
+          right: (hidden?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto de capa">${isP?"★":"☆"}</button> `)+arrowBtns(u,"img",idx,order.length) });
     }).join("") || `<span class="muted">Sem fotos.</span>`;
 
-    // extra images -- ocultar + também podem ser a principal
-    $("extraImages").innerHTML = draft.extra_images.map(u => {
-      const h = draft.hidden_media.has(u), isP = draft.primary_image===u && !h;
-      return thumb(`<img src="${esc(mediaUrl(u))}" loading="lazy" alt="">`,
-        h?"oculta":(isP?"principal":"extra"),
-        { dim:h, badge: isP?"★ principal":"",
-          x:{act:"toggleHide", v:u, title: h?"mostrar":"ocultar"},
-          right: h?"":`<button class="setcat${isP?" is-on":""}" data-setprimary="${esc(u)}" title="Foto principal (capa do card)">${isP?"★ principal":"☆ usar"}</button>` });
-    }).join("") || `<span class="muted">Nenhuma.</span>`;
-
-    // videos -- OCULTAR (fica visível/recuperável, some só do site) + botão "★ catálogo"
-    $("videos").innerHTML = draft.videos.map((v,i) => {
+    // VÍDEOS na ordem de draft.videos, arrastáveis; ★ = toca no card
+    $("videos").innerHTML = draft.videos.map((v,idx) => {
       const h = draft.hidden_media.has(v), isCat = draft.catalog_video===v && !h;
       return thumb(`<video src="${esc(mediaUrl(v))}#t=0.3" muted playsinline preload="metadata"></video>`,
-        h?"oculto":("Vídeo "+(i+1)),
-        { dim:h, badge: isCat?"▶ catálogo":"",
+        h?"oculto":("Vídeo "+(idx+1)),
+        { dim:h, drag:v, badge: isCat?"▶ catálogo":"",
           x:{act:"toggleHide", v:v, title: h?"mostrar":"ocultar"},
-          right: h?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Este vídeo toca no card do catálogo">${isCat?"★ catálogo":"☆ usar"}</button>` });
+          right: (h?"":`<button class="setcat${isCat?" is-on":""}" data-setcat="${esc(v)}" title="Toca no card do catálogo">${isCat?"★":"☆"}</button> `)+arrowBtns(v,"vid",idx,draft.videos.length) });
     }).join("") || `<span class="muted">Nenhum vídeo.</span>`;
 
     // price
@@ -510,9 +516,24 @@
   $("videos").addEventListener("click", (e)=>{ const b=e.target.closest("[data-setcat]"); if(b){ draft.catalog_video=b.dataset.setcat; renderEditor(); }});
   document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-setprimary]"); if(b && draft){ draft.primary_image=b.dataset.setprimary; renderEditor(); }});
   document.addEventListener("click", (e)=>{ const b=e.target.closest("[data-move]"); if(!b||!draft) return;
-    const u=b.dataset.url, dir=b.dataset.move==="up"?-1:1, a=draft.image_order, i=a.indexOf(u), j=i+dir;
-    if(i<0||j<0||j>=a.length) return; [a[i],a[j]]=[a[j],a[i]]; renderEditor();
+    const u=b.dataset.url, dir=b.dataset.move==="up"?-1:1;
+    const a = b.dataset.kind==="vid" ? draft.videos : draft.image_order;
+    const i=a.indexOf(u), j=i+dir; if(i<0||j<0||j>=a.length) return; [a[i],a[j]]=[a[j],a[i]]; renderEditor();
   });
+  // drag-and-drop: reordena a lista alvo movendo o arrastado p/ a posição do alvo
+  function attachDnD(containerId, getArr){
+    const el=$(containerId); let dragU=null;
+    el.addEventListener("dragstart",(e)=>{ const t=e.target.closest("[data-drag]"); if(t){ dragU=t.dataset.drag; e.dataTransfer.effectAllowed="move"; t.classList.add("dragging"); }});
+    el.addEventListener("dragend",(e)=>{ const t=e.target.closest("[data-drag]"); if(t) t.classList.remove("dragging"); dragU=null; });
+    el.addEventListener("dragover",(e)=>{ if(dragU!==null) e.preventDefault(); });
+    el.addEventListener("drop",(e)=>{ const t=e.target.closest("[data-drag]"); if(dragU===null||!t||!draft) return; e.preventDefault();
+      const a=getArr(), from=a.indexOf(dragU), to=a.indexOf(t.dataset.drag);
+      if(from<0||to<0||from===to){ dragU=null; return; }
+      a.splice(to,0,a.splice(from,1)[0]); dragU=null; renderEditor();
+    });
+  }
+  attachDnD("allImages", ()=>draft.image_order);
+  attachDnD("videos", ()=>draft.videos);
 
   // upload
   $("uploadBtn").addEventListener("click", async ()=>{
@@ -524,7 +545,7 @@
       const { error }=await sb.storage.from(BUCKET).upload(key,f,{upsert:true,contentType:f.type});
       if(error){ toast("Upload falhou: "+error.message); continue; }
       if(f.type.startsWith("video/")){ draft.videos.push(key); if(!draft.catalog_video) draft.catalog_video=key; }
-      else draft.extra_images.push(key);
+      else { draft.extra_images.push(key); draft.image_order.push(key); }
       n++;
     }
     $("uploadBtn").disabled=false; $("upMsg").textContent=`${n} enviado(s). Não esqueça de Salvar.`; $("file").value=""; renderEditor();
@@ -730,47 +751,52 @@
   }
   function dupKey(p){ return [p.clubId||"", p.season||"", p.version||"", p.gender||"", kitToken(p.name)].join("|"); }
 
+  function prodThumb(p){
+    const im=(p.images||[]).find(x=>x.primary)||(p.images||[])[0];
+    return im&&im.url ? mediaUrl(im.url) : "";
+  }
   function renderDups(){
     const groups={};
     PRODUCTS.forEach(p=>{ const k=dupKey(p); (groups[k]=groups[k]||[]).push(p); });
     const dups=Object.entries(groups).filter(([,arr])=>arr.length>=2).sort((a,b)=>b[1].length-a[1].length);
-    $("dupsList").innerHTML = dups.map(([k,arr],gi)=>{
+    $("dupsList").innerHTML = dups.map(([k,arr])=>{
       const [club,season,ver,gen,kit]=k.split("|");
-      // keeper padrão: maior externalId (mais recente); empate -> addedAt mais novo
-      const keeper=arr.slice().sort((a,b)=> String(b.externalId||"").localeCompare(String(a.externalId||"")) || addedAtKey(b)-addedAtKey(a))[0];
       return `<div class="dup-group">
-        <div class="dup-head">${esc(club)} · ${esc(season)} · ${esc(ver||"?")}/${esc(gen||"?")} · kit ${esc(kit)} <span class="muted">(${arr.length})</span></div>
-        ${arr.map(p=>{
-          const off=isOff(p);
-          return `<label class="camp-row"><input type="radio" name="keep-${gi}" value="${esc(p.id)}" ${p.id===keeper.id?"checked":""} style="width:auto">
-            <span class="nm">${esc(p.name||p.id)}<small style="display:block;color:var(--mut)">${esc(p.id)}${off?' · <span class="err">já indisponível</span>':""}</small></span></label>`;
-        }).join("")}
-        <div class="row" style="margin-top:.4rem"><button class="primary" data-consolidate="1">Consolidar (manter o marcado, esconder os demais)</button></div>
+        <div class="dup-head">${esc(club)} · ${esc(season)} · ${esc(ver||"?")}/${esc(gen||"?")} · <span class="muted">kit ${esc(kit)} · ${arr.length} itens</span></div>
+        <div class="dup-grid">
+          ${arr.map(p=>{
+            const off=isOff(p), t=prodThumb(p);
+            return `<label class="dup-card${off?" is-hidden":""}">
+              <span class="dup-thumb">${t?`<img src="${esc(t)}" loading="lazy" alt="">`:""}${off?`<span class="dup-flag">oculto</span>`:""}</span>
+              <span class="dup-nm">${esc(p.name||p.id)}</span>
+              <span class="dup-toggle"><input type="checkbox" class="dup-hide" data-id="${esc(p.id)}" ${off?"checked":""}> Esconder do site</span>
+            </label>`;
+          }).join("")}
+        </div>
+        <div class="row" style="margin-top:.6rem">
+          <button class="primary" data-savegroup="1">Salvar</button>
+          <span class="muted" style="font-size:.8rem">Marque só as que são repetição. Deixe desmarcado o que é legítimo (falso positivo).</span>
+        </div>
       </div>`;
-    }).join("") || `<div class="muted">Nenhum grupo de possíveis duplicatas encontrado.</div>`;
+    }).join("") || `<div class="muted">Nenhum grupo de possíveis duplicatas.</div>`;
   }
 
   $("dupsList").addEventListener("click", async (e)=>{
-    const b=e.target.closest("[data-consolidate]"); if(!b) return;
+    const b=e.target.closest("[data-savegroup]"); if(!b) return;
     const group=b.closest(".dup-group");
-    const checked=group.querySelector('input[type=radio]:checked');
-    const keeperId=checked?checked.value:null;
-    const ids=Array.from(group.querySelectorAll('input[type=radio]')).map(r=>r.value);
-    if(!keeperId){ toast("Escolha qual manter."); return; }
-    if(!confirm(`Manter o selecionado e esconder os outros ${ids.length-1}?`)) return;
-    b.disabled=true;
-    for(const id of ids){
-      const p=PRODUCTS.find(x=>x.id===id);
-      if(id===keeperId){
-        if(OVER[id]){ await sb.from("product_overrides").upsert({id, available_override:null}); OVER[id].available_override=null; }
-        continue;
-      }
-      const { error }=await sb.from("product_overrides").upsert({id, name:(p&&p.name)||id, available_override:false});
+    const boxes=Array.from(group.querySelectorAll(".dup-hide"));
+    b.disabled=true; let n=0;
+    for(const cb of boxes){
+      const id=cb.dataset.id, hide=cb.checked, p=PRODUCTS.find(x=>x.id===id);
+      const cur=!!(OVER[id] && OVER[id].available_override===false);
+      if(hide===cur) continue;                       // sem mudança p/ este
+      const val=hide?false:null;
+      const { error }=await sb.from("product_overrides").upsert({id, name:(p&&p.name)||id, available_override:val});
       if(error){ toast("Erro em "+id+": "+error.message); continue; }
-      OVER[id]=Object.assign(OVER[id]||{id}, {name:(p&&p.name)||id, available_override:false});
+      OVER[id]=Object.assign(OVER[id]||{id}, {name:(p&&p.name)||id, available_override:val}); n++;
     }
-    b.disabled=false; toast("Consolidado. Use 'Publicar agora' pra refletir no site.", true);
-    renderDups();
+    b.disabled=false; toast(n?`${n} atualizado(s). Use 'Publicar agora'.`:"Sem mudanças.", n>0);
+    renderList(); renderDups();
   });
 })();
 </script>
