@@ -318,7 +318,15 @@
   <!-- ===== DUPLICATAS ===== -->
   <main id="dupsMain" class="hidden">
     <h2 style="margin-top:0">Possíveis duplicatas</h2>
-    <p class="muted" style="max-width:720px">Agrupadas por <b>clube + temporada + tipo/kit</b>. São <b>candidatas</b> (você confirma visualmente). Escolha qual manter e clique em <b>Consolidar</b> — os demais ficam <b>indisponíveis</b> (escondidos no site, preservados no histórico). Depois use <b>Publicar agora</b>.</p>
+    <p class="muted" style="max-width:760px">Agrupadas por <b>clube + temporada + tipo/kit</b> (candidatas — você confirma visualmente). Marque só as repetições em <b>"Esconder do site"</b> e clique em <b>Salvar</b>; os falsos positivos ficam. Depois use <b>Publicar agora</b>.</p>
+    <div class="row" style="margin:.6rem 0 1.1rem; gap:.5rem">
+      <input id="dupSearch" type="search" placeholder="Buscar (nome/clube)…" style="max-width:240px">
+      <select id="dupCollection" style="max-width:160px"></select>
+      <select id="dupLeague" style="max-width:160px"></select>
+      <select id="dupClub" style="max-width:160px"></select>
+      <label class="row" style="gap:.35rem"><input type="checkbox" id="dupOnlyHidden" style="width:auto"> com ocultos</label>
+      <span id="dupCount" class="count"></span>
+    </div>
     <div id="dupsList"></div>
   </main>
 </div>
@@ -391,6 +399,9 @@
     fillScope("scCollection","Coleção", uniq("collectionId"));
     fillScope("scLeague","Liga", uniq("leagueId"));
     fillScope("scClub","Clube", uniq("clubId"));
+    fill("dupCollection","Coleção", uniq("collectionId"));
+    fill("dupLeague","Liga", uniq("leagueId"));
+    fill("dupClub","Clube", uniq("clubId"));
   }
   function fill(id,label,vals){
     $(id).innerHTML = `<option value="">${label}: todas</option>` + vals.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
@@ -786,10 +797,24 @@
     const im=(p.images||[]).find(x=>x.primary)||(p.images||[])[0];
     return im&&im.url ? mediaUrl(im.url) : "";
   }
+  ["dupSearch","dupCollection","dupLeague","dupClub","dupOnlyHidden"].forEach(id=>$(id).addEventListener("input", renderDups));
   function renderDups(){
     const groups={};
     PRODUCTS.forEach(p=>{ const k=dupKey(p); (groups[k]=groups[k]||[]).push(p); });
-    const dups=Object.entries(groups).filter(([,arr])=>arr.length>=2).sort((a,b)=>b[1].length-a[1].length);
+    let dups=Object.entries(groups).filter(([,arr])=>arr.length>=2).sort((a,b)=>b[1].length-a[1].length);
+    // filtros
+    const q=$("dupSearch").value.trim().toLowerCase(), fc=$("dupCollection").value,
+          fl=$("dupLeague").value, fk=$("dupClub").value, onlyH=$("dupOnlyHidden").checked;
+    dups = dups.filter(([,arr])=>{
+      const p0=arr[0];
+      if(fc && p0.collectionId!==fc) return false;
+      if(fl && p0.leagueId!==fl) return false;
+      if(fk && p0.clubId!==fk) return false;
+      if(onlyH && !arr.some(isOff)) return false;
+      if(q && !arr.some(p=>(p.name||"").toLowerCase().includes(q)||(p.clubId||"").toLowerCase().includes(q))) return false;
+      return true;
+    });
+    $("dupCount").textContent = `${dups.length} grupo(s)`;
     $("dupsList").innerHTML = dups.map(([k,arr])=>{
       const [club,season,ver,gen,kit]=k.split("|");
       return `<div class="dup-group">
