@@ -76,7 +76,7 @@
   .pane{ display:none; } .pane.active{ display:block; animation:fade .2s ease; }
   @keyframes fade{ from{ opacity:0; transform:translateY(4px); } to{ opacity:1; transform:none; } }
 
-  .grid{ display:flex; flex-wrap:wrap; gap:.8rem; margin:.5rem 0 1.4rem; }
+  .media-grid{ display:flex; flex-wrap:wrap; gap:.8rem; margin:.5rem 0 1.4rem; }
   .thumb{ width:132px; border:1px solid var(--line2); border-radius:12px; overflow:hidden; background:#000; position:relative; transition:transform .12s,box-shadow .12s,border-color .12s; }
   .thumb:hover{ transform:translateY(-2px); box-shadow:var(--shadow); border-color:var(--gold-dim); }
   .thumb img,.thumb video{ width:100%; height:132px; object-fit:cover; display:block; }
@@ -103,6 +103,9 @@
   .camp-item{ padding:.55rem .7rem; border-radius:var(--radius); cursor:pointer; border:1px solid transparent; font-size:.9rem; }
   .camp-item:hover{ background:var(--panel2); } .camp-item.active{ background:var(--panel2); border-color:var(--gold-dim); }
   #dupsMain{ display:block; height:calc(100vh - 55px); overflow:auto; padding:1.4rem 1.6rem; }
+  .dup-club{ margin:0 0 1.6rem; }
+  .dup-club-head{ font-weight:800; font-size:1.05rem; padding:.2rem 0 .6rem; margin-bottom:.6rem; border-bottom:1px solid var(--line); display:flex; align-items:center; gap:.45rem; text-transform:capitalize; }
+  .dup-club-head .lucide{ color:var(--gold); }
   .dup-group{ border:1px solid var(--line2); border-radius:var(--radius-lg); padding:1rem 1.1rem; margin:.8rem 0; max-width:920px; background:var(--panel); box-shadow:0 2px 12px rgba(0,0,0,.2); }
   .dup-head{ font-weight:700; margin-bottom:.7rem; }
   .dup-grid{ display:flex; flex-wrap:wrap; gap:.8rem; }
@@ -209,11 +212,11 @@
         <div class="pane active" id="pane-media">
           <h3>Fotos <span class="pill">arraste p/ ordenar · ★ capa · × ocultar</span></h3>
           <p class="muted" style="margin-top:0;font-size:.82rem">Fonte + extras enviadas, na ordem da galeria. <b>Arraste</b> (ou use ‹ ›) para reordenar; <b>★</b> define a capa; <b>×</b> oculta no site.</p>
-          <div class="grid" id="allImages"></div>
+          <div class="media-grid" id="allImages"></div>
 
           <h3>Vídeos <span class="pill">arraste p/ ordenar · ★ toca no card</span></h3>
           <p class="muted" style="margin-top:0;font-size:.82rem"><b>Arraste</b> (ou ‹ ›) para ordenar os stories; <b>★</b> marca qual toca no <b>card do catálogo</b>. Todos aparecem como stories no produto.</p>
-          <div class="grid" id="videos"></div>
+          <div class="media-grid" id="videos"></div>
 
           <div class="drop">
             <div class="row">
@@ -803,43 +806,53 @@
     return im&&im.url ? mediaUrl(im.url) : "";
   }
   ["dupSearch","dupCollection","dupLeague","dupClub","dupOnlyHidden"].forEach(id=>$(id).addEventListener("input", renderDups));
+  function dupCardHtml(p){
+    const off=isOff(p), t=prodThumb(p);
+    return `<label class="dup-card${off?" is-hidden":""}">
+      <span class="dup-thumb">${t?`<img src="${esc(t)}" loading="lazy" alt="">`:""}${off?`<span class="dup-flag">oculto</span>`:""}</span>
+      <span class="dup-nm">${esc(p.name||p.id)}</span>
+      <span class="dup-toggle"><input type="checkbox" class="dup-hide" data-id="${esc(p.id)}" ${off?"checked":""}> Esconder do site</span>
+    </label>`;
+  }
+  function clusterHtml(k, arr){
+    const [,season,ver,gen,kit]=k.split("|");
+    return `<div class="dup-group">
+      <div class="dup-head">${esc(season||"?")} · ${esc(ver||"?")}/${esc(gen||"?")} · <span class="muted">kit ${esc(kit)} · ${arr.length} itens</span></div>
+      <div class="dup-grid">${arr.map(dupCardHtml).join("")}</div>
+      <div class="row" style="margin-top:.6rem">
+        <button class="primary" data-savegroup="1"><i data-lucide="save"></i>Salvar</button>
+        <span class="muted" style="font-size:.8rem">Marque só as repetições; falso positivo fica.</span>
+      </div>
+    </div>`;
+  }
   function renderDups(){
-    const groups={};
-    PRODUCTS.forEach(p=>{ const k=dupKey(p); (groups[k]=groups[k]||[]).push(p); });
-    let dups=Object.entries(groups).filter(([,arr])=>arr.length>=2).sort((a,b)=>b[1].length-a[1].length);
-    // filtros
+    // 2 níveis: CLUBE (externo) -> clusters por temporada/versão/gênero/kit (interno)
+    const byClub={};
+    PRODUCTS.forEach(p=>{ const c=p.clubId||"?"; (byClub[c]=byClub[c]||[]).push(p); });
     const q=$("dupSearch").value.trim().toLowerCase(), fc=$("dupCollection").value,
           fl=$("dupLeague").value, fk=$("dupClub").value, onlyH=$("dupOnlyHidden").checked;
-    dups = dups.filter(([,arr])=>{
-      const p0=arr[0];
-      if(fc && p0.collectionId!==fc) return false;
-      if(fl && p0.leagueId!==fl) return false;
-      if(fk && p0.clubId!==fk) return false;
-      if(onlyH && !arr.some(isOff)) return false;
-      if(q && !arr.some(p=>(p.name||"").toLowerCase().includes(q)||(p.clubId||"").toLowerCase().includes(q))) return false;
+    let clubs = Object.entries(byClub).map(([club,arr])=>{
+      const sub={}; arr.forEach(p=>{ const k=dupKey(p); (sub[k]=sub[k]||[]).push(p); });
+      let clusters = Object.entries(sub).filter(([,a])=>a.length>=2).map(([k,a])=>({k,a}));
+      if(onlyH) clusters = clusters.filter(x=>x.a.some(isOff));
+      if(q) clusters = clusters.filter(x=>x.a.some(p=>(p.name||"").toLowerCase().includes(q)));
+      return {club, p0:arr[0], clusters};
+    }).filter(c=>c.clusters.length>0);
+    clubs = clubs.filter(c=>{
+      if(fk && c.club!==fk) return false;
+      if(fc && c.p0.collectionId!==fc) return false;
+      if(fl && c.p0.leagueId!==fl) return false;
+      if(q && !c.club.toLowerCase().includes(q) && !c.clusters.length) return false;
       return true;
-    });
-    $("dupCount").textContent = `${dups.length} grupo(s)`;
-    $("dupsList").innerHTML = dups.map(([k,arr])=>{
-      const [club,season,ver,gen,kit]=k.split("|");
-      return `<div class="dup-group">
-        <div class="dup-head">${esc(club)} · ${esc(season)} · ${esc(ver||"?")}/${esc(gen||"?")} · <span class="muted">kit ${esc(kit)} · ${arr.length} itens</span></div>
-        <div class="dup-grid">
-          ${arr.map(p=>{
-            const off=isOff(p), t=prodThumb(p);
-            return `<label class="dup-card${off?" is-hidden":""}">
-              <span class="dup-thumb">${t?`<img src="${esc(t)}" loading="lazy" alt="">`:""}${off?`<span class="dup-flag">oculto</span>`:""}</span>
-              <span class="dup-nm">${esc(p.name||p.id)}</span>
-              <span class="dup-toggle"><input type="checkbox" class="dup-hide" data-id="${esc(p.id)}" ${off?"checked":""}> Esconder do site</span>
-            </label>`;
-          }).join("")}
-        </div>
-        <div class="row" style="margin-top:.6rem">
-          <button class="primary" data-savegroup="1">Salvar</button>
-          <span class="muted" style="font-size:.8rem">Marque só as que são repetição. Deixe desmarcado o que é legítimo (falso positivo).</span>
-        </div>
-      </div>`;
-    }).join("") || `<div class="muted">Nenhum grupo de possíveis duplicatas.</div>`;
+    }).sort((a,b)=>a.club.localeCompare(b.club));
+    const totalC = clubs.reduce((n,c)=>n+c.clusters.length,0);
+    $("dupCount").textContent = `${clubs.length} clube(s) · ${totalC} grupo(s)`;
+    $("dupsList").innerHTML = clubs.map(c=>`
+      <section class="dup-club">
+        <div class="dup-club-head"><i data-lucide="shield"></i> ${esc(c.club)} <span class="muted">· ${c.clusters.length} grupo(s)</span></div>
+        ${c.clusters.map(x=>clusterHtml(x.k, x.a)).join("")}
+      </section>`).join("") || `<div class="muted">Nenhuma duplicata com esses filtros.</div>`;
+    if(window.lucide) lucide.createIcons();
   }
 
   $("dupsList").addEventListener("click", async (e)=>{
