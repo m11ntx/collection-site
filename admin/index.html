@@ -111,6 +111,14 @@
   .toast.ok{ border-left-color:var(--green); } .toast.err{ border-left-color:var(--red); }
   @keyframes toastin{ from{ opacity:0; transform:translateY(10px); } to{ opacity:1; transform:none; } }
   .pill{ font-size:.68rem; padding:.18rem .55rem; border:1px solid var(--line2); border-radius:20px; color:var(--mut); font-weight:500; vertical-align:middle; }
+  .modal{ position:fixed; inset:0; z-index:40; background:rgba(0,0,0,.6); backdrop-filter:blur(3px); display:grid; place-items:center; padding:1rem; }
+  .modal-card{ background:var(--panel); border:1px solid var(--line2); border-radius:var(--radius-lg); padding:1.3rem 1.4rem; width:min(430px,100%); box-shadow:var(--shadow); animation:pop .16s ease; }
+  @keyframes pop{ from{ opacity:0; transform:scale(.96) translateY(6px); } to{ opacity:1; transform:none; } }
+  .modal-title{ font-weight:800; font-size:1.08rem; margin-bottom:.5rem; }
+  .modal-msg{ color:var(--mut); font-size:.9rem; line-height:1.45; }
+  .modal-actions{ display:flex; justify-content:flex-end; gap:.6rem; margin-top:1.3rem; }
+  .empty-state{ display:flex; flex-direction:column; align-items:center; justify-content:center; text-align:center; color:var(--mut); gap:.6rem; padding:3rem 1rem; }
+  .empty-state .lucide{ width:34px; height:34px; opacity:.5; }
   .camp-list{ display:flex; flex-direction:column; gap:.4rem; margin:.5rem 0; }
   .camp-row{ display:flex; align-items:center; gap:.5rem; padding:.5rem .65rem; border:1px solid var(--line2); border-radius:var(--radius); font-size:.85rem; background:var(--panel2); }
   .camp-row .nm{ flex:1; } .camp-row.blocked{ opacity:.6; }
@@ -207,7 +215,7 @@
     </aside>
 
     <section class="editor">
-      <div id="empty" class="muted">Selecione um produto à esquerda.</div>
+      <div id="empty" class="empty-state"><i data-lucide="mouse-pointer-click"></i><div>Selecione um produto à esquerda para editar mídia, preço, promoção e disponibilidade.</div></div>
       <div id="detail" class="hidden">
         <div class="row" style="justify-content:space-between">
           <h2 id="pName" style="margin:0"></h2>
@@ -301,7 +309,7 @@
       <div id="campList"></div>
     </aside>
     <section class="editor">
-      <div id="campEmpty" class="muted">Selecione ou crie uma campanha.</div>
+      <div id="campEmpty" class="empty-state"><i data-lucide="badge-percent"></i><div>Selecione uma campanha à esquerda ou crie uma nova.</div></div>
       <div id="campDetail" class="hidden">
         <div class="cols" style="grid-template-columns:1fr 1fr">
           <label class="fld">Nome da campanha<input id="cName" placeholder="ex.: Semana do Torcedor"></label>
@@ -355,6 +363,17 @@
   </main>
 </div>
 
+<div id="modal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-card">
+    <div class="modal-title" id="modalTitle"></div>
+    <div class="modal-msg" id="modalMsg"></div>
+    <div class="modal-actions">
+      <button class="ghost" id="modalCancel">Cancelar</button>
+      <button class="primary" id="modalOk">Confirmar</button>
+    </div>
+  </div>
+</div>
+
 <div id="toast" class="toast hidden"></div>
 
 <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
@@ -370,6 +389,29 @@
   const $ = (id) => document.getElementById(id);
   const esc = (s) => String(s==null?"":s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
   function toast(msg, ok){ const t=$("toast"); t.textContent=msg; t.className="toast"+(ok?" ok":" err"); setTimeout(()=>t.classList.add("hidden"), 3400); }
+  // modal de confirmação (Promise) — substitui window.confirm
+  function confirmDialog(msg, o){
+    o=o||{};
+    return new Promise(resolve=>{
+      $("modalTitle").textContent=o.title||"Confirmar";
+      $("modalMsg").textContent=msg;
+      $("modalOk").textContent=o.ok||"Confirmar"; $("modalCancel").textContent=o.cancel||"Cancelar";
+      $("modalOk").className=o.danger?"danger":"primary";
+      $("modal").classList.remove("hidden");
+      const okB=$("modalOk"), canB=$("modalCancel");
+      function done(v){ $("modal").classList.add("hidden");
+        okB.removeEventListener("click",onOk); canB.removeEventListener("click",onCancel);
+        $("modal").removeEventListener("click",onBg); document.removeEventListener("keydown",onKey);
+        resolve(v);
+      }
+      function onOk(){ done(true); } function onCancel(){ done(false); }
+      function onBg(e){ if(e.target===$("modal")) done(false); }
+      function onKey(e){ if(e.key==="Escape") done(false); else if(e.key==="Enter") done(true); }
+      okB.addEventListener("click",onOk); canB.addEventListener("click",onCancel);
+      $("modal").addEventListener("click",onBg); document.addEventListener("keydown",onKey);
+      okB.focus();
+    });
+  }
   function mediaUrl(p){ if(!p) return ""; if(/^https?:\/\//.test(p)) return p; if(p.indexOf("assets/")===0) return CDN+"/"+p; return sb.storage.from(BUCKET).getPublicUrl(p).data.publicUrl; }
 
   let PRODUCTS = [], OVER = {};        // OVER: id -> override row (cached)
@@ -377,13 +419,13 @@
 
   // ---- auth ----
   $("loginForm").addEventListener("submit", async (e) => {
-    e.preventDefault(); $("loginBtn").disabled=true; $("loginMsg").textContent="";
+    e.preventDefault(); $("loginBtn").disabled=true; $("loginBtn").textContent="Entrando…"; $("loginMsg").textContent="";
     const { error } = await sb.auth.signInWithPassword({ email:$("email").value, password:$("password").value });
-    $("loginBtn").disabled=false; if(error) $("loginMsg").textContent = error.message || "Falha no login.";
+    $("loginBtn").disabled=false; $("loginBtn").textContent="Entrar"; if(error) $("loginMsg").textContent = error.message || "Falha no login.";
   });
   $("logout").addEventListener("click", () => sb.auth.signOut());
   $("publish").addEventListener("click", async () => {
-    if (!confirm("Disparar a sincronização agora? Roda o import e publica as alterações do admin no site (leva alguns minutos).")) return;
+    if (!(await confirmDialog("Roda o import e publica as alterações do admin no site (leva alguns minutos). Continuar?", {title:"Publicar agora", ok:"Publicar"}))) return;
     $("publish").disabled = true; const prev = $("publish").textContent; $("publish").textContent = "Disparando…";
     const { data, error } = await sb.functions.invoke("trigger-import", { body: {} });
     $("publish").disabled = false; $("publish").textContent = prev;
@@ -701,7 +743,8 @@
     }
   });
   $("resetBtn").addEventListener("click", async ()=>{
-    if(!current || !confirm("Descartar TODAS as alterações deste produto?")) return;
+    if(!current) return;
+    if(!(await confirmDialog("Isso remove todas as alterações do admin deste produto (mídia, preço, promoção, disponibilidade). Continuar?", {title:"Descartar alterações", ok:"Descartar", danger:true}))) return;
     const { error }=await sb.from("product_overrides").delete().eq("id",current.id);
     if(error){ toast(error.message); return; }
     delete OVER[current.id]; toast("Alterações removidas.",true); select(current.id); renderList();
@@ -839,7 +882,7 @@
   });
   $("cDelete").addEventListener("click", async ()=>{
     if(!cDraft || !cDraft.id){ curCamp=null; cDraft=null; $("campDetail").classList.add("hidden"); $("campEmpty").classList.remove("hidden"); return; }
-    if(!confirm("Excluir esta campanha?")) return;
+    if(!(await confirmDialog("Excluir esta campanha? Os produtos deixam de ter o desconto dela.", {title:"Excluir campanha", ok:"Excluir", danger:true}))) return;
     const { error }=await sb.from("campaigns").delete().eq("id",cDraft.id);
     if(error){ toast(error.message); return; }
     toast("Campanha excluída.",true); curCamp=null; cDraft=null;
