@@ -102,6 +102,7 @@
     <span class="brand">M11NTX</span><span class="muted">Admin</span>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
+    <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site">Publicar agora</button>
     <button id="logout" class="ghost">Sair</button>
   </header>
   <main>
@@ -244,6 +245,17 @@
     $("loginBtn").disabled=false; if(error) $("loginMsg").textContent = error.message || "Falha no login.";
   });
   $("logout").addEventListener("click", () => sb.auth.signOut());
+  $("publish").addEventListener("click", async () => {
+    if (!confirm("Disparar a sincronização agora? Roda o import e publica as alterações do admin no site (leva alguns minutos).")) return;
+    $("publish").disabled = true; const prev = $("publish").textContent; $("publish").textContent = "Disparando…";
+    const { data, error } = await sb.functions.invoke("trigger-import", { body: {} });
+    $("publish").disabled = false; $("publish").textContent = prev;
+    if (error || (data && data.ok === false)) {
+      toast("Falha ao disparar: " + ((error && error.message) || (data && data.error) || "verifique a Edge Function/secret"));
+    } else {
+      toast("Sincronização disparada! Acompanhe em Actions (~poucos min).", true);
+    }
+  });
   sb.auth.onAuthStateChange((_e, s) => showAuthed(s));
   sb.auth.getSession().then(({data}) => showAuthed(data.session));
 
