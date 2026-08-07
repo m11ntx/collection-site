@@ -5,6 +5,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex, nofollow">
 <title>M11NTX — Admin</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>tailwind.config={corePlugins:{preflight:false},theme:{extend:{colors:{gold:'#d4af5f'}}}};</script>
+<script src="https://unpkg.com/lucide@latest"></script>
 <style>
   :root{
     --bg:#0b0b0d; --panel:#161619; --panel2:#1d1d22; --panel3:#25252c;
@@ -21,6 +24,8 @@
   h2,h3{ margin:.2rem 0 .6rem; letter-spacing:-.01em; } h3{ font-size:1rem; }
   h4{ margin:.2rem 0; font-size:.85rem; color:var(--mut); font-weight:600; }
   a{ color:var(--gold); }
+  .lucide{ width:1.05em; height:1.05em; vertical-align:-.15em; flex:none; stroke-width:2; }
+  .tab .lucide{ opacity:.9; } h3 .lucide{ color:var(--gold); }
 
   button{ font:inherit; font-weight:600; cursor:pointer; border-radius:var(--radius); border:1px solid var(--line2); background:var(--panel2); color:var(--txt); padding:.5rem .85rem; transition:background .15s,border-color .15s,transform .05s,filter .15s; display:inline-flex; align-items:center; gap:.4rem; line-height:1.1; }
   button:hover{ border-color:var(--gold-dim); background:var(--panel3); }
@@ -145,7 +150,7 @@
     <h2 style="margin:.2rem 0">Entrar</h2>
     <label class="fld">E-mail<input id="email" type="email" autocomplete="username" required></label>
     <label class="fld">Senha<input id="password" type="password" autocomplete="current-password" required></label>
-    <button class="primary" type="submit" id="loginBtn">Entrar</button>
+    <button class="primary" type="submit" id="loginBtn"><i data-lucide="log-in"></i>Entrar</button>
     <div id="loginMsg" class="err"></div>
   </form>
 </section>
@@ -153,13 +158,13 @@
 <div id="app" class="hidden">
   <header class="bar">
     <span class="brand">M11NTX</span>
-    <button id="viewProducts" class="ghost is-view">Produtos</button>
-    <button id="viewCampaigns" class="ghost">Campanhas</button>
-    <button id="viewDups" class="ghost">Duplicatas</button>
+    <button id="viewProducts" class="ghost is-view"><i data-lucide="layout-grid"></i>Produtos</button>
+    <button id="viewCampaigns" class="ghost"><i data-lucide="badge-percent"></i>Campanhas</button>
+    <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
-    <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site">Publicar agora</button>
-    <button id="logout" class="ghost">Sair</button>
+    <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site"><i data-lucide="rocket"></i>Publicar agora</button>
+    <button id="logout" class="ghost"><i data-lucide="log-out"></i>Sair</button>
   </header>
   <main id="productsMain">
     <aside class="list">
@@ -194,10 +199,10 @@
         <div class="pid" id="pId"></div>
 
         <div class="tabs">
-          <button class="tab active" data-pane="media">Mídia</button>
-          <button class="tab" data-pane="price">Preço</button>
-          <button class="tab" data-pane="promo">Promoção</button>
-          <button class="tab" data-pane="avail">Disponibilidade</button>
+          <button class="tab active" data-pane="media"><i data-lucide="image"></i>Mídia</button>
+          <button class="tab" data-pane="price"><i data-lucide="dollar-sign"></i>Preço</button>
+          <button class="tab" data-pane="promo"><i data-lucide="tag"></i>Promoção</button>
+          <button class="tab" data-pane="avail"><i data-lucide="eye"></i>Disponibilidade</button>
         </div>
 
         <!-- MÍDIA -->
@@ -213,7 +218,7 @@
           <div class="drop">
             <div class="row">
               <input id="file" type="file" accept="image/*,video/mp4" multiple style="max-width:340px">
-              <button id="uploadBtn">Enviar arquivos</button>
+              <button id="uploadBtn"><i data-lucide="upload"></i>Enviar arquivos</button>
               <span id="upMsg" class="muted"></span>
             </div>
             <p class="muted" style="font-size:.8rem;margin:.5rem 0 0">Imagens 1:1 (quadradas); vídeos 9:16 (.mp4). Salve depois de enviar.</p>
@@ -262,8 +267,8 @@
         </div>
 
         <div class="save-bar row">
-          <button class="primary" id="saveBtn">Salvar alterações</button>
-          <button class="ghost danger" id="resetBtn">Descartar tudo deste produto</button>
+          <button class="primary" id="saveBtn"><i data-lucide="save"></i>Salvar alterações</button>
+          <button class="ghost danger" id="resetBtn"><i data-lucide="trash-2"></i>Descartar tudo deste produto</button>
           <span id="saveMsg"></span>
         </div>
       </div>
@@ -273,7 +278,7 @@
   <!-- ===== CAMPANHAS ===== -->
   <main id="campaignsMain" class="hidden">
     <aside class="list">
-      <button class="primary" id="newCampaign" style="width:100%;margin-bottom:.6rem">+ Nova campanha</button>
+      <button class="primary" id="newCampaign" style="width:100%;margin-bottom:.6rem"><i data-lucide="plus"></i>Nova campanha</button>
       <div id="campList"></div>
     </aside>
     <section class="editor">
@@ -298,7 +303,7 @@
             <select id="scCollection" style="max-width:170px"><option value="">Coleção…</option></select>
             <select id="scLeague" style="max-width:170px"><option value="">Liga…</option></select>
             <select id="scClub" style="max-width:170px"><option value="">Clube…</option></select>
-            <button id="scAdd">+ Adicionar todos os livres do escopo</button>
+            <button id="scAdd"><i data-lucide="layers"></i>Adicionar todos os livres do escopo</button>
           </div>
           <input id="cSearch" type="search" placeholder="Ou buscar produto avulso…" style="max-width:420px">
           <div id="cResults" class="camp-list"></div>
@@ -307,8 +312,8 @@
         </div>
 
         <div class="save-bar row">
-          <button class="primary" id="cSave">Salvar campanha</button>
-          <button class="ghost danger" id="cDelete">Excluir campanha</button>
+          <button class="primary" id="cSave"><i data-lucide="save"></i>Salvar campanha</button>
+          <button class="ghost danger" id="cDelete"><i data-lucide="trash-2"></i>Excluir campanha</button>
           <span id="cMsg"></span>
         </div>
       </div>
@@ -854,6 +859,9 @@
     b.disabled=false; toast(n?`${n} atualizado(s). Use 'Publicar agora'.`:"Sem mudanças.", n>0);
     renderList(); renderDups();
   });
+
+  // ícones (Lucide) — renderiza os <i data-lucide> estáticos
+  if(window.lucide) lucide.createIcons();
 })();
 </script>
 </body>
