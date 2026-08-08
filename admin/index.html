@@ -52,6 +52,16 @@
   header.bar .brand{ margin-right:.6rem; }
   header.bar .sp{ flex:1; }
   header.bar #who{ font-size:.82rem; }
+  /* hambúrguer + menu (só aparece no mobile) */
+  .hamb{ display:none; flex-direction:column; justify-content:center; gap:4px; width:40px; height:34px; margin-left:auto; background:transparent; border:1px solid var(--line2); border-radius:8px; cursor:pointer; }
+  .hamb span{ display:block; height:2px; width:18px; margin:0 auto; background:var(--ink); border-radius:2px; transition:transform .2s, opacity .2s; }
+  .hamb[aria-expanded="true"] span:nth-child(1){ transform:translateY(6px) rotate(45deg); }
+  .hamb[aria-expanded="true"] span:nth-child(2){ opacity:0; }
+  .hamb[aria-expanded="true"] span:nth-child(3){ transform:translateY(-6px) rotate(-45deg); }
+  .nav-group{ display:contents; }
+  .filters-toggle{ display:none; }
+  .adv-filters{ display:grid; gap:.45rem; }
+  .editor-back{ display:none; }
   .is-view{ background:var(--gold-soft); color:var(--gold); border-color:transparent; }
   main{ display:grid; grid-template-columns:340px 1fr; height:calc(100vh - 55px); }
   .list{ border-right:1px solid var(--line); overflow:auto; padding:.8rem; display:flex; flex-direction:column; gap:.55rem; background:var(--panel); }
@@ -188,13 +198,25 @@
     .editor{ padding:1rem; }
     .filters .row2{ grid-template-columns:1fr; }
     .cols{ grid-template-columns:1fr 1fr !important; max-width:none; }
-    /* header numa única linha rolável (não empilha e não empurra o conteúdo) */
-    header.bar{ flex-wrap:nowrap; overflow-x:auto; gap:.4rem; padding:.5rem .7rem; -webkit-overflow-scrolling:touch; }
-    header.bar::-webkit-scrollbar{ height:0; }
-    header.bar .brand{ margin-right:.3rem; flex:0 0 auto; }
-    header.bar .sp, header.bar #who{ display:none; }
-    header.bar button{ flex:0 0 auto; white-space:nowrap; padding:.45rem .6rem; font-size:.85rem; }
-    header.bar button i{ margin:0; }
+    /* header: só marca + hambúrguer; o menu abre num dropdown ao clicar */
+    header.bar{ gap:.5rem; padding:.55rem .8rem; }
+    .hamb{ display:flex; }
+    .nav-group{ display:none; position:absolute; top:100%; left:0; right:0; flex-direction:column;
+      align-items:stretch; gap:.3rem; background:var(--panel); border-bottom:1px solid var(--line);
+      padding:.6rem; box-shadow:var(--shadow); z-index:8; }
+    .nav-group.open{ display:flex; }
+    .nav-group .sp, .nav-group #who{ display:none; }
+    .nav-group button{ width:100%; justify-content:flex-start; white-space:nowrap; }
+    /* filtros colapsáveis pra sobrar tela pros produtos */
+    .filters-toggle{ display:inline-flex; align-items:center; gap:.4rem; }
+    .adv-filters{ display:none; }
+    .adv-filters.open{ display:grid; }
+    .list{ max-height:none; border-bottom:none; }
+    /* ao escolher um produto, o editor entra como painel lateral (desliza da direita) */
+    .editor{ position:fixed; inset:0; background:var(--bg); transform:translateX(100%);
+      transition:transform .25s ease; z-index:9; padding:1rem; overflow:auto; }
+    #productsMain.editing .editor{ transform:none; }
+    .editor-back{ display:inline-flex; align-items:center; gap:.45rem; margin-bottom:.9rem; }
     .tabs{ position:sticky; top:0; background:var(--bg); z-index:2; }
     .tab{ padding:.5rem .6rem; font-size:.9rem; }
     .ord-head{ gap:.6rem; }
@@ -226,20 +248,25 @@
 <div id="app" class="hidden">
   <header class="bar">
     <span class="brand">M11NTX</span>
-    <button id="viewProducts" class="ghost is-view"><i data-lucide="layout-grid"></i>Produtos</button>
-    <button id="viewCampaigns" class="ghost"><i data-lucide="badge-percent"></i>Campanhas</button>
-    <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
-    <button id="viewOrders" class="ghost"><i data-lucide="shopping-bag"></i>Pedidos</button>
-    <button id="viewCarts" class="ghost"><i data-lucide="shopping-cart"></i>Carrinhos</button>
-    <span class="sp"></span>
-    <span id="who" class="muted"></span>
-    <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site"><i data-lucide="rocket"></i>Publicar agora</button>
-    <button id="logout" class="ghost"><i data-lucide="log-out"></i>Sair</button>
+    <button id="navToggle" class="hamb" aria-label="Menu" aria-expanded="false"><span></span><span></span><span></span></button>
+    <div id="navGroup" class="nav-group">
+      <button id="viewProducts" class="ghost is-view"><i data-lucide="layout-grid"></i>Produtos</button>
+      <button id="viewCampaigns" class="ghost"><i data-lucide="badge-percent"></i>Campanhas</button>
+      <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
+      <button id="viewOrders" class="ghost"><i data-lucide="shopping-bag"></i>Pedidos</button>
+      <button id="viewCarts" class="ghost"><i data-lucide="shopping-cart"></i>Carrinhos</button>
+      <span class="sp"></span>
+      <span id="who" class="muted"></span>
+      <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site"><i data-lucide="rocket"></i>Publicar agora</button>
+      <button id="logout" class="ghost"><i data-lucide="log-out"></i>Sair</button>
+    </div>
   </header>
   <main id="productsMain">
     <aside class="list">
       <div class="filters">
         <input id="search" type="search" placeholder="Buscar (nome, clube, id)…">
+        <button id="filtersToggle" class="ghost filters-toggle" type="button"><i data-lucide="sliders-horizontal"></i>Filtros</button>
+        <div id="advFilters" class="adv-filters">
         <div class="row2">
           <select id="fCollection"><option value="">Coleção: todas</option></select>
           <select id="fLeague"><option value="">Liga: todas</option></select>
@@ -254,6 +281,7 @@
             <option value="off">Só indisponíveis</option>
           </select>
         </div>
+        </div>
       </div>
       <div class="count" id="count"></div>
       <div id="prodList"></div>
@@ -262,6 +290,7 @@
     <section class="editor">
       <div id="empty" class="empty-state"><i data-lucide="mouse-pointer-click"></i><div>Selecione um produto à esquerda para editar mídia, preço, promoção e disponibilidade.</div></div>
       <div id="detail" class="hidden">
+        <button id="editorBack" class="editor-back" type="button"><i data-lucide="arrow-left"></i>Voltar aos produtos</button>
         <div class="row" style="justify-content:space-between">
           <h2 id="pName" style="margin:0"></h2>
           <span id="pFlags"></span>
@@ -607,6 +636,7 @@
     current = PRODUCTS.find(p=>p.id===id); if(!current) return;
     renderList();
     $("empty").classList.add("hidden"); $("detail").classList.remove("hidden");
+    $("productsMain").classList.add("editing");   // mobile: abre o painel lateral
     $("pName").textContent = current.name||current.id; $("pId").textContent = current.id;
     const o = OVER[id] || {};
     draft = {
@@ -854,6 +884,7 @@
 
   function setView(v){
     const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain", carts:"cartsMain" };
+    $("productsMain").classList.remove("editing");   // fecha o painel lateral (mobile)
     Object.entries(map).forEach(([k,id])=> $(id).classList.toggle("hidden", k!==v));
     $("viewProducts").classList.toggle("is-view", v==="products");
     $("viewCampaigns").classList.toggle("is-view", v==="campaigns");
@@ -870,6 +901,21 @@
   $("viewDups").addEventListener("click", ()=>setView("dups"));
   $("viewOrders").addEventListener("click", ()=>setView("orders"));
   $("viewCarts").addEventListener("click", ()=>setView("carts"));
+
+  // ---- UX mobile: hambúrguer, filtros colapsáveis, editor lateral ----
+  (function(){
+    const nav = $("navGroup"), toggle = $("navToggle");
+    if(toggle) toggle.addEventListener("click", ()=>{
+      const open = nav.classList.toggle("open");
+      toggle.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    // fecha o menu ao escolher qualquer aba
+    ["viewProducts","viewCampaigns","viewDups","viewOrders","viewCarts","publish"].forEach(id=>{
+      const b=$(id); if(b) b.addEventListener("click", ()=>{ nav.classList.remove("open"); if(toggle) toggle.setAttribute("aria-expanded","false"); });
+    });
+    const ft = $("filtersToggle"); if(ft) ft.addEventListener("click", ()=> $("advFilters").classList.toggle("open"));
+    const eb = $("editorBack"); if(eb) eb.addEventListener("click", ()=> $("productsMain").classList.remove("editing"));
+  })();
 
   // ===================== PEDIDOS =====================
   let ORDERS = [];
