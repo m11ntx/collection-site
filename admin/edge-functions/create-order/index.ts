@@ -63,13 +63,20 @@ Deno.serve(async (req) => {
   const token = Deno.env.get("TELEGRAM_BOT_TOKEN");
   const chat = Deno.env.get("TELEGRAM_CHAT_ID");
   if (token && chat) {
-    const lines = items.map((it: any) =>
-      `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""} — ${money(it.price)}`);
+    const lines = items.map((it: any) => {
+      const p = it.perso && (it.perso.name || it.perso.number)
+        ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}` : "";
+      return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${money(it.price)}`;
+    });
+    const endereco = customer.rua
+      ? `${customer.rua}, ${customer.numero || "s/n"}${customer.complemento ? ` - ${customer.complemento}` : ""} - ${customer.bairro || ""} - ${customer.city || ""}/${customer.uf || ""} - CEP ${customer.cep || ""}`
+      : [customer.city, customer.uf].filter(Boolean).join("/");
     const fields: [string, string][] = [
       ["Cliente", customer.name],
+      ["CPF", customer.cpf],
       ["WhatsApp", phone],
       ["E-mail", customer.email],
-      ["Cidade", [customer.city, customer.uf].filter(Boolean).join("/")],
+      ["Endereço", endereco],
       ["Obs", customer.note],
     ].filter(([, v]) => v) as [string, string][];
     const text =

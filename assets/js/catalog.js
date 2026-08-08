@@ -870,6 +870,20 @@ const Catalog = (() => {
         const step = (d) => { val.textContent = Math.max(1, (parseInt(val.textContent, 10) || 1) + d); };
         box.querySelector("[data-qminus]").addEventListener("click", () => step(-1));
         box.querySelector("[data-qplus]").addEventListener("click", () => step(1));
+
+        // Personalização (nome/número) — checkbox revela os campos.
+        const persoToggle = box.querySelector(".order__perso-toggle");
+        const persoFields = box.querySelector(".order__perso-fields");
+        const persoName = box.querySelector(".order__perso-name");
+        const persoNum = box.querySelector(".order__perso-num");
+        if (persoToggle) {
+            persoToggle.addEventListener("change", () => {
+                persoFields.classList.toggle("is-open", persoToggle.checked);
+                if (persoToggle.checked) persoName.focus();
+            });
+            persoNum.addEventListener("input", () => { persoNum.value = persoNum.value.replace(/\D/g, "").slice(0, 3); });
+        }
+
         box.querySelector(".order__add").addEventListener("click", () => {
             const sel = box.querySelector(".order__size.is-selected");
             if (sizes.length && !sel) {
@@ -882,13 +896,18 @@ const Catalog = (() => {
                 return;
             }
             if (!window.Cart) return;
+            const perso = persoToggle && persoToggle.checked && (persoName.value.trim() || persoNum.value.trim())
+                ? { name: persoName.value.trim(), number: persoNum.value.trim() } : null;
             window.Cart.add({
                 id: box.dataset.id, name: box.dataset.name,
                 size: sel ? sel.dataset.size : "",
                 qty: parseInt(val.textContent, 10) || 1,
                 price: parseFloat(box.dataset.price) || 0,
                 image: box.dataset.image,
+                perso,
             });
+            // reset da personalização após adicionar (evita repetir sem querer)
+            if (persoToggle && persoToggle.checked) { persoToggle.checked = false; persoFields.classList.remove("is-open"); persoName.value = ""; persoNum.value = ""; }
         });
     }
 
@@ -966,6 +985,13 @@ const Catalog = (() => {
             : "";
         const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-image="${esc(orderCover)}">
                 ${orderSizes}
+                <label class="order__perso-check">
+                    <input type="checkbox" class="order__perso-toggle"> Personalizar (nome e número)
+                </label>
+                <div class="order__perso-fields">
+                    <input type="text" class="order__perso-name" maxlength="20" placeholder="Nome (ex.: VINI JR)">
+                    <input type="text" class="order__perso-num" maxlength="3" inputmode="numeric" placeholder="Nº">
+                </div>
                 <div class="order__actions">
                     <div class="qty" aria-label="Quantidade">
                         <button type="button" class="qty__btn" data-qminus aria-label="Diminuir">−</button>
