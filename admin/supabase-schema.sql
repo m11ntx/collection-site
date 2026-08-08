@@ -132,6 +132,33 @@ create policy "authenticated read orders"   on public.orders for select to authe
 create policy "authenticated update orders" on public.orders for update to authenticated using (true) with check (true);
 create policy "authenticated delete orders" on public.orders for delete to authenticated using (true);
 
+-- ----------------------------------------------------------------------------
+-- CARRINHOS / LEADS (rascunhos que podem ou não virar pedido)
+-- Upsert por session_id vindo da Edge Function save-cart (service role).
+-- O /admin (logado) lê, muda status (aberto|convertido|ignorado) e exclui.
+-- ----------------------------------------------------------------------------
+create table if not exists public.carts (
+    id         uuid primary key default gen_random_uuid(),
+    session_id text unique not null,
+    items      jsonb not null default '[]'::jsonb,
+    customer   jsonb not null default '{}'::jsonb,
+    total_brl  numeric not null default 0,
+    status     text not null default 'aberto',   -- aberto | convertido | ignorado
+    created_at timestamptz not null default now(),
+    updated_at timestamptz not null default now()
+);
+-- garante o UNIQUE (necessário pro upsert) mesmo se a tabela já existir
+alter table public.carts add column if not exists total_brl numeric not null default 0;
+create unique index if not exists carts_session_id_key on public.carts (session_id);
+
+alter table public.carts enable row level security;
+drop policy if exists "authenticated read carts"   on public.carts;
+drop policy if exists "authenticated update carts"  on public.carts;
+drop policy if exists "authenticated delete carts"  on public.carts;
+create policy "authenticated read carts"   on public.carts for select to authenticated using (true);
+create policy "authenticated update carts" on public.carts for update to authenticated using (true) with check (true);
+create policy "authenticated delete carts" on public.carts for delete to authenticated using (true);
+
 -- ============================================================================
 -- Pronto. Depois disto:
 --   1. Authentication -> Users -> Add user: crie SEU login (email + senha).

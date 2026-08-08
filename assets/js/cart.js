@@ -14,16 +14,52 @@
   "use strict";
   const cfg = window.CONFIG || {};
   const KEY = "m11ntx_cart_v1";
+  const SID_KEY = "m11ntx_sid";
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g,
     (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const money = (v) => "R$ " + (Number(v) || 0).toFixed(2).replace(".", ",");
   let items = load();
   let root;
+  let _syncT = null;
   const openPerso = new Set(); // índices com o editor de personalização aberto
 
   function load() { try { return JSON.parse(localStorage.getItem(KEY)) || []; } catch (_) { return []; } }
   function save() { try { localStorage.setItem(KEY, JSON.stringify(items)); } catch (_) {} }
-  function persist() { save(); render(); }
+  function persist() { save(); render(); syncCart(); }
+
+  /* ---- CRM: salva o rascunho do carrinho (mesmo sem virar pedido) ---- */
+  function getSid() {
+    let s = ""; try { s = localStorage.getItem(SID_KEY) || ""; } catch (_) {}
+    if (!s) {
+      s = (window.crypto && crypto.randomUUID) ? crypto.randomUUID()
+        : "s_" + Date.now() + "_" + Math.random().toString(36).slice(2);
+      try { localStorage.setItem(SID_KEY, s); } catch (_) {}
+    }
+    return s;
+  }
+  function partialCustomer() {
+    const f = root && root.querySelector("#m11-form"); if (!f) return {};
+    const g = (k) => (f[k] && f[k].value ? f[k].value.trim() : "");
+    const c = { name: g("name"), phone: g("phone"), email: g("email"), cpf: g("cpf"), cep: g("cep"),
+      rua: g("rua"), numero: g("numero"), bairro: g("bairro"), city: g("city"), uf: g("uf"), complemento: g("complemento") };
+    Object.keys(c).forEach((k) => { if (!c[k]) delete c[k]; });
+    return c;
+  }
+  function syncCart(status) {
+    if (!cfg.supabaseUrl || !cfg.supabaseAnon) return;
+    const doIt = () => {
+      if (!items.length && status !== "convertido" && status !== "ignorado") return;
+      try {
+        fetch(cfg.supabaseUrl + "/functions/v1/save-cart", {
+          method: "POST", keepalive: true,
+          headers: { "Content-Type": "application/json", "apikey": cfg.supabaseAnon, "Authorization": "Bearer " + cfg.supabaseAnon },
+          body: JSON.stringify({ session_id: getSid(), items, customer: partialCustomer(), status: status || "aberto" }),
+        }).catch(() => {});
+      } catch (_) {}
+    };
+    clearTimeout(_syncT);
+    if (status) doIt(); else _syncT = setTimeout(doIt, 900);
+  }
   const count = () => items.reduce((n, i) => n + (i.qty || 1), 0);
   const total = () => items.reduce((s, i) => s + (Number(i.price) || 0) * (i.qty || 1), 0);
   const hasPerso = (p) => !!(p && (p.name || p.number));
@@ -105,6 +141,7 @@
            <label>Complemento <span class="m11-opt">(opcional)</span><input name="complemento" autocomplete="address-line2" placeholder="Apto, bloco…"></label>
            <input type="text" name="_hp" tabindex="-1" autocomplete="off" aria-hidden="true">
            <div class="m11-total"><span>Total</span><strong id="m11-ftotal">R$ 0,00</strong></div>
+           <p class="m11-priv">Ao continuar, você concorda em ser contatado sobre este pedido.</p>
            <button class="m11-primary" type="submit" id="m11-send">Registrar e abrir o WhatsApp</button>
            <button class="m11-ghost" type="button" id="m11-back-btn">Voltar</button>
            <div id="m11-msg"></div>
@@ -127,6 +164,7 @@
     f.cep.addEventListener("input", onCEPInput);
     f.numero.addEventListener("input", (e) => { e.target.value = e.target.value.replace(/\D/g, "").slice(0, 6); });
     f.uf.addEventListener("input", (e) => { e.target.value = e.target.value.replace(/[^a-zA-Z]/g, "").toUpperCase().slice(0, 2); });
+    f.addEventListener("input", () => syncCart()); // captura contato parcial (lead) enquanto digita
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeDrawer(); });
     render();
   }
@@ -244,6 +282,7 @@
       }
     } catch (_) { /* não bloqueia o WhatsApp */ }
     if (cfg.whatsapp) window.open(waLink(customer), "_blank");
+    syncCart("convertido"); // marca o rascunho como convertido (com os itens atuais)
     items = []; openPerso.clear(); persist(); f.reset(); send.disabled = false;
     document.getElementById("m11-cep-status").textContent = "";
     msg.textContent = "Pedido registrado! Abrimos o WhatsApp pra você concluir."; msg.className = "m11-ok";
@@ -264,6 +303,7 @@
   }
 
   const CSS = `
+    #m11-cart *,#m11-cart *::before,#m11-cart *::after{ box-sizing:border-box; }
     #m11-fab{ position:fixed; right:20px; bottom:20px; z-index:60; display:none; align-items:center; gap:.55rem;
       background:linear-gradient(145deg,#e6c476,#c69a4c); color:#1a1509; border:0; border-radius:999px;
       padding:.72rem 1.15rem; font:700 .92rem system-ui,sans-serif; cursor:pointer;
@@ -276,7 +316,7 @@
     #m11-back{ position:fixed; inset:0; z-index:61; background:rgba(0,0,0,.55); opacity:0; visibility:hidden; transition:opacity .2s; }
     #m11-drawer{ position:fixed; top:0; right:0; bottom:0; z-index:62; width:min(420px,94vw); background:#141417; color:#ededf1;
       border-left:1px solid #2a2a33; box-shadow:-12px 0 40px rgba(0,0,0,.5); transform:translateX(100%); transition:transform .25s ease;
-      display:flex; flex-direction:column; font-family:system-ui,sans-serif; }
+      display:flex; flex-direction:column; font-family:system-ui,sans-serif; overflow-x:hidden; }
     body.m11-open #m11-back{ opacity:1; visibility:visible; }
     body.m11-open #m11-drawer{ transform:none; }
     #m11-drawer .m11-head{ display:flex; align-items:center; justify-content:space-between; padding:1rem 1.2rem; border-bottom:1px solid #2a2a33; }
@@ -286,7 +326,8 @@
     .m11-item{ display:grid; grid-template-columns:52px 1fr auto auto; gap:.6rem; align-items:start; padding:.7rem 0; border-bottom:1px solid #23232a; }
     .m11-thumb{ width:52px; height:52px; border-radius:8px; overflow:hidden; background:#000; }
     .m11-thumb img{ width:100%; height:100%; object-fit:cover; }
-    .m11-name{ font-size:.85rem; font-weight:600; line-height:1.2; }
+    .m11-info{ min-width:0; }
+    .m11-name{ font-size:.85rem; font-weight:600; line-height:1.2; overflow-wrap:anywhere; }
     .m11-sz{ font-size:.72rem; color:#9a9aa4; margin-top:.1rem; }
     .m11-perso-sum{ font-size:.72rem; color:#d4af5f; margin-top:.15rem; }
     .m11-price{ font-size:.8rem; color:#d4af5f; font-weight:700; margin-top:.15rem; }
@@ -310,9 +351,10 @@
     #m11-form label{ display:grid; gap:.3rem; font-size:.78rem; color:#9a9aa4; }
     .m11-opt{ color:#6f6f78; font-weight:400; }
     .m11-row{ display:grid; grid-template-columns:1fr 96px; gap:.7rem; }
-    #m11-form input,#m11-form textarea{ background:#1e1e24; color:#ededf1; border:1px solid #35353d; border-radius:8px; padding:.55rem .7rem; font:inherit; }
+    #m11-form input,#m11-form textarea{ width:100%; min-width:0; background:#1e1e24; color:#ededf1; border:1px solid #35353d; border-radius:8px; padding:.55rem .7rem; font:inherit; }
     #m11-form input[name="_hp"]{ position:absolute; left:-9999px; }
     #m11-form input:focus,#m11-form textarea:focus{ outline:none; border-color:#d4af5f; }
+    .m11-priv{ font-size:.72rem; color:#6f6f78; margin:0; }
     .m11-cep-status{ font-size:.74rem; color:#9a9aa4; min-height:1em; }
     .m11-cep-status.m11-ok{ color:#8fe0a4; } .m11-cep-status.m11-err{ color:#f0a08f; }
     #m11-msg{ font-size:.82rem; } #m11-msg.m11-ok{ color:#8fe0a4; } #m11-msg.m11-err{ color:#f0a08f; }

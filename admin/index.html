@@ -147,14 +147,17 @@
   .dup-nm{ font-size:.78rem; padding:.5rem .55rem 0; line-height:1.25; }
   .dup-toggle{ font-size:.74rem; color:var(--mut); padding:.45rem .55rem .55rem; display:flex; gap:.4rem; align-items:center; }
   .dup-toggle input{ width:auto; }
-  /* pedidos */
-  #ordersMain{ display:block; height:calc(100vh - 55px); overflow:auto; padding:1.4rem 1.6rem; }
+  /* pedidos + carrinhos */
+  #ordersMain,#cartsMain{ display:block; height:calc(100vh - 55px); overflow:auto; padding:1.4rem 1.6rem; }
   .ord-head{ display:flex; align-items:center; justify-content:space-between; gap:1rem; margin-bottom:1.1rem; flex-wrap:wrap; }
   .ord-card{ border:1px solid var(--line2); border-left:4px solid var(--mut); border-radius:var(--radius-lg); padding:1rem 1.1rem; margin:0 0 .9rem; max-width:920px; background:var(--panel); box-shadow:0 2px 12px rgba(0,0,0,.2); }
   .ord-card.s-novo{ border-left-color:var(--gold); }
   .ord-card.s-em_contato{ border-left-color:#5b8def; }
   .ord-card.s-concluido{ border-left-color:#3fae6a; }
   .ord-card.s-cancelado{ border-left-color:#c0524a; opacity:.65; }
+  .ord-card.s-aberto{ border-left-color:var(--gold); }
+  .ord-card.s-convertido{ border-left-color:#3fae6a; opacity:.75; }
+  .ord-card.s-ignorado{ border-left-color:var(--mut); opacity:.55; }
   .ord-top{ display:flex; align-items:center; gap:.7rem; flex-wrap:wrap; margin-bottom:.6rem; }
   .ord-id{ font-family:monospace; font-size:.78rem; color:var(--mut); }
   .ord-date{ font-size:.78rem; color:var(--mut); }
@@ -218,6 +221,7 @@
     <button id="viewCampaigns" class="ghost"><i data-lucide="badge-percent"></i>Campanhas</button>
     <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
     <button id="viewOrders" class="ghost"><i data-lucide="shopping-bag"></i>Pedidos</button>
+    <button id="viewCarts" class="ghost"><i data-lucide="shopping-cart"></i>Carrinhos</button>
     <span class="sp"></span>
     <span id="who" class="muted"></span>
     <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site"><i data-lucide="rocket"></i>Publicar agora</button>
@@ -410,6 +414,24 @@
       </div>
     </div>
     <div id="ordersList"></div>
+  </main>
+
+  <main id="cartsMain" class="hidden">
+    <div class="ord-head">
+      <h2 style="margin:0">Carrinhos / Leads</h2>
+      <div class="row" style="gap:.5rem">
+        <select id="cartStatusFilter" style="max-width:210px">
+          <option value="aberto">Abertos (abandonados)</option>
+          <option value="convertido">Convertidos</option>
+          <option value="ignorado">Ignorados</option>
+          <option value="">Todos</option>
+        </select>
+        <span id="cartCount" class="count"></span>
+        <button id="cartReload" class="ghost"><i data-lucide="refresh-cw"></i>Atualizar</button>
+      </div>
+    </div>
+    <p class="muted" style="max-width:760px;margin:-.4rem 0 1rem">Rascunhos que os visitantes montaram — mesmo sem enviar o pedido. Com contato preenchido, dá pra chamar e recuperar a venda.</p>
+    <div id="cartsList"></div>
   </main>
 </div>
 
@@ -822,20 +844,23 @@
   let CAMPAIGNS = [], curCamp = null, cDraft = null;
 
   function setView(v){
-    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain" };
+    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain", carts:"cartsMain" };
     Object.entries(map).forEach(([k,id])=> $(id).classList.toggle("hidden", k!==v));
     $("viewProducts").classList.toggle("is-view", v==="products");
     $("viewCampaigns").classList.toggle("is-view", v==="campaigns");
     $("viewDups").classList.toggle("is-view", v==="dups");
     $("viewOrders").classList.toggle("is-view", v==="orders");
+    $("viewCarts").classList.toggle("is-view", v==="carts");
     if(v==="campaigns") loadCampaigns();
     if(v==="dups") renderDups();
     if(v==="orders") loadOrders();
+    if(v==="carts") loadCarts();
   }
   $("viewProducts").addEventListener("click", ()=>setView("products"));
   $("viewCampaigns").addEventListener("click", ()=>setView("campaigns"));
   $("viewDups").addEventListener("click", ()=>setView("dups"));
   $("viewOrders").addEventListener("click", ()=>setView("orders"));
+  $("viewCarts").addEventListener("click", ()=>setView("carts"));
 
   // ===================== PEDIDOS =====================
   let ORDERS = [];
@@ -904,6 +929,65 @@
     const { error } = await sb.from("orders").delete().eq("id",del.dataset.id);
     if(error){ toast("Erro ao excluir: "+error.message); return; }
     ORDERS = ORDERS.filter(x=>x.id!==del.dataset.id); renderOrders(); toast("Pedido excluído.", true);
+  });
+
+  // ===================== CARRINHOS / LEADS =====================
+  let CARTS = [];
+  const CART_LABEL = { aberto:"Aberto", convertido:"Convertido", ignorado:"Ignorado" };
+  async function loadCarts(){
+    const { data, error } = await sb.from("carts").select("*").order("updated_at",{ascending:false});
+    if(error){ toast("Erro ao carregar carrinhos (rodou o SQL da tabela carts + RLS?): "+error.message); return; }
+    CARTS = data||[]; renderCarts();
+  }
+  function renderCarts(){
+    const filt = $("cartStatusFilter").value;
+    const list = CARTS.filter(c=> !filt || (c.status||"aberto")===filt);
+    $("cartCount").textContent = list.length+" carrinho(s)";
+    if(!list.length){ $("cartsList").innerHTML = `<div class="ord-empty">Nenhum carrinho${filt?" nesse status":""}.</div>`; return; }
+    $("cartsList").innerHTML = list.map(o=>{
+      const c = o.customer||{}, st = o.status||"aberto";
+      const items = (o.items||[]).map(it=>{
+        const perso = it.perso && (it.perso.name||it.perso.number) ? ` <span class="perso">| ${esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" "))}</span>` : "";
+        return `<li>${it.qty||1}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""}${perso} — ${ordMoney(it.price)}</li>`;
+      }).join("") || `<li>(vazio)</li>`;
+      const phone = c.phone||c.contact||"";
+      const contato = [c.name, phone, c.email].filter(Boolean).map(esc).join(" · ") || "<i>anônimo — sem contato ainda</i>";
+      const dt = o.updated_at ? new Date(o.updated_at).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",year:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
+      const opts = Object.keys(CART_LABEL).map(k=>`<option value="${k}"${k===st?" selected":""}>${CART_LABEL[k]}</option>`).join("");
+      const waText = encodeURIComponent(`Olá ${c.name||""}! Vi que você começou um pedido no M11NTX e posso te ajudar a finalizar.`);
+      return `<div class="ord-card s-${st}" data-id="${esc(o.id)}">
+        <div class="ord-top">
+          <span class="ord-id">últ. atividade ${dt}</span>
+          <span class="ord-total">${ordMoney(o.total_brl)}</span>
+          <select class="cart-status" data-id="${esc(o.id)}">${opts}</select>
+        </div>
+        <div class="ord-cust"><span class="muted">${contato}</span></div>
+        <ul class="ord-items">${items}</ul>
+        <div class="ord-actions">
+          ${phone?`<a class="wa" href="https://wa.me/${waDigits(phone)}?text=${waText}" target="_blank" rel="noopener"><i data-lucide="message-circle"></i>Chamar no WhatsApp</a>`:""}
+          <button class="ghost cart-del" data-id="${esc(o.id)}"><i data-lucide="trash-2"></i>Excluir</button>
+        </div>
+      </div>`;
+    }).join("");
+    if(window.lucide) lucide.createIcons();
+  }
+  $("cartStatusFilter").addEventListener("change", renderCarts);
+  $("cartReload").addEventListener("click", loadCarts);
+  $("cartsList").addEventListener("change", async (e)=>{
+    const sel = e.target.closest(".cart-status"); if(!sel) return;
+    const id=sel.dataset.id, status=sel.value;
+    const { error } = await sb.from("carts").update({status}).eq("id",id);
+    if(error){ toast("Erro ao atualizar: "+error.message); return; }
+    const o=CARTS.find(x=>x.id===id); if(o) o.status=status;
+    const card=sel.closest(".ord-card"); if(card) card.className="ord-card s-"+status;
+    toast("Status atualizado.", true);
+  });
+  $("cartsList").addEventListener("click", async (e)=>{
+    const del = e.target.closest(".cart-del"); if(!del) return;
+    if(!(await confirmDialog("Excluir este carrinho?", {title:"Excluir carrinho", ok:"Excluir", danger:true}))) return;
+    const { error } = await sb.from("carts").delete().eq("id",del.dataset.id);
+    if(error){ toast("Erro ao excluir: "+error.message); return; }
+    CARTS = CARTS.filter(x=>x.id!==del.dataset.id); renderCarts(); toast("Carrinho excluído.", true);
   });
 
   async function loadCampaigns(){
