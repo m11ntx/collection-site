@@ -276,7 +276,7 @@ const PAGES = [
         file: "how-it-works.html", i18nKey: "howItWorks", crumbKey: "nav.howItWorks",
         tab: "How It Works", crumb: NAV_FALLBACK.howItWorks, eyebrow: FALLBACK.howItWorks.eyebrow, h1: FALLBACK.howItWorks.h1,
         css: ["journey"], lang: HTML_LANG,
-        desc: "Como funciona a M11NTX: escolha uma camisa, fale conosco no Instagram, confirmamos a disponibilidade e importamos — prazo estimado de 25–40 dias corridos até a entrega.",
+        desc: "Como funciona a M11NTX: monte seu pedido no site (camisa, tamanho, quantidade e personalização) e finalize pelo WhatsApp — importamos com prazo estimado de 25–40 dias corridos até a entrega.",
         lead: FALLBACK.howItWorks.lead,
         body: `<div data-i18n-steps>${stepsHtml}</div>
     <div class="prose">
@@ -290,7 +290,7 @@ const PAGES = [
         file: "faq.html", i18nKey: "faq", crumbKey: "nav.faq",
         tab: "FAQ", crumb: NAV_FALLBACK.faq, eyebrow: FALLBACK.faq.eyebrow, h1: FALLBACK.faq.h1,
         css: ["journey"], lang: HTML_LANG,
-        desc: "Perguntas frequentes da M11NTX: prazo, disponibilidade, como funciona a compra, atendimento e pagamento.",
+        desc: "Perguntas frequentes da M11NTX: como funciona a compra, prazo, pagamento, personalização, entrega internacional e política de trocas e devoluções.",
         lead: FALLBACK.faq.lead,
         body: `<div data-i18n-faq>${faqHtml}</div>`
     },
@@ -298,7 +298,7 @@ const PAGES = [
         file: "contact.html", i18nKey: "contact", crumbKey: "nav.contact",
         tab: "Contact", crumb: NAV_FALLBACK.contact, eyebrow: FALLBACK.contact.eyebrow, h1: FALLBACK.contact.h1,
         lang: HTML_LANG,
-        desc: "Fale com a M11NTX pelo Instagram oficial ou por e-mail. Atendimento personalizado para camisas importadas.",
+        desc: "Fale com a M11NTX pelo WhatsApp, Instagram ou e-mail. Monte seu pedido no site e finalize com a gente pelo WhatsApp.",
         lead: FALLBACK.contact.lead,
         body: `<div class="prose">
         <div data-i18n-html="institutional.contact.body">${FALLBACK.contact.body}</div>
@@ -313,7 +313,7 @@ const PAGES = [
         file: "privacy.html", i18nKey: "privacy", crumbKey: "footer.privacy",
         tab: "Privacy", crumb: FOOTER_FALLBACK.privacy, eyebrow: FALLBACK.privacy.eyebrow, h1: FALLBACK.privacy.h1,
         lang: HTML_LANG,
-        desc: "Como a M11NTX trata dados de navegação, medição e contato. Transparência e conformidade com a LGPD.",
+        desc: "Como a M11NTX trata os dados do pedido (nome, documento, contato e endereço), navegação e medição. Transparência e conformidade com a LGPD.",
         body: `<div class="prose">
         <div data-i18n-html="institutional.privacy.body">${FALLBACK.privacy.body}</div>
         <p class="prose__updated" data-i18n="institutional.privacy.updated">${FALLBACK.privacy.updated}</p>
@@ -323,7 +323,7 @@ const PAGES = [
         file: "terms.html", i18nKey: "terms", crumbKey: "footer.terms",
         tab: "Terms", crumb: FOOTER_FALLBACK.terms, eyebrow: FALLBACK.terms.eyebrow, h1: FALLBACK.terms.h1,
         lang: HTML_LANG,
-        desc: "Termos de uso da plataforma M11NTX: natureza intermediadora, disponibilidade, prazos e atendimento.",
+        desc: "Termos de uso da M11NTX: pedido montado no site e finalizado pelo WhatsApp, disponibilidade, prazos, personalização e política de trocas.",
         body: `<div class="prose">
         <div data-i18n-html="institutional.terms.body">${FALLBACK.terms.body}</div>
         <p class="prose__updated" data-i18n="institutional.terms.updated">${FALLBACK.terms.updated}</p>
@@ -333,7 +333,7 @@ const PAGES = [
         file: "intermediation-policy.html", i18nKey: "intermediationPolicy", crumbKey: "footer.intermediationPolicy",
         tab: "Intermediation Policy", crumb: FOOTER_FALLBACK.intermediationPolicy,
         eyebrow: FALLBACK.intermediationPolicy.eyebrow, h1: FALLBACK.intermediationPolicy.h1, lang: HTML_LANG,
-        desc: "A M11NTX atua como intermediadora na aquisição de camisas importadas, com atendimento personalizado e disponibilidade confirmada antes do pedido.",
+        desc: "A M11NTX facilita a importação de camisas selecionadas: você monta o pedido no site e finaliza pelo WhatsApp, com disponibilidade confirmada ao recebermos o pedido.",
         lead: FALLBACK.intermediationPolicy.lead,
         body: `<div class="prose">
         <div data-i18n-html="institutional.intermediationPolicy.body">${FALLBACK.intermediationPolicy.body}</div>

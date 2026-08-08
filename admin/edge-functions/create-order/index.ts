@@ -71,14 +71,19 @@ Deno.serve(async (req) => {
         ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}${fee ? ` (+${money(fee)})` : ""}` : "";
       return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${money(unit(it))}`;
     });
-    const endereco = customer.rua
-      ? `${customer.rua}, ${customer.numero || "s/n"}${customer.complemento ? ` - ${customer.complemento}` : ""} - ${customer.bairro || ""} - ${customer.city || ""}/${customer.uf || ""} - CEP ${customer.cep || ""}`
-      : [customer.city, customer.uf].filter(Boolean).join("/");
+    const isBR = customer.countryCode === "BR" || !!customer.rua;
+    const endereco = isBR
+      ? `${customer.rua || ""}, ${customer.numero || "s/n"}${customer.complemento ? ` - ${customer.complemento}` : ""} - ${customer.bairro || ""} - ${customer.city || ""}/${customer.uf || ""} - CEP ${customer.cep || ""}`
+      : [[customer.address1, customer.address2].filter(Boolean).join(", "),
+         [customer.city, customer.state].filter(Boolean).join(" - "),
+         customer.postal, customer.country].filter(Boolean).join(", ");
+    const doc = customer.cpf || customer.doc;
     const fields: [string, string][] = [
       ["Cliente", customer.name],
-      ["CPF", customer.cpf],
+      [customer.cpf ? "CPF" : "Documento", doc],
       ["WhatsApp", phone],
       ["E-mail", customer.email],
+      ["País", customer.country],
       ["Endereço", endereco],
       ["Obs", customer.note],
     ].filter(([, v]) => v) as [string, string][];

@@ -890,7 +890,7 @@ const Catalog = (() => {
                 if (!box.querySelector(".order__err")) {
                     const p = document.createElement("p");
                     p.className = "order__err";
-                    p.textContent = "Escolha um tamanho.";
+                    p.textContent = I18N.t("jerseyDetail.sizeRequired");
                     box.insertBefore(p, box.querySelector(".order__consult"));
                 }
                 return;
@@ -986,11 +986,11 @@ const Catalog = (() => {
         const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-image="${esc(orderCover)}">
                 ${orderSizes}
                 <label class="order__perso-check">
-                    <input type="checkbox" class="order__perso-toggle"> Personalizar (nome e número)
+                    <input type="checkbox" class="order__perso-toggle"> ${I18N.t("jerseyDetail.personalizeToggle")}
                 </label>
                 <div class="order__perso-fields">
-                    <input type="text" class="order__perso-name" maxlength="20" placeholder="Nome (ex.: VINI JR)">
-                    <input type="text" class="order__perso-num" maxlength="3" inputmode="numeric" placeholder="Nº">
+                    <input type="text" class="order__perso-name" maxlength="20" placeholder="${esc(I18N.t("jerseyDetail.persoNamePlaceholder"))}">
+                    <input type="text" class="order__perso-num" maxlength="3" inputmode="numeric" placeholder="${esc(I18N.t("jerseyDetail.persoNumberPlaceholder"))}">
                 </div>
                 <div class="order__actions">
                     <div class="qty" aria-label="Quantidade">
@@ -998,9 +998,9 @@ const Catalog = (() => {
                         <span class="qty__val">1</span>
                         <button type="button" class="qty__btn" data-qplus aria-label="Aumentar">+</button>
                     </div>
-                    <button type="button" class="btn btn--primary order__add">Adicionar ao pedido</button>
+                    <button type="button" class="btn btn--primary order__add">${I18N.t("jerseyDetail.addToOrder")}</button>
                 </div>
-                <a class="order__consult" href="${esc(INSTAGRAM_URL)}" target="_blank" rel="noopener">Prefere falar conosco? Chame no Instagram &rarr;</a>
+                <a class="order__consult" href="${esc(INSTAGRAM_URL)}" target="_blank" rel="noopener">${I18N.t("jerseyDetail.orderConsult")} &rarr;</a>
             </div>`;
 
         // Reference-only size chart image, swapped by language (CS-11: no live
@@ -1443,7 +1443,7 @@ const Catalog = (() => {
                 .filter(Boolean).join(" · ");
             SEO.set({
                 title: `M11NTX | ${jersey.name}${clubName ? " — " + clubName : ""}`,
-                description: `${bits}. Importação sob consulta · 25–40 dias corridos. Premium Soccer Culture.`,
+                description: `${bits}. Importação premium · 25–40 dias corridos. Premium Soccer Culture.`,
                 canonical: `/pages/jersey.html?slug=${encodeURIComponent(slug)}`,
                 image: seoImage("jerseys", (Array.isArray(jersey.images) && jersey.images[0] && jersey.images[0].url) || jersey.image),
                 imageAlt: jersey.name

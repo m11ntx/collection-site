@@ -868,6 +868,12 @@
   let ORDERS = [];
   const ORD_LABEL = { novo:"Novo", em_contato:"Em contato", concluido:"Concluído", cancelado:"Cancelado" };
   const ordMoney = (v)=> "R$ "+(Number(v)||0).toFixed(2).replace(".",",");
+  function ordAddress(c){
+    const isBR = c.countryCode==="BR" || !!c.rua;
+    if(isBR) return c.rua ? `${esc(c.rua)}, ${esc(c.numero||"s/n")}${c.complemento?` - ${esc(c.complemento)}`:""} - ${esc(c.bairro||"")} - ${esc(c.city||"")}/${esc(c.uf||"")} - CEP ${esc(c.cep||"")}` : [c.city,c.uf].filter(Boolean).map(esc).join("/");
+    return [[c.address1,c.address2].filter(Boolean).join(", "), [c.city,c.state].filter(Boolean).join(" - "), c.postal, c.country].filter(Boolean).map(esc).join(", ");
+  }
+  function ordDoc(c){ const d=c.cpf||c.doc; return d ? `${c.cpf?"CPF":"Doc"} ${esc(d)}` : ""; }
   function ordItemLi(it){
     const fee = Number(it.persoFee)||0, base = Number(it.price)||0, unit = base+fee, qty = it.qty||1;
     const nm = it.perso && (it.perso.name||it.perso.number)
@@ -891,9 +897,8 @@
     $("ordersList").innerHTML = list.map(o=>{
       const c = o.customer||{}, st = o.status||"novo";
       const items = (o.items||[]).map(ordItemLi).join("");
-      const end = c.rua
-        ? `${esc(c.rua)}, ${esc(c.numero||"s/n")}${c.complemento?` - ${esc(c.complemento)}`:""} - ${esc(c.bairro||"")} - ${esc(c.city||"")}/${esc(c.uf||"")} - CEP ${esc(c.cep||"")}`
-        : [c.city,c.uf].filter(Boolean).map(esc).join("/");
+      const end = ordAddress(c);
+      const docTxt = ordDoc(c);
       const phone = c.phone||c.contact||"";
       const dt = o.created_at ? new Date(o.created_at).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",year:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
       const opts = Object.keys(ORD_LABEL).map(k=>`<option value="${k}"${k===st?" selected":""}>${ORD_LABEL[k]}</option>`).join("");
@@ -906,7 +911,7 @@
           <select class="ord-status" data-id="${esc(o.id)}">${opts}</select>
         </div>
         <div class="ord-cust">
-          <b>${esc(c.name||"—")}</b>${c.cpf?` <span class="muted">· CPF ${esc(c.cpf)}</span>`:""}<br>
+          <b>${esc(c.name||"—")}</b>${docTxt?` <span class="muted">· ${docTxt}</span>`:""}${c.country?` <span class="muted">· ${esc(c.country)}</span>`:""}<br>
           <span class="muted">${esc(phone)}${c.email?` · ${esc(c.email)}`:""}</span><br>
           <span class="muted">${end}</span>
         </div>
