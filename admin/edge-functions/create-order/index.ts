@@ -65,12 +65,24 @@ Deno.serve(async (req) => {
   const token = Deno.env.get("TELEGRAM_BOT_TOKEN");
   const chat = Deno.env.get("TELEGRAM_CHAT_ID");
   if (token && chat) {
+    // moeda que o cliente viu (BRL/USD/EUR); valores *_cur vêm do carrinho
+    const cur = String(body.currency || customer.currency || "BRL");
+    const isBRL = cur === "BRL";
+    const LOC: Record<string, string> = { BRL: "pt-BR", USD: "en-US", EUR: "de-DE" };
+    const fmtC = (v: unknown) => {
+      try { return new Intl.NumberFormat(LOC[cur] || "en-US", { style: "currency", currency: cur }).format(Number(v) || 0); }
+      catch (_) { return (isBRL ? "R$ " : cur + " ") + (Number(v) || 0).toFixed(2); }
+    };
     const lines = items.map((it: any) => {
-      const fee = Number(it.persoFee) || 0;
+      const feeBRL = Number(it.persoFee) || 0;
+      const feeShow = isBRL ? feeBRL : (Number(it.feeCur) || 0);
+      const unitShow = isBRL ? unit(it) : ((Number(it.priceCur) || 0) + (Number(it.feeCur) || 0));
       const p = it.perso && (it.perso.name || it.perso.number)
-        ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}${fee ? ` (+${money(fee)})` : ""}` : "";
-      return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${money(unit(it))}`;
+        ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}${feeBRL ? ` (+${fmtC(feeShow)})` : ""}` : "";
+      return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${fmtC(unitShow)}`;
     });
+    const totalShow = isBRL ? total : (Number(body.total_cur) || 0);
+    const totalLine = `*Total:* ${fmtC(totalShow)}${isBRL ? "" : ` (${money(total)})`}`;
     const isBR = customer.countryCode === "BR" || !!customer.rua;
     const endereco = isBR
       ? `${customer.rua || ""}, ${customer.numero || "s/n"}${customer.complemento ? ` - ${customer.complemento}` : ""} - ${customer.bairro || ""} - ${customer.city || ""}/${customer.uf || ""} - CEP ${customer.cep || ""}`
@@ -90,7 +102,7 @@ Deno.serve(async (req) => {
     const text =
       `🛒 *Novo pedido M11NTX*\n\n` +
       lines.join("\n") +
-      `\n\n*Total:* ${money(total)}\n` +
+      `\n\n${totalLine}\n` +
       fields.map(([k, v]) => `*${k}:* ${v}`).join("\n") +
       `\n\n_id: ${saved.id || "?"}_`;
     try {

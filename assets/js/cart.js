@@ -115,8 +115,12 @@
   }
   const unitIn = (i, cur) => priceIn(i, cur) + feeIn(i, cur);
   const total = (cur) => { cur = cur || activeCur(); return items.reduce((s, i) => s + unitIn(i, cur) * (i.qty || 1), 0); };
-  // backend/Telegram sempre em BRL (moeda da operação)
-  const payloadItems = () => items.map((i) => ({ ...i, price: (i.prices && i.prices.BRL) || i.price || 0, persoFee: feeOf(i) }));
+  // backend guarda BRL (total_brl); priceCur/feeCur levam a moeda ATIVA p/ o Telegram
+  const payloadItems = () => {
+    const cur = activeCur();
+    return items.map((i) => ({ ...i, price: (i.prices && i.prices.BRL) || i.price || 0,
+      persoFee: feeOf(i), priceCur: priceIn(i, cur), feeCur: feeIn(i, cur) }));
+  };
 
   function add(item) {
     if (!item || !item.id) return;
@@ -369,7 +373,7 @@
   }
 
   function buildCustomer(g, partial) {
-    const c = { countryCode, country: countryName(countryCode), name: g("name"), phone: g("phone"), email: g("email") };
+    const c = { countryCode, country: countryName(countryCode), currency: activeCur(), name: g("name"), phone: g("phone"), email: g("email") };
     if (isBR()) {
       c.cpf = g("doc"); c.cep = g("postal"); c.rua = g("street"); c.numero = g("number");
       c.bairro = g("neighborhood"); c.city = g("city"); c.uf = (g("state") || "").toUpperCase(); c.complemento = g("complement");
@@ -409,7 +413,7 @@
         await fetch(cfg.supabaseUrl + "/functions/v1/create-order", {
           method: "POST",
           headers: { "Content-Type": "application/json", "apikey": cfg.supabaseAnon, "Authorization": "Bearer " + cfg.supabaseAnon },
-          body: JSON.stringify({ items: payloadItems(), customer, _hp: f._hp.value || "" }),
+          body: JSON.stringify({ items: payloadItems(), customer, currency: activeCur(), total_cur: total(activeCur()), _hp: f._hp.value || "" }),
         });
       }
     } catch (_) { /* não bloqueia o WhatsApp */ }

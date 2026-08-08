@@ -582,8 +582,17 @@ const Catalog = (() => {
     // Instagram" model everywhere else on the jersey detail page.
     function jerseyPersonalizationHtml(p) {
         if (!p || !p.personalizationAvailable || !window.CurrencyService) return "";
-        const price = CurrencyService.personalizationFormattedPriceFor(p);
-        if (!price) return "";
+        // Mesma fonte do carrinho: a taxa é a config persoFee (BRL), mostrada na
+        // moeda ativa usando o câmbio do próprio produto (preço[cur]/preço[BRL]).
+        const fee = (window.CONFIG && Number.isFinite(CONFIG.persoFee)) ? CONFIG.persoFee : 40;
+        const cur = CurrencyService.getCurrency();
+        const brl = p.price && typeof p.price.BRL === "number" ? p.price.BRL : 0;
+        const curAmt = p.price && typeof p.price[cur] === "number" ? p.price[cur] : brl;
+        const feeCur = brl > 0 ? fee * (curAmt / brl) : fee;
+        const loc = (CurrencyService.CURRENCY_TO_LOCALE && CurrencyService.CURRENCY_TO_LOCALE[cur]) || "pt-BR";
+        let price;
+        try { price = new Intl.NumberFormat(loc, { style: "currency", currency: cur }).format(feeCur); }
+        catch (_) { price = "R$ " + fee.toFixed(2).replace(".", ","); }
         return `<p class="jersey__personalization">${esc(I18N.t("jerseyDetail.personalizationNote", { price: price }))}</p>`;
     }
 
