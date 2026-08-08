@@ -898,11 +898,14 @@ const Catalog = (() => {
             if (!window.Cart) return;
             const perso = persoToggle && persoToggle.checked && (persoName.value.trim() || persoNum.value.trim())
                 ? { name: persoName.value.trim(), number: persoNum.value.trim() } : null;
+            let prices = null;
+            try { prices = JSON.parse(box.dataset.prices || "{}"); } catch (_) { prices = null; }
             window.Cart.add({
                 id: box.dataset.id, name: box.dataset.name,
                 size: sel ? sel.dataset.size : "",
                 qty: parseInt(val.textContent, 10) || 1,
                 price: parseFloat(box.dataset.price) || 0,
+                prices: prices,
                 image: box.dataset.image,
                 perso,
             });
@@ -983,7 +986,7 @@ const Catalog = (() => {
                    </div>
                </div>`
             : "";
-        const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-image="${esc(orderCover)}">
+        const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-prices='${esc(JSON.stringify(p.price || {}))}' data-image="${esc(orderCover)}">
                 ${orderSizes}
                 <label class="order__perso-check">
                     <input type="checkbox" class="order__perso-toggle"> ${I18N.t("jerseyDetail.personalizeToggle")}

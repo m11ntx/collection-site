@@ -20,7 +20,14 @@
   const COUNTRY_KEY = "m11ntx_country";
   const esc = (s) => String(s == null ? "" : s).replace(/[&<>"']/g,
     (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-  const money = (v) => "R$ " + (Number(v) || 0).toFixed(2).replace(".", ",");
+  const activeCur = () => (window.CurrencyService ? CurrencyService.getCurrency() : "BRL");
+  function fmt(v, cur) {
+    cur = cur || activeCur();
+    const loc = (window.CurrencyService && CurrencyService.CURRENCY_TO_LOCALE && CurrencyService.CURRENCY_TO_LOCALE[cur]) || "pt-BR";
+    try { return new Intl.NumberFormat(loc, { style: "currency", currency: cur }).format(Number(v) || 0); }
+    catch (_) { return (cur === "BRL" ? "R$ " : cur + " ") + (Number(v) || 0).toFixed(2); }
+  }
+  const money = (v) => fmt(v, "BRL");
   const t = (k, vars) => (window.I18N ? window.I18N.t("cart." + k, vars) : k);
   const lang = () => (window.I18N ? window.I18N.getLang() : "pt");
   let items = load();
@@ -97,10 +104,19 @@
   const PERSO_FEE = Number.isFinite(cfg.persoFee) ? cfg.persoFee : 40; // R$ extra por peça personalizada
   const count = () => items.reduce((n, i) => n + (i.qty || 1), 0);
   const hasPerso = (p) => !!(p && (p.name || p.number));
-  const feeOf = (i) => hasPerso(i.perso) ? PERSO_FEE : 0;
-  const unitOf = (i) => (Number(i.price) || 0) + feeOf(i);
-  const total = () => items.reduce((s, i) => s + unitOf(i) * (i.qty || 1), 0);
-  const payloadItems = () => items.map((i) => ({ ...i, persoFee: feeOf(i) }));
+  const feeOf = (i) => hasPerso(i.perso) ? PERSO_FEE : 0;                 // taxa em BRL (backend/Telegram)
+  // Preço do item na moeda ATIVA (usa o preço já pré-calculado por moeda; sem
+  // conversão). A taxa de personalização é convertida pelo mesmo câmbio do item.
+  const priceIn = (i, cur) => (i.prices && typeof i.prices[cur] === "number") ? i.prices[cur] : (Number(i.price) || 0);
+  function feeIn(i, cur) {
+    if (!hasPerso(i.perso)) return 0;
+    const brl = (i.prices && i.prices.BRL) || Number(i.price) || 0;
+    return brl > 0 ? PERSO_FEE * (priceIn(i, cur) / brl) : PERSO_FEE;
+  }
+  const unitIn = (i, cur) => priceIn(i, cur) + feeIn(i, cur);
+  const total = (cur) => { cur = cur || activeCur(); return items.reduce((s, i) => s + unitIn(i, cur) * (i.qty || 1), 0); };
+  // backend/Telegram sempre em BRL (moeda da operação)
+  const payloadItems = () => items.map((i) => ({ ...i, price: (i.prices && i.prices.BRL) || i.price || 0, persoFee: feeOf(i) }));
 
   function add(item) {
     if (!item || !item.id) return;
@@ -108,7 +124,8 @@
     const ex = perso ? null : items.find((i) => i.id === item.id && (i.size || "") === (item.size || "") && !hasPerso(i.perso));
     if (ex) ex.qty += (item.qty || 1);
     else items.push({ id: item.id, name: item.name || item.id, size: item.size || "",
-                      qty: item.qty || 1, price: Number(item.price) || 0, image: item.image || "", perso });
+                      qty: item.qty || 1, price: Number(item.price) || 0, image: item.image || "",
+                      prices: (item.prices && typeof item.prices === "object") ? item.prices : null, perso });
     openPerso.clear(); persist(); openDrawer();
   }
 
@@ -209,12 +226,23 @@
     f.addEventListener("input", () => syncCart());
     document.addEventListener("keydown", (e) => { if (e.key === "Escape") closeDrawer(); });
     document.addEventListener("language:change", () => { applyI18n(); applyCountry(); render(); });
+    document.addEventListener("currency:change", render);
     applyI18n(); applyCountry(); render();
   }
   const openDrawer = () => document.body.classList.add("m11-open");
   const closeDrawer = () => document.body.classList.remove("m11-open");
-  function toCheckout() { if (!items.length) return; document.getElementById("m11-form").classList.remove("m11-hidden"); document.getElementById("m11-foot").classList.add("m11-hidden"); }
-  function toCart() { document.getElementById("m11-form").classList.add("m11-hidden"); document.getElementById("m11-foot").classList.remove("m11-hidden"); }
+  function toCheckout() {
+    if (!items.length) return;
+    document.getElementById("m11-items").classList.add("m11-hidden");
+    document.getElementById("m11-foot").classList.add("m11-hidden");
+    document.getElementById("m11-form").classList.remove("m11-hidden");
+    document.getElementById("m11-drawer").scrollTop = 0;
+  }
+  function toCart() {
+    document.getElementById("m11-form").classList.add("m11-hidden");
+    document.getElementById("m11-items").classList.remove("m11-hidden");
+    document.getElementById("m11-foot").classList.remove("m11-hidden");
+  }
 
   function setLabel(id, text) { const el = root.querySelector("#" + id + " .lt"); if (el) el.textContent = text; }
   function setOpt(id, show) { const el = root.querySelector("#" + id + " .lo"); if (el) el.textContent = show ? t("optional") : ""; }
@@ -265,12 +293,13 @@
 
   function persoSummary(it) {
     if (!hasPerso(it.perso)) return "";
-    const p = it.perso;
-    return `<div class="m11-perso-sum">✚ ${esc([p.name, p.number ? `nº ${p.number}` : ""].filter(Boolean).join(" "))} · +${money(PERSO_FEE)}</div>`;
+    const cur = activeCur(); const p = it.perso;
+    return `<div class="m11-perso-sum">✚ ${esc([p.name, p.number ? `nº ${p.number}` : ""].filter(Boolean).join(" "))} · +${fmt(feeIn(it, cur), cur)}</div>`;
   }
   function render() {
     if (!root) return;
     const n = count();
+    const cur = activeCur();
     document.getElementById("m11-count").textContent = n;
     document.getElementById("m11-fab").style.display = n ? "flex" : "none";
     document.getElementById("m11-items").innerHTML = items.length ? items.map((it, i) => {
@@ -282,7 +311,7 @@
            <div class="m11-name">${esc(it.name)}</div>
            ${it.size ? `<div class="m11-sz">Tam: ${esc(it.size)}</div>` : ""}
            ${persoSummary(it)}
-           <div class="m11-price">${money(it.price)}</div>
+           <div class="m11-price">${fmt(priceIn(it, cur), cur)}</div>
            <button type="button" class="m11-perso-tgl" data-perso="${i}">${hasPerso(it.perso) ? t("persoEdit") : t("persoAdd")}</button>
            <div class="m11-perso ${open ? "" : "m11-hidden"}">
              <input class="m11-pname" data-pi="${i}" maxlength="20" placeholder="${esc(window.I18N ? I18N.t("jerseyDetail.persoNamePlaceholder") : "Nome")}" value="${esc(p.name || "")}">
@@ -293,8 +322,9 @@
          <button class="m11-rm" data-rm="${i}" aria-label="${esc(t("remove"))}">✕</button>
        </div>`;
     }).join("") : `<div class="m11-empty">${t("empty")}</div>`;
-    document.getElementById("m11-total").textContent = money(total());
-    document.getElementById("m11-ftotal").textContent = money(total());
+    const tot = fmt(total(cur), cur);
+    document.getElementById("m11-total").textContent = tot;
+    document.getElementById("m11-ftotal").textContent = tot;
   }
   function onItemsClick(e) {
     const inc = e.target.closest("[data-inc]"), dec = e.target.closest("[data-dec]"),
@@ -392,10 +422,10 @@
     setTimeout(() => { toCart(); closeDrawer(); msg.textContent = ""; }, 2600);
   }
 
-  function itemLine(i) {
+  function itemLine(i, cur) {
     const perso = hasPerso(i.perso)
-      ? ` | Perso: ${[i.perso.name, i.perso.number ? `nº ${i.perso.number}` : ""].filter(Boolean).join(" ")} (+${money(PERSO_FEE)})` : "";
-    return `• ${i.qty}x ${i.name}${i.size ? ` (${i.size})` : ""}${perso} — ${money(unitOf(i))}`;
+      ? ` | Perso: ${[i.perso.name, i.perso.number ? `nº ${i.perso.number}` : ""].filter(Boolean).join(" ")} (+${fmt(feeIn(i, cur), cur)})` : "";
+    return `• ${i.qty}x ${i.name}${i.size ? ` (${i.size})` : ""}${perso} — ${fmt(unitIn(i, cur), cur)}`;
   }
   function addressText(c) {
     if (c.rua || c.countryCode === "BR") {
@@ -406,7 +436,8 @@
     return [line, cityState, c.postal, c.country].filter(Boolean).join(", ");
   }
   function waLink(c) {
-    const lines = items.map(itemLine).join("\n");
+    const cur = activeCur();
+    const lines = items.map((i) => itemLine(i, cur)).join("\n");
     const doc = c.cpf || c.doc;
     const dados = [
       `${t("name")}: ${c.name}`,
@@ -416,7 +447,7 @@
       c.country ? `${t("country")}: ${c.country}` : "",
       `${t("addressLabel")}: ${addressText(c)}`,
     ].filter(Boolean).join("\n");
-    const text = `${t("waGreeting")}\n\n${lines}\n\nTotal: ${money(total())}\n\n${dados}`;
+    const text = `${t("waGreeting")}\n\n${lines}\n\nTotal: ${fmt(total(cur), cur)}\n\n${dados}`;
     return `https://wa.me/${String(cfg.whatsapp).replace(/\D/g, "")}?text=${encodeURIComponent(text)}`;
   }
 
@@ -432,7 +463,7 @@
     #m11-count{ display:grid; place-items:center; min-width:22px; height:22px; padding:0 6px; border-radius:999px; background:#1a1509; color:#e6c476; font-size:.76rem; font-weight:800; }
     @media (max-width:420px){ .m11-fab-label{ display:none; } #m11-fab{ padding:.72rem .8rem; } }
     #m11-back{ position:fixed; inset:0; z-index:61; background:rgba(0,0,0,.55); opacity:0; visibility:hidden; transition:opacity .2s; }
-    #m11-drawer{ position:fixed; top:0; right:0; bottom:0; z-index:62; width:min(420px,94vw); background:#141417; color:#ededf1;
+    #m11-drawer{ position:fixed; top:0; right:0; bottom:0; height:100vh; height:100dvh; z-index:62; width:min(420px,94vw); background:#141417; color:#ededf1;
       border-left:1px solid #2a2a33; box-shadow:-12px 0 40px rgba(0,0,0,.5); transform:translateX(100%); transition:transform .25s ease;
       display:flex; flex-direction:column; font-family:system-ui,sans-serif; overflow-x:hidden; }
     body.m11-open #m11-back{ opacity:1; visibility:visible; }
@@ -459,7 +490,7 @@
     .m11-qty span{ min-width:18px; text-align:center; font-size:.85rem; }
     .m11-rm{ background:none; border:0; color:#9a9aa4; cursor:pointer; font-size:.9rem; }
     #m11-foot,#m11-form{ padding:1rem 1.2rem; border-top:1px solid #2a2a33; display:flex; flex-direction:column; gap:.7rem; }
-    #m11-form{ overflow:auto; }
+    #m11-form{ overflow:auto; flex:1; }
     .m11-total{ display:flex; justify-content:space-between; font-size:1rem; } .m11-total strong{ color:#d4af5f; }
     .m11-note{ font-size:.75rem; color:#9a9aa4; margin:0; }
     .m11-primary{ background:linear-gradient(180deg,#d4af5f,#b8924a); color:#17130c; border:0; border-radius:10px; padding:.75rem; font-weight:800; cursor:pointer; }
