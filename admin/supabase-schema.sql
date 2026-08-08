@@ -159,6 +159,32 @@ create policy "authenticated read carts"   on public.carts for select to authent
 create policy "authenticated update carts" on public.carts for update to authenticated using (true) with check (true);
 create policy "authenticated delete carts" on public.carts for delete to authenticated using (true);
 
+-- ----------------------------------------------------------------------------
+-- USO (FREE TIER) — chamada pelo Action (export.supabase_usage) com a service
+-- key p/ montar a seção "USO (FREE TIER)" no e-mail: tamanho do banco, storage
+-- e contagem de linhas. SECURITY DEFINER p/ ler pg_database_size + storage.
+-- ----------------------------------------------------------------------------
+create or replace function public.usage_report()
+returns jsonb
+language sql
+security definer
+set search_path = public, storage
+as $$
+  select jsonb_build_object(
+    'db_bytes', pg_database_size(current_database()),
+    'storage_bytes', coalesce((select sum((metadata->>'size')::bigint) from storage.objects), 0),
+    'storage_objects', (select count(*) from storage.objects),
+    'tables', jsonb_build_object(
+      'orders',            (select count(*) from public.orders),
+      'carts',             (select count(*) from public.carts),
+      'product_overrides', (select count(*) from public.product_overrides),
+      'campaigns',         (select count(*) from public.campaigns)
+    )
+  );
+$$;
+revoke all on function public.usage_report() from public, anon;
+grant execute on function public.usage_report() to service_role;
+
 -- ============================================================================
 -- Pronto. Depois disto:
 --   1. Authentication -> Users -> Add user: crie SEU login (email + senha).

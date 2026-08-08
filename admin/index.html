@@ -167,7 +167,9 @@
   .ord-cust b{ font-size:.95rem; }
   .ord-items{ list-style:none; margin:.3rem 0 .8rem; padding:0; display:flex; flex-direction:column; gap:.25rem; }
   .ord-items li{ font-size:.85rem; padding:.35rem .55rem; background:var(--panel2); border-radius:8px; }
-  .ord-items .perso{ color:var(--gold); }
+  .ord-items .perso{ color:var(--gold); font-weight:700; }
+  .ord-perso{ font-size:.78rem; color:var(--mut); margin-top:.15rem; }
+  .ord-perso b{ color:#ededf1; }
   .ord-actions{ display:flex; gap:.5rem; flex-wrap:wrap; align-items:center; }
   .ord-actions a.wa{ display:inline-flex; align-items:center; gap:.4rem; text-decoration:none; background:var(--gold); color:#1a1509; font-weight:700; padding:.5rem .85rem; border-radius:var(--radius); font-size:.85rem; }
   .ord-actions .ord-del{ display:inline-flex; align-items:center; gap:.4rem; }
@@ -867,10 +869,13 @@
   const ORD_LABEL = { novo:"Novo", em_contato:"Em contato", concluido:"Concluído", cancelado:"Cancelado" };
   const ordMoney = (v)=> "R$ "+(Number(v)||0).toFixed(2).replace(".",",");
   function ordItemLi(it){
-    const fee = Number(it.persoFee)||0, unit = (Number(it.price)||0)+fee;
-    const perso = it.perso && (it.perso.name||it.perso.number)
-      ? ` <span class="perso">| ${esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" "))}${fee?` (+${ordMoney(fee)})`:""}</span>` : "";
-    return `<li>${it.qty||1}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""}${perso} — ${ordMoney(unit)}</li>`;
+    const fee = Number(it.persoFee)||0, base = Number(it.price)||0, unit = base+fee, qty = it.qty||1;
+    const nm = it.perso && (it.perso.name||it.perso.number)
+      ? esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" ")) : "";
+    const persoLine = nm
+      ? `<div class="ord-perso">↳ Personalização: <b>${nm}</b>${fee?` <span class="perso">+${ordMoney(fee)}</span>`:""}</div>` : "";
+    const sub = qty>1 ? ` <span class="muted">(${ordMoney(unit)} × ${qty} = ${ordMoney(unit*qty)})</span>` : "";
+    return `<li>${qty}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""} — ${ordMoney(unit)}${sub}${persoLine}</li>`;
   }
   function waDigits(phone){ let d=String(phone||"").replace(/\D/g,""); if(d && d.indexOf("55")!==0) d="55"+d; return d; }
   async function loadOrders(){
