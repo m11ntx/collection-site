@@ -29,7 +29,7 @@ Deno.serve(async (req) => {
   const items = Array.isArray(body?.items) ? body.items : [];
   const customer = body?.customer && typeof body.customer === "object" ? body.customer : {};
   const status = ["aberto", "convertido", "ignorado"].includes(body?.status) ? body.status : "aberto";
-  const total_brl = items.reduce((s: number, it: any) => s + (Number(it.price) || 0) * (Number(it.qty) || 1), 0);
+  const total_brl = items.reduce((s: number, it: any) => s + ((Number(it.price) || 0) + (Number(it.persoFee) || 0)) * (Number(it.qty) || 1), 0);
 
   const SUPABASE_URL = Deno.env.get("SUPABASE_URL")!;
   const SERVICE = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;

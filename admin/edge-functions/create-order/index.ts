@@ -41,7 +41,9 @@ Deno.serve(async (req) => {
   if (!items.length) return json({ ok: false, error: "pedido vazio" }, 400);
   if (!customer.name || !phone) return json({ ok: false, error: "informe nome e WhatsApp" }, 400);
 
-  const total = items.reduce((s: number, it: any) => s + (Number(it.price) || 0) * (Number(it.qty) || 1), 0);
+  // preço unitário já inclui a taxa de personalização (persoFee) enviada pelo cliente
+  const unit = (it: any) => (Number(it.price) || 0) + (Number(it.persoFee) || 0);
+  const total = items.reduce((s: number, it: any) => s + unit(it) * (Number(it.qty) || 1), 0);
 
   const SUPABASE_URL = Deno.env.get("SUPABASE_URL")!;
   const SERVICE = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY")!;
@@ -64,9 +66,10 @@ Deno.serve(async (req) => {
   const chat = Deno.env.get("TELEGRAM_CHAT_ID");
   if (token && chat) {
     const lines = items.map((it: any) => {
+      const fee = Number(it.persoFee) || 0;
       const p = it.perso && (it.perso.name || it.perso.number)
-        ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}` : "";
-      return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${money(it.price)}`;
+        ? ` | Perso: ${[it.perso.name, it.perso.number ? `nº ${it.perso.number}` : ""].filter(Boolean).join(" ")}${fee ? ` (+${money(fee)})` : ""}` : "";
+      return `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""}${p} — ${money(unit(it))}`;
     });
     const endereco = customer.rua
       ? `${customer.rua}, ${customer.numero || "s/n"}${customer.complemento ? ` - ${customer.complemento}` : ""} - ${customer.bairro || ""} - ${customer.city || ""}/${customer.uf || ""} - CEP ${customer.cep || ""}`

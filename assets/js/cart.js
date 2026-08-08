@@ -53,17 +53,22 @@
         fetch(cfg.supabaseUrl + "/functions/v1/save-cart", {
           method: "POST", keepalive: true,
           headers: { "Content-Type": "application/json", "apikey": cfg.supabaseAnon, "Authorization": "Bearer " + cfg.supabaseAnon },
-          body: JSON.stringify({ session_id: getSid(), items, customer: partialCustomer(), status: status || "aberto" }),
+          body: JSON.stringify({ session_id: getSid(), items: payloadItems(), customer: partialCustomer(), status: status || "aberto" }),
         }).catch(() => {});
       } catch (_) {}
     };
     clearTimeout(_syncT);
     if (status) doIt(); else _syncT = setTimeout(doIt, 900);
   }
+  const PERSO_FEE = Number.isFinite(cfg.persoFee) ? cfg.persoFee : 40; // R$ extra por peça personalizada
   const count = () => items.reduce((n, i) => n + (i.qty || 1), 0);
-  const total = () => items.reduce((s, i) => s + (Number(i.price) || 0) * (i.qty || 1), 0);
   const hasPerso = (p) => !!(p && (p.name || p.number));
   const persoKey = (p) => hasPerso(p) ? `${p.name || ""}#${p.number || ""}` : "";
+  const feeOf = (i) => hasPerso(i.perso) ? PERSO_FEE : 0;          // taxa de personalização do item
+  const unitOf = (i) => (Number(i.price) || 0) + feeOf(i);         // preço unitário já com a taxa
+  const total = () => items.reduce((s, i) => s + unitOf(i) * (i.qty || 1), 0);
+  // itens enviados ao servidor carregam a taxa (persoFee) -> banco/Telegram/admin somam certo
+  const payloadItems = () => items.map((i) => ({ ...i, persoFee: feeOf(i) }));
 
   function add(item) {
     if (!item || !item.id) return;
@@ -176,7 +181,7 @@
   function persoSummary(it) {
     if (!hasPerso(it.perso)) return "";
     const p = it.perso;
-    return `<div class="m11-perso-sum">✚ ${esc([p.name, p.number ? `nº ${p.number}` : ""].filter(Boolean).join(" "))}</div>`;
+    return `<div class="m11-perso-sum">✚ ${esc([p.name, p.number ? `nº ${p.number}` : ""].filter(Boolean).join(" "))} · +${money(PERSO_FEE)}</div>`;
   }
   function render() {
     if (!root) return;
@@ -277,7 +282,7 @@
         await fetch(cfg.supabaseUrl + "/functions/v1/create-order", {
           method: "POST",
           headers: { "Content-Type": "application/json", "apikey": cfg.supabaseAnon, "Authorization": "Bearer " + cfg.supabaseAnon },
-          body: JSON.stringify({ items, customer, _hp: f._hp.value || "" }),
+          body: JSON.stringify({ items: payloadItems(), customer, _hp: f._hp.value || "" }),
         });
       }
     } catch (_) { /* não bloqueia o WhatsApp */ }
@@ -291,8 +296,8 @@
 
   function itemLine(i) {
     const perso = hasPerso(i.perso)
-      ? ` | Perso: ${[i.perso.name, i.perso.number ? `nº ${i.perso.number}` : ""].filter(Boolean).join(" ")}` : "";
-    return `• ${i.qty}x ${i.name}${i.size ? ` (${i.size})` : ""}${perso} — ${money(i.price)}`;
+      ? ` | Perso: ${[i.perso.name, i.perso.number ? `nº ${i.perso.number}` : ""].filter(Boolean).join(" ")} (+${money(PERSO_FEE)})` : "";
+    return `• ${i.qty}x ${i.name}${i.size ? ` (${i.size})` : ""}${perso} — ${money(unitOf(i))}`;
   }
   function waLink(c) {
     const lines = items.map(itemLine).join("\n");

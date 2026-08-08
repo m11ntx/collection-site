@@ -866,6 +866,12 @@
   let ORDERS = [];
   const ORD_LABEL = { novo:"Novo", em_contato:"Em contato", concluido:"Concluído", cancelado:"Cancelado" };
   const ordMoney = (v)=> "R$ "+(Number(v)||0).toFixed(2).replace(".",",");
+  function ordItemLi(it){
+    const fee = Number(it.persoFee)||0, unit = (Number(it.price)||0)+fee;
+    const perso = it.perso && (it.perso.name||it.perso.number)
+      ? ` <span class="perso">| ${esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" "))}${fee?` (+${ordMoney(fee)})`:""}</span>` : "";
+    return `<li>${it.qty||1}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""}${perso} — ${ordMoney(unit)}</li>`;
+  }
   function waDigits(phone){ let d=String(phone||"").replace(/\D/g,""); if(d && d.indexOf("55")!==0) d="55"+d; return d; }
   async function loadOrders(){
     const { data, error } = await sb.from("orders").select("*").order("created_at",{ascending:false});
@@ -879,11 +885,7 @@
     if(!list.length){ $("ordersList").innerHTML = `<div class="ord-empty">Nenhum pedido${filt?" com esse status":""}.</div>`; return; }
     $("ordersList").innerHTML = list.map(o=>{
       const c = o.customer||{}, st = o.status||"novo";
-      const items = (o.items||[]).map(it=>{
-        const perso = it.perso && (it.perso.name||it.perso.number)
-          ? ` <span class="perso">| ${esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" "))}</span>` : "";
-        return `<li>${it.qty||1}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""}${perso} — ${ordMoney(it.price)}</li>`;
-      }).join("");
+      const items = (o.items||[]).map(ordItemLi).join("");
       const end = c.rua
         ? `${esc(c.rua)}, ${esc(c.numero||"s/n")}${c.complemento?` - ${esc(c.complemento)}`:""} - ${esc(c.bairro||"")} - ${esc(c.city||"")}/${esc(c.uf||"")} - CEP ${esc(c.cep||"")}`
         : [c.city,c.uf].filter(Boolean).map(esc).join("/");
@@ -946,10 +948,7 @@
     if(!list.length){ $("cartsList").innerHTML = `<div class="ord-empty">Nenhum carrinho${filt?" nesse status":""}.</div>`; return; }
     $("cartsList").innerHTML = list.map(o=>{
       const c = o.customer||{}, st = o.status||"aberto";
-      const items = (o.items||[]).map(it=>{
-        const perso = it.perso && (it.perso.name||it.perso.number) ? ` <span class="perso">| ${esc([it.perso.name, it.perso.number?("nº "+it.perso.number):""].filter(Boolean).join(" "))}</span>` : "";
-        return `<li>${it.qty||1}x ${esc(it.name||"")}${it.size?` (${esc(it.size)})`:""}${perso} — ${ordMoney(it.price)}</li>`;
-      }).join("") || `<li>(vazio)</li>`;
+      const items = (o.items||[]).map(ordItemLi).join("") || `<li>(vazio)</li>`;
       const phone = c.phone||c.contact||"";
       const contato = [c.name, phone, c.email].filter(Boolean).map(esc).join(" · ") || "<i>anônimo — sem contato ainda</i>";
       const dt = o.updated_at ? new Date(o.updated_at).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",year:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";

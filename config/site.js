@@ -34,6 +34,8 @@
         // no WhatsApp). ***TROQUE O NÚMERO AQUI*** (formato internacional, só
         // dígitos; ex.: "5511999998888"). Vazio = botão de WhatsApp fica oculto.
         whatsapp: "5516991871212",
+        // Valor extra (BRL) por PEÇA personalizada (nome/número). Troque aqui.
+        persoFee: 40,
         // Supabase (checkout): chamado pelo storefront p/ registrar o pedido +
         // notificar (Edge Function create-order). A anon key é pública.
         supabaseUrl: "https://rhychbqeskwutlytaupd.supabase.co",
