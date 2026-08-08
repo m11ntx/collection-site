@@ -109,6 +109,29 @@ drop policy if exists "authenticated write camp" on public.campaigns;
 create policy "authenticated read camp"  on public.campaigns for select to authenticated using (true);
 create policy "authenticated write camp" on public.campaigns for all    to authenticated using (true) with check (true);
 
+-- ----------------------------------------------------------------------------
+-- PEDIDOS (checkout "monte seu pedido" -> WhatsApp + Telegram)
+-- Inserção vem da Edge Function create-order (service role -> ignora RLS).
+-- O /admin (usuário logado) lê, muda status e pode excluir.
+-- ----------------------------------------------------------------------------
+create table if not exists public.orders (
+    id         uuid primary key default gen_random_uuid(),
+    created_at timestamptz not null default now(),
+    items      jsonb  not null,
+    customer   jsonb  not null,
+    total_brl  numeric not null default 0,
+    status     text   not null default 'novo'   -- novo | em_contato | concluido | cancelado
+);
+alter table public.orders add column if not exists status text not null default 'novo';
+
+alter table public.orders enable row level security;
+drop policy if exists "authenticated read orders"   on public.orders;
+drop policy if exists "authenticated update orders"  on public.orders;
+drop policy if exists "authenticated delete orders"  on public.orders;
+create policy "authenticated read orders"   on public.orders for select to authenticated using (true);
+create policy "authenticated update orders" on public.orders for update to authenticated using (true) with check (true);
+create policy "authenticated delete orders" on public.orders for delete to authenticated using (true);
+
 -- ============================================================================
 -- Pronto. Depois disto:
 --   1. Authentication -> Users -> Add user: crie SEU login (email + senha).
