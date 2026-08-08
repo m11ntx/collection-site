@@ -37,8 +37,9 @@ Deno.serve(async (req) => {
 
   const items = Array.isArray(body?.items) ? body.items : [];
   const customer = body?.customer || {};
+  const phone = customer.phone || customer.contact; // aceita os dois nomes
   if (!items.length) return json({ ok: false, error: "pedido vazio" }, 400);
-  if (!customer.name || !customer.contact) return json({ ok: false, error: "informe nome e contato" }, 400);
+  if (!customer.name || !phone) return json({ ok: false, error: "informe nome e WhatsApp" }, 400);
 
   const total = items.reduce((s: number, it: any) => s + (Number(it.price) || 0) * (Number(it.qty) || 1), 0);
 
@@ -64,12 +65,18 @@ Deno.serve(async (req) => {
   if (token && chat) {
     const lines = items.map((it: any) =>
       `• ${it.qty || 1}x ${it.name}${it.size ? ` (${it.size})` : ""} — ${money(it.price)}`);
+    const fields: [string, string][] = [
+      ["Cliente", customer.name],
+      ["WhatsApp", phone],
+      ["E-mail", customer.email],
+      ["Cidade", [customer.city, customer.uf].filter(Boolean).join("/")],
+      ["Obs", customer.note],
+    ].filter(([, v]) => v) as [string, string][];
     const text =
       `🛒 *Novo pedido M11NTX*\n\n` +
       lines.join("\n") +
       `\n\n*Total:* ${money(total)}\n` +
-      `*Cliente:* ${customer.name}\n*Contato:* ${customer.contact}` +
-      (customer.note ? `\n*Obs:* ${customer.note}` : "") +
+      fields.map(([k, v]) => `*${k}:* ${v}`).join("\n") +
       `\n\n_id: ${saved.id || "?"}_`;
     try {
       await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {

@@ -30,6 +30,15 @@
         // Contact email (used by the footer + contact page).
         email: "hello.m11ntx@gmail.com",
 
+        // Pedidos / checkout (sem pagamento -> o cliente monta o pedido e finaliza
+        // no WhatsApp). ***TROQUE O NÚMERO AQUI*** (formato internacional, só
+        // dígitos; ex.: "5511999998888"). Vazio = botão de WhatsApp fica oculto.
+        whatsapp: "5516991871212",
+        // Supabase (checkout): chamado pelo storefront p/ registrar o pedido +
+        // notificar (Edge Function create-order). A anon key é pública.
+        supabaseUrl: "https://rhychbqeskwutlytaupd.supabase.co",
+        supabaseAnon: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJoeWNoYnFlc2t3dXRseXRhdXBkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODYwMjg3MDgsImV4cCI6MjEwMTYwNDcwOH0.-37etmhqujU5lR_GO6GGvNgzi4bPJ_FOFrxl-tb9Z9c",
+
         analytics: {
             enabled: true,      // master switch for the whole analytics layer
             respectDNT: true,   // honor the browser's Do Not Track setting

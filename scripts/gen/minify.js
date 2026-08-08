@@ -40,7 +40,8 @@ const JS_FILES = [
     "assets/js/seo.js",
     "assets/js/analytics.js",
     "assets/js/ui.js",
-    "assets/js/main.js"
+    "assets/js/main.js",
+    "assets/js/cart.js"
 ];
 
 /* ============================================================
