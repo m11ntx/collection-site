@@ -51,7 +51,12 @@
   header.bar{ display:flex; align-items:center; gap:.6rem; padding:.65rem 1.1rem; border-bottom:1px solid var(--line); background:rgba(18,18,21,.85); backdrop-filter:blur(8px); position:sticky; top:0; z-index:5; }
   header.bar .brand{ margin-right:.6rem; }
   header.bar .sp{ flex:1; }
-  header.bar #who{ font-size:.82rem; }
+  header.bar #who{ font-size:.8rem; max-width:180px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+  /* compacta os botões do header p/ caber sem scroll */
+  header.bar .ghost, header.bar .primary{ padding:.42rem .55rem; gap:.3rem; font-size:.9rem; }
+  header.bar .brand{ margin-right:.4rem; }
+  @media (max-width:1340px){ header.bar #who{ display:none; } }
+  @media (max-width:1180px){ header.bar .ghost, header.bar .primary{ padding:.4rem .45rem; font-size:.85rem; } }
   /* hambúrguer + menu (só aparece no mobile) */
   .hamb{ display:none; flex-direction:column; justify-content:center; gap:4px; width:40px; height:34px; margin-left:auto; background:transparent; border:1px solid var(--line2); border-radius:8px; cursor:pointer; }
   .hamb span{ display:block; height:2px; width:18px; margin:0 auto; background:var(--ink); border-radius:2px; transition:transform .2s, opacity .2s; }
@@ -168,6 +173,37 @@
   .ord-card.s-aberto{ border-left-color:var(--gold); }
   .ord-card.s-convertido{ border-left-color:#3fae6a; opacity:.75; }
   .ord-card.s-ignorado{ border-left-color:var(--mut); opacity:.55; }
+  .ord-card.rev-s-pending{ border-left-color:#e0a33d; }
+  .ord-card.rev-s-approved{ border-left-color:#3fae6a; }
+  .ord-card.rev-s-rejected{ border-left-color:#c0524a; opacity:.7; }
+  .rev-badge{ font-size:.66rem; font-weight:700; text-transform:uppercase; padding:.2rem .5rem; border-radius:6px; margin-left:auto; }
+  .rev-pending{ color:#e0a33d; background:color-mix(in srgb,#e0a33d 16%,transparent); }
+  .rev-approved{ color:#3fae6a; background:color-mix(in srgb,#3fae6a 16%,transparent); }
+  .rev-rejected{ color:#c0524a; background:color-mix(in srgb,#c0524a 16%,transparent); }
+  /* destaques */
+  #featuredMain{ display:block; height:calc(100vh - 55px); overflow:auto; padding:1.4rem 1.6rem; }
+  .feat-grid{ display:grid; grid-template-columns:1fr 1fr; gap:1.2rem; align-items:start; }
+  .feat-col{ min-width:0; }
+  .feat-filters{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:.4rem; margin-bottom:.6rem; }
+  .feat-filters select{ width:100%; }
+  @media (max-width:520px){ .feat-filters{ grid-template-columns:1fr; } }
+  .feat-results{ max-height:60vh; overflow:auto; border:1px solid var(--line); border-radius:12px; }
+  .feat-list{ min-height:120px; border:1px dashed var(--line2); border-radius:12px; padding:.4rem; }
+  .feat-row{ display:flex; align-items:center; gap:.6rem; padding:.5rem .6rem; border-bottom:1px solid var(--line); }
+  .feat-results .feat-row:last-child{ border-bottom:0; }
+  .feat-list .feat-row{ border:1px solid var(--line2); border-radius:10px; margin-bottom:.4rem; background:var(--panel2); }
+  .feat-list .feat-row.dragging{ opacity:.4; outline:2px dashed var(--gold); }
+  .feat-thumb{ width:40px; height:50px; border-radius:6px; object-fit:cover; background:#000; flex:0 0 auto; }
+  .feat-name{ flex:1; min-width:0; font-size:.85rem; line-height:1.25; }
+  .feat-name small{ display:block; color:var(--mut); font-size:.72rem; }
+  .feat-row .icons{ display:flex; gap:.25rem; flex:0 0 auto; align-items:center; }
+  .feat-row .icons button{ width:28px; height:28px; border:1px solid var(--line2); border-radius:7px; background:var(--panel); color:var(--ink); cursor:pointer; display:grid; place-items:center; }
+  .feat-row .icons button:hover{ border-color:var(--gold); color:var(--gold); }
+  .feat-row .icons .lucide{ width:15px; height:15px; }
+  .feat-add{ background:var(--gold); color:#160f04; border:0; border-radius:7px; padding:.4rem .75rem; font-weight:700; cursor:pointer; font-size:.8rem; flex:0 0 auto; }
+  .feat-empty{ color:var(--mut); text-align:center; padding:1.6rem 1rem; font-size:.85rem; }
+  .feat-handle{ cursor:grab; color:var(--mut); display:grid; place-items:center; }
+  @media (max-width:820px){ #featuredMain{ height:auto; } .feat-grid{ grid-template-columns:1fr; } .feat-results{ max-height:46vh; } }
   .ord-top{ display:flex; align-items:center; gap:.7rem; flex-wrap:wrap; margin-bottom:.6rem; }
   .ord-id{ font-family:monospace; font-size:.78rem; color:var(--mut); }
   .ord-date{ font-size:.78rem; color:var(--mut); }
@@ -255,6 +291,8 @@
       <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
       <button id="viewOrders" class="ghost"><i data-lucide="shopping-bag"></i>Pedidos</button>
       <button id="viewCarts" class="ghost"><i data-lucide="shopping-cart"></i>Carrinhos</button>
+      <button id="viewFeatured" class="ghost"><i data-lucide="sparkles"></i>Destaques</button>
+      <button id="viewReviews" class="ghost"><i data-lucide="star"></i>Avaliações</button>
       <span class="sp"></span>
       <span id="who" class="muted"></span>
       <button id="publish" class="primary" title="Dispara a sincronização (import) e publica as alterações do admin no site"><i data-lucide="rocket"></i>Publicar agora</button>
@@ -471,6 +509,51 @@
     <p class="muted" style="max-width:760px;margin:-.4rem 0 1rem">Rascunhos que os visitantes montaram — mesmo sem enviar o pedido. Com contato preenchido, dá pra chamar e recuperar a venda.</p>
     <div id="cartsList"></div>
   </main>
+
+  <main id="reviewsMain" class="hidden">
+    <div class="ord-head">
+      <h2 style="margin:0">Avaliações</h2>
+      <div class="row" style="gap:.5rem">
+        <select id="revStatusFilter" style="max-width:190px">
+          <option value="pending">Pendentes</option>
+          <option value="approved">Aprovadas</option>
+          <option value="rejected">Rejeitadas</option>
+          <option value="">Todas</option>
+        </select>
+        <span id="revCount" class="count"></span>
+        <button id="revReload" class="ghost"><i data-lucide="refresh-cw"></i>Atualizar</button>
+      </div>
+    </div>
+    <p class="muted" style="max-width:760px;margin:-.4rem 0 1rem">Avaliações enviadas pelos clientes. <b>Aprove</b> para aparecerem no site (a seção fica oculta até ter aprovadas).</p>
+    <div id="reviewsList"></div>
+  </main>
+
+  <main id="featuredMain" class="hidden">
+    <div class="ord-head">
+      <h2 style="margin:0">Destaques da home</h2>
+      <div class="row" style="gap:.5rem">
+        <span id="featCount" class="count"></span>
+        <button id="featSave" class="primary"><i data-lucide="save"></i>Salvar destaques</button>
+      </div>
+    </div>
+    <p class="muted" style="max-width:820px;margin:-.4rem 0 1rem">Escolha os produtos do <b>carrossel da home</b>, defina a <b>ordem</b> (arraste ou use ‹ ›) e salve. Aplica no site ao <b>Publicar</b>.</p>
+    <div class="feat-grid">
+      <section class="feat-col">
+        <h3 style="margin:.2rem 0 .6rem">Escolher produtos</h3>
+        <input id="featSearch" type="search" placeholder="Buscar (nome, clube, id)…" style="width:100%;margin-bottom:.5rem">
+        <div class="feat-filters">
+          <select id="featCollection"><option value="">Coleção: todas</option></select>
+          <select id="featLeague"><option value="">Liga: todas</option></select>
+          <select id="featClub"><option value="">Clube: todos</option></select>
+        </div>
+        <div id="featResults" class="feat-results"></div>
+      </section>
+      <section class="feat-col">
+        <h3 style="margin:.2rem 0 .6rem">Na home <span class="pill" id="featChosenCount">0</span></h3>
+        <div id="featList" class="feat-list"></div>
+      </section>
+    </div>
+  </main>
 </div>
 
 <div id="modal" class="modal hidden" role="dialog" aria-modal="true">
@@ -578,6 +661,9 @@
     fill("dupCollection","Coleção", uniq("collectionId"));
     fill("dupLeague","Liga", uniq("leagueId"));
     fill("dupClub","Clube", uniq("clubId"));
+    fill("featCollection","Coleção", uniq("collectionId"));
+    fill("featLeague","Liga", uniq("leagueId"));
+    fill("featClub","Clube", uniq("clubId"));
   }
   function fill(id,label,vals){
     $(id).innerHTML = `<option value="">${label}: todas</option>` + vals.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join("");
@@ -647,6 +733,7 @@
       price_override: o.price_override || null,
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
+      featured: !!o.featured, featured_order: (o.featured_order===0||o.featured_order)? o.featured_order : null,
       hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
       primary_image: o.primary_image || (((current.images||[]).find(x=>x.primary)||(current.images||[])[0]||{}).url || ""),
       image_order: (o.image_order && o.image_order.length ? o.image_order.slice()
@@ -883,7 +970,7 @@
   let CAMPAIGNS = [], curCamp = null, cDraft = null;
 
   function setView(v){
-    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain", carts:"cartsMain" };
+    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain", carts:"cartsMain", featured:"featuredMain", reviews:"reviewsMain" };
     $("productsMain").classList.remove("editing");   // fecha o painel lateral (mobile)
     Object.entries(map).forEach(([k,id])=> $(id).classList.toggle("hidden", k!==v));
     $("viewProducts").classList.toggle("is-view", v==="products");
@@ -891,16 +978,165 @@
     $("viewDups").classList.toggle("is-view", v==="dups");
     $("viewOrders").classList.toggle("is-view", v==="orders");
     $("viewCarts").classList.toggle("is-view", v==="carts");
+    $("viewFeatured").classList.toggle("is-view", v==="featured");
+    $("viewReviews").classList.toggle("is-view", v==="reviews");
     if(v==="campaigns") loadCampaigns();
     if(v==="dups") renderDups();
     if(v==="orders") loadOrders();
     if(v==="carts") loadCarts();
+    if(v==="featured") loadFeatured();
+    if(v==="reviews") loadReviews();
   }
   $("viewProducts").addEventListener("click", ()=>setView("products"));
   $("viewCampaigns").addEventListener("click", ()=>setView("campaigns"));
   $("viewDups").addEventListener("click", ()=>setView("dups"));
   $("viewOrders").addEventListener("click", ()=>setView("orders"));
   $("viewCarts").addEventListener("click", ()=>setView("carts"));
+  $("viewFeatured").addEventListener("click", ()=>setView("featured"));
+  $("viewReviews").addEventListener("click", ()=>setView("reviews"));
+
+  // ===================== DESTAQUES DA HOME =====================
+  let FEAT = [];        // ids escolhidos, na ordem
+  let FEAT_WAS = [];    // ids que já eram featured (p/ desmarcar os removidos)
+  function featImg(p){
+    const ims=(p&&p.images)||[]; const i=ims.find(x=>x&&x.url&&x.url.indexOf("front")>=0)||ims[0];
+    return (i&&i.url)? CDN+"/"+i.url : "";
+  }
+  function loadFeatured(){
+    FEAT = PRODUCTS.filter(p=> OVER[p.id] && OVER[p.id].featured)
+      .sort((a,b)=>{ const oa=OVER[a.id].featured_order, ob=OVER[b.id].featured_order;
+        return (oa==null?9999:oa)-(ob==null?9999:ob); }).map(p=>p.id);
+    FEAT_WAS = FEAT.slice();
+    renderFeatResults(); renderFeatList();
+  }
+  function renderFeatResults(){
+    const q=($("featSearch").value||"").trim().toLowerCase();
+    const col=$("featCollection").value, lg=$("featLeague").value, cl=$("featClub").value;
+    const inFeat=new Set(FEAT);
+    let list=PRODUCTS.filter(p=> !inFeat.has(p.id)
+      && (!col||p.collectionId===col) && (!lg||p.leagueId===lg) && (!cl||p.clubId===cl)
+      && (!q || (p.name||"").toLowerCase().includes(q) || (p.clubId||"").toLowerCase().includes(q) || (p.id||"").toLowerCase().includes(q)));
+    list=list.slice(0,60);
+    $("featResults").innerHTML = list.length ? list.map(p=>`
+      <div class="feat-row">
+        ${featImg(p)?`<img class="feat-thumb" src="${esc(featImg(p))}" alt="" loading="lazy">`:`<div class="feat-thumb"></div>`}
+        <div class="feat-name">${esc(p.name||p.id)}<small>${esc(clubsName(p.clubId))}</small></div>
+        <button class="feat-add" data-add="${esc(p.id)}">+ Adicionar</button>
+      </div>`).join("") : `<div class="feat-empty">Nenhum produto${q?" com esse termo":""}.</div>`;
+  }
+  function clubsName(cid){ return cid ? String(cid).replace(/-/g," ") : ""; }
+  function renderFeatList(){
+    $("featChosenCount").textContent = FEAT.length;
+    $("featCount").textContent = FEAT.length+" no carrossel";
+    if(!FEAT.length){ $("featList").innerHTML = `<div class="feat-empty">Nenhum destaque ainda. Adicione produtos à esquerda.</div>`; return; }
+    $("featList").innerHTML = FEAT.map((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id)||{id,name:id};
+      return `<div class="feat-row" draggable="true" data-id="${esc(id)}">
+        <span class="feat-handle" title="Arraste para ordenar"><i data-lucide="grip-vertical"></i></span>
+        ${featImg(p)?`<img class="feat-thumb" src="${esc(featImg(p))}" alt="" loading="lazy">`:`<div class="feat-thumb"></div>`}
+        <div class="feat-name">${esc(p.name||id)}<small>#${i+1} · ${esc(clubsName(p.clubId))}</small></div>
+        <div class="icons">
+          <button data-mv="up" data-id="${esc(id)}" title="Subir">‹</button>
+          <button data-mv="down" data-id="${esc(id)}" title="Descer">›</button>
+          <button data-rm="${esc(id)}" title="Remover"><i data-lucide="x"></i></button>
+        </div>
+      </div>`;
+    }).join("");
+    if(window.lucide) lucide.createIcons();
+  }
+  ["featSearch","featCollection","featLeague","featClub"].forEach(id=>$(id).addEventListener("input", renderFeatResults));
+  $("featResults").addEventListener("click", (e)=>{ const a=e.target.closest("[data-add]"); if(!a) return; FEAT.push(a.dataset.add); renderFeatResults(); renderFeatList(); });
+  $("featList").addEventListener("click", (e)=>{
+    const rm=e.target.closest("[data-rm]"), mv=e.target.closest("[data-mv]");
+    if(rm){ FEAT=FEAT.filter(x=>x!==rm.dataset.rm); renderFeatResults(); renderFeatList(); return; }
+    if(mv){ const id=mv.dataset.id, i=FEAT.indexOf(id), j=mv.dataset.mv==="up"?i-1:i+1;
+      if(j>=0&&j<FEAT.length){ FEAT.splice(i,1); FEAT.splice(j,0,id); renderFeatList(); } }
+  });
+  // arrastar para ordenar
+  let _fdrag=null;
+  $("featList").addEventListener("dragstart",(e)=>{ const r=e.target.closest(".feat-row"); if(!r) return; _fdrag=r.dataset.id; r.classList.add("dragging"); });
+  $("featList").addEventListener("dragend",(e)=>{ const r=e.target.closest(".feat-row"); if(r) r.classList.remove("dragging"); _fdrag=null; });
+  $("featList").addEventListener("dragover",(e)=>{ e.preventDefault(); const r=e.target.closest(".feat-row"); if(!r||!_fdrag||r.dataset.id===_fdrag) return;
+    const from=FEAT.indexOf(_fdrag), to=FEAT.indexOf(r.dataset.id); if(from<0||to<0) return;
+    FEAT.splice(from,1); FEAT.splice(to,0,_fdrag); renderFeatList();
+    const nr=$("featList").querySelector(`[data-id="${CSS.escape(_fdrag)}"]`); if(nr) nr.classList.add("dragging");
+  });
+  $("featSave").addEventListener("click", async ()=>{
+    const btn=$("featSave"); btn.disabled=true;
+    const rows = FEAT.map((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id);
+      return { id, name:(p&&p.name)||id, featured:true, featured_order:i }; });
+    const removed = FEAT_WAS.filter(id=>FEAT.indexOf(id)<0).map(id=>{ const p=PRODUCTS.find(x=>x.id===id);
+      return { id, name:(p&&p.name)||id, featured:false, featured_order:null }; });
+    const all=rows.concat(removed);
+    if(all.length){
+      const { error } = await sb.from("product_overrides").upsert(all);
+      if(error){ btn.disabled=false; toast("Erro ao salvar destaques: "+error.message); return; }
+      all.forEach(r=>{ OVER[r.id]=Object.assign(OVER[r.id]||{id:r.id}, {name:r.name, featured:r.featured, featured_order:r.featured_order}); });
+    }
+    FEAT_WAS=FEAT.slice(); btn.disabled=false;
+    toast(FEAT.length+" destaque(s) salvos. Use 'Publicar agora' pra aplicar no site.", true);
+  });
+
+  // ===================== AVALIAÇÕES =====================
+  let REVIEWS = [];
+  const REV_LABEL = { pending:"Pendente", approved:"Aprovada", rejected:"Rejeitada" };
+  const stars = (n)=>{ n=Math.max(0,Math.min(5,+n||0)); return "★".repeat(n)+"☆".repeat(5-n); };
+  // image_url guarda URL única (legado) ou array JSON de URLs (novo, múltiplas
+  // fotos vindas do menu de Avaliações). Parse tolerante nos dois formatos.
+  function revImgs(v){
+    if(!v) return [];
+    if(typeof v==="string" && v[0]==="["){ try{ const a=JSON.parse(v); return Array.isArray(a)?a:[]; }catch(_){ return [v]; } }
+    return [v];
+  }
+  async function loadReviews(){
+    const { data, error } = await sb.from("reviews").select("*").order("created_at",{ascending:false});
+    if(error){ toast("Erro ao carregar avaliações (rodou o SQL da tabela reviews?): "+error.message); return; }
+    REVIEWS = data||[]; renderReviews();
+  }
+  function renderReviews(){
+    const filt = $("revStatusFilter").value;
+    const list = REVIEWS.filter(r=> !filt || (r.status||"pending")===filt);
+    $("revCount").textContent = list.length+" avaliação(ões)";
+    if(!list.length){ $("reviewsList").innerHTML = `<div class="ord-empty">Nenhuma avaliação${filt?" nesse status":""}.</div>`; return; }
+    $("reviewsList").innerHTML = list.map(r=>{
+      const st=r.status||"pending";
+      const dt = r.created_at ? new Date(r.created_at).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",year:"2-digit",hour:"2-digit",minute:"2-digit"}) : "";
+      return `<div class="ord-card rev-s-${st}" data-id="${esc(r.id)}">
+        <div class="ord-top">
+          <span class="ord-id" style="color:var(--gold);font-family:inherit">${stars(r.rating)}</span>
+          <span class="ord-date">${dt}</span>
+          <span class="rev-badge rev-${st}">${REV_LABEL[st]||st}</span>
+        </div>
+        <div class="ord-cust"><b>${esc(r.name||"—")}</b> <span class="muted">· ${esc(r.product_name||r.product_id||"")}</span></div>
+        ${r.comment?`<p style="margin:.4rem 0;font-size:.9rem">${esc(r.comment)}</p>`:""}
+        ${revImgs(r.image_url).map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener"><img src="${esc(u)}" alt="" style="max-width:160px;border-radius:8px;margin:.3rem .3rem .3rem 0"></a>`).join("")}
+        <div class="ord-actions">
+          ${st!=="approved"?`<button class="primary rev-approve" data-id="${esc(r.id)}"><i data-lucide="check"></i>Aprovar</button>`:""}
+          ${st!=="rejected"?`<button class="ghost rev-reject" data-id="${esc(r.id)}"><i data-lucide="x"></i>Rejeitar</button>`:""}
+          <button class="ghost rev-del" data-id="${esc(r.id)}"><i data-lucide="trash-2"></i>Excluir</button>
+        </div>
+      </div>`;
+    }).join("");
+    if(window.lucide) lucide.createIcons();
+  }
+  async function setReviewStatus(id, status){
+    const { error } = await sb.from("reviews").update({status}).eq("id",id);
+    if(error){ toast("Erro: "+error.message); return; }
+    const r=REVIEWS.find(x=>x.id===id); if(r) r.status=status;
+    renderReviews(); toast("Avaliação "+(status==="approved"?"aprovada":"rejeitada")+".", true);
+  }
+  $("revStatusFilter").addEventListener("change", renderReviews);
+  $("revReload").addEventListener("click", loadReviews);
+  $("reviewsList").addEventListener("click", async (e)=>{
+    const ap=e.target.closest(".rev-approve"), rj=e.target.closest(".rev-reject"), dl=e.target.closest(".rev-del");
+    if(ap) return setReviewStatus(ap.dataset.id,"approved");
+    if(rj) return setReviewStatus(rj.dataset.id,"rejected");
+    if(dl){
+      if(!(await confirmDialog("Excluir esta avaliação?", {title:"Excluir", ok:"Excluir", danger:true}))) return;
+      const { error } = await sb.from("reviews").delete().eq("id",dl.dataset.id);
+      if(error){ toast("Erro ao excluir: "+error.message); return; }
+      REVIEWS = REVIEWS.filter(x=>x.id!==dl.dataset.id); renderReviews(); toast("Excluída.", true);
+    }
+  });
 
   // ---- UX mobile: hambúrguer, filtros colapsáveis, editor lateral ----
   (function(){

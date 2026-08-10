@@ -399,6 +399,15 @@
             const hasSelection = Object.keys(res.selections).some((k) => k !== "query");
             container.innerHTML = `
                 <div class="filters" role="region" aria-label="Jersey filters">
+                    <div class="filters__sheet-head">
+                        <span class="filters__sheet-title">${esc(t("filters.title"))}</span>
+                        <button type="button" class="filters__close" aria-label="${esc(t("common.close"))}">&times;</button>
+                    </div>
+                    <div class="filters__search">
+                        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><line x1="21" y1="21" x2="16.5" y2="16.5"></line></svg>
+                        <input type="search" class="filters__search-input" value="${esc(res.query || "")}"
+                               placeholder="${esc(t("filters.searchPlaceholder"))}" aria-label="${esc(t("filters.searchPlaceholder"))}" autocomplete="off">
+                    </div>
                     <div class="filters__head">
                         <p class="filters__result" aria-live="polite">
                             <!-- bolds the leading number; both pt/en resultCount strings
@@ -410,7 +419,35 @@
                                 ${hasSelection || res.query ? "" : "disabled"}>${esc(t("filters.reset"))}</button>
                     </div>
                     ${groups || `<p class="filters__empty">${esc(t("filters.empty"))}</p>`}
+                    <button type="button" class="filters__apply btn btn--primary">${esc(t("filters.apply", { count: res.count }))}</button>
                 </div>`;
+        }
+
+        // Bottom-sheet no mobile: um FAB fixo abre os filtros como gaveta; o
+        // backdrop, o × e o "Ver N resultados" fecham. Tudo escondido no
+        // desktop via CSS (a coluna de filtros fica sempre visível lá).
+        let fab = null, backdrop = null;
+        function ensureMobileSheet() {
+            if (fab) return;
+            backdrop = document.createElement("div");
+            backdrop.className = "filters-backdrop";
+            backdrop.addEventListener("click", closeSheet);
+            document.body.appendChild(backdrop);
+            fab = document.createElement("button");
+            fab.type = "button";
+            fab.className = "filters-fab btn btn--primary";
+            fab.addEventListener("click", openSheet);
+            document.body.appendChild(fab);
+        }
+        function openSheet() { document.body.classList.add("filters-open"); }
+        function closeSheet() { document.body.classList.remove("filters-open"); }
+        function updateFab(res) {
+            if (!fab) return;
+            const active = Object.keys(res.selections || {}).filter((k) => k !== "query").length;
+            const q = res.query ? 1 : 0;
+            const n = active + q;
+            fab.innerHTML = `<svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="4" y1="6" x2="20" y2="6"/><line x1="7" y1="12" x2="17" y2="12"/><line x1="10" y1="18" x2="14" y2="18"/></svg>`
+                + `<span>${esc(t("filters.title"))}</span>${n ? `<span class="filters-fab__badge">${n}</span>` : ""}`;
         }
 
         // Delegated events — survive re-renders (innerHTML is replaced each change).
@@ -424,6 +461,7 @@
         });
         container.addEventListener("click", (e) => {
             if (e.target.closest(".filters__reset")) engine.reset();
+            if (e.target.closest(".filters__close") || e.target.closest(".filters__apply")) closeSheet();
         });
         // <details>'s "toggle" event doesn't bubble -- listen on the capture
         // phase so one delegated listener still catches every group.
@@ -433,10 +471,31 @@
             manualOpen.set(el.getAttribute("data-facet"), el.open);
         }, true);
 
+        // Busca por texto: debounce p/ não re-renderizar a cada tecla, e
+        // preserva foco/caret depois do re-render (innerHTML é reconstruído).
+        let searchFocused = false, searchCaret = null, searchTimer = null;
+        container.addEventListener("input", (e) => {
+            const inp = e.target.closest(".filters__search-input");
+            if (!inp) return;
+            searchFocused = true; searchCaret = inp.selectionStart;
+            const val = inp.value;
+            clearTimeout(searchTimer);
+            searchTimer = setTimeout(() => { engine.setQuery(val); }, 220);
+        });
+        container.addEventListener("focusout", (e) => {
+            if (e.target.closest && e.target.closest(".filters__search-input")) searchFocused = false;
+        });
+
         let lastResult = null;
         function onResult(res) {
             lastResult = res;
             render(res);
+            ensureMobileSheet();
+            updateFab(res);
+            if (searchFocused) {
+                const inp = container.querySelector(".filters__search-input");
+                if (inp) { inp.focus(); const pos = searchCaret == null ? inp.value.length : searchCaret; try { inp.setSelectionRange(pos, pos); } catch (_) {} }
+            }
             if (typeof opts.onChange === "function") opts.onChange(res);
             document.dispatchEvent(new CustomEvent("filters:change", { detail: res }));
         }
@@ -451,7 +510,7 @@
         // catalog.js's detail pages -- a language change must re-run render()
         // against the SAME last result (never re-filter/re-fetch).
         if (typeof document !== "undefined") {
-            document.addEventListener("language:change", () => { if (lastResult) render(lastResult); });
+            document.addEventListener("language:change", () => { if (lastResult) { render(lastResult); updateFab(lastResult); } });
         }
         return { render };
     }
@@ -485,9 +544,31 @@
             (typeof Search !== "undefined" && Search.matcher ? Search.matcher() : undefined);
         const engine = createEngine({ items: items, facets: config.facets, search: search });
 
+        // Paginação: renderiza em lotes (48) com botão "Ver mais". Sem isto, um
+        // catálogo de milhares de cards trava o navegador no mobile.
+        const PAGE = 48;
         function paintList(res) {
             if (list && typeof Catalog !== "undefined" && Catalog.renderJerseys) {
-                Catalog.renderJerseys(list, res.items);
+                const holder = list.parentNode;
+                let more = holder && holder.querySelector(".grid-more");
+                if (more) { more.remove(); more = null; } // reseta a paginação a cada filtro
+                const all = res.items || [];
+                let shown = Math.min(PAGE, all.length);
+                function paint() {
+                    Catalog.renderJerseys(list, all.slice(0, shown));
+                    if (shown < all.length) {
+                        if (!more) {
+                            more = document.createElement("button");
+                            more.type = "button";
+                            more.className = "grid-more btn btn--ghost";
+                            more.addEventListener("click", () => { shown = Math.min(shown + PAGE, all.length); paint(); });
+                        }
+                        more.textContent = (typeof I18N !== "undefined")
+                            ? I18N.t("filters.loadMore", { n: all.length - shown }) : ("Ver mais (" + (all.length - shown) + ")");
+                        if (holder && more.parentNode !== holder) holder.appendChild(more);
+                    } else if (more && more.parentNode) { more.remove(); more = null; }
+                }
+                paint();
             }
             if (typeof config.onChange === "function") config.onChange(res);
         }

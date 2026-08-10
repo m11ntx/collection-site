@@ -33,6 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
         if (document.getElementById("clubDetail")) Catalog.initClubPage();      // club
         if (document.getElementById("jerseyDetail")) Catalog.initJerseyPage();  // jersey
         if (document.getElementById("filterControls")) Catalog.initCatalogPage(); // catalog (filters)
+        if (document.getElementById("reviewsPage")) Catalog.initReviewsPage();  // reviews menu (CS)
         if (document.getElementById("searchInput")) Catalog.initSiteSearch();   // global search overlay
     });
 });
