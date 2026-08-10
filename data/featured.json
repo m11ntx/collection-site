@@ -1,7 +1,32 @@
 {
- "label": "featured",
- "groups": {
-  "brasil": [],
-  "geral": []
- }
+  "label": "featured",
+  "groups": {
+    "brasil": [
+      "source-camisa-flamengo-home-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-vasco-ii-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-fluminense-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-botafogo-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-corinthians-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-palmeiras-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-sao-paulo-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-santos-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-atletico-mineiro-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-cruzeiro-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-gremio-i-26-27-torcedor-masculina-patchs-libertadores",
+      "source-camisa-internacional-i-26-27-torcedor-masculina-patchs-libertadores"
+    ],
+    "geral": [
+      "source-pre-venda-real-madrid-26-27-modelo-ii-torcedor-masculina",
+      "source-camisa-barcelona-home-26-27-torcedor-nike-masculina",
+      "source-camisa-manchester-city-i-26-27-torcedor-puma-masculina-azul",
+      "source-camisa-arsenal-home-26-27-torcedor-adidas-masculina-vermelha-e-branca",
+      "source-camisa-liverpool-home-26-27-torcedor-adidas-masculina-vermelho",
+      "source-camisa-chelsea-home-26-27-torcedor-nike-masculina-azul",
+      "source-camisa-bayern-de-munique-i-26-27-torcedor-adidas-masculina-vermelha",
+      "source-camisa-borussia-dortmund-home-26-27-torcedor-puma-masculina-amarela",
+      "source-camisa-ac-milan-home-26-27-torcedor-puma-masculina-preta-e-vermelha",
+      "source-camisa-inter-de-milao-i-26-27-torcedor-nike-masculina-azul-e-preta",
+      "source-camisa-psg-i-26-27-nike-torcedor-masculina-azul-e-vermelha"
+    ]
+  }
 }
