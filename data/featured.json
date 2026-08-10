@@ -1,4 +1,7 @@
 {
-  "label": "featured",
-  "ids": []
+ "label": "featured",
+ "groups": {
+  "brasil": [],
+  "geral": []
+ }
 }

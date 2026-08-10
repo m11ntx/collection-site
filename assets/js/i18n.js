@@ -71,6 +71,8 @@
             home: {
                 featuredEyebrow: "Mais pedidas", featuredTitle: "Camisas em destaque",
                 featuredSub: "Alguns destaques do catálogo — toque para montar seu pedido.",
+                featuredBrasilEyebrow: "Futebol brasileiro", featuredBrasilTitle: "Destaques Brasil",
+                featuredGeralEyebrow: "Seleção da casa", featuredGeralTitle: "Destaques em geral",
                 seeAll: "Ver todas",
                 howEyebrow: "Simples e transparente", howTitle: "Como funciona",
                 howSub: "Do clique ao manto na sua porta — sem pagamento no site.",
@@ -323,6 +325,8 @@
             home: {
                 featuredEyebrow: "Most wanted", featuredTitle: "Featured jerseys",
                 featuredSub: "A few highlights from the catalog — tap to build your order.",
+                featuredBrasilEyebrow: "Brazilian football", featuredBrasilTitle: "Brazil Highlights",
+                featuredGeralEyebrow: "House picks", featuredGeralTitle: "Featured jerseys",
                 seeAll: "View all",
                 howEyebrow: "Simple and transparent", howTitle: "How it works",
                 howSub: "From the click to the shirt at your door — no payment on the site.",

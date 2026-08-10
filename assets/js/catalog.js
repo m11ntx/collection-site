@@ -1457,37 +1457,58 @@ const Catalog = (() => {
         initFeatured();
     }
 
-    // Home: carrossel de destaques (produtos escolhidos em data/featured.json).
+    // Home: dois carrosséis de destaque (Brasil e Geral) definidos em
+    // data/featured.json ({groups:{brasil:[ids],geral:[ids]}}). Compat: um
+    // featured.json antigo com {ids:[...]} vira o grupo "geral". Cada seção só
+    // aparece se o seu grupo tiver produtos.
     let _featWired = false;
+    const FEAT_GROUPS = [
+        { key: "brasil", track: "featuredTrackBrasil", section: "destaques-brasil" },
+        { key: "geral", track: "featuredTrackGeral", section: "destaques-geral" },
+    ];
     async function initFeatured() {
-        const track = document.getElementById("featuredTrack");
-        if (!track) return;
-        let ids = [];
+        if (!document.getElementById("featuredTrackBrasil") && !document.getElementById("featuredTrackGeral")) return;
+        let groups = { brasil: [], geral: [] };
         try {
             const r = await fetch("data/featured.json", { cache: "no-cache" });
             const j = await r.json();
-            ids = Array.isArray(j && j.ids) ? j.ids : [];
-        } catch (_) { /* sem config -> some a seção */ }
+            if (j && j.groups) {
+                groups.brasil = Array.isArray(j.groups.brasil) ? j.groups.brasil : [];
+                groups.geral = Array.isArray(j.groups.geral) ? j.groups.geral : [];
+            } else if (j && Array.isArray(j.ids)) {
+                groups.geral = j.ids; // compat com o formato antigo
+            }
+        } catch (_) { /* sem config -> seções somem */ }
         const products = await API.getProducts();
         const byId = new Map((Array.isArray(products) ? products : []).map((p) => [p.id, p]));
-        const list = ids.map((id) => byId.get(id)).filter(Boolean);
-        const section = track.closest(".home-featured");
-        // CTA "Explorar a coleção": com destaques leva ao carrossel; sem
-        // destaques (seção oculta) leva direto às coleções, nunca a um
-        // âncora vazio.
+        let firstShown = null;
+        FEAT_GROUPS.forEach((g) => {
+            const track = document.getElementById(g.track);
+            const section = document.getElementById(g.section);
+            if (!track) return;
+            const list = (groups[g.key] || []).map((id) => byId.get(id)).filter(Boolean);
+            if (!list.length) { if (section) section.hidden = true; return; }
+            if (section) section.hidden = false;
+            if (!firstShown) firstShown = g.section;
+            fillGrid(track, list, jerseyCard, "");
+            track.setAttribute("aria-busy", "false");
+            if (window.ImageLoader) ImageLoader.hydrate(track);
+        });
+        // CTA "Explorar a coleção": vai para o 1º carrossel visível (Brasil
+        // antes de Geral); sem destaques, direto às coleções.
         const exploreBtn = document.getElementById("exploreButton");
-        if (exploreBtn) exploreBtn.setAttribute("href", list.length ? "#destaques" : "#collections");
-        if (!list.length) { if (section) section.hidden = true; return; }
-        if (section) section.hidden = false;
-        fillGrid(track, list, jerseyCard, "");
-        track.setAttribute("aria-busy", "false");
-        if (window.ImageLoader) ImageLoader.hydrate(track);
+        if (exploreBtn) exploreBtn.setAttribute("href", firstShown ? "#" + firstShown : "#collections");
         if (!_featWired) {
             _featWired = true;
-            const prev = document.getElementById("featPrev"), next = document.getElementById("featNext");
-            const step = () => Math.max(240, track.clientWidth * 0.85);
-            if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
-            if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+            FEAT_GROUPS.forEach((g) => {
+                const track = document.getElementById(g.track);
+                if (!track) return;
+                const step = () => Math.max(240, track.clientWidth * 0.85);
+                const prev = document.querySelector(`[data-feat-prev="${g.key}"]`);
+                const next = document.querySelector(`[data-feat-next="${g.key}"]`);
+                if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
+                if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+            });
             document.addEventListener("currency:change", initFeatured);
             document.addEventListener("language:change", initFeatured);
         }

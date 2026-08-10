@@ -187,6 +187,9 @@
   .feat-filters{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:.4rem; margin-bottom:.6rem; }
   .feat-filters select{ width:100%; }
   @media (max-width:520px){ .feat-filters{ grid-template-columns:1fr; } }
+  .feat-target{ display:flex; align-items:center; gap:.4rem; flex-wrap:wrap; }
+  .feat-tab{ padding:.32rem .8rem; border:1px solid var(--line2); border-radius:999px; background:transparent; color:inherit; cursor:pointer; font:inherit; font-size:.85rem; }
+  .feat-tab.is-active{ background:var(--gold); color:#111; border-color:var(--gold); font-weight:700; }
   .feat-results{ max-height:60vh; overflow:auto; border:1px solid var(--line); border-radius:12px; }
   .feat-list{ min-height:120px; border:1px dashed var(--line2); border-radius:12px; padding:.4rem; }
   .feat-row{ display:flex; align-items:center; gap:.6rem; padding:.5rem .6rem; border-bottom:1px solid var(--line); }
@@ -549,8 +552,15 @@
         <div id="featResults" class="feat-results"></div>
       </section>
       <section class="feat-col">
-        <h3 style="margin:.2rem 0 .6rem">Na home <span class="pill" id="featChosenCount">0</span></h3>
-        <div id="featList" class="feat-list"></div>
+        <div class="feat-target">
+          <span class="muted" style="font-size:.85rem">Ao adicionar, vai para:</span>
+          <button type="button" class="feat-tab is-active" data-target="brasil">🇧🇷 Brasil</button>
+          <button type="button" class="feat-tab" data-target="geral">🌎 Geral</button>
+        </div>
+        <h3 style="margin:.8rem 0 .5rem">Destaques Brasil <span class="pill" id="featCountBrasil">0</span></h3>
+        <div id="featListBrasil" class="feat-list" data-group="brasil"></div>
+        <h3 style="margin:1rem 0 .5rem">Destaques em geral <span class="pill" id="featCountGeral">0</span></h3>
+        <div id="featListGeral" class="feat-list" data-group="geral"></div>
       </section>
     </div>
   </main>
@@ -996,17 +1006,22 @@
   $("viewReviews").addEventListener("click", ()=>setView("reviews"));
 
   // ===================== DESTAQUES DA HOME =====================
-  let FEAT = [];        // ids escolhidos, na ordem
-  let FEAT_WAS = [];    // ids que já eram featured (p/ desmarcar os removidos)
+  // Dois grupos de destaque: "brasil" e "geral". Um produto pertence a UM grupo.
+  let FEAT = { brasil: [], geral: [] };  // ids por grupo, na ordem
+  let FEAT_WAS = [];                     // todos os ids que já eram featured (p/ desmarcar removidos)
+  let FEAT_TARGET = "brasil";            // grupo alvo ao clicar "+ Adicionar"
+  const featAll = () => FEAT.brasil.concat(FEAT.geral);
   function featImg(p){
     const ims=(p&&p.images)||[]; const i=ims.find(x=>x&&x.url&&x.url.indexOf("front")>=0)||ims[0];
     return (i&&i.url)? CDN+"/"+i.url : "";
   }
   function loadFeatured(){
-    FEAT = PRODUCTS.filter(p=> OVER[p.id] && OVER[p.id].featured)
+    FEAT = { brasil: [], geral: [] };
+    PRODUCTS.filter(p=> OVER[p.id] && OVER[p.id].featured)
       .sort((a,b)=>{ const oa=OVER[a.id].featured_order, ob=OVER[b.id].featured_order;
-        return (oa==null?9999:oa)-(ob==null?9999:ob); }).map(p=>p.id);
-    FEAT_WAS = FEAT.slice();
+        return (oa==null?9999:oa)-(ob==null?9999:ob); })
+      .forEach(p=>{ const g=(OVER[p.id].featured_group==="brasil")?"brasil":"geral"; FEAT[g].push(p.id); });
+    FEAT_WAS = featAll();
     renderFeatResults(); renderFeatList();
   }
   // Ordena como o site (catalog.js productSort): mais recente primeiro
@@ -1019,7 +1034,7 @@
   function renderFeatResults(){
     const q=($("featSearch").value||"").trim().toLowerCase();
     const col=$("featCollection").value, lg=$("featLeague").value, cl=$("featClub").value;
-    const inFeat=new Set(FEAT);
+    const inFeat=new Set(featAll());
     let list=PRODUCTS.filter(p=> !inFeat.has(p.id)
       && (!col||p.collectionId===col) && (!lg||p.leagueId===lg) && (!cl||p.clubId===cl)
       && (!q || (p.name||"").toLowerCase().includes(q) || (p.clubId||"").toLowerCase().includes(q) || (p.id||"").toLowerCase().includes(q)));
@@ -1035,12 +1050,12 @@
       </div>`).join("")) : `<div class="feat-empty">Nenhum produto${q?" com esse termo":""}.</div>`;
   }
   function clubsName(cid){ return cid ? String(cid).replace(/-/g," ") : ""; }
-  function renderFeatList(){
-    $("featChosenCount").textContent = FEAT.length;
-    $("featCount").textContent = FEAT.length+" no carrossel";
-    if(!FEAT.length){ $("featList").innerHTML = `<div class="feat-empty">Nenhum destaque ainda. Adicione produtos à esquerda.</div>`; return; }
-    $("featList").innerHTML = FEAT.map((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id)||{id,name:id};
-      return `<div class="feat-row" draggable="true" data-id="${esc(id)}">
+  function renderFeatGroup(group){
+    const ids=FEAT[group], elId = group==="brasil"?"featListBrasil":"featListGeral";
+    $(group==="brasil"?"featCountBrasil":"featCountGeral").textContent = ids.length;
+    if(!ids.length){ $(elId).innerHTML = `<div class="feat-empty">Vazio — some do site. Adicione produtos à esquerda.</div>`; return; }
+    $(elId).innerHTML = ids.map((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id)||{id,name:id};
+      return `<div class="feat-row" draggable="true" data-id="${esc(id)}" data-group="${group}">
         <span class="feat-handle" title="Arraste para ordenar"><i data-lucide="grip-vertical"></i></span>
         ${featImg(p)?`<img class="feat-thumb" src="${esc(featImg(p))}" alt="" loading="lazy">`:`<div class="feat-thumb"></div>`}
         <div class="feat-name">${esc(p.name||id)}<small>#${i+1} · ${esc(clubsName(p.clubId))}</small></div>
@@ -1051,39 +1066,55 @@
         </div>
       </div>`;
     }).join("");
+  }
+  function renderFeatList(){
+    $("featCount").textContent = FEAT.brasil.length+" Brasil · "+FEAT.geral.length+" Geral";
+    renderFeatGroup("brasil"); renderFeatGroup("geral");
     if(window.lucide) lucide.createIcons();
   }
+  const groupOf = (id) => FEAT.brasil.indexOf(id)>=0 ? "brasil" : (FEAT.geral.indexOf(id)>=0 ? "geral" : null);
   ["featSearch","featCollection","featLeague","featClub"].forEach(id=>$(id).addEventListener("input", renderFeatResults));
-  $("featResults").addEventListener("click", (e)=>{ const a=e.target.closest("[data-add]"); if(!a) return; FEAT.push(a.dataset.add); renderFeatResults(); renderFeatList(); });
-  $("featList").addEventListener("click", (e)=>{
-    const rm=e.target.closest("[data-rm]"), mv=e.target.closest("[data-mv]");
-    if(rm){ FEAT=FEAT.filter(x=>x!==rm.dataset.rm); renderFeatResults(); renderFeatList(); return; }
-    if(mv){ const id=mv.dataset.id, i=FEAT.indexOf(id), j=mv.dataset.mv==="up"?i-1:i+1;
-      if(j>=0&&j<FEAT.length){ FEAT.splice(i,1); FEAT.splice(j,0,id); renderFeatList(); } }
-  });
-  // arrastar para ordenar
+  // seletor do grupo alvo (Brasil/Geral)
+  document.querySelectorAll(".feat-tab").forEach(b=>b.addEventListener("click", ()=>{
+    FEAT_TARGET=b.dataset.target;
+    document.querySelectorAll(".feat-tab").forEach(x=>x.classList.toggle("is-active", x===b));
+  }));
+  $("featResults").addEventListener("click", (e)=>{ const a=e.target.closest("[data-add]"); if(!a) return; FEAT[FEAT_TARGET].push(a.dataset.add); renderFeatResults(); renderFeatList(); });
+  function wireFeatList(elId){
+    $(elId).addEventListener("click", (e)=>{
+      const rm=e.target.closest("[data-rm]"), mv=e.target.closest("[data-mv]");
+      if(rm){ const g=groupOf(rm.dataset.rm); if(g) FEAT[g]=FEAT[g].filter(x=>x!==rm.dataset.rm); renderFeatResults(); renderFeatList(); return; }
+      if(mv){ const id=mv.dataset.id, g=groupOf(id); if(!g) return; const arr=FEAT[g], i=arr.indexOf(id), j=mv.dataset.mv==="up"?i-1:i+1;
+        if(j>=0&&j<arr.length){ arr.splice(i,1); arr.splice(j,0,id); renderFeatList(); } }
+    });
+    // arrastar para ordenar (dentro do mesmo grupo)
+    $(elId).addEventListener("dragstart",(e)=>{ const r=e.target.closest(".feat-row"); if(!r) return; _fdrag=r.dataset.id; r.classList.add("dragging"); });
+    $(elId).addEventListener("dragend",(e)=>{ const r=e.target.closest(".feat-row"); if(r) r.classList.remove("dragging"); _fdrag=null; });
+    $(elId).addEventListener("dragover",(e)=>{ e.preventDefault(); const r=e.target.closest(".feat-row"); if(!r||!_fdrag||r.dataset.id===_fdrag) return;
+      const g=groupOf(_fdrag); if(!g || groupOf(r.dataset.id)!==g) return; const arr=FEAT[g];
+      const from=arr.indexOf(_fdrag), to=arr.indexOf(r.dataset.id); if(from<0||to<0) return;
+      arr.splice(from,1); arr.splice(to,0,_fdrag); renderFeatList();
+      const nr=$(elId).querySelector(`[data-id="${CSS.escape(_fdrag)}"]`); if(nr) nr.classList.add("dragging");
+    });
+  }
   let _fdrag=null;
-  $("featList").addEventListener("dragstart",(e)=>{ const r=e.target.closest(".feat-row"); if(!r) return; _fdrag=r.dataset.id; r.classList.add("dragging"); });
-  $("featList").addEventListener("dragend",(e)=>{ const r=e.target.closest(".feat-row"); if(r) r.classList.remove("dragging"); _fdrag=null; });
-  $("featList").addEventListener("dragover",(e)=>{ e.preventDefault(); const r=e.target.closest(".feat-row"); if(!r||!_fdrag||r.dataset.id===_fdrag) return;
-    const from=FEAT.indexOf(_fdrag), to=FEAT.indexOf(r.dataset.id); if(from<0||to<0) return;
-    FEAT.splice(from,1); FEAT.splice(to,0,_fdrag); renderFeatList();
-    const nr=$("featList").querySelector(`[data-id="${CSS.escape(_fdrag)}"]`); if(nr) nr.classList.add("dragging");
-  });
+  wireFeatList("featListBrasil"); wireFeatList("featListGeral");
   $("featSave").addEventListener("click", async ()=>{
     const btn=$("featSave"); btn.disabled=true;
-    const rows = FEAT.map((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id);
-      return { id, name:(p&&p.name)||id, featured:true, featured_order:i }; });
-    const removed = FEAT_WAS.filter(id=>FEAT.indexOf(id)<0).map(id=>{ const p=PRODUCTS.find(x=>x.id===id);
-      return { id, name:(p&&p.name)||id, featured:false, featured_order:null }; });
+    const rows=[];
+    ["brasil","geral"].forEach(g=> FEAT[g].forEach((id,i)=>{ const p=PRODUCTS.find(x=>x.id===id);
+      rows.push({ id, name:(p&&p.name)||id, featured:true, featured_order:i, featured_group:g }); }));
+    const keep=new Set(featAll());
+    const removed = FEAT_WAS.filter(id=>!keep.has(id)).map(id=>{ const p=PRODUCTS.find(x=>x.id===id);
+      return { id, name:(p&&p.name)||id, featured:false, featured_order:null, featured_group:null }; });
     const all=rows.concat(removed);
     if(all.length){
       const { error } = await sb.from("product_overrides").upsert(all);
-      if(error){ btn.disabled=false; toast("Erro ao salvar destaques: "+error.message); return; }
-      all.forEach(r=>{ OVER[r.id]=Object.assign(OVER[r.id]||{id:r.id}, {name:r.name, featured:r.featured, featured_order:r.featured_order}); });
+      if(error){ btn.disabled=false; toast("Erro ao salvar destaques (rodou o SQL da coluna featured_group?): "+error.message); return; }
+      all.forEach(r=>{ OVER[r.id]=Object.assign(OVER[r.id]||{id:r.id}, {name:r.name, featured:r.featured, featured_order:r.featured_order, featured_group:r.featured_group}); });
     }
-    FEAT_WAS=FEAT.slice(); btn.disabled=false;
-    toast(FEAT.length+" destaque(s) salvos. Use 'Publicar agora' pra aplicar no site.", true);
+    FEAT_WAS=featAll(); btn.disabled=false;
+    toast(featAll().length+" destaque(s) salvos ("+FEAT.brasil.length+" Brasil, "+FEAT.geral.length+" Geral). Use 'Publicar agora' pra aplicar no site.", true);
   });
 
   // ===================== AVALIAÇÕES =====================

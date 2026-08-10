@@ -195,7 +195,7 @@
 
             <p class="hero-sub" data-i18n-html="hero.sub">Camisas de futebol importadas — <b>monte seu pedido</b> aqui e finalize no WhatsApp, sem pagamento no site.</p>
 
-            <a href="#destaques" id="exploreButton" class="hero-button">
+            <a href="#collections" id="exploreButton" class="hero-button">
                 <span data-i18n="hero.explore">Explorar a coleção</span> <span class="arrow">&rarr;</span>
             </a>
 
@@ -225,21 +225,40 @@
 <!-- =========================================================
      CATALOG INFRASTRUCTURE (Sprint 3) — structure only, no products
 ========================================================== -->
-<section class="home-featured" id="destaques" aria-labelledby="featuredTitle" hidden>
+<section class="home-featured" id="destaques-brasil" aria-labelledby="featuredBrasilTitle" hidden>
     <div class="section__inner">
         <header class="home-featured__head">
             <div>
-                <p class="section__eyebrow" data-i18n="home.featuredEyebrow">Mais pedidas</p>
-                <h2 class="section__title" id="featuredTitle" data-i18n="home.featuredTitle">Camisas em destaque</h2>
+                <p class="section__eyebrow" data-i18n="home.featuredBrasilEyebrow">Futebol brasileiro</p>
+                <h2 class="section__title" id="featuredBrasilTitle" data-i18n="home.featuredBrasilTitle">Destaques Brasil</h2>
             </div>
             <a href="pages/catalog.html" class="home-featured__all">
                 <span data-i18n="home.seeAll">Ver todas</span> <span aria-hidden="true">&rarr;</span>
             </a>
         </header>
         <div class="carousel">
-            <button type="button" class="carousel__nav carousel__nav--prev" id="featPrev" aria-label="Anterior">&lsaquo;</button>
-            <div class="carousel__track" id="featuredTrack" role="list" aria-busy="true"></div>
-            <button type="button" class="carousel__nav carousel__nav--next" id="featNext" aria-label="Próximo">&rsaquo;</button>
+            <button type="button" class="carousel__nav carousel__nav--prev" data-feat-prev="brasil" aria-label="Anterior">&lsaquo;</button>
+            <div class="carousel__track" id="featuredTrackBrasil" role="list" aria-busy="true"></div>
+            <button type="button" class="carousel__nav carousel__nav--next" data-feat-next="brasil" aria-label="Próximo">&rsaquo;</button>
+        </div>
+    </div>
+</section>
+
+<section class="home-featured" id="destaques-geral" aria-labelledby="featuredGeralTitle" hidden>
+    <div class="section__inner">
+        <header class="home-featured__head">
+            <div>
+                <p class="section__eyebrow" data-i18n="home.featuredGeralEyebrow">Seleção da casa</p>
+                <h2 class="section__title" id="featuredGeralTitle" data-i18n="home.featuredGeralTitle">Destaques em geral</h2>
+            </div>
+            <a href="pages/catalog.html" class="home-featured__all">
+                <span data-i18n="home.seeAll">Ver todas</span> <span aria-hidden="true">&rarr;</span>
+            </a>
+        </header>
+        <div class="carousel">
+            <button type="button" class="carousel__nav carousel__nav--prev" data-feat-prev="geral" aria-label="Anterior">&lsaquo;</button>
+            <div class="carousel__track" id="featuredTrackGeral" role="list" aria-busy="true"></div>
+            <button type="button" class="carousel__nav carousel__nav--next" data-feat-next="geral" aria-label="Próximo">&rsaquo;</button>
         </div>
     </div>
 </section>
@@ -300,7 +319,7 @@
 </section>
 
 <script src="config/site.min.js?v=1512ac94" defer></script>
-<script src="assets/js/i18n.min.js?v=5d9cdd53" defer></script>
+<script src="assets/js/i18n.min.js?v=8471e15a" defer></script>
 <script src="assets/js/seo.min.js?v=b8ac9eeb" defer></script>
 <script src="assets/js/analytics.min.js?v=ea4701c6" defer></script>
 <script src="assets/js/api.min.js?v=938ba552" defer></script>
@@ -311,7 +330,7 @@
 <script src="assets/js/services/localization.min.js?v=d65e537f" defer></script>
 <script src="assets/js/filters.min.js?v=7c7f5181" defer></script>
 <script src="assets/js/search.min.js?v=d5e6ece1" defer></script>
-<script src="assets/js/catalog.min.js?v=058367ea" defer></script>
+<script src="assets/js/catalog.min.js?v=339376a5" defer></script>
 <script src="assets/js/ui.min.js?v=a227d100" defer></script>
 <script src="assets/js/cart.min.js?v=67f441ab" defer></script>
 <script src="assets/js/main.min.js?v=52dd7085" defer></script>
