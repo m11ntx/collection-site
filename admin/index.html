@@ -1009,6 +1009,13 @@
     FEAT_WAS = FEAT.slice();
     renderFeatResults(); renderFeatList();
   }
+  // Ordena como o site (catalog.js productSort): mais recente primeiro
+  // (addedAt desc) e, em empate/sem addedAt, por temporada desc. Sem isso, o
+  // corte de resultados escondia as camisas novas atrás dos retrôs.
+  function featSeasonKey(s){ const m=String(s==null?"":s).match(/(\d{2,4})/); if(!m) return -Infinity; let y=parseInt(m[1],10); if(m[1].length===2) y+= y<=30?2000:1900; return y; }
+  function featAddedKey(p){ const t=p&&p.addedAt?Date.parse(p.addedAt):NaN; return isNaN(t)?0:t; }
+  function featSort(a,b){ const aa=featAddedKey(a),ba=featAddedKey(b); if(aa!==ba) return ba-aa; return featSeasonKey(b.season)-featSeasonKey(a.season); }
+  const FEAT_LIMIT = 300;
   function renderFeatResults(){
     const q=($("featSearch").value||"").trim().toLowerCase();
     const col=$("featCollection").value, lg=$("featLeague").value, cl=$("featClub").value;
@@ -1016,13 +1023,16 @@
     let list=PRODUCTS.filter(p=> !inFeat.has(p.id)
       && (!col||p.collectionId===col) && (!lg||p.leagueId===lg) && (!cl||p.clubId===cl)
       && (!q || (p.name||"").toLowerCase().includes(q) || (p.clubId||"").toLowerCase().includes(q) || (p.id||"").toLowerCase().includes(q)));
-    list=list.slice(0,60);
-    $("featResults").innerHTML = list.length ? list.map(p=>`
+    list.sort(featSort);
+    const total=list.length;
+    if(total>FEAT_LIMIT) list=list.slice(0,FEAT_LIMIT);
+    const note = total>FEAT_LIMIT ? `<div class="feat-empty">Mostrando as ${FEAT_LIMIT} mais recentes de ${total}. Refine o filtro para ver o resto.</div>` : "";
+    $("featResults").innerHTML = list.length ? (note + list.map(p=>`
       <div class="feat-row">
         ${featImg(p)?`<img class="feat-thumb" src="${esc(featImg(p))}" alt="" loading="lazy">`:`<div class="feat-thumb"></div>`}
         <div class="feat-name">${esc(p.name||p.id)}<small>${esc(clubsName(p.clubId))}</small></div>
         <button class="feat-add" data-add="${esc(p.id)}">+ Adicionar</button>
-      </div>`).join("") : `<div class="feat-empty">Nenhum produto${q?" com esse termo":""}.</div>`;
+      </div>`).join("")) : `<div class="feat-empty">Nenhum produto${q?" com esse termo":""}.</div>`;
   }
   function clubsName(cid){ return cid ? String(cid).replace(/-/g," ") : ""; }
   function renderFeatList(){
