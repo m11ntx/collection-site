@@ -1472,6 +1472,11 @@ const Catalog = (() => {
         const byId = new Map((Array.isArray(products) ? products : []).map((p) => [p.id, p]));
         const list = ids.map((id) => byId.get(id)).filter(Boolean);
         const section = track.closest(".home-featured");
+        // CTA "Explorar a coleção": com destaques leva ao carrossel; sem
+        // destaques (seção oculta) leva direto às coleções, nunca a um
+        // âncora vazio.
+        const exploreBtn = document.getElementById("exploreButton");
+        if (exploreBtn) exploreBtn.setAttribute("href", list.length ? "#destaques" : "#collections");
         if (!list.length) { if (section) section.hidden = true; return; }
         if (section) section.hidden = false;
         fillGrid(track, list, jerseyCard, "");
