@@ -41,14 +41,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="image" href="assets/images/hero-background.webp" fetchpriority="high">
 <link rel="preload" as="image" href="assets/images/logo-horizontal.png">
-<link rel="preload" as="style" href="assets/css/style.min.css?v=2e8a8f32">
+<link rel="preload" as="style" href="assets/css/style.min.css?v=76e59fd3">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
 
 <!-- Prefetch the reused collection page template (warms navigation) -->
 <link rel="prefetch" href="pages/collection.html">
 
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.min.css?v=2e8a8f32">
+<link rel="stylesheet" href="assets/css/style.min.css?v=76e59fd3">
 </head>
 <body>
 
@@ -63,8 +63,7 @@
     <div class="nav__inner">
 
         <a href="#top" class="nav__logo" data-i18n-attr="aria-label:nav.home">
-            <img src="assets/images/symbol.png" alt="" class="nav__mark" width="30" height="21" decoding="async">
-            <span class="nav__name">M11NTX</span>
+            <img src="assets/images/logo-horizontal.png" alt="M11NTX — Premium Soccer Culture" class="nav__logo-img" width="1560" height="294" decoding="async">
         </a>
 
         <nav class="nav__menu" aria-label="Primary">
@@ -72,6 +71,7 @@
                 <li><a href="#collections" class="nav__link" data-i18n="nav.collection">Collection</a></li>
                 <li><a href="pages/catalog.html" class="nav__link" data-i18n="nav.catalog">Catalog</a></li>
                 <li><a href="pages/how-it-works.html" class="nav__link" data-i18n="nav.howItWorks">How It Works</a></li>
+                <li><a href="pages/reviews.html" class="nav__link" data-i18n="nav.reviews">Reviews</a></li>
                 <li><a href="pages/faq.html" class="nav__link" data-i18n="nav.faq">FAQ</a></li>
                 <li><a href="pages/about.html" class="nav__link" data-i18n="nav.about">About</a></li>
                 <li><a href="pages/contact.html" class="nav__link" data-i18n="nav.contact">Contact</a></li>
@@ -132,6 +132,7 @@
         <a href="#collections" class="mobile-menu__link" data-i18n="nav.collection">Collection</a>
         <a href="pages/catalog.html" class="mobile-menu__link" data-i18n="nav.catalog">Catalog</a>
         <a href="pages/how-it-works.html" class="mobile-menu__link" data-i18n="nav.howItWorks">How It Works</a>
+        <a href="pages/reviews.html" class="mobile-menu__link" data-i18n="nav.reviews">Reviews</a>
         <a href="pages/faq.html" class="mobile-menu__link" data-i18n="nav.faq">FAQ</a>
         <a href="pages/about.html" class="mobile-menu__link" data-i18n="nav.about">About</a>
         <a href="pages/contact.html" class="mobile-menu__link" data-i18n="nav.contact">Contact</a>
@@ -182,51 +183,40 @@
 ========================================================== -->
 <div class="landing" id="top">
 
-    <header class="site-header">
-        <a href="#" class="brand" aria-label="M11NTX — Premium Soccer Culture">
-            <img src="assets/images/logo-horizontal.png"
-                 alt="M11NTX — Premium Soccer Culture"
-                 class="site-logo" width="1560" height="294"
-                 decoding="async" fetchpriority="high">
-        </a>
-    </header>
-
     <main class="hero">
 
         <div class="hero-copy">
 
-            <h1 class="hero-title">
-                THE<br>
-                COLLECTION
-            </h1>
+            <h1 class="hero-title" data-i18n-html="hero.title">MAIS QUE<br>CAMISAS</h1>
 
             <div class="hero-divider"></div>
 
-            <p class="hero-text">
-                Some jerseys are just shirts.<br>
-                Others carry history.
-            </p>
+            <p class="hero-text" data-i18n-html="hero.text">Algumas camisas são apenas camisas.<br>Outras carregam história.</p>
 
-            <a href="#collections" id="exploreButton" class="hero-button">
-                EXPLORE THE COLLECTION <span class="arrow">&rarr;</span>
+            <p class="hero-sub" data-i18n-html="hero.sub">Camisas de futebol importadas — <b>monte seu pedido</b> aqui e finalize no WhatsApp, sem pagamento no site.</p>
+
+            <a href="#destaques" id="exploreButton" class="hero-button">
+                <span data-i18n="hero.explore">Explorar a coleção</span> <span class="arrow">&rarr;</span>
             </a>
+
+            <ul class="hero-trust" aria-label="Garantias">
+                <li data-i18n="hero.trust1">Importação premium</li>
+                <li data-i18n="hero.trust2">Entrega 25–40 dias</li>
+                <li data-i18n="hero.trust3">Troca em 7 dias</li>
+                <li data-i18n="hero.trust4">Finaliza no WhatsApp</li>
+            </ul>
 
         </div>
 
         <div class="hero-crest" aria-hidden="true">
-            <img src="assets/images/escudo.png" alt="" class="hero-crest-img" width="697" height="925" decoding="async">
+            <img src="assets/images/escudo.webp" alt="" class="hero-crest-img" width="697" height="925" decoding="async">
         </div>
-
-        <p class="hero-signature">
-            <span class="tick"></span>
-            MORE THAN JERSEYS.
-        </p>
 
     </main>
 
     <footer class="site-footer">
         <span class="footer-left">&copy; 2026 M11NTX</span>
-        <img src="assets/images/symbol.png" alt="M11" class="footer-mark" width="855" height="596" decoding="async">
+        <img src="assets/images/symbol.webp" alt="M11" class="footer-mark" width="855" height="596" decoding="async">
         <span class="footer-right">Wear The Manto</span>
     </footer>
 
@@ -235,6 +225,25 @@
 <!-- =========================================================
      CATALOG INFRASTRUCTURE (Sprint 3) — structure only, no products
 ========================================================== -->
+<section class="home-featured" id="destaques" aria-labelledby="featuredTitle" hidden>
+    <div class="section__inner">
+        <header class="home-featured__head">
+            <div>
+                <p class="section__eyebrow" data-i18n="home.featuredEyebrow">Mais pedidas</p>
+                <h2 class="section__title" id="featuredTitle" data-i18n="home.featuredTitle">Camisas em destaque</h2>
+            </div>
+            <a href="pages/catalog.html" class="home-featured__all">
+                <span data-i18n="home.seeAll">Ver todas</span> <span aria-hidden="true">&rarr;</span>
+            </a>
+        </header>
+        <div class="carousel">
+            <button type="button" class="carousel__nav carousel__nav--prev" id="featPrev" aria-label="Anterior">&lsaquo;</button>
+            <div class="carousel__track" id="featuredTrack" role="list" aria-busy="true"></div>
+            <button type="button" class="carousel__nav carousel__nav--next" id="featNext" aria-label="Próximo">&rsaquo;</button>
+        </div>
+    </div>
+</section>
+
 <section class="section" id="collections" aria-labelledby="collectionsTitle">
     <div class="section__inner">
 
@@ -263,22 +272,49 @@
     </div>
 </section>
 
+<section class="home-how" id="homeHow">
+    <div class="section__inner">
+        <header class="section__head">
+            <p class="section__eyebrow" data-i18n="home.howEyebrow">Simples e transparente</p>
+            <h2 class="section__title" data-i18n="home.howTitle">Como funciona</h2>
+            <div class="section__divider"></div>
+            <p class="section__subtitle" data-i18n="home.howSub">Do clique ao manto na sua porta — sem pagamento no site.</p>
+        </header>
+        <div class="how-steps">
+            <div class="how-step"><span class="how-step__n">01</span><h3 data-i18n="home.how1t">Monte seu pedido</h3><p data-i18n="home.how1d">Escolha a camisa, o tamanho e a quantidade.</p></div>
+            <div class="how-step"><span class="how-step__n">02</span><h3 data-i18n="home.how2t">Finalize no WhatsApp</h3><p data-i18n="home.how2d">Preencha seus dados e abrimos o WhatsApp com o pedido pronto.</p></div>
+            <div class="how-step"><span class="how-step__n">03</span><h3 data-i18n="home.how3t">Receba em casa</h3><p data-i18n="home.how3d">Importamos e acompanhamos até a entrega.</p></div>
+        </div>
+    </div>
+</section>
+
+<section class="home-cta" id="homeCta">
+    <div class="section__inner home-cta__in">
+        <h2 data-i18n="home.ctaTitle">Pronto pra vestir o manto?</h2>
+        <p data-i18n="home.ctaText">Monte seu pedido em minutos. A gente finaliza com você no WhatsApp.</p>
+        <a href="pages/catalog.html" class="home-cta__btn">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.7 15l-1.3 5 5.1-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1-.4-.1-.9-.3-1.6-.6-2.7-1.2-4.5-4-4.6-4.2-.1-.2-1.1-1.4-1.1-2.7s.7-1.9.9-2.1c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.5.1.3.7 1.1 1.4 1.8.9.8 1.7 1 2 1.2.2.1.4.1.5-.1l.7-.8c.2-.2.3-.2.5-.1l1.8.9c.2.1.4.2.5.3.1.2.1.6-.1 1.1Z"/></svg>
+            <span data-i18n="home.ctaBtn">Montar meu pedido</span>
+        </a>
+    </div>
+</section>
+
 <script src="config/site.min.js?v=1512ac94" defer></script>
-<script src="assets/js/i18n.min.js?v=d82ac667" defer></script>
+<script src="assets/js/i18n.min.js?v=5d9cdd53" defer></script>
 <script src="assets/js/seo.min.js?v=b8ac9eeb" defer></script>
 <script src="assets/js/analytics.min.js?v=ea4701c6" defer></script>
 <script src="assets/js/api.min.js?v=938ba552" defer></script>
 <script src="assets/js/image-loader.min.js?v=35b3eb41" defer></script>
-<script src="assets/js/services/languageService.min.js?v=5165714a" defer></script>
+<script src="assets/js/services/languageService.min.js?v=ade00751" defer></script>
 <script src="assets/js/services/currencyService.min.js?v=3a202a79" defer></script>
 <script src="assets/js/services/locationService.min.js?v=d3cb82c6" defer></script>
-<script src="assets/js/services/localization.min.js?v=dd327453" defer></script>
-<script src="assets/js/filters.min.js?v=075e2a4f" defer></script>
+<script src="assets/js/services/localization.min.js?v=d65e537f" defer></script>
+<script src="assets/js/filters.min.js?v=b39274c7" defer></script>
 <script src="assets/js/search.min.js?v=d5e6ece1" defer></script>
-<script src="assets/js/catalog.min.js?v=ade547b1" defer></script>
-<script src="assets/js/ui.min.js?v=76865e3d" defer></script>
-<script src="assets/js/cart.min.js?v=295e0b2e" defer></script>
-<script src="assets/js/main.min.js?v=9eca9192" defer></script>
+<script src="assets/js/catalog.min.js?v=cb329740" defer></script>
+<script src="assets/js/ui.min.js?v=a227d100" defer></script>
+<script src="assets/js/cart.min.js?v=0a2f3e25" defer></script>
+<script src="assets/js/main.min.js?v=52dd7085" defer></script>
 
 </body>
 </html>

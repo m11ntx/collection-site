@@ -9,32 +9,20 @@ const UI = (() => {
     /* ---------- sticky / reveal navigation ---------- */
     function initNav() {
         const nav = document.getElementById("siteNav");
-        const landing = document.getElementById("top");
         if (!nav) return;
-
-        // Subpages (no hero): keep the bar visible at all times.
-        if (!landing) {
-            nav.classList.add("is-stuck");
-            return;
-        }
-
-        // Home: reveal the bar only after the hero has been scrolled past,
-        // so the approved landing stays untouched at the top.
-        const threshold = () => landing.offsetHeight - 90;
-
+        // Menu sempre visível (home + subpáginas) — mobile-first: navega de cara.
+        nav.classList.add("is-stuck");
+        // "is-scrolled" quando a tela rola: revela a barra de busca no mobile,
+        // pra que a abertura mostre o hero inteiro (com o footer).
         let ticking = false;
-        function update() {
-            nav.classList.toggle("is-stuck", window.scrollY > threshold());
+        function onScroll() {
+            nav.classList.toggle("is-scrolled", window.scrollY > 24);
             ticking = false;
         }
         window.addEventListener("scroll", () => {
-            if (!ticking) {
-                window.requestAnimationFrame(update);
-                ticking = true;
-            }
+            if (!ticking) { window.requestAnimationFrame(onScroll); ticking = true; }
         }, { passive: true });
-        window.addEventListener("resize", update);
-        update();
+        onScroll();
     }
 
     /* ---------- mobile menu ---------- */

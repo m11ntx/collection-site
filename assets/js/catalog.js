@@ -580,20 +580,25 @@ const Catalog = (() => {
     // free-text name/number field to collect), so this is display-only,
     // matching the "M11NTX intermediates, availability confirmed via
     // Instagram" model everywhere else on the jersey detail page.
-    function jerseyPersonalizationHtml(p) {
-        if (!p || !p.personalizationAvailable || !window.CurrencyService) return "";
-        // Mesma fonte do carrinho: a taxa é a config persoFee (BRL), mostrada na
-        // moeda ativa usando o câmbio do próprio produto (preço[cur]/preço[BRL]).
+    // Taxa de personalização (config persoFee, em BRL) formatada na moeda ativa
+    // usando o câmbio do próprio produto (preço[cur]/preço[BRL]). Fonte única
+    // compartilhada pela nota da página e pelo toggle do order box (cart.js usa
+    // a mesma regra), para o "+R$40" bater sempre com o carrinho.
+    function persoFeeLabel(p) {
         const fee = (window.CONFIG && Number.isFinite(CONFIG.persoFee)) ? CONFIG.persoFee : 40;
+        if (!window.CurrencyService) return "R$ " + fee.toFixed(2).replace(".", ",");
         const cur = CurrencyService.getCurrency();
-        const brl = p.price && typeof p.price.BRL === "number" ? p.price.BRL : 0;
-        const curAmt = p.price && typeof p.price[cur] === "number" ? p.price[cur] : brl;
+        const brl = p && p.price && typeof p.price.BRL === "number" ? p.price.BRL : 0;
+        const curAmt = p && p.price && typeof p.price[cur] === "number" ? p.price[cur] : brl;
         const feeCur = brl > 0 ? fee * (curAmt / brl) : fee;
         const loc = (CurrencyService.CURRENCY_TO_LOCALE && CurrencyService.CURRENCY_TO_LOCALE[cur]) || "pt-BR";
-        let price;
-        try { price = new Intl.NumberFormat(loc, { style: "currency", currency: cur }).format(feeCur); }
-        catch (_) { price = "R$ " + fee.toFixed(2).replace(".", ","); }
-        return `<p class="jersey__personalization">${esc(I18N.t("jerseyDetail.personalizationNote", { price: price }))}</p>`;
+        try { return new Intl.NumberFormat(loc, { style: "currency", currency: cur }).format(feeCur); }
+        catch (_) { return "R$ " + fee.toFixed(2).replace(".", ","); }
+    }
+
+    function jerseyPersonalizationHtml(p) {
+        if (!p || !p.personalizationAvailable || !window.CurrencyService) return "";
+        return `<p class="jersey__personalization">${esc(I18N.t("jerseyDetail.personalizationNote", { price: persoFeeLabel(p) }))}</p>`;
     }
 
     function jerseyCard(p) {
@@ -601,6 +606,29 @@ const Catalog = (() => {
         const meta = [esc(I18N.fieldLabel("category", p.category)), esc(p.season)]
             .filter(Boolean).join(" · ");
         const cta = I18N.t("jerseyCard.viewDetails");
+        // Ação rápida: adicionar ao pedido sem abrir o produto. Com grade de
+        // tamanhos, um popover pede o tamanho ali mesmo no card; sem grade,
+        // adiciona direto. Dados vão em atributos p/ um handler delegado.
+        const qaSizes = (Array.isArray(p.sizes) ? p.sizes : [])
+            .map((s) => (typeof s === "string" ? s : s && s.size)).filter(Boolean);
+        const qaPrimary = Array.isArray(p.images) && p.images.length
+            ? (p.images.find((im) => im.primary) || p.images[0]) : null;
+        const qaCover = qaPrimary && qaPrimary.url && window.ImageLoader
+            ? ImageLoader.getImage("jerseys", qaPrimary.url) : "";
+        const qaPrice = p.price && typeof p.price.BRL === "number" ? p.price.BRL : 0;
+        const quickAdd = window.Cart ? `
+                    <button type="button" class="jersey-card__quick" aria-label="${esc(I18N.t("jerseyCard.quickAdd"))} — ${name}"
+                            data-qa-id="${esc(p.id)}" data-qa-name="${name}" data-qa-price="${qaPrice}"
+                            data-qa-prices='${esc(JSON.stringify(p.price || {}))}' data-qa-image="${esc(qaCover)}">
+                        <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+                    </button>
+                    <div class="jersey-card__qa" hidden>
+                        <p class="jersey-card__qa-label">${esc(I18N.t("jerseyDetail.sizesLabel"))}</p>
+                        <div class="jersey-card__qa-sizes">
+                            ${qaSizes.map((s) => `<button type="button" class="size-chip jersey-card__qa-size" data-size="${esc(s)}">${esc(I18N.sizeLabel(s))}</button>`).join("")}
+                        </div>
+                        <button type="button" class="jersey-card__qa-close" aria-label="${esc(I18N.t("common.close"))}">&times;</button>
+                    </div>` : "";
         return `
             <article class="jersey-card reveal" role="listitem" data-id="${esc(p.id)}">
                 <div class="jersey-card__media">
@@ -608,6 +636,7 @@ const Catalog = (() => {
                     ${p.promotion && p.promotion.label ? `<span class="badge badge--promo jersey-card__promo">${esc(p.promotion.label)}</span>` : ""}
                     ${isNew(p) ? `<span class="badge badge--new jersey-card__new">${esc(I18N.t("jerseyCard.new"))}</span>` : ""}
                     ${p.type ? `<span class="badge jersey-card__type">${esc(I18N.fieldLabel("type", p.type))}</span>` : ""}
+                    ${quickAdd}
                 </div>
                 <div class="jersey-card__body">
                     <p class="jersey-card__brand">${esc(p.brand)}</p>
@@ -921,12 +950,282 @@ const Catalog = (() => {
             // reset da personalização após adicionar (evita repetir sem querer)
             if (persoToggle && persoToggle.checked) { persoToggle.checked = false; persoFields.classList.remove("is-open"); persoName.value = ""; persoNum.value = ""; }
         });
+
+        // CTA fixo no mobile: preço + "Adicionar ao pedido" sempre à mão.
+        if (!root.querySelector(".jersey-sticky")) {
+            const bar = document.createElement("div");
+            bar.className = "jersey-sticky";
+            const priceEl = root.querySelector(".jersey__price");
+            bar.innerHTML = `<div class="jersey-sticky__price">${priceEl ? priceEl.innerHTML : ""}</div>`
+                + `<button type="button" class="btn btn--primary jersey-sticky__btn">${esc(I18N.t("jerseyDetail.addToOrder"))}</button>`;
+            root.appendChild(bar);
+            bar.querySelector(".jersey-sticky__btn").addEventListener("click", () => {
+                const sel = box.querySelector(".order__size.is-selected");
+                if (sizes.length && !sel) { box.scrollIntoView({ behavior: "smooth", block: "center" }); return; }
+                const add = box.querySelector(".order__add"); if (add) add.click();
+            });
+        }
+    }
+
+    // Avaliações NO PRODUTO = vitrine somente-leitura: estrelas, nome e texto
+    // (sem foto, sem formulário). A coleta acontece no menu "Avaliações"
+    // (pages/reviews.html). A seção só aparece se houver avaliação aprovada
+    // para este produto; sem registros, fica oculta (pedido do dono).
+    const _stars = (n) => { n = Math.max(0, Math.min(5, Number(n) || 0)); return "★".repeat(n) + "☆".repeat(5 - n); };
+    async function renderReviews(root) {
+        const mount = root && root.querySelector("#reviews");
+        if (!mount) return;
+        mount.hidden = true; // padrão oculto; revela só com avaliações aprovadas
+        const cfg = window.CONFIG || {};
+        const url = cfg.supabaseUrl, anon = cfg.supabaseAnon;
+        const pid = mount.dataset.pid;
+        if (!url || !anon || !pid) return;
+        const H = { apikey: anon, Authorization: "Bearer " + anon };
+        let list = [];
+        try {
+            const r = await fetch(`${url}/rest/v1/reviews?product_id=eq.${encodeURIComponent(pid)}&status=eq.approved&order=created_at.desc&select=name,rating,comment`, { headers: H });
+            list = await r.json(); if (!Array.isArray(list)) list = [];
+        } catch (_) {}
+        if (!list.length) return; // sem avaliação aprovada -> não mostra a seção
+        mount.hidden = false;
+        const avg = list.reduce((s, x) => s + (x.rating || 0), 0) / list.length;
+        const listHtml = list.map((x) => `<article class="review">
+                <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
+                ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
+            </article>`).join("");
+        mount.innerHTML = `<div class="section__inner reviews__inner">
+                <header class="section__head reviews__head">
+                    <p class="section__eyebrow">${esc(I18N.t("reviews.eyebrow"))}</p>
+                    <h2 class="section__title">${esc(I18N.t("reviews.title"))}</h2>
+                    <p class="reviews__avg"><span class="review__stars">${_stars(Math.round(avg))}</span> ${avg.toFixed(1)} · ${esc(I18N.t("reviews.count", { n: list.length }))}</p>
+                </header>
+                <div class="reviews__list">${listHtml}</div>
+                <a class="btn btn--ghost reviews__cta" href="pages/reviews.html">${esc(I18N.t("reviews.writeCta"))} &rarr;</a>
+            </div>`;
     }
 
     document.addEventListener("jersey:rendered", (e) => {
         const root = e.detail && e.detail.root;
         wireStories(root);
         wireOrder(root);
+        renderReviews(root);
+        wireSizeGuide(root);
+    });
+
+    // image_url guarda uma URL única (legado) OU um array JSON de URLs (novo,
+    // p/ múltiplas fotos). Sem migração de schema: parse tolerante nos 2 lados
+    // (esta vitrine e o admin usam a MESMA lógica).
+    function reviewImgs(v) {
+        if (!v) return [];
+        if (typeof v === "string" && v[0] === "[") { try { const a = JSON.parse(v); return Array.isArray(a) ? a : []; } catch (_) { return [v]; } }
+        return [v];
+    }
+
+    /* ---------- página "Avaliações" (menu do site) ----------
+       Coleta central: qualquer pessoa avalia (nome, nota, texto, fotos) e um
+       admin aprova. Mostra a "parede" de avaliações aprovadas (com fotos).
+       Um campo de produto é OPCIONAL — se preenchido, a avaliação também
+       aparece na página daquele produto (RN: lá é só estrelas/nome/texto). */
+    async function initReviewsPage() {
+        const root = document.getElementById("reviewsPage");
+        if (!root) return;
+        const titleKey = "reviews.pageTitle", subKey = "reviews.pageSubtitle";
+        document.title = `M11NTX | ${I18N.t(titleKey)}`;
+        if (window.SEO) SEO.set({ title: `M11NTX | ${I18N.t(titleKey)}`, description: I18N.t(subKey), canonical: "/pages/reviews.html" });
+
+        const cfg = window.CONFIG || {};
+        const url = cfg.supabaseUrl, anon = cfg.supabaseAnon;
+        const H = { apikey: anon, Authorization: "Bearer " + anon };
+
+        // typeahead opcional de produto (reusa o mesmo enrich dos filtros)
+        let prod = [];
+        try {
+            const [p, cl, co, lg] = await Promise.all([API.getProducts(), API.getClubs(), API.getCollections(), API.getLeagues()]);
+            prod = (window.Filters ? Filters.enrich(p, { clubs: cl, collections: co, leagues: lg }) : (Array.isArray(p) ? p : []));
+        } catch (_) {}
+
+        let chosen = null; // {id, name}
+
+        const render = () => {
+            root.innerHTML = `
+                <nav class="breadcrumb" aria-label="Breadcrumb">
+                    <a class="breadcrumb__link" href="index.html" data-i18n="breadcrumb.home">Home</a>
+                    <span class="breadcrumb__sep" aria-hidden="true">/</span>
+                    <span class="breadcrumb__current" aria-current="page">${esc(I18N.t(titleKey))}</span>
+                </nav>
+                <header class="section__head reviews-page__head">
+                    <p class="section__eyebrow">${esc(I18N.t("reviews.eyebrow"))}</p>
+                    <h1 class="section__title">${esc(I18N.t(titleKey))}</h1>
+                    <div class="section__divider"></div>
+                    <p class="section__subtitle">${esc(I18N.t(subKey))}</p>
+                </header>
+                <form class="reviews-page__form" id="revForm" novalidate>
+                    <div class="reviews__rating" id="revRating" role="radiogroup" aria-label="${esc(I18N.t("reviews.rating"))}">
+                        ${[1, 2, 3, 4, 5].map((i) => `<button type="button" class="reviews__star" data-v="${i}" aria-label="${i}">☆</button>`).join("")}
+                    </div>
+                    <input class="reviews__field" name="name" placeholder="${esc(I18N.t("reviews.yourName"))}" required>
+                    <div class="reviews-page__typeahead">
+                        <input class="reviews__field" id="revProduct" autocomplete="off" placeholder="${esc(I18N.t("reviews.productOptional"))}">
+                        <div class="reviews-page__ta-results" id="revProductResults" hidden></div>
+                    </div>
+                    <textarea class="reviews__field" name="comment" rows="4" placeholder="${esc(I18N.t("reviews.comment"))}"></textarea>
+                    <label class="reviews__photo">${esc(I18N.t("reviews.photos"))}<input type="file" id="revPhotos" name="photos" accept="image/*" multiple></label>
+                    <button type="submit" class="btn btn--primary" id="revSubmit">${esc(I18N.t("reviews.submit"))}</button>
+                    <p class="reviews__msg" id="revMsg" role="status"></p>
+                </form>
+                <div class="reviews-page__wall" id="revWall" aria-busy="true"></div>`;
+            wire();
+            loadWall();
+        };
+
+        function wire() {
+            let rating = 0;
+            const stEls = Array.prototype.slice.call(root.querySelectorAll(".reviews__star"));
+            stEls.forEach((b) => b.addEventListener("click", () => { rating = +b.dataset.v; stEls.forEach((x, i) => { x.textContent = i < rating ? "★" : "☆"; }); }));
+
+            // typeahead: filtra por nome/clube/temporada; clicar escolhe o produto
+            const pInput = root.querySelector("#revProduct");
+            const pRes = root.querySelector("#revProductResults");
+            const showRes = (q) => {
+                chosen = null;
+                q = (q || "").trim().toLowerCase();
+                if (q.length < 2) { pRes.hidden = true; pRes.innerHTML = ""; return; }
+                const hits = prod.filter((x) => {
+                    const hay = [x.name, x.clubName, x.season].map((s) => String(s || "").toLowerCase()).join(" ");
+                    return q.split(/\s+/).every((tok) => hay.indexOf(tok) !== -1);
+                }).slice(0, 6);
+                if (!hits.length) { pRes.hidden = true; pRes.innerHTML = ""; return; }
+                pRes.innerHTML = hits.map((x) => `<button type="button" class="reviews-page__ta-item" data-id="${esc(x.id)}" data-name="${esc(I18N.translateName(x.name))}">${esc(I18N.translateName(x.name))}${x.clubName ? ` · ${esc(x.clubName)}` : ""}${x.season ? ` · ${esc(x.season)}` : ""}</button>`).join("");
+                pRes.hidden = false;
+            };
+            if (pInput) {
+                let tmr = null;
+                pInput.addEventListener("input", () => { clearTimeout(tmr); const v = pInput.value; tmr = setTimeout(() => showRes(v), 180); });
+                pRes.addEventListener("click", (e) => {
+                    const it = e.target.closest(".reviews-page__ta-item");
+                    if (!it) return;
+                    chosen = { id: it.dataset.id, name: it.dataset.name };
+                    pInput.value = it.dataset.name; pRes.hidden = true; pRes.innerHTML = "";
+                });
+            }
+
+            const form = root.querySelector("#revForm");
+            form.addEventListener("submit", async (e) => {
+                e.preventDefault();
+                const msg = root.querySelector("#revMsg"), btn = root.querySelector("#revSubmit");
+                const nm = form.name.value.trim();
+                if (!url || !anon) { msg.textContent = I18N.t("reviews.fail"); msg.className = "reviews__msg is-err"; return; }
+                if (!nm) { msg.textContent = I18N.t("reviews.needName"); msg.className = "reviews__msg is-err"; return; }
+                if (!rating) { msg.textContent = I18N.t("reviews.needRating"); msg.className = "reviews__msg is-err"; return; }
+                btn.disabled = true; msg.textContent = I18N.t("reviews.sending"); msg.className = "reviews__msg";
+                try {
+                    const files = Array.prototype.slice.call((root.querySelector("#revPhotos").files) || []).slice(0, 5);
+                    const urls = [];
+                    for (let i = 0; i < files.length; i++) {
+                        const file = files[i];
+                        const ext = (file.name.split(".").pop() || "jpg").toLowerCase().replace(/[^a-z0-9]/g, "") || "jpg";
+                        const path = `wall/${Date.now()}-${i}-${Math.random().toString(36).slice(2)}.${ext}`;
+                        const up = await fetch(`${url}/storage/v1/object/reviews/${path}`, {
+                            method: "POST", headers: Object.assign({ "Content-Type": file.type || "image/jpeg" }, H), body: file });
+                        if (up.ok) urls.push(`${url}/storage/v1/object/public/reviews/${path}`);
+                    }
+                    const imageField = urls.length > 1 ? JSON.stringify(urls) : (urls[0] || "");
+                    const res = await fetch(`${url}/rest/v1/reviews`, {
+                        method: "POST", headers: Object.assign({ "Content-Type": "application/json", "Prefer": "return=minimal" }, H),
+                        body: JSON.stringify({
+                            product_id: chosen ? chosen.id : "", product_name: chosen ? chosen.name : "",
+                            name: nm, rating: rating, comment: form.comment.value.trim(),
+                            image_url: imageField, status: "pending"
+                        }) });
+                    if (!res.ok) throw new Error(await res.text());
+                    form.reset(); rating = 0; chosen = null;
+                    stEls.forEach((x) => { x.textContent = "☆"; });
+                    msg.textContent = I18N.t("reviews.thanks"); msg.className = "reviews__msg is-ok";
+                } catch (_) { msg.textContent = I18N.t("reviews.fail"); msg.className = "reviews__msg is-err"; }
+                btn.disabled = false;
+            });
+        }
+
+        async function loadWall() {
+            const wall = root.querySelector("#revWall");
+            if (!wall) return;
+            let list = [];
+            if (url && anon) {
+                try {
+                    const r = await fetch(`${url}/rest/v1/reviews?status=eq.approved&order=created_at.desc&select=name,rating,comment,image_url,product_name`, { headers: H });
+                    list = await r.json(); if (!Array.isArray(list)) list = [];
+                } catch (_) {}
+            }
+            wall.setAttribute("aria-busy", "false");
+            if (!list.length) { wall.innerHTML = `<p class="reviews-page__empty">${esc(I18N.t("reviews.wallEmpty"))}</p>`; return; }
+            wall.innerHTML = list.map((x) => {
+                const imgs = reviewImgs(x.image_url);
+                return `<article class="review review--wall">
+                    <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
+                    ${x.product_name ? `<p class="review__tag">${esc(x.product_name)}</p>` : ""}
+                    ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
+                    ${imgs.length ? `<div class="review__imgs">${imgs.map((u) => `<img class="review__img" src="${esc(u)}" alt="" loading="lazy">`).join("")}</div>` : ""}
+                </article>`;
+            }).join("");
+        }
+
+        render();
+        _lastPageRerender = render; // troca de idioma re-renderiza via handler global
+    }
+
+    // Guia de tamanhos como modal: link no order box abre; backdrop/×/Esc fecham.
+    function wireSizeGuide(root) {
+        if (!root) return;
+        const modal = root.querySelector("#sizeGuideModal");
+        const open = root.querySelector("[data-size-guide]");
+        if (!modal || !open) return;
+        const show = () => { modal.hidden = false; document.body.classList.add("size-modal-open"); };
+        const hide = () => { modal.hidden = true; document.body.classList.remove("size-modal-open"); };
+        open.addEventListener("click", show);
+        modal.querySelectorAll("[data-size-guide-close]").forEach((el) => el.addEventListener("click", hide));
+        document.addEventListener("keydown", (ev) => { if (ev.key === "Escape" && !modal.hidden) hide(); });
+    }
+
+    // Ação rápida no card (quick-add): handler delegado no document, cobre
+    // qualquer grade de cards (home, coleção, clube, catálogo), inclusive os
+    // renderizados depois. Com tamanhos, abre popover; sem, adiciona direto.
+    function quickAddToCart(btn, size) {
+        if (!window.Cart) return;
+        let prices = null;
+        try { prices = JSON.parse(btn.dataset.qaPrices || "{}"); } catch (_) { prices = null; }
+        window.Cart.add({
+            id: btn.dataset.qaId, name: btn.dataset.qaName, size: size || "",
+            qty: 1, price: parseFloat(btn.dataset.qaPrice) || 0, prices: prices,
+            image: btn.dataset.qaImage, perso: null,
+        });
+        btn.classList.add("is-added");
+        setTimeout(() => btn.classList.remove("is-added"), 1200);
+    }
+
+    document.addEventListener("click", (e) => {
+        const closeBtn = e.target.closest(".jersey-card__qa-close");
+        if (closeBtn) { const qa = closeBtn.closest(".jersey-card__qa"); if (qa) qa.hidden = true; return; }
+        const sizeBtn = e.target.closest(".jersey-card__qa-size");
+        if (sizeBtn) {
+            const media = sizeBtn.closest(".jersey-card__media");
+            const btn = media && media.querySelector(".jersey-card__quick");
+            if (btn) quickAddToCart(btn, sizeBtn.dataset.size);
+            const qa = sizeBtn.closest(".jersey-card__qa");
+            if (qa) qa.hidden = true;
+            return;
+        }
+        const q = e.target.closest(".jersey-card__quick");
+        if (!q) return;
+        e.preventDefault();
+        const media = q.closest(".jersey-card__media");
+        const qa = media && media.querySelector(".jersey-card__qa");
+        const hasSizes = qa && qa.querySelector(".jersey-card__qa-size");
+        if (hasSizes) {
+            document.querySelectorAll(".jersey-card__qa:not([hidden])").forEach((el) => { if (el !== qa) el.hidden = true; });
+            qa.hidden = !qa.hidden;
+        } else {
+            quickAddToCart(q, "");
+        }
     });
 
     function specRow(label, valueHtml) {
@@ -987,23 +1286,37 @@ const Catalog = (() => {
             ? (p.images.find((im) => im.primary) || p.images[0]) : null;
         const orderCover = primaryImg && primaryImg.url && window.ImageLoader
             ? ImageLoader.getImage("jerseys", primaryImg.url) : "";
+        // Link "guia de tamanhos" abre a mesma imagem de referência num modal
+        // (RN: sem estoque ao vivo, é só orientação) — some quando não há grade.
+        const sizesGuideLink = sizeList.length
+            ? `<button type="button" class="order__sizes-guide" data-size-guide>${esc(I18N.t("jerseyDetail.sizeGuideLink"))}</button>`
+            : "";
         const orderSizes = sizeList.length
             ? `<div class="order__sizes" role="radiogroup" aria-label="${I18N.t("jerseyDetail.sizesLabel")}">
-                   <p class="sizes__label">${I18N.t("jerseyDetail.sizesLabel")}</p>
+                   <div class="order__sizes-head">
+                       <p class="sizes__label">${I18N.t("jerseyDetail.sizesLabel")}</p>
+                       ${sizesGuideLink}
+                   </div>
                    <div class="order__sizes-list">
                        ${sizeList.map((s) => `<button type="button" class="size-chip order__size" data-size="${esc(s.size)}">${esc(I18N.sizeLabel(s.size))}</button>`).join("")}
                    </div>
                </div>`
             : "";
-        const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-prices='${esc(JSON.stringify(p.price || {}))}' data-image="${esc(orderCover)}">
-                ${orderSizes}
-                <label class="order__perso-check">
+        // Personalização só aparece quando o produto permite (RN); com o "+fee"
+        // no rótulo para o cliente saber o custo antes de marcar.
+        const persoBlock = p.personalizationAvailable
+            ? `<label class="order__perso-check">
                     <input type="checkbox" class="order__perso-toggle"> ${I18N.t("jerseyDetail.personalizeToggle")}
+                    <span class="order__perso-fee">+${esc(persoFeeLabel(p))}</span>
                 </label>
                 <div class="order__perso-fields">
                     <input type="text" class="order__perso-name" maxlength="20" placeholder="${esc(I18N.t("jerseyDetail.persoNamePlaceholder"))}">
                     <input type="text" class="order__perso-num" maxlength="3" inputmode="numeric" placeholder="${esc(I18N.t("jerseyDetail.persoNumberPlaceholder"))}">
-                </div>
+                </div>`
+            : "";
+        const orderBox = `<div class="order" data-id="${esc(p.id)}" data-name="${esc(name)}" data-price="${orderPrice}" data-prices='${esc(JSON.stringify(p.price || {}))}' data-image="${esc(orderCover)}">
+                ${orderSizes}
+                ${persoBlock}
                 <div class="order__actions">
                     <div class="qty" aria-label="Quantidade">
                         <button type="button" class="qty__btn" data-qminus aria-label="Diminuir">−</button>
@@ -1012,6 +1325,11 @@ const Catalog = (() => {
                     </div>
                     <button type="button" class="btn btn--primary order__add">${I18N.t("jerseyDetail.addToOrder")}</button>
                 </div>
+                <ul class="order__trust" aria-label="${esc(I18N.t("jerseyDetail.trustLabel"))}">
+                    <li class="order__trust-item"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><span>${esc(I18N.t("jerseyDetail.trustDelivery"))}</span></li>
+                    <li class="order__trust-item"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg><span>${esc(I18N.t("jerseyDetail.trustReturns"))}</span></li>
+                    <li class="order__trust-item"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l7 3v5c0 4.5-3 7.5-7 9-4-1.5-7-4.5-7-9V6z"/><path d="M9 12l2 2 4-4"/></svg><span>${esc(I18N.t("jerseyDetail.trustPayment"))}</span></li>
+                </ul>
                 <a class="order__consult" href="${esc(INSTAGRAM_URL)}" target="_blank" rel="noopener">${I18N.t("jerseyDetail.orderConsult")} &rarr;</a>
             </div>`;
 
@@ -1022,10 +1340,16 @@ const Catalog = (() => {
         const sizeGuideSrc = I18N.getLang() === "pt"
             ? "assets/images/size-guide-pt.webp"
             : "assets/images/size-guide-en.webp";
+        // Modal: aberto pelo link "guia de tamanhos" do order box. Fica no DOM
+        // oculto (hidden) e é revelado por wireSizeGuide (jersey:rendered).
         const sizeGuide = `
-            <div class="jersey__size-guide">
-                <p class="jersey__size-guide-label">${I18N.t("jerseyDetail.sizeGuideLabel")}</p>
-                <img src="${sizeGuideSrc}" loading="lazy" alt="${I18N.t("jerseyDetail.sizeGuideAlt")}">
+            <div class="size-modal" id="sizeGuideModal" hidden role="dialog" aria-modal="true" aria-label="${esc(I18N.t("jerseyDetail.sizeGuideLabel"))}">
+                <div class="size-modal__backdrop" data-size-guide-close></div>
+                <div class="size-modal__panel" role="document">
+                    <button type="button" class="size-modal__close" data-size-guide-close aria-label="${esc(I18N.t("common.close"))}">&times;</button>
+                    <p class="size-modal__label">${I18N.t("jerseyDetail.sizeGuideLabel")}</p>
+                    <img src="${sizeGuideSrc}" loading="lazy" alt="${I18N.t("jerseyDetail.sizeGuideAlt")}">
+                </div>
             </div>`;
 
         return `
@@ -1057,6 +1381,8 @@ const Catalog = (() => {
                 </div>
                 ${sizeGuide}
             </div>
+
+            <section id="reviews" class="reviews" data-pid="${esc(p.id)}" data-pname="${name}"></section>
 
             ${journeySections()}`;
     }
@@ -1128,6 +1454,38 @@ const Catalog = (() => {
         };
         render();
         _lastPageRerender = render;
+        initFeatured();
+    }
+
+    // Home: carrossel de destaques (produtos escolhidos em data/featured.json).
+    let _featWired = false;
+    async function initFeatured() {
+        const track = document.getElementById("featuredTrack");
+        if (!track) return;
+        let ids = [];
+        try {
+            const r = await fetch("data/featured.json", { cache: "no-cache" });
+            const j = await r.json();
+            ids = Array.isArray(j && j.ids) ? j.ids : [];
+        } catch (_) { /* sem config -> some a seção */ }
+        const products = await API.getProducts();
+        const byId = new Map((Array.isArray(products) ? products : []).map((p) => [p.id, p]));
+        const list = ids.map((id) => byId.get(id)).filter(Boolean);
+        const section = track.closest(".home-featured");
+        if (!list.length) { if (section) section.hidden = true; return; }
+        if (section) section.hidden = false;
+        fillGrid(track, list, jerseyCard, "");
+        track.setAttribute("aria-busy", "false");
+        if (window.ImageLoader) ImageLoader.hydrate(track);
+        if (!_featWired) {
+            _featWired = true;
+            const prev = document.getElementById("featPrev"), next = document.getElementById("featNext");
+            const step = () => Math.max(240, track.clientWidth * 0.85);
+            if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
+            if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+            document.addEventListener("currency:change", initFeatured);
+            document.addEventListener("language:change", initFeatured);
+        }
     }
 
     async function initDetail() {
@@ -1595,7 +1953,7 @@ const Catalog = (() => {
 
     return {
         init, initDetail, initLeaguePage, initRegionPage, initClubPage, initJerseyPage,
-        initCatalogPage, initSiteSearch,
+        initCatalogPage, initSiteSearch, initReviewsPage,
         renderSkeletons, renderCollections, renderLeagues, renderRegions, renderClubs, renderJerseys
     };
 })();

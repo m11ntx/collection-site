@@ -29,6 +29,7 @@
   }
   const money = (v) => fmt(v, "BRL");
   const t = (k, vars) => (window.I18N ? window.I18N.t("cart." + k, vars) : k);
+  const track = (n, p) => { try { if (window.Analytics && window.Analytics.trackEvent) window.Analytics.trackEvent(n, p || {}); } catch (_) {} };
   const lang = () => (window.I18N ? window.I18N.getLang() : "pt");
   let items = load();
   let root;
@@ -131,6 +132,7 @@
                       qty: item.qty || 1, price: Number(item.price) || 0, image: item.image || "",
                       prices: (item.prices && typeof item.prices === "object") ? item.prices : null, perso });
     openPerso.clear(); persist(); openDrawer();
+    track("add_to_order", { id: item.id, size: item.size || "", qty: item.qty || 1 });
   }
 
   /* ---------------- máscaras / validações ---------------- */
@@ -178,6 +180,9 @@
            <button class="m11-primary" id="m11-checkout"></button>
          </div>
          <form id="m11-form" class="m11-hidden" novalidate autocomplete="on">
+           <div class="m11-steps"><span class="done">1</span><span class="on">2 · <b data-t="stData">Seus dados</b></span><span>3 · WhatsApp</span></div>
+           <div class="m11-nopay"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2 4 6v6c0 5 3.4 8.5 8 10 4.6-1.5 8-5 8-10V6l-8-4Z"/><path d="m9 12 2 2 4-4"/></svg><span data-t="noPayBanner"></span></div>
+           <div class="m11-summary" id="m11-summary"></div>
            <p class="m11-form-title" data-t="yourData"></p>
            <label id="lbl-country"><span class="lt"></span><select name="country">${countryOptions(countryCode)}</select></label>
            <label id="lbl-name"><span class="lt"></span><input name="name" required autocomplete="name"></label>
@@ -200,7 +205,8 @@
            <input type="text" name="_hp" tabindex="-1" autocomplete="off" aria-hidden="true">
            <div class="m11-total"><span class="m11-t-total"></span><strong id="m11-ftotal">R$ 0,00</strong></div>
            <p class="m11-priv" data-t="privacyNote"></p>
-           <button class="m11-primary" type="submit" id="m11-send" data-t="submit"></button>
+           <button class="m11-primary m11-wa" type="submit" id="m11-send"><svg viewBox="0 0 24 24" width="19" height="19" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.7 15l-1.3 5 5.1-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1-.4-.1-.9-.3-1.6-.6-2.7-1.2-4.5-4-4.6-4.2-.1-.2-1.1-1.4-1.1-2.7s.7-1.9.9-2.1c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.2.1.4 0 .5l-.3.5-.4.4c-.1.1-.3.3-.1.5.1.3.7 1.1 1.4 1.8.9.8 1.7 1 2 1.2.2.1.4.1.5-.1l.7-.8c.2-.2.3-.2.5-.1l1.8.9c.2.1.4.2.5.3.1.2.1.6-.1 1.1Z"/></svg><span data-t="submit"></span></button>
+           <a class="m11-returns" href="pages/faq.html" target="_blank" rel="noopener" data-t="returnsLink"></a>
            <button class="m11-ghost" type="button" id="m11-back-btn" data-t="back"></button>
            <div id="m11-msg"></div>
          </form>
@@ -237,10 +243,18 @@
   const closeDrawer = () => document.body.classList.remove("m11-open");
   function toCheckout() {
     if (!items.length) return;
+    track("begin_checkout", { items: count(), total: total() });
+    renderSummary();
     document.getElementById("m11-items").classList.add("m11-hidden");
     document.getElementById("m11-foot").classList.add("m11-hidden");
     document.getElementById("m11-form").classList.remove("m11-hidden");
     document.getElementById("m11-drawer").scrollTop = 0;
+  }
+  function renderSummary() {
+    const el = document.getElementById("m11-summary"); if (!el) return;
+    const cur = activeCur();
+    el.innerHTML = items.map((i) => `<div class="m11-sum-row"><span>${i.qty}× ${esc(i.name)}${i.size ? " (" + esc(i.size) + ")" : ""}</span><span>${fmt(unitIn(i, cur) * (i.qty || 1), cur)}</span></div>`).join("")
+      + `<div class="m11-sum-row m11-sum-total"><span>Total</span><strong>${fmt(total(cur), cur)}</strong></div>`;
   }
   function toCart() {
     document.getElementById("m11-form").classList.add("m11-hidden");
@@ -417,6 +431,7 @@
         });
       }
     } catch (_) { /* não bloqueia o WhatsApp */ }
+    track("whatsapp_click", { items: count(), total: total(activeCur()), currency: activeCur() });
     if (cfg.whatsapp) window.open(waLink(customer), "_blank");
     syncCart("convertido");
     items = []; openPerso.clear(); persist(); f.reset(); send.disabled = false;
@@ -467,7 +482,7 @@
     #m11-count{ display:grid; place-items:center; min-width:22px; height:22px; padding:0 6px; border-radius:999px; background:#1a1509; color:#e6c476; font-size:.76rem; font-weight:800; }
     @media (max-width:420px){ .m11-fab-label{ display:none; } #m11-fab{ padding:.72rem .8rem; } }
     #m11-back{ position:fixed; inset:0; z-index:2147483001; background:rgba(0,0,0,.55); opacity:0; visibility:hidden; transition:opacity .2s; }
-    #m11-drawer{ position:fixed; top:0; right:0; bottom:0; height:100vh; height:100dvh; z-index:2147483002; width:min(420px,94vw); background:#141417; color:#ededf1;
+    #m11-drawer{ position:fixed; top:0; right:0; bottom:0; z-index:2147483002; width:min(420px,94vw); background:#141417; color:#ededf1;
       border-left:1px solid #2a2a33; box-shadow:-12px 0 40px rgba(0,0,0,.5); transform:translateX(100%); transition:transform .25s ease;
       display:flex; flex-direction:column; font-family:system-ui,sans-serif; overflow-x:hidden; }
     body.m11-open #m11-back{ opacity:1; visibility:visible; }
@@ -508,6 +523,17 @@
     #m11-form input[name="_hp"]{ position:absolute; left:-9999px; }
     #m11-form input:focus,#m11-form select:focus,#m11-form textarea:focus{ outline:none; border-color:#d4af5f; }
     .m11-priv{ font-size:.72rem; color:#6f6f78; margin:0; }
+    .m11-steps{ display:flex; gap:.5rem; font-size:.72rem; color:#8f8fa0; margin-bottom:.1rem; flex-wrap:wrap; }
+    .m11-steps .on b{ color:#d4af5f; } .m11-steps .done{ color:#54b06f; }
+    .m11-nopay{ display:flex; align-items:center; gap:.5rem; font-size:.78rem; color:#8fe0a4; background:rgba(84,176,111,.1); border:1px solid rgba(84,176,111,.3); border-radius:9px; padding:.5rem .7rem; }
+    .m11-nopay svg{ flex:0 0 auto; }
+    .m11-summary{ border:1px solid #2a2a33; border-radius:10px; padding:.5rem .7rem; display:flex; flex-direction:column; gap:.25rem; }
+    .m11-sum-row{ display:flex; justify-content:space-between; gap:.6rem; font-size:.8rem; color:#c9c8d3; }
+    .m11-sum-row span:first-child{ overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+    .m11-sum-total{ border-top:1px solid #2a2a33; padding-top:.35rem; margin-top:.15rem; color:#ededf1; } .m11-sum-total strong{ color:#d4af5f; }
+    .m11-primary.m11-wa{ display:flex; align-items:center; justify-content:center; gap:.5rem; background:linear-gradient(180deg,#25d366,#1da851); color:#04210f; }
+    .m11-returns{ text-align:center; font-size:.76rem; color:#9a9aa4; text-decoration:underline; }
+    .m11-returns:hover{ color:#d4af5f; }
     .m11-cep-status{ font-size:.74rem; color:#9a9aa4; min-height:1em; }
     .m11-cep-status.m11-ok{ color:#8fe0a4; } .m11-cep-status.m11-err{ color:#f0a08f; }
     #m11-msg{ font-size:.82rem; } #m11-msg.m11-ok{ color:#8fe0a4; } #m11-msg.m11-err{ color:#f0a08f; }
