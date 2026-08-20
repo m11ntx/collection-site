@@ -292,6 +292,7 @@
       <button id="viewProducts" class="ghost is-view"><i data-lucide="layout-grid"></i>Produtos</button>
       <button id="viewCampaigns" class="ghost"><i data-lucide="badge-percent"></i>Campanhas</button>
       <button id="viewDups" class="ghost"><i data-lucide="copy"></i>Duplicatas</button>
+      <button id="viewClubs" class="ghost"><i data-lucide="shield"></i>Clubes</button>
       <button id="viewOrders" class="ghost"><i data-lucide="shopping-bag"></i>Pedidos</button>
       <button id="viewCarts" class="ghost"><i data-lucide="shopping-cart"></i>Carrinhos</button>
       <button id="viewFeatured" class="ghost"><i data-lucide="sparkles"></i>Destaques</button>
@@ -458,6 +459,70 @@
           <button class="ghost danger" id="cDelete"><i data-lucide="trash-2"></i>Excluir campanha</button>
           <span id="cMsg"></span>
         </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== CLUBES ===== -->
+  <main id="clubsMain" class="hidden" style="display:block">
+    <section class="editor" style="max-width:900px;margin:0 auto">
+      <p class="muted" style="margin-top:0">Associe camisas a times <b>sem precisar de deploy</b>. Tudo aqui vira configuração no próximo <i>Publicar</i>: variações de nome resolvem sozinhas para o clube certo, e clubes novos passam a existir no catálogo.</p>
+
+      <!-- Fase 1: apontar variação/erro de escrita para um clube existente -->
+      <div class="section">
+        <h3><i data-lucide="link"></i> Apontar nome para um clube existente</h3>
+        <p class="muted" style="margin-top:0;font-size:.82rem">Para erros de escrita ou variações (ex.: <i>“Totthenham”</i> → Tottenham, <i>“Manchester”</i> → Manchester United). O apelido resolve <b>todas</b> as camisas com esse nome, agora e no futuro.</p>
+        <div class="row" style="gap:.4rem;flex-wrap:wrap;align-items:flex-end">
+          <label class="fld" style="flex:1;min-width:220px">Clube de destino
+            <select id="alClub"><option value="">Selecione…</option></select>
+          </label>
+          <label class="fld" style="flex:1;min-width:220px">Nome/variação encontrada
+            <input id="alAlias" placeholder="ex.: totthenham">
+          </label>
+          <button class="primary" id="alAdd" style="height:42px"><i data-lucide="plus"></i>Adicionar</button>
+        </div>
+        <div id="alList" class="camp-list" style="margin-top:.6rem"></div>
+      </div>
+
+      <!-- Fase 2: registrar um clube novo -->
+      <div class="section">
+        <h3><i data-lucide="shield-plus"></i> Registrar um clube novo</h3>
+        <p class="muted" style="margin-top:0;font-size:.82rem">Quando o time ainda não existe no catálogo (ex.: <i>Como 1907</i>). Informe nome, liga e as variações de escrita que aparecem nas camisas.</p>
+        <div class="cols" style="grid-template-columns:1fr 1fr">
+          <label class="fld">Nome do clube<input id="ncName" placeholder="ex.: Como 1907"></label>
+          <label class="fld">País<input id="ncCountry" placeholder="ex.: Italy"></label>
+          <label class="fld">Liga
+            <select id="ncLeague"><option value="">Selecione…</option><option value="__new__">＋ Cadastrar liga nova…</option></select>
+          </label>
+          <label class="fld">Logo do clube<input id="ncLogo" type="file" accept="image/*"></label>
+          <label class="fld" style="grid-column:1/3">Variações de escrita (separe por vírgula)<input id="ncAliases" placeholder="ex.: como, como 1907"></label>
+        </div>
+        <div id="ncLeagueNew" class="cols hidden" style="grid-template-columns:1fr 1fr;margin-top:.4rem;padding:.6rem;border:1px dashed var(--line,#333);border-radius:8px">
+          <label class="fld">Nome da liga<input id="nlName" placeholder="ex.: Liga MX"></label>
+          <label class="fld">País da liga<input id="nlCountry" placeholder="ex.: Mexico"></label>
+          <label class="fld" style="grid-column:1/3">Coleção
+            <select id="nlCollection">
+              <option value="europa">Europa</option>
+              <option value="brasil">Brasil</option>
+              <option value="selecoes">Seleções</option>
+              <option value="resto-do-mundo">Resto do mundo</option>
+            </select>
+          </label>
+        </div>
+        <div class="save-bar row" style="margin-top:.6rem">
+          <button class="primary" id="ncSave"><i data-lucide="save"></i>Registrar clube</button>
+          <span id="ncMsg"></span>
+        </div>
+        <h4 style="margin:.9rem 0 .3rem">Clubes cadastrados aqui</h4>
+        <div id="ncList" class="camp-list"></div>
+      </div>
+
+      <!-- Ajuda: camisas sem clube -->
+      <div class="section">
+        <h3><i data-lucide="search"></i> Camisas sem clube</h3>
+        <p class="muted" style="margin-top:0;font-size:.82rem">Produtos que hoje não têm clube associado. Acessórios (meias, kits) normalmente ficam assim de propósito.</p>
+        <input id="ncMissSearch" type="search" placeholder="Filtrar por nome…" style="max-width:420px">
+        <div id="ncMissing" class="camp-list" style="margin-top:.4rem"></div>
       </div>
     </section>
   </main>
@@ -980,18 +1045,20 @@
   let CAMPAIGNS = [], curCamp = null, cDraft = null;
 
   function setView(v){
-    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", orders:"ordersMain", carts:"cartsMain", featured:"featuredMain", reviews:"reviewsMain" };
+    const map = { products:"productsMain", campaigns:"campaignsMain", dups:"dupsMain", clubs:"clubsMain", orders:"ordersMain", carts:"cartsMain", featured:"featuredMain", reviews:"reviewsMain" };
     $("productsMain").classList.remove("editing");   // fecha o painel lateral (mobile)
     Object.entries(map).forEach(([k,id])=> $(id).classList.toggle("hidden", k!==v));
     $("viewProducts").classList.toggle("is-view", v==="products");
     $("viewCampaigns").classList.toggle("is-view", v==="campaigns");
     $("viewDups").classList.toggle("is-view", v==="dups");
+    $("viewClubs").classList.toggle("is-view", v==="clubs");
     $("viewOrders").classList.toggle("is-view", v==="orders");
     $("viewCarts").classList.toggle("is-view", v==="carts");
     $("viewFeatured").classList.toggle("is-view", v==="featured");
     $("viewReviews").classList.toggle("is-view", v==="reviews");
     if(v==="campaigns") loadCampaigns();
     if(v==="dups") renderDups();
+    if(v==="clubs") loadClubs();
     if(v==="orders") loadOrders();
     if(v==="carts") loadCarts();
     if(v==="featured") loadFeatured();
@@ -1000,6 +1067,7 @@
   $("viewProducts").addEventListener("click", ()=>setView("products"));
   $("viewCampaigns").addEventListener("click", ()=>setView("campaigns"));
   $("viewDups").addEventListener("click", ()=>setView("dups"));
+  $("viewClubs").addEventListener("click", ()=>setView("clubs"));
   $("viewOrders").addEventListener("click", ()=>setView("orders"));
   $("viewCarts").addEventListener("click", ()=>setView("carts"));
   $("viewFeatured").addEventListener("click", ()=>setView("featured"));
@@ -1536,6 +1604,157 @@
     }
     b.disabled=false; toast(n?`${n} atualizado(s). Use 'Publicar agora'.`:"Sem mudanças.", n>0);
     renderList(); renderDups();
+  });
+
+  // ===================== CLUBES =====================
+  // Fase 1: apelidos (variações/erros) apontando para um clube existente.
+  // Fase 2: registrar clube novo (+ liga nova, se preciso). Tudo grava no
+  // Supabase; o pipeline (supabase_export.merge_taxonomy) mescla no config de
+  // normalização no próximo "Publicar", e as camisas resolvem sozinhas.
+  let CL = { clubs:[], leagues:[], custom:[], leaguesCustom:[], aliases:[], loaded:false };
+
+  function slugify(s){
+    return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"")
+      .toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
+  }
+  async function loadClubs(){
+    try{
+      if(!CL.loaded){
+        const [c,l] = await Promise.all([
+          fetch("../data/clubs.json",{cache:"no-store"}).then(r=>r.json()).catch(()=>[]),
+          fetch("../data/leagues.json",{cache:"no-store"}).then(r=>r.json()).catch(()=>[]),
+        ]);
+        CL.clubs = Array.isArray(c)?c:[]; CL.leagues = Array.isArray(l)?l:[];
+        CL.loaded = true;
+      }
+      const [cc,lc,al] = await Promise.all([
+        sb.from("clubs_custom").select("*"),
+        sb.from("leagues_custom").select("*"),
+        sb.from("club_aliases").select("*").order("created_at",{ascending:false}),
+      ]);
+      CL.custom = cc.data||[]; CL.leaguesCustom = lc.data||[]; CL.aliases = al.data||[];
+    }catch(err){ toast("Erro ao carregar clubes: "+err.message); }
+    renderClubs();
+  }
+  function allClubs(){                                   // built-in + custom, dedup por id
+    const m = new Map();
+    CL.clubs.forEach(c=> m.set(c.id, {id:c.id, name:c.name||c.id}));
+    CL.custom.forEach(c=> m.set(c.id, {id:c.id, name:c.name||c.id}));
+    return [...m.values()].sort((a,b)=> a.name.localeCompare(b.name));
+  }
+  function allLeagues(){
+    const m = new Map();
+    CL.leagues.forEach(l=> m.set(l.id, {id:l.id, name:l.name||l.id}));
+    CL.leaguesCustom.forEach(l=> m.set(l.id, {id:l.id, name:l.name||l.id}));
+    return [...m.values()].sort((a,b)=> a.name.localeCompare(b.name));
+  }
+  function clubName(id){ const c=allClubs().find(x=>x.id===id); return c?c.name:id; }
+
+  function renderClubs(){
+    const clubs = allClubs();
+    $("alClub").innerHTML = `<option value="">Selecione…</option>` +
+      clubs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join("");
+    $("ncLeague").innerHTML = `<option value="">Selecione…</option>` +
+      allLeagues().map(l=>`<option value="${esc(l.id)}">${esc(l.name)}</option>`).join("") +
+      `<option value="__new__">＋ Cadastrar liga nova…</option>`;
+    // apelidos
+    $("alList").innerHTML = CL.aliases.length ? CL.aliases.map(a=>
+      `<div class="row" style="justify-content:space-between;gap:.5rem">
+         <span><b>${esc(a.alias)}</b> <span class="muted">→ ${esc(clubName(a.club_id))}</span></span>
+         <button class="ghost danger" data-delalias="${a.id}"><i data-lucide="trash-2"></i></button>
+       </div>`).join("") : `<div class="muted">Nenhum apelido cadastrado ainda.</div>`;
+    // clubes custom
+    $("ncList").innerHTML = CL.custom.length ? CL.custom.map(c=>{
+      const lg = allLeagues().find(l=>l.id===c.league);
+      return `<div class="row" style="justify-content:space-between;gap:.5rem">
+         <span>${c.image?`<img src="${esc(c.image)}" alt="" style="width:22px;height:22px;object-fit:contain;vertical-align:middle;margin-right:.4rem">`:""}<b>${esc(c.name)}</b> <span class="muted">· ${esc(lg?lg.name:(c.league||"—"))}</span></span>
+         <button class="ghost danger" data-delclub="${esc(c.id)}"><i data-lucide="trash-2"></i></button>
+       </div>`; }).join("") : `<div class="muted">Nenhum clube cadastrado por aqui ainda.</div>`;
+    renderMissing();
+    if(window.lucide) lucide.createIcons();
+  }
+  function renderMissing(){
+    const q = ($("ncMissSearch").value||"").trim().toLowerCase();
+    const miss = PRODUCTS.filter(p=> !p.clubId && (!q || (p.name||"").toLowerCase().includes(q)));
+    $("ncMissing").innerHTML = `<div class="muted" style="margin:.2rem 0">${miss.length} camisa(s) sem clube.</div>` +
+      miss.slice(0,60).map(p=>`<div class="row"><span>${esc(p.name||p.id)}</span></div>`).join("") +
+      (miss.length>60?`<div class="muted">…e mais ${miss.length-60}.</div>`:"");
+  }
+  $("ncMissSearch").addEventListener("input", renderMissing);
+
+  // Fase 1 — adicionar apelido
+  $("alAdd").addEventListener("click", async ()=>{
+    const club_id = $("alClub").value, alias = ($("alAlias").value||"").trim().toLowerCase();
+    if(!club_id){ toast("Escolha o clube de destino."); return; }
+    if(!alias){ toast("Digite a variação/nome encontrado."); return; }
+    if(CL.aliases.some(a=>a.club_id===club_id && a.alias===alias)){ toast("Esse apelido já existe."); return; }
+    const { error } = await sb.from("club_aliases").insert({ club_id, alias });
+    if(error){ toast("Erro: "+error.message); return; }
+    $("alAlias").value=""; toast("Apelido adicionado. Use 'Publicar agora'.", true);
+    await loadClubs();
+  });
+  $("alList").addEventListener("click", async (e)=>{
+    const b=e.target.closest("[data-delalias]"); if(!b) return;
+    const { error } = await sb.from("club_aliases").delete().eq("id", b.dataset.delalias);
+    if(error){ toast("Erro: "+error.message); return; }
+    toast("Apelido removido.", true); await loadClubs();
+  });
+
+  // Fase 2 — liga nova (toggle)
+  $("ncLeague").addEventListener("change", ()=>{
+    $("ncLeagueNew").classList.toggle("hidden", $("ncLeague").value!=="__new__");
+  });
+
+  // Fase 2 — registrar clube
+  $("ncSave").addEventListener("click", async ()=>{
+    const name = ($("ncName").value||"").trim();
+    if(!name){ toast("Informe o nome do clube."); return; }
+    const id = slugify(name);
+    if(!id){ toast("Nome inválido."); return; }
+    if(allClubs().some(c=>c.id===id)){ toast("Já existe um clube com esse nome/id."); return; }
+    $("ncSave").disabled=true; $("ncMsg").textContent="Salvando…";
+    try{
+      // liga: existente ou nova
+      let league = $("ncLeague").value;
+      if(league==="__new__"){
+        const lname=($("nlName").value||"").trim(); const lid=slugify(lname);
+        if(!lid){ toast("Informe o nome da liga nova."); throw new Error("liga"); }
+        if(!allLeagues().some(l=>l.id===lid)){
+          const { error } = await sb.from("leagues_custom").insert({
+            id:lid, name:lname, collection:$("nlCollection").value||"resto-do-mundo",
+            country:($("nlCountry").value||"").trim(), aliases:[] });
+          if(error) throw error;
+        }
+        league = lid;
+      }
+      // logo (opcional) -> bucket -> URL pública
+      let image = "";
+      const f = ($("ncLogo").files||[])[0];
+      if(f){
+        const ext = (f.name.split(".").pop()||"png").toLowerCase();
+        const key = `clubs/${id}.${ext}`;
+        const up = await sb.storage.from(BUCKET).upload(key, f, {upsert:true, contentType:f.type});
+        if(up.error) throw up.error;
+        image = sb.storage.from(BUCKET).getPublicUrl(key).data.publicUrl;
+      }
+      const aliases = ($("ncAliases").value||"").split(",").map(s=>s.trim().toLowerCase()).filter(Boolean);
+      if(!aliases.includes(name.toLowerCase())) aliases.unshift(name.toLowerCase());
+      const { error } = await sb.from("clubs_custom").insert({
+        id, name, league, country:($("ncCountry").value||"").trim(), aliases, image });
+      if(error) throw error;
+      ["ncName","ncCountry","ncAliases","nlName","nlCountry"].forEach(k=>$(k).value="");
+      $("ncLogo").value=""; $("ncLeague").value=""; $("ncLeagueNew").classList.add("hidden");
+      $("ncMsg").textContent=""; toast("Clube registrado. Use 'Publicar agora'.", true);
+      await loadClubs();
+    }catch(err){ if(err.message!=="liga") toast("Erro: "+(err.message||err)); $("ncMsg").textContent=""; }
+    finally{ $("ncSave").disabled=false; }
+  });
+  $("ncList").addEventListener("click", async (e)=>{
+    const b=e.target.closest("[data-delclub]"); if(!b) return;
+    if(!await confirmDialog("Remover este clube cadastrado? As camisas voltam a ficar sem associação.", {danger:true, ok:"Remover"})) return;
+    const { error } = await sb.from("clubs_custom").delete().eq("id", b.dataset.delclub);
+    if(error){ toast("Erro: "+error.message); return; }
+    toast("Clube removido.", true); await loadClubs();
   });
 
   // ícones (Lucide) — renderiza os <i data-lucide> estáticos
