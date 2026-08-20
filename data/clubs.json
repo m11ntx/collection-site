@@ -1690,6 +1690,16 @@
     "image": "atalanta"
   },
   {
+    "id": "como-1907",
+    "leagueId": "serie-a",
+    "regionId": null,
+    "slug": "como-1907",
+    "name": "Como 1907",
+    "country": "Italy",
+    "badge": null,
+    "image": "https://rhychbqeskwutlytaupd.supabase.co/storage/v1/object/public/product-media/clubs/como-1907.jpg"
+  },
+  {
     "id": "fiorentina",
     "leagueId": "serie-a",
     "regionId": null,
