@@ -27,10 +27,13 @@ create table if not exists public.product_overrides (
     price_override      jsonb,                           -- {BRL, USD, EUR} ou regra
     promotion           jsonb,                           -- {percent|price, startsAt, endsAt, label}
     available_override  boolean,                         -- habilitar/desabilitar manualmente
+    club_override       text,                            -- associar o produto a um clube (id) na mão (aba Clube)
     note                text,
     updated_at          timestamptz not null default now(),
     updated_by          uuid references auth.users(id)
 );
+-- coluna nova (para bancos que já tinham a tabela): associação de clube por produto
+alter table public.product_overrides add column if not exists club_override text;
 
 -- mantém updated_at fresco
 create or replace function public.touch_updated_at()

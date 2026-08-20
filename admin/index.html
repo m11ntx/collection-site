@@ -317,6 +317,7 @@
           <select id="fClub"><option value="">Clube: todos</option></select>
           <select id="fFlag">
             <option value="">Filtro: nenhum</option>
+            <option value="noclub">Só sem clube</option>
             <option value="over">Só com alterações</option>
             <option value="video">Só com vídeo</option>
             <option value="promo">Só com promoção</option>
@@ -346,6 +347,7 @@
           <button class="tab" data-pane="price"><i data-lucide="dollar-sign"></i>Preço</button>
           <button class="tab" data-pane="promo"><i data-lucide="tag"></i>Promoção</button>
           <button class="tab" data-pane="avail"><i data-lucide="eye"></i>Disponibilidade</button>
+          <button class="tab" data-pane="club"><i data-lucide="shield"></i>Clube</button>
         </div>
 
         <!-- MÍDIA -->
@@ -409,6 +411,16 @@
           </label>
         </div>
 
+        <!-- CLUBE -->
+        <div class="pane" id="pane-club">
+          <h3>Clube</h3>
+          <p class="muted" id="clubCurrent" style="margin-top:0;font-size:.85rem"></p>
+          <label class="fld" style="max-width:420px">Associar a
+            <select id="clubOverride"><option value="">Automático (detecta pelo nome)</option></select>
+          </label>
+          <p class="muted" style="font-size:.82rem;margin-top:.6rem">O time não está na lista? Cadastre em <b>Clubes → Registrar novo clube</b> e volte aqui para associar.</p>
+        </div>
+
         <div class="save-bar row">
           <button class="primary" id="saveBtn"><i data-lucide="save"></i>Salvar alterações</button>
           <button class="ghost danger" id="resetBtn"><i data-lucide="trash-2"></i>Descartar tudo deste produto</button>
@@ -466,28 +478,12 @@
   <!-- ===== CLUBES ===== -->
   <main id="clubsMain" class="hidden" style="display:block">
     <section class="editor" style="max-width:900px;margin:0 auto">
-      <p class="muted" style="margin-top:0">Associe camisas a times <b>sem precisar de deploy</b>. Tudo aqui vira configuração no próximo <i>Publicar</i>: variações de nome resolvem sozinhas para o clube certo, e clubes novos passam a existir no catálogo.</p>
+      <p class="muted" style="margin-top:0">Registre um time que ainda <b>não existe</b> no catálogo. Depois vá em <b>Produtos</b>, abra a camisa e associe o clube na aba <b>Clube</b> (filtre por <i>“Só sem clube”</i> para achar as pendentes). Tudo entra no próximo <i>Publicar</i>, sem deploy.</p>
 
-      <!-- Fase 1: apontar variação/erro de escrita para um clube existente -->
-      <div class="section">
-        <h3><i data-lucide="link"></i> Apontar nome para um clube existente</h3>
-        <p class="muted" style="margin-top:0;font-size:.82rem">Para erros de escrita ou variações (ex.: <i>“Totthenham”</i> → Tottenham, <i>“Manchester”</i> → Manchester United). O apelido resolve <b>todas</b> as camisas com esse nome, agora e no futuro.</p>
-        <div class="row" style="gap:.4rem;flex-wrap:wrap;align-items:flex-end">
-          <label class="fld" style="flex:1;min-width:220px">Clube de destino
-            <select id="alClub"><option value="">Selecione…</option></select>
-          </label>
-          <label class="fld" style="flex:1;min-width:220px">Nome/variação encontrada
-            <input id="alAlias" placeholder="ex.: totthenham">
-          </label>
-          <button class="primary" id="alAdd" style="height:42px"><i data-lucide="plus"></i>Adicionar</button>
-        </div>
-        <div id="alList" class="camp-list" style="margin-top:.6rem"></div>
-      </div>
-
-      <!-- Fase 2: registrar um clube novo -->
+      <!-- Registrar um clube novo -->
       <div class="section">
         <h3><i data-lucide="shield-plus"></i> Registrar um clube novo</h3>
-        <p class="muted" style="margin-top:0;font-size:.82rem">Quando o time ainda não existe no catálogo (ex.: <i>Como 1907</i>). Informe nome, liga e as variações de escrita que aparecem nas camisas.</p>
+        <p class="muted" style="margin-top:0;font-size:.82rem">Quando o time ainda não existe no catálogo (ex.: <i>Como 1907</i>). Informe nome, liga e (opcional) a logo. Depois associe as camisas em Produtos.</p>
         <div class="cols" style="grid-template-columns:1fr 1fr">
           <label class="fld">Nome do clube<input id="ncName" placeholder="ex.: Como 1907"></label>
           <label class="fld">País<input id="ncCountry" placeholder="ex.: Italy"></label>
@@ -515,14 +511,6 @@
         </div>
         <h4 style="margin:.9rem 0 .3rem">Clubes cadastrados aqui</h4>
         <div id="ncList" class="camp-list"></div>
-      </div>
-
-      <!-- Ajuda: camisas sem clube -->
-      <div class="section">
-        <h3><i data-lucide="search"></i> Camisas sem clube</h3>
-        <p class="muted" style="margin-top:0;font-size:.82rem">Produtos que hoje não têm clube associado. Acessórios (meias, kits) normalmente ficam assim de propósito.</p>
-        <input id="ncMissSearch" type="search" placeholder="Filtrar por nome…" style="max-width:420px">
-        <div id="ncMissing" class="camp-list" style="margin-top:.4rem"></div>
       </div>
     </section>
   </main>
@@ -722,6 +710,7 @@
     const { data } = await sb.from("product_overrides").select("*");
     OVER = {}; (data||[]).forEach(r => OVER[r.id]=r);
     buildFilterOptions(); renderList();
+    ensureClubData().then(renderClubOptions);   // popula o select "Clube" do editor
   }
 
   // ---- filters ----
@@ -759,6 +748,7 @@
     if($("fLeague").value && p.leagueId!==$("fLeague").value) return false;
     if($("fClub").value && p.clubId!==$("fClub").value) return false;
     const f=$("fFlag").value;
+    if(f==="noclub" && (p.clubId || (OVER[p.id] && OVER[p.id].club_override))) return false;
     if(f==="over" && !OVER[p.id]) return false;
     if(f==="video" && !vids(p).length) return false;
     if(f==="promo" && !hasPromo(p)) return false;
@@ -808,6 +798,7 @@
       price_override: o.price_override || null,
       promotion: o.promotion || null,
       available_override: (o.available_override===true||o.available_override===false)? o.available_override : null,
+      club_override: o.club_override || null,
       featured: !!o.featured, featured_order: (o.featured_order===0||o.featured_order)? o.featured_order : null,
       hidden_media: new Set(o.hidden_media||[]),   // fotos extras / vídeos OCULTOS (some do site, fica no admin)
       primary_image: o.primary_image || (((current.images||[]).find(x=>x.primary)||(current.images||[])[0]||{}).url || ""),
@@ -883,6 +874,13 @@
     // availability
     $("availCurrent").textContent = `Estado atual no catálogo: ${current.available===false?"indisponível":"disponível"}.`;
     $("availOverride").value = draft.available_override===true?"true":draft.available_override===false?"false":"";
+
+    // clube
+    renderClubOptions();
+    $("clubCurrent").textContent = current.clubId
+      ? `Clube atual (detectado): ${clubName(current.clubId)}.`
+      : "Este produto está SEM clube associado.";
+    $("clubOverride").value = draft.club_override || "";
 
     renderPreview();
     if(window.lucide) lucide.createIcons();
@@ -1001,6 +999,7 @@
     const active=$("promoActive").checked, val=num($("promoValue").value);
     draft.promotion = (active||val)? { active, type:$("promoType").value, value:val, startsAt:$("promoStart").value||null, endsAt:$("promoEnd").value||null, label:$("promoLabel").value||null } : null;
     const av=$("availOverride").value; draft.available_override = av===""? null : av==="true";
+    draft.club_override = $("clubOverride").value || null;
   }
   $("saveBtn").addEventListener("click", async ()=>{
     if(!current) return; collectDraft();
@@ -1023,7 +1022,7 @@
       videos:draft.videos, catalog_video:catalog, hidden_media:hidden,
       primary_image:primary, image_order:draft.image_order,
       price_override:draft.price_override, promotion:draft.promotion,
-      available_override:draft.available_override };
+      available_override:draft.available_override, club_override:draft.club_override };
     const { error }=await sb.from("product_overrides").upsert(row);
     $("saveBtn").disabled=false;
     if(error){ $("saveMsg").className="err"; $("saveMsg").textContent=error.message; }
@@ -1607,17 +1606,16 @@
   });
 
   // ===================== CLUBES =====================
-  // Fase 1: apelidos (variações/erros) apontando para um clube existente.
-  // Fase 2: registrar clube novo (+ liga nova, se preciso). Tudo grava no
-  // Supabase; o pipeline (supabase_export.merge_taxonomy) mescla no config de
-  // normalização no próximo "Publicar", e as camisas resolvem sozinhas.
-  let CL = { clubs:[], leagues:[], custom:[], leaguesCustom:[], aliases:[], loaded:false };
+  // Registrar clube novo (+ liga nova, se preciso) -> Supabase. O export
+  // (merge_taxonomy) mescla no config de normalização no "Publicar". A
+  // ASSOCIAÇÃO por produto é feita na aba Produtos (aba Clube -> club_override).
+  let CL = { clubs:[], leagues:[], custom:[], leaguesCustom:[], loaded:false };
 
   function slugify(s){
     return String(s||"").normalize("NFD").replace(/[̀-ͯ]/g,"")
       .toLowerCase().replace(/[^a-z0-9]+/g,"-").replace(/^-+|-+$/g,"");
   }
-  async function loadClubs(){
+  async function ensureClubData(){                       // carrega clubes/ligas (estático + custom)
     try{
       if(!CL.loaded){
         const [c,l] = await Promise.all([
@@ -1627,15 +1625,15 @@
         CL.clubs = Array.isArray(c)?c:[]; CL.leagues = Array.isArray(l)?l:[];
         CL.loaded = true;
       }
-      const [cc,lc,al] = await Promise.all([
+      const [cc,lc] = await Promise.all([
         sb.from("clubs_custom").select("*"),
         sb.from("leagues_custom").select("*"),
-        sb.from("club_aliases").select("*").order("created_at",{ascending:false}),
       ]);
-      CL.custom = cc.data||[]; CL.leaguesCustom = lc.data||[]; CL.aliases = al.data||[];
+      CL.custom = cc.data||[]; CL.leaguesCustom = lc.data||[];
     }catch(err){ toast("Erro ao carregar clubes: "+err.message); }
-    renderClubs();
   }
+  async function loadClubs(){ await ensureClubData(); renderClubs(); }
+
   function allClubs(){                                   // built-in + custom, dedup por id
     const m = new Map();
     CL.clubs.forEach(c=> m.set(c.id, {id:c.id, name:c.name||c.id}));
@@ -1650,57 +1648,30 @@
   }
   function clubName(id){ const c=allClubs().find(x=>x.id===id); return c?c.name:id; }
 
-  function renderClubs(){
-    const clubs = allClubs();
-    $("alClub").innerHTML = `<option value="">Selecione…</option>` +
-      clubs.map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join("");
+  // popula o select "Clube" do editor de produto (aba Produtos)
+  function renderClubOptions(){
+    const sel = $("clubOverride"); if(!sel) return;
+    const cur = sel.value;
+    sel.innerHTML = `<option value="">Automático (detecta pelo nome)</option>` +
+      allClubs().map(c=>`<option value="${esc(c.id)}">${esc(c.name)}</option>`).join("");
+    sel.value = cur;
+  }
+
+  function renderClubs(){                                // aba Clubes: form de registro
+    renderClubOptions();
     $("ncLeague").innerHTML = `<option value="">Selecione…</option>` +
       allLeagues().map(l=>`<option value="${esc(l.id)}">${esc(l.name)}</option>`).join("") +
       `<option value="__new__">＋ Cadastrar liga nova…</option>`;
-    // apelidos
-    $("alList").innerHTML = CL.aliases.length ? CL.aliases.map(a=>
-      `<div class="row" style="justify-content:space-between;gap:.5rem">
-         <span><b>${esc(a.alias)}</b> <span class="muted">→ ${esc(clubName(a.club_id))}</span></span>
-         <button class="ghost danger" data-delalias="${a.id}"><i data-lucide="trash-2"></i></button>
-       </div>`).join("") : `<div class="muted">Nenhum apelido cadastrado ainda.</div>`;
-    // clubes custom
     $("ncList").innerHTML = CL.custom.length ? CL.custom.map(c=>{
       const lg = allLeagues().find(l=>l.id===c.league);
       return `<div class="row" style="justify-content:space-between;gap:.5rem">
          <span>${c.image?`<img src="${esc(c.image)}" alt="" style="width:22px;height:22px;object-fit:contain;vertical-align:middle;margin-right:.4rem">`:""}<b>${esc(c.name)}</b> <span class="muted">· ${esc(lg?lg.name:(c.league||"—"))}</span></span>
          <button class="ghost danger" data-delclub="${esc(c.id)}"><i data-lucide="trash-2"></i></button>
        </div>`; }).join("") : `<div class="muted">Nenhum clube cadastrado por aqui ainda.</div>`;
-    renderMissing();
     if(window.lucide) lucide.createIcons();
   }
-  function renderMissing(){
-    const q = ($("ncMissSearch").value||"").trim().toLowerCase();
-    const miss = PRODUCTS.filter(p=> !p.clubId && (!q || (p.name||"").toLowerCase().includes(q)));
-    $("ncMissing").innerHTML = `<div class="muted" style="margin:.2rem 0">${miss.length} camisa(s) sem clube.</div>` +
-      miss.slice(0,60).map(p=>`<div class="row"><span>${esc(p.name||p.id)}</span></div>`).join("") +
-      (miss.length>60?`<div class="muted">…e mais ${miss.length-60}.</div>`:"");
-  }
-  $("ncMissSearch").addEventListener("input", renderMissing);
 
-  // Fase 1 — adicionar apelido
-  $("alAdd").addEventListener("click", async ()=>{
-    const club_id = $("alClub").value, alias = ($("alAlias").value||"").trim().toLowerCase();
-    if(!club_id){ toast("Escolha o clube de destino."); return; }
-    if(!alias){ toast("Digite a variação/nome encontrado."); return; }
-    if(CL.aliases.some(a=>a.club_id===club_id && a.alias===alias)){ toast("Esse apelido já existe."); return; }
-    const { error } = await sb.from("club_aliases").insert({ club_id, alias });
-    if(error){ toast("Erro: "+error.message); return; }
-    $("alAlias").value=""; toast("Apelido adicionado. Use 'Publicar agora'.", true);
-    await loadClubs();
-  });
-  $("alList").addEventListener("click", async (e)=>{
-    const b=e.target.closest("[data-delalias]"); if(!b) return;
-    const { error } = await sb.from("club_aliases").delete().eq("id", b.dataset.delalias);
-    if(error){ toast("Erro: "+error.message); return; }
-    toast("Apelido removido.", true); await loadClubs();
-  });
-
-  // Fase 2 — liga nova (toggle)
+  // liga nova (toggle)
   $("ncLeague").addEventListener("change", ()=>{
     $("ncLeagueNew").classList.toggle("hidden", $("ncLeague").value!=="__new__");
   });
