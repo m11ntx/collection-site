@@ -447,6 +447,11 @@ body::after{
 .review__tag{ display:inline-block; font-size:.72rem; color:var(--color-gold); border:1px solid rgba(212,175,95,.35); border-radius:999px; padding:.1rem .55rem; margin:.15rem 0 .35rem; }
 .review__imgs{ display:flex; flex-wrap:wrap; gap:.4rem; margin-top:.5rem; }
 .review--wall .review__img{ width:calc(50% - .2rem); max-width:none; margin:0; object-fit:cover; aspect-ratio:1/1; }
+/* Faixa de prova social na home: cards uniformes num carrossel horizontal */
+.reviews-strip{ align-items:stretch; }
+.review--home{ display:flex; flex-direction:column; }
+.review--home .review__text{ display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden; }
+.review--home .review__img{ width:100%; max-width:none; margin-top:auto; object-fit:cover; aspect-ratio:1/1; }
 
 /* ==========================================================
    SPRINT 3 — CATALOG INFRASTRUCTURE

@@ -41,14 +41,14 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="preload" as="image" href="assets/images/hero-background.webp" fetchpriority="high">
 <link rel="preload" as="image" href="assets/images/logo-horizontal.png">
-<link rel="preload" as="style" href="assets/css/style.min.css?v=76e59fd3">
+<link rel="preload" as="style" href="assets/css/style.min.css?v=cd07b63d">
 <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap">
 
 <!-- Prefetch the reused collection page template (warms navigation) -->
 <link rel="prefetch" href="pages/collection.html">
 
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.min.css?v=76e59fd3">
+<link rel="stylesheet" href="assets/css/style.min.css?v=cd07b63d">
 </head>
 <body>
 
@@ -263,6 +263,26 @@
     </div>
 </section>
 
+<!-- Prova social: últimas avaliações aprovadas (revelada por JS só se houver) -->
+<section class="home-featured home-reviews" id="home-reviews" aria-labelledby="homeReviewsTitle" hidden>
+    <div class="section__inner">
+        <header class="home-featured__head">
+            <div>
+                <p class="section__eyebrow" data-i18n="reviews.eyebrow">Avaliações</p>
+                <h2 class="section__title" id="homeReviewsTitle" data-i18n="reviews.title">O que dizem</h2>
+            </div>
+            <a href="pages/reviews.html" class="home-featured__all">
+                <span data-i18n="reviews.writeCta">Deixe a sua avaliação</span> <span aria-hidden="true">&rarr;</span>
+            </a>
+        </header>
+        <div class="carousel">
+            <button type="button" class="carousel__nav carousel__nav--prev" data-rev-prev aria-label="Anterior">&lsaquo;</button>
+            <div class="carousel__track reviews-strip" id="homeReviewsTrack" role="list" aria-busy="true"></div>
+            <button type="button" class="carousel__nav carousel__nav--next" data-rev-next aria-label="Próximo">&rsaquo;</button>
+        </div>
+    </div>
+</section>
+
 <section class="section" id="collections" aria-labelledby="collectionsTitle">
     <div class="section__inner">
 
@@ -319,7 +339,7 @@
 </section>
 
 <script src="config/site.min.js?v=1512ac94" defer></script>
-<script src="assets/js/i18n.min.js?v=8471e15a" defer></script>
+<script src="assets/js/i18n.min.js?v=ff5704b9" defer></script>
 <script src="assets/js/seo.min.js?v=b8ac9eeb" defer></script>
 <script src="assets/js/analytics.min.js?v=ea4701c6" defer></script>
 <script src="assets/js/api.min.js?v=938ba552" defer></script>
@@ -330,7 +350,7 @@
 <script src="assets/js/services/localization.min.js?v=d65e537f" defer></script>
 <script src="assets/js/filters.min.js?v=7c7f5181" defer></script>
 <script src="assets/js/search.min.js?v=d5e6ece1" defer></script>
-<script src="assets/js/catalog.min.js?v=339376a5" defer></script>
+<script src="assets/js/catalog.min.js?v=b2da3d89" defer></script>
 <script src="assets/js/ui.min.js?v=a227d100" defer></script>
 <script src="assets/js/cart.min.js?v=67f441ab" defer></script>
 <script src="assets/js/main.min.js?v=52dd7085" defer></script>

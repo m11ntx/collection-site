@@ -967,48 +967,15 @@ const Catalog = (() => {
         }
     }
 
-    // Avaliações NO PRODUTO = vitrine somente-leitura: estrelas, nome e texto
-    // (sem foto, sem formulário). A coleta acontece no menu "Avaliações"
-    // (pages/reviews.html). A seção só aparece se houver avaliação aprovada
-    // para este produto; sem registros, fica oculta (pedido do dono).
+    // Estrelas (reuso na home e no mural). As avaliações NÃO aparecem mais
+    // dentro do produto nem são associadas a um produto — são prova social
+    // geral (faixa na home + mural em pages/reviews.html).
     const _stars = (n) => { n = Math.max(0, Math.min(5, Number(n) || 0)); return "★".repeat(n) + "☆".repeat(5 - n); };
-    async function renderReviews(root) {
-        const mount = root && root.querySelector("#reviews");
-        if (!mount) return;
-        mount.hidden = true; // padrão oculto; revela só com avaliações aprovadas
-        const cfg = window.CONFIG || {};
-        const url = cfg.supabaseUrl, anon = cfg.supabaseAnon;
-        const pid = mount.dataset.pid;
-        if (!url || !anon || !pid) return;
-        const H = { apikey: anon, Authorization: "Bearer " + anon };
-        let list = [];
-        try {
-            const r = await fetch(`${url}/rest/v1/reviews?product_id=eq.${encodeURIComponent(pid)}&status=eq.approved&order=created_at.desc&select=name,rating,comment`, { headers: H });
-            list = await r.json(); if (!Array.isArray(list)) list = [];
-        } catch (_) {}
-        if (!list.length) return; // sem avaliação aprovada -> não mostra a seção
-        mount.hidden = false;
-        const avg = list.reduce((s, x) => s + (x.rating || 0), 0) / list.length;
-        const listHtml = list.map((x) => `<article class="review">
-                <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
-                ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
-            </article>`).join("");
-        mount.innerHTML = `<div class="section__inner reviews__inner">
-                <header class="section__head reviews__head">
-                    <p class="section__eyebrow">${esc(I18N.t("reviews.eyebrow"))}</p>
-                    <h2 class="section__title">${esc(I18N.t("reviews.title"))}</h2>
-                    <p class="reviews__avg"><span class="review__stars">${_stars(Math.round(avg))}</span> ${avg.toFixed(1)} · ${esc(I18N.t("reviews.count", { n: list.length }))}</p>
-                </header>
-                <div class="reviews__list">${listHtml}</div>
-                <a class="btn btn--ghost reviews__cta" href="pages/reviews.html">${esc(I18N.t("reviews.writeCta"))} &rarr;</a>
-            </div>`;
-    }
 
     document.addEventListener("jersey:rendered", (e) => {
         const root = e.detail && e.detail.root;
         wireStories(root);
         wireOrder(root);
-        renderReviews(root);
         wireSizeGuide(root);
     });
 
@@ -1037,15 +1004,6 @@ const Catalog = (() => {
         const url = cfg.supabaseUrl, anon = cfg.supabaseAnon;
         const H = { apikey: anon, Authorization: "Bearer " + anon };
 
-        // typeahead opcional de produto (reusa o mesmo enrich dos filtros)
-        let prod = [];
-        try {
-            const [p, cl, co, lg] = await Promise.all([API.getProducts(), API.getClubs(), API.getCollections(), API.getLeagues()]);
-            prod = (window.Filters ? Filters.enrich(p, { clubs: cl, collections: co, leagues: lg }) : (Array.isArray(p) ? p : []));
-        } catch (_) {}
-
-        let chosen = null; // {id, name}
-
         const render = () => {
             root.innerHTML = `
                 <nav class="breadcrumb" aria-label="Breadcrumb">
@@ -1064,10 +1022,7 @@ const Catalog = (() => {
                         ${[1, 2, 3, 4, 5].map((i) => `<button type="button" class="reviews__star" data-v="${i}" aria-label="${i}">☆</button>`).join("")}
                     </div>
                     <input class="reviews__field" name="name" placeholder="${esc(I18N.t("reviews.yourName"))}" required>
-                    <div class="reviews-page__typeahead">
-                        <input class="reviews__field" id="revProduct" autocomplete="off" placeholder="${esc(I18N.t("reviews.productOptional"))}">
-                        <div class="reviews-page__ta-results" id="revProductResults" hidden></div>
-                    </div>
+                    <input class="reviews__field" id="revProduct" autocomplete="off" placeholder="${esc(I18N.t("reviews.productOptional"))}">
                     <textarea class="reviews__field" name="comment" rows="4" placeholder="${esc(I18N.t("reviews.comment"))}"></textarea>
                     <label class="reviews__photo">${esc(I18N.t("reviews.photos"))}<input type="file" id="revPhotos" name="photos" accept="image/*" multiple></label>
                     <button type="submit" class="btn btn--primary" id="revSubmit">${esc(I18N.t("reviews.submit"))}</button>
@@ -1083,31 +1038,8 @@ const Catalog = (() => {
             const stEls = Array.prototype.slice.call(root.querySelectorAll(".reviews__star"));
             stEls.forEach((b) => b.addEventListener("click", () => { rating = +b.dataset.v; stEls.forEach((x, i) => { x.textContent = i < rating ? "★" : "☆"; }); }));
 
-            // typeahead: filtra por nome/clube/temporada; clicar escolhe o produto
+            // Campo do produto é texto livre (a pessoa digita o nome da camisa).
             const pInput = root.querySelector("#revProduct");
-            const pRes = root.querySelector("#revProductResults");
-            const showRes = (q) => {
-                chosen = null;
-                q = (q || "").trim().toLowerCase();
-                if (q.length < 2) { pRes.hidden = true; pRes.innerHTML = ""; return; }
-                const hits = prod.filter((x) => {
-                    const hay = [x.name, x.clubName, x.season].map((s) => String(s || "").toLowerCase()).join(" ");
-                    return q.split(/\s+/).every((tok) => hay.indexOf(tok) !== -1);
-                }).slice(0, 6);
-                if (!hits.length) { pRes.hidden = true; pRes.innerHTML = ""; return; }
-                pRes.innerHTML = hits.map((x) => `<button type="button" class="reviews-page__ta-item" data-id="${esc(x.id)}" data-name="${esc(I18N.translateName(x.name))}">${esc(I18N.translateName(x.name))}${x.clubName ? ` · ${esc(x.clubName)}` : ""}${x.season ? ` · ${esc(x.season)}` : ""}</button>`).join("");
-                pRes.hidden = false;
-            };
-            if (pInput) {
-                let tmr = null;
-                pInput.addEventListener("input", () => { clearTimeout(tmr); const v = pInput.value; tmr = setTimeout(() => showRes(v), 180); });
-                pRes.addEventListener("click", (e) => {
-                    const it = e.target.closest(".reviews-page__ta-item");
-                    if (!it) return;
-                    chosen = { id: it.dataset.id, name: it.dataset.name };
-                    pInput.value = it.dataset.name; pRes.hidden = true; pRes.innerHTML = "";
-                });
-            }
 
             const form = root.querySelector("#revForm");
             form.addEventListener("submit", async (e) => {
@@ -1133,12 +1065,12 @@ const Catalog = (() => {
                     const res = await fetch(`${url}/rest/v1/reviews`, {
                         method: "POST", headers: Object.assign({ "Content-Type": "application/json", "Prefer": "return=minimal" }, H),
                         body: JSON.stringify({
-                            product_id: chosen ? chosen.id : "", product_name: chosen ? chosen.name : "",
+                            product_id: "", product_name: (pInput && pInput.value.trim()) || "",
                             name: nm, rating: rating, comment: form.comment.value.trim(),
                             image_url: imageField, status: "pending"
                         }) });
                     if (!res.ok) throw new Error(await res.text());
-                    form.reset(); rating = 0; chosen = null;
+                    form.reset(); rating = 0;
                     stEls.forEach((x) => { x.textContent = "☆"; });
                     msg.textContent = I18N.t("reviews.thanks"); msg.className = "reviews__msg is-ok";
                 } catch (_) { msg.textContent = I18N.t("reviews.fail"); msg.className = "reviews__msg is-err"; }
@@ -1382,8 +1314,6 @@ const Catalog = (() => {
                 ${sizeGuide}
             </div>
 
-            <section id="reviews" class="reviews" data-pid="${esc(p.id)}" data-pname="${name}"></section>
-
             ${journeySections()}`;
     }
 
@@ -1455,6 +1385,47 @@ const Catalog = (() => {
         render();
         _lastPageRerender = render;
         initFeatured();
+        initHomeReviews();
+    }
+
+    // Home: prova social — últimas avaliações aprovadas numa faixa logo abaixo
+    // dos destaques. Revela a seção só se houver avaliação aprovada; sem nada,
+    // fica oculta. Não depende de produto (as avaliações são gerais).
+    let _revWired = false;
+    async function initHomeReviews() {
+        const track = document.getElementById("homeReviewsTrack");
+        const section = document.getElementById("home-reviews");
+        if (!track || !section) return;
+        const cfg = window.CONFIG || {};
+        const url = cfg.supabaseUrl, anon = cfg.supabaseAnon;
+        if (!url || !anon) { section.hidden = true; return; }
+        const H = { apikey: anon, Authorization: "Bearer " + anon };
+        let list = [];
+        try {
+            const r = await fetch(`${url}/rest/v1/reviews?status=eq.approved&order=created_at.desc&limit=12&select=name,rating,comment,image_url,product_name`, { headers: H });
+            list = await r.json(); if (!Array.isArray(list)) list = [];
+        } catch (_) {}
+        if (!list.length) { section.hidden = true; return; }
+        section.hidden = false;
+        track.innerHTML = list.map((x) => {
+            const imgs = reviewImgs(x.image_url);
+            return `<article class="review review--home" role="listitem">
+                <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
+                ${x.product_name ? `<p class="review__tag">${esc(x.product_name)}</p>` : ""}
+                ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
+                ${imgs.length ? `<div class="review__imgs">${imgs.slice(0, 1).map((u) => `<img class="review__img" src="${esc(u)}" alt="" loading="lazy">`).join("")}</div>` : ""}
+            </article>`;
+        }).join("");
+        track.setAttribute("aria-busy", "false");
+        if (!_revWired) {
+            _revWired = true;
+            const step = () => Math.max(240, track.clientWidth * 0.85);
+            const prev = document.querySelector("[data-rev-prev]");
+            const next = document.querySelector("[data-rev-next]");
+            if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
+            if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+            document.addEventListener("language:change", initHomeReviews);
+        }
     }
 
     // Home: dois carrosséis de destaque (Brasil e Geral) definidos em
