@@ -237,12 +237,24 @@ create policy "authenticated write aliases"  on public.club_aliases   for all   
 -- ----------------------------------------------------------------------------
 create or replace function public.usage_report()
 returns jsonb
-language sql
+language plpgsql
 security definer
 set search_path = public, storage
 as $$
-  select jsonb_build_object(
-    'db_bytes', pg_database_size(current_database()),
+declare db bigint;
+begin
+  -- "Database size" do painel do Supabase = soma de TODOS os bancos do cluster
+  -- (postgres + template0/1 + _supabase + _analytics), não só o current_database
+  -- (por isso o painel mostra ~27 MB e pg_database_size(current) só ~11 MB).
+  -- Requer pg_read_all_stats (o role postgres tem no Supabase); se faltar, cai
+  -- de volta no banco atual.
+  begin
+    select coalesce(sum(pg_database_size(datname)), 0) into db from pg_database;
+  exception when others then
+    db := pg_database_size(current_database());
+  end;
+  return jsonb_build_object(
+    'db_bytes', db,
     'storage_bytes', coalesce((select sum((metadata->>'size')::bigint) from storage.objects), 0),
     'storage_objects', (select count(*) from storage.objects),
     'tables', jsonb_build_object(
@@ -254,6 +266,7 @@ as $$
       'club_aliases',      (select count(*) from public.club_aliases)
     )
   );
+end;
 $$;
 revoke all on function public.usage_report() from public, anon;
 grant execute on function public.usage_report() to service_role;
