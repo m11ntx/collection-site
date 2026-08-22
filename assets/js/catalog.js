@@ -988,6 +988,24 @@ const Catalog = (() => {
         return [v];
     }
 
+    // Card de avaliação PADRÃO (mesmo layout na home e no mural da página):
+    // cabeçalho (estrelas+nome), etiqueta (nome da camisa), texto e um quadro
+    // de imagem de proporção fixa. Todos os blocos têm altura reservada, então
+    // os cards ficam do mesmo tamanho mesmo com textos/fotos diferentes.
+    // variant: "home" | "wall".
+    function reviewCardHTML(x, variant) {
+        const imgs = reviewImgs(x.image_url);
+        const frame = imgs.length
+            ? `<img class="review__img" src="${esc(imgs[0])}" alt="" loading="lazy">`
+            : `<div class="review__img review__img--empty"><span>M11NTX</span></div>`;
+        return `<article class="review review--${variant}" role="listitem">
+                <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
+                <div class="review__tagrow">${x.product_name ? `<span class="review__tag">${esc(x.product_name)}</span>` : ""}</div>
+                <p class="review__text">${esc(x.comment || "")}</p>
+                <div class="review__frame">${frame}</div>
+            </article>`;
+    }
+
     /* ---------- página "Avaliações" (menu do site) ----------
        Coleta central: qualquer pessoa avalia (nome, nota, texto, fotos) e um
        admin aprova. Mostra a "parede" de avaliações aprovadas (com fotos).
@@ -1021,9 +1039,9 @@ const Catalog = (() => {
                     <div class="reviews__rating" id="revRating" role="radiogroup" aria-label="${esc(I18N.t("reviews.rating"))}">
                         ${[1, 2, 3, 4, 5].map((i) => `<button type="button" class="reviews__star" data-v="${i}" aria-label="${i}">☆</button>`).join("")}
                     </div>
-                    <input class="reviews__field" name="name" placeholder="${esc(I18N.t("reviews.yourName"))}" required>
-                    <input class="reviews__field" id="revProduct" autocomplete="off" placeholder="${esc(I18N.t("reviews.productOptional"))}">
-                    <textarea class="reviews__field" name="comment" rows="4" placeholder="${esc(I18N.t("reviews.comment"))}"></textarea>
+                    <input class="reviews__field" name="name" maxlength="40" placeholder="${esc(I18N.t("reviews.yourName"))}" required>
+                    <input class="reviews__field" id="revProduct" autocomplete="off" maxlength="48" placeholder="${esc(I18N.t("reviews.productOptional"))}">
+                    <textarea class="reviews__field" name="comment" rows="4" maxlength="240" placeholder="${esc(I18N.t("reviews.comment"))}"></textarea>
                     <label class="reviews__photo">${esc(I18N.t("reviews.photos"))}<input type="file" id="revPhotos" name="photos" accept="image/*" multiple></label>
                     <button type="submit" class="btn btn--primary" id="revSubmit">${esc(I18N.t("reviews.submit"))}</button>
                     <p class="reviews__msg" id="revMsg" role="status"></p>
@@ -1090,15 +1108,7 @@ const Catalog = (() => {
             }
             wall.setAttribute("aria-busy", "false");
             if (!list.length) { wall.innerHTML = `<p class="reviews-page__empty">${esc(I18N.t("reviews.wallEmpty"))}</p>`; return; }
-            wall.innerHTML = list.map((x) => {
-                const imgs = reviewImgs(x.image_url);
-                return `<article class="review review--wall">
-                    <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
-                    ${x.product_name ? `<p class="review__tag">${esc(x.product_name)}</p>` : ""}
-                    ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
-                    ${imgs.length ? `<div class="review__imgs">${imgs.map((u) => `<img class="review__img" src="${esc(u)}" alt="" loading="lazy">`).join("")}</div>` : ""}
-                </article>`;
-            }).join("");
+            wall.innerHTML = list.map((x) => reviewCardHTML(x, "wall")).join("");
         }
 
         render();
@@ -1407,15 +1417,7 @@ const Catalog = (() => {
         } catch (_) {}
         if (!list.length) { section.hidden = true; return; }
         section.hidden = false;
-        track.innerHTML = list.map((x) => {
-            const imgs = reviewImgs(x.image_url);
-            return `<article class="review review--home" role="listitem">
-                <div class="review__top"><span class="review__stars">${_stars(x.rating)}</span><b class="review__name">${esc(x.name || "")}</b></div>
-                ${x.product_name ? `<p class="review__tag">${esc(x.product_name)}</p>` : ""}
-                ${x.comment ? `<p class="review__text">${esc(x.comment)}</p>` : ""}
-                ${imgs.length ? `<div class="review__imgs">${imgs.slice(0, 1).map((u) => `<img class="review__img" src="${esc(u)}" alt="" loading="lazy">`).join("")}</div>` : ""}
-            </article>`;
-        }).join("");
+        track.innerHTML = list.map((x) => reviewCardHTML(x, "home")).join("");
         track.setAttribute("aria-busy", "false");
         if (!_revWired) {
             _revWired = true;

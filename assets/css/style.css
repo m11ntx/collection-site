@@ -444,17 +444,25 @@ body::after{
 @media(min-width:640px){ .reviews-page__wall{ grid-template-columns:repeat(2,1fr); } }
 @media(min-width:960px){ .reviews-page__wall{ grid-template-columns:repeat(3,1fr); } }
 .reviews-page__empty{ color:var(--color-gray); }
-.review__tag{ display:inline-block; font-size:.72rem; color:var(--color-gold); border:1px solid rgba(212,175,95,.35); border-radius:999px; padding:.1rem .55rem; margin:.15rem 0 .35rem; }
-.review__imgs{ display:flex; flex-wrap:wrap; gap:.4rem; margin-top:.5rem; }
-.review--wall .review__img{ width:calc(50% - .2rem); max-width:none; margin:0; object-fit:cover; aspect-ratio:1/1; }
-/* Faixa de prova social na home: carrossel horizontal, texto e foto completos */
-.reviews-strip{ align-items:flex-start; }
-.reviews-strip > *{ flex:0 0 300px; max-width:340px; }
-@media(min-width:640px){ .reviews-strip > *{ flex:0 0 320px; max-width:340px; } }
-.review--home{ display:flex; flex-direction:column; }
-.review--home .review__text{ margin:.2rem 0 .6rem; }            /* texto completo (sem corte) */
-.review--home .review__imgs{ margin-top:auto; }
-.review--home .review__img{ width:100%; max-width:none; max-height:300px; margin:0; object-fit:contain; aspect-ratio:auto; background:rgba(255,255,255,.04); border-radius:10px; }
+/* ---- Card de avaliação PADRÃO (home + mural): mesmos blocos de altura fixa,
+       então todos os cards ficam do mesmo tamanho ---- */
+.review--home, .review--wall{ display:flex; flex-direction:column; gap:.5rem; height:100%; }
+.review--home .review__top, .review--wall .review__top{ margin:0; }
+.review__tagrow{ min-height:1.55rem; display:flex; align-items:center; }
+.review__tag{ display:inline-block; max-width:100%; font-size:.72rem; color:var(--color-gold); border:1px solid rgba(212,175,95,.35); border-radius:999px; padding:.12rem .6rem; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
+.review--home .review__text, .review--wall .review__text{
+    color:var(--color-gray); font-size:.88rem; line-height:1.5; margin:0;
+    display:-webkit-box; -webkit-line-clamp:4; -webkit-box-orient:vertical; overflow:hidden;
+    height:calc(4 * 1.5 * .88rem); }          /* 4 linhas SEMPRE reservadas */
+.review__frame{ margin-top:auto; width:100%; aspect-ratio:4/3; border-radius:10px; overflow:hidden;
+    background:linear-gradient(145deg,rgba(255,255,255,.05),rgba(255,255,255,.01)); border:1px solid var(--color-border); }
+.review__frame .review__img{ width:100%; height:100%; max-width:none; margin:0; border-radius:0; object-fit:cover; display:block; }
+.review__img--empty{ width:100%; height:100%; display:grid; place-items:center; color:rgba(212,175,95,.45); font-weight:800; letter-spacing:.28em; font-size:.78rem; }
+
+/* Faixa da home: cards de largura fixa + PEEK do próximo (mostra que há mais) */
+.reviews-strip{ align-items:stretch; }
+.reviews-strip > *{ flex:0 0 300px; max-width:300px; }
+@media(max-width:639px){ .reviews-strip > *{ flex:0 0 82%; max-width:82%; } }
 
 /* ==========================================================
    SPRINT 3 — CATALOG INFRASTRUCTURE
