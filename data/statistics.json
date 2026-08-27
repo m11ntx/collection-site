@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3537,
+    "products": 3540,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,23 +8,23 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3424,
-    "unavailable": 113,
+    "available": 3426,
+    "unavailable": 114,
     "inventoryTracked": 0,
-    "withManufacturer": 2750
+    "withManufacturer": 2751
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 954,
+    "brasil": 956,
     "europa": 1498,
     "nba": 126,
     "resto-do-mundo": 229,
-    "selecoes": 692,
+    "selecoes": 693,
     "unknown": 1
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 954,
+    "brasileirao": 956,
     "bundesliga": 116,
     "eredivisie": 30,
     "la-liga": 359,
@@ -35,14 +35,14 @@
     "primeira-liga": 28,
     "saudi-pro-league": 31,
     "scottish-premiership": 23,
-    "selecoes": 692,
+    "selecoes": 693,
     "serie-a": 312,
     "super-lig": 1,
     "unknown": 164
   },
   "byRegion": {
     "africa": 17,
-    "americas": 235,
+    "americas": 236,
     "asia": 43,
     "europa": 395,
     "minas-gerais": 115,
@@ -50,7 +50,7 @@
     "norte": 11,
     "oceania": 2,
     "rio-de-janeiro": 343,
-    "sao-paulo": 286,
+    "sao-paulo": 288,
     "sul": 122,
     "unknown": 1891
   },
@@ -65,7 +65,7 @@
     "america-mexico": 2,
     "america-mineiro": 1,
     "argelia": 3,
-    "argentina": 56,
+    "argentina": 57,
     "arsenal": 82,
     "as-roma": 22,
     "aston-villa": 7,
@@ -184,7 +184,7 @@
     "olimpia": 4,
     "orlando-city": 2,
     "pais-de-gales": 2,
-    "palmeiras": 92,
+    "palmeiras": 93,
     "panama": 1,
     "paraguai": 2,
     "paris-saint-germain": 77,
@@ -211,7 +211,7 @@
     "santa-cruz": 8,
     "santiago-wanderers": 2,
     "santos": 52,
-    "sao-paulo": 34,
+    "sao-paulo": 35,
     "seattle-fc": 1,
     "senegal": 2,
     "sheffield-united": 1,
@@ -397,7 +397,7 @@
     "2024": 10,
     "2024/2025": 4,
     "2024/25": 17,
-    "2025": 22,
+    "2025": 23,
     "2025/26": 33,
     "2026": 26,
     "2026/27": 12,
@@ -409,7 +409,7 @@
     "24/35": 1,
     "25/26": 329,
     "2526": 1,
-    "26/27": 483,
+    "26/27": 485,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -436,20 +436,20 @@
     "unknown": 216
   },
   "byCategory": {
-    "current": 272,
+    "current": 273,
     "manga-longa": 202,
     "retro": 766,
-    "unknown": 2297
+    "unknown": 2299
   },
   "byVersion": {
-    "fan": 1563,
-    "player": 369,
-    "unknown": 1605
+    "fan": 1564,
+    "player": 370,
+    "unknown": 1606
   },
   "byGender": {
-    "kids": 247,
-    "men": 2539,
+    "kids": 248,
+    "men": 2540,
     "unknown": 528,
-    "women": 223
+    "women": 224
   }
 }
