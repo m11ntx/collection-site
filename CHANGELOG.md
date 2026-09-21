@@ -1,5 +1,30 @@
 # CHANGELOG
 
+## CS-65 — "Novidades": carrossel automático das 10 camisas mais recentes
+
+Home ganha um terceiro carrossel, **antes** de "Destaques Brasil"/"Destaques
+em geral" — mas, ao contrário desses dois (curados à mão em `featured.json`
+via `/admin`), este é 100% automático: lê `addedAt` de cada produto em
+`products.json` (já carimbado uma vez pelo pipeline quando o produto entra no
+catálogo — ver `models/canonical_product.py` no `catalog-pipeline`), ordena
+pela mesma regra permanente do catálogo (`productSort`: `addedAt` desc, com
+season desc como desempate/baseline) e mostra as 10 primeiras. Uma camisa nova
+entra e a mais antiga da lista sai sozinha a cada carga da home — nenhuma
+curadoria, nenhuma mudança no pipeline.
+
+- `index.html`: nova seção `#novidades` (mesmo padrão visual/markup de
+  `.home-featured`), inserida antes de `#destaques-brasil`. Botão "Ver todas"
+  vai para `pages/catalog.html`.
+- `assets/js/catalog.js`: `initNovidades()` — filtra `isBrowsable` + só
+  produtos com `addedAt` (`addedAtKey(p) > 0`), ordena com o `productSort`
+  já existente, corta em 10. Some a seção se nenhum produto tiver `addedAt`
+  (catálogo pré-existente à introdução do campo). Reaproveita `jerseyCard`
+  (mesmo badge "Novo" de `isNew()`) e o wiring de carrossel (setas/scroll) já
+  usado por `initFeatured`. CTA "Explorar a coleção" do hero agora prioriza
+  `#novidades` quando visível, antes de cair para o 1º destaque curado.
+- `assets/js/i18n.js`: `home.novidadesEyebrow`/`home.novidadesTitle` (pt/en).
+- `catalog.min.js`/`i18n.min.js` regenerados (`node scripts/gen/minify.js`).
+
 ## RN-001 — listagens escondem jerseys indisponíveis
 
 As superfícies de navegação (página de clube, coleção-plana, catálogo e busca)

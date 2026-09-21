@@ -71,6 +71,7 @@
             home: {
                 featuredEyebrow: "Mais pedidas", featuredTitle: "Camisas em destaque",
                 featuredSub: "Alguns destaques do catálogo — toque para montar seu pedido.",
+                novidadesEyebrow: "Chegou agora", novidadesTitle: "Novidades",
                 featuredBrasilEyebrow: "Futebol brasileiro", featuredBrasilTitle: "Destaques Brasil",
                 featuredGeralEyebrow: "Seleção da casa", featuredGeralTitle: "Destaques em geral",
                 seeAll: "Ver todas",
@@ -326,6 +327,7 @@
             home: {
                 featuredEyebrow: "Most wanted", featuredTitle: "Featured jerseys",
                 featuredSub: "A few highlights from the catalog — tap to build your order.",
+                novidadesEyebrow: "Just landed", novidadesTitle: "New arrivals",
                 featuredBrasilEyebrow: "Brazilian football", featuredBrasilTitle: "Brazil Highlights",
                 featuredGeralEyebrow: "House picks", featuredGeralTitle: "Featured jerseys",
                 seeAll: "View all",

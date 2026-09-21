@@ -225,6 +225,27 @@
 <!-- =========================================================
      CATALOG INFRASTRUCTURE (Sprint 3) — structure only, no products
 ========================================================== -->
+<!-- Novidades: as 10 camisas mais recentes (por addedAt), sempre em dia com
+     products.json -- sem curadoria manual, ao contrário dos destaques abaixo. -->
+<section class="home-featured" id="novidades" aria-labelledby="novidadesTitle" hidden>
+    <div class="section__inner">
+        <header class="home-featured__head">
+            <div>
+                <p class="section__eyebrow" data-i18n="home.novidadesEyebrow">Chegou agora</p>
+                <h2 class="section__title" id="novidadesTitle" data-i18n="home.novidadesTitle">Novidades</h2>
+            </div>
+            <a href="pages/catalog.html" class="home-featured__all">
+                <span data-i18n="home.seeAll">Ver todas</span> <span aria-hidden="true">&rarr;</span>
+            </a>
+        </header>
+        <div class="carousel">
+            <button type="button" class="carousel__nav carousel__nav--prev" data-nov-prev aria-label="Anterior">&lsaquo;</button>
+            <div class="carousel__track" id="novidadesTrack" role="list" aria-busy="true"></div>
+            <button type="button" class="carousel__nav carousel__nav--next" data-nov-next aria-label="Próximo">&rsaquo;</button>
+        </div>
+    </div>
+</section>
+
 <section class="home-featured" id="destaques-brasil" aria-labelledby="featuredBrasilTitle" hidden>
     <div class="section__inner">
         <header class="home-featured__head">
@@ -339,7 +360,7 @@
 </section>
 
 <script src="config/site.min.js?v=1512ac94" defer></script>
-<script src="assets/js/i18n.min.js?v=9173ecff" defer></script>
+<script src="assets/js/i18n.min.js?v=f6e0ca1b" defer></script>
 <script src="assets/js/seo.min.js?v=b8ac9eeb" defer></script>
 <script src="assets/js/analytics.min.js?v=ea4701c6" defer></script>
 <script src="assets/js/api.min.js?v=938ba552" defer></script>
@@ -350,7 +371,7 @@
 <script src="assets/js/services/localization.min.js?v=d65e537f" defer></script>
 <script src="assets/js/filters.min.js?v=7c7f5181" defer></script>
 <script src="assets/js/search.min.js?v=d5e6ece1" defer></script>
-<script src="assets/js/catalog.min.js?v=7f5f51b8" defer></script>
+<script src="assets/js/catalog.min.js?v=958236b3" defer></script>
 <script src="assets/js/ui.min.js?v=a227d100" defer></script>
 <script src="assets/js/cart.min.js?v=67f441ab" defer></script>
 <script src="assets/js/main.min.js?v=52dd7085" defer></script>

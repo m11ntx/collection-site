@@ -1407,6 +1407,9 @@ const Catalog = (() => {
         };
         render();
         _lastPageRerender = render;
+        // Awaited in order so initFeatured's "1st visible carousel" CTA logic
+        // sees novidades' final hidden state, not a mid-fetch default.
+        await initNovidades();
         initFeatured();
         initHomeReviews();
     }
@@ -1440,6 +1443,40 @@ const Catalog = (() => {
             if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
             if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
             document.addEventListener("language:change", initHomeReviews);
+        }
+    }
+
+    // Home: "Novidades" -- as 10 camisas inseridas mais recentemente
+    // (addedAt desc, mesma regra de productSort), 100% automático a partir de
+    // products.json: sem curadoria (ao contrário de featured.json abaixo), uma
+    // camisa nova entra e a mais antiga da lista cai fora sozinha a cada carga
+    // da home. Some se nenhum produto browsable tiver addedAt.
+    const NOVIDADES_COUNT = 10;
+    let _novWired = false;
+    async function initNovidades() {
+        const track = document.getElementById("novidadesTrack");
+        const section = document.getElementById("novidades");
+        if (!track || !section) return;
+        const products = await API.getProducts();
+        const list = (Array.isArray(products) ? products : [])
+            .filter(isBrowsable)
+            .filter((p) => addedAtKey(p) > 0)
+            .sort(productSort)
+            .slice(0, NOVIDADES_COUNT);
+        if (!list.length) { section.hidden = true; return; }
+        section.hidden = false;
+        fillGrid(track, list, jerseyCard, "");
+        track.setAttribute("aria-busy", "false");
+        if (window.ImageLoader) ImageLoader.hydrate(track);
+        if (!_novWired) {
+            _novWired = true;
+            const step = () => Math.max(240, track.clientWidth * 0.85);
+            const prev = document.querySelector("[data-nov-prev]");
+            const next = document.querySelector("[data-nov-next]");
+            if (prev) prev.addEventListener("click", () => track.scrollBy({ left: -step(), behavior: "smooth" }));
+            if (next) next.addEventListener("click", () => track.scrollBy({ left: step(), behavior: "smooth" }));
+            document.addEventListener("currency:change", initNovidades);
+            document.addEventListener("language:change", initNovidades);
         }
     }
 
@@ -1480,10 +1517,15 @@ const Catalog = (() => {
             track.setAttribute("aria-busy", "false");
             if (window.ImageLoader) ImageLoader.hydrate(track);
         });
-        // CTA "Explorar a coleção": vai para o 1º carrossel visível (Brasil
-        // antes de Geral); sem destaques, direto às coleções.
+        // CTA "Explorar a coleção": vai para o 1º carrossel visível (Novidades
+        // antes de Brasil antes de Geral); sem nenhum, direto às coleções.
+        const novSection = document.getElementById("novidades");
+        const novVisible = novSection && !novSection.hidden;
         const exploreBtn = document.getElementById("exploreButton");
-        if (exploreBtn) exploreBtn.setAttribute("href", firstShown ? "#" + firstShown : "#collections");
+        if (exploreBtn) {
+            const target = novVisible ? "novidades" : firstShown;
+            exploreBtn.setAttribute("href", target ? "#" + target : "#collections");
+        }
         if (!_featWired) {
             _featWired = true;
             FEAT_GROUPS.forEach((g) => {
