@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3599,
+    "products": 3601,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,7 +8,7 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3461,
+    "available": 3463,
     "unavailable": 138,
     "inventoryTracked": 0,
     "withManufacturer": 2769
@@ -19,7 +19,7 @@
     "europa": 1507,
     "nba": 126,
     "resto-do-mundo": 233,
-    "selecoes": 698,
+    "selecoes": 700,
     "unknown": 1
   },
   "byLeague": {
@@ -35,14 +35,14 @@
     "primeira-liga": 28,
     "saudi-pro-league": 31,
     "scottish-premiership": 23,
-    "selecoes": 698,
+    "selecoes": 700,
     "serie-a": 313,
     "super-lig": 1,
     "unknown": 164
   },
   "byRegion": {
     "africa": 17,
-    "americas": 240,
+    "americas": 242,
     "asia": 43,
     "europa": 396,
     "minas-gerais": 118,
@@ -91,7 +91,7 @@
     "botafogo": 41,
     "botafogo-ribeirao-preto": 1,
     "bragantino": 15,
-    "brasil": 104,
+    "brasil": 106,
     "cabo-verde": 2,
     "canada": 1,
     "ceara": 2,
@@ -408,7 +408,7 @@
     "24/25": 1518,
     "24/35": 1,
     "25/26": 332,
-    "26/27": 530,
+    "26/27": 532,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -435,19 +435,19 @@
     "unknown": 221
   },
   "byCategory": {
-    "current": 317,
+    "current": 319,
     "manga-longa": 205,
     "retro": 767,
     "unknown": 2310
   },
   "byVersion": {
-    "fan": 1600,
+    "fan": 1602,
     "player": 383,
     "unknown": 1616
   },
   "byGender": {
     "kids": 249,
-    "men": 2587,
+    "men": 2589,
     "unknown": 535,
     "women": 228
   }
