@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3601,
+    "products": 3608,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,23 +8,23 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3463,
+    "available": 3470,
     "unavailable": 138,
     "inventoryTracked": 0,
-    "withManufacturer": 2769
+    "withManufacturer": 2770
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 997,
+    "brasil": 1003,
     "europa": 1507,
     "nba": 126,
     "resto-do-mundo": 233,
-    "selecoes": 700,
+    "selecoes": 701,
     "unknown": 1
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 997,
+    "brasileirao": 1003,
     "bundesliga": 117,
     "eredivisie": 30,
     "la-liga": 363,
@@ -35,22 +35,22 @@
     "primeira-liga": 28,
     "saudi-pro-league": 31,
     "scottish-premiership": 23,
-    "selecoes": 700,
+    "selecoes": 701,
     "serie-a": 313,
     "super-lig": 1,
     "unknown": 164
   },
   "byRegion": {
     "africa": 17,
-    "americas": 242,
+    "americas": 243,
     "asia": 43,
     "europa": 396,
     "minas-gerais": 118,
-    "nordeste": 80,
+    "nordeste": 81,
     "norte": 11,
     "oceania": 2,
-    "rio-de-janeiro": 361,
-    "sao-paulo": 303,
+    "rio-de-janeiro": 365,
+    "sao-paulo": 304,
     "sul": 124,
     "unknown": 1904
   },
@@ -65,7 +65,7 @@
     "america-mexico": 2,
     "america-mineiro": 1,
     "argelia": 3,
-    "argentina": 59,
+    "argentina": 60,
     "arsenal": 82,
     "as-roma": 23,
     "aston-villa": 7,
@@ -110,7 +110,7 @@
     "columbus-crew": 2,
     "como-1907": 1,
     "coreia-do-sul": 4,
-    "corinthians": 89,
+    "corinthians": 90,
     "costa-rica": 1,
     "croacia": 8,
     "cruzeiro": 61,
@@ -132,7 +132,7 @@
     "fc-porto": 9,
     "filipinas": 1,
     "fiorentina": 10,
-    "flamengo": 201,
+    "flamengo": 205,
     "fluminense": 59,
     "fortaleza": 5,
     "franca": 37,
@@ -231,7 +231,7 @@
     "unknown": 165,
     "uruguai": 9,
     "vasco-da-gama": 60,
-    "vitoria": 5,
+    "vitoria": 6,
     "wolverhampton-wanderers": 2
   },
   "bySeason": {
@@ -399,7 +399,7 @@
     "2024/25": 18,
     "2025": 23,
     "2025/26": 34,
-    "2026": 29,
+    "2026": 30,
     "2026/27": 13,
     "21/20": 1,
     "22/23": 1,
@@ -408,7 +408,7 @@
     "24/25": 1518,
     "24/35": 1,
     "25/26": 332,
-    "26/27": 532,
+    "26/27": 533,
     "57/62": 1,
     "88/89": 1,
     "88/90": 1,
@@ -432,23 +432,23 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 221
+    "unknown": 226
   },
   "byCategory": {
-    "current": 319,
+    "current": 326,
     "manga-longa": 205,
     "retro": 767,
     "unknown": 2310
   },
   "byVersion": {
-    "fan": 1602,
+    "fan": 1604,
     "player": 383,
-    "unknown": 1616
+    "unknown": 1621
   },
   "byGender": {
     "kids": 249,
-    "men": 2589,
-    "unknown": 535,
+    "men": 2592,
+    "unknown": 539,
     "women": 228
   }
 }
