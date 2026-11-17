@@ -1,33 +1,33 @@
 {
   "totals": {
-    "products": 3816,
+    "products": 3854,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
-    "clubs": 177,
+    "clubs": 178,
     "manufacturers": 18
   },
   "products": {
-    "available": 3587,
-    "unavailable": 229,
+    "available": 3701,
+    "unavailable": 153,
     "inventoryTracked": 0,
-    "withManufacturer": 2788
+    "withManufacturer": 2792
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 1037,
-    "europa": 1639,
-    "nba": 126,
+    "brasil": 1041,
+    "europa": 1640,
+    "nba": 159,
     "resto-do-mundo": 244,
     "selecoes": 718,
     "unknown": 15
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 1037,
+    "brasileirao": 1041,
     "bundesliga": 132,
     "eredivisie": 30,
-    "la-liga": 397,
+    "la-liga": 398,
     "libertadores": 120,
     "ligue-1": 104,
     "mls": 91,
@@ -38,7 +38,7 @@
     "selecoes": 718,
     "serie-a": 347,
     "super-lig": 1,
-    "unknown": 180
+    "unknown": 213
   },
   "byRegion": {
     "africa": 17,
@@ -49,10 +49,10 @@
     "nordeste": 88,
     "norte": 11,
     "oceania": 2,
-    "rio-de-janeiro": 378,
-    "sao-paulo": 313,
-    "sul": 125,
-    "unknown": 2061
+    "rio-de-janeiro": 379,
+    "sao-paulo": 314,
+    "sul": 127,
+    "unknown": 2095
   },
   "byClub": {
     "ac-milan": 89,
@@ -111,6 +111,7 @@
     "como-1907": 3,
     "coreia-do-sul": 4,
     "corinthians": 94,
+    "coritiba": 2,
     "costa-rica": 1,
     "croacia": 8,
     "cruzeiro": 64,
@@ -132,7 +133,7 @@
     "fc-porto": 9,
     "filipinas": 1,
     "fiorentina": 10,
-    "flamengo": 213,
+    "flamengo": 214,
     "fluminense": 60,
     "fortaleza": 5,
     "franca": 37,
@@ -184,7 +185,7 @@
     "olimpia": 4,
     "orlando-city": 2,
     "pais-de-gales": 2,
-    "palmeiras": 100,
+    "palmeiras": 101,
     "panama": 1,
     "paraguai": 2,
     "paris-saint-germain": 83,
@@ -201,7 +202,7 @@
     "rangers": 3,
     "rb-leipzig": 9,
     "real-betis": 5,
-    "real-madrid": 180,
+    "real-madrid": 181,
     "real-salt-lake": 1,
     "remo": 5,
     "republica-tcheca": 2,
@@ -228,7 +229,7 @@
     "turquia": 2,
     "ucrania": 1,
     "universidad-do-chile": 2,
-    "unknown": 185,
+    "unknown": 218,
     "uruguai": 9,
     "vasco-da-gama": 63,
     "vitoria": 7,
@@ -399,18 +400,18 @@
     "2024/2025": 4,
     "2024/25": 18,
     "2025": 24,
-    "2025/26": 34,
-    "2026": 44,
+    "2025/26": 35,
+    "2026": 45,
     "2026/27": 22,
     "2027": 1,
     "21/20": 1,
     "22/23": 1,
-    "23/24": 2,
+    "23/24": 3,
     "24/15": 1,
     "24/25": 1518,
     "24/35": 1,
-    "25/26": 337,
-    "26/27": 699,
+    "25/26": 361,
+    "26/27": 705,
     "27/28": 1,
     "57/62": 1,
     "88/89": 1,
@@ -435,23 +436,23 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 234
+    "unknown": 239
   },
   "byCategory": {
-    "current": 355,
+    "current": 358,
     "manga-longa": 239,
-    "retro": 767,
-    "unknown": 2455
+    "retro": 771,
+    "unknown": 2486
   },
   "byVersion": {
-    "fan": 1739,
-    "player": 429,
-    "unknown": 1648
+    "fan": 1742,
+    "player": 432,
+    "unknown": 1680
   },
   "byGender": {
-    "kids": 254,
-    "men": 2695,
-    "unknown": 635,
+    "kids": 255,
+    "men": 2700,
+    "unknown": 667,
     "women": 232
   }
 }

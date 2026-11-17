@@ -120,6 +120,16 @@
     "image": "corinthians"
   },
   {
+    "id": "coritiba",
+    "leagueId": "brasileirao",
+    "regionId": "sul",
+    "slug": "coritiba",
+    "name": "Coritiba",
+    "country": "Brazil",
+    "badge": null,
+    "image": null
+  },
+  {
     "id": "cruzeiro",
     "leagueId": "brasileirao",
     "regionId": "minas-gerais",
