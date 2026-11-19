@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3854,
+    "products": 3858,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -9,17 +9,17 @@
   },
   "products": {
     "available": 3701,
-    "unavailable": 153,
+    "unavailable": 157,
     "inventoryTracked": 0,
-    "withManufacturer": 2792
+    "withManufacturer": 2795
   },
   "byCollection": {
     "acessorios": 37,
     "brasil": 1041,
-    "europa": 1640,
+    "europa": 1643,
     "nba": 159,
     "resto-do-mundo": 244,
-    "selecoes": 718,
+    "selecoes": 719,
     "unknown": 15
   },
   "byLeague": {
@@ -27,7 +27,7 @@
     "brasileirao": 1041,
     "bundesliga": 132,
     "eredivisie": 30,
-    "la-liga": 398,
+    "la-liga": 401,
     "libertadores": 120,
     "ligue-1": 104,
     "mls": 91,
@@ -35,13 +35,13 @@
     "primeira-liga": 36,
     "saudi-pro-league": 32,
     "scottish-premiership": 23,
-    "selecoes": 718,
+    "selecoes": 719,
     "serie-a": 347,
     "super-lig": 1,
     "unknown": 213
   },
   "byRegion": {
-    "africa": 17,
+    "africa": 18,
     "americas": 252,
     "asia": 43,
     "europa": 404,
@@ -52,7 +52,7 @@
     "rio-de-janeiro": 379,
     "sao-paulo": 314,
     "sul": 127,
-    "unknown": 2095
+    "unknown": 2098
   },
   "byClub": {
     "ac-milan": 89,
@@ -92,7 +92,7 @@
     "botafogo-ribeirao-preto": 1,
     "bragantino": 15,
     "brasil": 108,
-    "cabo-verde": 2,
+    "cabo-verde": 3,
     "canada": 1,
     "ceara": 4,
     "celtic": 20,
@@ -202,7 +202,7 @@
     "rangers": 3,
     "rb-leipzig": 9,
     "real-betis": 5,
-    "real-madrid": 181,
+    "real-madrid": 184,
     "real-salt-lake": 1,
     "remo": 5,
     "republica-tcheca": 2,
@@ -405,13 +405,13 @@
     "2026/27": 22,
     "2027": 1,
     "21/20": 1,
-    "22/23": 1,
-    "23/24": 3,
+    "22/23": 2,
+    "23/24": 5,
     "24/15": 1,
     "24/25": 1518,
     "24/35": 1,
     "25/26": 361,
-    "26/27": 705,
+    "26/27": 706,
     "27/28": 1,
     "57/62": 1,
     "88/89": 1,
@@ -441,18 +441,18 @@
   "byCategory": {
     "current": 358,
     "manga-longa": 239,
-    "retro": 771,
-    "unknown": 2486
+    "retro": 772,
+    "unknown": 2489
   },
   "byVersion": {
-    "fan": 1742,
+    "fan": 1746,
     "player": 432,
     "unknown": 1680
   },
   "byGender": {
     "kids": 255,
-    "men": 2700,
-    "unknown": 667,
+    "men": 2703,
+    "unknown": 668,
     "women": 232
   }
 }
