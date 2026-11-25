@@ -1,6 +1,6 @@
 {
   "totals": {
-    "products": 3879,
+    "products": 3881,
     "collections": 6,
     "leagues": 15,
     "regions": 11,
@@ -8,14 +8,14 @@
     "manufacturers": 18
   },
   "products": {
-    "available": 3695,
-    "unavailable": 184,
+    "available": 3722,
+    "unavailable": 159,
     "inventoryTracked": 0,
     "withManufacturer": 2800
   },
   "byCollection": {
     "acessorios": 37,
-    "brasil": 1048,
+    "brasil": 1050,
     "europa": 1653,
     "nba": 160,
     "resto-do-mundo": 244,
@@ -24,7 +24,7 @@
   },
   "byLeague": {
     "allsvenskan": 1,
-    "brasileirao": 1048,
+    "brasileirao": 1050,
     "bundesliga": 132,
     "eredivisie": 30,
     "la-liga": 411,
@@ -49,7 +49,7 @@
     "nordeste": 93,
     "norte": 11,
     "oceania": 2,
-    "rio-de-janeiro": 380,
+    "rio-de-janeiro": 382,
     "sao-paulo": 315,
     "sul": 127,
     "unknown": 2110
@@ -133,7 +133,7 @@
     "fc-porto": 9,
     "filipinas": 1,
     "fiorentina": 10,
-    "flamengo": 215,
+    "flamengo": 217,
     "fluminense": 60,
     "fortaleza": 5,
     "franca": 37,
@@ -436,22 +436,22 @@
     "99/00": 2,
     "99/01": 1,
     "99/20": 1,
-    "unknown": 240
+    "unknown": 242
   },
   "byCategory": {
     "current": 367,
     "manga-longa": 242,
     "retro": 772,
-    "unknown": 2498
+    "unknown": 2500
   },
   "byVersion": {
-    "fan": 1753,
+    "fan": 1755,
     "player": 444,
     "unknown": 1682
   },
   "byGender": {
     "kids": 256,
-    "men": 2718,
+    "men": 2720,
     "unknown": 669,
     "women": 236
   }
